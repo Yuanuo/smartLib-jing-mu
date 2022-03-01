@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "大集會正法經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwrA6of",
+    "created": 1646116894328,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwrA6nn",
+      "created": 1646116894328,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwrA6no",
+        "created": 1646116894328,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrA6np",
+        "created": 1646116894328,
+        "text": "大集會正法經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrA6nq",
+        "created": 1646116894328,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrA6nr",
+        "created": 1646116894328,
+        "text": "大集会正法经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrA6ns",
+        "created": 1646116894328,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrA6nt",
+        "created": 1646116894328,
+        "text": "da ji hui zheng fa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrA6o1",
+        "created": 1646116894328,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrA6o2",
+        "created": 1646116894328,
+        "text": "Ta chi hui cheng fa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrA6o3",
+        "created": 1646116894328,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrA6o4",
+        "created": 1646116894328,
+        "text": "Sanghāṭīsūtradharmaparyāya",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrA6o5",
+        "created": 1646116894328,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrA6o6",
+        "created": 1646116894328,
+        "text": "Zuṅ-gi mdoḥi chos-kyi-rnam-graṅs"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrA6o7",
+        "created": 1646116894328,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrA6o8",
+        "created": 1646116894328,
+        "text": "대집회정법경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrA6nu",
+      "created": 1646116894328,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrA6nv",
+      "created": 1646116894328,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrA6nw",
+      "created": 1646116894328,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrA6nx",
+       "created": 1646116894328,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYwrA6ny",
+       "created": 1646116894328,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrA6nz",
+      "created": 1646116894328,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrA6o0",
+      "created": 1646116894328,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrA6o9",
+      "created": 1646116894328,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrA6oA",
+      "created": 1646116894328,
+      "text": "Ta-chung-lu vol. 12, p.1a-3a."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwrA6oB",
+     "created": 1646116894328,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwrA6oC",
+      "created": 1646116894328,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrA6oD",
+      "created": 1646116894328,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrA6oE",
+      "created": 1646116894328,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrA6oF",
+       "created": 1646116894328,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oG",
+       "created": 1646116894328,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oH",
+       "created": 1646116894328,
+       "text": "【崇寧藏】No.1398《佛說大集會正法經》 卷數：5 千字文：丁(560)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oI",
+       "created": 1646116894328,
+       "text": "【毘盧藏】No.1394《佛說大集會正法經》宋施護譯 千字文：丁(560)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oJ",
+       "created": 1646116894328,
+       "text": "【圓覺藏】No.1396《大集會正法經》 卷數：5 千字文：奄(537)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oK",
+       "created": 1646116894328,
+       "text": "【趙城金藏】No.1410《大集會正法經》 卷數：5 千字文：曲"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oL",
+       "created": 1646116894328,
+       "text": "【資福藏】No.1402《佛說大集會正法經》 卷數：5 (五卷) 千字文：奄(537)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oM",
+       "created": 1646116894328,
+       "text": "【磧砂藏】No.1405《佛說大集會正法經》宋 施護譯 部別： / 冊數：34 / 頁數：610 / 卷數：5 千字文：奄 1 (537)-奄 5 (537)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oN",
+       "created": 1646116894328,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oO",
+       "created": 1646116894328,
+       "text": "【高麗藏】No.1412《大集會正法經》施護譯 部別：宋續入藏經 / 冊數：40 頁數：46 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：約"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oP",
+       "created": 1646116894328,
+       "text": "【普寧藏】No.1396《佛說大集會正法經》 卷數：5 千字文：奄(537)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oQ",
+       "created": 1646116894328,
+       "text": "【至元錄】No.152《佛說大集會正法經》宋天竺三藏施護譯 卷數：5 / 譯次：(新譯) 千字文：拱(110)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oR",
+       "created": 1646116894328,
+       "text": "【洪武南藏】No.1250《佛說大集會正法經》西天譯經三藏朝奉大夫試鴻臚卿傳法大師臣施護 奉詔譯 冊數：190 / 頁數：193 / 卷數：5 千字文：奄 1 (537)-奄 5 (537)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oS",
+       "created": 1646116894328,
+       "text": "【永樂南藏】No.1016《佛說大集會正法經》 部別：宋元入藏諸大小乘經 千字文：淵(277)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oT",
+       "created": 1646116894328,
+       "text": "【永樂北藏】No.1004《佛說大集會正法經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：70 / 頁數：395 / 卷數：5 千字文：清"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oU",
+       "created": 1646116894328,
+       "text": "【嘉興藏】No.965《佛說大集會正法經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0965 千字文 / 函號：［正藏］ 清(264)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oV",
+       "created": 1646116894328,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oW",
+       "created": 1646116894328,
+       "text": "【乾隆藏】No.967《佛說大集會正法經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：363 / 卷數：5 千字文：清"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oX",
+       "created": 1646116894328,
+       "text": "【縮刻藏】No.110《佛說大集會正法經》宋施護譯 部別：大乘經-方等部 / 卷數：5 千字文：玄 9 (3)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oY",
+       "created": 1646116894328,
+       "text": "【卍正藏】No.976《佛說大集會正法經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：664 / 卷數：5 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oZ",
+       "created": 1646116894328,
+       "text": "【大正藏】No.424《大集會正法經》宋 施護譯 部別：大集部全 / 冊數：13 / 頁數：976 / 卷數：5 相關經典：縮-玄9,卍-15.9,國-大6 參考資料：No.423"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oa",
+       "created": 1646116894328,
+       "text": "【佛教大藏經】No.111《佛說大集會正法經》宋 施護譯 部別：大乘經 方等部四 / 冊數：6 / 頁數：661 / 卷數：5"
+      }},
+      {"data": {
+       "id": "z5cYwrA6ob",
+       "created": 1646116894328,
+       "text": "【中華藏】No.1536《佛說大集會正法經》西天譯經三藏朝奉大夫試鴻臚卿傳法大師施護奉詔譯 冊數：67 / 頁數：230 / 卷數：5 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oc",
+       "created": 1646116894328,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrA6od",
+       "created": 1646116894328,
+       "text": "【南條文雄編號】 Nj. 0972"
+      }},
+      {"data": {
+       "id": "z5cYwrA6oe",
+       "created": 1646116894328,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：424"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwmvdl",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

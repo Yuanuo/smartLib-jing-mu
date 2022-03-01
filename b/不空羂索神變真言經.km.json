@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "不空羂索神變真言經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxOhGQE",
+    "created": 1646116896407,
+    "text": "現藏錄（唐 菩提流志譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxOhGPH",
+      "created": 1646116896407,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxOhGPI",
+        "created": 1646116896407,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOhGPJ",
+        "created": 1646116896407,
+        "text": "不空羂索神變真言經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOhGPK",
+        "created": 1646116896407,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOhGPL",
+        "created": 1646116896407,
+        "text": "不空羂索神变真言经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOhGPM",
+        "created": 1646116896407,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOhGPN",
+        "created": 1646116896407,
+        "text": "bu kong juan suo shen bian zhen yan jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOhGPV",
+        "created": 1646116896407,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOhGPW",
+        "created": 1646116896407,
+        "text": "Pu k'ung chüan so shen pien chen yen ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOhGPX",
+        "created": 1646116896407,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOhGPY",
+        "created": 1646116896407,
+        "text": "Amoghapāśakalparāja(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOhGPZ",
+        "created": 1646116896407,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOhGPa",
+        "created": 1646116896407,
+        "text": "Don-yod-paḥi-shags-paḥi cho-ga shib-moḥi rgyal-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOhGPb",
+        "created": 1646116896407,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOhGPc",
+        "created": 1646116896407,
+        "text": "불공견삭신변진언경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxOhGPO",
+      "created": 1646116896407,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOhGPP",
+      "created": 1646116896407,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOhGPQ",
+      "created": 1646116896407,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxOhGPR",
+       "created": 1646116896407,
+       "text": "唐 菩提流志譯"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPS",
+       "created": 1646116896407,
+       "text": "菩提流志",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxOhGPT",
+      "created": 1646116896407,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOhGPU",
+      "created": 1646116896407,
+      "text": "30"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOhGPd",
+      "created": 1646116896407,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOhGPe",
+      "created": 1646116896407,
+      "text": "Translation by Bodhiruci: summer of the 3rd year of Shen Lung (神龍), T'ang dynasty (唐) (A.D.707) in Hsi-ch'ung-fu Monastery (西崇福寺). T.2154-569b:23"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOhGPf",
+      "created": 1646116896407,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxOhGPg",
+       "created": 1646116896407,
+       "text": "【北京版】Rgyud (ma)l-255aRgyud (ma)261a-263a(ḥa)225a-227aRgyud (ḥa)222a-225a"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPh",
+       "created": 1646116896407,
+       "text": "【奈塘版】Rgyud (ba-ḥog)lb-569aRgyud (pha)299b-302b"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPi",
+       "created": 1646116896407,
+       "text": "【德格版】Rgyud-ḥbum (ma)-(tsa)57bRgyud-ḥbum (tsa)58a-59bGzuṅs-ḥdus (E)226b-228bRgyud-ḥbum (tsa)59b-62aGzuṅs-ḥdus (E)223b-226b"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPj",
+       "created": 1646116896407,
+       "text": "【拉薩版】Rgyud (pha)197a-(ba)360bRgyud (pa)336b-340aRgyud (pa)472a-476a"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPk",
+       "created": 1646116896407,
+       "text": "【卓尼版】Rgyud (ma)lb-297bRgyud (ma)304a-306a(ḥa)243b-246aRgyud (ḥa)240b-243b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxOhGPl",
+      "created": 1646116896407,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOhGPm",
+      "created": 1646116896407,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOhGPn",
+      "created": 1646116896407,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxOhGPo",
+       "created": 1646116896407,
+       "text": "【房山石經】No.283《勸請諸佛菩薩真言》 冊數：3 / 頁數：595 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.476《不空羂索神變真言經》(大唐)南天竺三藏菩提流志譯 冊數：10 / 頁數：453 / 卷數：30 / 刻經年代：大安五年 / 瀏覽：目錄圖檔 千字文：貞潔男"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPp",
+       "created": 1646116896407,
+       "text": "【開寶藏】No.287《不空羂索神變真言經》唐 南天竺三藏菩提流志 譯 部別：大乘經 五大部外諸重譯經 / 卷數：30 千字文：女-貞"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPq",
+       "created": 1646116896407,
+       "text": "【崇寧藏】No.288《不空羂索神變真言經》 卷數：30 千字文：慕(162)-絜(164)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPr",
+       "created": 1646116896407,
+       "text": "【毘盧藏】No.284《不空羂索神變真言經》唐菩提流支譯 參考年代：(靖康元．二、四、五、十、十一)(靖康二．正) 千字文：慕(162)-潔(164)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPs",
+       "created": 1646116896407,
+       "text": "【圓覺藏】No.296《不空羂索神變真言經》 卷數：30 千字文：慕(162)-潔(164)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPt",
+       "created": 1646116896407,
+       "text": "【趙城金藏】No.287《不空羂索經》 卷數：30 千字文：女-貞"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPu",
+       "created": 1646116896407,
+       "text": "【資福藏】No.300《不空羂索神變真言經》 卷數：30 (一部三十卷) 千字文：慕(162)-絜(164)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPv",
+       "created": 1646116896407,
+       "text": "【磧砂藏】No.301《不空羂索神變真言經》唐 菩提流支譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：242 / 卷數：30 千字文：慕 1 (162)-潔 10 (164)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPw",
+       "created": 1646116896407,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPx",
+       "created": 1646116896407,
+       "text": "【高麗藏】No.287《不空羂索神變眞言經》大唐天竺三藏菩提流支譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：641 / 卷數：30 / 連結：高麗大藏經 (圖檔) 千字文：女-貞"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPy",
+       "created": 1646116896407,
+       "text": "【普寧藏】No.295《不空羂索神變真言經》 卷數：30 千字文：慕(162)-絜(164)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGPz",
+       "created": 1646116896407,
+       "text": "【至元錄】No.537《不空羂索神變真言經》唐南天竺三藏菩提流志譯 梵名：阿唎(二合)亞　阿穆迦巴沙迦羅(二合)八阿囉扎拏麻 / 卷數：30 / 譯次：(當第四譯) 千字文：堂(222)-聽(224)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ0",
+       "created": 1646116896407,
+       "text": "【洪武南藏】No.267《不空羂索神變真言經》唐 南天竺三藏法師菩提流志 奉詔譯 冊數：55-56 / 頁數：99 / 卷數：30 千字文：慕 1 (162)-潔 10 (164)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ1",
+       "created": 1646116896407,
+       "text": "【永樂南藏】No.295《不空羂索神變真言經》 部別：大乘經-五大部外重譯經 千字文：良(168)-過(170)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ2",
+       "created": 1646116896407,
+       "text": "【永樂北藏】No.341《不空罥索神變真言經》唐菩提流志譯 部別：大乘經五大部外重譯經 / 冊數：45 / 頁數：1 / 卷數：30 千字文：必-得"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ3",
+       "created": 1646116896407,
+       "text": "【嘉興藏】No.312《不空羂索神變真言經》唐菩提流志譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0312 千字文 / 函號：［正藏］ 必(171)-得(173)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ4",
+       "created": 1646116896407,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ5",
+       "created": 1646116896407,
+       "text": "【乾隆藏】No.313《不空羂索神變真言經》唐 菩提流志譯 部別：大乘五大部外重譯經 / 冊數：38-39 / 頁數：465 / 卷數：30 千字文：必改得"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ6",
+       "created": 1646116896407,
+       "text": "【縮刻藏】No.1224《不空羂索神變真言經》唐菩提流志譯 部別：祕密部 / 卷數：30 千字文： 11 (25)- 12 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ7",
+       "created": 1646116896407,
+       "text": "【卍正藏】No.317《不空羂索神變真言經》大唐 菩提流志譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：583 / 卷數：30 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ8",
+       "created": 1646116896407,
+       "text": "【大正藏】No.1092《不空羂索神變真言經》唐 菩提流志譯 部別：密教部三 / 冊數：20 / 頁數：227 / 卷數：30 相關經典：縮-閏11-12,卍-10.9 參考資料：cf.Nos.1093-1099,901(Fasc.5)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQ9",
+       "created": 1646116896407,
+       "text": "【佛教大藏經】No.1293《不空羂索神變真言經》唐 菩提流志譯 部別：密教部二 / 冊數：53 / 頁數：483 / 卷數：30"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQA",
+       "created": 1646116896407,
+       "text": "【中華藏】No.303《不空羂索神變真言經》大唐天竺三藏菩提流志譯 冊數：19 / 頁數：345 / 卷數：30 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQB",
+       "created": 1646116896407,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQC",
+       "created": 1646116896407,
+       "text": "【南條文雄編號】 Nj. 0317"
+      }},
+      {"data": {
+       "id": "z5cYxOhGQD",
+       "created": 1646116896407,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1092"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy8nx6",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

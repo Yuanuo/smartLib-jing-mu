@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "明本抄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyEyWDh",
+    "created": 1646116899648,
+    "text": "現藏錄（日本 貞慶撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyEyWD2",
+      "created": 1646116899648,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyEyWD3",
+        "created": 1646116899648,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEyWD4",
+        "created": 1646116899648,
+        "text": "明本抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEyWD5",
+        "created": 1646116899648,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEyWD6",
+        "created": 1646116899648,
+        "text": "明本抄"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEyWD7",
+        "created": 1646116899648,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEyWD8",
+        "created": 1646116899648,
+        "text": "ming ben chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEyWD9",
+      "created": 1646116899648,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEyWDA",
+      "created": 1646116899648,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEyWDB",
+      "created": 1646116899648,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEyWDC",
+       "created": 1646116899648,
+       "text": "日本 貞慶撰"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDD",
+       "created": 1646116899648,
+       "text": "貞慶",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEyWDE",
+      "created": 1646116899648,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEyWDF",
+      "created": 1646116899648,
+      "text": "13"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEyWDG",
+      "created": 1646116899648,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEyWDH",
+       "created": 1646116899648,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDI",
+       "created": 1646116899648,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDJ",
+       "created": 1646116899648,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDK",
+       "created": 1646116899648,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDL",
+       "created": 1646116899648,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDM",
+       "created": 1646116899648,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDN",
+       "created": 1646116899648,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDO",
+       "created": 1646116899648,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDP",
+       "created": 1646116899648,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDQ",
+       "created": 1646116899648,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDR",
+       "created": 1646116899648,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDS",
+       "created": 1646116899648,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDT",
+       "created": 1646116899648,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDU",
+       "created": 1646116899648,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDV",
+       "created": 1646116899648,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDW",
+       "created": 1646116899648,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDX",
+       "created": 1646116899648,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDY",
+       "created": 1646116899648,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDZ",
+       "created": 1646116899648,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDa",
+       "created": 1646116899648,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDb",
+       "created": 1646116899648,
+       "text": "【大正藏】No.2281《明本抄》日本 貞慶撰 部別：續論疏部七 / 冊數：69 / 頁數：417 / 卷數：13 相關經典：佛全-84 參考資料：cf.No.1840;Fasc.3"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDc",
+       "created": 1646116899648,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDd",
+       "created": 1646116899648,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDe",
+       "created": 1646116899648,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDf",
+       "created": 1646116899648,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEyWDg",
+       "created": 1646116899648,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2281"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0qn1wl",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

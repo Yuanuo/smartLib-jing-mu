@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "閱經十二種"},
+  "children": [{
+   "data": {
+    "id": "z5cYzXkuLH",
+    "created": 1646116904656,
+    "text": "現藏錄（清 淨挺著）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzXkuKd",
+      "created": 1646116904656,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzXkuKe",
+        "created": 1646116904656,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXkuKf",
+        "created": 1646116904656,
+        "text": "閱經十二種",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzXkuKg",
+        "created": 1646116904656,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXkuKh",
+        "created": 1646116904656,
+        "text": "阅经十二种",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzXkuKi",
+        "created": 1646116904656,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXkuKj",
+        "created": 1646116904656,
+        "text": "yue jing shi er zhong"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzXkuKk",
+      "created": 1646116904656,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzXkuKl",
+      "created": 1646116904656,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzXkuKm",
+      "created": 1646116904656,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzXkuKn",
+      "created": 1646116904656,
+      "text": "清 淨挺著"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzXkuKo",
+      "created": 1646116904656,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzXkuKp",
+      "created": 1646116904656,
+      "text": "14"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzXkuKq",
+      "created": 1646116904656,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzXkuKr",
+       "created": 1646116904656,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKs",
+       "created": 1646116904656,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKt",
+       "created": 1646116904656,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKu",
+       "created": 1646116904656,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKv",
+       "created": 1646116904656,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKw",
+       "created": 1646116904656,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKx",
+       "created": 1646116904656,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKy",
+       "created": 1646116904656,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuKz",
+       "created": 1646116904656,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL0",
+       "created": 1646116904656,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL1",
+       "created": 1646116904656,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL2",
+       "created": 1646116904656,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL3",
+       "created": 1646116904656,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL4",
+       "created": 1646116904656,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL5",
+       "created": 1646116904656,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL6",
+       "created": 1646116904656,
+       "text": "【嘉興藏】No.1926《閱經十二種》清釋淨挺撰 部別：又續藏 / 法寶總目錄經號：1924 千字文 / 函號：［又續藏］ 12 函"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL7",
+       "created": 1646116904656,
+       "text": "【嘉興藏新文豐版】［續藏］No.297《閱經十二種》清 瀞挺輯 冊數：34 / 頁數：53 / 卷數：14"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL8",
+       "created": 1646116904656,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuL9",
+       "created": 1646116904656,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuLA",
+       "created": 1646116904656,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuLB",
+       "created": 1646116904656,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuLC",
+       "created": 1646116904656,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuLD",
+       "created": 1646116904656,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuLE",
+       "created": 1646116904656,
+       "text": "【新纂卍續藏】No.674《閱經十二種》清 淨挺著 部別：中國撰述 大小乘釋經部三十五 小乘經並聖賢集疏 / 冊數：37 / 頁數：746 / 卷數：14 《卍大日本續藏經》套數：第一編．第 59 套 《卍續藏經》(新文豐版)冊數：第 59 冊"
+      }},
+      {"data": {
+       "id": "z5cYzXkuLF",
+       "created": 1646116904656,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXkuLG",
+       "created": 1646116904656,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：443"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4lr3nf",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

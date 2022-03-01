@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "弘贊法華傳"},
+  "children": [{
+   "data": {
+    "id": "z5cYy67TS8",
+    "created": 1646116899099,
+    "text": "現藏錄（唐 惠詳撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy67TRT",
+      "created": 1646116899099,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy67TRU",
+        "created": 1646116899099,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy67TRV",
+        "created": 1646116899099,
+        "text": "弘贊法華傳",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy67TRW",
+        "created": 1646116899099,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy67TRX",
+        "created": 1646116899099,
+        "text": "弘赞法华传",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy67TRY",
+        "created": 1646116899099,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy67TRZ",
+        "created": 1646116899099,
+        "text": "hong zan fa hua chuan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy67TRa",
+      "created": 1646116899099,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy67TRb",
+      "created": 1646116899099,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy67TRc",
+      "created": 1646116899099,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy67TRd",
+       "created": 1646116899099,
+       "text": "唐 惠詳撰"
+      }},
+      {"data": {
+       "id": "z5cYy67TRe",
+       "created": 1646116899099,
+       "text": "慧詳",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy67TRf",
+      "created": 1646116899099,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy67TRg",
+      "created": 1646116899099,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy67TRh",
+      "created": 1646116899099,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy67TRi",
+       "created": 1646116899099,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRj",
+       "created": 1646116899099,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRk",
+       "created": 1646116899099,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRl",
+       "created": 1646116899099,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRm",
+       "created": 1646116899099,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRn",
+       "created": 1646116899099,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRo",
+       "created": 1646116899099,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRp",
+       "created": 1646116899099,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRq",
+       "created": 1646116899099,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRr",
+       "created": 1646116899099,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRs",
+       "created": 1646116899099,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRt",
+       "created": 1646116899099,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRu",
+       "created": 1646116899099,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRv",
+       "created": 1646116899099,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRw",
+       "created": 1646116899099,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRx",
+       "created": 1646116899099,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRy",
+       "created": 1646116899099,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TRz",
+       "created": 1646116899099,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TS0",
+       "created": 1646116899099,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TS1",
+       "created": 1646116899099,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TS2",
+       "created": 1646116899099,
+       "text": "【大正藏】No.2067《弘贊法華傳》唐 惠詳撰 部別：史傳部三 / 冊數：51 / 頁數：12 / 卷數：10 相關經典：續-2.乙.22.1,國-史傳17 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy67TS3",
+       "created": 1646116899099,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TS4",
+       "created": 1646116899099,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TS5",
+       "created": 1646116899099,
+       "text": "【新纂卍續藏】No.1537《弘贊法華傳》唐 慧詳撰 部別：中國撰述 史傳部三 天台宗 / 冊數：77 / 頁數：685 / 卷數：10 《卍大日本續藏經》套數：第二編乙．第 22 套 《卍續藏經》(新文豐版)冊數：第 149 冊"
+      }},
+      {"data": {
+       "id": "z5cYy67TS6",
+       "created": 1646116899099,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy67TS7",
+       "created": 1646116899099,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2067"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0bf1ps",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

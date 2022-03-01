@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "永嘉證道歌"},
+  "children": [{
+   "data": {
+    "id": "z5cYy3xSkh",
+    "created": 1646116898965,
+    "text": "現藏錄（唐 玄覺撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy3xSk2",
+      "created": 1646116898965,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy3xSk3",
+        "created": 1646116898965,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy3xSk4",
+        "created": 1646116898965,
+        "text": "永嘉證道歌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy3xSk5",
+        "created": 1646116898965,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy3xSk6",
+        "created": 1646116898965,
+        "text": "永嘉证道歌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy3xSk7",
+        "created": 1646116898965,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy3xSk8",
+        "created": 1646116898965,
+        "text": "yong jia zheng dao ge"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy3xSk9",
+      "created": 1646116898965,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy3xSkA",
+      "created": 1646116898965,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy3xSkB",
+      "created": 1646116898965,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy3xSkC",
+       "created": 1646116898965,
+       "text": "唐 玄覺撰"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkD",
+       "created": 1646116898965,
+       "text": "法天",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy3xSkE",
+      "created": 1646116898965,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy3xSkF",
+      "created": 1646116898965,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy3xSkG",
+      "created": 1646116898965,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy3xSkH",
+       "created": 1646116898965,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkI",
+       "created": 1646116898965,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkJ",
+       "created": 1646116898965,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkK",
+       "created": 1646116898965,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkL",
+       "created": 1646116898965,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkM",
+       "created": 1646116898965,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkN",
+       "created": 1646116898965,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkO",
+       "created": 1646116898965,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkP",
+       "created": 1646116898965,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkQ",
+       "created": 1646116898965,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkR",
+       "created": 1646116898965,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkS",
+       "created": 1646116898965,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkT",
+       "created": 1646116898965,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkU",
+       "created": 1646116898965,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkV",
+       "created": 1646116898965,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkW",
+       "created": 1646116898965,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkX",
+       "created": 1646116898965,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkY",
+       "created": 1646116898965,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkZ",
+       "created": 1646116898965,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSka",
+       "created": 1646116898965,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkb",
+       "created": 1646116898965,
+       "text": "【大正藏】No.2014《永嘉證道歌》唐 玄覺撰 部別：諸宗部五 / 冊數：48 / 頁數：395 / 卷數：1 相關經典：縮-騰4,卍-33.7 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy3xSkc",
+       "created": 1646116898965,
+       "text": "【佛教大藏經】No.2000《永嘉證道歌》唐 玄覺撰 部別：諸宗部五 禪宗 / 冊數：72 / 頁數：764 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkd",
+       "created": 1646116898965,
+       "text": "【中華藏】No.1719《永嘉證道歌》唐慎水沙門玄覺撰 冊數：78 / 頁數：620 / 卷數：1 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYy3xSke",
+       "created": 1646116898965,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkf",
+       "created": 1646116898965,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3xSkg",
+       "created": 1646116898965,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2014"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri07p1o8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

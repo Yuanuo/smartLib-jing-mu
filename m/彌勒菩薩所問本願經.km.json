@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "彌勒菩薩所問本願經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwmY5bM",
+    "created": 1646116894042,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwmY5aP",
+      "created": 1646116894042,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwmY5aQ",
+        "created": 1646116894042,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmY5aR",
+        "created": 1646116894042,
+        "text": "彌勒菩薩所問本願經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmY5aS",
+        "created": 1646116894042,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmY5aT",
+        "created": 1646116894042,
+        "text": "弥勒菩萨所问本愿经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmY5aU",
+        "created": 1646116894042,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmY5aV",
+        "created": 1646116894042,
+        "text": "mi le pu sa suo wen ben yuan jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmY5ad",
+        "created": 1646116894042,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmY5ae",
+        "created": 1646116894042,
+        "text": "Mi le p'u sa so wen pen yüan ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmY5af",
+        "created": 1646116894042,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmY5ag",
+        "created": 1646116894042,
+        "text": "Maitreyaparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmY5ah",
+        "created": 1646116894042,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmY5ai",
+        "created": 1646116894042,
+        "text": "Byams-pas shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmY5aj",
+        "created": 1646116894042,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmY5ak",
+        "created": 1646116894042,
+        "text": "미륵보살소문본원경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmY5aW",
+      "created": 1646116894042,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmY5aX",
+      "created": 1646116894042,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmY5aY",
+      "created": 1646116894042,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmY5aZ",
+       "created": 1646116894042,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwmY5aa",
+       "created": 1646116894042,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmY5ab",
+      "created": 1646116894042,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmY5ac",
+      "created": 1646116894042,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmY5al",
+      "created": 1646116894042,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmY5am",
+      "created": 1646116894042,
+      "text": "Translation by Dharmarakṣa: 11th day, 5th month, 2nd year of T'ai An (太安), Western Chin dynasty (西晉) (June 12th, A.D. 303).T. 2157-791a:10."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmY5an",
+      "created": 1646116894042,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmY5ao",
+       "created": 1646116894042,
+       "text": "【北京版】Dkon-brtsegs(ḥi)97b-100bMdo-sna-tshogs(nu)293a-b"
+      }},
+      {"data": {
+       "id": "z5cYwmY5ap",
+       "created": 1646116894042,
+       "text": "【奈塘版】Dkon-brtsegs (cha)203b-208aMdo(da)470b-472a"
+      }},
+      {"data": {
+       "id": "z5cYwmY5aq",
+       "created": 1646116894042,
+       "text": "【德格版】Dkon-brtsegs (cha)116b-119aMdo-sde(pa)330b-331a"
+      }},
+      {"data": {
+       "id": "z5cYwmY5ar",
+       "created": 1646116894042,
+       "text": "【拉薩版】Dkon-brtsegs (cha)207a-211aMdo(da)460b-462a"
+      }},
+      {"data": {
+       "id": "z5cYwmY5as",
+       "created": 1646116894042,
+       "text": "【卓尼版】Dkon-brtsegs(cha)123a-125bMdo-maṅ(pa)312a-313a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmY5at",
+      "created": 1646116894042,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmY5au",
+      "created": 1646116894042,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmY5av",
+      "created": 1646116894042,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmY5aw",
+       "created": 1646116894042,
+       "text": "【房山石經】No.377《彌勒菩薩所問本願經》(西晉)三藏竺法護譯 冊數：9 / 頁數：154 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：位"
+      }},
+      {"data": {
+       "id": "z5cYwmY5ax",
+       "created": 1646116894042,
+       "text": "【開寶藏】No.53《彌勒菩薩所問本願經》西晉 三藏竺法護 譯 部別：大乘經 寶積部 / 卷數：1 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmY5ay",
+       "created": 1646116894042,
+       "text": "【崇寧藏】No.52《彌勒菩薩所問本願經》 卷數：1 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5az",
+       "created": 1646116894042,
+       "text": "【毘盧藏】No.48《彌勒菩薩所問本願經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b0",
+       "created": 1646116894042,
+       "text": "【圓覺藏】No.49《彌勒菩薩所問本願經》 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b1",
+       "created": 1646116894042,
+       "text": "【趙城金藏】No.51《彌勒菩薩所問本願經》 卷數：1 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b2",
+       "created": 1646116894042,
+       "text": "【資福藏】No.55《彌勒菩薩所問本願經》 卷數：1 (一卷) 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b3",
+       "created": 1646116894042,
+       "text": "【磧砂藏】No.52《彌勒菩薩所問本願經》晉 竺法護譯 部別：寶積部 / 冊數：6 / 頁數：433 / 卷數：1 千字文：推 5 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b4",
+       "created": 1646116894042,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b5",
+       "created": 1646116894042,
+       "text": "【高麗藏】No.51《彌勒菩薩所問本願經》西晉月氏國三藏竺法護譯 部別：大乘經 寶積部 / 冊數：6 頁數：1339 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b6",
+       "created": 1646116894042,
+       "text": "【普寧藏】No.49《彌勒菩薩所問本願經》 卷數：1 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b7",
+       "created": 1646116894042,
+       "text": "【至元錄】No.119《彌勒菩薩所問本願經》西晉三藏竺法護譯 卷數：1 / 譯次：(第一譯)(三譯一闕) 千字文：有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b8",
+       "created": 1646116894042,
+       "text": "【洪武南藏】No.48《弥勒菩薩所問本願經》西晉 三藏竺法護 譯 冊數：32 / 頁數：199 / 卷數：1 千字文：推 5 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5b9",
+       "created": 1646116894042,
+       "text": "【永樂南藏】No.49《彌勒菩薩所問本願經》 部別：大乘經-寶積部 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bA",
+       "created": 1646116894042,
+       "text": "【永樂北藏】No.69《彌勒菩薩所問本願經》西晉竺法護譯 部別：大乘經寶積部 / 冊數：23 / 頁數：106 / 卷數：1 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bB",
+       "created": 1646116894042,
+       "text": "【嘉興藏】No.51《彌勒所問本願經》西晉竺法護譯 部別：大乘經-寶積部 / 法寶總目錄經號：0051 千字文 / 函號：［正藏］ 推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bC",
+       "created": 1646116894042,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bD",
+       "created": 1646116894042,
+       "text": "【乾隆藏】No.51《彌勒菩薩所問本願經》西晉 竺法護譯 部別：大乘寶積部 / 冊數：20 / 頁數：455 / 卷數：2 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bE",
+       "created": 1646116894042,
+       "text": "【縮刻藏】No.71《彌勒菩薩所問本願經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：地 12 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bF",
+       "created": 1646116894042,
+       "text": "【卍正藏】No.55《彌勒菩薩所問本願經》西晉 竺法護譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：795 / 卷數：1 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bG",
+       "created": 1646116894042,
+       "text": "【大正藏】No.349《彌勒菩薩所問本願經》西晉 竺法護譯 部別：寶積部下 / 冊數：12 / 頁數：186 / 卷數：1 相關經典：縮-地12,卍-6.5,國-寶7 參考資料：No.310(42)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bH",
+       "created": 1646116894042,
+       "text": "【佛教大藏經】No.71《彌勒菩薩所問本願經》西晉 竺法護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：897 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bI",
+       "created": 1646116894042,
+       "text": "【中華藏】No.55《彌勒菩薩所問本願經》西晉月氏國三藏竺法護譯 冊數：9 / 頁數：975 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bJ",
+       "created": 1646116894042,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bK",
+       "created": 1646116894042,
+       "text": "【南條文雄編號】 Nj. 0055"
+      }},
+      {"data": {
+       "id": "z5cYwmY5bL",
+       "created": 1646116894042,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：349"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwexb6",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

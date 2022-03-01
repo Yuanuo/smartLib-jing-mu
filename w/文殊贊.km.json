@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "文殊贊"},
+  "children": [{
+   "data": {
+    "id": "z5cYzQ4rvw",
+    "created": 1646116904180,
+    "text": "現藏錄（明太宗朱棣撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzQ4rvH",
+      "created": 1646116904180,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzQ4rvI",
+        "created": 1646116904180,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ4rvJ",
+        "created": 1646116904180,
+        "text": "文殊贊",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzQ4rvK",
+        "created": 1646116904180,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ4rvL",
+        "created": 1646116904180,
+        "text": "文殊赞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzQ4rvM",
+        "created": 1646116904180,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ4rvN",
+        "created": 1646116904180,
+        "text": "wen shu zan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ4rvO",
+      "created": 1646116904180,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzQ4rvP",
+      "created": 1646116904180,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ4rvQ",
+      "created": 1646116904180,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzQ4rvR",
+       "created": 1646116904180,
+       "text": "明太宗朱棣撰"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvS",
+       "created": 1646116904180,
+       "text": "太宗皇帝",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ4rvT",
+      "created": 1646116904180,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzQ4rvU",
+      "created": 1646116904180,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ4rvV",
+      "created": 1646116904180,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzQ4rvW",
+       "created": 1646116904180,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvX",
+       "created": 1646116904180,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvY",
+       "created": 1646116904180,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvZ",
+       "created": 1646116904180,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rva",
+       "created": 1646116904180,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvb",
+       "created": 1646116904180,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvc",
+       "created": 1646116904180,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvd",
+       "created": 1646116904180,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rve",
+       "created": 1646116904180,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvf",
+       "created": 1646116904180,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvg",
+       "created": 1646116904180,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvh",
+       "created": 1646116904180,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvi",
+       "created": 1646116904180,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvj",
+       "created": 1646116904180,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvk",
+       "created": 1646116904180,
+       "text": "【永樂北藏】No.1105《佛說文殊師利一百八名梵贊》宋法天譯 部別：宋元入藏諸大小乘經之餘 / 冊數：75 / 頁數：903 / 卷數：1 千字文：言"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvl",
+       "created": 1646116904180,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvm",
+       "created": 1646116904180,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvn",
+       "created": 1646116904180,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvo",
+       "created": 1646116904180,
+       "text": "【縮刻藏】No.1884《大明太宗文皇帝御製文殊讚》 部別：支那撰述-序讚詩歌部 / 卷數：1 千字文：霜 2 (40)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvp",
+       "created": 1646116904180,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvq",
+       "created": 1646116904180,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvr",
+       "created": 1646116904180,
+       "text": "【佛教大藏經】No.2073《大明太宗文皇帝御製文殊讚》明 太宗御製 部別：序讚詩歌部 / 冊數：83 / 頁數：6 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvs",
+       "created": 1646116904180,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvt",
+       "created": 1646116904180,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvu",
+       "created": 1646116904180,
+       "text": "【南條文雄編號】 Nj. 1073"
+      }},
+      {"data": {
+       "id": "z5cYzQ4rvv",
+       "created": 1646116904180,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：675"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri48k3h5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

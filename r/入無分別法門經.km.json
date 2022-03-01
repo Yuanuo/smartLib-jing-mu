@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說入無分別法門經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx3aABj",
+    "created": 1646116895098,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx3aAAm",
+      "created": 1646116895098,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx3aAAn",
+        "created": 1646116895098,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3aAAo",
+        "created": 1646116895098,
+        "text": "佛說入無分別法門經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3aAAp",
+        "created": 1646116895098,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3aAAq",
+        "created": 1646116895098,
+        "text": "佛说入无分别法门经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3aAAr",
+        "created": 1646116895098,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3aAAs",
+        "created": 1646116895098,
+        "text": "fo shuo ru wu fen bie fa men jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3aAB0",
+        "created": 1646116895098,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3aAB1",
+        "created": 1646116895098,
+        "text": "Ju wu fen pieh fa men ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3aAB2",
+        "created": 1646116895098,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3aAB3",
+        "created": 1646116895098,
+        "text": "Avikalpapraveśadhāraṇī(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3aAB4",
+        "created": 1646116895098,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3aAB5",
+        "created": 1646116895098,
+        "text": "Rnam-par mi-rtog-par ḥjug-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3aAB6",
+        "created": 1646116895098,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3aAB7",
+        "created": 1646116895098,
+        "text": "입무분별법문경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3aAAt",
+      "created": 1646116895098,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3aAAu",
+      "created": 1646116895098,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3aAAv",
+      "created": 1646116895098,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3aAAw",
+       "created": 1646116895098,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYx3aAAx",
+       "created": 1646116895098,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3aAAy",
+      "created": 1646116895098,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3aAAz",
+      "created": 1646116895098,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3aAB8",
+      "created": 1646116895098,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3aAB9",
+      "created": 1646116895098,
+      "text": "Ta-chung-lu vol. 14, p.7b-9a."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3aABA",
+      "created": 1646116895098,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3aABB",
+       "created": 1646116895098,
+       "text": "【北京版】Mdo-sna-tshogs (nu) 1-6b"
+      }},
+      {"data": {
+       "id": "z5cYx3aABC",
+       "created": 1646116895098,
+       "text": "【奈塘版】Mdo (da)1b-10a"
+      }},
+      {"data": {
+       "id": "z5cYx3aABD",
+       "created": 1646116895098,
+       "text": "【德格版】Mdo-sde (pa)1b-6b"
+      }},
+      {"data": {
+       "id": "z5cYx3aABE",
+       "created": 1646116895098,
+       "text": "【拉薩版】Mdo (da)1b-10b"
+      }},
+      {"data": {
+       "id": "z5cYx3aABF",
+       "created": 1646116895098,
+       "text": "【卓尼版】Mdo-maṅ (pa)1b-7a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3aABG",
+      "created": 1646116895098,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3aABH",
+      "created": 1646116895098,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3aABI",
+      "created": 1646116895098,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3aABJ",
+       "created": 1646116895098,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABK",
+       "created": 1646116895098,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABL",
+       "created": 1646116895098,
+       "text": "【崇寧藏】No.1309《佛說入無分別法門經》 卷數：1 千字文：營(544)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABM",
+       "created": 1646116895098,
+       "text": "【毘盧藏】No.1307《佛說入無分別法門經》宋施護譯 千字文：營(544)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABN",
+       "created": 1646116895098,
+       "text": "【圓覺藏】No.1305《入無分別法門經》 千字文：策(521)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABO",
+       "created": 1646116895098,
+       "text": "【趙城金藏】No.1436《入無分別法門經》 卷數：1 千字文：匡"
+      }},
+      {"data": {
+       "id": "z5cYx3aABP",
+       "created": 1646116895098,
+       "text": "【資福藏】No.1312《佛說入無分別法門經》 卷數：1 千字文：策(521)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABQ",
+       "created": 1646116895098,
+       "text": "【磧砂藏】No.1313《佛說入無分別法門經》宋 施護譯 部別： / 冊數：33 / 頁數：748 / 卷數：1 千字文：策 5 (521)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABR",
+       "created": 1646116895098,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABS",
+       "created": 1646116895098,
+       "text": "【高麗藏】No.1438《入無分別法門經》天竺三藏施護譯 部別：宋續入藏經 / 冊數：40 頁數：446 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：頗"
+      }},
+      {"data": {
+       "id": "z5cYx3aABT",
+       "created": 1646116895098,
+       "text": "【普寧藏】No.1306《佛說入無分別法門經》 卷數：1 千字文：策(521)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABU",
+       "created": 1646116895098,
+       "text": "【至元錄】No.518《入無分別法門經》宋天竺三藏施護譯 卷數：1 千字文：賢(204)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABV",
+       "created": 1646116895098,
+       "text": "【洪武南藏】No.1165《佛說入無分別法門經》西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫臣施護 奉詔譯 冊數：186 / 頁數：262 / 卷數：1 千字文：策 5 (521)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABW",
+       "created": 1646116895098,
+       "text": "【永樂南藏】No.967《佛說入無分別法門經》 部別：宋元入藏諸大小乘經 千字文：斯(267)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABX",
+       "created": 1646116895098,
+       "text": "【永樂北藏】No.974《佛說入無分別法門經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：69 / 頁數：548 / 卷數：1 千字文：夙"
+      }},
+      {"data": {
+       "id": "z5cYx3aABY",
+       "created": 1646116895098,
+       "text": "【嘉興藏】No.936《入無分別法門經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0936 千字文 / 函號：［正藏］ 夙(261)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABZ",
+       "created": 1646116895098,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABa",
+       "created": 1646116895098,
+       "text": "【乾隆藏】No.937《佛說入無分別法門經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：58 / 頁數：609 / 卷數：1 千字文：夙"
+      }},
+      {"data": {
+       "id": "z5cYx3aABb",
+       "created": 1646116895098,
+       "text": "【縮刻藏】No.240《佛說入無分別法門經》宋施護譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 1 (6)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABc",
+       "created": 1646116895098,
+       "text": "【卍正藏】No.946《佛說入無分別法門經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：313 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYx3aABd",
+       "created": 1646116895098,
+       "text": "【大正藏】No.654《佛說入無分別法門經》宋 施護譯 部別：經集部二 / 冊數：15 / 頁數：805 / 卷數：1 相關經典：縮-宙1,卍-15.7 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx3aABe",
+       "created": 1646116895098,
+       "text": "【佛教大藏經】No.243《佛說入無分別法門經》宋 施護譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：103 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx3aABf",
+       "created": 1646116895098,
+       "text": "【中華藏】No.1563《佛說入無分別法門經》西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫施護奉詔譯 冊數：67 / 頁數：702 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx3aABg",
+       "created": 1646116895098,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3aABh",
+       "created": 1646116895098,
+       "text": "【南條文雄編號】 Nj. 0942"
+      }},
+      {"data": {
+       "id": "z5cYx3aABi",
+       "created": 1646116895098,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：654"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx8ak6",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

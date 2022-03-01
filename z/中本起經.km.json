@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "中本起經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwak2rX",
+    "created": 1646116893310,
+    "text": "現藏錄（後漢 曇果共康孟詳譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwaj2qf",
+      "created": 1646116893309,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwaj2qg",
+        "created": 1646116893309,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaj2qh",
+        "created": 1646116893309,
+        "text": "中本起經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaj2qi",
+        "created": 1646116893309,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaj2qj",
+        "created": 1646116893309,
+        "text": "中本起经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaj2qk",
+        "created": 1646116893309,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwak2ql",
+        "created": 1646116893310,
+        "text": "zhong ben qi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwak2qu",
+        "created": 1646116893310,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwak2qv",
+        "created": 1646116893310,
+        "text": "Chung pen ch'i ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwak2qw",
+       "created": 1646116893310,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwak2qx",
+        "created": 1646116893310,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwak2qy",
+        "created": 1646116893310,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwak2qz",
+        "created": 1646116893310,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwak2r0",
+        "created": 1646116893310,
+        "text": "중본기경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwak2qm",
+      "created": 1646116893310,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwak2qn",
+      "created": 1646116893310,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwak2qo",
+      "created": 1646116893310,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwak2qp",
+       "created": 1646116893310,
+       "text": "後漢 曇果共康孟詳譯"
+      }},
+      {"data": {
+       "id": "z5cYwak2qq",
+       "created": 1646116893310,
+       "text": "康孟詳",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwak2qr",
+       "created": 1646116893310,
+       "text": "曇果",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwak2qs",
+      "created": 1646116893310,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwak2qt",
+      "created": 1646116893310,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwak2r1",
+      "created": 1646116893310,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwak2r2",
+      "created": 1646116893310,
+      "text": "Translation by T'an-kuo and K'ang Meng-hsiang: 12th year of Chien-An (建安), Later Han dynasty (後漢) (A.D. 207).T. 2153-417:5."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwak2r3",
+     "created": 1646116893310,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwak2r4",
+      "created": 1646116893310,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwak2r5",
+      "created": 1646116893310,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwak2r6",
+      "created": 1646116893310,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwak2r7",
+       "created": 1646116893310,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwak2r8",
+       "created": 1646116893310,
+       "text": "【開寶藏】No.660《中本起經》後漢 西域沙門釋曇果共康孟祥 譯 部別：小乘經 小乘經重單合譯 / 卷數：2 千字文：映"
+      }},
+      {"data": {
+       "id": "z5cYwak2r9",
+       "created": 1646116893310,
+       "text": "【崇寧藏】No.662《中本起經》 卷數：2 千字文：容(281)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rA",
+       "created": 1646116893310,
+       "text": "【毘盧藏】No.663《中本起經》後漢曇果唐孟詳譯 千字文：容(281)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rB",
+       "created": 1646116893310,
+       "text": "【圓覺藏】No.671《中本起經》 千字文：容(281)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rC",
+       "created": 1646116893310,
+       "text": "【趙城金藏】No.664《中本起經》 卷數：2 千字文：映"
+      }},
+      {"data": {
+       "id": "z5cYwak2rD",
+       "created": 1646116893310,
+       "text": "【資福藏】No.676《中本起經》 卷數：2 (上下) 千字文：容(281)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rE",
+       "created": 1646116893310,
+       "text": "【磧砂藏】No.682《中本起經》後漢 曇果．康孟詳譯 部別：阿含部 / 冊數：18 / 頁數：759 / 卷數：2 千字文：容 9 (281)-容 10 (281)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rF",
+       "created": 1646116893310,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rG",
+       "created": 1646116893310,
+       "text": "【高麗藏】No.663《中本起經》後漢西域沙門曇果-共康孟詳譯 部別：小乘經 阿含部 / 冊數：19 頁數：474 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：暎"
+      }},
+      {"data": {
+       "id": "z5cYwak2rH",
+       "created": 1646116893310,
+       "text": "【普寧藏】No.674《中本起經》 卷數：2 千字文：容(281)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rI",
+       "created": 1646116893310,
+       "text": "【至元錄】No.904《中本起經》後漢西域三藏曇果共康孟祥譯 卷數：2 千字文：優(306)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rJ",
+       "created": 1646116893310,
+       "text": "【洪武南藏】No.602《中本起經》後漢 三藏法師西域曇果共康孟詳 譯 冊數：99 / 頁數：33 / 卷數：2 千字文：容 9 (281)-容 10 (281)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rK",
+       "created": 1646116893310,
+       "text": "【永樂南藏】No.557《中本起經》 部別：小乘經-阿含部 千字文：積(228)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rL",
+       "created": 1646116893310,
+       "text": "【永樂北藏】No.586《中本起經》後漢曇果-共康孟詳譯 部別：小乘經阿含部 / 冊數：61 / 頁數：501 / 卷數：2 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwak2rM",
+       "created": 1646116893310,
+       "text": "【嘉興藏】No.551《中本起經》後漢曇果-共康孟詳譯 部別：小乘經-阿含部 / 法寶總目錄經號：0551 千字文 / 函號：［正藏］ 緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rN",
+       "created": 1646116893310,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rO",
+       "created": 1646116893310,
+       "text": "【乾隆藏】No.552《中本起經》後漢 曇果,康孟祥譯 部別：小乘阿含部 / 冊數：51 / 頁數：591 / 卷數：2 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwak2rP",
+       "created": 1646116893310,
+       "text": "【縮刻藏】No.599《中本起經》後漢曇果共康孟詳譯 部別：小乘經 / 卷數：2 千字文：辰 10 (13)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rQ",
+       "created": 1646116893310,
+       "text": "【卍正藏】No.559《中本起經》後漢 曇果共康孟詳譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：105 / 卷數：2 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwak2rR",
+       "created": 1646116893310,
+       "text": "【大正藏】No.196《中本起經》後漢 曇果共康孟詳譯 部別：本緣部下 / 冊數：4 / 頁數：147 / 卷數：2 相關經典：縮-辰10,卍-14.1,國-本6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwak2rS",
+       "created": 1646116893310,
+       "text": "【佛教大藏經】No.607《中本起經》後漢 曇果共康孟詳譯 部別：小乘經 阿含部四 / 冊數：26 / 頁數：660 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwak2rT",
+       "created": 1646116893310,
+       "text": "【中華藏】No.714《中本起經》後漢建安年康孟詳共竺大力譯 冊數：33 / 頁數：934 / 卷數：2 / 底本：金藏廣勝寺本 【中華藏】No.715《中本起經(別本)》後漢三藏法師西域曇果共康孟詳譯 冊數：33 / 頁數：969 / 卷數：2 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYwak2rU",
+       "created": 1646116893310,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwak2rV",
+       "created": 1646116893310,
+       "text": "【南條文雄編號】 Nj. 0556"
+      }},
+      {"data": {
+       "id": "z5cYwak2rW",
+       "created": 1646116893310,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：196"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvuk5n",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

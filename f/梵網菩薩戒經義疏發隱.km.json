@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "梵網菩薩戒經義疏發隱"},
+  "children": [{
+   "data": {
+    "id": "z5cYyschhM",
+    "created": 1646116902106,
+    "text": "現藏錄（明 袾宏發隱）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYysbhgh",
+      "created": 1646116902105,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYysbhgi",
+        "created": 1646116902105,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYysbhgj",
+        "created": 1646116902105,
+        "text": "梵網菩薩戒經義疏發隱",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYysbhgk",
+        "created": 1646116902105,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYysbhgl",
+        "created": 1646116902105,
+        "text": "梵网菩萨戒经义疏发隐",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYysbhgm",
+        "created": 1646116902105,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYysbhgn",
+        "created": 1646116902105,
+        "text": "fan wang pu sa jie jing yi shu fa yin"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYysbhgo",
+      "created": 1646116902105,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYysbhgp",
+      "created": 1646116902105,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYysbhgq",
+      "created": 1646116902105,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYysbhgr",
+       "created": 1646116902105,
+       "text": "明 袾宏發隱"
+      }},
+      {"data": {
+       "id": "z5cYysbhgs",
+       "created": 1646116902105,
+       "text": "袾宏",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYysbhgt",
+      "created": 1646116902105,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYysbhgu",
+      "created": 1646116902105,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYysbhgv",
+      "created": 1646116902105,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYysbhgw",
+       "created": 1646116902105,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysbhgx",
+       "created": 1646116902105,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysbhgy",
+       "created": 1646116902105,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschgz",
+       "created": 1646116902106,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh0",
+       "created": 1646116902106,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh1",
+       "created": 1646116902106,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh2",
+       "created": 1646116902106,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh3",
+       "created": 1646116902106,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh4",
+       "created": 1646116902106,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh5",
+       "created": 1646116902106,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh6",
+       "created": 1646116902106,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh7",
+       "created": 1646116902106,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh8",
+       "created": 1646116902106,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschh9",
+       "created": 1646116902106,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhA",
+       "created": 1646116902106,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhB",
+       "created": 1646116902106,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhC",
+       "created": 1646116902106,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhD",
+       "created": 1646116902106,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhE",
+       "created": 1646116902106,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhF",
+       "created": 1646116902106,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhG",
+       "created": 1646116902106,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhH",
+       "created": 1646116902106,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhI",
+       "created": 1646116902106,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhJ",
+       "created": 1646116902106,
+       "text": "【新纂卍續藏】No.679《梵網菩薩戒經義疏發隱》明 袾宏發隱 部別：中國撰述 大小乘釋律部一 大乘律疏 / 冊數：38 / 頁數：134 / 卷數：5 《卍大日本續藏經》套數：第一編．第 59 套 《卍續藏經》(新文豐版)冊數：第 59 冊"
+      }},
+      {"data": {
+       "id": "z5cYyschhK",
+       "created": 1646116902106,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyschhL",
+       "created": 1646116902106,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：981"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2mx2qf",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

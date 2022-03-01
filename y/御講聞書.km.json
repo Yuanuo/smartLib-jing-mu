@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "御講聞書"},
+  "children": [{
+   "data": {
+    "id": "z5cYyVzavw",
+    "created": 1646116900703,
+    "text": "現藏錄（日本 日向撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyVzavH",
+      "created": 1646116900703,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyVzavI",
+        "created": 1646116900703,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVzavJ",
+        "created": 1646116900703,
+        "text": "御講聞書",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyVzavK",
+        "created": 1646116900703,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVzavL",
+        "created": 1646116900703,
+        "text": "御讲闻书",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyVzavM",
+        "created": 1646116900703,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVzavN",
+        "created": 1646116900703,
+        "text": "yu jiang wen shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyVzavO",
+      "created": 1646116900703,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyVzavP",
+      "created": 1646116900703,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyVzavQ",
+      "created": 1646116900703,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyVzavR",
+       "created": 1646116900703,
+       "text": "日本 日向撰"
+      }},
+      {"data": {
+       "id": "z5cYyVzavS",
+       "created": 1646116900703,
+       "text": "日向",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyVzavT",
+      "created": 1646116900703,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyVzavU",
+      "created": 1646116900703,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyVzavV",
+      "created": 1646116900703,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyVzavW",
+       "created": 1646116900703,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavX",
+       "created": 1646116900703,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavY",
+       "created": 1646116900703,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavZ",
+       "created": 1646116900703,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzava",
+       "created": 1646116900703,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavb",
+       "created": 1646116900703,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavc",
+       "created": 1646116900703,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavd",
+       "created": 1646116900703,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzave",
+       "created": 1646116900703,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavf",
+       "created": 1646116900703,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavg",
+       "created": 1646116900703,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavh",
+       "created": 1646116900703,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavi",
+       "created": 1646116900703,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavj",
+       "created": 1646116900703,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavk",
+       "created": 1646116900703,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavl",
+       "created": 1646116900703,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavm",
+       "created": 1646116900703,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavn",
+       "created": 1646116900703,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavo",
+       "created": 1646116900703,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavp",
+       "created": 1646116900703,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavq",
+       "created": 1646116900703,
+       "text": "【大正藏】No.2700《御講聞書》日本 日向撰 部別：續諸宗部十五 / 冊數：84 / 頁數：340 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyVzavr",
+       "created": 1646116900703,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavs",
+       "created": 1646116900703,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavt",
+       "created": 1646116900703,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavu",
+       "created": 1646116900703,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVzavv",
+       "created": 1646116900703,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2700"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1jz28m",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

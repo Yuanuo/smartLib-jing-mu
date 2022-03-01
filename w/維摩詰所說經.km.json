@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "維摩詰所說經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwu97bL",
+    "created": 1646116894513,
+    "text": "現藏錄（姚秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwu87aO",
+      "created": 1646116894512,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwu87aP",
+        "created": 1646116894512,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu87aQ",
+        "created": 1646116894512,
+        "text": "維摩詰所說經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu87aR",
+        "created": 1646116894512,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu87aS",
+        "created": 1646116894512,
+        "text": "维摩诘所说经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu87aT",
+        "created": 1646116894512,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu87aU",
+        "created": 1646116894512,
+        "text": "wei mo jie suo shuo jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu87ac",
+        "created": 1646116894512,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu87ad",
+        "created": 1646116894512,
+        "text": "Wei mo ch'i so shuo ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu87ae",
+        "created": 1646116894512,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu87af",
+        "created": 1646116894512,
+        "text": "Madhyamakavṛtti",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu87ag",
+        "created": 1646116894512,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu87ah",
+        "created": 1646116894512,
+        "text": "Dri-ma-med-par-grags-pas bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu87ai",
+        "created": 1646116894512,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu87aj",
+        "created": 1646116894512,
+        "text": "유마힐소설경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwu87aV",
+      "created": 1646116894512,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu87aW",
+      "created": 1646116894512,
+      "text": "姚秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu87aX",
+      "created": 1646116894512,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwu87aY",
+       "created": 1646116894512,
+       "text": "姚秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYwu87aZ",
+       "created": 1646116894512,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwu87aa",
+      "created": 1646116894512,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu87ab",
+      "created": 1646116894512,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu87ak",
+      "created": 1646116894512,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu87al",
+      "created": 1646116894512,
+      "text": "Translation by Kumārajīva: 8th year of Hung Shih (弘始), Later Ch'in dynasty (後奏) (A.D. 406) Hsiao-yao Garden (逍遙園), Ch'ang-an(長安).T. 2153-386b :3; T. 2148-288b :9."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu87am",
+      "created": 1646116894512,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwu87an",
+       "created": 1646116894512,
+       "text": "【北京版】Mdo-sna-tshogs (bu)180a-250b"
+      }},
+      {"data": {
+       "id": "z5cYwu87ao",
+       "created": 1646116894512,
+       "text": "【奈塘版】Mdo (pha)274a-382a"
+      }},
+      {"data": {
+       "id": "z5cYwu87ap",
+       "created": 1646116894512,
+       "text": "【德格版】Mdo-sde (ma)175a-239h"
+      }},
+      {"data": {
+       "id": "z5cYwu87aq",
+       "created": 1646116894512,
+       "text": "【拉薩版】Mdo (pha)270b-376b"
+      }},
+      {"data": {
+       "id": "z5cYwu87ar",
+       "created": 1646116894512,
+       "text": "【卓尼版】Mdo-maṅ (ma)205a-295b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwu97as",
+      "created": 1646116894513,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu97at",
+      "created": 1646116894513,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu97au",
+      "created": 1646116894513,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwu97av",
+       "created": 1646116894513,
+       "text": "【房山石經】No.2《維摩詰經》(姚秦)鳩摩羅什譯 冊數：1 / 頁數：77 / 卷數：3 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.136《維摩詰所說經》(姚秦)鳩摩羅什譯 冊數：3 / 頁數：397 / 卷數：3 / 刻經年代：開成元年 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYwu97aw",
+       "created": 1646116894513,
+       "text": "【開寶藏】No.120《維摩詰所說經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘經 五大部外諸重譯經 / 卷數：3 千字文：在"
+      }},
+      {"data": {
+       "id": "z5cYwu97ax",
+       "created": 1646116894513,
+       "text": "【崇寧藏】No.121《維摩詰所說經》 卷數：3 千字文：樹(132)"
+      }},
+      {"data": {
+       "id": "z5cYwu97ay",
+       "created": 1646116894513,
+       "text": "【毘盧藏】No.117《維摩經所說經》姚秦鳩摩羅什譯 參考年代：(重和元) 千字文：樹(132)"
+      }},
+      {"data": {
+       "id": "z5cYwu97az",
+       "created": 1646116894513,
+       "text": "【圓覺藏】No.118《維摩詰所說經》 卷數：3 千字文：樹(132)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b0",
+       "created": 1646116894513,
+       "text": "【趙城金藏】No.119《維摩詰所說經》 卷數：3 千字文：在"
+      }},
+      {"data": {
+       "id": "z5cYwu97b1",
+       "created": 1646116894513,
+       "text": "【資福藏】No.122《維摩詰所說經》 卷數：3 (三卷) 千字文：樹(132)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b2",
+       "created": 1646116894513,
+       "text": "【磧砂藏】No.122《維摩詰所說經》姚秦 鳩摩羅什譯 部別：五大部外諸重譯經 / 冊數：9 / 頁數：323 / 卷數：3 千字文：白 1 (133)-白 3 (133)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b3",
+       "created": 1646116894513,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b4",
+       "created": 1646116894513,
+       "text": "【高麗藏】No.119《維摩詰所說經》姚秦三藏鳩摩羅什譯 部別：大乘經 五大部外諸重譯經 / 冊數：9 頁數：977 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：在"
+      }},
+      {"data": {
+       "id": "z5cYwu97b5",
+       "created": 1646116894513,
+       "text": "【普寧藏】No.118《維摩詰所說經》 卷數：3 千字文：白(133)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b6",
+       "created": 1646116894513,
+       "text": "【至元錄】No.198《維摩詰所說經》姚秦三藏鳩摩羅什譯 卷數：3 / 譯次：(第六譯) 千字文：蓋(145)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b7",
+       "created": 1646116894513,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b8",
+       "created": 1646116894513,
+       "text": "【永樂南藏】No.129《維摩詰所說經》 部別：大乘經-五大部外重譯經 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwu97b9",
+       "created": 1646116894513,
+       "text": "【永樂北藏】No.170《維摩詰所說經》姚秦鳩摩羅什譯 部別：大乘經五大部外重譯經 / 冊數：37 / 頁數：783 / 卷數：3 千字文：方"
+      }},
+      {"data": {
+       "id": "z5cYwu97bA",
+       "created": 1646116894513,
+       "text": "【嘉興藏】No.141《維摩詰所說經》姚秦鳩摩羅什譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0141 千字文 / 函號：［正藏］ 方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwu97bB",
+       "created": 1646116894513,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu97bC",
+       "created": 1646116894513,
+       "text": "【乾隆藏】No.142《維摩詰所說經》姚秦 鳩摩羅什譯 部別：大乘五大部外重譯經 / 冊數：32 / 頁數：551 / 卷數：3 千字文：方"
+      }},
+      {"data": {
+       "id": "z5cYwu97bD",
+       "created": 1646116894513,
+       "text": "【縮刻藏】No.158《維摩詰所說經》後秦鳩摩羅什譯 部別：大乘經-方等部 / 卷數：3 千字文：黃 7 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwu97bE",
+       "created": 1646116894513,
+       "text": "【卍正藏】No.145《維摩詰所說經》姚秦 鳩摩羅什譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：838 / 卷數：3 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYwu97bF",
+       "created": 1646116894513,
+       "text": "【大正藏】No.475《維摩詰所說經》姚秦 鳩摩羅什譯 部別：經集部一 / 冊數：14 / 頁數：537 / 卷數：3 相關經典：縮-黃7,卍-9.5,國-經6 參考資料：Nos.474,476,;cf.Nos.1775-1781,2186,2768-2774,2777"
+      }},
+      {"data": {
+       "id": "z5cYwu97bG",
+       "created": 1646116894513,
+       "text": "【佛教大藏經】No.160《維摩詰所說經》姚秦 鳩摩羅什譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：271 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYwu97bH",
+       "created": 1646116894513,
+       "text": "【中華藏】No.127《維摩詰所說經》姚秦三藏鳩摩羅什譯 冊數：15 / 頁數：832 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwu97bI",
+       "created": 1646116894513,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu97bJ",
+       "created": 1646116894513,
+       "text": "【南條文雄編號】 Nj. 0146"
+      }},
+      {"data": {
+       "id": "z5cYwu97bK",
+       "created": 1646116894513,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：475"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhws0f4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

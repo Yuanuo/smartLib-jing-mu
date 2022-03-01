@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "四座講式"},
+  "children": [{
+   "data": {
+    "id": "z5cYyX0bGk",
+    "created": 1646116900766,
+    "text": "現藏錄（日本 高辨撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyX0bG5",
+      "created": 1646116900766,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyX0bG6",
+        "created": 1646116900766,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyX0bG7",
+        "created": 1646116900766,
+        "text": "四座講式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyX0bG8",
+        "created": 1646116900766,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyX0bG9",
+        "created": 1646116900766,
+        "text": "四座讲式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyX0bGA",
+        "created": 1646116900766,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyX0bGB",
+        "created": 1646116900766,
+        "text": "si zuo jiang shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyX0bGC",
+      "created": 1646116900766,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyX0bGD",
+      "created": 1646116900766,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyX0bGE",
+      "created": 1646116900766,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyX0bGF",
+       "created": 1646116900766,
+       "text": "日本 高辨撰"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGG",
+       "created": 1646116900766,
+       "text": "高辨",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyX0bGH",
+      "created": 1646116900766,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyX0bGI",
+      "created": 1646116900766,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyX0bGJ",
+      "created": 1646116900766,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyX0bGK",
+       "created": 1646116900766,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGL",
+       "created": 1646116900766,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGM",
+       "created": 1646116900766,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGN",
+       "created": 1646116900766,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGO",
+       "created": 1646116900766,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGP",
+       "created": 1646116900766,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGQ",
+       "created": 1646116900766,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGR",
+       "created": 1646116900766,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGS",
+       "created": 1646116900766,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGT",
+       "created": 1646116900766,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGU",
+       "created": 1646116900766,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGV",
+       "created": 1646116900766,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGW",
+       "created": 1646116900766,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGX",
+       "created": 1646116900766,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGY",
+       "created": 1646116900766,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGZ",
+       "created": 1646116900766,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGa",
+       "created": 1646116900766,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGb",
+       "created": 1646116900766,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGc",
+       "created": 1646116900766,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGd",
+       "created": 1646116900766,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGe",
+       "created": 1646116900766,
+       "text": "【大正藏】No.2731《四座講式》日本 高辨撰 部別：悉曇部全 / 冊數：84 / 頁數：898 / 卷數：1 相關經典： 參考資料：共四式"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGf",
+       "created": 1646116900766,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGg",
+       "created": 1646116900766,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGh",
+       "created": 1646116900766,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGi",
+       "created": 1646116900766,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyX0bGj",
+       "created": 1646116900766,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2731"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1lq29h",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,330 @@
+{
+ "root": {
+  "data": {"text": "四分律比丘戒本"},
+  "children": [{
+   "data": {
+    "id": "z5cYxePL0l",
+    "created": 1646116897381,
+    "text": "現藏錄（後秦 佛陀耶舍譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxePKzt",
+      "created": 1646116897381,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxePKzu",
+        "created": 1646116897381,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxePKzv",
+        "created": 1646116897381,
+        "text": "四分律比丘戒本",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxePKzw",
+        "created": 1646116897381,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxePKzx",
+        "created": 1646116897381,
+        "text": "四分律比丘戒本"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxePKzy",
+        "created": 1646116897381,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxePKzz",
+        "created": 1646116897381,
+        "text": "si fen lv bi qiu jie ben"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxePL08",
+        "created": 1646116897381,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxePL09",
+        "created": 1646116897381,
+        "text": "Ssu fen pi ch'iu chieh pen"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxePL0A",
+       "created": 1646116897381,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxePL0B",
+        "created": 1646116897381,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxePL0C",
+        "created": 1646116897381,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxePL0D",
+        "created": 1646116897381,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxePL0E",
+        "created": 1646116897381,
+        "text": "사분비구계본",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxePL00",
+      "created": 1646116897381,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxePL01",
+      "created": 1646116897381,
+      "text": "後秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxePL02",
+      "created": 1646116897381,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxePL03",
+       "created": 1646116897381,
+       "text": "後秦 佛陀耶舍譯"
+      }},
+      {"data": {
+       "id": "z5cYxePL04",
+       "created": 1646116897381,
+       "text": "佛陀耶舍",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxePL05",
+       "created": 1646116897381,
+       "text": "懷素",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxePL06",
+      "created": 1646116897381,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxePL07",
+      "created": 1646116897381,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxePL0F",
+      "created": 1646116897381,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxePL0G",
+      "created": 1646116897381,
+      "text": "Translation by Buddhayaśas: bbetween the 5th and 15th years of Hung Shih (弘始), Yao Ch'in dynasty (姚秦) (A.D. 403-413).T. 2151-359c:17."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxePL0H",
+     "created": 1646116897381,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxePL0I",
+      "created": 1646116897381,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxePL0J",
+      "created": 1646116897381,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxePL0K",
+      "created": 1646116897381,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxePL0L",
+       "created": 1646116897381,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0M",
+       "created": 1646116897381,
+       "text": "【開寶藏】No.900《四分比丘戒本》唐 西太原寺沙門懷素 依律集出 部別：小乘律 聲聞調伏藏 / 卷數：1 千字文：傅"
+      }},
+      {"data": {
+       "id": "z5cYxePL0N",
+       "created": 1646116897381,
+       "text": "【崇寧藏】No.903《四分戒本》唐懷素集出 卷數：1 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0O",
+       "created": 1646116897381,
+       "text": "【毘盧藏】No.904《四分戒本》大唐沙門懷素依律集 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0P",
+       "created": 1646116897381,
+       "text": "【圓覺藏】No.911《四分戒本》 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0Q",
+       "created": 1646116897381,
+       "text": "【趙城金藏】No.911《四分比丘戒本》 卷數：1 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxePL0R",
+       "created": 1646116897381,
+       "text": "【資福藏】No.917《四分戒本》 卷數：1 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0S",
+       "created": 1646116897381,
+       "text": "【磧砂藏】No.927《四分比丘戒本》唐 懷素依律集出 部別： / 冊數：22 / 頁數：419 / 卷數：1 千字文：受 2 (338)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0T",
+       "created": 1646116897381,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0U",
+       "created": 1646116897381,
+       "text": "【高麗藏】No.909《四分比丘戒本》西大原寺沙門懷素集 部別：小乘律 / 冊數：23 頁數：779 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxePL0V",
+       "created": 1646116897381,
+       "text": "【普寧藏】No.919《四分比丘戒本》 卷數：1 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0W",
+       "created": 1646116897381,
+       "text": "【至元錄】No.1223《四分比丘戒本》姚秦罽賓佛陀中舍共竺佛念譯　唐西太原寺沙門懷素集出 卷數：1 千字文：節(377)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0X",
+       "created": 1646116897381,
+       "text": "【洪武南藏】No.828《四分比丘戒本》大唐 西太原寺沙門懷素 依律集出 冊數：120 / 頁數：297 / 卷數：1 千字文：受 2 (338)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0Y",
+       "created": 1646116897381,
+       "text": "【永樂南藏】No.1267《四分戒本》 部別：小乘律 千字文：姑(346)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0Z",
+       "created": 1646116897381,
+       "text": "【永樂北藏】No.1196《四分戒本》唐懷素集 部別：小乘律 / 冊數：91 / 頁數：461 / 卷數：2 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxePL0a",
+       "created": 1646116897381,
+       "text": "【嘉興藏】No.1148《四分戒本》唐懷素集 部別：小乘律 / 法寶總目錄經號：1147a 千字文 / 函號：［正藏］ 外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0b",
+       "created": 1646116897381,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0c",
+       "created": 1646116897381,
+       "text": "【乾隆藏】No.1149a《四分戒本》唐 懷素依律集出 部別：小乘律 / 冊數：75 / 頁數：411 / 卷數：1 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxePL0d",
+       "created": 1646116897381,
+       "text": "【縮刻藏】No.804《四分律比丘戒本》後秦佛陀耶舍譯 部別：小乘律 / 卷數：1 千字文：列 7 (15)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0e",
+       "created": 1646116897381,
+       "text": "【卍正藏】No.1159《四分律比丘戒本》後秦 佛陀耶舍譯 部別：小乘律 / 冊數：36 / 頁數：441 / 卷數：1 原版套數：第 19 套"
+      }},
+      {"data": {
+       "id": "z5cYxePL0f",
+       "created": 1646116897381,
+       "text": "【大正藏】No.1429《四分律比丘戒本》後秦 佛陀耶舍譯 部別：律部一 / 冊數：22 / 頁數：1015 / 卷數：1 相關經典：縮-列7,卍-19.8 參考資料：No.1430;cf.Nos.1428,1806,1807"
+      }},
+      {"data": {
+       "id": "z5cYxePL0g",
+       "created": 1646116897381,
+       "text": "【佛教大藏經】No.838《四分律比丘戒本》後秦 佛陀耶舍譯 部別：小乘律 律部二 / 冊數：30 / 頁數：186 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxePL0h",
+       "created": 1646116897381,
+       "text": "【中華藏】No.991《四分比丘戒本》西太原寺沙門懷素集 冊數：41 / 頁數：379 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxePL0i",
+       "created": 1646116897381,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxePL0j",
+       "created": 1646116897381,
+       "text": "【南條文雄編號】 Nj. 1154"
+      }},
+      {"data": {
+       "id": "z5cYxePL0k",
+       "created": 1646116897381,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1429"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyzp175",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

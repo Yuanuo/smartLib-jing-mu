@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說海龍王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx149O5",
+    "created": 1646116894942,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx139N8",
+      "created": 1646116894941,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx139N9",
+        "created": 1646116894941,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx139NA",
+        "created": 1646116894941,
+        "text": "佛說海龍王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx139NB",
+        "created": 1646116894941,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx139NC",
+        "created": 1646116894941,
+        "text": "佛说海龙王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx139ND",
+        "created": 1646116894941,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx139NE",
+        "created": 1646116894941,
+        "text": "fo shuo hai long wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx139NM",
+        "created": 1646116894941,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx139NN",
+        "created": 1646116894941,
+        "text": "Hai lung wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx139NO",
+        "created": 1646116894941,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx139NP",
+        "created": 1646116894941,
+        "text": "Sāgaranāgarājaparipṛcchā=(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx139NQ",
+        "created": 1646116894941,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx139NR",
+        "created": 1646116894941,
+        "text": "Kluḥi rgyal po rgya-mtshos shus- pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx139NS",
+        "created": 1646116894941,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx139NT",
+        "created": 1646116894941,
+        "text": "해룡왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx139NF",
+      "created": 1646116894941,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx139NG",
+      "created": 1646116894941,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx139NH",
+      "created": 1646116894941,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx139NI",
+       "created": 1646116894941,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYx139NJ",
+       "created": 1646116894941,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx139NK",
+      "created": 1646116894941,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx139NL",
+      "created": 1646116894941,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx139NU",
+      "created": 1646116894941,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx139NV",
+      "created": 1646116894941,
+      "text": "Translation by Dharmarakṣa: 10th day, 7th month, 6th year of T'ai K'ang (太康), Western Chin dynasty (西晉) (August 27th, A.D. 285).T. 2145-7b:24."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx139NW",
+      "created": 1646116894941,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx139NX",
+       "created": 1646116894941,
+       "text": "【北京版】Mdo-sna-tshogs (pu)124a-206a"
+      }},
+      {"data": {
+       "id": "z5cYx139NY",
+       "created": 1646116894941,
+       "text": "【奈塘版】Mdo (na)178a-305b"
+      }},
+      {"data": {
+       "id": "z5cYx139NZ",
+       "created": 1646116894941,
+       "text": "【德格版】Mdo-sde (pha)116a-198a"
+      }},
+      {"data": {
+       "id": "z5cYx139Na",
+       "created": 1646116894941,
+       "text": "【拉薩版】Mdo (na)180a-303a"
+      }},
+      {"data": {
+       "id": "z5cYx139Nb",
+       "created": 1646116894941,
+       "text": "【卓尼版】Mdo-maṅ (pha)144a239b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx139Nc",
+      "created": 1646116894941,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx139Nd",
+      "created": 1646116894941,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx139Ne",
+      "created": 1646116894941,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx139Nf",
+       "created": 1646116894941,
+       "text": "【房山石經】No.523《佛說海龍王經》(西晉)三藏竺法護譯 冊數：11 / 頁數：154 / 卷數：4 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：能"
+      }},
+      {"data": {
+       "id": "z5cYx139Ng",
+       "created": 1646116894941,
+       "text": "【開寶藏】No.378《海龍王經》西晉 三藏竺法護 部別：大乘經 五大部外諸重譯經 / 卷數：4 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYx139Nh",
+       "created": 1646116894941,
+       "text": "【崇寧藏】No.377《海龍王經》 卷數：4 千字文：得(173)"
+      }},
+      {"data": {
+       "id": "z5cYx139Ni",
+       "created": 1646116894941,
+       "text": "【毘盧藏】No.375《海龍王經》西晉竺法護譯 參考年代：(靖康元．十二) 千字文：得(173)"
+      }},
+      {"data": {
+       "id": "z5cYx139Nj",
+       "created": 1646116894941,
+       "text": "【圓覺藏】No.386《海龍王經》 卷數：4 千字文：得(173)"
+      }},
+      {"data": {
+       "id": "z5cYx139Nk",
+       "created": 1646116894941,
+       "text": "【趙城金藏】No.378《海龍王經》 卷數：4 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYx139Nl",
+       "created": 1646116894941,
+       "text": "【資福藏】No.390《海龍王經》 卷數：4 (四卷) 千字文：得(173)"
+      }},
+      {"data": {
+       "id": "z5cYx139Nm",
+       "created": 1646116894941,
+       "text": "【磧砂藏】No.393《佛說海龍王經》晋 竺法護譯 部別：五大部外諸重譯經 / 冊數：12 / 頁數：58 / 卷數：4 千字文：得 1 (173)-得 4 (173)"
+      }},
+      {"data": {
+       "id": "z5cYx139Nn",
+       "created": 1646116894941,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx139No",
+       "created": 1646116894941,
+       "text": "【高麗藏】No.377《海龍王經》西晉月氏國三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：259 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYx139Np",
+       "created": 1646116894941,
+       "text": "【普寧藏】No.387《海龍王經》 卷數：4 千字文：得(173)"
+      }},
+      {"data": {
+       "id": "z5cYx149Nq",
+       "created": 1646116894942,
+       "text": "【至元錄】No.387《海龍王經》西晉三藏竺法護譯 梵名：阿唎(二合)亞娑迦囉拏迦　阿囉(二合)扎 / 卷數：4 / 譯次：(第一譯兩譯一闕) 千字文：忘(176)"
+      }},
+      {"data": {
+       "id": "z5cYx149Nr",
+       "created": 1646116894942,
+       "text": "【洪武南藏】No.343《佛說海龍王經》西晉太康年 三藏法師竺法護 譯 冊數：58 / 頁數：490 / 卷數：4 千字文：得 1 (173)-得 4 (173)"
+      }},
+      {"data": {
+       "id": "z5cYx149Ns",
+       "created": 1646116894942,
+       "text": "【永樂南藏】No.387《佛說海龍王經》 部別：大乘經-五大部外重譯經 千字文：彼(179)"
+      }},
+      {"data": {
+       "id": "z5cYx149Nt",
+       "created": 1646116894942,
+       "text": "【永樂北藏】No.482《佛說海龍王經》西晉竺法護譯 部別：大乘經單經譯 / 冊數：53 / 頁數：257 / 卷數：4 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYx149Nu",
+       "created": 1646116894942,
+       "text": "【嘉興藏】No.451《佛說海龍王經》西晉竺法護譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0451 千字文 / 函號：［正藏］ 景(201)"
+      }},
+      {"data": {
+       "id": "z5cYx149Nv",
+       "created": 1646116894942,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx149Nw",
+       "created": 1646116894942,
+       "text": "【乾隆藏】No.452《佛說海龍王經》西晉 竺法護譯 部別：大乘單譯經 / 冊數：45 / 頁數：113 / 卷數：4 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYx149Nx",
+       "created": 1646116894942,
+       "text": "【縮刻藏】No.214《佛說海龍王經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：4 千字文：宇 9 (5)"
+      }},
+      {"data": {
+       "id": "z5cYx149Ny",
+       "created": 1646116894942,
+       "text": "【卍正藏】No.457《佛說海龍王經》西晉 竺法護譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：791 / 卷數：4 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYx149Nz",
+       "created": 1646116894942,
+       "text": "【大正藏】No.598《佛說海龍王經》西晉 竺法護譯 部別：經集部二 / 冊數：15 / 頁數：131 / 卷數：4 相關經典：縮-宇9,卍-12.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx149O0",
+       "created": 1646116894942,
+       "text": "【佛教大藏經】No.217《佛說海龍王經》西晉 竺法護譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：582 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYx149O1",
+       "created": 1646116894942,
+       "text": "【中華藏】No.403《佛說海龍王經》西晉月氏國三藏竺法護譯 冊數：20 / 頁數：764 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx149O2",
+       "created": 1646116894942,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx149O3",
+       "created": 1646116894942,
+       "text": "【南條文雄編號】 Nj. 0456"
+      }},
+      {"data": {
+       "id": "z5cYx149O4",
+       "created": 1646116894942,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：598"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx3wim",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

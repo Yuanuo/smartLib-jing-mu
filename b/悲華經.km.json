@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "悲華經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwXt2GO",
+    "created": 1646116893133,
+    "text": "現藏錄（北涼 曇無讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwXs2FW",
+      "created": 1646116893132,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwXs2FX",
+        "created": 1646116893132,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXs2FY",
+        "created": 1646116893132,
+        "text": "悲華經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXs2FZ",
+        "created": 1646116893132,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXs2Fa",
+        "created": 1646116893132,
+        "text": "悲华经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXs2Fb",
+        "created": 1646116893132,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXs2Fc",
+        "created": 1646116893132,
+        "text": "bei hua jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXs2Fk",
+        "created": 1646116893132,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXs2Fl",
+        "created": 1646116893132,
+        "text": "Pei hua ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXs2Fm",
+        "created": 1646116893132,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXt2Fn",
+        "created": 1646116893133,
+        "text": "Karuṇāpuṇḍarīkasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXt2Fo",
+        "created": 1646116893133,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXt2Fp",
+        "created": 1646116893133,
+        "text": "Sñiṅ-rje pad-ma dkar-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXt2Fq",
+        "created": 1646116893133,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXt2Fr",
+        "created": 1646116893133,
+        "text": "비화경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwXs2Fd",
+      "created": 1646116893132,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwXs2Fe",
+      "created": 1646116893132,
+      "text": "北涼",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwXs2Ff",
+      "created": 1646116893132,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwXs2Fg",
+       "created": 1646116893132,
+       "text": "北涼 曇無讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwXs2Fh",
+       "created": 1646116893132,
+       "text": "曇無讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwXs2Fi",
+      "created": 1646116893132,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwXs2Fj",
+      "created": 1646116893132,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwXt2Fs",
+      "created": 1646116893133,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwXt2Ft",
+      "created": 1646116893133,
+      "text": "Translation by Dharmakṣema: between the 3rd and 10th years of Hsüan Shih (玄始), Northern Liang dynasty (北涼) (A.D. 414-421) in Liang-tu (涼都).T. 2151-360b:24."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwXt2Fu",
+     "created": 1646116893133,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwXt2Fv",
+      "created": 1646116893133,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwXt2Fw",
+      "created": 1646116893133,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwXt2Fx",
+      "created": 1646116893133,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwXt2Fy",
+       "created": 1646116893133,
+       "text": "【房山石經】No.409《悲華經》(北涼)天竺三藏曇無讖於姑臧譯 冊數：10 / 頁數：22 / 卷數：10 / 刻經年代：大安二年刻石 / 瀏覽：目錄圖檔 千字文：場"
+      }},
+      {"data": {
+       "id": "z5cYwXt2Fz",
+       "created": 1646116893133,
+       "text": "【開寶藏】No.127《悲華經》北涼 天竺三藏曇無讖于姑臧 譯 部別：大乘經 五大部外諸重譯經 / 卷數：10 千字文：駒"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G0",
+       "created": 1646116893133,
+       "text": "【崇寧藏】No.128《悲華經》 卷數：10 千字文：食(135)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G1",
+       "created": 1646116893133,
+       "text": "【毘盧藏】No.124《悲華經》北涼曇無讖譯 參考年代：(宣和八．五) 千字文：食(135)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G2",
+       "created": 1646116893133,
+       "text": "【圓覺藏】No.125《悲華經》 卷數：10 千字文：食(135)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G3",
+       "created": 1646116893133,
+       "text": "【趙城金藏】No.126《悲華經》 卷數：10 千字文：駒"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G4",
+       "created": 1646116893133,
+       "text": "【資福藏】No.129《悲華經》 卷數：10 (十卷) 千字文：食(135)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G5",
+       "created": 1646116893133,
+       "text": "【磧砂藏】No.128《悲華經》北涼 曇無讖譯 部別：五大部外諸重譯經 / 冊數：9 / 頁數：446 / 卷數：10 千字文：食 1 (135)-食 10 (135)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G6",
+       "created": 1646116893133,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G7",
+       "created": 1646116893133,
+       "text": "【高麗藏】No.126《悲華經》北涼天竺三藏曇無讖譯 部別：大乘經 五大部外諸重譯經 / 冊數：9 頁數：1195 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：駒"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G8",
+       "created": 1646116893133,
+       "text": "【普寧藏】No.124《悲華經》 卷數：10 千字文：食(135)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2G9",
+       "created": 1646116893133,
+       "text": "【至元錄】No.205《悲華經》北涼天竺三藏曇無讖譯(於姑臧譯) 梵名：迦嚕拏　奔怛哩乞(二合) / 卷數：10 / 譯次：(第四譯) 千字文：身(147)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GA",
+       "created": 1646116893133,
+       "text": "【洪武南藏】No.113《悲華經》北涼 天竺三藏法師曇無讖 譯 冊數：45-46 / 頁數：562 / 卷數：10 千字文：食 1 (135)-食 10 (135)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GB",
+       "created": 1646116893133,
+       "text": "【永樂南藏】No.125《悲華經》 部別：大乘經-五大部外重譯經 千字文：及(142)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GC",
+       "created": 1646116893133,
+       "text": "【永樂北藏】No.166《悲華經》北涼曇無讖譯 部別：大乘經五大部外重譯經 / 冊數：37 / 頁數：229 / 卷數：10 千字文：及"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GD",
+       "created": 1646116893133,
+       "text": "【嘉興藏】No.137《悲華經》北涼曇無讖譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0137 千字文 / 函號：［正藏］ 及(142)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GE",
+       "created": 1646116893133,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GF",
+       "created": 1646116893133,
+       "text": "【乾隆藏】No.138《悲華經》北涼 曇無讖譯 部別：大乘五大部外重譯經 / 冊數：32 / 頁數：181 / 卷數：10 千字文：及"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GG",
+       "created": 1646116893133,
+       "text": "【縮刻藏】No.263《悲華經》北涼曇無讖譯 部別：大乘經-方等部 / 卷數：10 千字文：宙 3 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GH",
+       "created": 1646116893133,
+       "text": "【卍正藏】No.141《悲華經》北涼 曇無讖譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：624 / 卷數：10 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GI",
+       "created": 1646116893133,
+       "text": "【大正藏】No.157《悲華經》北涼 曇無讖譯 部別：本緣部上 / 冊數：3 / 頁數：167 / 卷數：10 相關經典：縮-宙3,卍-9.4,國-經5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwXt2GJ",
+       "created": 1646116893133,
+       "text": "【佛教大藏經】No.266《悲華經》北涼 曇無讖譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：323 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GK",
+       "created": 1646116893133,
+       "text": "【中華藏】No.134《悲華經》北涼天竺三藏曇無讖譯 冊數：16 / 頁數：120 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GL",
+       "created": 1646116893133,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GM",
+       "created": 1646116893133,
+       "text": "【南條文雄編號】 Nj. 0142"
+      }},
+      {"data": {
+       "id": "z5cYwXt2GN",
+       "created": 1646116893133,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：157"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvpo4g",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

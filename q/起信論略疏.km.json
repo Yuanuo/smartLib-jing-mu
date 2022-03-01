@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "起信論略疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYzFHofd",
+    "created": 1646116903511,
+    "text": "現藏錄（唐 法藏造疏　明 德清纂要）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzFHoey",
+      "created": 1646116903511,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzFHoez",
+        "created": 1646116903511,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzFHof0",
+        "created": 1646116903511,
+        "text": "起信論略疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzFHof1",
+        "created": 1646116903511,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzFHof2",
+        "created": 1646116903511,
+        "text": "起信论略疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzFHof3",
+        "created": 1646116903511,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzFHof4",
+        "created": 1646116903511,
+        "text": "qi xin lun lve shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzFHof5",
+      "created": 1646116903511,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzFHof6",
+      "created": 1646116903511,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzFHof7",
+      "created": 1646116903511,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzFHof8",
+       "created": 1646116903511,
+       "text": "唐 法藏造疏　明 德清纂要"
+      }},
+      {"data": {
+       "id": "z5cYzFHof9",
+       "created": 1646116903511,
+       "text": "達摩笈多",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzFHofA",
+      "created": 1646116903511,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzFHofB",
+      "created": 1646116903511,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzFHofC",
+      "created": 1646116903511,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzFHofD",
+       "created": 1646116903511,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofE",
+       "created": 1646116903511,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofF",
+       "created": 1646116903511,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofG",
+       "created": 1646116903511,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofH",
+       "created": 1646116903511,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofI",
+       "created": 1646116903511,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofJ",
+       "created": 1646116903511,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofK",
+       "created": 1646116903511,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofL",
+       "created": 1646116903511,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofM",
+       "created": 1646116903511,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofN",
+       "created": 1646116903511,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofO",
+       "created": 1646116903511,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofP",
+       "created": 1646116903511,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofQ",
+       "created": 1646116903511,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofR",
+       "created": 1646116903511,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofS",
+       "created": 1646116903511,
+       "text": "【嘉興藏】No.1704《起信略疏》明釋德清撰 部別：續藏 / 法寶總目錄經號：1703 千字文 / 函號：［續藏］ 35 函"
+      }},
+      {"data": {
+       "id": "z5cYzFHofT",
+       "created": 1646116903511,
+       "text": "【嘉興藏新文豐版】［續藏］No.54《大乘起信論疏略》明 德清纂略 冊數：19 / 頁數：377 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYzFHofU",
+       "created": 1646116903511,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofV",
+       "created": 1646116903511,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofW",
+       "created": 1646116903511,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofX",
+       "created": 1646116903511,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofY",
+       "created": 1646116903511,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofZ",
+       "created": 1646116903511,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofa",
+       "created": 1646116903511,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofb",
+       "created": 1646116903511,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFHofc",
+       "created": 1646116903511,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：197"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3pz38m",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

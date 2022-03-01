@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說犢子經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxBjCQL",
+    "created": 1646116895603,
+    "text": "現藏錄（吳 支謙譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxBjCPT",
+      "created": 1646116895603,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxBjCPU",
+        "created": 1646116895603,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBjCPV",
+        "created": 1646116895603,
+        "text": "佛說犢子經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBjCPW",
+        "created": 1646116895603,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBjCPX",
+        "created": 1646116895603,
+        "text": "佛说犊子经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBjCPY",
+        "created": 1646116895603,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBjCPZ",
+        "created": 1646116895603,
+        "text": "fo shuo du zi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBjCPh",
+        "created": 1646116895603,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBjCPi",
+        "created": 1646116895603,
+        "text": "Tu tzu ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBjCPj",
+        "created": 1646116895603,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBjCPk",
+        "created": 1646116895603,
+        "text": "Vatsasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBjCPl",
+        "created": 1646116895603,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBjCPm",
+        "created": 1646116895603,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBjCPn",
+        "created": 1646116895603,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBjCPo",
+        "created": 1646116895603,
+        "text": "독자경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBjCPa",
+      "created": 1646116895603,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBjCPb",
+      "created": 1646116895603,
+      "text": "吳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBjCPc",
+      "created": 1646116895603,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBjCPd",
+       "created": 1646116895603,
+       "text": "吳 支謙譯"
+      }},
+      {"data": {
+       "id": "z5cYxBjCPe",
+       "created": 1646116895603,
+       "text": "支謙",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBjCPf",
+      "created": 1646116895603,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBjCPg",
+      "created": 1646116895603,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBjCPp",
+      "created": 1646116895603,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBjCPq",
+      "created": 1646116895603,
+      "text": "Translation by Chih-ch'ien: during the years of Huang Wu (黃武), Wu dynasty (呉) (A.D. 222-228).T. 2153-395c:5."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxBjCPr",
+     "created": 1646116895603,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxBjCPs",
+      "created": 1646116895603,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBjCPt",
+      "created": 1646116895603,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBjCPu",
+      "created": 1646116895603,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBjCPv",
+       "created": 1646116895603,
+       "text": "【房山石經】No.96《佛說犢子經》(吴)月支優婆塞支謙譯 冊數：3 / 頁數：243 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYxBjCPw",
+       "created": 1646116895603,
+       "text": "【開寶藏】No.230《犢子經》西晉 月支優婆支謙 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYxBjCPx",
+       "created": 1646116895603,
+       "text": "【崇寧藏】No.231《佛說犢子經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCPy",
+       "created": 1646116895603,
+       "text": "【毘盧藏】No.227《佛說犢子經》吳支謙譯 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCPz",
+       "created": 1646116895603,
+       "text": "【圓覺藏】No.234《犢子經》 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ0",
+       "created": 1646116895603,
+       "text": "【趙城金藏】No.229《犢子經》 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ1",
+       "created": 1646116895603,
+       "text": "【資福藏】No.238《犢子經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ2",
+       "created": 1646116895603,
+       "text": "【磧砂藏】No.239《佛說犢子經》吳 支謙譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：125 / 卷數：1 千字文：毀 4 (159)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ3",
+       "created": 1646116895603,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ4",
+       "created": 1646116895603,
+       "text": "【高麗藏】No.229《犢子經》吳月氏優婆塞支謙譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：445 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ5",
+       "created": 1646116895603,
+       "text": "【普寧藏】No.233《佛說犢子經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ6",
+       "created": 1646116895603,
+       "text": "【至元錄】No.307《犢子經》吳月支三藏支謙譯 卷數：1 / 出處：(出法上錄) / 譯次：(第一譯) 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ7",
+       "created": 1646116895603,
+       "text": "【洪武南藏】No.206《佛說犢子經》吳 月支優婆塞支謙 初譯 冊數：54 / 頁數：216 / 卷數：1 千字文：毀 4 (159)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ8",
+       "created": 1646116895603,
+       "text": "【永樂南藏】No.223《佛說犢子經》 部別：大乘經-五大部外重譯經 千字文：絜(164)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQ9",
+       "created": 1646116895603,
+       "text": "【永樂北藏】No.257《佛說犢子經》吳支謙譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：431 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQA",
+       "created": 1646116895603,
+       "text": "【嘉興藏】No.228《犢子經》吳支謙譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0228 千字文 / 函號：［正藏］ 潔(164)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQB",
+       "created": 1646116895603,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQC",
+       "created": 1646116895603,
+       "text": "【乾隆藏】No.229《佛說犢子經》吳 支謙譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：225 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQD",
+       "created": 1646116895603,
+       "text": "【縮刻藏】No.317《佛說犢子經》吳支謙譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 7 (6)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQE",
+       "created": 1646116895603,
+       "text": "【卍正藏】No.233《佛說犢子經》吳 支謙譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：964 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQF",
+       "created": 1646116895603,
+       "text": "【大正藏】No.808《佛說犢子經》吳 支謙譯 部別：經集部四 / 冊數：17 / 頁數：754 / 卷數：1 相關經典：縮-宙7,卍-10.5 參考資料：No.809"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQG",
+       "created": 1646116895603,
+       "text": "【佛教大藏經】No.320《佛說犢子經》吳 支謙譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：195 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQH",
+       "created": 1646116895603,
+       "text": "【中華藏】No.247《佛說犢子經》吳月氏優婆塞支謙譯 冊數：19 / 頁數：120 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQI",
+       "created": 1646116895603,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQJ",
+       "created": 1646116895603,
+       "text": "【南條文雄編號】 Nj. 0233"
+      }},
+      {"data": {
+       "id": "z5cYxBjCQK",
+       "created": 1646116895603,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：808"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxmaol",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

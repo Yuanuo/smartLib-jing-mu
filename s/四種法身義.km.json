@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "四種法身義"},
+  "children": [{
+   "data": {
+    "id": "z5cYyKPXzu",
+    "created": 1646116899985,
+    "text": "現藏錄（日本 濟暹撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyKPXzF",
+      "created": 1646116899985,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyKPXzG",
+        "created": 1646116899985,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKPXzH",
+        "created": 1646116899985,
+        "text": "四種法身義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyKPXzI",
+        "created": 1646116899985,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKPXzJ",
+        "created": 1646116899985,
+        "text": "四种法身义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyKPXzK",
+        "created": 1646116899985,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKPXzL",
+        "created": 1646116899985,
+        "text": "si zhong fa shen yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyKPXzM",
+      "created": 1646116899985,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyKPXzN",
+      "created": 1646116899985,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyKPXzO",
+      "created": 1646116899985,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyKPXzP",
+       "created": 1646116899985,
+       "text": "日本 濟暹撰"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzQ",
+       "created": 1646116899985,
+       "text": "濟暹",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyKPXzR",
+      "created": 1646116899985,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyKPXzS",
+      "created": 1646116899985,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyKPXzT",
+      "created": 1646116899985,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyKPXzU",
+       "created": 1646116899985,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzV",
+       "created": 1646116899985,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzW",
+       "created": 1646116899985,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzX",
+       "created": 1646116899985,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzY",
+       "created": 1646116899985,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzZ",
+       "created": 1646116899985,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXza",
+       "created": 1646116899985,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzb",
+       "created": 1646116899985,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzc",
+       "created": 1646116899985,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzd",
+       "created": 1646116899985,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXze",
+       "created": 1646116899985,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzf",
+       "created": 1646116899985,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzg",
+       "created": 1646116899985,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzh",
+       "created": 1646116899985,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzi",
+       "created": 1646116899985,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzj",
+       "created": 1646116899985,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzk",
+       "created": 1646116899985,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzl",
+       "created": 1646116899985,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzm",
+       "created": 1646116899985,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzn",
+       "created": 1646116899985,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzo",
+       "created": 1646116899985,
+       "text": "【大正藏】No.2436《四種法身義》日本 濟暹撰 部別：續諸宗部八 / 冊數：77 / 頁數：502 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyKPXzp",
+       "created": 1646116899985,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzq",
+       "created": 1646116899985,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzr",
+       "created": 1646116899985,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzs",
+       "created": 1646116899985,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKPXzt",
+       "created": 1646116899985,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2436"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri101215",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

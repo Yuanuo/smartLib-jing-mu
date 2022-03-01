@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "法相燈明記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyFyWXv",
+    "created": 1646116899710,
+    "text": "現藏錄（日本 慚安集）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyFyWXG",
+      "created": 1646116899710,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyFyWXH",
+        "created": 1646116899710,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFyWXI",
+        "created": 1646116899710,
+        "text": "法相燈明記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyFyWXJ",
+        "created": 1646116899710,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFyWXK",
+        "created": 1646116899710,
+        "text": "法相灯明记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyFyWXL",
+        "created": 1646116899710,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFyWXM",
+        "created": 1646116899710,
+        "text": "fa xiang deng ming ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyFyWXN",
+      "created": 1646116899710,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyFyWXO",
+      "created": 1646116899710,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyFyWXP",
+      "created": 1646116899710,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyFyWXQ",
+       "created": 1646116899710,
+       "text": "日本 慚安集"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXR",
+       "created": 1646116899710,
+       "text": "慚安",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyFyWXS",
+      "created": 1646116899710,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyFyWXT",
+      "created": 1646116899710,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyFyWXU",
+      "created": 1646116899710,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyFyWXV",
+       "created": 1646116899710,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXW",
+       "created": 1646116899710,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXX",
+       "created": 1646116899710,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXY",
+       "created": 1646116899710,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXZ",
+       "created": 1646116899710,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXa",
+       "created": 1646116899710,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXb",
+       "created": 1646116899710,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXc",
+       "created": 1646116899710,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXd",
+       "created": 1646116899710,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXe",
+       "created": 1646116899710,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXf",
+       "created": 1646116899710,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXg",
+       "created": 1646116899710,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXh",
+       "created": 1646116899710,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXi",
+       "created": 1646116899710,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXj",
+       "created": 1646116899710,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXk",
+       "created": 1646116899710,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXl",
+       "created": 1646116899710,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXm",
+       "created": 1646116899710,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXn",
+       "created": 1646116899710,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXo",
+       "created": 1646116899710,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXp",
+       "created": 1646116899710,
+       "text": "【大正藏】No.2310《法相燈明記》日本 慚安集 部別：續諸宗部二 / 冊數：71 / 頁數：48 / 卷數：1 相關經典：佛全-80 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyFyWXq",
+       "created": 1646116899710,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXr",
+       "created": 1646116899710,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXs",
+       "created": 1646116899710,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXt",
+       "created": 1646116899710,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFyWXu",
+       "created": 1646116899710,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2310"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0se1xf",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

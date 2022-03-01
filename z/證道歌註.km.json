@@ -1,0 +1,715 @@
+{
+ "root": {
+  "data": {"text": "證道歌註"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYzaHv9q",
+     "created": 1646116904813,
+     "text": "現藏錄（宋 知訥述）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzaGv9B",
+       "created": 1646116904812,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzaGv9C",
+         "created": 1646116904812,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaGv9D",
+         "created": 1646116904812,
+         "text": "證道歌註",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzaGv9E",
+         "created": 1646116904812,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaGv9F",
+         "created": 1646116904812,
+         "text": "证道歌注",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzaGv9G",
+         "created": 1646116904812,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaGv9H",
+         "created": 1646116904812,
+         "text": "zheng dao ge zhu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzaGv9I",
+       "created": 1646116904812,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaGv9J",
+       "created": 1646116904812,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaGv9K",
+       "created": 1646116904812,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzaGv9L",
+        "created": 1646116904812,
+        "text": "宋 知訥述"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9M",
+        "created": 1646116904812,
+        "text": "普照",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzaGv9N",
+       "created": 1646116904812,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaGv9O",
+       "created": 1646116904812,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaGv9P",
+       "created": 1646116904812,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzaGv9Q",
+        "created": 1646116904812,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9R",
+        "created": 1646116904812,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9S",
+        "created": 1646116904812,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9T",
+        "created": 1646116904812,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9U",
+        "created": 1646116904812,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9V",
+        "created": 1646116904812,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9W",
+        "created": 1646116904812,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9X",
+        "created": 1646116904812,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9Y",
+        "created": 1646116904812,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9Z",
+        "created": 1646116904812,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9a",
+        "created": 1646116904812,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9b",
+        "created": 1646116904812,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9c",
+        "created": 1646116904812,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9d",
+        "created": 1646116904812,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9e",
+        "created": 1646116904812,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9f",
+        "created": 1646116904812,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9g",
+        "created": 1646116904812,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9h",
+        "created": 1646116904812,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9i",
+        "created": 1646116904812,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9j",
+        "created": 1646116904812,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9k",
+        "created": 1646116904812,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9l",
+        "created": 1646116904812,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9m",
+        "created": 1646116904812,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9n",
+        "created": 1646116904812,
+        "text": "【新纂卍續藏】No.1292《證道歌註》宋 知訥述 部別：中國撰述 諸宗著述部十二 禪宗雜著 / 冊數：65 / 頁數：448 / 卷數：1 《卍大日本續藏經》套數：第二編．第 19 套 《卍續藏經》(新文豐版)冊數：第 114 冊"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9o",
+        "created": 1646116904812,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaGv9p",
+        "created": 1646116904812,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1471"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzaIvAV",
+     "created": 1646116904814,
+     "text": "現藏錄（宋 彥琪註）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzaIv9r",
+       "created": 1646116904814,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzaIv9s",
+         "created": 1646116904814,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaIv9t",
+         "created": 1646116904814,
+         "text": "證道歌註"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzaIv9u",
+         "created": 1646116904814,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaIv9v",
+         "created": 1646116904814,
+         "text": "证道歌注"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzaIv9w",
+         "created": 1646116904814,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaIv9x",
+         "created": 1646116904814,
+         "text": "zheng dao ge zhu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzaIv9y",
+       "created": 1646116904814,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaIv9z",
+       "created": 1646116904814,
+       "text": "宋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaIvA0",
+       "created": 1646116904814,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaIvA1",
+       "created": 1646116904814,
+       "text": "宋 彥琪註"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaIvA2",
+       "created": 1646116904814,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaIvA3",
+       "created": 1646116904814,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaIvA4",
+       "created": 1646116904814,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzaIvA5",
+        "created": 1646116904814,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvA6",
+        "created": 1646116904814,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvA7",
+        "created": 1646116904814,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvA8",
+        "created": 1646116904814,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvA9",
+        "created": 1646116904814,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAA",
+        "created": 1646116904814,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAB",
+        "created": 1646116904814,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAC",
+        "created": 1646116904814,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAD",
+        "created": 1646116904814,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAE",
+        "created": 1646116904814,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAF",
+        "created": 1646116904814,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAG",
+        "created": 1646116904814,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAH",
+        "created": 1646116904814,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAI",
+        "created": 1646116904814,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAJ",
+        "created": 1646116904814,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAK",
+        "created": 1646116904814,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAL",
+        "created": 1646116904814,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAM",
+        "created": 1646116904814,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAN",
+        "created": 1646116904814,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAO",
+        "created": 1646116904814,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAP",
+        "created": 1646116904814,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAQ",
+        "created": 1646116904814,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAR",
+        "created": 1646116904814,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAS",
+        "created": 1646116904814,
+        "text": "【新纂卍續藏】No.1241《證道歌註》宋 彥琪註 部別：中國撰述 諸宗著述部十 禪宗雜著 / 冊數：63 / 頁數：260 / 卷數：1 《卍大日本續藏經》套數：第二編．第 16 套 《卍續藏經》(新文豐版)冊數：第 111 冊"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAT",
+        "created": 1646116904814,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaIvAU",
+        "created": 1646116904814,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1434"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzaKvBA",
+     "created": 1646116904816,
+     "text": "現藏錄（元 永盛述　德弘編）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzaKvAW",
+       "created": 1646116904816,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzaKvAX",
+         "created": 1646116904816,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaKvAY",
+         "created": 1646116904816,
+         "text": "證道歌註"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzaKvAZ",
+         "created": 1646116904816,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaKvAa",
+         "created": 1646116904816,
+         "text": "证道歌注"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzaKvAb",
+         "created": 1646116904816,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzaKvAc",
+         "created": 1646116904816,
+         "text": "zheng dao ge zhu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzaKvAd",
+       "created": 1646116904816,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaKvAe",
+       "created": 1646116904816,
+       "text": "元",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaKvAf",
+       "created": 1646116904816,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaKvAg",
+       "created": 1646116904816,
+       "text": "元 永盛述　德弘編"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaKvAh",
+       "created": 1646116904816,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzaKvAi",
+       "created": 1646116904816,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzaKvAj",
+       "created": 1646116904816,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzaKvAk",
+        "created": 1646116904816,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAl",
+        "created": 1646116904816,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAm",
+        "created": 1646116904816,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAn",
+        "created": 1646116904816,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAo",
+        "created": 1646116904816,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAp",
+        "created": 1646116904816,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAq",
+        "created": 1646116904816,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAr",
+        "created": 1646116904816,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAs",
+        "created": 1646116904816,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAt",
+        "created": 1646116904816,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAu",
+        "created": 1646116904816,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAv",
+        "created": 1646116904816,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAw",
+        "created": 1646116904816,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAx",
+        "created": 1646116904816,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAy",
+        "created": 1646116904816,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvAz",
+        "created": 1646116904816,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB0",
+        "created": 1646116904816,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB1",
+        "created": 1646116904816,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB2",
+        "created": 1646116904816,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB3",
+        "created": 1646116904816,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB4",
+        "created": 1646116904816,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB5",
+        "created": 1646116904816,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB6",
+        "created": 1646116904816,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB7",
+        "created": 1646116904816,
+        "text": "【新纂卍續藏】No.1293《證道歌註》元 永盛述　德弘編 部別：中國撰述 諸宗著述部十二 禪宗雜著 / 冊數：65 / 頁數：456 / 卷數：1 《卍大日本續藏經》套數：第二編．第 19 套 《卍續藏經》(新文豐版)冊數：第 114 冊"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB8",
+        "created": 1646116904816,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzaKvB9",
+        "created": 1646116904816,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1472"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4q43pk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "法華經安樂行義"},
+  "children": [{
+   "data": {
+    "id": "z5cYy0WReG",
+    "created": 1646116898752,
+    "text": "現藏錄（陳 慧思說）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy0WRdb",
+      "created": 1646116898752,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy0WRdc",
+        "created": 1646116898752,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0WRdd",
+        "created": 1646116898752,
+        "text": "法華經安樂行義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0WRde",
+        "created": 1646116898752,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0WRdf",
+        "created": 1646116898752,
+        "text": "法华经安乐行义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0WRdg",
+        "created": 1646116898752,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0WRdh",
+        "created": 1646116898752,
+        "text": "fa hua jing an le xing yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0WRdi",
+      "created": 1646116898752,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0WRdj",
+      "created": 1646116898752,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0WRdk",
+      "created": 1646116898752,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0WRdl",
+       "created": 1646116898752,
+       "text": "陳 慧思說"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdm",
+       "created": 1646116898752,
+       "text": "慧思",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0WRdn",
+      "created": 1646116898752,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0WRdo",
+      "created": 1646116898752,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0WRdp",
+      "created": 1646116898752,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0WRdq",
+       "created": 1646116898752,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdr",
+       "created": 1646116898752,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRds",
+       "created": 1646116898752,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdt",
+       "created": 1646116898752,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdu",
+       "created": 1646116898752,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdv",
+       "created": 1646116898752,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdw",
+       "created": 1646116898752,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdx",
+       "created": 1646116898752,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdy",
+       "created": 1646116898752,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRdz",
+       "created": 1646116898752,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe0",
+       "created": 1646116898752,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe1",
+       "created": 1646116898752,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe2",
+       "created": 1646116898752,
+       "text": "【洪武南藏】No.1415《法華經安樂行義》南嶽思大禪師 說 冊數：222 / 頁數：178 / 卷數：1 千字文：池 8 (634)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe3",
+       "created": 1646116898752,
+       "text": "【永樂南藏】No.1550《安樂行義》 部別：此方撰述 千字文：煩(591)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe4",
+       "created": 1646116898752,
+       "text": "【永樂北藏】No.1628《法華經安樂行義》陳慧思說 部別：此土著述 / 冊數：164 / 頁數：435 / 卷數：1 千字文：土"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe5",
+       "created": 1646116898752,
+       "text": "【嘉興藏】No.1538《法華經安樂行義》陳慧思說 部別：此土著述 / 法寶總目錄經號：1537 千字文 / 函號：［正藏］ 土(582)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe6",
+       "created": 1646116898752,
+       "text": "【嘉興藏新文豐版】［正藏］No.55《法華經安樂行義》陳 慧思說 冊數：3 / 頁數：229 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe7",
+       "created": 1646116898752,
+       "text": "【乾隆藏】No.1475《法華經安樂行義》陳 思大禪師說 部別：此土著述 / 冊數：114 / 頁數：715 / 卷數：1 千字文：轂"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe8",
+       "created": 1646116898752,
+       "text": "【縮刻藏】No.1757《法華經安樂行義》陳慧思禪師說 部別：支那撰述-諸宗部-天台宗 / 卷數：1 千字文：陽 4 (32)"
+      }},
+      {"data": {
+       "id": "z5cYy0WRe9",
+       "created": 1646116898752,
+       "text": "【卍正藏】No.1554《法華經安樂行義》陳 南嶽思大禪師說 部別：此土著述 / 冊數：63 / 頁數：46 / 卷數：1 原版套數：第 33 套"
+      }},
+      {"data": {
+       "id": "z5cYy0WReA",
+       "created": 1646116898752,
+       "text": "【大正藏】No.1926《法華經安樂行義》陳 慧思說 部別：諸宗部三 / 冊數：46 / 頁數：697 / 卷數：1 相關經典：縮-陽4,卍-33.1,佛全-24 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy0WReB",
+       "created": 1646116898752,
+       "text": "【佛教大藏經】No.1956《法華經安樂行義》陳慧思說 部別：諸宗部一 天台宗 / 冊數：68 / 頁數：584 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYy0WReC",
+       "created": 1646116898752,
+       "text": "【中華藏】No.1801《法華經安樂行義》陳南嶽思大禪師說 冊數：95 / 頁數：800 / 卷數：1 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYy0WReD",
+       "created": 1646116898752,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0WReE",
+       "created": 1646116898752,
+       "text": "【南條文雄編號】 Nj. 1547"
+      }},
+      {"data": {
+       "id": "z5cYy0WReF",
+       "created": 1646116898752,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1926"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri01r1lh",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

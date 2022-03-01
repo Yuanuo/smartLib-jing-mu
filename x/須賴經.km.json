@@ -1,0 +1,602 @@
+{
+ "root": {
+  "data": {"text": "佛說須賴經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwlR5Hs",
+     "created": 1646116893973,
+     "text": "現藏錄（曹魏 白延譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwlR5HD",
+       "created": 1646116893973,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwlR5HE",
+         "created": 1646116893973,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlR5HF",
+         "created": 1646116893973,
+         "text": "佛說須賴經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlR5HG",
+         "created": 1646116893973,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlR5HH",
+         "created": 1646116893973,
+         "text": "佛说须赖经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlR5HI",
+         "created": 1646116893973,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlR5HJ",
+         "created": 1646116893973,
+         "text": "fo shuo xu lai jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlR5HK",
+       "created": 1646116893973,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlR5HL",
+       "created": 1646116893973,
+       "text": "曹魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlR5HM",
+       "created": 1646116893973,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlR5HN",
+        "created": 1646116893973,
+        "text": "曹魏 白延譯"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HO",
+        "created": 1646116893973,
+        "text": "白延",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlR5HP",
+       "created": 1646116893973,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlR5HQ",
+       "created": 1646116893973,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlR5HR",
+       "created": 1646116893973,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlR5HS",
+        "created": 1646116893973,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HT",
+        "created": 1646116893973,
+        "text": "【開寶藏】No.357《須賴經》曹魏 西域三藏帛延 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：過"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HU",
+        "created": 1646116893973,
+        "text": "【崇寧藏】No.370《佛說須賴經》 卷數：1 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HV",
+        "created": 1646116893973,
+        "text": "【毘盧藏】No.368《佛說須賴經》曹魏白延譯 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HW",
+        "created": 1646116893973,
+        "text": "【圓覺藏】No.377《佛說須賴經》 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HX",
+        "created": 1646116893973,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HY",
+        "created": 1646116893973,
+        "text": "【資福藏】No.381《佛說須賴經》 卷數：1 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5HZ",
+        "created": 1646116893973,
+        "text": "【磧砂藏】No.384《佛說須賴經》魏 白延譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：787 / 卷數：1 千字文：必 10 (171)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Ha",
+        "created": 1646116893973,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hb",
+        "created": 1646116893973,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hc",
+        "created": 1646116893973,
+        "text": "【普寧藏】No.378《佛說須賴經》 卷數：1 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hd",
+        "created": 1646116893973,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5He",
+        "created": 1646116893973,
+        "text": "【洪武南藏】No.334《佛說須賴經》曹魏 西域沙門白延 於洛陽白馬寺譯 冊數：58 / 頁數：239 / 卷數：1 千字文：必 10 (171)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hf",
+        "created": 1646116893973,
+        "text": "【永樂南藏】No.363《佛說須賴經》 部別：大乘經-五大部外重譯經 千字文：忘(176)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hg",
+        "created": 1646116893973,
+        "text": "【永樂北藏】No.58《佛說須賴經》曹魏白延等二譯 部別：大乘經寶積部 / 冊數：22 / 頁數：713 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hh",
+        "created": 1646116893973,
+        "text": "【嘉興藏】No.40《佛說須賴經》曹魏白延等二譯 部別：大乘經-寶積部 / 法寶總目錄經號：0040a 千字文 / 函號：［正藏］ 衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hi",
+        "created": 1646116893973,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hj",
+        "created": 1646116893973,
+        "text": "【乾隆藏】No.40a《佛說須賴經》曹魏 白延譯 部別：大乘寶積部 / 冊數：20 / 頁數：167 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hk",
+        "created": 1646116893973,
+        "text": "【縮刻藏】No.50《佛說須賴經》曹魏白延譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hl",
+        "created": 1646116893973,
+        "text": "【卍正藏】No.43《佛說須賴經》曹魏 白延譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：642 / 卷數：1 原版套數：第 6 套"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hm",
+        "created": 1646116893973,
+        "text": "【大正藏】No.328《佛說須賴經》曹魏 白延譯 部別：寶積部下 / 冊數：12 / 頁數：52 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：Nos.310(27),329"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hn",
+        "created": 1646116893973,
+        "text": "【佛教大藏經】No.50《佛說須賴經》曹魏 白延譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：677 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Ho",
+        "created": 1646116893973,
+        "text": "【中華藏】No.389《佛說須賴經(ㄧ名叉須賴此云善順)》曹魏白延譯 冊數：20 / 頁數：580 / 卷數：1 / 底本：明永樂南藏本"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hp",
+        "created": 1646116893973,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hq",
+        "created": 1646116893973,
+        "text": "【南條文雄編號】 Nj. 0043"
+       }},
+       {"data": {
+        "id": "z5cYwlR5Hr",
+        "created": 1646116893973,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：328"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwlV5Iq",
+     "created": 1646116893977,
+     "text": "現藏錄（前涼 支施崙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwlU5Ht",
+       "created": 1646116893976,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwlU5Hu",
+         "created": 1646116893976,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlU5Hv",
+         "created": 1646116893976,
+         "text": "佛說須賴經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlU5Hw",
+         "created": 1646116893976,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlU5Hx",
+         "created": 1646116893976,
+         "text": "佛说须赖经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlU5Hy",
+         "created": 1646116893976,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlU5Hz",
+         "created": 1646116893976,
+         "text": "fo shuo xu lai jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlU5I7",
+         "created": 1646116893976,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlU5I8",
+         "created": 1646116893976,
+         "text": "Hsü lai ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlU5I9",
+         "created": 1646116893976,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlU5IA",
+         "created": 1646116893976,
+         "text": "Surataparipṛcchā(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlU5IB",
+         "created": 1646116893976,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlU5IC",
+         "created": 1646116893976,
+         "text": "ṅes pas shus- pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlU5ID",
+         "created": 1646116893976,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlU5IE",
+         "created": 1646116893976,
+         "text": "수뢰경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlU5I0",
+       "created": 1646116893976,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlU5I1",
+       "created": 1646116893976,
+       "text": "前涼",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlU5I2",
+       "created": 1646116893976,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlU5I3",
+        "created": 1646116893976,
+        "text": "前涼 支施崙譯"
+       }},
+       {"data": {
+        "id": "z5cYwlU5I4",
+        "created": 1646116893976,
+        "text": "支施崙",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlU5I5",
+       "created": 1646116893976,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlU5I6",
+       "created": 1646116893976,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlU5IF",
+       "created": 1646116893976,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlU5IG",
+       "created": 1646116893976,
+       "text": "Translation by Chih-shih-lun (?) (支施崙): 3rd year of Hsien An (咸安) (A.D. 373) in Liang-chou (涼川).1T.2157-815c:26"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlU5IH",
+       "created": 1646116893976,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlU5II",
+        "created": 1646116893976,
+        "text": "【北京版】Dkon-brtsegs (zi)184b-199b"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IJ",
+        "created": 1646116893976,
+        "text": "【奈塘版】Dkon-brtsegs (ca)316b-335b"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IK",
+        "created": 1646116893976,
+        "text": "【德格版】Dkon-brtsegs (ca)181a-193b"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IL",
+        "created": 1646116893976,
+        "text": "【拉薩版】Dkon-brtsegs (ca)319a-339a"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IM",
+        "created": 1646116893976,
+        "text": "【卓尼版】Dkon-brtsegs (ca)206a-223a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlU5IN",
+       "created": 1646116893976,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlU5IO",
+       "created": 1646116893976,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlU5IP",
+       "created": 1646116893976,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlU5IQ",
+        "created": 1646116893976,
+        "text": "【房山石經】No.502《佛說須賴經》(前涼)月支國優婆塞支施崙於姑臧譯 冊數：11 / 頁數：94 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：改"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IR",
+        "created": 1646116893976,
+        "text": "【開寶藏】No.356《須賴經》前涼 月支優婆塞支施侖 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：過"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IS",
+        "created": 1646116893976,
+        "text": "【崇寧藏】No.355《佛說須賴經》 卷數：1 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IT",
+        "created": 1646116893976,
+        "text": "【毘盧藏】No.353《佛說須賴經》前涼支施崘譯 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IU",
+        "created": 1646116893976,
+        "text": "【圓覺藏】No.364《須賴經》 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IV",
+        "created": 1646116893976,
+        "text": "【趙城金藏】No.363《須頼經》 卷數：1 千字文：過"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IW",
+        "created": 1646116893976,
+        "text": "【資福藏】No.368《須賴經》 卷數：1 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IX",
+        "created": 1646116893976,
+        "text": "【磧砂藏】No.371《佛說須賴經》前涼 支施崙譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：745 / 卷數：1 千字文：必 2 (171)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IY",
+        "created": 1646116893976,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5IZ",
+        "created": 1646116893976,
+        "text": "【高麗藏】No.362《須賴經》前涼月氏優婆塞支施崙譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：127 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：過"
+       }},
+       {"data": {
+        "id": "z5cYwlU5Ia",
+        "created": 1646116893976,
+        "text": "【普寧藏】No.365《佛說須賴經》 卷數：1 千字文：必(171)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5Ib",
+        "created": 1646116893976,
+        "text": "【至元錄】No.366《須賴經》前涼月支優婆塞支施崙譯 卷數：1 / 出處：(出經後記) / 譯次：(第三譯前後三譯三本闕) 千字文：能(174)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5Ic",
+        "created": 1646116893976,
+        "text": "【洪武南藏】No.321《佛說須賴經》前涼 月支國優婆塞支謙 譯 冊數：58 / 頁數：70 / 卷數：1 千字文：必 2 (171)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5Id",
+        "created": 1646116893976,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlU5Ie",
+        "created": 1646116893976,
+        "text": "【永樂北藏】No.58《佛說須賴經》曹魏白延等二譯 部別：大乘經寶積部 / 冊數：22 / 頁數：733 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlV5If",
+        "created": 1646116893977,
+        "text": "【嘉興藏】No.40《佛說須賴經》曹魏白延等二譯 部別：大乘經-寶積部 / 法寶總目錄經號：0040b 千字文 / 函號：［正藏］ 衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Ig",
+        "created": 1646116893977,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Ih",
+        "created": 1646116893977,
+        "text": "【乾隆藏】No.40b《佛說須賴經》前涼 支施崘譯 部別：大乘寶積部 / 冊數：20 / 頁數：0 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Ii",
+        "created": 1646116893977,
+        "text": "【縮刻藏】No.51《佛說須賴經》前涼支施崙譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Ij",
+        "created": 1646116893977,
+        "text": "【卍正藏】No.44《佛說須賴經》前涼 支施崘譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：650 / 卷數：1 原版套數：第 6 套"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Ik",
+        "created": 1646116893977,
+        "text": "【大正藏】No.329《佛說須賴經》前涼 支施崙譯 部別：寶積部下 / 冊數：12 / 頁數：57 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：Nos.310(27),328"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Il",
+        "created": 1646116893977,
+        "text": "【佛教大藏經】No.51《佛說須賴經》前涼 支施崙譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：685 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Im",
+        "created": 1646116893977,
+        "text": "【中華藏】No.388《佛說須頼經》前涼支施崘譯 冊數：20 / 頁數：566 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYwlV5In",
+        "created": 1646116893977,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Io",
+        "created": 1646116893977,
+        "text": "【南條文雄編號】 Nj. 0044"
+       }},
+       {"data": {
+        "id": "z5cYwlV5Ip",
+        "created": 1646116893977,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：329"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwd0al",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

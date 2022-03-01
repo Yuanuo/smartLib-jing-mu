@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "阿毘達磨藏顯宗論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxleN0u",
+    "created": 1646116897830,
+    "text": "現藏錄（尊者眾賢造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxldMzx",
+      "created": 1646116897829,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxldMzy",
+        "created": 1646116897829,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxldMzz",
+        "created": 1646116897829,
+        "text": "阿毘達磨藏顯宗論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxldN00",
+        "created": 1646116897829,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxldN01",
+        "created": 1646116897829,
+        "text": "阿毘达磨藏显宗论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxldN02",
+        "created": 1646116897829,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxldN03",
+        "created": 1646116897829,
+        "text": "a pi da mo cang xian zong lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxldN0C",
+        "created": 1646116897829,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxldN0D",
+        "created": 1646116897829,
+        "text": "A p'i ta mo tsang hsien tsung lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxleN0E",
+        "created": 1646116897830,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxleN0F",
+        "created": 1646116897830,
+        "text": "Abhidharmakośaśāstrakārikāvibhāṣya",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxleN0G",
+        "created": 1646116897830,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxleN0H",
+        "created": 1646116897830,
+        "text": "Chos mṅon-pa mdsod-kyi bstan-bcos-kyi tshig-leḥus-byas-paḥi rnam-par bśad-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxleN0I",
+        "created": 1646116897830,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxleN0J",
+        "created": 1646116897830,
+        "text": "아비달마장현종론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxldN04",
+      "created": 1646116897829,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxldN05",
+      "created": 1646116897829,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxldN06",
+      "created": 1646116897829,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxldN07",
+       "created": 1646116897829,
+       "text": "尊者眾賢造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxldN08",
+       "created": 1646116897829,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxldN09",
+       "created": 1646116897829,
+       "text": "眾賢",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxldN0A",
+      "created": 1646116897829,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxldN0B",
+      "created": 1646116897829,
+      "text": "40"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxleN0K",
+      "created": 1646116897830,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxleN0L",
+      "created": 1646116897830,
+      "text": "Translation by Hsüan-tsang: between the 5th day, 4th month, 2nd year and the 20th day, 10th month, 3rd year of Yung Hui (永徽), T'ang dynasty (唐) (April 30th, A.D. 651-November 26th, A.D. 652).T. 2154-557a:26."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxleN0M",
+      "created": 1646116897830,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxleN0N",
+       "created": 1646116897830,
+       "text": "【北京版】Mdo-ḥgrel (Mṅon-pa) (ṅu)109a-304a"
+      }},
+      {"data": {
+       "id": "z5cYxleN0O",
+       "created": 1646116897830,
+       "text": "【奈塘版】Mdo-ḥgrel (Mṅon-pa) (nu)109b-264"
+      }},
+      {"data": {
+       "id": "z5cYxleN0P",
+       "created": 1646116897830,
+       "text": "【德格版】Mṅon-pa (khu)95b-266a"
+      }},
+      {"data": {
+       "id": "z5cYxleN0Q",
+       "created": 1646116897830,
+       "text": "【卓尼版】Mṅon-pa (khu)97b-272a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxleN0R",
+      "created": 1646116897830,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxleN0S",
+      "created": 1646116897830,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxleN0T",
+      "created": 1646116897830,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxleN0U",
+       "created": 1646116897830,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0V",
+       "created": 1646116897830,
+       "text": "【開寶藏】No.952《阿毗達磨顯宗論》唐 三藏玄奘 譯 部別：小乘論 聲聞對法藏 / 卷數：40 千字文：爵-都"
+      }},
+      {"data": {
+       "id": "z5cYxleN0W",
+       "created": 1646116897830,
+       "text": "【崇寧藏】No.955《阿毘達磨藏顯宗論》 卷數：40 千字文：好(405)-縻(408)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0X",
+       "created": 1646116897830,
+       "text": "【毘盧藏】No.955《阿毘達磨藏顯宗論》尊者眾賢造　三藏法師玄奘譯 參考年代：(紹興四．六)(紹興三．一○) 千字文：好(405)-縻(408)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0Y",
+       "created": 1646116897830,
+       "text": "【圓覺藏】No.964《阿毘達磨顯宗論》 卷數：40 千字文：好(405)-縻(408)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0Z",
+       "created": 1646116897830,
+       "text": "【趙城金藏】No.959《顯宗論》 卷數：40 千字文：雅-爵"
+      }},
+      {"data": {
+       "id": "z5cYxleN0a",
+       "created": 1646116897830,
+       "text": "【資福藏】No.970《阿毘達磨顯宗論》 卷數：40 (一部四十卷) 千字文：好(405)-縻(408)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0b",
+       "created": 1646116897830,
+       "text": "【磧砂藏】No.980《阿毗達磨藏顯宗論》唐 玄奘譯 部別： / 冊數：26 / 頁數：316 / 卷數：40 千字文：好 1 (405)-縻 10 (408)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0c",
+       "created": 1646116897830,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0d",
+       "created": 1646116897830,
+       "text": "【高麗藏】No.957《阿毘達磨藏顯宗論》三藏法師玄奘奉詔譯 部別：小乘論 / 冊數：28 頁數：1 / 卷數：40 / 連結：高麗大藏經 (圖檔) 千字文：雅-爵"
+      }},
+      {"data": {
+       "id": "z5cYxleN0e",
+       "created": 1646116897830,
+       "text": "【普寧藏】No.971《阿毘達磨藏顯宗論》 卷數：40 千字文：好(405)-縻(408)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0f",
+       "created": 1646116897830,
+       "text": "【至元錄】No.1407《顯宗論》尊者眾賢造　唐三藏玄奘譯 梵名：阿毘達囉(二合)麻　毘囉　迦囉麻　沙薩拏　沙悉特囉(二合) / 卷數：40 千字文：振(511)-祿(514)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0g",
+       "created": 1646116897830,
+       "text": "【洪武南藏】No.864《阿毗達磨藏顯宗論》尊者眾賢 造　三藏法師玄奘 奉詔譯 冊數：143-144 / 頁數：157 / 卷數：40 千字文：好 1 (405)-縻 10 (408)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0h",
+       "created": 1646116897830,
+       "text": "【永樂南藏】No.1413《阿毘達磨顯宗論》 部別：小乘論 千字文：廣(467)-達(470)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0i",
+       "created": 1646116897830,
+       "text": "【永樂北藏】No.1319《阿毗達磨藏顯宗論》唐玄奘譯 部別：小乘論 / 冊數：115-116 / 頁數：227 / 卷數：40 千字文：宮-鬱"
+      }},
+      {"data": {
+       "id": "z5cYxleN0j",
+       "created": 1646116897830,
+       "text": "【嘉興藏】No.1258《阿毘達磨藏顯宗論》唐玄奘譯 部別：小乘論 / 法寶總目錄經號：1257 千字文 / 函號：［正藏］ 宮(425)-欝(428)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0k",
+       "created": 1646116897830,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0l",
+       "created": 1646116897830,
+       "text": "【乾隆藏】No.1259《阿毘達磨藏顯宗論》眾賢造　(唐)玄奘譯 部別：小乘論 / 冊數：94-95 / 頁數：595 / 卷數：40 千字文：宮-鬱"
+      }},
+      {"data": {
+       "id": "z5cYxleN0m",
+       "created": 1646116897830,
+       "text": "【縮刻藏】No.1015《阿毘達磨藏顯宗論》尊者眾賢造　唐玄奘譯 部別：印度小乘論 / 卷數：40 千字文：冬 7 (23)-冬 8 (23)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0n",
+       "created": 1646116897830,
+       "text": "【卍正藏】No.1273《阿毗達磨藏顯宗論》唐 玄奘譯 部別：小乘論 / 冊數：45 / 頁數：1 / 卷數：40 原版套數：第 24 套"
+      }},
+      {"data": {
+       "id": "z5cYxleN0o",
+       "created": 1646116897830,
+       "text": "【大正藏】No.1563《阿毘達磨藏顯宗論》尊者眾賢造 唐 玄奘譯 部別：毘曇部四 / 冊數：29 / 頁數：777 / 卷數：40 相關經典：縮-冬7-8,卍-24.1-2,國-毘23-24 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxleN0p",
+       "created": 1646116897830,
+       "text": "【佛教大藏經】No.1059《阿毘達磨藏顯宗論》唐 玄奘譯 部別：小乘論 論部十二 / 冊數：46 / 頁數：1 / 卷數：40"
+      }},
+      {"data": {
+       "id": "z5cYxleN0q",
+       "created": 1646116897830,
+       "text": "【中華藏】No.1042《阿毗達磨藏顯宗論》尊者眾賢造，三藏法師玄奘奉詔譯 冊數：48 / 頁數：92 / 卷數：40 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxleN0r",
+       "created": 1646116897830,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxleN0s",
+       "created": 1646116897830,
+       "text": "【南條文雄編號】 Nj. 1266"
+      }},
+      {"data": {
+       "id": "z5cYxleN0t",
+       "created": 1646116897830,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1563"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzc51b1",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

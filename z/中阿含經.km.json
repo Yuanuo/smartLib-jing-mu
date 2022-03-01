@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "中阿含經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwL9N4",
+    "created": 1646116892343,
+    "text": "現藏錄（東晉 瞿曇僧伽提婆譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwL8M6",
+      "created": 1646116892342,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwL8M7",
+        "created": 1646116892342,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwL8M8",
+        "created": 1646116892342,
+        "text": "中阿含經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwL8M9",
+        "created": 1646116892342,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwL8MA",
+        "created": 1646116892342,
+        "text": "中阿含经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwL8MB",
+        "created": 1646116892342,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwL8MC",
+        "created": 1646116892342,
+        "text": "zhong a han jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwL8ML",
+        "created": 1646116892342,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwL8MM",
+        "created": 1646116892342,
+        "text": "Chung a han ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwL8MN",
+        "created": 1646116892342,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwL8MO",
+        "created": 1646116892342,
+        "text": "Madhyamāgama(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwL8MP",
+        "created": 1646116892342,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwL8MQ",
+        "created": 1646116892342,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwL8MR",
+        "created": 1646116892342,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwL8MS",
+        "created": 1646116892342,
+        "text": "중아함경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwL8MD",
+      "created": 1646116892342,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwL8ME",
+      "created": 1646116892342,
+      "text": "東晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwL8MF",
+      "created": 1646116892342,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwL8MG",
+       "created": 1646116892342,
+       "text": "東晉 瞿曇僧伽提婆譯"
+      }},
+      {"data": {
+       "id": "z5cYwL8MH",
+       "created": 1646116892342,
+       "text": "僧伽提婆",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwL8MI",
+       "created": 1646116892342,
+       "text": "道祖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwL8MJ",
+      "created": 1646116892342,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwL8MK",
+      "created": 1646116892342,
+      "text": "60"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwL8MT",
+      "created": 1646116892342,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwL8MU",
+      "created": 1646116892342,
+      "text": "Translation by Gautama Saṅghadeva: between the 10th day, 11th month, 1st year and the 25th day, 6th month, 2nd year of Lung An (隆安), Eastern Chin dynasty (東晉) (December 15th, A.D. 397-July 24th, A.D. 398) in Tung-t'ing Monastery (東亭寺).T. 2154-505a:2."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwL8MV",
+      "created": 1646116892342,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwL8MW",
+       "created": 1646116892342,
+       "text": "【北京版】Mdo-sna-tshogs (lu)278a-287b"
+      }},
+      {"data": {
+       "id": "z5cYwL8MX",
+       "created": 1646116892342,
+       "text": "【奈塘版】Mdo (ra)389a-403a"
+      }},
+      {"data": {
+       "id": "z5cYwL8MY",
+       "created": 1646116892342,
+       "text": "【德格版】Mdo-sde (śa)253b-261b"
+      }},
+      {"data": {
+       "id": "z5cYwL8MZ",
+       "created": 1646116892342,
+       "text": "【拉薩版】Mdo (ra)482a-495a"
+      }},
+      {"data": {
+       "id": "z5cYwL8Ma",
+       "created": 1646116892342,
+       "text": "【卓尼版】Mdo chen-po stoṅ-pa-ñid chen-poMdo-maṅ (śa)299b-309b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwL8Mb",
+      "created": 1646116892342,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwL8Mc",
+      "created": 1646116892342,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwL9Md",
+      "created": 1646116892343,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwL9Me",
+       "created": 1646116892343,
+       "text": "【房山石經】No.739《中阿含經》(東晉)罽賓三藏瞿曇僧伽提婆譯 冊數：21 / 頁數：1 / 卷數：60 / 刻經年代：金貞元元年至三年 / 瀏覽：目錄圖檔 千字文：夙-蘭"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mf",
+       "created": 1646116892343,
+       "text": "【開寶藏】No.644《中阿含經》東晉 罽賓三藏瞿曇僧伽提婆 譯 部別：小乘經 小乘經重單合譯 / 卷數：60 千字文：履-清"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mg",
+       "created": 1646116892343,
+       "text": "【崇寧藏】No.646《中阿含經》 卷數：60 千字文：薄(260)-似(265)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mh",
+       "created": 1646116892343,
+       "text": "【毘盧藏】No.647《中阿含經》東晉瞿曇伽提婆譯 千字文：薄(260)-似(265)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mi",
+       "created": 1646116892343,
+       "text": "【圓覺藏】No.655《中阿含經》 卷數：60 千字文：薄(260)-似(265)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mj",
+       "created": 1646116892343,
+       "text": "【趙城金藏】No.649《中阿含經》 卷數：60 千字文：履-清"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mk",
+       "created": 1646116892343,
+       "text": "【資福藏】No.660《中阿含經》 卷數：60 (六十卷) 千字文：薄(260)-似(265)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Ml",
+       "created": 1646116892343,
+       "text": "【磧砂藏】No.666《中阿含經》晉 瞿曇僧伽提婆譯 部別：阿含部 / 冊數：17 / 頁數：440 / 卷數：60 千字文：薄 1 (260)-似 10 (265)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mm",
+       "created": 1646116892343,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mn",
+       "created": 1646116892343,
+       "text": "【高麗藏】No.648《中阿含經》罽賓三藏瞿曇僧伽提婆譯 部別：小乘經 阿含部 / 冊數：17 頁數：1025(原版) 1015(新文豐) / 卷數：60 / 連結：高麗大藏經 (圖檔) 千字文：履-清"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mo",
+       "created": 1646116892343,
+       "text": "【普寧藏】No.658《中阿含經》 卷數：60 千字文：薄(260)-似(265)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mp",
+       "created": 1646116892343,
+       "text": "【至元錄】No.888《中阿含經》東晉罽賓三藏瞿曇僧伽提婆譯 梵名：麻地(二合)嵓阿甘 / 卷數：60 千字文：言(285)-初(290)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mq",
+       "created": 1646116892343,
+       "text": "【洪武南藏】No.586《中阿含經》東晉 罽賔三藏瞿曇僧伽提婆 譯 冊數：90-92 / 頁數：353 / 卷數：60 千字文：薄 1 (260)-似 10 (265)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mr",
+       "created": 1646116892343,
+       "text": "【永樂南藏】No.535《中阿含經》 部別：小乘經-阿含部 千字文：作(207)-立(212)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Ms",
+       "created": 1646116892343,
+       "text": "【永樂北藏】No.568《中阿含經》東晉僧伽提婆譯 部別：小乘經阿含部 / 冊數：55-56 / 頁數：1 / 卷數：60 千字文：作-立"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mt",
+       "created": 1646116892343,
+       "text": "【嘉興藏】No.537《中阿含經》東晉僧伽提婆譯 部別：小乘經-阿含部 / 法寶總目錄經號：0537 千字文 / 函號：［正藏］ 作(207)-立(212)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mu",
+       "created": 1646116892343,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mv",
+       "created": 1646116892343,
+       "text": "【乾隆藏】No.538《中阿含經》東晉 僧伽提婆譯 部別：小乘阿含部 / 冊數：46-47 / 頁數：541 / 卷數：60 千字文：作-立"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mw",
+       "created": 1646116892343,
+       "text": "【縮刻藏】No.482《中阿含經》東晉瞿曇僧伽提婆譯 部別：小乘經 / 卷數：60 千字文：昃 5 (12)-昃 7 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mx",
+       "created": 1646116892343,
+       "text": "【卍正藏】No.545《中阿含經》東晉 瞿曇僧伽提婆譯 部別：小乘經 阿含部 / 冊數：22-23 / 頁數：511 / 卷數：60 原版套數：第 12-13 套"
+      }},
+      {"data": {
+       "id": "z5cYwL9My",
+       "created": 1646116892343,
+       "text": "【大正藏】No.26《中阿含經》東晉 瞿曇僧伽提婆譯 部別：阿含部上 / 冊數：1 / 頁數：421 / 卷數：60 相關經典：縮-昃5-7,卍-12.9-13.1,南-9-11,國-阿4-6 參考資料：cf.Nos.10,11,14-17,27-94"
+      }},
+      {"data": {
+       "id": "z5cYwL9Mz",
+       "created": 1646116892343,
+       "text": "【佛教大藏經】No.490《中阿含經》東晉 瞿曇僧伽提婆譯 部別：小乘經 阿含部一 / 冊數：23-24 / 頁數：551 / 卷數：60"
+      }},
+      {"data": {
+       "id": "z5cYwL9N0",
+       "created": 1646116892343,
+       "text": "【中華藏】No.698《中阿含經》東晉罽賓三藏瞿曇僧伽提婆譯，道祖筆受 冊數：31 / 頁數：300 / 卷數：60 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwL9N1",
+       "created": 1646116892343,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwL9N2",
+       "created": 1646116892343,
+       "text": "【南條文雄編號】 Nj. 0542"
+      }},
+      {"data": {
+       "id": "z5cYwL9N3",
+       "created": 1646116892343,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：26"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhv3op",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

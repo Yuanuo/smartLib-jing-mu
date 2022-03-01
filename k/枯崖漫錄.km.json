@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "枯崖漫錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYz6Hlr2",
+    "created": 1646116902953,
+    "text": "現藏錄（宋 圓悟錄）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYz6HlqO",
+      "created": 1646116902953,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYz6HlqP",
+        "created": 1646116902953,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz6HlqQ",
+        "created": 1646116902953,
+        "text": "枯崖漫錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz6HlqR",
+        "created": 1646116902953,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz6HlqS",
+        "created": 1646116902953,
+        "text": "枯崖漫录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz6HlqT",
+        "created": 1646116902953,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYz6HlqU",
+        "created": 1646116902953,
+        "text": "ku ya man lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYz6HlqV",
+      "created": 1646116902953,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYz6HlqW",
+      "created": 1646116902953,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz6HlqX",
+      "created": 1646116902953,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYz6HlqY",
+      "created": 1646116902953,
+      "text": "宋 圓悟錄"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz6HlqZ",
+      "created": 1646116902953,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYz6Hlqa",
+      "created": 1646116902953,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz6Hlqb",
+      "created": 1646116902953,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYz6Hlqc",
+       "created": 1646116902953,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqd",
+       "created": 1646116902953,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqe",
+       "created": 1646116902953,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqf",
+       "created": 1646116902953,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqg",
+       "created": 1646116902953,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqh",
+       "created": 1646116902953,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqi",
+       "created": 1646116902953,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqj",
+       "created": 1646116902953,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqk",
+       "created": 1646116902953,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlql",
+       "created": 1646116902953,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqm",
+       "created": 1646116902953,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqn",
+       "created": 1646116902953,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqo",
+       "created": 1646116902953,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqp",
+       "created": 1646116902953,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqq",
+       "created": 1646116902953,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqr",
+       "created": 1646116902953,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqs",
+       "created": 1646116902953,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqt",
+       "created": 1646116902953,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqu",
+       "created": 1646116902953,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqv",
+       "created": 1646116902953,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqw",
+       "created": 1646116902953,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqx",
+       "created": 1646116902953,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqy",
+       "created": 1646116902953,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlqz",
+       "created": 1646116902953,
+       "text": "【新纂卍續藏】No.1613《枯崖漫錄》宋 圓悟錄 部別：中國撰述 史傳部十三 禪宗 / 冊數：87 / 頁數：24 / 卷數：3 《卍大日本續藏經》套數：第二編乙．第 21 套 《卍續藏經》(新文豐版)冊數：第 148 冊"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlr0",
+       "created": 1646116902953,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6Hlr1",
+       "created": 1646116902953,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1660"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3ah319",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

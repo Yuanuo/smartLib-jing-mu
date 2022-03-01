@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "諸法集要經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx6bBFV",
+    "created": 1646116895285,
+    "text": "現藏錄（觀無畏尊者集　宋 日稱等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx6aBEc",
+      "created": 1646116895284,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx6aBEd",
+        "created": 1646116895284,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6aBEe",
+        "created": 1646116895284,
+        "text": "諸法集要經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6aBEf",
+        "created": 1646116895284,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6aBEg",
+        "created": 1646116895284,
+        "text": "诸法集要经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6aBEh",
+        "created": 1646116895284,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6aBEi",
+        "created": 1646116895284,
+        "text": "zhu fa ji yao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6aBEr",
+        "created": 1646116895284,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6aBEs",
+        "created": 1646116895284,
+        "text": "Chu fa chi yao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6aBEt",
+        "created": 1646116895284,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6aBEu",
+        "created": 1646116895284,
+        "text": "Dharmasamuccaya",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6aBEv",
+        "created": 1646116895284,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6aBEw",
+        "created": 1646116895284,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6aBEx",
+        "created": 1646116895284,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6aBEy",
+        "created": 1646116895284,
+        "text": "제법집요경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6aBEj",
+      "created": 1646116895284,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6aBEk",
+      "created": 1646116895284,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6aBEl",
+      "created": 1646116895284,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6aBEm",
+       "created": 1646116895284,
+       "text": "觀無畏尊者集　宋 日稱等譯"
+      }},
+      {"data": {
+       "id": "z5cYx6aBEn",
+       "created": 1646116895284,
+       "text": "日稱",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYx6aBEo",
+       "created": 1646116895284,
+       "text": "觀無畏",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6aBEp",
+      "created": 1646116895284,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6aBEq",
+      "created": 1646116895284,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6aBEz",
+      "created": 1646116895284,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6aBF0",
+      "created": 1646116895284,
+      "text": "Translation by Jih-ch'eng and Dharmarakṣa: (see K.1488)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx6aBF1",
+     "created": 1646116895284,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx6aBF2",
+      "created": 1646116895284,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6aBF3",
+      "created": 1646116895284,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6aBF4",
+      "created": 1646116895284,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6aBF5",
+       "created": 1646116895284,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6aBF6",
+       "created": 1646116895284,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6aBF7",
+       "created": 1646116895284,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6aBF8",
+       "created": 1646116895284,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6aBF9",
+       "created": 1646116895284,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFA",
+       "created": 1646116895285,
+       "text": "【趙城金藏】No.1492《諸法集要經》 卷數：10 千字文：假"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFB",
+       "created": 1646116895285,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFC",
+       "created": 1646116895285,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFD",
+       "created": 1646116895285,
+       "text": "【宋藏遺珍】No.14《諸法集要經》宋 日稱等 譯 六冊版冊數：1 / 頁數：397 / 卷數：10 四冊版冊數：37 / 頁數：683"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFE",
+       "created": 1646116895285,
+       "text": "【高麗藏】No.1494《諸法集要經》日稱譯 部別：宋續入藏經 / 冊數：41 頁數：614 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：雁"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFF",
+       "created": 1646116895285,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFG",
+       "created": 1646116895285,
+       "text": "【至元錄】No.1525《諸法集要經》觀無為尊者造　宋三藏日稱等譯 卷數：10 千字文：扶(551)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFH",
+       "created": 1646116895285,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFI",
+       "created": 1646116895285,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFJ",
+       "created": 1646116895285,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFK",
+       "created": 1646116895285,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFL",
+       "created": 1646116895285,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFM",
+       "created": 1646116895285,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFN",
+       "created": 1646116895285,
+       "text": "【縮刻藏】No.1083《諸法集要經》觀無畏尊者集　宋日稱等譯 部別：印度撰述雜部 / 卷數：10 千字文：藏 9 (24)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFO",
+       "created": 1646116895285,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFP",
+       "created": 1646116895285,
+       "text": "【大正藏】No.728《諸法集要經》觀無畏尊者集 宋 日稱等譯 部別：經集部四 / 冊數：17 / 頁數：458 / 卷數：10 相關經典：縮-藏9,卍-1.2.1,國-經14 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx6bBFQ",
+       "created": 1646116895285,
+       "text": "【佛教大藏經】No.1153《諸法集要經》宋 日稱等譯 部別：雜部二 / 冊數：51 / 頁數：200 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFR",
+       "created": 1646116895285,
+       "text": "【中華藏】No.1647《諸法集要經》觀無畏尊者集，西天譯經三藏朝散大夫試鴻臚少卿宣梵大師賜紫沙門日稱等奉詔譯 冊數：69 / 頁數：785 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFS",
+       "created": 1646116895285,
+       "text": "【新纂卍續藏】No.54《諸法集要經》觀無畏尊者集　宋 日稱等譯 部別：印度撰述 論集部 / 冊數：2 / 頁數：4 / 卷數：10 《卍大日本續藏經》套數：第一編．第 2 套 《卍續藏經》(新文豐版)冊數：第 2 冊"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFT",
+       "created": 1646116895285,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6bBFU",
+       "created": 1646116895285,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：728"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxdgm8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

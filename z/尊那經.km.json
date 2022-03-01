@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "佛說尊那經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxDHCxJ",
+    "created": 1646116895699,
+    "text": "現藏錄（宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxDHCwS",
+      "created": 1646116895699,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxDHCwT",
+        "created": 1646116895699,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDHCwU",
+        "created": 1646116895699,
+        "text": "佛說尊那經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDHCwV",
+        "created": 1646116895699,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDHCwW",
+        "created": 1646116895699,
+        "text": "佛说尊那经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDHCwX",
+        "created": 1646116895699,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDHCwY",
+        "created": 1646116895699,
+        "text": "fo shuo zun na jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDHCwg",
+        "created": 1646116895699,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDHCwh",
+        "created": 1646116895699,
+        "text": "Tsun na ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxDHCwi",
+       "created": 1646116895699,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxDHCwj",
+        "created": 1646116895699,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDHCwk",
+        "created": 1646116895699,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDHCwl",
+        "created": 1646116895699,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDHCwm",
+        "created": 1646116895699,
+        "text": "존나경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxDHCwZ",
+      "created": 1646116895699,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDHCwa",
+      "created": 1646116895699,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDHCwb",
+      "created": 1646116895699,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxDHCwc",
+       "created": 1646116895699,
+       "text": "宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYxDHCwd",
+       "created": 1646116895699,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxDHCwe",
+      "created": 1646116895699,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDHCwf",
+      "created": 1646116895699,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDHCwn",
+      "created": 1646116895699,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDHCwo",
+      "created": 1646116895699,
+      "text": "Translation by Fa-hsien: (see K.1172)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxDHCwp",
+     "created": 1646116895699,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxDHCwq",
+      "created": 1646116895699,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDHCwr",
+      "created": 1646116895699,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDHCws",
+      "created": 1646116895699,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxDHCwt",
+       "created": 1646116895699,
+       "text": "【房山石經】No.1006《佛說尊那經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：27 / 頁數：160 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：傾"
+      }},
+      {"data": {
+       "id": "z5cYxDHCwu",
+       "created": 1646116895699,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCwv",
+       "created": 1646116895699,
+       "text": "【崇寧藏】No.1245《佛說尊那經》 卷數：1 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCww",
+       "created": 1646116895699,
+       "text": "【毘盧藏】No.1246《佛說尊那經》宋法賢譯 參考年代：(紹興一八．閏八) 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCwx",
+       "created": 1646116895699,
+       "text": "【圓覺藏】No.1248《尊那經》 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCwy",
+       "created": 1646116895699,
+       "text": "【趙城金藏】No.1249《尊那經》 卷數：1 千字文：冠"
+      }},
+      {"data": {
+       "id": "z5cYxDHCwz",
+       "created": 1646116895699,
+       "text": "【資福藏】No.1253《尊那經》 卷數：1 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx0",
+       "created": 1646116895699,
+       "text": "【磧砂藏】No.1260《佛說尊那經》宋 法賢譯 部別： / 冊數：33 / 頁數：211 / 卷數：1 千字文：輦 8 (508)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx1",
+       "created": 1646116895699,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx2",
+       "created": 1646116895699,
+       "text": "【高麗藏】No.1231《尊那經》西天三藏明教大師法賢譯 部別：宋續入藏經 / 冊數：34 頁數：498 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：冠"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx3",
+       "created": 1646116895699,
+       "text": "【普寧藏】No.1253《佛說尊那經》 卷數：1 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx4",
+       "created": 1646116895699,
+       "text": "【至元錄】No.517《尊那經》宋三藏法賢譯 卷數：1 千字文：賢(204)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx5",
+       "created": 1646116895699,
+       "text": "【洪武南藏】No.1112《佛說尊那經》三藏法師法賢 奉詔譯 冊數：182 / 頁數：493 / 卷數：1 千字文：輦 8 (508)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx6",
+       "created": 1646116895699,
+       "text": "【永樂南藏】No.917《佛說尊那經》 部別：宋元入藏諸大小乘經 千字文：夙(261)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx7",
+       "created": 1646116895699,
+       "text": "【永樂北藏】No.930《佛說尊那經》宋法賢譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：611 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx8",
+       "created": 1646116895699,
+       "text": "【嘉興藏】No.893《佛說尊那經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0893 千字文 / 函號：［正藏］ 臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCx9",
+       "created": 1646116895699,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxA",
+       "created": 1646116895699,
+       "text": "【乾隆藏】No.894《佛說尊那經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：747 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxB",
+       "created": 1646116895699,
+       "text": "【縮刻藏】No.382《佛說尊那經》宋法賢譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxC",
+       "created": 1646116895699,
+       "text": "【卍正藏】No.903《佛說尊那經》法賢譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：937 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxD",
+       "created": 1646116895699,
+       "text": "【大正藏】No.845《佛說尊那經》宋 法賢譯 部別：經集部四 / 冊數：17 / 頁數：932 / 卷數：1 相關經典：縮-宙8,卍-15.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxDHCxE",
+       "created": 1646116895699,
+       "text": "【佛教大藏經】No.385《佛說尊那經》宋 法賢譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：489 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxF",
+       "created": 1646116895699,
+       "text": "【中華藏】No.1360《佛說尊那經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：845 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxG",
+       "created": 1646116895699,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxH",
+       "created": 1646116895699,
+       "text": "【南條文雄編號】 Nj. 0899"
+      }},
+      {"data": {
+       "id": "z5cYxDHCxI",
+       "created": 1646116895699,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：845"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxoypm",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

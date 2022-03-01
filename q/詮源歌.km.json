@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "詮源歌"},
+  "children": [{
+   "data": {
+    "id": "z5cYzGBowl",
+    "created": 1646116903567,
+    "text": "現藏錄（宋太宗趙炅制）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzGAow7",
+      "created": 1646116903566,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzGAow8",
+        "created": 1646116903566,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGAow9",
+        "created": 1646116903566,
+        "text": "詮源歌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzGAowA",
+        "created": 1646116903566,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGBowB",
+        "created": 1646116903567,
+        "text": "诠源歌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzGBowC",
+        "created": 1646116903567,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGBowD",
+        "created": 1646116903567,
+        "text": "quan yuan ge"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzGBowE",
+      "created": 1646116903567,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGBowF",
+      "created": 1646116903567,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGBowG",
+      "created": 1646116903567,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGBowH",
+      "created": 1646116903567,
+      "text": "宋太宗趙炅制"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGBowI",
+      "created": 1646116903567,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGBowJ",
+      "created": 1646116903567,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGBowK",
+      "created": 1646116903567,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzGBowL",
+       "created": 1646116903567,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowM",
+       "created": 1646116903567,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowN",
+       "created": 1646116903567,
+       "text": "【崇寧藏】No.1282《御製詮源歌》 卷數：1 千字文：尹(532)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowO",
+       "created": 1646116903567,
+       "text": "【毘盧藏】No.1281《御製詮源歌》 參考年代：(紹興二○) 千字文：尹(532)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowP",
+       "created": 1646116903567,
+       "text": "【圓覺藏】No.1284《御製顯源歌》 千字文：纓(512)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowQ",
+       "created": 1646116903567,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowR",
+       "created": 1646116903567,
+       "text": "【資福藏】No.1289《御製顯源歌》 卷數：1 千字文：纓(512)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowS",
+       "created": 1646116903567,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowT",
+       "created": 1646116903567,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowU",
+       "created": 1646116903567,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowV",
+       "created": 1646116903567,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowW",
+       "created": 1646116903567,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowX",
+       "created": 1646116903567,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowY",
+       "created": 1646116903567,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowZ",
+       "created": 1646116903567,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowa",
+       "created": 1646116903567,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowb",
+       "created": 1646116903567,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowc",
+       "created": 1646116903567,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowd",
+       "created": 1646116903567,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowe",
+       "created": 1646116903567,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowf",
+       "created": 1646116903567,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowg",
+       "created": 1646116903567,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowh",
+       "created": 1646116903567,
+       "text": "【中華藏】No.1680《御製詮源歌》宋太宗趙炅撰 冊數：73 / 頁數：854 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYzGBowi",
+       "created": 1646116903567,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowj",
+       "created": 1646116903567,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGBowk",
+       "created": 1646116903567,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：21"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3ri39c",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

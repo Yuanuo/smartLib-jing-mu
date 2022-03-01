@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "梵網經述記卷第一"},
+  "children": [{
+   "data": {
+    "id": "z5cYyZObxW",
+    "created": 1646116900914,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyZNbwu",
+      "created": 1646116900913,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyZNbwv",
+        "created": 1646116900913,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZNbww",
+        "created": 1646116900913,
+        "text": "梵網經述記卷第一",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyZNbwx",
+        "created": 1646116900913,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZNbwy",
+        "created": 1646116900913,
+        "text": "梵网经述记卷第一",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyZNbwz",
+        "created": 1646116900913,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZNbx0",
+        "created": 1646116900913,
+        "text": "fan wang jing shu ji juan di yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyZNbx1",
+      "created": 1646116900913,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyZNbx2",
+      "created": 1646116900913,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyZNbx3",
+      "created": 1646116900913,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyZNbx4",
+      "created": 1646116900913,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyZObx5",
+      "created": 1646116900914,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyZObx6",
+       "created": 1646116900914,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObx7",
+       "created": 1646116900914,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObx8",
+       "created": 1646116900914,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObx9",
+       "created": 1646116900914,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxA",
+       "created": 1646116900914,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxB",
+       "created": 1646116900914,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxC",
+       "created": 1646116900914,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxD",
+       "created": 1646116900914,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxE",
+       "created": 1646116900914,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxF",
+       "created": 1646116900914,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxG",
+       "created": 1646116900914,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxH",
+       "created": 1646116900914,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxI",
+       "created": 1646116900914,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxJ",
+       "created": 1646116900914,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxK",
+       "created": 1646116900914,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxL",
+       "created": 1646116900914,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxM",
+       "created": 1646116900914,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxN",
+       "created": 1646116900914,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxO",
+       "created": 1646116900914,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxP",
+       "created": 1646116900914,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxQ",
+       "created": 1646116900914,
+       "text": "【大正藏】No.2797《梵網經述記卷第一》 部別：古逸部全 / 冊數：85 / 頁數：727 / 卷數：1 相關經典： 參考資料：cf.No.1484"
+      }},
+      {"data": {
+       "id": "z5cYyZObxR",
+       "created": 1646116900914,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxS",
+       "created": 1646116900914,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxT",
+       "created": 1646116900914,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxU",
+       "created": 1646116900914,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZObxV",
+       "created": 1646116900914,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2797"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1pt2bc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

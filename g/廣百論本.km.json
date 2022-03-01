@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "廣百論本"},
+  "children": [{
+   "data": {
+    "id": "z5cYxltN7U",
+    "created": 1646116897845,
+    "text": "現藏錄（聖天菩薩造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxltN6X",
+      "created": 1646116897845,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxltN6Y",
+        "created": 1646116897845,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxltN6Z",
+        "created": 1646116897845,
+        "text": "廣百論本",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxltN6a",
+        "created": 1646116897845,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxltN6b",
+        "created": 1646116897845,
+        "text": "广百论本",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxltN6c",
+        "created": 1646116897845,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxltN6d",
+        "created": 1646116897845,
+        "text": "guang bai lun ben"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxltN6m",
+        "created": 1646116897845,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxltN6n",
+        "created": 1646116897845,
+        "text": "Kuang pai lun pen"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxltN6o",
+        "created": 1646116897845,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxltN6p",
+        "created": 1646116897845,
+        "text": "Catuḥśataka",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxltN6q",
+        "created": 1646116897845,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxltN6r",
+        "created": 1646116897845,
+        "text": "Bstan-bcos bshi-brgya-pa shes-bya-baḥi tshig-leḥur-byas-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxltN6s",
+        "created": 1646116897845,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxltN6t",
+        "created": 1646116897845,
+        "text": "광백론본",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxltN6e",
+      "created": 1646116897845,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxltN6f",
+      "created": 1646116897845,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxltN6g",
+      "created": 1646116897845,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxltN6h",
+       "created": 1646116897845,
+       "text": "聖天菩薩造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxltN6i",
+       "created": 1646116897845,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxltN6j",
+       "created": 1646116897845,
+       "text": "聖天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxltN6k",
+      "created": 1646116897845,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxltN6l",
+      "created": 1646116897845,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxltN6u",
+      "created": 1646116897845,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxltN6v",
+      "created": 1646116897845,
+      "text": "Translation by Hsüan-tsang: 21st year of Cheng Kuan (貞觀) (A.D.647) at Ts'ui-wei Palace or between the 10th day, 6th month, and 23rd day, 12th month of the 1st year of Yung Hui (永徽), T'ang dynasty (唐) (July 13th, A.D. 650-January 30th, A.D. 651) in Ta-tz'u-en Monastery (大慈恩寺).T. 2154-556b:21."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxltN6w",
+      "created": 1646116897845,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxltN6x",
+       "created": 1646116897845,
+       "text": "【北京版】Mdo-ḥgrel (Dbu-ma)(tsha) 1-20b"
+      }},
+      {"data": {
+       "id": "z5cYxltN6y",
+       "created": 1646116897845,
+       "text": "【奈塘版】Mdo-ḥgrel (tsha)1-18a"
+      }},
+      {"data": {
+       "id": "z5cYxltN6z",
+       "created": 1646116897845,
+       "text": "【德格版】Dbu-ma (tsha)l b-18a"
+      }},
+      {"data": {
+       "id": "z5cYxltN70",
+       "created": 1646116897845,
+       "text": "【卓尼版】Dbu-ma (tsha)l b-18a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxltN71",
+      "created": 1646116897845,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxltN72",
+      "created": 1646116897845,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxltN73",
+      "created": 1646116897845,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxltN74",
+       "created": 1646116897845,
+       "text": "【房山石經】No.728《廣百論本》聖天菩薩造　三藏法師玄奘奉詔譯 冊數：19 / 頁數：595 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：是竟"
+      }},
+      {"data": {
+       "id": "z5cYxltN75",
+       "created": 1646116897845,
+       "text": "【開寶藏】No.579《廣百論本》唐 三藏玄奘 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：陰"
+      }},
+      {"data": {
+       "id": "z5cYxltN76",
+       "created": 1646116897845,
+       "text": "【崇寧藏】No.581《廣百論》 卷數：1 千字文：是(239)"
+      }},
+      {"data": {
+       "id": "z5cYxltN77",
+       "created": 1646116897845,
+       "text": "【毘盧藏】No.583《廣百論》唐玄奘譯 千字文：是(239)"
+      }},
+      {"data": {
+       "id": "z5cYxltN78",
+       "created": 1646116897845,
+       "text": "【圓覺藏】No.595《廣百論本》 千字文：是(239)"
+      }},
+      {"data": {
+       "id": "z5cYxltN79",
+       "created": 1646116897845,
+       "text": "【趙城金藏】No.583《廣百論本》 卷數：1 千字文：陰"
+      }},
+      {"data": {
+       "id": "z5cYxltN7A",
+       "created": 1646116897845,
+       "text": "【資福藏】No.600《廣百論本》 卷數：1 千字文：是(239)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7B",
+       "created": 1646116897845,
+       "text": "【磧砂藏】No.601《廣百論本》唐 玄奘譯 部別：集義論 / 冊數：16 / 頁數：176 / 卷數：1 千字文：是 10 (239)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7C",
+       "created": 1646116897845,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7D",
+       "created": 1646116897845,
+       "text": "【高麗藏】No.582《廣百論本》聖天菩薩造-三藏法師玄奘奉詔譯 部別：大乘論 集義論 / 冊數：16 頁數：568(原版) 620(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：陰"
+      }},
+      {"data": {
+       "id": "z5cYxltN7E",
+       "created": 1646116897845,
+       "text": "【普寧藏】No.594《廣百論本》 卷數：1 千字文：是(239)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7F",
+       "created": 1646116897845,
+       "text": "【至元錄】No.1309《廣百論本》聖天菩薩造　唐三藏玄奘譯 卷數：1 千字文：盤(427)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7G",
+       "created": 1646116897845,
+       "text": "【洪武南藏】No.530《廣百論本》聖天菩薩 造　唐 三藏法師玄奘 奉制譯　 冊數：83 / 頁數：109 / 卷數：1 千字文：是 10 (239)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7H",
+       "created": 1646116897845,
+       "text": "【永樂南藏】No.1340《廣百論本》 部別：大乘論 千字文：疲(392)-守(393)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7I",
+       "created": 1646116897845,
+       "text": "【永樂北藏】No.1235《廣百論本》唐玄奘譯 部別：大乘論 / 冊數：102 / 頁數：129 / 卷數：1 千字文：造"
+      }},
+      {"data": {
+       "id": "z5cYxltN7J",
+       "created": 1646116897845,
+       "text": "【嘉興藏】No.1181《廣百論本》唐玄奘譯 部別：大乘論 / 法寶總目錄經號：1180 千字文 / 函號：［正藏］ 造(373)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7K",
+       "created": 1646116897845,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7L",
+       "created": 1646116897845,
+       "text": "【乾隆藏】No.1182《廣百論本》聖天造　(唐)玄奘譯 部別：大乘論 / 冊數：83 / 頁數：667 / 卷數：1 千字文：造"
+      }},
+      {"data": {
+       "id": "z5cYxltN7M",
+       "created": 1646116897845,
+       "text": "【縮刻藏】No.925《廣百論本》聖天菩薩造　唐玄奘譯 部別：印度大乘宗經論 / 卷數：1 千字文：暑 2 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7N",
+       "created": 1646116897845,
+       "text": "【卍正藏】No.1197《廣百論本》唐 玄奘譯 部別：大乘論 / 冊數：40 / 頁數：408 / 卷數：1 原版套數：第 21 套"
+      }},
+      {"data": {
+       "id": "z5cYxltN7O",
+       "created": 1646116897845,
+       "text": "【大正藏】No.1570《廣百論本》聖天菩薩造 唐 玄奘譯 部別：中觀部全 / 冊數：30 / 頁數：182 / 卷數：1 相關經典：縮-往2,卍-21.7,國-中3 參考資料：cf.Nos.1569,1571"
+      }},
+      {"data": {
+       "id": "z5cYxltN7P",
+       "created": 1646116897845,
+       "text": "【佛教大藏經】No.967《廣百論本》唐 玄奘譯 部別：大乘宗經論 論部三 / 冊數：37 / 頁數：374 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxltN7Q",
+       "created": 1646116897845,
+       "text": "【中華藏】No.632《廣百論本》聖天菩薩造，三藏法師玄奘奉詔譯 冊數：29 / 頁數：119 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxltN7R",
+       "created": 1646116897845,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxltN7S",
+       "created": 1646116897845,
+       "text": "【南條文雄編號】 Nj. 1189"
+      }},
+      {"data": {
+       "id": "z5cYxltN7T",
+       "created": 1646116897845,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1570"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzcl1b8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

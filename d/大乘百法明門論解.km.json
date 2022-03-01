@@ -1,0 +1,266 @@
+{
+ "root": {
+  "data": {"text": "大乘百法明門論解"},
+  "children": [{
+   "data": {
+    "id": "z5cYxxCQbV",
+    "created": 1646116898546,
+    "text": "現藏錄（唐 窺基註解　明 普泰增修）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxxCQao",
+      "created": 1646116898546,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxxCQap",
+        "created": 1646116898546,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxCQaq",
+        "created": 1646116898546,
+        "text": "大乘百法明門論解",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxxCQar",
+        "created": 1646116898546,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxCQas",
+        "created": 1646116898546,
+        "text": "大乘百法明门论解",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxxCQat",
+        "created": 1646116898546,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxCQau",
+        "created": 1646116898546,
+        "text": "da cheng bai fa ming men lun jie"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxxCQav",
+      "created": 1646116898546,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxxCQaw",
+      "created": 1646116898546,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxxCQax",
+      "created": 1646116898546,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxxCQay",
+       "created": 1646116898546,
+       "text": "唐 窺基註解　明 普泰增修"
+      }},
+      {"data": {
+       "id": "z5cYxxCQaz",
+       "created": 1646116898546,
+       "text": "普泰",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxxCQb0",
+       "created": 1646116898546,
+       "text": "玄奘",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxxCQb1",
+       "created": 1646116898546,
+       "text": "窺基",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxxCQb2",
+      "created": 1646116898546,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxxCQb3",
+      "created": 1646116898546,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxxCQb4",
+      "created": 1646116898546,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxxCQb5",
+       "created": 1646116898546,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQb6",
+       "created": 1646116898546,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQb7",
+       "created": 1646116898546,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQb8",
+       "created": 1646116898546,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQb9",
+       "created": 1646116898546,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbA",
+       "created": 1646116898546,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbB",
+       "created": 1646116898546,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbC",
+       "created": 1646116898546,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbD",
+       "created": 1646116898546,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbE",
+       "created": 1646116898546,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbF",
+       "created": 1646116898546,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbG",
+       "created": 1646116898546,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbH",
+       "created": 1646116898546,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbI",
+       "created": 1646116898546,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbJ",
+       "created": 1646116898546,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbK",
+       "created": 1646116898546,
+       "text": "【嘉興藏】No.1640《八識規矩百法明門論》唐玄奘造頌-明普泰補注-唐玄奘譯 部別：大明續入藏諸集 / 法寶總目錄經號：1639 千字文 / 函號：［正藏］ 敦(675)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbL",
+       "created": 1646116898546,
+       "text": "【嘉興藏新文豐版】［正藏］No.146《大乘百法明門論解》唐 窺基註 冊數：9 / 頁數：383 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbM",
+       "created": 1646116898546,
+       "text": "【乾隆藏】No.1629《大乘百法明門論註》唐 玄奘譯　增修慈恩法師解 部別：此土著述 / 冊數：149 / 頁數：243 / 卷數：1 千字文：藝"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbN",
+       "created": 1646116898546,
+       "text": "【縮刻藏】No.1727《大乘百法明門論解》唐窺基註解　明普泰增修 部別：支那撰述-論疏部 / 卷數：2 千字文：調 9 (31)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbO",
+       "created": 1646116898546,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbP",
+       "created": 1646116898546,
+       "text": "【大正藏】No.1836《大乘百法明門論解》唐 窺基註解　明 普泰增修 部別：論疏部五 / 冊數：44 / 頁數：46 / 卷數：2 相關經典：縮-調9,續-1.76.5 參考資料：cf.No.1614"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbQ",
+       "created": 1646116898546,
+       "text": "【佛教大藏經】No.1911《大乘百法明門論解》唐 窺基註解，明 普秦增修 部別：論疏部 / 冊數：67 / 頁數：302 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbR",
+       "created": 1646116898546,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbS",
+       "created": 1646116898546,
+       "text": "【新纂卍續藏】No.801《百法明門論解》唐 窺基註解　明 普泰增修 部別：中國撰述 大小乘釋論部四 百法並百法明門論疏 / 冊數：48 / 頁數：298 / 卷數：2 《卍大日本續藏經》套數：第一編．第 76 套 《卍續藏經》(新文豐版)冊數：第 76 冊"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbT",
+       "created": 1646116898546,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxCQbU",
+       "created": 1646116898546,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1836"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzw21iv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

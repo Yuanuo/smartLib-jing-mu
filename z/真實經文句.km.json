@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "真實經文句"},
+  "children": [{
+   "data": {
+    "id": "z5cYyDRVjy",
+    "created": 1646116899553,
+    "text": "現藏錄（日本 空海撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyDRVjJ",
+      "created": 1646116899553,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyDRVjK",
+        "created": 1646116899553,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDRVjL",
+        "created": 1646116899553,
+        "text": "真實經文句",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyDRVjM",
+        "created": 1646116899553,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDRVjN",
+        "created": 1646116899553,
+        "text": "真实经文句",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyDRVjO",
+        "created": 1646116899553,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDRVjP",
+        "created": 1646116899553,
+        "text": "zhen shi jing wen ju"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyDRVjQ",
+      "created": 1646116899553,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyDRVjR",
+      "created": 1646116899553,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyDRVjS",
+      "created": 1646116899553,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyDRVjT",
+       "created": 1646116899553,
+       "text": "日本 空海撰"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjU",
+       "created": 1646116899553,
+       "text": "空海",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyDRVjV",
+      "created": 1646116899553,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyDRVjW",
+      "created": 1646116899553,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyDRVjX",
+      "created": 1646116899553,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyDRVjY",
+       "created": 1646116899553,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjZ",
+       "created": 1646116899553,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVja",
+       "created": 1646116899553,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjb",
+       "created": 1646116899553,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjc",
+       "created": 1646116899553,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjd",
+       "created": 1646116899553,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVje",
+       "created": 1646116899553,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjf",
+       "created": 1646116899553,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjg",
+       "created": 1646116899553,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjh",
+       "created": 1646116899553,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVji",
+       "created": 1646116899553,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjj",
+       "created": 1646116899553,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjk",
+       "created": 1646116899553,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjl",
+       "created": 1646116899553,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjm",
+       "created": 1646116899553,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjn",
+       "created": 1646116899553,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjo",
+       "created": 1646116899553,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjp",
+       "created": 1646116899553,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjq",
+       "created": 1646116899553,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjr",
+       "created": 1646116899553,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjs",
+       "created": 1646116899553,
+       "text": "【大正藏】No.2237《真實經文句》日本 空海撰 部別：續經疏部六 / 冊數：61 / 頁數：612 / 卷數：1 相關經典： 參考資料：cf.Nos.243,2231,2238,2239"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjt",
+       "created": 1646116899553,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVju",
+       "created": 1646116899553,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjv",
+       "created": 1646116899553,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjw",
+       "created": 1646116899553,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDRVjx",
+       "created": 1646116899553,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2237"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0o01vd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

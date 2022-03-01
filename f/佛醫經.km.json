@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "佛說佛醫經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxAUCC6",
+    "created": 1646116895526,
+    "text": "現藏錄（吳 竺律炎共支越譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxAUCBE",
+      "created": 1646116895526,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxAUCBF",
+        "created": 1646116895526,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxAUCBG",
+        "created": 1646116895526,
+        "text": "佛說佛醫經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxAUCBH",
+        "created": 1646116895526,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxAUCBI",
+        "created": 1646116895526,
+        "text": "佛说佛医经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxAUCBJ",
+        "created": 1646116895526,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxAUCBK",
+        "created": 1646116895526,
+        "text": "fo shuo fo yi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxAUCBT",
+        "created": 1646116895526,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxAUCBU",
+        "created": 1646116895526,
+        "text": "Fo i ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxAUCBV",
+       "created": 1646116895526,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxAUCBW",
+        "created": 1646116895526,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxAUCBX",
+        "created": 1646116895526,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxAUCBY",
+        "created": 1646116895526,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxAUCBZ",
+        "created": 1646116895526,
+        "text": "불의경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxAUCBL",
+      "created": 1646116895526,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxAUCBM",
+      "created": 1646116895526,
+      "text": "吳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxAUCBN",
+      "created": 1646116895526,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxAUCBO",
+       "created": 1646116895526,
+       "text": "吳 竺律炎共支越譯"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBP",
+       "created": 1646116895526,
+       "text": "支謙",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxAUCBQ",
+       "created": 1646116895526,
+       "text": "竺律炎",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxAUCBR",
+      "created": 1646116895526,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxAUCBS",
+      "created": 1646116895526,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxAUCBa",
+      "created": 1646116895526,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxAUCBb",
+      "created": 1646116895526,
+      "text": "Translation by (Chu) Lü-yen and Chih Yüeh: after the 2nd year of Huang Lung (黃龍), Wu dynasty (呉) (A.D. 230) in Yang-tu (楊都).T. 2151-352a:23."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxAUCBc",
+     "created": 1646116895526,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxAUCBd",
+      "created": 1646116895526,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxAUCBe",
+      "created": 1646116895526,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxAUCBf",
+      "created": 1646116895526,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxAUCBg",
+       "created": 1646116895526,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBh",
+       "created": 1646116895526,
+       "text": "【開寶藏】No.987《佛醫經》吳 天竺沙門竺律炎共支越 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：1 千字文：驚"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBi",
+       "created": 1646116895526,
+       "text": "【崇寧藏】No.990《佛說佛醫經鈔》 卷數：1 千字文：飛(431)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBj",
+       "created": 1646116895526,
+       "text": "【毘盧藏】No.990《佛說佛醫經鈔》吳天竺律炎共支越譯 千字文：飛(431)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBk",
+       "created": 1646116895526,
+       "text": "【圓覺藏】No.999《佛醫經鈔》 千字文：飛(431)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBl",
+       "created": 1646116895526,
+       "text": "【趙城金藏】No.1000《佛醫經》 卷數：1 千字文：飛"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBm",
+       "created": 1646116895526,
+       "text": "【資福藏】No.1004《佛醫經鈔》 卷數：1 千字文：飛(431)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBn",
+       "created": 1646116895526,
+       "text": "【磧砂藏】No.1015《佛說佛醫經》吳 竺律炎．支越譯 部別： / 冊數：28 / 頁數：175 / 卷數：1 千字文：飛 9 (431)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBo",
+       "created": 1646116895526,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBp",
+       "created": 1646116895526,
+       "text": "【高麗藏】No.998《佛醫經》吳天竺沙門竺律炎-共支越譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：167 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：飛"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBq",
+       "created": 1646116895526,
+       "text": "【普寧藏】No.1006《佛說佛醫經鈔》 卷數：1 千字文：飛(431)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBr",
+       "created": 1646116895526,
+       "text": "【至元錄】No.1444《佛醫經》吳天竺沙門竺律炎共支越譯 卷數：1 千字文：曲(539)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBs",
+       "created": 1646116895526,
+       "text": "【洪武南藏】No.899《佛說佛醫經》吳 沙門竺律炎共支越 譯 冊數：154 / 頁數：100 / 卷數：1 千字文：飛 9 (431)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBt",
+       "created": 1646116895526,
+       "text": "【永樂南藏】No.1082《佛說佛醫經》 部別：西土聖賢撰集 千字文：終(294)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBu",
+       "created": 1646116895526,
+       "text": "【永樂北藏】No.1385《佛說佛醫經》吳竺律炎-共支越譯 部別：西土聖賢撰集 / 冊數：129 / 頁數：29 / 卷數：1 千字文：明"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBv",
+       "created": 1646116895526,
+       "text": "【嘉興藏】No.1319《佛說佛醫經》吳竺律炎-共支越譯 部別：西土聖賢撰集 / 法寶總目錄經號：1318 千字文 / 函號：［正藏］ 明(472)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBw",
+       "created": 1646116895526,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBx",
+       "created": 1646116895526,
+       "text": "【乾隆藏】No.1320《佛說佛醫經》吳 部別：西土聖賢撰集 / 冊數：106 / 頁數：101 / 卷數：1 千字文：明"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBy",
+       "created": 1646116895526,
+       "text": "【縮刻藏】No.721《佛說佛醫經》吳竺律炎共支越譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCBz",
+       "created": 1646116895526,
+       "text": "【卍正藏】No.1334《佛說佛醫經》吳 竺律炎共支越譯 部別：西土聖賢撰集 / 冊數：49 / 頁數：901 / 卷數：1 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYxAUCC0",
+       "created": 1646116895526,
+       "text": "【大正藏】No.793《佛說佛醫經》吳 竺律炎共支越譯 部別：經集部四 / 冊數：17 / 頁數：737 / 卷數：1 相關經典：縮-宿8,卍-26.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxAUCC1",
+       "created": 1646116895526,
+       "text": "【佛教大藏經】No.742《佛說佛醫經》吳 竺律炎共支越譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：419 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxAUCC2",
+       "created": 1646116895526,
+       "text": "【中華藏】No.1084《佛說佛醫經》吳天竺沙門竺律炎共支越譯 冊數：51 / 頁數：630 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxAUCC3",
+       "created": 1646116895526,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxAUCC4",
+       "created": 1646116895526,
+       "text": "【南條文雄編號】 Nj. 1327"
+      }},
+      {"data": {
+       "id": "z5cYxAUCC5",
+       "created": 1646116895526,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：793"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxk5o4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

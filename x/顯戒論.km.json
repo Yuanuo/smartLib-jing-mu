@@ -1,0 +1,486 @@
+{
+ "root": {
+  "data": {"text": "顯戒論"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyIAXH4",
+     "created": 1646116899846,
+     "text": "現藏錄（日本 最澄撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyIAXGP",
+       "created": 1646116899846,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyIAXGQ",
+         "created": 1646116899846,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyIAXGR",
+         "created": 1646116899846,
+         "text": "顯戒論",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyIAXGS",
+         "created": 1646116899846,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyIAXGT",
+         "created": 1646116899846,
+         "text": "显戒论",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyIAXGU",
+         "created": 1646116899846,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyIAXGV",
+         "created": 1646116899846,
+         "text": "xian jie lun"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyIAXGW",
+       "created": 1646116899846,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyIAXGX",
+       "created": 1646116899846,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyIAXGY",
+       "created": 1646116899846,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyIAXGZ",
+        "created": 1646116899846,
+        "text": "日本 最澄撰"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGa",
+        "created": 1646116899846,
+        "text": "最澄",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyIAXGb",
+       "created": 1646116899846,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyIAXGc",
+       "created": 1646116899846,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyIAXGd",
+       "created": 1646116899846,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyIAXGe",
+        "created": 1646116899846,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGf",
+        "created": 1646116899846,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGg",
+        "created": 1646116899846,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGh",
+        "created": 1646116899846,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGi",
+        "created": 1646116899846,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGj",
+        "created": 1646116899846,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGk",
+        "created": 1646116899846,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGl",
+        "created": 1646116899846,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGm",
+        "created": 1646116899846,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGn",
+        "created": 1646116899846,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGo",
+        "created": 1646116899846,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGp",
+        "created": 1646116899846,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGq",
+        "created": 1646116899846,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGr",
+        "created": 1646116899846,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGs",
+        "created": 1646116899846,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGt",
+        "created": 1646116899846,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGu",
+        "created": 1646116899846,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGv",
+        "created": 1646116899846,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGw",
+        "created": 1646116899846,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGx",
+        "created": 1646116899846,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXGy",
+        "created": 1646116899846,
+        "text": "【大正藏】No.2376《顯戒論》日本 最澄撰 部別：續諸宗部五 / 冊數：74 / 頁數：589 / 卷數：3 相關經典：國-諸宗16 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYyIAXGz",
+        "created": 1646116899846,
+        "text": "【佛教大藏經】No.2078《顯戒論》日本 最澄撰 部別：撰述部 天台宗 / 冊數：84 / 頁數：1 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYyIAXH0",
+        "created": 1646116899846,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXH1",
+        "created": 1646116899846,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXH2",
+        "created": 1646116899846,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIAXH3",
+        "created": 1646116899846,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2376"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzSOsi8",
+     "created": 1646116904324,
+     "text": "現藏錄（日本 睿山最登撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzSOshU",
+       "created": 1646116904324,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzSOshV",
+         "created": 1646116904324,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzSOshW",
+         "created": 1646116904324,
+         "text": "顯戒論"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzSOshX",
+         "created": 1646116904324,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzSOshY",
+         "created": 1646116904324,
+         "text": "显戒论"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzSOshZ",
+         "created": 1646116904324,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzSOsha",
+         "created": 1646116904324,
+         "text": "xian jie lun"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzSOshb",
+       "created": 1646116904324,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzSOshc",
+       "created": 1646116904324,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzSOshd",
+       "created": 1646116904324,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYzSOshe",
+       "created": 1646116904324,
+       "text": "日本 睿山最登撰"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzSOshf",
+       "created": 1646116904324,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzSOshg",
+       "created": 1646116904324,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzSOshh",
+       "created": 1646116904324,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzSOshi",
+        "created": 1646116904324,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshj",
+        "created": 1646116904324,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshk",
+        "created": 1646116904324,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshl",
+        "created": 1646116904324,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshm",
+        "created": 1646116904324,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshn",
+        "created": 1646116904324,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsho",
+        "created": 1646116904324,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshp",
+        "created": 1646116904324,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshq",
+        "created": 1646116904324,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshr",
+        "created": 1646116904324,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshs",
+        "created": 1646116904324,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsht",
+        "created": 1646116904324,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshu",
+        "created": 1646116904324,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshv",
+        "created": 1646116904324,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshw",
+        "created": 1646116904324,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshx",
+        "created": 1646116904324,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshy",
+        "created": 1646116904324,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOshz",
+        "created": 1646116904324,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi0",
+        "created": 1646116904324,
+        "text": "【縮刻藏】No.1889《顯戒論》傳教大師最澄撰 部別：日本撰述部-天台宗 / 卷數：3 千字文：霜 6 (40)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi1",
+        "created": 1646116904324,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi2",
+        "created": 1646116904324,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi3",
+        "created": 1646116904324,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi4",
+        "created": 1646116904324,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi5",
+        "created": 1646116904324,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi6",
+        "created": 1646116904324,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzSOsi7",
+        "created": 1646116904324,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：678"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0w51za",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

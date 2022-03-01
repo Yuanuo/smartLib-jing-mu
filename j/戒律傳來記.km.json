@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "戒律傳來記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyH9Wwq",
+    "created": 1646116899783,
+    "text": "現藏錄（日本 豐安撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyH9WwB",
+      "created": 1646116899783,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyH9WwC",
+        "created": 1646116899783,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyH9WwD",
+        "created": 1646116899783,
+        "text": "戒律傳來記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyH9WwE",
+        "created": 1646116899783,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyH9WwF",
+        "created": 1646116899783,
+        "text": "戒律传来记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyH9WwG",
+        "created": 1646116899783,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyH9WwH",
+        "created": 1646116899783,
+        "text": "jie lv chuan lai ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyH9WwI",
+      "created": 1646116899783,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyH9WwJ",
+      "created": 1646116899783,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyH9WwK",
+      "created": 1646116899783,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyH9WwL",
+       "created": 1646116899783,
+       "text": "日本 豐安撰"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwM",
+       "created": 1646116899783,
+       "text": "豐安",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyH9WwN",
+      "created": 1646116899783,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyH9WwO",
+      "created": 1646116899783,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyH9WwP",
+      "created": 1646116899783,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyH9WwQ",
+       "created": 1646116899783,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwR",
+       "created": 1646116899783,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwS",
+       "created": 1646116899783,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwT",
+       "created": 1646116899783,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwU",
+       "created": 1646116899783,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwV",
+       "created": 1646116899783,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwW",
+       "created": 1646116899783,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwX",
+       "created": 1646116899783,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwY",
+       "created": 1646116899783,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9WwZ",
+       "created": 1646116899783,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwa",
+       "created": 1646116899783,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwb",
+       "created": 1646116899783,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwc",
+       "created": 1646116899783,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwd",
+       "created": 1646116899783,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwe",
+       "created": 1646116899783,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwf",
+       "created": 1646116899783,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwg",
+       "created": 1646116899783,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwh",
+       "created": 1646116899783,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwi",
+       "created": 1646116899783,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwj",
+       "created": 1646116899783,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwk",
+       "created": 1646116899783,
+       "text": "【大正藏】No.2347《戒律傳來記》日本 豐安撰 部別：續諸宗部五 / 冊數：74 / 頁數：1 / 卷數：3 相關經典：佛全-105 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwl",
+       "created": 1646116899783,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwm",
+       "created": 1646116899783,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwn",
+       "created": 1646116899783,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwo",
+       "created": 1646116899783,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyH9Wwp",
+       "created": 1646116899783,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2347"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0uf1yg",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

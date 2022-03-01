@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "尊婆須蜜菩薩所集論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxkPMoS",
+    "created": 1646116897753,
+    "text": "現藏錄（尊婆須蜜造　符秦 僧伽跋澄等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxkOMna",
+      "created": 1646116897752,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxkOMnb",
+        "created": 1646116897752,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkOMnc",
+        "created": 1646116897752,
+        "text": "尊婆須蜜菩薩所集論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkOMnd",
+        "created": 1646116897752,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkOMne",
+        "created": 1646116897752,
+        "text": "尊婆须蜜菩萨所集论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkOMnf",
+        "created": 1646116897752,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkOMng",
+        "created": 1646116897752,
+        "text": "zun po xu mi pu sa suo ji lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkPMnp",
+        "created": 1646116897753,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkPMnq",
+        "created": 1646116897753,
+        "text": "Tsun p'o hsü mi p'u sa so chi lun"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxkPMnr",
+       "created": 1646116897753,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxkPMns",
+        "created": 1646116897753,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkPMnt",
+        "created": 1646116897753,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkPMnu",
+        "created": 1646116897753,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkPMnv",
+        "created": 1646116897753,
+        "text": "존파수밀보살소집론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxkPMnh",
+      "created": 1646116897753,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkPMni",
+      "created": 1646116897753,
+      "text": "符秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkPMnj",
+      "created": 1646116897753,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxkPMnk",
+       "created": 1646116897753,
+       "text": "尊婆須蜜造　符秦 僧伽跋澄等譯"
+      }},
+      {"data": {
+       "id": "z5cYxkPMnl",
+       "created": 1646116897753,
+       "text": "僧伽跋澄",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxkPMnm",
+       "created": 1646116897753,
+       "text": "尊婆須蜜",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxkPMnn",
+      "created": 1646116897753,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkPMno",
+      "created": 1646116897753,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkPMnw",
+      "created": 1646116897753,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkPMnx",
+      "created": 1646116897753,
+      "text": "Translation by Saṅghabhūti, etc.: between the 5th day, 3rd month and the 13th day, 7th month, 20th year of Chien Yüan (建元), Fu Ch'in dynasty (符秦) (April 11th-August 15th, A.D. 384).T.2154-510c-21."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxkPMny",
+     "created": 1646116897753,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxkPMnz",
+      "created": 1646116897753,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkPMo0",
+      "created": 1646116897753,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkPMo1",
+      "created": 1646116897753,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxkPMo2",
+       "created": 1646116897753,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMo3",
+       "created": 1646116897753,
+       "text": "【開寶藏】No.958《尊婆須蜜菩薩所集論》符秦 尊者婆須蜜 造 罽賓三藏僧伽跋澄等 譯 部別：小乘論 聲聞對法藏 / 卷數：10 千字文：東-西"
+      }},
+      {"data": {
+       "id": "z5cYxkPMo4",
+       "created": 1646116897753,
+       "text": "【崇寧藏】No.961《尊婆須蜜菩薩所集論》 卷數：10 千字文：夏(412)-東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMo5",
+       "created": 1646116897753,
+       "text": "【毘盧藏】No.961《尊婆須蜜菩薩所集論》序作者未詳　符秦僧伽跋登等譯 參考年代：(紹興四．正) 千字文：夏(412)-東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMo6",
+       "created": 1646116897753,
+       "text": "【圓覺藏】No.970《尊婆須蜜菩薩所集論》 卷數：10 千字文：夏(412)-東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMo7",
+       "created": 1646116897753,
+       "text": "【趙城金藏】No.965《尊婆須密菩薩所集論》 卷數：10 千字文：邑華"
+      }},
+      {"data": {
+       "id": "z5cYxkPMo8",
+       "created": 1646116897753,
+       "text": "【資福藏】No.976《尊婆須蜜菩薩所集論》 卷數：10 (十卷) 千字文：夏(412)-東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMo9",
+       "created": 1646116897753,
+       "text": "【磧砂藏】No.986《尊婆須蜜菩薩所集論》苻秦 僧伽跋澄等譯 部別： / 冊數：26 / 頁數：691 / 卷數：10 千字文：夏 1 (412)-東 3 (413)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoA",
+       "created": 1646116897753,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoB",
+       "created": 1646116897753,
+       "text": "【高麗藏】No.963《尊婆須蜜菩薩所集論》符秦罽賓三藏僧伽跋澄等譯 部別：小乘論 / 冊數：28 頁數：572 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：邑-華"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoC",
+       "created": 1646116897753,
+       "text": "【普寧藏】No.977《尊婆須蜜菩薩所集論》 卷數：10 千字文：夏(412)-東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoD",
+       "created": 1646116897753,
+       "text": "【至元錄】No.1413《尊婆須蜜所集論》婆須蜜造　苻秦罽賓三藏僧伽跋澄譯 卷數：10 千字文：駕(518)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoE",
+       "created": 1646116897753,
+       "text": "【洪武南藏】No.870《尊婆須蜜菩薩所集論》符秦 罽賔三藏僧伽跋澄 等譯 冊數：145-146 / 頁數：461 / 卷數：10 千字文：夏 1 (412)-東 3 (413)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoF",
+       "created": 1646116897753,
+       "text": "【永樂南藏】No.1419《尊婆須密菩薩》 部別：小乘論 千字文：集(474)-墳(475)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoG",
+       "created": 1646116897753,
+       "text": "【永樂北藏】No.1345《尊婆須蜜菩薩所集論》苻秦僧伽跋澄等譯 部別：小乘論 / 冊數：123 / 頁數：577 / 卷數：15 千字文：吹-笙"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoH",
+       "created": 1646116897753,
+       "text": "【嘉興藏】No.1281《尊婆須蜜所集論》苻秦僧伽跋澄等譯 部別：小乘論 / 法寶總目錄經號：1280 千字文 / 函號：［正藏］ 吹(455)-笙(456)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoI",
+       "created": 1646116897753,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoJ",
+       "created": 1646116897753,
+       "text": "【乾隆藏】No.1282《尊婆須蜜菩薩所集論》苻秦 僧伽跋澄等譯 部別：小乘論 / 冊數：101-102 / 頁數：591 / 卷數：15 千字文：吹笙"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoK",
+       "created": 1646116897753,
+       "text": "【縮刻藏】No.1027《尊婆須蜜菩薩所集論》尊婆須蜜造　符秦僧伽跋澄等譯 部別：印度小乘論 / 卷數：10 千字文：藏 1 (24)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoL",
+       "created": 1646116897753,
+       "text": "【卍正藏】No.1296《尊婆須蜜菩薩所集論》苻秦 僧伽跋澄等譯 部別：小乘論 / 冊數：47-48 / 頁數：913 / 卷數：10 原版套數：第 25 套"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoM",
+       "created": 1646116897753,
+       "text": "【大正藏】No.1549《尊婆須蜜菩薩所集論》尊婆須蜜造 符秦 僧伽跋澄等譯 部別：毘曇部三 / 冊數：28 / 頁數：721 / 卷數：10 相關經典：縮-藏1,卍-25.5-6,國-毘6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxkPMoN",
+       "created": 1646116897753,
+       "text": "【佛教大藏經】No.1071《尊婆須蜜菩薩所集論》符秦 僧伽跋澄等譯 部別：小乘論 論部十三 / 冊數：47 / 頁數：58 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoO",
+       "created": 1646116897753,
+       "text": "【中華藏】No.1048《尊婆須蜜菩薩所集論》尊婆須蜜造，符秦罽賓三藏僧伽跋澄等譯 冊數：48 / 頁數：781 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoP",
+       "created": 1646116897753,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoQ",
+       "created": 1646116897753,
+       "text": "【南條文雄編號】 Nj. 1289"
+      }},
+      {"data": {
+       "id": "z5cYxkPMoR",
+       "created": 1646116897753,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1549"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhza01an",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

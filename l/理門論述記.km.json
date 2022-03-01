@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "理門論述記"},
+  "children": [{
+   "data": {
+    "id": "z5cYxxIQdX",
+    "created": 1646116898552,
+    "text": "現藏錄（唐 神泰撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxxIQcs",
+      "created": 1646116898552,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxxIQct",
+        "created": 1646116898552,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxIQcu",
+        "created": 1646116898552,
+        "text": "理門論述記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxxIQcv",
+        "created": 1646116898552,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxIQcw",
+        "created": 1646116898552,
+        "text": "理门论述记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxxIQcx",
+        "created": 1646116898552,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxIQcy",
+        "created": 1646116898552,
+        "text": "li men lun shu ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxxIQcz",
+      "created": 1646116898552,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxxIQd0",
+      "created": 1646116898552,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxxIQd1",
+      "created": 1646116898552,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxxIQd2",
+       "created": 1646116898552,
+       "text": "唐 神泰撰"
+      }},
+      {"data": {
+       "id": "z5cYxxIQd3",
+       "created": 1646116898552,
+       "text": "神泰",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxxIQd4",
+      "created": 1646116898552,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxxIQd5",
+      "created": 1646116898552,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxxIQd6",
+      "created": 1646116898552,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxxIQd7",
+       "created": 1646116898552,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQd8",
+       "created": 1646116898552,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQd9",
+       "created": 1646116898552,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdA",
+       "created": 1646116898552,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdB",
+       "created": 1646116898552,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdC",
+       "created": 1646116898552,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdD",
+       "created": 1646116898552,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdE",
+       "created": 1646116898552,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdF",
+       "created": 1646116898552,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdG",
+       "created": 1646116898552,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdH",
+       "created": 1646116898552,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdI",
+       "created": 1646116898552,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdJ",
+       "created": 1646116898552,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdK",
+       "created": 1646116898552,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdL",
+       "created": 1646116898552,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdM",
+       "created": 1646116898552,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdN",
+       "created": 1646116898552,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdO",
+       "created": 1646116898552,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdP",
+       "created": 1646116898552,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdQ",
+       "created": 1646116898552,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdR",
+       "created": 1646116898552,
+       "text": "【大正藏】No.1839《理門論述記》唐 神泰撰 部別：論疏部五 / 冊數：44 / 頁數：77 / 卷數：1 相關經典：續-1.84.4 參考資料：cf.No.1628"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdS",
+       "created": 1646116898552,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdT",
+       "created": 1646116898552,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdU",
+       "created": 1646116898552,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdV",
+       "created": 1646116898552,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxIQdW",
+       "created": 1646116898552,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1839"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzw71iy",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

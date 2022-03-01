@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "蓮如上人御文"},
+  "children": [{
+   "data": {
+    "id": "z5cYyUuaaV",
+    "created": 1646116900636,
+    "text": "現藏錄（日本 圓如光融編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyUuaZq",
+      "created": 1646116900636,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyUuaZr",
+        "created": 1646116900636,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUuaZs",
+        "created": 1646116900636,
+        "text": "蓮如上人御文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUuaZt",
+        "created": 1646116900636,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUuaZu",
+        "created": 1646116900636,
+        "text": "莲如上人御文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUuaZv",
+        "created": 1646116900636,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUuaZw",
+        "created": 1646116900636,
+        "text": "lian ru shang ren yu wen"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyUuaZx",
+      "created": 1646116900636,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUuaZy",
+      "created": 1646116900636,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUuaZz",
+      "created": 1646116900636,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyUuaa0",
+       "created": 1646116900636,
+       "text": "日本 圓如光融編"
+      }},
+      {"data": {
+       "id": "z5cYyUuaa1",
+       "created": 1646116900636,
+       "text": "圓如光融",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyUuaa2",
+      "created": 1646116900636,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUuaa3",
+      "created": 1646116900636,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUuaa4",
+      "created": 1646116900636,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyUuaa5",
+       "created": 1646116900636,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaa6",
+       "created": 1646116900636,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaa7",
+       "created": 1646116900636,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaa8",
+       "created": 1646116900636,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaa9",
+       "created": 1646116900636,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaA",
+       "created": 1646116900636,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaB",
+       "created": 1646116900636,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaC",
+       "created": 1646116900636,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaD",
+       "created": 1646116900636,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaE",
+       "created": 1646116900636,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaF",
+       "created": 1646116900636,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaG",
+       "created": 1646116900636,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaH",
+       "created": 1646116900636,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaI",
+       "created": 1646116900636,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaJ",
+       "created": 1646116900636,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaK",
+       "created": 1646116900636,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaL",
+       "created": 1646116900636,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaM",
+       "created": 1646116900636,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaN",
+       "created": 1646116900636,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaO",
+       "created": 1646116900636,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaP",
+       "created": 1646116900636,
+       "text": "【大正藏】No.2668《蓮如上人御文》日本 圓如光融編 部別：續諸宗部十四 / 冊數：83 / 頁數：771 / 卷數：5 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyUuaaQ",
+       "created": 1646116900636,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaR",
+       "created": 1646116900636,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaS",
+       "created": 1646116900636,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaT",
+       "created": 1646116900636,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUuaaU",
+       "created": 1646116900636,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2668"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1i427q",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

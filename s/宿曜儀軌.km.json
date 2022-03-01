@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "宿曜儀軌"},
+  "children": [{
+   "data": {
+    "id": "z5cYxYUJHu",
+    "created": 1646116897014,
+    "text": "現藏錄（唐 一行撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxYUJHF",
+      "created": 1646116897014,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxYUJHG",
+        "created": 1646116897014,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxYUJHH",
+        "created": 1646116897014,
+        "text": "宿曜儀軌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxYUJHI",
+        "created": 1646116897014,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxYUJHJ",
+        "created": 1646116897014,
+        "text": "宿曜仪轨",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxYUJHK",
+        "created": 1646116897014,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxYUJHL",
+        "created": 1646116897014,
+        "text": "su yao yi gui"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxYUJHM",
+      "created": 1646116897014,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxYUJHN",
+      "created": 1646116897014,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxYUJHO",
+      "created": 1646116897014,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxYUJHP",
+       "created": 1646116897014,
+       "text": "唐 一行撰"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHQ",
+       "created": 1646116897014,
+       "text": "一行",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxYUJHR",
+      "created": 1646116897014,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxYUJHS",
+      "created": 1646116897014,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxYUJHT",
+      "created": 1646116897014,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxYUJHU",
+       "created": 1646116897014,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHV",
+       "created": 1646116897014,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHW",
+       "created": 1646116897014,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHX",
+       "created": 1646116897014,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHY",
+       "created": 1646116897014,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHZ",
+       "created": 1646116897014,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHa",
+       "created": 1646116897014,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHb",
+       "created": 1646116897014,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHc",
+       "created": 1646116897014,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHd",
+       "created": 1646116897014,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHe",
+       "created": 1646116897014,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHf",
+       "created": 1646116897014,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHg",
+       "created": 1646116897014,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHh",
+       "created": 1646116897014,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHi",
+       "created": 1646116897014,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHj",
+       "created": 1646116897014,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHk",
+       "created": 1646116897014,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHl",
+       "created": 1646116897014,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHm",
+       "created": 1646116897014,
+       "text": "【縮刻藏】No.1337《宿曜儀軌》唐一行撰 部別：祕密部 / 卷數：1 千字文：餘 2 (26)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHn",
+       "created": 1646116897014,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHo",
+       "created": 1646116897014,
+       "text": "【大正藏】No.1304《宿曜儀軌》唐 一行撰 部別：密教部四 / 冊數：21 / 頁數：422 / 卷數：1 相關經典：縮-餘2,續-2.9.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxYUJHp",
+       "created": 1646116897014,
+       "text": "【佛教大藏經】No.1409《宿曜儀軌》唐 一行撰 部別：密教部三 / 冊數：54 / 頁數：240 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHq",
+       "created": 1646116897014,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHr",
+       "created": 1646116897014,
+       "text": "【新纂卍續藏】No.1039《宿曜儀軌》唐 一行撰 部別：中國撰述 諸宗著述部六 真言宗 / 冊數：59 / 頁數：14 / 卷數：1 《卍大日本續藏經》套數：第二編．第 9 套 《卍續藏經》(新文豐版)冊數：第 104 冊"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHs",
+       "created": 1646116897014,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxYUJHt",
+       "created": 1646116897014,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1304"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyph13j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

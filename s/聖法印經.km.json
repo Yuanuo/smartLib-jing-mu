@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "佛說聖法印經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwTs1S7",
+    "created": 1646116892884,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwTq1RG",
+      "created": 1646116892882,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwTq1RH",
+        "created": 1646116892882,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwTq1RI",
+        "created": 1646116892882,
+        "text": "佛說聖法印經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwTq1RJ",
+        "created": 1646116892882,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwTq1RK",
+        "created": 1646116892882,
+        "text": "佛说圣法印经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwTq1RL",
+        "created": 1646116892882,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwTr1RM",
+        "created": 1646116892883,
+        "text": "fo shuo sheng fa yin jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwTr1RU",
+        "created": 1646116892883,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwTr1RV",
+        "created": 1646116892883,
+        "text": "Sheng fa yin ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwTr1RW",
+       "created": 1646116892883,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwTr1RX",
+        "created": 1646116892883,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwTr1RY",
+        "created": 1646116892883,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwTr1RZ",
+        "created": 1646116892883,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwTr1Ra",
+        "created": 1646116892883,
+        "text": "성법인경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwTr1RN",
+      "created": 1646116892883,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwTr1RO",
+      "created": 1646116892883,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwTr1RP",
+      "created": 1646116892883,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwTr1RQ",
+       "created": 1646116892883,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwTr1RR",
+       "created": 1646116892883,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwTr1RS",
+      "created": 1646116892883,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwTr1RT",
+      "created": 1646116892883,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwTr1Rb",
+      "created": 1646116892883,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwTr1Rc",
+      "created": 1646116892883,
+      "text": "Translation by Dharmarakṣa: 5th day, 12th month, 4th year of Yüan K'ang (元康), Western Chin dynasty (西晉) (January 7th, A.D. 295) in Chiu-ch'üan province (酒泉郡).T. 2149-234b:24; T. 2154-495a:14."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwTr1Rd",
+     "created": 1646116892883,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwTr1Re",
+      "created": 1646116892883,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwTr1Rf",
+      "created": 1646116892883,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwTr1Rg",
+      "created": 1646116892883,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwTr1Rh",
+       "created": 1646116892883,
+       "text": "【房山石經】No.189《佛說聖法印經》(西晉)三藏竺法護譯 冊數：3 / 頁數：485 / 卷數：1 / 刻經年代：大中十四年 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYwTr1Ri",
+       "created": 1646116892883,
+       "text": "【開寶藏】No.741《聖法印經》西晉 三藏竺法護 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：言"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rj",
+       "created": 1646116892883,
+       "text": "【崇寧藏】No.742《佛說聖法印經》 卷數：1 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rk",
+       "created": 1646116892883,
+       "text": "【毘盧藏】No.743《佛說聖法印經》西晉竺法護譯 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rl",
+       "created": 1646116892883,
+       "text": "【圓覺藏】No.750《聖法印經》 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rm",
+       "created": 1646116892883,
+       "text": "【趙城金藏】No.753《聖法印經》 卷數：1 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rn",
+       "created": 1646116892883,
+       "text": "【資福藏】No.756《聖法印經》 卷數：1 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Ro",
+       "created": 1646116892883,
+       "text": "【磧砂藏】No.762《佛說聖法印經》晋 竺法護譯 部別：阿含部 / 冊數：19 / 頁數：25 / 卷數：1 千字文：思 5 (284)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rp",
+       "created": 1646116892883,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rq",
+       "created": 1646116892883,
+       "text": "【高麗藏】No.750《聖法印經》西晉月氏三藏竺法護譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：719(原版) 745(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rr",
+       "created": 1646116892883,
+       "text": "【普寧藏】No.754《佛說聖法印經》 卷數：1 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rs",
+       "created": 1646116892883,
+       "text": "【至元錄】No.984《聖法印經》西晉天竺三藏竺法護譯 卷數：1 千字文：攝(309)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rt",
+       "created": 1646116892883,
+       "text": "【洪武南藏】No.682《佛說聖法印經》西晉 三藏竺法護 譯 冊數：99 / 頁數：568 / 卷數：1 千字文：思 5 (284)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Ru",
+       "created": 1646116892883,
+       "text": "【永樂南藏】No.631《佛說聖法印經》 部別：小乘經-阿含部 千字文：緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rv",
+       "created": 1646116892883,
+       "text": "【永樂北藏】No.682《佛說聖法印經》西晉竺法護譯 部別：小乘經阿含部 / 冊數：62 / 頁數：395 / 卷數：1 千字文：慶"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rw",
+       "created": 1646116892883,
+       "text": "【嘉興藏】No.647《佛說聖法印經》西晉竺法護譯 部別：小乘經-阿含部 / 法寶總目錄經號：0647 千字文 / 函號：［正藏］ 慶(232)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rx",
+       "created": 1646116892883,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Ry",
+       "created": 1646116892883,
+       "text": "【乾隆藏】No.648《佛說聖法印經》西晉 竺法護譯 部別：小乘阿含部 / 冊數：52 / 頁數：373 / 卷數：1 千字文：慶"
+      }},
+      {"data": {
+       "id": "z5cYwTr1Rz",
+       "created": 1646116892883,
+       "text": "【縮刻藏】No.577《佛說聖法印經》西晉竺法護譯 部別：小乘經 / 卷數：1 千字文：辰 6 (13)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1S0",
+       "created": 1646116892883,
+       "text": "【卍正藏】No.656《佛說聖法印經》西晉 竺法護譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：432 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwTr1S1",
+       "created": 1646116892883,
+       "text": "【大正藏】No.103《佛說聖法印經》西晉 竺法護譯 部別：阿含部下 / 冊數：2 / 頁數：500 / 卷數：1 相關經典：縮-辰6,卍-14.2 參考資料：Nos.99(80),104"
+      }},
+      {"data": {
+       "id": "z5cYwTr1S2",
+       "created": 1646116892883,
+       "text": "【佛教大藏經】No.585《佛說聖法印經》西晉 竺法護譯 部別：小乘經 阿含部四 / 冊數：26 / 頁數：26 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwTr1S3",
+       "created": 1646116892883,
+       "text": "【中華藏】No.804《佛說聖法印經》西晉月氏國三藏竺法護譯 冊數：34 / 頁數：312 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwTr1S4",
+       "created": 1646116892883,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwTr1S5",
+       "created": 1646116892883,
+       "text": "【南條文雄編號】 Nj. 0652"
+      }},
+      {"data": {
+       "id": "z5cYwTr1S6",
+       "created": 1646116892883,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：103"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvip2u",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

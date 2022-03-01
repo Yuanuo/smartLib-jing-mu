@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "十地義記卷第一"},
+  "children": [{
+   "data": {
+    "id": "z5cYyXtbY1",
+    "created": 1646116900821,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyXtbXP",
+      "created": 1646116900821,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyXtbXQ",
+        "created": 1646116900821,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXtbXR",
+        "created": 1646116900821,
+        "text": "十地義記卷第一",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXtbXS",
+        "created": 1646116900821,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXtbXT",
+        "created": 1646116900821,
+        "text": "十地义记卷第一",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXtbXU",
+        "created": 1646116900821,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXtbXV",
+        "created": 1646116900821,
+        "text": "shi di yi ji juan di yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyXtbXW",
+      "created": 1646116900821,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXtbXX",
+      "created": 1646116900821,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXtbXY",
+      "created": 1646116900821,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXtbXZ",
+      "created": 1646116900821,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXtbXa",
+      "created": 1646116900821,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyXtbXb",
+       "created": 1646116900821,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXc",
+       "created": 1646116900821,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXd",
+       "created": 1646116900821,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXe",
+       "created": 1646116900821,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXf",
+       "created": 1646116900821,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXg",
+       "created": 1646116900821,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXh",
+       "created": 1646116900821,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXi",
+       "created": 1646116900821,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXj",
+       "created": 1646116900821,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXk",
+       "created": 1646116900821,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXl",
+       "created": 1646116900821,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXm",
+       "created": 1646116900821,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXn",
+       "created": 1646116900821,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXo",
+       "created": 1646116900821,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXp",
+       "created": 1646116900821,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXq",
+       "created": 1646116900821,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXr",
+       "created": 1646116900821,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXs",
+       "created": 1646116900821,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXt",
+       "created": 1646116900821,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXu",
+       "created": 1646116900821,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXv",
+       "created": 1646116900821,
+       "text": "【大正藏】No.2758《十地義記卷第一》 部別：古逸部全 / 冊數：85 / 頁數：236 / 卷數：1 相關經典： 參考資料：cf.No.1522"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXw",
+       "created": 1646116900821,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXx",
+       "created": 1646116900821,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXy",
+       "created": 1646116900821,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbXz",
+       "created": 1646116900821,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXtbY0",
+       "created": 1646116900821,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2758"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1n82a8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

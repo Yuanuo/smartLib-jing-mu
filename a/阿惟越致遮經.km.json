@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說阿惟越致遮經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwg73u5",
+    "created": 1646116893643,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwg73t8",
+      "created": 1646116893643,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwg73t9",
+        "created": 1646116893643,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwg73tA",
+        "created": 1646116893643,
+        "text": "佛說阿惟越致遮經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwg73tB",
+        "created": 1646116893643,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwg73tC",
+        "created": 1646116893643,
+        "text": "佛说阿惟越致遮经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwg73tD",
+        "created": 1646116893643,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwg73tE",
+        "created": 1646116893643,
+        "text": "fo shuo a wei yue zhi zhe jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwg73tM",
+        "created": 1646116893643,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwg73tN",
+        "created": 1646116893643,
+        "text": "A wei yüeh chih che ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwg73tO",
+        "created": 1646116893643,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwg73tP",
+        "created": 1646116893643,
+        "text": "°vartacakrasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwg73tQ",
+        "created": 1646116893643,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwg73tR",
+        "created": 1646116893643,
+        "text": "Phyir-mi-ldog-paḥi ḥkhor-lo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwg73tS",
+        "created": 1646116893643,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwg73tT",
+        "created": 1646116893643,
+        "text": "아유월치차경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwg73tF",
+      "created": 1646116893643,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwg73tG",
+      "created": 1646116893643,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwg73tH",
+      "created": 1646116893643,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwg73tI",
+       "created": 1646116893643,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwg73tJ",
+       "created": 1646116893643,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwg73tK",
+      "created": 1646116893643,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwg73tL",
+      "created": 1646116893643,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwg73tU",
+      "created": 1646116893643,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwg73tV",
+      "created": 1646116893643,
+      "text": "Translation by Dharmarakṣa: 14th day, 10th month, 5th year of Tai K'ang (泰康), Western Chin dynasty (西晉) (November 8th, A.D. 284) in Tun-huang (敦煌).T. 2154-494a:21."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwg73tW",
+      "created": 1646116893643,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwg73tX",
+       "created": 1646116893643,
+       "text": "【北京版】Mdo-sna-tshogs (wu)256b-321a"
+      }},
+      {"data": {
+       "id": "z5cYwg73tY",
+       "created": 1646116893643,
+       "text": "【奈塘版】Mdo (dsa)367b-458a"
+      }},
+      {"data": {
+       "id": "z5cYwg73tZ",
+       "created": 1646116893643,
+       "text": "【德格版】Mdo-sde (sha)241b-301b"
+      }},
+      {"data": {
+       "id": "z5cYwg73ta",
+       "created": 1646116893643,
+       "text": "【拉薩版】Mdo (dsa)371b-465a"
+      }},
+      {"data": {
+       "id": "z5cYwg73tb",
+       "created": 1646116893643,
+       "text": "【卓尼版】Mdo-maṅ (sha)274a-535b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwg73tc",
+      "created": 1646116893643,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwg73td",
+      "created": 1646116893643,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwg73te",
+      "created": 1646116893643,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwg73tf",
+       "created": 1646116893643,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tg",
+       "created": 1646116893643,
+       "text": "【開寶藏】No.136《阿維越致遮經》西晉 月支三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：3 千字文：草"
+      }},
+      {"data": {
+       "id": "z5cYwg73th",
+       "created": 1646116893643,
+       "text": "【崇寧藏】No.137《阿惟越致遮經》 卷數：4 千字文：木(140)"
+      }},
+      {"data": {
+       "id": "z5cYwg73ti",
+       "created": 1646116893643,
+       "text": "【毘盧藏】No.133《阿惟越致遮經》西晉竺法護譯 參考年代：(靖康元．三、四) 千字文：木(140)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tj",
+       "created": 1646116893643,
+       "text": "【圓覺藏】No.134《阿惟越致遮經》 卷數：4 千字文：木(140)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tk",
+       "created": 1646116893643,
+       "text": "【趙城金藏】No.135《阿惟越致經》 卷數：3 千字文：草"
+      }},
+      {"data": {
+       "id": "z5cYwg73tl",
+       "created": 1646116893643,
+       "text": "【資福藏】No.138《阿惟越致遮經》 卷數：4 (四卷) 千字文：木(140)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tm",
+       "created": 1646116893643,
+       "text": "【磧砂藏】No.137《阿惟越致遮經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：9 / 頁數：742 / 卷數：4 千字文：木 8 (140)-木 11 (140)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tn",
+       "created": 1646116893643,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwg73to",
+       "created": 1646116893643,
+       "text": "【高麗藏】No.135《阿維越致遮經》西晉三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：197 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：草"
+      }},
+      {"data": {
+       "id": "z5cYwg73tp",
+       "created": 1646116893643,
+       "text": "【普寧藏】No.133《阿惟越致遮經》 卷數：4 千字文：木(140)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tq",
+       "created": 1646116893643,
+       "text": "【至元錄】No.214《阿惟越致遮經》西晉三藏竺法護譯 卷數：3 / 譯次：(第一譯) 千字文：常(152)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tr",
+       "created": 1646116893643,
+       "text": "【洪武南藏】No.122《阿惟越致遮經》西晉 三藏法師竺法護 譯 冊數：47 / 頁數：477 / 卷數：4 千字文：木 8 (140)-木 11 (140)"
+      }},
+      {"data": {
+       "id": "z5cYwg73ts",
+       "created": 1646116893643,
+       "text": "【永樂南藏】No.135《阿維越致遮經》 部別：大乘經-五大部外重譯經 千字文：此(146)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tt",
+       "created": 1646116893643,
+       "text": "【永樂北藏】No.174《阿惟越致遮經》西晉竺法護譯 部別：大乘經五大部外重譯經 / 冊數：38 / 頁數：201 / 卷數：4 千字文：蓋"
+      }},
+      {"data": {
+       "id": "z5cYwg73tu",
+       "created": 1646116893643,
+       "text": "【嘉興藏】No.145《阿惟越致遮經》西晉竺法護譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0145 千字文 / 函號：［正藏］ 蓋(145)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tv",
+       "created": 1646116893643,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwg73tw",
+       "created": 1646116893643,
+       "text": "【乾隆藏】No.146《阿惟越致遮經》西晉 竺法護譯 部別：大乘五大部外重譯經 / 冊數：33 / 頁數：1 / 卷數：4 千字文：蓋"
+      }},
+      {"data": {
+       "id": "z5cYwg73tx",
+       "created": 1646116893643,
+       "text": "【縮刻藏】No.429《佛說阿惟越致遮經》西晉竺法護譯 部別：大乘經-法華部 / 卷數：3 千字文：盈 3 (11)"
+      }},
+      {"data": {
+       "id": "z5cYwg73ty",
+       "created": 1646116893643,
+       "text": "【卍正藏】No.149《佛說阿惟越致遮經》西晉 竺法護譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：978 / 卷數：3 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYwg73tz",
+       "created": 1646116893643,
+       "text": "【大正藏】No.266《佛說阿惟越致遮經》西晉 竺法護譯 部別：法華部全 / 冊數：9 / 頁數：198 / 卷數：3 相關經典：縮-盈3,卍-9.5 參考資料：Nos.267,268"
+      }},
+      {"data": {
+       "id": "z5cYwg73u0",
+       "created": 1646116893643,
+       "text": "【佛教大藏經】No.437《佛說阿惟越致遮經》西晉 竺法護譯 部別：大乘經 法華部全 / 冊數：21 / 頁數：424 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYwg73u1",
+       "created": 1646116893643,
+       "text": "【中華藏】No.143《佛說阿惟越致遮經》西晉月支三藏竺法護譯 冊數：16 / 頁數：712 / 卷數：3 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwg73u2",
+       "created": 1646116893643,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwg73u3",
+       "created": 1646116893643,
+       "text": "【南條文雄編號】 Nj. 0150"
+      }},
+      {"data": {
+       "id": "z5cYwg73u4",
+       "created": 1646116893643,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：266"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw3u7o",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

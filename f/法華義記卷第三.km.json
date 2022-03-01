@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "法華義記卷第三"},
+  "children": [{
+   "data": {
+    "id": "z5cYyXZbRd",
+    "created": 1646116900801,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyXZbR1",
+      "created": 1646116900801,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyXZbR2",
+        "created": 1646116900801,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXZbR3",
+        "created": 1646116900801,
+        "text": "法華義記卷第三",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXZbR4",
+        "created": 1646116900801,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXZbR5",
+        "created": 1646116900801,
+        "text": "法华义记卷第三",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXZbR6",
+        "created": 1646116900801,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXZbR7",
+        "created": 1646116900801,
+        "text": "fa hua yi ji juan di san"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyXZbR8",
+      "created": 1646116900801,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXZbR9",
+      "created": 1646116900801,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXZbRA",
+      "created": 1646116900801,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXZbRB",
+      "created": 1646116900801,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXZbRC",
+      "created": 1646116900801,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyXZbRD",
+       "created": 1646116900801,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRE",
+       "created": 1646116900801,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRF",
+       "created": 1646116900801,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRG",
+       "created": 1646116900801,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRH",
+       "created": 1646116900801,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRI",
+       "created": 1646116900801,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRJ",
+       "created": 1646116900801,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRK",
+       "created": 1646116900801,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRL",
+       "created": 1646116900801,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRM",
+       "created": 1646116900801,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRN",
+       "created": 1646116900801,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRO",
+       "created": 1646116900801,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRP",
+       "created": 1646116900801,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRQ",
+       "created": 1646116900801,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRR",
+       "created": 1646116900801,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRS",
+       "created": 1646116900801,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRT",
+       "created": 1646116900801,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRU",
+       "created": 1646116900801,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRV",
+       "created": 1646116900801,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRW",
+       "created": 1646116900801,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRX",
+       "created": 1646116900801,
+       "text": "【大正藏】No.2748《法華義記卷第三》 部別：古逸部全 / 冊數：85 / 頁數：170 / 卷數：1 相關經典： 參考資料：cf.No.262"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRY",
+       "created": 1646116900801,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRZ",
+       "created": 1646116900801,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRa",
+       "created": 1646116900801,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRb",
+       "created": 1646116900801,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXZbRc",
+       "created": 1646116900801,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2748"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1mo29y",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

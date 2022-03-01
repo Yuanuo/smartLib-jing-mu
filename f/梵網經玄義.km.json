@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "梵網經玄義"},
+  "children": [{
+   "data": {
+    "id": "z5cYysThei",
+    "created": 1646116902097,
+    "text": "現藏錄（明 智旭述　道昉訂）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYysThe3",
+      "created": 1646116902097,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYysThe4",
+        "created": 1646116902097,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYysThe5",
+        "created": 1646116902097,
+        "text": "梵網經玄義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYysThe6",
+        "created": 1646116902097,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYysThe7",
+        "created": 1646116902097,
+        "text": "梵网经玄义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYysThe8",
+        "created": 1646116902097,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYysThe9",
+        "created": 1646116902097,
+        "text": "fan wang jing xuan yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYysTheA",
+      "created": 1646116902097,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYysTheB",
+      "created": 1646116902097,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYysTheC",
+      "created": 1646116902097,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYysTheD",
+       "created": 1646116902097,
+       "text": "明 智旭述　道昉訂"
+      }},
+      {"data": {
+       "id": "z5cYysTheE",
+       "created": 1646116902097,
+       "text": "智旭",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYysTheF",
+      "created": 1646116902097,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYysTheG",
+      "created": 1646116902097,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYysTheH",
+      "created": 1646116902097,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYysTheI",
+       "created": 1646116902097,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheJ",
+       "created": 1646116902097,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheK",
+       "created": 1646116902097,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheL",
+       "created": 1646116902097,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheM",
+       "created": 1646116902097,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheN",
+       "created": 1646116902097,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheO",
+       "created": 1646116902097,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheP",
+       "created": 1646116902097,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheQ",
+       "created": 1646116902097,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheR",
+       "created": 1646116902097,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheS",
+       "created": 1646116902097,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheT",
+       "created": 1646116902097,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheU",
+       "created": 1646116902097,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheV",
+       "created": 1646116902097,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheW",
+       "created": 1646116902097,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheX",
+       "created": 1646116902097,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheY",
+       "created": 1646116902097,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheZ",
+       "created": 1646116902097,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysThea",
+       "created": 1646116902097,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheb",
+       "created": 1646116902097,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysThec",
+       "created": 1646116902097,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysThed",
+       "created": 1646116902097,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysThee",
+       "created": 1646116902097,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysThef",
+       "created": 1646116902097,
+       "text": "【新纂卍續藏】No.693《梵網經玄義》明 智旭述　道昉訂 部別：中國撰述 大小乘釋律部一 大乘律疏 / 冊數：38 / 頁數：606 / 卷數：1 《卍大日本續藏經》套數：第一編．第 60 套 《卍續藏經》(新文豐版)冊數：第 60 冊"
+      }},
+      {"data": {
+       "id": "z5cYysTheg",
+       "created": 1646116902097,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysTheh",
+       "created": 1646116902097,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：989"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2mp2qb",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大日經主異義事"},
+  "children": [{
+   "data": {
+    "id": "z5cYyL4YCe",
+    "created": 1646116900026,
+    "text": "現藏錄（日本 宥快記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyL4YBz",
+      "created": 1646116900026,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyL4YC0",
+        "created": 1646116900026,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyL4YC1",
+        "created": 1646116900026,
+        "text": "大日經主異義事",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyL4YC2",
+        "created": 1646116900026,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyL4YC3",
+        "created": 1646116900026,
+        "text": "大日经主异义事",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyL4YC4",
+        "created": 1646116900026,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyL4YC5",
+        "created": 1646116900026,
+        "text": "da ri jing zhu yi yi shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyL4YC6",
+      "created": 1646116900026,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyL4YC7",
+      "created": 1646116900026,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyL4YC8",
+      "created": 1646116900026,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyL4YC9",
+       "created": 1646116900026,
+       "text": "日本 宥快記"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCA",
+       "created": 1646116900026,
+       "text": "宥快",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyL4YCB",
+      "created": 1646116900026,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyL4YCC",
+      "created": 1646116900026,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyL4YCD",
+      "created": 1646116900026,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyL4YCE",
+       "created": 1646116900026,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCF",
+       "created": 1646116900026,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCG",
+       "created": 1646116900026,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCH",
+       "created": 1646116900026,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCI",
+       "created": 1646116900026,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCJ",
+       "created": 1646116900026,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCK",
+       "created": 1646116900026,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCL",
+       "created": 1646116900026,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCM",
+       "created": 1646116900026,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCN",
+       "created": 1646116900026,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCO",
+       "created": 1646116900026,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCP",
+       "created": 1646116900026,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCQ",
+       "created": 1646116900026,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCR",
+       "created": 1646116900026,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCS",
+       "created": 1646116900026,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCT",
+       "created": 1646116900026,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCU",
+       "created": 1646116900026,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCV",
+       "created": 1646116900026,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCW",
+       "created": 1646116900026,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCX",
+       "created": 1646116900026,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCY",
+       "created": 1646116900026,
+       "text": "【大正藏】No.2455《大日經主異義事》日本 宥快記 部別：續諸宗部八 / 冊數：77 / 頁數：846 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyL4YCZ",
+       "created": 1646116900026,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCa",
+       "created": 1646116900026,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCb",
+       "created": 1646116900026,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCc",
+       "created": 1646116900026,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyL4YCd",
+       "created": 1646116900026,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2455"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri11621o",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

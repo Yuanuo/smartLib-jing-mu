@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "觀音經持驗記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyv6iWC",
+    "created": 1646116902260,
+    "text": "現藏錄（清 周克復集）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyv6iVY",
+      "created": 1646116902260,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyv6iVZ",
+        "created": 1646116902260,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyv6iVa",
+        "created": 1646116902260,
+        "text": "觀音經持驗記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyv6iVb",
+        "created": 1646116902260,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyv6iVc",
+        "created": 1646116902260,
+        "text": "观音经持验记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyv6iVd",
+        "created": 1646116902260,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyv6iVe",
+        "created": 1646116902260,
+        "text": "guan yin jing chi yan ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyv6iVf",
+      "created": 1646116902260,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyv6iVg",
+      "created": 1646116902260,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyv6iVh",
+      "created": 1646116902260,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyv6iVi",
+      "created": 1646116902260,
+      "text": "清 周克復集"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyv6iVj",
+      "created": 1646116902260,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyv6iVk",
+      "created": 1646116902260,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyv6iVl",
+      "created": 1646116902260,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyv6iVm",
+       "created": 1646116902260,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVn",
+       "created": 1646116902260,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVo",
+       "created": 1646116902260,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVp",
+       "created": 1646116902260,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVq",
+       "created": 1646116902260,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVr",
+       "created": 1646116902260,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVs",
+       "created": 1646116902260,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVt",
+       "created": 1646116902260,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVu",
+       "created": 1646116902260,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVv",
+       "created": 1646116902260,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVw",
+       "created": 1646116902260,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVx",
+       "created": 1646116902260,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVy",
+       "created": 1646116902260,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iVz",
+       "created": 1646116902260,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW0",
+       "created": 1646116902260,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW1",
+       "created": 1646116902260,
+       "text": "【嘉興藏】No.1702《觀音持驗》清周克復撰 部別：續藏 / 法寶總目錄經號：1701 千字文 / 函號：［續藏］ 35 函"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW2",
+       "created": 1646116902260,
+       "text": "【嘉興藏新文豐版】［續藏］No.52《觀世音持驗紀》清 周克復纂 冊數：19 / 頁數：303 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW3",
+       "created": 1646116902260,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW4",
+       "created": 1646116902260,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW5",
+       "created": 1646116902260,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW6",
+       "created": 1646116902260,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW7",
+       "created": 1646116902260,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW8",
+       "created": 1646116902260,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iW9",
+       "created": 1646116902260,
+       "text": "【新纂卍續藏】No.1542《觀音經持驗記》清 周克復集 部別：中國撰述 史傳部四 天台宗 / 冊數：78 / 頁數：91 / 卷數：2 《卍大日本續藏經》套數：第二編乙．第 7 套 《卍續藏經》(新文豐版)冊數：第 134 冊"
+      }},
+      {"data": {
+       "id": "z5cYyv6iWA",
+       "created": 1646116902260,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyv6iWB",
+       "created": 1646116902260,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：195"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2r72sk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

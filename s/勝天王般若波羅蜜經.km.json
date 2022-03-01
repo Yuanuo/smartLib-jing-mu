@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "勝天王般若波羅蜜經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwd43Nt",
+    "created": 1646116893454,
+    "text": "現藏錄（陳 月婆首那譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwd33Mw",
+      "created": 1646116893453,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwd33Mx",
+        "created": 1646116893453,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwd33My",
+        "created": 1646116893453,
+        "text": "勝天王般若波羅蜜經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwd33Mz",
+        "created": 1646116893453,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwd33N0",
+        "created": 1646116893453,
+        "text": "胜天王般若波罗蜜经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwd33N1",
+        "created": 1646116893453,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwd33N2",
+        "created": 1646116893453,
+        "text": "sheng tian wang bo re bo luo mi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwd33NA",
+        "created": 1646116893453,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwd33NB",
+        "created": 1646116893453,
+        "text": "Sheng t'ien wang pan jo pu lo mi ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwd33NC",
+        "created": 1646116893453,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwd33ND",
+        "created": 1646116893453,
+        "text": "Suvikrāntavikrāmiparipṛcchāprajñāpāramitāsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwd33NE",
+        "created": 1646116893453,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwd33NF",
+        "created": 1646116893453,
+        "text": "Rab-kyi-rtsal-gyis rnam-par-gnon-pas shus-pa śes-rab-kyi-pha-rol-tu phyin-pa bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwd33NG",
+        "created": 1646116893453,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwd33NH",
+        "created": 1646116893453,
+        "text": "승천왕반야바라밀경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwd33N3",
+      "created": 1646116893453,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwd33N4",
+      "created": 1646116893453,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwd33N5",
+      "created": 1646116893453,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwd33N6",
+       "created": 1646116893453,
+       "text": "陳 月婆首那譯"
+      }},
+      {"data": {
+       "id": "z5cYwd33N7",
+       "created": 1646116893453,
+       "text": "月婆首那",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwd33N8",
+      "created": 1646116893453,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwd33N9",
+      "created": 1646116893453,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwd33NI",
+      "created": 1646116893453,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwd33NJ",
+      "created": 1646116893453,
+      "text": "Translation by Upaśūnya: 9th month, 6th year of T'ien Chia (天嘉), Ch'en dynasty (陳) (A.D. 565) in Yang-chou (楊州).T. 2154-547a:13; T. 2147-151a:8."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwd33NK",
+      "created": 1646116893453,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwd33NL",
+       "created": 1646116893453,
+       "text": "【北京版】Śer-phyin (tsi)22b-113b"
+      }},
+      {"data": {
+       "id": "z5cYwd33NM",
+       "created": 1646116893453,
+       "text": "【奈塘版】Śer-phyin sna-tshogs (ka)1-130a"
+      }},
+      {"data": {
+       "id": "z5cYwd33NN",
+       "created": 1646116893453,
+       "text": "【德格版】Śes-phyin (ka)20a-103b"
+      }},
+      {"data": {
+       "id": "z5cYwd33NO",
+       "created": 1646116893453,
+       "text": "【拉薩版】Śer-phyin sna-tshogs (ka)1b-123b"
+      }},
+      {"data": {
+       "id": "z5cYwd33NP",
+       "created": 1646116893453,
+       "text": "【卓尼版】Śer-phyin sna-tshogs (ka)21b-117b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwd43NQ",
+      "created": 1646116893454,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwd43NR",
+      "created": 1646116893454,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwd43NS",
+      "created": 1646116893454,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwd43NT",
+       "created": 1646116893454,
+       "text": "【房山石經】No.30《勝天王般若波羅蜜經》(陳)月婆首羅譯 冊數：2 / 頁數：209 / 卷數：7 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.336《勝天王般若波羅蜜經》(陳)優禪尼國王子月婆首那譯 冊數：7 / 頁數：344 / 卷數：7 / 刻經年代：大康七年 / 瀏覽：目錄圖檔 千字文：翔"
+      }},
+      {"data": {
+       "id": "z5cYwd43NU",
+       "created": 1646116893454,
+       "text": "【開寶藏】No.9《勝天王般若波羅蜜經》陳 優禪尼國王子月婆首那 譯 部別：大乘經 般若部 / 卷數：7 千字文：潛"
+      }},
+      {"data": {
+       "id": "z5cYwd43NV",
+       "created": 1646116893454,
+       "text": "【崇寧藏】No.9《勝天王般若波羅蜜經》 卷數：7 千字文：羽(71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43NW",
+       "created": 1646116893454,
+       "text": "【毘盧藏】No.9《勝天王般若波羅蜜經》陳月婆首那譯 參考年代：(元豊八．五) 千字文：羽(71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43NX",
+       "created": 1646116893454,
+       "text": "【圓覺藏】No.8《勝天王般若波羅蜜經》 卷數：7 千字文：羽(71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43NY",
+       "created": 1646116893454,
+       "text": "【趙城金藏】No.8《勝天王般若波羅蜜經》 卷數：7 千字文：潛"
+      }},
+      {"data": {
+       "id": "z5cYwd43NZ",
+       "created": 1646116893454,
+       "text": "【資福藏】No.8《勝天王般若波羅蜜經》 卷數：7 (七卷) 千字文：羽(71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Na",
+       "created": 1646116893454,
+       "text": "【磧砂藏】No.8《勝天王般若波羅蜜經》陳 月婆首那譯 部別：般若部 / 冊數：5 / 頁數：284 / 卷數：7 千字文：羽 1 (71)-羽 7 (71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nb",
+       "created": 1646116893454,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nc",
+       "created": 1646116893454,
+       "text": "【高麗藏】No.8《勝天王般若波羅蜜經》陳憂禪尼國王子月婆首那譯 部別：大乘經 般若部 / 冊數：5 頁數：837 / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：潛"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nd",
+       "created": 1646116893454,
+       "text": "【普寧藏】No.8《勝天王般若波羅蜜經》 卷數：7 千字文：羽(71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Ne",
+       "created": 1646116893454,
+       "text": "【至元錄】No.9《勝天王般若經》陳憂禪尼國王子月婆首那譯 卷數：7 千字文：潛(70)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nf",
+       "created": 1646116893454,
+       "text": "【洪武南藏】No.8《勝天王般若波羅蜜經》陳 優禪尼國王子月婆首那 譯 冊數：25 / 頁數：420 / 卷數：7 千字文：羽 1 (71)-羽 7 (71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Ng",
+       "created": 1646116893454,
+       "text": "【永樂南藏】No.9《勝天王般若波羅蜜經》 部別：大乘經-般若部 千字文：羽(71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nh",
+       "created": 1646116893454,
+       "text": "【永樂北藏】No.25《勝天王般若波羅蜜經》陳月婆首那譯 部別：大乘經般若部 / 冊數：18 / 頁數：549 / 卷數：7 千字文：羽"
+      }},
+      {"data": {
+       "id": "z5cYwd43Ni",
+       "created": 1646116893454,
+       "text": "【嘉興藏】No.9《勝天王般若經》陳月婆首那譯 部別：大乘經-般若部 / 法寶總目錄經號：0009 千字文 / 函號：［正藏］ 羽(71)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nj",
+       "created": 1646116893454,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nk",
+       "created": 1646116893454,
+       "text": "【乾隆藏】No.9《勝天王般若波羅蜜經》陳 月婆首那譯 部別：大乘般若部 / 冊數：16 / 頁數：353 / 卷數：7 千字文：羽"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nl",
+       "created": 1646116893454,
+       "text": "【縮刻藏】No.402《勝天王般若波羅蜜經》陳月婆首那譯 部別：大乘經-般若部 / 卷數：7 千字文：月 8 (10)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nm",
+       "created": 1646116893454,
+       "text": "【卍正藏】No.9《勝天王般若波羅蜜經》陳 月婆首那譯 部別：大乘經 般若部 / 冊數：8 / 頁數：1 / 卷數：7 原版套數：第 5 套"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nn",
+       "created": 1646116893454,
+       "text": "【大正藏】No.231《勝天王般若波羅蜜經》陳 月婆首那譯 部別：般若部四 / 冊數：8 / 頁數：687 / 卷數：7 相關經典：縮-月8,卍-5.6 參考資料：No.220(6)"
+      }},
+      {"data": {
+       "id": "z5cYwd43No",
+       "created": 1646116893454,
+       "text": "【佛教大藏經】No.405《勝天王般若波羅蜜經》陳 月婆首那譯 部別：大乘經 般若部八 / 冊數：20 / 頁數：438 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYwd43Np",
+       "created": 1646116893454,
+       "text": "【中華藏】No.8《勝天王般若波羅蜜經》陳優禪尼國王子月婆首那譯 冊數：8 / 頁數：109 / 卷數：7 / 底本：麗藏本 金藏大寶集寺本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nq",
+       "created": 1646116893454,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwd43Nr",
+       "created": 1646116893454,
+       "text": "【南條文雄編號】 Nj. 0009"
+      }},
+      {"data": {
+       "id": "z5cYwd43Ns",
+       "created": 1646116893454,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：231"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvyk6n",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,345 @@
+{
+ "root": {
+  "data": {"text": "阿毘曇八犍度論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxkAMiz",
+    "created": 1646116897738,
+    "text": "現藏錄（迦栴延子造　符秦 僧伽提婆共竺佛念譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxk9Mi5",
+      "created": 1646116897737,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxk9Mi6",
+        "created": 1646116897737,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxk9Mi7",
+        "created": 1646116897737,
+        "text": "阿毘曇八犍度論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkAMi8",
+        "created": 1646116897738,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkAMi9",
+        "created": 1646116897738,
+        "text": "阿毘昙八犍度论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkAMiA",
+        "created": 1646116897738,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkAMiB",
+        "created": 1646116897738,
+        "text": "a pi tan ba jian du lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkAMiL",
+        "created": 1646116897738,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkAMiM",
+        "created": 1646116897738,
+        "text": "A p'i t'an pa chien tu lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkAMiN",
+        "created": 1646116897738,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkAMiO",
+        "created": 1646116897738,
+        "text": "(Abhidharma)jñānaprasthānaśāstra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkAMiP",
+        "created": 1646116897738,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkAMiQ",
+        "created": 1646116897738,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkAMiR",
+        "created": 1646116897738,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkAMiS",
+        "created": 1646116897738,
+        "text": "아비담팔건도론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxkAMiC",
+      "created": 1646116897738,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkAMiD",
+      "created": 1646116897738,
+      "text": "符秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkAMiE",
+      "created": 1646116897738,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxkAMiF",
+       "created": 1646116897738,
+       "text": "迦栴延子造　符秦 僧伽提婆共竺佛念譯"
+      }},
+      {"data": {
+       "id": "z5cYxkAMiG",
+       "created": 1646116897738,
+       "text": "佛念",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxkAMiH",
+       "created": 1646116897738,
+       "text": "僧伽提婆",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxkAMiI",
+       "created": 1646116897738,
+       "text": "迦栴延子",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxkAMiJ",
+      "created": 1646116897738,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkAMiK",
+      "created": 1646116897738,
+      "text": "30"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkAMiT",
+      "created": 1646116897738,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkAMiU",
+      "created": 1646116897738,
+      "text": "Translation by Saṅghadeva and (Chu) Fo-nien: between the 20th day, 4th month and the 20th day, 10th month, 19th year of Chien Yüan (建元), Fu Ch'in dynasty (符秦) (June 6th-November 30th, A.D. 383).T. 2154-511a:28."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxkAMiV",
+     "created": 1646116897738,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxkAMiW",
+      "created": 1646116897738,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkAMiX",
+      "created": 1646116897738,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkAMiY",
+      "created": 1646116897738,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxkAMiZ",
+       "created": 1646116897738,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMia",
+       "created": 1646116897738,
+       "text": "【開寶藏】No.938《阿毗曇八揵度論》符秦 迦旃延子 造 罽賓三藏僧伽提婆共竺佛念 譯 部別：小乘論 聲聞對法藏 / 卷數：30 千字文：兒-懷"
+      }},
+      {"data": {
+       "id": "z5cYxkAMib",
+       "created": 1646116897738,
+       "text": "【崇寧藏】No.941《阿毘曇八揵度論》 卷數：30 千字文：比(351)-孔(353)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMic",
+       "created": 1646116897738,
+       "text": "【毘盧藏】No.942《阿毘曇八犍度論》迦旃延子造　符秦僧伽提婆共竺佛念譯 參考年代：(紹興一八．閏八) 千字文：比(351)-孔(353)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMid",
+       "created": 1646116897738,
+       "text": "【圓覺藏】No.950《阿毘曇八犍度論》 卷數：30 千字文：比(351)-孔(353)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMie",
+       "created": 1646116897738,
+       "text": "【趙城金藏】No.945《阿毗曇八犍度論》 卷數：30 千字文：子-兒"
+      }},
+      {"data": {
+       "id": "z5cYxkAMif",
+       "created": 1646116897738,
+       "text": "【資福藏】No.956《阿毘曇八犍度論》 卷數：30 (一部三十卷) 千字文：比(351)-孔(353)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMig",
+       "created": 1646116897738,
+       "text": "【磧砂藏】No.966《阿毗曇八犍度論》符秦 僧伽提婆．竺佛念譯 部別： / 冊數：23 / 頁數：263 / 卷數：30 千字文：比 1 (351)-孔 10 (353)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMih",
+       "created": 1646116897738,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMii",
+       "created": 1646116897738,
+       "text": "【高麗藏】No.943《阿毘曇八犍度論》符秦罽賓三藏僧伽提婆-共佛念譯 部別：小乘論 / 冊數：24 頁數：695 / 卷數：30 / 連結：高麗大藏經 (圖檔) 千字文：子-兒"
+      }},
+      {"data": {
+       "id": "z5cYxkAMij",
+       "created": 1646116897738,
+       "text": "【普寧藏】No.957《阿毘曇八犍度論》 卷數：30 千字文：比(351)-孔(353)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMik",
+       "created": 1646116897738,
+       "text": "【至元錄】No.1393《阿毘曇八犍度論》迦旃延造　苻秦罽賓三藏僧伽提婆共竺佛念譯 梵名：阿毘達囉(二合)麻印牙拏　毘羅亦思(二合)怛拏沙悉特囉(二合) / 卷數：30 / 譯次：(第一譯) 千字文：階(458)-陛(460)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMil",
+       "created": 1646116897738,
+       "text": "【洪武南藏】No.851《阿毗曇八犍度論》符秦 罽賔三藏僧伽提婆竺佛念 譯 冊數：124-125 / 頁數：431 / 卷數：30 千字文：比 1 (351)-孔 10 (353)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMim",
+       "created": 1646116897738,
+       "text": "【永樂南藏】No.1398《阿毘曇八犍度論》 部別：小乘論 千字文：夏(412)-西(414)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMin",
+       "created": 1646116897738,
+       "text": "【永樂北藏】No.1327《阿毗曇八犍度論》苻秦僧伽提婆-共竺佛念譯 部別：小乘論 / 冊數：119 / 頁數：47 / 卷數：30 千字文：彩-靈"
+      }},
+      {"data": {
+       "id": "z5cYxkAMio",
+       "created": 1646116897738,
+       "text": "【嘉興藏】No.1265《阿毘曇八犍度論》苻秦僧伽提婆-共竺佛念譯 部別：小乘論 / 法寶總目錄經號：1264 千字文 / 函號：［正藏］ 彩(438)-靈(440)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMip",
+       "created": 1646116897738,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMiq",
+       "created": 1646116897738,
+       "text": "【乾隆藏】No.1266《阿毗曇八犍度論》迦旃延子造　(苻秦)僧伽提婆,竺佛念譯 部別：小乘論 / 冊數：98 / 頁數：1 / 卷數：30 千字文：彩仙靈"
+      }},
+      {"data": {
+       "id": "z5cYxkAMir",
+       "created": 1646116897738,
+       "text": "【縮刻藏】No.1007《阿毘曇八犍度論》迦旋延子造　符秦僧伽提婆共竺佛念譯 部別：印度小乘論 / 卷數：30 千字文：秋 6 (21)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMis",
+       "created": 1646116897738,
+       "text": "【卍正藏】No.1280《阿毗曇八犍度論》苻秦 僧伽提婆共竺佛念譯 部別：小乘論 / 冊數：46 / 頁數：297 / 卷數：30 原版套數：第 24 套"
+      }},
+      {"data": {
+       "id": "z5cYxkAMit",
+       "created": 1646116897738,
+       "text": "【大正藏】No.1543《阿毘曇八犍度論》迦栴延子造 符秦 僧伽提婆共竺佛念譯 部別：毘曇部一 / 冊數：26 / 頁數：771 / 卷數：30 相關經典：縮-秋6,卍-24.7-8,國-毘17-18 參考資料：Nos.1544,1545"
+      }},
+      {"data": {
+       "id": "z5cYxkAMiu",
+       "created": 1646116897738,
+       "text": "【佛教大藏經】No.1051《阿毘曇八犍度論》符秦 僧伽提婆共竺佛念譯 部別：小乘論 論部八 / 冊數：42 / 頁數：1 / 卷數：30"
+      }},
+      {"data": {
+       "id": "z5cYxkAMiv",
+       "created": 1646116897738,
+       "text": "【中華藏】No.1028《阿毗曇八犍度論》迦栴延子造，符秦罽賓三藏僧伽提婆共竺佛念譯 冊數：43 / 頁數：1 / 卷數：30 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxkAMiw",
+       "created": 1646116897738,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkAMix",
+       "created": 1646116897738,
+       "text": "【南條文雄編號】 Nj. 1273"
+      }},
+      {"data": {
+       "id": "z5cYxkAMiy",
+       "created": 1646116897738,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1543"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz9l1ah",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

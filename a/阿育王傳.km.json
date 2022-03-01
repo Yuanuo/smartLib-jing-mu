@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "阿育王傳"},
+  "children": [{
+   "data": {
+    "id": "z5cYy54T7l",
+    "created": 1646116899034,
+    "text": "現藏錄（西晉 安法欽譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy54T6t",
+      "created": 1646116899034,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy54T6u",
+        "created": 1646116899034,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy54T6v",
+        "created": 1646116899034,
+        "text": "阿育王傳",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy54T6w",
+        "created": 1646116899034,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy54T6x",
+        "created": 1646116899034,
+        "text": "阿育王传",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy54T6y",
+        "created": 1646116899034,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy54T6z",
+        "created": 1646116899034,
+        "text": "a yu wang chuan"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy54T77",
+        "created": 1646116899034,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy54T78",
+        "created": 1646116899034,
+        "text": "A yü wang chuan"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy54T79",
+        "created": 1646116899034,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy54T7A",
+        "created": 1646116899034,
+        "text": "Aśokarājāvadāna",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy54T7B",
+        "created": 1646116899034,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy54T7C",
+        "created": 1646116899034,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy54T7D",
+        "created": 1646116899034,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy54T7E",
+        "created": 1646116899034,
+        "text": "아육왕전",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy54T70",
+      "created": 1646116899034,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy54T71",
+      "created": 1646116899034,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy54T72",
+      "created": 1646116899034,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy54T73",
+       "created": 1646116899034,
+       "text": "西晉 安法欽譯"
+      }},
+      {"data": {
+       "id": "z5cYy54T74",
+       "created": 1646116899034,
+       "text": "安法欽",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy54T75",
+      "created": 1646116899034,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy54T76",
+      "created": 1646116899034,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy54T7F",
+      "created": 1646116899034,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy54T7G",
+      "created": 1646116899034,
+      "text": "Translation by An Fa-ch'in: 1st year of Kuang-hsi (光熙), Western Ch'in dynasty (西晉) (A.D. 306) in Lo-yang (洛陽).T.2154-497c:5"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYy54T7H",
+     "created": 1646116899034,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYy54T7I",
+      "created": 1646116899034,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy54T7J",
+      "created": 1646116899034,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy54T7K",
+      "created": 1646116899034,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy54T7L",
+       "created": 1646116899034,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7M",
+       "created": 1646116899034,
+       "text": "【開寶藏】No.1012《阿育王傳》西晉 安息三藏安法欽 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：5 千字文：獸"
+      }},
+      {"data": {
+       "id": "z5cYy54T7N",
+       "created": 1646116899034,
+       "text": "【崇寧藏】No.1015《阿育王傳》 卷數：5 千字文：禽(435)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7O",
+       "created": 1646116899034,
+       "text": "【毘盧藏】No.1015《阿育王傳》西晉安法欽譯 參考年代：(紹興一八．閏八) 千字文：禽(435)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7P",
+       "created": 1646116899034,
+       "text": "【圓覺藏】No.1024《阿育王傳經》 卷數：5 千字文：禽(435)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7Q",
+       "created": 1646116899034,
+       "text": "【趙城金藏】No.1019《阿育王傳》 卷數：7 千字文：禽"
+      }},
+      {"data": {
+       "id": "z5cYy54T7R",
+       "created": 1646116899034,
+       "text": "【資福藏】No.1029《阿育王傳經》 卷數：5 (五卷) 千字文：禽(435)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7S",
+       "created": 1646116899034,
+       "text": "【磧砂藏】No.1040《阿育王傳》晉 安法欽譯 部別： / 冊數：28 / 頁數：371 / 卷數：5 千字文：禽 1 (435)-禽 5 (435)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7T",
+       "created": 1646116899034,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7U",
+       "created": 1646116899034,
+       "text": "【高麗藏】No.1017《阿育王傳》西晉安法欽譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：431 / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：禽"
+      }},
+      {"data": {
+       "id": "z5cYy54T7V",
+       "created": 1646116899034,
+       "text": "【普寧藏】No.1031《阿育王傳》 卷數：5 千字文：禽(435)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7W",
+       "created": 1646116899034,
+       "text": "【至元錄】No.1469《阿育王傳》西晉安西三藏安法欽譯 卷數：7 / 譯次：(第二譯) 千字文：孰(543)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7X",
+       "created": 1646116899034,
+       "text": "【洪武南藏】No.914《阿育王傳》西晉 安息三藏安法欽 譯 冊數：155 / 頁數：129 / 卷數：5 千字文：禽 1 (435)-禽 5 (435)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7Y",
+       "created": 1646116899034,
+       "text": "【永樂南藏】No.1115《阿育王傳》 部別：西土聖賢撰集 千字文：基(300)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7Z",
+       "created": 1646116899034,
+       "text": "【永樂北藏】No.1517《阿育王傳》西晉安法欽譯 部別：西土聖賢撰集 / 冊數：132 / 頁數：695 / 卷數：5 千字文：漆"
+      }},
+      {"data": {
+       "id": "z5cYy54T7a",
+       "created": 1646116899034,
+       "text": "【嘉興藏】No.1450《阿育王傳》西晉安法欽譯 部別：西土聖賢撰集 / 法寶總目錄經號：1449 千字文 / 函號：［正藏］ 漆(485)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7b",
+       "created": 1646116899034,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7c",
+       "created": 1646116899034,
+       "text": "【乾隆藏】No.1452《阿育王傳》西晉 安法欽譯 部別：西土聖賢撰集 / 冊數：109 / 頁數：99 / 卷數：5 千字文：漆"
+      }},
+      {"data": {
+       "id": "z5cYy54T7d",
+       "created": 1646116899034,
+       "text": "【縮刻藏】No.1104《阿育王傳》西晉安法欽譯 部別：印度撰述雜部 / 卷數：7 千字文：藏 10 (24)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7e",
+       "created": 1646116899034,
+       "text": "【卍正藏】No.1464《阿育王傳》西晉 安法欽譯 部別：西土聖賢撰集 / 冊數：51 / 頁數：386 / 卷數：7 原版套數：第 27 套"
+      }},
+      {"data": {
+       "id": "z5cYy54T7f",
+       "created": 1646116899034,
+       "text": "【大正藏】No.2042《阿育王傳》西晉 安法欽譯 部別：史傳部二 / 冊數：50 / 頁數：99 / 卷數：7 相關經典：縮-藏10,卍-27.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy54T7g",
+       "created": 1646116899034,
+       "text": "【佛教大藏經】No.1174《阿育王傳》西晉 安法欽譯 部別：雜部二 / 冊數：51 / 頁數：431 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYy54T7h",
+       "created": 1646116899034,
+       "text": "【中華藏】No.1106《阿育王傳》西晉安法欽譯 冊數：52 / 頁數：56 / 卷數：7 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy54T7i",
+       "created": 1646116899034,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy54T7j",
+       "created": 1646116899034,
+       "text": "【南條文雄編號】 Nj. 1459"
+      }},
+      {"data": {
+       "id": "z5cYy54T7k",
+       "created": 1646116899034,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2042"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri09l1p2",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

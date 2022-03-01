@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大威德儀軌品"},
+  "children": [{
+   "data": {
+    "id": "z5cYynWg3N",
+    "created": 1646116901790,
+    "text": "現藏錄（唐 不空譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYynWg2i",
+      "created": 1646116901790,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYynWg2j",
+        "created": 1646116901790,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYynWg2k",
+        "created": 1646116901790,
+        "text": "大威德儀軌品",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYynWg2l",
+        "created": 1646116901790,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYynWg2m",
+        "created": 1646116901790,
+        "text": "大威德仪轨品",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYynWg2n",
+        "created": 1646116901790,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYynWg2o",
+        "created": 1646116901790,
+        "text": "da wei de yi gui pin"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYynWg2p",
+      "created": 1646116901790,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYynWg2q",
+      "created": 1646116901790,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYynWg2r",
+      "created": 1646116901790,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYynWg2s",
+       "created": 1646116901790,
+       "text": "唐 不空譯"
+      }},
+      {"data": {
+       "id": "z5cYynWg2t",
+       "created": 1646116901790,
+       "text": "不空",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYynWg2u",
+      "created": 1646116901790,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYynWg2v",
+      "created": 1646116901790,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYynWg2w",
+      "created": 1646116901790,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYynWg2x",
+       "created": 1646116901790,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg2y",
+       "created": 1646116901790,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg2z",
+       "created": 1646116901790,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg30",
+       "created": 1646116901790,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg31",
+       "created": 1646116901790,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg32",
+       "created": 1646116901790,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg33",
+       "created": 1646116901790,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg34",
+       "created": 1646116901790,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg35",
+       "created": 1646116901790,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg36",
+       "created": 1646116901790,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg37",
+       "created": 1646116901790,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg38",
+       "created": 1646116901790,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg39",
+       "created": 1646116901790,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3A",
+       "created": 1646116901790,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3B",
+       "created": 1646116901790,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3C",
+       "created": 1646116901790,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3D",
+       "created": 1646116901790,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3E",
+       "created": 1646116901790,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3F",
+       "created": 1646116901790,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3G",
+       "created": 1646116901790,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3H",
+       "created": 1646116901790,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3I",
+       "created": 1646116901790,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3J",
+       "created": 1646116901790,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3K",
+       "created": 1646116901790,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3L",
+       "created": 1646116901790,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYynWg3M",
+       "created": 1646116901790,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】 (未收錄)"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2e62m5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

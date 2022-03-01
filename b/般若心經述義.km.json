@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "般若心經述義"},
+  "children": [{
+   "data": {
+    "id": "z5cYyBiVDt",
+    "created": 1646116899446,
+    "text": "現藏錄（日本 智光撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyBiVDE",
+      "created": 1646116899446,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyBiVDF",
+        "created": 1646116899446,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyBiVDG",
+        "created": 1646116899446,
+        "text": "般若心經述義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyBiVDH",
+        "created": 1646116899446,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyBiVDI",
+        "created": 1646116899446,
+        "text": "般若心经述义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyBiVDJ",
+        "created": 1646116899446,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyBiVDK",
+        "created": 1646116899446,
+        "text": "bo re xin jing shu yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyBiVDL",
+      "created": 1646116899446,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyBiVDM",
+      "created": 1646116899446,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyBiVDN",
+      "created": 1646116899446,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyBiVDO",
+       "created": 1646116899446,
+       "text": "日本 智光撰"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDP",
+       "created": 1646116899446,
+       "text": "智光",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyBiVDQ",
+      "created": 1646116899446,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyBiVDR",
+      "created": 1646116899446,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyBiVDS",
+      "created": 1646116899446,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyBiVDT",
+       "created": 1646116899446,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDU",
+       "created": 1646116899446,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDV",
+       "created": 1646116899446,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDW",
+       "created": 1646116899446,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDX",
+       "created": 1646116899446,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDY",
+       "created": 1646116899446,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDZ",
+       "created": 1646116899446,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDa",
+       "created": 1646116899446,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDb",
+       "created": 1646116899446,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDc",
+       "created": 1646116899446,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDd",
+       "created": 1646116899446,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDe",
+       "created": 1646116899446,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDf",
+       "created": 1646116899446,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDg",
+       "created": 1646116899446,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDh",
+       "created": 1646116899446,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDi",
+       "created": 1646116899446,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDj",
+       "created": 1646116899446,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDk",
+       "created": 1646116899446,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDl",
+       "created": 1646116899446,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDm",
+       "created": 1646116899446,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDn",
+       "created": 1646116899446,
+       "text": "【大正藏】No.2202《般若心經述義》日本 智光撰 部別：續經疏部二 / 冊數：57 / 頁數：3 / 卷數：1 相關經典：佛全-6 參考資料：cf.No.251"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDo",
+       "created": 1646116899446,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDp",
+       "created": 1646116899446,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDq",
+       "created": 1646116899446,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDr",
+       "created": 1646116899446,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBiVDs",
+       "created": 1646116899446,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2202"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0l21u1",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,563 @@
+{
+ "root": {
+  "data": {"text": "佛說貧窮老公經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxB8CGD",
+     "created": 1646116895566,
+     "text": "現藏錄（劉宋 慧簡譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxB7CFM",
+       "created": 1646116895565,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxB7CFN",
+         "created": 1646116895565,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxB7CFO",
+         "created": 1646116895565,
+         "text": "佛說貧窮老公經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxB7CFP",
+         "created": 1646116895565,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxB7CFQ",
+         "created": 1646116895565,
+         "text": "佛说贫穷老公经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxB7CFR",
+         "created": 1646116895565,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxB7CFS",
+         "created": 1646116895565,
+         "text": "fo shuo pin qiong lao gong jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxB7CFa",
+         "created": 1646116895565,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxB7CFb",
+         "created": 1646116895565,
+         "text": "P'in ch'iung lao kung ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYxB8CFc",
+        "created": 1646116895566,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYxB8CFd",
+         "created": 1646116895566,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxB8CFe",
+         "created": 1646116895566,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxB8CFf",
+         "created": 1646116895566,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxB8CFg",
+         "created": 1646116895566,
+         "text": "빈궁노공경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxB7CFT",
+       "created": 1646116895565,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxB7CFU",
+       "created": 1646116895565,
+       "text": "劉宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxB7CFV",
+       "created": 1646116895565,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxB7CFW",
+        "created": 1646116895565,
+        "text": "劉宋 慧簡譯"
+       }},
+       {"data": {
+        "id": "z5cYxB7CFX",
+        "created": 1646116895565,
+        "text": "慧簡",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxB7CFY",
+       "created": 1646116895565,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxB7CFZ",
+       "created": 1646116895565,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxB8CFh",
+       "created": 1646116895566,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxB8CFi",
+       "created": 1646116895566,
+       "text": "Translation by Hui-chien: sometime after the 1st year of Ta Ming (大明), Liu Sung dynasty (劉宋) (A.D. 457).T. 2151-363a:2."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxB8CFj",
+      "created": 1646116895566,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxB8CFk",
+       "created": 1646116895566,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxB8CFl",
+       "created": 1646116895566,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxB8CFm",
+       "created": 1646116895566,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxB8CFn",
+        "created": 1646116895566,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFo",
+        "created": 1646116895566,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFp",
+        "created": 1646116895566,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFq",
+        "created": 1646116895566,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFr",
+        "created": 1646116895566,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFs",
+        "created": 1646116895566,
+        "text": "【趙城金藏】No.795《貧窮老公經》 卷數：1 千字文：辭"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFt",
+        "created": 1646116895566,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFu",
+        "created": 1646116895566,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFv",
+        "created": 1646116895566,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFw",
+        "created": 1646116895566,
+        "text": "【高麗藏】No.792《貧窮老公經》宋沙門慧簡譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：904(原版) 930(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：詞"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFx",
+        "created": 1646116895566,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFy",
+        "created": 1646116895566,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CFz",
+        "created": 1646116895566,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG0",
+        "created": 1646116895566,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG1",
+        "created": 1646116895566,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG2",
+        "created": 1646116895566,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG3",
+        "created": 1646116895566,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG4",
+        "created": 1646116895566,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG5",
+        "created": 1646116895566,
+        "text": "【縮刻藏】No.686《佛說貧窮老公經》宋慧簡譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG6",
+        "created": 1646116895566,
+        "text": "【卍正藏】No.696《佛說貧窮老公經》宋 慧簡譯 部別：小乘經 單譯經 / 冊數：26 / 頁數：888 / 卷數：1 原版套數：第 14 套"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG7",
+        "created": 1646116895566,
+        "text": "【大正藏】No.797a《佛說貧窮老公經》劉宋 慧簡譯 部別：經集部四 / 冊數：17 / 頁數：742 / 卷數：1 相關經典：縮-宿7,卍-14.10 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxB8CG8",
+        "created": 1646116895566,
+        "text": "【佛教大藏經】No.706《佛說貧窮老公經》劉宋 慧簡譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：355 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxB8CG9",
+        "created": 1646116895566,
+        "text": "【中華藏】No.854《佛說貧窮老公經》宋沙門慧簡譯 冊數：34 / 頁數：650 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYxB8CGA",
+        "created": 1646116895566,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CGB",
+        "created": 1646116895566,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxB8CGC",
+        "created": 1646116895566,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：797"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxBDCGt",
+     "created": 1646116895571,
+     "text": "現藏錄（劉宋 慧簡譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxBCCGE",
+       "created": 1646116895570,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxBCCGF",
+         "created": 1646116895570,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBCCGG",
+         "created": 1646116895570,
+         "text": "佛說貧窮老公經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBCCGH",
+         "created": 1646116895570,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBCCGI",
+         "created": 1646116895570,
+         "text": "佛说贫穷老公经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBCCGJ",
+         "created": 1646116895570,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBCCGK",
+         "created": 1646116895570,
+         "text": "fo shuo pin qiong lao gong jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxBCCGL",
+       "created": 1646116895570,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBCCGM",
+       "created": 1646116895570,
+       "text": "劉宋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBCCGN",
+       "created": 1646116895570,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxBCCGO",
+        "created": 1646116895570,
+        "text": "劉宋 慧簡譯"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGP",
+        "created": 1646116895570,
+        "text": "慧簡"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxBCCGQ",
+       "created": 1646116895570,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBCCGR",
+       "created": 1646116895570,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBCCGS",
+       "created": 1646116895570,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxBCCGT",
+        "created": 1646116895570,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGU",
+        "created": 1646116895570,
+        "text": "【開寶藏】No.791《貧窮老翁經》劉宋 沙門釋惠簡 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：定"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGV",
+        "created": 1646116895570,
+        "text": "【崇寧藏】No.793《佛說貧窮老公經》 卷數：1 千字文：安(287)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGW",
+        "created": 1646116895570,
+        "text": "【毘盧藏】No.794《佛說貧窮老公經》宋釋慧簡譯 千字文：安(287)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGX",
+        "created": 1646116895570,
+        "text": "【圓覺藏】No.801《貧窮老翁經》 千字文：安(287)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGY",
+        "created": 1646116895570,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGZ",
+        "created": 1646116895570,
+        "text": "【資福藏】No.807《貧窮老翁經》 卷數：1 千字文：安(287)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGa",
+        "created": 1646116895570,
+        "text": "【磧砂藏】No.814《佛說貧窮老公經》宋 慧簡譯 部別：阿含部 / 冊數：19 / 頁數：193 / 卷數：1 千字文：安 6 (287)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGb",
+        "created": 1646116895570,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGc",
+        "created": 1646116895570,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGd",
+        "created": 1646116895570,
+        "text": "【普寧藏】No.806《佛說貧窮老公經》 卷數：1 千字文：安(287)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGe",
+        "created": 1646116895570,
+        "text": "【至元錄】No.1034《貧窮老翁經》宋沙門慧蘭譯 卷數：1 千字文：政(312)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGf",
+        "created": 1646116895570,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGg",
+        "created": 1646116895570,
+        "text": "【永樂南藏】No.682《佛說貧窮老公經》 部別：小乘經-阿含部 千字文：尺(233)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGh",
+        "created": 1646116895570,
+        "text": "【永樂北藏】No.724《佛說貧窮老公經》劉宋慧簡譯 部別：小乘經單譯經 / 冊數：66 / 頁數：134 / 卷數：1 千字文：敬"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGi",
+        "created": 1646116895570,
+        "text": "【嘉興藏】No.687《佛說貧窮老公經》劉宋慧簡譯 部別：小乘經-單譯經 / 法寶總目錄經號：0687 千字文 / 函號：［正藏］ 敬(248)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGj",
+        "created": 1646116895570,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGk",
+        "created": 1646116895570,
+        "text": "【乾隆藏】No.688《佛說貧窮老公經》宋 釋慧簡譯 部別：小乘單譯經 / 冊數：55 / 頁數：442 / 卷數：1 千字文：敬"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGl",
+        "created": 1646116895570,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGm",
+        "created": 1646116895570,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGn",
+        "created": 1646116895570,
+        "text": "【大正藏】No.797b《佛說貧窮老公經》劉宋 慧簡譯 部別：經集部四 / 冊數：17 / 頁數：743 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxBCCGo",
+        "created": 1646116895570,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGp",
+        "created": 1646116895570,
+        "text": "【中華藏】No.855《佛說貧窮老公經(別本)》宋沙門釋慧簡譯 冊數：34 / 頁數：652 / 卷數：1 / 底本：凊藏本"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGq",
+        "created": 1646116895570,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGr",
+        "created": 1646116895570,
+        "text": "【南條文雄編號】 Nj. 0692"
+       }},
+       {"data": {
+        "id": "z5cYxBCCGs",
+        "created": 1646116895570,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：797"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxl8o9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

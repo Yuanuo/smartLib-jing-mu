@@ -1,0 +1,305 @@
+{
+ "root": {
+  "data": {"text": "沙彌羅經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx7xBZ8",
+    "created": 1646116895369,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx7xBYK",
+      "created": 1646116895369,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx7xBYL",
+        "created": 1646116895369,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7xBYM",
+        "created": 1646116895369,
+        "text": "沙彌羅經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7xBYN",
+        "created": 1646116895369,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7xBYO",
+        "created": 1646116895369,
+        "text": "沙弥罗经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7xBYP",
+        "created": 1646116895369,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7xBYQ",
+        "created": 1646116895369,
+        "text": "sha mi luo jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7xBYV",
+        "created": 1646116895369,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7xBYW",
+        "created": 1646116895369,
+        "text": "Sha mi lo ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYx7xBYX",
+       "created": 1646116895369,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYx7xBYY",
+        "created": 1646116895369,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7xBYZ",
+        "created": 1646116895369,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7xBYa",
+        "created": 1646116895369,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7xBYb",
+        "created": 1646116895369,
+        "text": "사미라경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx7xBYR",
+      "created": 1646116895369,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7xBYS",
+      "created": 1646116895369,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx7xBYT",
+      "created": 1646116895369,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7xBYU",
+      "created": 1646116895369,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx7xBYc",
+      "created": 1646116895369,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7xBYd",
+      "created": 1646116895369,
+      "text": "Translator unknown: Three Ch'in dynasties (三秦) (A.D. 351-431).T. 2155-739b:8."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx7xBYe",
+     "created": 1646116895369,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx7xBYf",
+      "created": 1646116895369,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7xBYg",
+      "created": 1646116895369,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx7xBYh",
+      "created": 1646116895369,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx7xBYi",
+       "created": 1646116895369,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYj",
+       "created": 1646116895369,
+       "text": "【開寶藏】No.766《沙彌羅經》西晉 失譯者 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：辭"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYk",
+       "created": 1646116895369,
+       "text": "【崇寧藏】No.767《沙彌羅經》 卷數：1 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYl",
+       "created": 1646116895369,
+       "text": "【毘盧藏】No.768《沙彌羅經》後漢安世高譯 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYm",
+       "created": 1646116895369,
+       "text": "【圓覺藏】No.775《沙彌羅經》 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYn",
+       "created": 1646116895369,
+       "text": "【趙城金藏】No.772《沙彌羅經》 卷數：1 千字文：思"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYo",
+       "created": 1646116895369,
+       "text": "【資福藏】No.781《沙彌羅經》 卷數：1 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYp",
+       "created": 1646116895369,
+       "text": "【磧砂藏】No.787《沙彌羅經》 部別：阿含部 / 冊數：19 / 頁數：78 / 卷數：1 千字文：言 8 (285)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYq",
+       "created": 1646116895369,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYr",
+       "created": 1646116895369,
+       "text": "【高麗藏】No.769《沙彌羅經》附三秦錄 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：792(原版) 818(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：思"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYs",
+       "created": 1646116895369,
+       "text": "【普寧藏】No.779《沙彌羅經》 卷數：1 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYt",
+       "created": 1646116895369,
+       "text": "【至元錄】No.1009《沙彌羅經》失譯人名 卷數：1 / 出處：(附三秦錄) / 譯次：(第二譯) 千字文：職(310)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYu",
+       "created": 1646116895369,
+       "text": "【洪武南藏】No.707《沙彌羅經》安公云関中異經 冊數：100 / 頁數：196 / 卷數：1 千字文：言 8 (285)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYv",
+       "created": 1646116895369,
+       "text": "【永樂南藏】No.654《沙彌羅經》 部別：小乘經-阿含部 千字文：慶(232)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYw",
+       "created": 1646116895369,
+       "text": "【永樂北藏】No.669《沙彌羅經》失譯人名 部別：小乘經阿含部 / 冊數：62 / 頁數：191 / 卷數：1 千字文：慶"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYx",
+       "created": 1646116895369,
+       "text": "【嘉興藏】No.634《沙彌羅經》失譯人名 部別：小乘經-阿含部 / 法寶總目錄經號：0634 千字文 / 函號：［正藏］ 慶(232)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYy",
+       "created": 1646116895369,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBYz",
+       "created": 1646116895369,
+       "text": "【乾隆藏】No.635《沙彌羅經》失譯人名 部別：小乘阿含部 / 冊數：52 / 頁數：223 / 卷數：1 千字文：慶"
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ0",
+       "created": 1646116895369,
+       "text": "【縮刻藏】No.701《沙彌羅經》失譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ1",
+       "created": 1646116895369,
+       "text": "【卍正藏】No.643《沙彌羅經》失譯附三秦錄 部別：小乘經 阿含部 / 冊數：25 / 頁數：355 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ2",
+       "created": 1646116895369,
+       "text": "【大正藏】No.750《沙彌羅經》失譯 部別：經集部四 / 冊數：17 / 頁數：572 / 卷數：1 相關經典：縮-宿7,卍-14.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ3",
+       "created": 1646116895369,
+       "text": "【佛教大藏經】No.722《沙彌羅經》失譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：385 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ4",
+       "created": 1646116895369,
+       "text": "【中華藏】No.816《沙彌羅經》附三秦錄 冊數：34 / 頁數：369 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ5",
+       "created": 1646116895369,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ6",
+       "created": 1646116895369,
+       "text": "【南條文雄編號】 Nj. 0639"
+      }},
+      {"data": {
+       "id": "z5cYx7xBZ7",
+       "created": 1646116895369,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：750"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxftmv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

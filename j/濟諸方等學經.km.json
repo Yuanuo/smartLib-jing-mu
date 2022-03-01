@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說濟諸方等學經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwgX41R",
+    "created": 1646116893669,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwgW40U",
+      "created": 1646116893668,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwgW40V",
+        "created": 1646116893668,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgW40W",
+        "created": 1646116893668,
+        "text": "佛說濟諸方等學經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgW40X",
+        "created": 1646116893668,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgW40Y",
+        "created": 1646116893668,
+        "text": "佛说济诸方等学经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgW40Z",
+        "created": 1646116893668,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgW40a",
+        "created": 1646116893668,
+        "text": "fo shuo ji zhu fang deng xue jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgW40i",
+        "created": 1646116893668,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgW40j",
+        "created": 1646116893668,
+        "text": "Chi chu fang teng hsüeh ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgW40k",
+        "created": 1646116893668,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgW40l",
+        "created": 1646116893668,
+        "text": "Sarvavaidalyasaṃgraha(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgW40m",
+        "created": 1646116893668,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgW40n",
+        "created": 1646116893668,
+        "text": "Rnam-par ḥthag-pa thams-cad bsdus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgW40o",
+        "created": 1646116893668,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgW40p",
+        "created": 1646116893668,
+        "text": "제제방등학경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgW40b",
+      "created": 1646116893668,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgW40c",
+      "created": 1646116893668,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgW40d",
+      "created": 1646116893668,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgW40e",
+       "created": 1646116893668,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwgW40f",
+       "created": 1646116893668,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgW40g",
+      "created": 1646116893668,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgW40h",
+      "created": 1646116893668,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgW40q",
+      "created": 1646116893668,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgW40r",
+      "created": 1646116893668,
+      "text": "Translation by Dharmarakṣa: between the 1st year of Tai Shih (太始) and the 1st year of Chien Hsing (建興), Western Chin dynasty (西晉) (A.D. 265-313).T. 2151-353a:26."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgW40s",
+      "created": 1646116893668,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgX40t",
+       "created": 1646116893669,
+       "text": "【北京版】Mdo-sna-tshogs (tshu)187a-199a"
+      }},
+      {"data": {
+       "id": "z5cYwgX40u",
+       "created": 1646116893669,
+       "text": "【奈塘版】Mdo (tsa)282b-301a"
+      }},
+      {"data": {
+       "id": "z5cYwgX40v",
+       "created": 1646116893669,
+       "text": "【德格版】Mdo-sde (dsa)177a-188b"
+      }},
+      {"data": {
+       "id": "z5cYwgX40w",
+       "created": 1646116893669,
+       "text": "【拉薩版】Mdo (tsa)287a-305b"
+      }},
+      {"data": {
+       "id": "z5cYwgX40x",
+       "created": 1646116893669,
+       "text": "【卓尼版】Mdo-maṅ (dsa)233a-246b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgX40y",
+      "created": 1646116893669,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgX40z",
+      "created": 1646116893669,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgX410",
+      "created": 1646116893669,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgX411",
+       "created": 1646116893669,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgX412",
+       "created": 1646116893669,
+       "text": "【開寶藏】No.148《濟諸方等學經》西晉 月支三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：萬"
+      }},
+      {"data": {
+       "id": "z5cYwgX413",
+       "created": 1646116893669,
+       "text": "【崇寧藏】No.149《佛說濟諸方等學經》 卷數：1 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwgX414",
+       "created": 1646116893669,
+       "text": "【毘盧藏】No.145《濟諸方等學經》西晉竺法護譯 參考年代：(靖康) 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwgX415",
+       "created": 1646116893669,
+       "text": "【圓覺藏】No.146《濟諸方等學經》 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwgX416",
+       "created": 1646116893669,
+       "text": "【趙城金藏】No.147《濟諸方等學經》 卷數：1 千字文：萬"
+      }},
+      {"data": {
+       "id": "z5cYwgX417",
+       "created": 1646116893669,
+       "text": "【資福藏】No.150《濟諸方等學經》 卷數：1 (一卷) 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwgX418",
+       "created": 1646116893669,
+       "text": "【磧砂藏】No.149《佛說濟諸方等學經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：224 / 卷數：1 千字文：方 9 (144)"
+      }},
+      {"data": {
+       "id": "z5cYwgX419",
+       "created": 1646116893669,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41A",
+       "created": 1646116893669,
+       "text": "【高麗藏】No.147《濟諸方等學經》西晉月氏三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：579 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：萬"
+      }},
+      {"data": {
+       "id": "z5cYwgX41B",
+       "created": 1646116893669,
+       "text": "【普寧藏】No.145《佛說濟諸方等學經》 卷數：1 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41C",
+       "created": 1646116893669,
+       "text": "【至元錄】No.226《濟諸方等學經》西晉三藏竺法護譯 卷數：1 / 譯次：(第一譯) 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41D",
+       "created": 1646116893669,
+       "text": "【洪武南藏】No.134《濟諸方等學經》西晉 三藏法師竺法護 譯 冊數：49 / 頁數：267 / 卷數：1 千字文：方 9 (144)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41E",
+       "created": 1646116893669,
+       "text": "【永樂南藏】No.150《佛說濟諸方等學經》 部別：大乘經-五大部外重譯經 千字文：五(151)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41F",
+       "created": 1646116893669,
+       "text": "【永樂北藏】No.276《佛說濟諸方等學經》西晉竺法護譯 部別：大乘經五大部外重譯經 / 冊數：44 / 頁數：1 / 卷數：1 千字文：才"
+      }},
+      {"data": {
+       "id": "z5cYwgX41G",
+       "created": 1646116893669,
+       "text": "【嘉興藏】No.247《濟諸方等學經》西晉竺法護譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0247 千字文 / 函號：［正藏］ 才(167)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41H",
+       "created": 1646116893669,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41I",
+       "created": 1646116893669,
+       "text": "【乾隆藏】No.248《佛說濟諸方等學經》西晉 竺法護譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：597 / 卷數：1 千字文：才"
+      }},
+      {"data": {
+       "id": "z5cYwgX41J",
+       "created": 1646116893669,
+       "text": "【縮刻藏】No.443《佛說濟諸方等學經》西晉竺法護譯 部別：大乘經-涅槃部 / 卷數：1 千字文：盈 9 (11)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41K",
+       "created": 1646116893669,
+       "text": "【卍正藏】No.252《佛說濟諸方等學經》西晉 竺法護譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：187 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwgX41L",
+       "created": 1646116893669,
+       "text": "【大正藏】No.274《佛說濟諸方等學經》西晉 竺法護譯 部別：法華部全 / 冊數：9 / 頁數：374 / 卷數：1 相關經典：縮-盈9,卍-10.6,國-法 參考資料：No.275"
+      }},
+      {"data": {
+       "id": "z5cYwgX41M",
+       "created": 1646116893669,
+       "text": "【佛教大藏經】No.451《佛說濟諸方等學經》西晉 竺法護譯 部別：大乘經 涅槃部全 / 冊數：22 / 頁數：1004 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwgX41N",
+       "created": 1646116893669,
+       "text": "【中華藏】No.156《佛說濟諸方等學經》西晉月氏三藏竺法護譯 冊數：17 / 頁數：318 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwgX41O",
+       "created": 1646116893669,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgX41P",
+       "created": 1646116893669,
+       "text": "【南條文雄編號】 Nj. 0252"
+      }},
+      {"data": {
+       "id": "z5cYwgX41Q",
+       "created": 1646116893669,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：274"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw4j7w",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "大唐西域記"},
+  "children": [{
+   "data": {
+    "id": "z5cYy6oThP",
+    "created": 1646116899142,
+    "text": "現藏錄（唐 玄奘譯．辯機撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy6oTgX",
+      "created": 1646116899142,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy6oTgY",
+        "created": 1646116899142,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6oTgZ",
+        "created": 1646116899142,
+        "text": "大唐西域記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6oTga",
+        "created": 1646116899142,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6oTgb",
+        "created": 1646116899142,
+        "text": "大唐西域记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6oTgc",
+        "created": 1646116899142,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6oTgd",
+        "created": 1646116899142,
+        "text": "da tang xi yu ji"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6oTgm",
+        "created": 1646116899142,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6oTgn",
+        "created": 1646116899142,
+        "text": "Ta t'ang hsi yü chi"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYy6oTgo",
+       "created": 1646116899142,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYy6oTgp",
+        "created": 1646116899142,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6oTgq",
+        "created": 1646116899142,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6oTgr",
+        "created": 1646116899142,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6oTgs",
+        "created": 1646116899142,
+        "text": "대당서역기",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy6oTge",
+      "created": 1646116899142,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6oTgf",
+      "created": 1646116899142,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6oTgg",
+      "created": 1646116899142,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy6oTgh",
+       "created": 1646116899142,
+       "text": "唐 玄奘譯．辯機撰"
+      }},
+      {"data": {
+       "id": "z5cYy6oTgi",
+       "created": 1646116899142,
+       "text": "玄奘",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy6oTgj",
+       "created": 1646116899142,
+       "text": "辯機",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy6oTgk",
+      "created": 1646116899142,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6oTgl",
+      "created": 1646116899142,
+      "text": "12"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6oTgt",
+      "created": 1646116899142,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6oTgu",
+      "created": 1646116899142,
+      "text": "Written by Hsüan-tsang and compiled by Pien-chi: 20th year of Chen Kuan (貞觀), T'ang dynasty (唐) (A.D. 646) in Hung-fu Monastery (弘福寺).T.2154-557b:11"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYy6oTgv",
+     "created": 1646116899142,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYy6oTgw",
+      "created": 1646116899142,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6oTgx",
+      "created": 1646116899142,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6oTgy",
+      "created": 1646116899142,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy6oTgz",
+       "created": 1646116899142,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh0",
+       "created": 1646116899142,
+       "text": "【開寶藏】No.1060《大唐西域記》唐 三藏玄奘 撰 部別：賢聖傳記錄 此方撰述集傳 / 卷數：12 千字文：疑-星"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh1",
+       "created": 1646116899142,
+       "text": "【崇寧藏】No.1065《大唐西域記》 卷數：12 千字文：轉(462)-疑(463)"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh2",
+       "created": 1646116899142,
+       "text": "【毘盧藏】No.1065《大唐西域記》序尚書左僕射蒸國公大總持沙門辯機撰　三藏法師玄奘譯 千字文：轉(462)-疑(463)"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh3",
+       "created": 1646116899142,
+       "text": "【圓覺藏】No.1074《大唐西域記》 卷數：12 千字文：轉(462)-疑(463)"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh4",
+       "created": 1646116899142,
+       "text": "【趙城金藏】No.1067《大唐西域記》 卷數：12 千字文：疑星"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh5",
+       "created": 1646116899142,
+       "text": "【資福藏】No.1078《大唐西域記》 卷數：12 (十二卷) 千字文：轉(462)-疑(463)"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh6",
+       "created": 1646116899142,
+       "text": "【磧砂藏】No.1089《大唐西域記》唐 玄奘譯．辯機撰 部別： / 冊數：30 / 頁數：306 / 卷數：12 千字文：轉 1 (462)-疑 4 (463)"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh7",
+       "created": 1646116899142,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh8",
+       "created": 1646116899142,
+       "text": "【高麗藏】No.1065《大唐西域記》三藏法師玄奘奉詔譯-大總持寺沙門辨機撰 部別：賢聖傳記錄 此土撰述 / 冊數：32 頁數：369 / 卷數：12 / 連結：高麗大藏經 (圖檔) 千字文：疑-星"
+      }},
+      {"data": {
+       "id": "z5cYy6oTh9",
+       "created": 1646116899142,
+       "text": "【普寧藏】No.1079《大唐西域記》 卷數：12 千字文：轉(462)-疑(463)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThA",
+       "created": 1646116899142,
+       "text": "【至元錄】No.1544《大唐西域記》唐三藏玄奘撰 卷數：12 / 出處：(出內典錄) 千字文：橫(576)-假(577)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThB",
+       "created": 1646116899142,
+       "text": "【洪武南藏】No.947《大唐西域記》三藏法師玄奘 奉詔譯　大揔持寺沙門辨機 撰 冊數：166 / 頁數：42 / 卷數：12 千字文：轉 1 (462)-疑 4 (463)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThC",
+       "created": 1646116899142,
+       "text": "【永樂南藏】No.1466《大唐西域記》 部別：此方撰述 千字文：千(503)-兵(504)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThD",
+       "created": 1646116899142,
+       "text": "【永樂北藏】No.1575《大唐西域記》唐玄奘撰 部別：此土著述 / 冊數：151 / 頁數：567 / 卷數：10 千字文：孰"
+      }},
+      {"data": {
+       "id": "z5cYy6oThE",
+       "created": 1646116899142,
+       "text": "【嘉興藏】No.1495《大唐西域記》唐玄奘撰 部別：此土著述 / 法寶總目錄經號：1494 千字文 / 函號：［正藏］ 孰(543)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThF",
+       "created": 1646116899142,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThG",
+       "created": 1646116899142,
+       "text": "【乾隆藏】No.1530《大唐西域記》唐 玄奘譯　辯機撰 部別：此土著述 / 冊數：122 / 頁數：455 / 卷數：12 千字文：旦"
+      }},
+      {"data": {
+       "id": "z5cYy6oThH",
+       "created": 1646116899142,
+       "text": "【縮刻藏】No.1823《大唐西域記》唐玄奘記　辯機撰 部別：支那撰述-傳記部 / 卷數：12 千字文：致 7 (35)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThI",
+       "created": 1646116899142,
+       "text": "【卍正藏】No.1509《大唐西域記》玄奘譯 部別：此土著述 / 冊數：58 / 頁數：87 / 卷數：12 原版套數：第 30 套"
+      }},
+      {"data": {
+       "id": "z5cYy6oThJ",
+       "created": 1646116899142,
+       "text": "【大正藏】No.2087《大唐西域記》唐 玄奘譯．辯機撰 部別：史傳部三 / 冊數：51 / 頁數：867 / 卷數：12 相關經典：縮-致7,卍-30.6,國-史傳16 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy6oThK",
+       "created": 1646116899142,
+       "text": "【佛教大藏經】No.2022《大唐西域記》唐 玄奘譯．辯機撰 部別：史傳部二 / 冊數：75 / 頁數：1 / 卷數：12"
+      }},
+      {"data": {
+       "id": "z5cYy6oThL",
+       "created": 1646116899142,
+       "text": "【中華藏】No.1171《大唐西域記》三藏法師玄奘奉詔譯，大總持寺沙門辯機撰 冊數：60 / 頁數：611 / 卷數：12 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy6oThM",
+       "created": 1646116899142,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6oThN",
+       "created": 1646116899142,
+       "text": "【南條文雄編號】 Nj. 1503"
+      }},
+      {"data": {
+       "id": "z5cYy6oThO",
+       "created": 1646116899142,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2087"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0cl1qe",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

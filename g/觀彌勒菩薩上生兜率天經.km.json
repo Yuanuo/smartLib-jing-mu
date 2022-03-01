@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "佛說觀彌勒菩薩上生兜率天經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwt17GW",
+    "created": 1646116894443,
+    "text": "現藏錄（宋 沮渠京聲譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwt07Fd",
+      "created": 1646116894442,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwt07Fe",
+        "created": 1646116894442,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt07Ff",
+        "created": 1646116894442,
+        "text": "佛說觀彌勒菩薩上生兜率天經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt07Fg",
+        "created": 1646116894442,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt07Fh",
+        "created": 1646116894442,
+        "text": "佛说观弥勒菩萨上生兜率天经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt07Fi",
+        "created": 1646116894442,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt07Fj",
+        "created": 1646116894442,
+        "text": "fo shuo guan mi le pu sa shang sheng dou lv tian jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt07Fr",
+        "created": 1646116894442,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt07Fs",
+        "created": 1646116894442,
+        "text": "Kuan mi le p'u sa shang sheng tou shuai t'ien ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwt07Ft",
+       "created": 1646116894442,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwt07Fu",
+        "created": 1646116894442,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt07Fv",
+        "created": 1646116894442,
+        "text": "Byaṅ-chub-sems-dpaḥ byams-pa dgaḥ-ldan gnam-du skyel-ba blaṅs-paḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt07Fw",
+        "created": 1646116894442,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt07Fx",
+        "created": 1646116894442,
+        "text": "관미륵보살상생두솔천경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwt07Fk",
+      "created": 1646116894442,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt07Fl",
+      "created": 1646116894442,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwt07Fm",
+      "created": 1646116894442,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwt07Fn",
+       "created": 1646116894442,
+       "text": "宋 沮渠京聲譯"
+      }},
+      {"data": {
+       "id": "z5cYwt07Fo",
+       "created": 1646116894442,
+       "text": "沮渠京聲",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwt07Fp",
+      "created": 1646116894442,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt07Fq",
+      "created": 1646116894442,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwt07Fy",
+      "created": 1646116894442,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt07Fz",
+      "created": 1646116894442,
+      "text": "Translation by Chü-ch'ü Ching-sheng: 2nd year of Hsiao Chien (孝建), Liu Sung dynasty (劉宋) (A.D. 455) in Chu-yüan Monastery (竹園寺) and Ting-lin-shang Monastery (定林上寺), Mt. Chung (鐘山).T. 2151-360c:18."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwt07G0",
+      "created": 1646116894442,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwt07G1",
+       "created": 1646116894442,
+       "text": "【德格版】Mdo-sde (tsa)296b-303a"
+      }},
+      {"data": {
+       "id": "z5cYwt07G2",
+       "created": 1646116894442,
+       "text": "【拉薩版】Mdo (ba)468b-478b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwt07G3",
+      "created": 1646116894442,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt07G4",
+      "created": 1646116894442,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwt07G5",
+      "created": 1646116894442,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwt07G6",
+       "created": 1646116894442,
+       "text": "【房山石經】No.8《佛說觀彌勒菩薩上生兜率陀天經》(劉宋)沮渠京聲譯 冊數：1 / 頁數：105 / 卷數：1 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.48《佛說觀彌勒菩薩上生兜率天經》(劉宋)沮渠京聲譯 冊數：2 / 頁數：405 / 卷數：1 / 刻經年代：長壽三年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.125《佛說觀彌勒菩薩上生兜率天經》(姚秦)鳩摩羅什譯 冊數：3 / 頁數：379 / 卷數：1 / 刻經年代：長慶元年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.152《佛說觀彌勒菩薩上生兜率天經》(劉宋)沮渠京聲譯 冊數：3 / 頁數：432 / 卷數：1 / 刻經年代：會昌元年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.250《佛說觀彌勒菩薩上生兜率天經》(劉宋)居士沮渠京聲譯 冊數：3 / 頁數：560 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYwt07G7",
+       "created": 1646116894442,
+       "text": "【開寶藏】No.195《觀彌勒菩薩上生兜率天經》劉宋 居士沮渠京聲 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwt07G8",
+       "created": 1646116894442,
+       "text": "【崇寧藏】No.196《觀彌勒菩薩上生兜率陀天經》 卷數：1 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt07G9",
+       "created": 1646116894442,
+       "text": "【毘盧藏】No.192《觀彌勒菩薩上生兜率陀天經》宋沮渠京聲譯 參考年代：(靖康元．四) 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GA",
+       "created": 1646116894442,
+       "text": "【圓覺藏】No.204《觀彌勒上生兜率陀天經》 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GB",
+       "created": 1646116894442,
+       "text": "【趙城金藏】No.194《觀彌勒上生兜率天經》 卷數：1 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwt07GC",
+       "created": 1646116894442,
+       "text": "【資福藏】No.208《觀彌勒上生兜率陀天經》 卷數：1 (一) 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GD",
+       "created": 1646116894442,
+       "text": "【磧砂藏】No.209《佛說觀彌勒菩薩上生兜率陁天經》宋 沮渠景聲譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：1 / 卷數：1 千字文：豈 1 (157)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GE",
+       "created": 1646116894442,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GF",
+       "created": 1646116894442,
+       "text": "【高麗藏】No.194《觀彌勒菩薩上生兜率天經》宋居士沮渠京聲譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：195 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwt07GG",
+       "created": 1646116894442,
+       "text": "【普寧藏】No.203《觀彌勒菩薩上生兜率陀天經》 卷數：1 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GH",
+       "created": 1646116894442,
+       "text": "【至元錄】No.273《觀彌勒菩薩上生兜率天經》宋居士沮渠京聲譯 卷數：1 / 譯次：(單本) 千字文：知(169)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GI",
+       "created": 1646116894442,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GJ",
+       "created": 1646116894442,
+       "text": "【永樂南藏】No.198《觀彌勒菩薩上生兜率陀天經》 部別：大乘經-五大部外重譯經 千字文：貞(163)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GK",
+       "created": 1646116894442,
+       "text": "【永樂北藏】No.228《佛說觀彌勒菩薩上生兜率陀天經》劉宋沮渠京聲譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：63 / 卷數：1 千字文：貞"
+      }},
+      {"data": {
+       "id": "z5cYwt07GL",
+       "created": 1646116894442,
+       "text": "【嘉興藏】No.199《觀彌勒上生兜率陀天經》劉宋沮渠京聲譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0199 千字文 / 函號：［正藏］ 貞(163)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GM",
+       "created": 1646116894442,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GN",
+       "created": 1646116894442,
+       "text": "【乾隆藏】No.200《佛說觀彌勒菩薩上生兜率陀天經》劉宋 沮渠京聲譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：811 / 卷數：1 千字文：貞"
+      }},
+      {"data": {
+       "id": "z5cYwt07GO",
+       "created": 1646116894442,
+       "text": "【縮刻藏】No.1196《佛說觀彌勒菩薩上生兜率天經》宋沮渠京聲譯 部別：祕密部 / 卷數：1 千字文： 9 (25)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GP",
+       "created": 1646116894442,
+       "text": "【卍正藏】No.203《佛說觀彌勒菩薩上生兜率天經》宋 沮渠京聲譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：811 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwt07GQ",
+       "created": 1646116894442,
+       "text": "【大正藏】No.452《佛說觀彌勒菩薩上生兜率天經》宋 沮渠京聲譯 部別：經集部一 / 冊數：14 / 頁數：418 / 卷數：1 相關經典：縮-閏9,卍-10.5,國-經2 參考資料：cf.Nos.1771-1774"
+      }},
+      {"data": {
+       "id": "z5cYwt07GR",
+       "created": 1646116894442,
+       "text": "【佛教大藏經】No.1265《佛說觀彌勒菩薩上生兜率天經》劉宋 沮渠京聲譯 部別：密教部二 / 冊數：53 / 頁數：207 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwt07GS",
+       "created": 1646116894442,
+       "text": "【中華藏】No.205《佛說觀彌勒菩薩上生兜率天經》劉宋居士沮渠京聲譯 冊數：18 / 頁數：706 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwt07GT",
+       "created": 1646116894442,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt07GU",
+       "created": 1646116894442,
+       "text": "【南條文雄編號】 Nj. 0204"
+      }},
+      {"data": {
+       "id": "z5cYwt07GV",
+       "created": 1646116894442,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：452"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwq2eh",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

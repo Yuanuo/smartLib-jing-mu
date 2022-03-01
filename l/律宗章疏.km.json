@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "律宗章疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYyAlUwZ",
+    "created": 1646116899387,
+    "text": "現藏錄（日本 榮穩錄）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyAkUvu",
+      "created": 1646116899386,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyAkUvv",
+        "created": 1646116899386,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyAkUvw",
+        "created": 1646116899386,
+        "text": "律宗章疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyAkUvx",
+        "created": 1646116899386,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyAkUvy",
+        "created": 1646116899386,
+        "text": "律宗章疏"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyAkUvz",
+        "created": 1646116899386,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyAkUw0",
+        "created": 1646116899386,
+        "text": "lv zong zhang shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyAkUw1",
+      "created": 1646116899386,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyAkUw2",
+      "created": 1646116899386,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyAkUw3",
+      "created": 1646116899386,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyAkUw4",
+       "created": 1646116899386,
+       "text": "日本 榮穩錄"
+      }},
+      {"data": {
+       "id": "z5cYyAkUw5",
+       "created": 1646116899386,
+       "text": "榮穩",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyAkUw6",
+      "created": 1646116899386,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyAkUw7",
+      "created": 1646116899386,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyAkUw8",
+      "created": 1646116899386,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyAkUw9",
+       "created": 1646116899386,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwA",
+       "created": 1646116899386,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwB",
+       "created": 1646116899386,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwC",
+       "created": 1646116899386,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwD",
+       "created": 1646116899386,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwE",
+       "created": 1646116899386,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwF",
+       "created": 1646116899386,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwG",
+       "created": 1646116899386,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwH",
+       "created": 1646116899386,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwI",
+       "created": 1646116899386,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwJ",
+       "created": 1646116899386,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwK",
+       "created": 1646116899386,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwL",
+       "created": 1646116899386,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwM",
+       "created": 1646116899386,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwN",
+       "created": 1646116899386,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwO",
+       "created": 1646116899386,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwP",
+       "created": 1646116899386,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwQ",
+       "created": 1646116899386,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwR",
+       "created": 1646116899386,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwS",
+       "created": 1646116899386,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwT",
+       "created": 1646116899386,
+       "text": "【大正藏】No.2182《律宗章疏》日本 榮穩錄 部別：目錄部全 / 冊數：55 / 頁數：1144 / 卷數：1 相關經典：佛全-1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyAkUwU",
+       "created": 1646116899386,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwV",
+       "created": 1646116899386,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwW",
+       "created": 1646116899386,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwX",
+       "created": 1646116899386,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAkUwY",
+       "created": 1646116899386,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2182"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0je1tb",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

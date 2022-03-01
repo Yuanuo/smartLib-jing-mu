@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說遺日摩尼寶經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwmc5cK",
+    "created": 1646116894046,
+    "text": "現藏錄（後漢 支婁迦讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwmb5bN",
+      "created": 1646116894045,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwmb5bO",
+        "created": 1646116894045,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmb5bP",
+        "created": 1646116894045,
+        "text": "佛說遺日摩尼寶經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmb5bQ",
+        "created": 1646116894045,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmb5bR",
+        "created": 1646116894045,
+        "text": "佛说遗日摩尼宝经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmb5bS",
+        "created": 1646116894045,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmb5bT",
+        "created": 1646116894045,
+        "text": "fo shuo yi ri mo ni bao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmb5bb",
+        "created": 1646116894045,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmb5bc",
+        "created": 1646116894045,
+        "text": "I jih mo ni pao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmb5bd",
+        "created": 1646116894045,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmb5be",
+        "created": 1646116894045,
+        "text": "Kāśyapaparivarta(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmb5bf",
+        "created": 1646116894045,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmb5bg",
+        "created": 1646116894045,
+        "text": "Ḥod-sruṅ-gi-leḥu"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmb5bh",
+        "created": 1646116894045,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmb5bi",
+        "created": 1646116894045,
+        "text": "유일마니보경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmb5bU",
+      "created": 1646116894045,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmb5bV",
+      "created": 1646116894045,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmb5bW",
+      "created": 1646116894045,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmb5bX",
+       "created": 1646116894045,
+       "text": "後漢 支婁迦讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwmb5bY",
+       "created": 1646116894045,
+       "text": "支婁迦讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmb5bZ",
+      "created": 1646116894045,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmb5ba",
+      "created": 1646116894045,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmb5bj",
+      "created": 1646116894045,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmb5bk",
+      "created": 1646116894045,
+      "text": "Translation by Lokakṣema: 2nd year of Kuang Ho (光和), Later Han dynasty (A.D. 179).T. 2149-223c:18."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmc5bl",
+      "created": 1646116894046,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmc5bm",
+       "created": 1646116894046,
+       "text": "【北京版】Dkon-brtsegs (ḥi)100b-138a"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bn",
+       "created": 1646116894046,
+       "text": "【奈塘版】Dkon-brtsegs (cha)208a-261a"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bo",
+       "created": 1646116894046,
+       "text": "【德格版】Dkon-brtsegs (cha)119b-151b"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bp",
+       "created": 1646116894046,
+       "text": "【拉薩版】Dkon-brtsegs (cha)211a-260b"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bq",
+       "created": 1646116894046,
+       "text": "【卓尼版】Dkon-brtsegs (cha)125b-161a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmc5br",
+      "created": 1646116894046,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmc5bs",
+      "created": 1646116894046,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmc5bt",
+      "created": 1646116894046,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmc5bu",
+       "created": 1646116894046,
+       "text": "【房山石經】No.378《佛遺日摩尼寶經》(后漢)月支三藏支婁迦讖譯 冊數：9 / 頁數：155 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：位"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bv",
+       "created": 1646116894046,
+       "text": "【開寶藏】No.54《佛遺日摩尼寶經》後漢 月支三藏支婁迦讖 譯 部別：大乘經 寶積部 / 卷數：1 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bw",
+       "created": 1646116894046,
+       "text": "【崇寧藏】No.56《佛遺日摩尼寶經》 卷數：1 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bx",
+       "created": 1646116894046,
+       "text": "【毘盧藏】No.52《佛遺日摩尼寶經》後漢支讖譯 參考年代：(宣和六．八) 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5by",
+       "created": 1646116894046,
+       "text": "【圓覺藏】No.51《佛遺日摩尼寶經》 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5bz",
+       "created": 1646116894046,
+       "text": "【趙城金藏】No.52《遺日摩尼寶經》 卷數：1 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c0",
+       "created": 1646116894046,
+       "text": "【資福藏】No.54《佛遺日摩尼寶經》 卷數：1 (一卷) 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c1",
+       "created": 1646116894046,
+       "text": "【磧砂藏】No.53《佛遺日摩尼寶經》後漢 支讖譯 部別：寶積部 / 冊數：6 / 頁數：435 / 卷數：1 千字文：推 6 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c2",
+       "created": 1646116894046,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c3",
+       "created": 1646116894046,
+       "text": "【高麗藏】No.52《遺日摩尼寶經》後漢月氏國三藏支婁迦讖譯 部別：大乘經 寶積部 / 冊數：6 頁數：1343 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c4",
+       "created": 1646116894046,
+       "text": "【普寧藏】No.50《佛遺日摩尼寶經》 卷數：1 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c5",
+       "created": 1646116894046,
+       "text": "【至元錄】No.120《佛遺日摩尼寶經》後漢月支三藏支婁迦讖譯 卷數：1 / 譯次：(第一譯) 千字文：有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c6",
+       "created": 1646116894046,
+       "text": "【洪武南藏】No.49《佛遺日摩尼寶經》後漢 月支沙門支婁迦讖 譯 冊數：32 / 頁數：209 / 卷數：1 千字文：推 6 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c7",
+       "created": 1646116894046,
+       "text": "【永樂南藏】No.50《佛遺日摩尼寶經》 部別：大乘經-寶積部 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c8",
+       "created": 1646116894046,
+       "text": "【永樂北藏】No.71《佛說遺日摩尼寶經》後漢支婁迦讖譯 部別：大乘經寶積部 / 冊數：23 / 頁數：133 / 卷數：1 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmc5c9",
+       "created": 1646116894046,
+       "text": "【嘉興藏】No.53《佛遺日摩尼寶經》後漢支婁迦讖譯 部別：大乘經-寶積部 / 法寶總目錄經號：0053 千字文 / 函號：［正藏］ 推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cA",
+       "created": 1646116894046,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cB",
+       "created": 1646116894046,
+       "text": "【乾隆藏】No.53《佛遺日摩尼寶經》後漢 支婁迦讖譯 部別：大乘寶積部 / 冊數：20 / 頁數：479 / 卷數：1 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cC",
+       "created": 1646116894046,
+       "text": "【縮刻藏】No.72《佛說遺日摩尼寶經》後漢支婁迦讖譯 部別：大乘經-方等部 / 卷數：1 千字文：地 12 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cD",
+       "created": 1646116894046,
+       "text": "【卍正藏】No.57《佛說遺日摩尼寶經》後漢 支婁迦讖譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：806 / 卷數：1 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cE",
+       "created": 1646116894046,
+       "text": "【大正藏】No.350《佛說遺日摩尼寶經》後漢 支婁迦讖譯 部別：寶積部下 / 冊數：12 / 頁數：189 / 卷數：1 相關經典：縮-地12,卍-6.5 參考資料：Nos.310(43),351,352"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cF",
+       "created": 1646116894046,
+       "text": "【佛教大藏經】No.72《佛說遺日摩尼寶經》後漢 支婁迦讖譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：902 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cG",
+       "created": 1646116894046,
+       "text": "【中華藏】No.56《佛說遺日摩尼寶經》後漢月支國三藏支婁迦讖譯 冊數：9 / 頁數：982 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cH",
+       "created": 1646116894046,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cI",
+       "created": 1646116894046,
+       "text": "【南條文雄編號】 Nj. 0057"
+      }},
+      {"data": {
+       "id": "z5cYwmc5cJ",
+       "created": 1646116894046,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：350"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwf1b7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

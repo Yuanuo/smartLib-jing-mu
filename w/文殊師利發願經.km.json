@@ -1,0 +1,357 @@
+{
+ "root": {
+  "data": {"text": "文殊師利發願經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwhm4LJ",
+    "created": 1646116893746,
+    "text": "現藏錄（東晉 佛陀跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwhl4KN",
+      "created": 1646116893745,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwhl4KO",
+        "created": 1646116893745,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhl4KP",
+        "created": 1646116893745,
+        "text": "文殊師利發願經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhl4KQ",
+        "created": 1646116893745,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhl4KR",
+        "created": 1646116893745,
+        "text": "文殊师利发愿经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhl4KS",
+        "created": 1646116893745,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhl4KT",
+        "created": 1646116893745,
+        "text": "wen shu shi li fa yuan jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhl4Kb",
+        "created": 1646116893745,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhl4Kc",
+        "created": 1646116893745,
+        "text": "Wen shu shih li fa yüan ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhl4Kd",
+        "created": 1646116893745,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhl4Ke",
+        "created": 1646116893745,
+        "text": "Bhadracaryapraṇidhāna",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhl4Kf",
+        "created": 1646116893745,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhl4Kg",
+        "created": 1646116893745,
+        "text": "Bzaṅ-po spyod-paḥi smon-lam-gyi rgyal-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhl4Kh",
+        "created": 1646116893745,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhl4Ki",
+        "created": 1646116893745,
+        "text": "문수사리발원경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhl4KU",
+      "created": 1646116893745,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhl4KV",
+      "created": 1646116893745,
+      "text": "東晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhl4KW",
+      "created": 1646116893745,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhl4KX",
+       "created": 1646116893745,
+       "text": "東晉 佛陀跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwhl4KY",
+       "created": 1646116893745,
+       "text": "佛陀跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhl4KZ",
+      "created": 1646116893745,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhl4Ka",
+      "created": 1646116893745,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhl4Kj",
+      "created": 1646116893745,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhl4Kk",
+      "created": 1646116893745,
+      "text": "Translation by Buddhabhadra: 2nd year of Yüan Hsi (元煕), Eastern Chin dynasty (東晉) (A.D. 420) in Tou-ch'ang Monastery (鬪場寺).T. 2154-505c:6."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhl4Kl",
+      "created": 1646116893745,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhl4Km",
+       "created": 1646116893745,
+       "text": "【北京版】Rgyud (ya)268a-271bMdo-ḥgrel (Ṅo-tshar) (mo)288b-292a"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Kn",
+       "created": 1646116893745,
+       "text": "【奈塘版】Mdo-ḥgrel (mo)281a-284b"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Ko",
+       "created": 1646116893745,
+       "text": "【德格版】Gzuṅs-ḥdus (Wam)262b-266aSna-tshogs (ño)300b-303b"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Kp",
+       "created": 1646116893745,
+       "text": "【卓尼版】Rgyud (ya)280b-284bMdo-maṅ (A)334b-338a(pa)252a-356aSna-tshogs (ño)304a-307b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhl4Kq",
+      "created": 1646116893745,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhl4Kr",
+      "created": 1646116893745,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhl4Ks",
+      "created": 1646116893745,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhl4Kt",
+       "created": 1646116893745,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Ku",
+       "created": 1646116893745,
+       "text": "【開寶藏】No.1023《文殊師利發願經》東晉 天竺三藏佛陀跋陀羅 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：1 千字文：畫"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Kv",
+       "created": 1646116893745,
+       "text": "【崇寧藏】No.1026《文殊師利發願經》 卷數：1 千字文：獸(436)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Kw",
+       "created": 1646116893745,
+       "text": "【毘盧藏】No.1026《文殊師利發願經》東晉佛陀跋陀羅譯 千字文：獸(436)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Kx",
+       "created": 1646116893745,
+       "text": "【圓覺藏】No.1035《文殊師利發願經》 千字文：獸(436)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Ky",
+       "created": 1646116893745,
+       "text": "【趙城金藏】No.1031《文殊師利發願經》 卷數：1 千字文：獸"
+      }},
+      {"data": {
+       "id": "z5cYwhl4Kz",
+       "created": 1646116893745,
+       "text": "【資福藏】No.1040《文殊師利發願經》 卷數：1 千字文：獸(436)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L0",
+       "created": 1646116893745,
+       "text": "【磧砂藏】No.1051《文殊師利發願經》晉 佛陀跋陀羅譯 部別： / 冊數：28 / 頁數：484 / 卷數：1 千字文：獸 9 (436)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L1",
+       "created": 1646116893745,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L2",
+       "created": 1646116893745,
+       "text": "【高麗藏】No.1029《文殊師利發願經》東晉天竺三藏佛陀跋陀羅譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：607 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：獸"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L3",
+       "created": 1646116893745,
+       "text": "【普寧藏】No.1042《文殊師利發願頌》 卷數：1 千字文：獸(436)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L4",
+       "created": 1646116893745,
+       "text": "【至元錄】No.1480《文殊師利發願經》東晉天竺三藏佛陀羅譯 卷數：1 千字文：營(544)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L5",
+       "created": 1646116893745,
+       "text": "【洪武南藏】No.925《文殊師利發願經》東晉 佛陀跋陀羅 譯 冊數：155 / 頁數：571 / 卷數：1 千字文：獸 9 (436)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L6",
+       "created": 1646116893745,
+       "text": "【永樂南藏】No.1124《文殊師利發願經》 部別：西土聖賢撰集 千字文：藉(301)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L7",
+       "created": 1646116893745,
+       "text": "【永樂北藏】No.1394《文殊師利發願經》東晉佛陀跋陀羅譯 部別：西土聖賢撰集 / 冊數：129 / 頁數：297 / 卷數：1 千字文：既"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L8",
+       "created": 1646116893745,
+       "text": "【嘉興藏】No.1328《文殊發願經》東晉佛陀跋陀羅譯 部別：西土聖賢撰集 / 法寶總目錄經號：1327 千字文 / 函號：［正藏］ 既(473)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4L9",
+       "created": 1646116893745,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4LA",
+       "created": 1646116893745,
+       "text": "【乾隆藏】No.1329《文殊師利發願經》東晉 佛陀跋陀羅譯 部別：西土聖賢撰集 / 冊數：106 / 頁數：283 / 卷數：1 千字文：既"
+      }},
+      {"data": {
+       "id": "z5cYwhl4LB",
+       "created": 1646116893745,
+       "text": "【縮刻藏】No.18《文殊師利發願經》東晉佛陀跋陀羅譯 部別：大乘經-華嚴部 / 卷數：1 千字文：天 11 (1)"
+      }},
+      {"data": {
+       "id": "z5cYwhl4LC",
+       "created": 1646116893745,
+       "text": "【卍正藏】No.1343《文殊師利發願經》東晉 佛陀跋陀羅譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：54 / 卷數：1 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYwhm4LD",
+       "created": 1646116893746,
+       "text": "【大正藏】No.296《文殊師利發願經》東晉 佛陀跋陀羅譯 部別：華嚴部下 / 冊數：10 / 頁數：878 / 卷數：1 相關經典：縮-天11,卍-26.6 參考資料：Nos.297;cf.278(31),279(36),293(Fasc,40)"
+      }},
+      {"data": {
+       "id": "z5cYwhm4LE",
+       "created": 1646116893746,
+       "text": "【佛教大藏經】No.18《文殊師利發願經》東晉 佛馱跋陀羅譯 部別：大乘經 華嚴部二 / 冊數：2 / 頁數：936 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwhm4LF",
+       "created": 1646116893746,
+       "text": "【中華藏】No.1120《文殊師利發願經》東晉天竺三藏佛陀跋陀譯 冊數：52 / 頁數：335 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwhm4LG",
+       "created": 1646116893746,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhm4LH",
+       "created": 1646116893746,
+       "text": "【南條文雄編號】 Nj. 1336"
+      }},
+      {"data": {
+       "id": "z5cYwhm4LI",
+       "created": 1646116893746,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：296"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw6o8i",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "教機時國鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyzoju1",
+    "created": 1646116902552,
+    "text": "現藏錄（日本 日蓮撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyzojtM",
+      "created": 1646116902552,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyzojtN",
+        "created": 1646116902552,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyzojtO",
+        "created": 1646116902552,
+        "text": "教機時國鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyzojtP",
+        "created": 1646116902552,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyzojtQ",
+        "created": 1646116902552,
+        "text": "教机时国钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyzojtR",
+        "created": 1646116902552,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyzojtS",
+        "created": 1646116902552,
+        "text": "jiao ji shi guo chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyzojtT",
+      "created": 1646116902552,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyzojtU",
+      "created": 1646116902552,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyzojtV",
+      "created": 1646116902552,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyzojtW",
+       "created": 1646116902552,
+       "text": "日本 日蓮撰"
+      }},
+      {"data": {
+       "id": "z5cYyzojtX",
+       "created": 1646116902552,
+       "text": "日蓮",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyzojtY",
+      "created": 1646116902552,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyzojtZ",
+      "created": 1646116902552,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyzojta",
+      "created": 1646116902552,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyzojtb",
+       "created": 1646116902552,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtc",
+       "created": 1646116902552,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtd",
+       "created": 1646116902552,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojte",
+       "created": 1646116902552,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtf",
+       "created": 1646116902552,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtg",
+       "created": 1646116902552,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojth",
+       "created": 1646116902552,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojti",
+       "created": 1646116902552,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtj",
+       "created": 1646116902552,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtk",
+       "created": 1646116902552,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtl",
+       "created": 1646116902552,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtm",
+       "created": 1646116902552,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtn",
+       "created": 1646116902552,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojto",
+       "created": 1646116902552,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtp",
+       "created": 1646116902552,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtq",
+       "created": 1646116902552,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtr",
+       "created": 1646116902552,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojts",
+       "created": 1646116902552,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtt",
+       "created": 1646116902552,
+       "text": "【縮刻藏】No.1910《教機時國鈔》身延山沙門日蓮撰 部別：日本撰述部-日蓮宗 / 卷數：1 千字文：霜 10 (40)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtu",
+       "created": 1646116902552,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtv",
+       "created": 1646116902552,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtw",
+       "created": 1646116902552,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtx",
+       "created": 1646116902552,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojty",
+       "created": 1646116902552,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzojtz",
+       "created": 1646116902552,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzoju0",
+       "created": 1646116902552,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：699"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2zb2w6",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

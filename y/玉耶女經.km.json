@@ -1,0 +1,526 @@
+{
+ "root": {
+  "data": {"text": "佛說玉耶女經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwWw21t",
+     "created": 1646116893074,
+     "text": "現藏錄（失譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwWv215",
+       "created": 1646116893073,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwWv216",
+         "created": 1646116893073,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWv217",
+         "created": 1646116893073,
+         "text": "佛說玉耶女經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwWv218",
+         "created": 1646116893073,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWv219",
+         "created": 1646116893073,
+         "text": "佛说玉耶女经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwWv21A",
+         "created": 1646116893073,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWw21B",
+         "created": 1646116893074,
+         "text": "fo shuo yu ye nv jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwWw21G",
+         "created": 1646116893074,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWw21H",
+         "created": 1646116893074,
+         "text": "Yü yeh nü ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYwWw21I",
+        "created": 1646116893074,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYwWw21J",
+         "created": 1646116893074,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWw21K",
+         "created": 1646116893074,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwWw21L",
+         "created": 1646116893074,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWw21M",
+         "created": 1646116893074,
+         "text": "옥야녀경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwWw21C",
+       "created": 1646116893074,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYwWw21D",
+       "created": 1646116893074,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwWw21E",
+       "created": 1646116893074,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwWw21F",
+       "created": 1646116893074,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwWw21N",
+       "created": 1646116893074,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwWw21O",
+       "created": 1646116893074,
+       "text": "Translator unknown: Western Chin dynasty (西晉) (A.D. 265-317).T. 2154-615b:13."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwWw21P",
+      "created": 1646116893074,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwWw21Q",
+       "created": 1646116893074,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwWw21R",
+       "created": 1646116893074,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwWw21S",
+       "created": 1646116893074,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwWw21T",
+        "created": 1646116893074,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21U",
+        "created": 1646116893074,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21V",
+        "created": 1646116893074,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21W",
+        "created": 1646116893074,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21X",
+        "created": 1646116893074,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21Y",
+        "created": 1646116893074,
+        "text": "【趙城金藏】No.775《玉耶女經》 卷數：1 千字文：思"
+       }},
+       {"data": {
+        "id": "z5cYwWw21Z",
+        "created": 1646116893074,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21a",
+        "created": 1646116893074,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21b",
+        "created": 1646116893074,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21c",
+        "created": 1646116893074,
+        "text": "【高麗藏】No.772《玉耶女經》失譯人名附西晉錄 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：797(原版) 823(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：思"
+       }},
+       {"data": {
+        "id": "z5cYwWw21d",
+        "created": 1646116893074,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21e",
+        "created": 1646116893074,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21f",
+        "created": 1646116893074,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21g",
+        "created": 1646116893074,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21h",
+        "created": 1646116893074,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21i",
+        "created": 1646116893074,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21j",
+        "created": 1646116893074,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21k",
+        "created": 1646116893074,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21l",
+        "created": 1646116893074,
+        "text": "【縮刻藏】No.474《佛說玉耶女經》失譯 部別：小乘經 / 卷數：1 千字文：昃 4 (12)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21m",
+        "created": 1646116893074,
+        "text": "【卍正藏】No.645《佛說玉耶女經》失譯人名附西晉錄 部別：小乘經 阿含部 / 冊數：25 / 頁數：358 / 卷數：1 原版套數：第 14 套"
+       }},
+       {"data": {
+        "id": "z5cYwWw21n",
+        "created": 1646116893074,
+        "text": "【大正藏】No.142a《佛說玉耶女經》失譯 部別：阿含部下 / 冊數：2 / 頁數：863 / 卷數：1 相關經典：縮-昃4,卍-14.2,南-20.7.59 參考資料：Nos.125(51.9),141,143"
+       }},
+       {"data": {
+        "id": "z5cYwWw21o",
+        "created": 1646116893074,
+        "text": "【佛教大藏經】No.482《佛說玉耶女經》失譯 部別：小乘經 阿含部一 / 冊數：23 / 頁數：530 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwWw21p",
+        "created": 1646116893074,
+        "text": "【中華藏】No.832《佛說玉耶女經》失譯人名附西晉錄 冊數：34 / 頁數：478 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYwWw21q",
+        "created": 1646116893074,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21r",
+        "created": 1646116893074,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWw21s",
+        "created": 1646116893074,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：142"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwX022W",
+     "created": 1646116893078,
+     "text": "現藏錄（失譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwWz21u",
+       "created": 1646116893077,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwWz21v",
+         "created": 1646116893077,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWz21w",
+         "created": 1646116893077,
+         "text": "玉耶女經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwWz21x",
+         "created": 1646116893077,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWz21y",
+         "created": 1646116893077,
+         "text": "玉耶女经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwWz21z",
+         "created": 1646116893077,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwWz220",
+         "created": 1646116893077,
+         "text": "yu ye nv jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwWz221",
+       "created": 1646116893077,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYwWz222",
+       "created": 1646116893077,
+       "text": "失譯"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwWz223",
+       "created": 1646116893077,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwWz224",
+       "created": 1646116893077,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwWz225",
+       "created": 1646116893077,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwWz226",
+        "created": 1646116893077,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz227",
+        "created": 1646116893077,
+        "text": "【開寶藏】No.767《玉耶女經》西晉 失譯者 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：辭"
+       }},
+       {"data": {
+        "id": "z5cYwWz228",
+        "created": 1646116893077,
+        "text": "【崇寧藏】No.769《玉邪女經》 卷數：1 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwWz229",
+        "created": 1646116893077,
+        "text": "【毘盧藏】No.770《玉耶女經》失譯 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22A",
+        "created": 1646116893077,
+        "text": "【圓覺藏】No.777《玉耶女經》 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22B",
+        "created": 1646116893077,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22C",
+        "created": 1646116893077,
+        "text": "【資福藏】No.783《玉耶女經》 卷數：1 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22D",
+        "created": 1646116893077,
+        "text": "【磧砂藏】No.789《玉耶女經》失譯 部別：阿含部 / 冊數：19 / 頁數：80 / 卷數：1 千字文：言 8 (285)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22E",
+        "created": 1646116893077,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22F",
+        "created": 1646116893077,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22G",
+        "created": 1646116893077,
+        "text": "【普寧藏】No.781《玉耶女經》 卷數：1 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22H",
+        "created": 1646116893077,
+        "text": "【至元錄】No.1010《玉耶女經》失譯人名 卷數：1 / 出處：安公(附西晉錄) / 譯次：(第一譯) 千字文：職(310)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22I",
+        "created": 1646116893077,
+        "text": "【洪武南藏】No.709《玉耶女經》失譯師名今附西晉錄初出 冊數：100 / 頁數：203 / 卷數：1 千字文：言 8 (285)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22J",
+        "created": 1646116893077,
+        "text": "【永樂南藏】No.656《玉耶女經》 部別：小乘經-阿含部 千字文：慶(232)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22K",
+        "created": 1646116893077,
+        "text": "【永樂北藏】No.671《玉耶女經》失譯人名附西晉錄 部別：小乘經阿含部 / 冊數：62 / 頁數：199 / 卷數：1 千字文：慶"
+       }},
+       {"data": {
+        "id": "z5cYwWz22L",
+        "created": 1646116893077,
+        "text": "【嘉興藏】No.636《玉耶女經》失譯人名附西晉錄 部別：小乘經-阿含部 / 法寶總目錄經號：0636 千字文 / 函號：［正藏］ 慶(232)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22M",
+        "created": 1646116893077,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22N",
+        "created": 1646116893077,
+        "text": "【乾隆藏】No.637《玉耶女經》失譯人名今附西晉錄 部別：小乘阿含部 / 冊數：52 / 頁數：231 / 卷數：1 千字文：慶"
+       }},
+       {"data": {
+        "id": "z5cYwWz22O",
+        "created": 1646116893077,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22P",
+        "created": 1646116893077,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22Q",
+        "created": 1646116893077,
+        "text": "【大正藏】No.142b《玉耶女經》失譯 部別：阿含部下 / 冊數：2 / 頁數：864 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwWz22R",
+        "created": 1646116893077,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22S",
+        "created": 1646116893077,
+        "text": "【中華藏】No.833《玉耶女經(別本)》失譯人名今附西晉錄 冊數：34 / 頁數：480 / 卷數：1 / 底本：凊藏本"
+       }},
+       {"data": {
+        "id": "z5cYwWz22T",
+        "created": 1646116893077,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwWz22U",
+        "created": 1646116893077,
+        "text": "【南條文雄編號】 Nj. 0641"
+       }},
+       {"data": {
+        "id": "z5cYwWz22V",
+        "created": 1646116893077,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：142"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvo13z",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

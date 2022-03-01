@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說十一想思念如來經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwWQ1yS",
+    "created": 1646116893042,
+    "text": "現藏錄（劉宋 求那跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwWP1xV",
+      "created": 1646116893041,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwWP1xW",
+        "created": 1646116893041,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwWP1xX",
+        "created": 1646116893041,
+        "text": "佛說十一想思念如來經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwWP1xY",
+        "created": 1646116893041,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwWP1xZ",
+        "created": 1646116893041,
+        "text": "佛说十一想思念如来经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwWP1xa",
+        "created": 1646116893041,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwWP1xb",
+        "created": 1646116893041,
+        "text": "fo shuo shi yi xiang si nian ru lai jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwWP1xj",
+        "created": 1646116893041,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwWP1xk",
+        "created": 1646116893041,
+        "text": "Shih i hsiang ssu nien ju lai ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwWP1xl",
+        "created": 1646116893041,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwWP1xm",
+        "created": 1646116893041,
+        "text": "Maitrībhāvanāsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwWP1xn",
+        "created": 1646116893041,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwWP1xo",
+        "created": 1646116893041,
+        "text": "Byams-pa bsgom-paḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwWP1xp",
+        "created": 1646116893041,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwWP1xq",
+        "created": 1646116893041,
+        "text": "십일상사념여래경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwWP1xc",
+      "created": 1646116893041,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwWP1xd",
+      "created": 1646116893041,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwWP1xe",
+      "created": 1646116893041,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwWP1xf",
+       "created": 1646116893041,
+       "text": "劉宋 求那跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwWP1xg",
+       "created": 1646116893041,
+       "text": "求那跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwWP1xh",
+      "created": 1646116893041,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwWP1xi",
+      "created": 1646116893041,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwWP1xr",
+      "created": 1646116893041,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwWP1xs",
+      "created": 1646116893041,
+      "text": "Translation by Guṇabhadra: between the 12th and 20th years of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 435-443) in Wa-kuan Monastery (瓦官寺), Yang-tu (楊都).T. 2151-362b:4."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwWP1xt",
+      "created": 1646116893041,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwWP1xu",
+       "created": 1646116893041,
+       "text": "【北京版】Śer-phyin (tsi)286a-287a"
+      }},
+      {"data": {
+       "id": "z5cYwWP1xv",
+       "created": 1646116893041,
+       "text": "【奈塘版】Mdo (A)574b-576a"
+      }},
+      {"data": {
+       "id": "z5cYwWP1xw",
+       "created": 1646116893041,
+       "text": "【德格版】Śes-phyin (ka)270a-b"
+      }},
+      {"data": {
+       "id": "z5cYwWP1xx",
+       "created": 1646116893041,
+       "text": "【拉薩版】Śer-phyin-sna-tshogs (ka)420a-421b"
+      }},
+      {"data": {
+       "id": "z5cYwWP1xy",
+       "created": 1646116893041,
+       "text": "【卓尼版】Śer-phyin-sna-tshogs (ka)301a-302a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwWP1xz",
+      "created": 1646116893041,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwWP1y0",
+      "created": 1646116893041,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwWP1y1",
+      "created": 1646116893041,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwWP1y2",
+       "created": 1646116893041,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwWP1y3",
+       "created": 1646116893041,
+       "text": "【開寶藏】No.730《十一想思念如來經》劉宋 天竺三藏求那跋陀羅 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：言"
+      }},
+      {"data": {
+       "id": "z5cYwWP1y4",
+       "created": 1646116893041,
+       "text": "【崇寧藏】No.732《佛說十一想思念如來經》 卷數：1 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwWP1y5",
+       "created": 1646116893041,
+       "text": "【毘盧藏】No.733《十一相思念如來經》宋求那跋陀羅譯 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwWP1y6",
+       "created": 1646116893041,
+       "text": "【圓覺藏】No.740《十一相思念如來經》 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwWP1y7",
+       "created": 1646116893041,
+       "text": "【趙城金藏】No.759《十一相思念如來經》 卷數：1 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwWP1y8",
+       "created": 1646116893041,
+       "text": "【資福藏】No.746《十一相思念如來經》 卷數：1 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwWP1y9",
+       "created": 1646116893041,
+       "text": "【磧砂藏】No.752《佛說十一想思念如來經》宋 求那跋陀羅譯 部別：阿含部 / 冊數：19 / 頁數：8 / 卷數：1 千字文：思 2 (284)"
+      }},
+      {"data": {
+       "id": "z5cYwWP1yA",
+       "created": 1646116893041,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwWP1yB",
+       "created": 1646116893041,
+       "text": "【高麗藏】No.756《十一想思念如來經》宋于闐國三藏求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：728(原版) 754(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yC",
+       "created": 1646116893042,
+       "text": "【普寧藏】No.744《佛說十一想思念如來經》 卷數：1 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yD",
+       "created": 1646116893042,
+       "text": "【至元錄】No.974《十一想思念如來經》宋天竺三藏求那跋陀羅譯 卷數：1 千字文：攝(309)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yE",
+       "created": 1646116893042,
+       "text": "【洪武南藏】No.672《佛說十一想思念如來經》宋 三藏求那跋陀羅 譯 冊數：99 / 頁數：498 / 卷數：1 千字文：思 2 (284)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yF",
+       "created": 1646116893042,
+       "text": "【永樂南藏】No.621《十一想思念如來經》 部別：小乘經-阿含部 千字文：緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yG",
+       "created": 1646116893042,
+       "text": "【永樂北藏】No.659《佛說十一想思念如來經》劉宋求那跋陀羅譯 部別：小乘經阿含部 / 冊數：62 / 頁數：150 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yH",
+       "created": 1646116893042,
+       "text": "【嘉興藏】No.624《佛說十一想思念如來經》劉宋求那跋陀羅譯 部別：小乘經-阿含部 / 法寶總目錄經號：0624 千字文 / 函號：［正藏］ 善(231)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yI",
+       "created": 1646116893042,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yJ",
+       "created": 1646116893042,
+       "text": "【乾隆藏】No.625《佛說十一想思念如來經》宋 求那跋陀羅譯 部別：小乘阿含部 / 冊數：52 / 頁數：192 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yK",
+       "created": 1646116893042,
+       "text": "【縮刻藏】No.471《佛說十一想思念如來經》宋求那跋陀羅譯 部別：小乘經 / 卷數：1 千字文：昃 4 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yL",
+       "created": 1646116893042,
+       "text": "【卍正藏】No.633《佛說十一想思念如來經》宋 求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：335 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yM",
+       "created": 1646116893042,
+       "text": "【大正藏】No.138《佛說十一想思念如來經》劉宋 求那跋陀羅譯 部別：阿含部下 / 冊數：2 / 頁數：861 / 卷數：1 相關經典：縮-昃4.卍-14.2,南-22下.11.16 參考資料：No.125(49.10)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yN",
+       "created": 1646116893042,
+       "text": "【佛教大藏經】No.479《佛說十一想思念如來經》劉宋 求那跋陀羅譯 部別：小乘經 阿含部一 / 冊數：23 / 頁數：527 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yO",
+       "created": 1646116893042,
+       "text": "【中華藏】No.791《佛說十一想思念如來經》宋于闐國三藏求那跋陀羅譯 冊數：34 / 頁數：262 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yP",
+       "created": 1646116893042,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yQ",
+       "created": 1646116893042,
+       "text": "【南條文雄編號】 Nj. 0629"
+      }},
+      {"data": {
+       "id": "z5cYwWQ1yR",
+       "created": 1646116893042,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：138"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvn43v",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

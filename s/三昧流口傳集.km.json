@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "三昧流口傳集"},
+  "children": [{
+   "data": {
+    "id": "z5cYyJNXfQ",
+    "created": 1646116899921,
+    "text": "現藏錄（日本 良祐撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyJNXel",
+      "created": 1646116899921,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyJNXem",
+        "created": 1646116899921,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJNXen",
+        "created": 1646116899921,
+        "text": "三昧流口傳集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJNXeo",
+        "created": 1646116899921,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJNXep",
+        "created": 1646116899921,
+        "text": "三昧流口传集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJNXeq",
+        "created": 1646116899921,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJNXer",
+        "created": 1646116899921,
+        "text": "san mei liu kou chuan ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJNXes",
+      "created": 1646116899921,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJNXet",
+      "created": 1646116899921,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJNXeu",
+      "created": 1646116899921,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJNXev",
+       "created": 1646116899921,
+       "text": "日本 良祐撰"
+      }},
+      {"data": {
+       "id": "z5cYyJNXew",
+       "created": 1646116899921,
+       "text": "良祐",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJNXex",
+      "created": 1646116899921,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJNXey",
+      "created": 1646116899921,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJNXez",
+      "created": 1646116899921,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJNXf0",
+       "created": 1646116899921,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf1",
+       "created": 1646116899921,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf2",
+       "created": 1646116899921,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf3",
+       "created": 1646116899921,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf4",
+       "created": 1646116899921,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf5",
+       "created": 1646116899921,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf6",
+       "created": 1646116899921,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf7",
+       "created": 1646116899921,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf8",
+       "created": 1646116899921,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXf9",
+       "created": 1646116899921,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfA",
+       "created": 1646116899921,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfB",
+       "created": 1646116899921,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfC",
+       "created": 1646116899921,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfD",
+       "created": 1646116899921,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfE",
+       "created": 1646116899921,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfF",
+       "created": 1646116899921,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfG",
+       "created": 1646116899921,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfH",
+       "created": 1646116899921,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfI",
+       "created": 1646116899921,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfJ",
+       "created": 1646116899921,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfK",
+       "created": 1646116899921,
+       "text": "【大正藏】No.2411《三昧流口傳集》日本 良祐撰 部別：續諸宗部八 / 冊數：77 / 頁數：1 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyJNXfL",
+       "created": 1646116899921,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfM",
+       "created": 1646116899921,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfN",
+       "created": 1646116899921,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfO",
+       "created": 1646116899921,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJNXfP",
+       "created": 1646116899921,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2411"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0y920a",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

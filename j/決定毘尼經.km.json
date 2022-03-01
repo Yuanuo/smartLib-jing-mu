@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說決定毘尼經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwlH5FL",
+    "created": 1646116893963,
+    "text": "現藏錄（西晉 燉煌三藏譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwlH5EO",
+      "created": 1646116893963,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwlH5EP",
+        "created": 1646116893963,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlH5EQ",
+        "created": 1646116893963,
+        "text": "佛說決定毘尼經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlH5ER",
+        "created": 1646116893963,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlH5ES",
+        "created": 1646116893963,
+        "text": "佛说决定毘尼经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlH5ET",
+        "created": 1646116893963,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlH5EU",
+        "created": 1646116893963,
+        "text": "fo shuo jue ding pi ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlH5Ec",
+        "created": 1646116893963,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlH5Ed",
+        "created": 1646116893963,
+        "text": "Chüeh ting p'i ni ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlH5Ee",
+        "created": 1646116893963,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlH5Ef",
+        "created": 1646116893963,
+        "text": "Upāliparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlH5Eg",
+        "created": 1646116893963,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlH5Eh",
+        "created": 1646116893963,
+        "text": "Ḥdul-ba rnam-par-gtan-la-dbab-pa ñe-bar-ḥkhor gyis shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlH5Ei",
+        "created": 1646116893963,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlH5Ej",
+        "created": 1646116893963,
+        "text": "결정비니경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlH5EV",
+      "created": 1646116893963,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlH5EW",
+      "created": 1646116893963,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlH5EX",
+      "created": 1646116893963,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlH5EY",
+       "created": 1646116893963,
+       "text": "西晉 燉煌三藏譯"
+      }},
+      {"data": {
+       "id": "z5cYwlH5EZ",
+       "created": 1646116893963,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlH5Ea",
+      "created": 1646116893963,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlH5Eb",
+      "created": 1646116893963,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlH5Ek",
+      "created": 1646116893963,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlH5El",
+      "created": 1646116893963,
+      "text": "Translator unknown: Chin dynasty (晉) (A.D. 266-420) in Liang-chou (涼州), Tun-huang (敦煌). T. 2145-12a:21. The text gives Tun-huang San-ts'ang (敦煌三藏) as the translator, who is often identified with Dharmarakṣa (A.D. 265-313)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlH5Em",
+      "created": 1646116893963,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlH5En",
+       "created": 1646116893963,
+       "text": "【北京版】Dkon-brtsegs (zi)111a-129a"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Eo",
+       "created": 1646116893963,
+       "text": "【奈塘版】Dkon-brtsegs (ca)220a-244a"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Ep",
+       "created": 1646116893963,
+       "text": "【德格版】Dkon-brtsegs (ca)115a-131a"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Eq",
+       "created": 1646116893963,
+       "text": "【拉薩版】Dkon-brtsegs (ca)222a-246a"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Er",
+       "created": 1646116893963,
+       "text": "【卓尼版】Dkon-brtsegs (ca)132b-151a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlH5Es",
+      "created": 1646116893963,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlH5Et",
+      "created": 1646116893963,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlH5Eu",
+      "created": 1646116893963,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlH5Ev",
+       "created": 1646116893963,
+       "text": "【房山石經】No.14《三十五佛并懺悔文》(西晉)燉煌三藏譯 冊數：1 / 頁數：115 / 卷數：1 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.361《佛說決定毗尼經》(西晉)失譯 冊數：9 / 頁數：87 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Ew",
+       "created": 1646116893963,
+       "text": "【開寶藏】No.36《決定毗尼經》失譯人名 （于敦煌譯） 部別：大乘經 寶積部 / 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Ex",
+       "created": 1646116893963,
+       "text": "【崇寧藏】No.36《決定毘尼經》 卷數：1 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Ey",
+       "created": 1646116893963,
+       "text": "【毘盧藏】No.32《佛說決定毘尼經》燉煌 參考年代：(宣和六．八) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5Ez",
+       "created": 1646116893963,
+       "text": "【圓覺藏】No.33《決定毘尼經》 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F0",
+       "created": 1646116893963,
+       "text": "【趙城金藏】No.35《決定毗尼經》 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F1",
+       "created": 1646116893963,
+       "text": "【資福藏】No.41《佛說決定毘尼經》 卷數：1 (一卷) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F2",
+       "created": 1646116893963,
+       "text": "【磧砂藏】No.36《佛說決定毗尼經》敦煌三藏譯 部別：寶積部 / 冊數：6 / 頁數：326 / 卷數：1 千字文：衣 3 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F3",
+       "created": 1646116893963,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F4",
+       "created": 1646116893963,
+       "text": "【高麗藏】No.35《決定毗尼經》群錄云燉煌譯 部別：大乘經 寶積部 / 冊數：6 頁數：1163 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F5",
+       "created": 1646116893963,
+       "text": "【普寧藏】No.33《佛說決定毘尼經》 卷數：1 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F6",
+       "created": 1646116893963,
+       "text": "【至元錄】No.103《決定毘尼經》眾錄皆云燉煌譯。竟不顯人名年代(昇云附東晉錄) 卷數：1 / 譯次：(第一譯) 千字文：讓(91)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F7",
+       "created": 1646116893963,
+       "text": "【洪武南藏】No.32《決定毗尼經》燉煌三藏 譯 冊數：31 / 頁數：357 / 卷數：1 千字文：衣 3 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F8",
+       "created": 1646116893963,
+       "text": "【永樂南藏】No.33《佛說決定毘尼經》 部別：大乘經-寶積部 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5F9",
+       "created": 1646116893963,
+       "text": "【永樂北藏】No.51《佛說決定毗尼經》敦煌法師譯 部別：大乘經寶積部 / 冊數：22 / 頁數：557 / 卷數：1 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FA",
+       "created": 1646116893963,
+       "text": "【嘉興藏】No.33《決定毘尼經》敦煌法師譯 部別：大乘經-寶積部 / 法寶總目錄經號：0033 千字文 / 函號：［正藏］ 衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FB",
+       "created": 1646116893963,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FC",
+       "created": 1646116893963,
+       "text": "【乾隆藏】No.33《佛說決定毘尼經》敦煌 三藏法師譯 部別：大乘寶積部 / 冊數：20 / 頁數：47 / 卷數：1 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FD",
+       "created": 1646116893963,
+       "text": "【縮刻藏】No.48《佛說決定毘尼經》群錄皆云燉煌三藏譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FE",
+       "created": 1646116893963,
+       "text": "【卍正藏】No.36《佛說決定毗尼經》(燉煌)三藏譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：580 / 卷數：1 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FF",
+       "created": 1646116893963,
+       "text": "【大正藏】No.325《佛說決定毘尼經》西晉 燉煌三藏譯 部別：寶積部下 / 冊數：12 / 頁數：37 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：Nos.310(24),326"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FG",
+       "created": 1646116893963,
+       "text": "【佛教大藏經】No.48《佛說決定毗尼經》西晉 燉煌三藏譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：654 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FH",
+       "created": 1646116893963,
+       "text": "【中華藏】No.38《佛說決定毗尼經》群錄皆云敦煌三藏譯 冊數：9 / 頁數：756 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FI",
+       "created": 1646116893963,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FJ",
+       "created": 1646116893963,
+       "text": "【南條文雄編號】 Nj. 0036"
+      }},
+      {"data": {
+       "id": "z5cYwlH5FK",
+       "created": 1646116893963,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：325"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwcqai",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

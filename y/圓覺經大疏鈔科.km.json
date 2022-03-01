@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "圓覺經大疏鈔科"},
+  "children": [{
+   "data": {
+    "id": "z5cYzWvu5r",
+    "created": 1646116904605,
+    "text": "現藏錄（唐 宗密製）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzWuu5C",
+      "created": 1646116904604,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzWuu5D",
+        "created": 1646116904604,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzWuu5E",
+        "created": 1646116904604,
+        "text": "圓覺經大疏鈔科",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzWuu5F",
+        "created": 1646116904604,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzWuu5G",
+        "created": 1646116904604,
+        "text": "圆觉经大疏钞科",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzWuu5H",
+        "created": 1646116904604,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzWuu5I",
+        "created": 1646116904604,
+        "text": "yuan jue jing da shu chao ke"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzWuu5J",
+      "created": 1646116904604,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzWuu5K",
+      "created": 1646116904604,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzWuu5L",
+      "created": 1646116904604,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzWuu5M",
+       "created": 1646116904604,
+       "text": "唐 宗密製"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5N",
+       "created": 1646116904604,
+       "text": "宗密",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzWuu5O",
+      "created": 1646116904604,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzWuu5P",
+      "created": 1646116904604,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzWuu5Q",
+      "created": 1646116904604,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzWuu5R",
+       "created": 1646116904604,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5S",
+       "created": 1646116904604,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5T",
+       "created": 1646116904604,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5U",
+       "created": 1646116904604,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5V",
+       "created": 1646116904604,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5W",
+       "created": 1646116904604,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5X",
+       "created": 1646116904604,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5Y",
+       "created": 1646116904604,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5Z",
+       "created": 1646116904604,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5a",
+       "created": 1646116904604,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5b",
+       "created": 1646116904604,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5c",
+       "created": 1646116904604,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5d",
+       "created": 1646116904604,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5e",
+       "created": 1646116904604,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5f",
+       "created": 1646116904604,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5g",
+       "created": 1646116904604,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5h",
+       "created": 1646116904604,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5i",
+       "created": 1646116904604,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5j",
+       "created": 1646116904604,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5k",
+       "created": 1646116904604,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5l",
+       "created": 1646116904604,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5m",
+       "created": 1646116904604,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5n",
+       "created": 1646116904604,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWuu5o",
+       "created": 1646116904604,
+       "text": "【新纂卍續藏】No.244《圓覺經大疏鈔科》唐 宗密製 部別：中國撰述 大小乘釋經部七 方等部疏 / 冊數：9 / 頁數：419 / 卷數：0 《卍大日本續藏經》套數：第一編．第 87 套 《卍續藏經》(新文豐版)冊數：第 87 冊"
+      }},
+      {"data": {
+       "id": "z5cYzWvu5p",
+       "created": 1646116904605,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWvu5q",
+       "created": 1646116904605,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1095"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4kc3ms",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

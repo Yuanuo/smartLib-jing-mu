@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "山家緒餘集"},
+  "children": [{
+   "data": {
+    "id": "z5cYzKKqA1",
+    "created": 1646116903824,
+    "text": "現藏錄（宋 善月述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzKKq9M",
+      "created": 1646116903824,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzKKq9N",
+        "created": 1646116903824,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzKKq9O",
+        "created": 1646116903824,
+        "text": "山家緒餘集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzKKq9P",
+        "created": 1646116903824,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzKKq9Q",
+        "created": 1646116903824,
+        "text": "山家绪余集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzKKq9R",
+        "created": 1646116903824,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzKKq9S",
+        "created": 1646116903824,
+        "text": "shan jia xu yu ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzKKq9T",
+      "created": 1646116903824,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzKKq9U",
+      "created": 1646116903824,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzKKq9V",
+      "created": 1646116903824,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzKKq9W",
+       "created": 1646116903824,
+       "text": "宋 善月述"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9X",
+       "created": 1646116903824,
+       "text": "善月",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzKKq9Y",
+      "created": 1646116903824,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzKKq9Z",
+      "created": 1646116903824,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzKKq9a",
+      "created": 1646116903824,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzKKq9b",
+       "created": 1646116903824,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9c",
+       "created": 1646116903824,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9d",
+       "created": 1646116903824,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9e",
+       "created": 1646116903824,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9f",
+       "created": 1646116903824,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9g",
+       "created": 1646116903824,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9h",
+       "created": 1646116903824,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9i",
+       "created": 1646116903824,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9j",
+       "created": 1646116903824,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9k",
+       "created": 1646116903824,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9l",
+       "created": 1646116903824,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9m",
+       "created": 1646116903824,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9n",
+       "created": 1646116903824,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9o",
+       "created": 1646116903824,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9p",
+       "created": 1646116903824,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9q",
+       "created": 1646116903824,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9r",
+       "created": 1646116903824,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9s",
+       "created": 1646116903824,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9t",
+       "created": 1646116903824,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9u",
+       "created": 1646116903824,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9v",
+       "created": 1646116903824,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9w",
+       "created": 1646116903824,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9x",
+       "created": 1646116903824,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9y",
+       "created": 1646116903824,
+       "text": "【新纂卍續藏】No.965《山家緒餘集》宋 善月述 部別：中國撰述 諸宗著述部四 天台宗 / 冊數：57 / 頁數：192 / 卷數：3 《卍大日本續藏經》套數：第二編．第 6 套 《卍續藏經》(新文豐版)冊數：第 101 冊"
+      }},
+      {"data": {
+       "id": "z5cYzKKq9z",
+       "created": 1646116903824,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKKqA0",
+       "created": 1646116903824,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1276"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3yo3ci",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

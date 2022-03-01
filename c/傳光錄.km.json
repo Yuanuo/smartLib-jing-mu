@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "傳光錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyRBZd0",
+    "created": 1646116900405,
+    "text": "現藏錄（日本 瑩山紹瑾語．侍者編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyRBZcL",
+      "created": 1646116900405,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyRBZcM",
+        "created": 1646116900405,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRBZcN",
+        "created": 1646116900405,
+        "text": "傳光錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRBZcO",
+        "created": 1646116900405,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRBZcP",
+        "created": 1646116900405,
+        "text": "传光录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRBZcQ",
+        "created": 1646116900405,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRBZcR",
+        "created": 1646116900405,
+        "text": "chuan guang lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRBZcS",
+      "created": 1646116900405,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRBZcT",
+      "created": 1646116900405,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRBZcU",
+      "created": 1646116900405,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRBZcV",
+       "created": 1646116900405,
+       "text": "日本 瑩山紹瑾語．侍者編"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcW",
+       "created": 1646116900405,
+       "text": "瑩山紹瑾",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRBZcX",
+      "created": 1646116900405,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRBZcY",
+      "created": 1646116900405,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRBZcZ",
+      "created": 1646116900405,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRBZca",
+       "created": 1646116900405,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcb",
+       "created": 1646116900405,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcc",
+       "created": 1646116900405,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcd",
+       "created": 1646116900405,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZce",
+       "created": 1646116900405,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcf",
+       "created": 1646116900405,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcg",
+       "created": 1646116900405,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZch",
+       "created": 1646116900405,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZci",
+       "created": 1646116900405,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcj",
+       "created": 1646116900405,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZck",
+       "created": 1646116900405,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcl",
+       "created": 1646116900405,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcm",
+       "created": 1646116900405,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcn",
+       "created": 1646116900405,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZco",
+       "created": 1646116900405,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcp",
+       "created": 1646116900405,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcq",
+       "created": 1646116900405,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcr",
+       "created": 1646116900405,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcs",
+       "created": 1646116900405,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZct",
+       "created": 1646116900405,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcu",
+       "created": 1646116900405,
+       "text": "【大正藏】No.2585《傳光錄》日本 瑩山紹瑾語．侍者編 部別：續諸宗部十三 / 冊數：82 / 頁數：343 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyRBZcv",
+       "created": 1646116900405,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcw",
+       "created": 1646116900405,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcx",
+       "created": 1646116900405,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcy",
+       "created": 1646116900405,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRBZcz",
+       "created": 1646116900405,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2585"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1bp25a",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

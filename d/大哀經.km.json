@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "大哀經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwpu6RJ",
+    "created": 1646116894250,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwpt6QM",
+      "created": 1646116894249,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwpt6QN",
+        "created": 1646116894249,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpt6QO",
+        "created": 1646116894249,
+        "text": "大哀經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpt6QP",
+        "created": 1646116894249,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpt6QQ",
+        "created": 1646116894249,
+        "text": "大哀经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpt6QR",
+        "created": 1646116894249,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpt6QS",
+        "created": 1646116894249,
+        "text": "da ai jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpt6Qa",
+        "created": 1646116894249,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpt6Qb",
+        "created": 1646116894249,
+        "text": "Ta ai ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpt6Qc",
+        "created": 1646116894249,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpt6Qd",
+        "created": 1646116894249,
+        "text": "Tathāgatamahākaruṇānirdeśa(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpt6Qe",
+        "created": 1646116894249,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpt6Qf",
+        "created": 1646116894249,
+        "text": "De-bshin-gśegs-paḥi sñiṅ-rje chen-po ṅes-par bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpt6Qg",
+        "created": 1646116894249,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpt6Qh",
+        "created": 1646116894249,
+        "text": "대애경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpt6QT",
+      "created": 1646116894249,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpt6QU",
+      "created": 1646116894249,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpt6QV",
+      "created": 1646116894249,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpt6QW",
+       "created": 1646116894249,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwpt6QX",
+       "created": 1646116894249,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpt6QY",
+      "created": 1646116894249,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpt6QZ",
+      "created": 1646116894249,
+      "text": "8"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpt6Qi",
+      "created": 1646116894249,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpt6Qj",
+      "created": 1646116894249,
+      "text": "Translation by Dharmarakṣa: begun on the 7th day, 7th month, 1st year of Yüan K'ang (元康), Western Chin dynasty (西晉) (August 18th, A.D. 291) and finished on the 23rd day, 8th month, 1st year of Yüan K'ang (元康), Western Chin dynasty (西晉) (September 21st, A.D. 291) in Ch'ang-an (長安).T. 2154-493c:21; T. 2153-383a:28."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpt6Qk",
+      "created": 1646116894249,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpt6Ql",
+       "created": 1646116894249,
+       "text": "【北京版】Mdo-sna-tshogs (nu)102a-2046"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qm",
+       "created": 1646116894249,
+       "text": "【奈塘版】Mdo (da)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qn",
+       "created": 1646116894249,
+       "text": "【德格版】Mdo-sde (pa)142a-242b"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qo",
+       "created": 1646116894249,
+       "text": "【拉薩版】Mdo (da)153b-319a"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qp",
+       "created": 1646116894249,
+       "text": "【卓尼版】Mdo-maṅ (pa)96b-212b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpt6Qq",
+      "created": 1646116894249,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpt6Qr",
+      "created": 1646116894249,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpt6Qs",
+      "created": 1646116894249,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpt6Qt",
+       "created": 1646116894249,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qu",
+       "created": 1646116894249,
+       "text": "【開寶藏】No.73《大哀經》西晉 月支三藏竺法護 譯 部別：大乘經 大集部 / 卷數：8 千字文：周"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qv",
+       "created": 1646116894249,
+       "text": "【崇寧藏】No.75《大哀經》 卷數：8 千字文：發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qw",
+       "created": 1646116894249,
+       "text": "【毘盧藏】No.71《大哀經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qx",
+       "created": 1646116894249,
+       "text": "【圓覺藏】No.72《大哀經》 卷數：8 千字文：發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qy",
+       "created": 1646116894249,
+       "text": "【趙城金藏】No.72《大哀經》 卷數：8 千字文：周"
+      }},
+      {"data": {
+       "id": "z5cYwpt6Qz",
+       "created": 1646116894249,
+       "text": "【資福藏】No.74《大哀經》 卷數：8 (八卷) 千字文：發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R0",
+       "created": 1646116894249,
+       "text": "【磧砂藏】No.75《大哀經》晉 竺法護譯 部別：大集部 / 冊數：7 / 頁數：210 / 卷數：8 千字文：發 3 (102)-發 10 (102)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R1",
+       "created": 1646116894249,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R2",
+       "created": 1646116894249,
+       "text": "【高麗藏】No.72《大哀經》西晉月氏國三藏竺法護譯 部別：大乘經 大集部 / 冊數：7 頁數：1053 / 卷數：8 / 連結：高麗大藏經 (圖檔) 千字文：周"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R3",
+       "created": 1646116894249,
+       "text": "【普寧藏】No.72《大哀經》 卷數：8 千字文：發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R4",
+       "created": 1646116894249,
+       "text": "【至元錄】No.144《大哀經》西晉天竺三藏竺法護譯 卷數：8 千字文：朝(106)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R5",
+       "created": 1646116894249,
+       "text": "【洪武南藏】No.71《大哀經》西晉元康年 三藏竺法護 譯 冊數：36-37 / 頁數：461 / 卷數：8 千字文：發 3 (102)-發 10 (102)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R6",
+       "created": 1646116894249,
+       "text": "【永樂南藏】No.72《大哀經》 部別：大乘經-大集部 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R7",
+       "created": 1646116894249,
+       "text": "【永樂北藏】No.95《大哀經》西晉竺法護譯 部別：大乘經大集部 / 冊數：26 / 頁數：313 / 卷數：8 千字文：周"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R8",
+       "created": 1646116894249,
+       "text": "【嘉興藏】No.74《大哀經》西晉竺法護譯 部別：大乘經-大集部 / 法寶總目錄經號：0074 千字文 / 函號：［正藏］ 周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6R9",
+       "created": 1646116894249,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RA",
+       "created": 1646116894249,
+       "text": "【乾隆藏】No.75《大哀經》西晉 竺法護譯 部別：大乘大集部 / 冊數：23 / 頁數：135 / 卷數：8 千字文：周"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RB",
+       "created": 1646116894249,
+       "text": "【縮刻藏】No.90《大哀經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：8 千字文：玄 5 (3)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RC",
+       "created": 1646116894249,
+       "text": "【卍正藏】No.78《大哀經》西晉 竺法護譯 部別：大乘經 大集部 / 冊數：11 / 頁數：122 / 卷數：8 原版套數：第 7 套"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RD",
+       "created": 1646116894249,
+       "text": "【大正藏】No.398《大哀經》西晉 竺法護譯 部別：大集部全 / 冊數：13 / 頁數：409 / 卷數：8 相關經典：縮-玄5,卍-7.1 參考資料：No.397(1-2)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RE",
+       "created": 1646116894249,
+       "text": "【佛教大藏經】No.91《大哀經》西晉 竺法護譯 部別：大乘經 方等部三 / 冊數：5 / 頁數：729 / 卷數：8"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RF",
+       "created": 1646116894249,
+       "text": "【中華藏】No.79《大哀經》西晉月支三藏竺法護譯 冊數：11 / 頁數：602 / 卷數：8 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RG",
+       "created": 1646116894249,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RH",
+       "created": 1646116894249,
+       "text": "【南條文雄編號】 Nj. 0079"
+      }},
+      {"data": {
+       "id": "z5cYwpt6RI",
+       "created": 1646116894249,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：398"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwkocv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說菩薩修行四法經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx9OBtz",
+    "created": 1646116895458,
+    "text": "現藏錄（唐 地婆訶羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx9MBt7",
+      "created": 1646116895456,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx9MBt8",
+        "created": 1646116895456,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9MBt9",
+        "created": 1646116895456,
+        "text": "佛說菩薩修行四法經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9MBtA",
+        "created": 1646116895456,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9MBtB",
+        "created": 1646116895456,
+        "text": "佛说菩萨修行四法经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9MBtC",
+        "created": 1646116895456,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9MBtD",
+        "created": 1646116895456,
+        "text": "fo shuo pu sa xiu xing si fa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9MBtL",
+        "created": 1646116895456,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9MBtM",
+        "created": 1646116895456,
+        "text": "P'u sa hsiu hsing ssu fa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9MBtN",
+        "created": 1646116895456,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9MBtO",
+        "created": 1646116895456,
+        "text": "Caturdharmakasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9MBtP",
+        "created": 1646116895456,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9MBtQ",
+        "created": 1646116895456,
+        "text": "Chos-bshi pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9MBtR",
+        "created": 1646116895456,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9MBtS",
+        "created": 1646116895456,
+        "text": "보살수행사법경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx9MBtE",
+      "created": 1646116895456,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9MBtF",
+      "created": 1646116895456,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx9MBtG",
+      "created": 1646116895456,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx9MBtH",
+       "created": 1646116895456,
+       "text": "唐 地婆訶羅譯"
+      }},
+      {"data": {
+       "id": "z5cYx9MBtI",
+       "created": 1646116895456,
+       "text": "地婆訶羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx9MBtJ",
+      "created": 1646116895456,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9MBtK",
+      "created": 1646116895456,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx9NBtT",
+      "created": 1646116895457,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9NBtU",
+      "created": 1646116895457,
+      "text": "Translation by Divākara: 1st month, 2nd year of Yung Lung (永隆), T'ang dynasty (唐) (A.D. 681) in Hung-fu Monastery (弘福寺).T.2154-563c:25."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx9NBtV",
+     "created": 1646116895457,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx9NBtW",
+      "created": 1646116895457,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9NBtX",
+      "created": 1646116895457,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx9NBtY",
+      "created": 1646116895457,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx9NBtZ",
+       "created": 1646116895457,
+       "text": "【房山石經】No.457《菩薩修行四法經》(大唐)中天竺三藏法師地婆訶羅唐吉日照奉詔譯 冊數：10 / 頁數：438 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：女"
+      }},
+      {"data": {
+       "id": "z5cYx9NBta",
+       "created": 1646116895457,
+       "text": "【開寶藏】No.247《菩薩修行四法經》唐 中天竺三藏地婆訶羅于弘福寺 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtb",
+       "created": 1646116895457,
+       "text": "【崇寧藏】No.251《佛說菩薩修行四法經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtc",
+       "created": 1646116895457,
+       "text": "【毘盧藏】No.244《菩薩修行四法經》唐地婆訶羅譯 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtd",
+       "created": 1646116895457,
+       "text": "【圓覺藏】No.257《菩薩修行四法經》 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBte",
+       "created": 1646116895457,
+       "text": "【趙城金藏】No.247《菩薩修行四法經》 卷數：1 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtf",
+       "created": 1646116895457,
+       "text": "【資福藏】No.261《菩薩修行四法經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtg",
+       "created": 1646116895457,
+       "text": "【磧砂藏】No.262《佛說菩薩修行四法經》唐 地婆訶羅譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：189 / 卷數：1 千字文：傷 8 (160)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBth",
+       "created": 1646116895457,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBti",
+       "created": 1646116895457,
+       "text": "【高麗藏】No.247《菩薩修行四法經》大唐天竺三藏地婆訶羅譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：527 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtj",
+       "created": 1646116895457,
+       "text": "【普寧藏】No.256《菩薩修行四法經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtk",
+       "created": 1646116895457,
+       "text": "【至元錄】No.324《菩薩修行四法經》唐天竺三藏地婆訶羅譯(於弘福寺譯) 卷數：1 / 譯次：(第二譯) 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtl",
+       "created": 1646116895457,
+       "text": "【洪武南藏】No.229《佛說菩薩修行四法經》唐 中天竺三藏於京弘福寺地婆訶羅 奉詔譯 冊數：54 / 頁數：473 / 卷數：1 千字文：傷 8 (160)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtm",
+       "created": 1646116895457,
+       "text": "【永樂南藏】No.252《菩薩修行四法經》 部別：大乘經-五大部外重譯經 千字文：效(166)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtn",
+       "created": 1646116895457,
+       "text": "【永樂北藏】No.291《佛說菩薩修行四法經》唐地婆訶羅譯 部別：大乘經五大部外重譯經 / 冊數：44 / 頁數：312 / 卷數：1 千字文：良"
+      }},
+      {"data": {
+       "id": "z5cYx9NBto",
+       "created": 1646116895457,
+       "text": "【嘉興藏】No.262《菩薩修行四法經》唐地婆訶羅譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0262 千字文 / 函號：［正藏］ 良(168)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtp",
+       "created": 1646116895457,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtq",
+       "created": 1646116895457,
+       "text": "【乾隆藏】No.263《佛說菩薩修行四法經》唐 地婆訶羅譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：827 / 卷數：1 千字文：良"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtr",
+       "created": 1646116895457,
+       "text": "【縮刻藏】No.337《佛說菩薩修行四法經》唐地婆訶羅譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 7 (6)"
+      }},
+      {"data": {
+       "id": "z5cYx9NBts",
+       "created": 1646116895457,
+       "text": "【卍正藏】No.267《佛說菩薩修行四法經》大唐 地婆訶羅譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：313 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtt",
+       "created": 1646116895457,
+       "text": "【大正藏】No.773《佛說菩薩修行四法經》唐 地婆訶羅譯 部別：經集部四 / 冊數：17 / 頁數：708 / 卷數：1 相關經典：縮-宙7,卍-10.7 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx9NBtu",
+       "created": 1646116895457,
+       "text": "【佛教大藏經】No.340《佛說菩薩修行四法經》唐 地婆訶羅譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：284 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx9NBtv",
+       "created": 1646116895457,
+       "text": "【中華藏】No.261《佛說菩薩修行四法經》大唐天竺三藏地婆訶羅譯 冊數：19 / 頁數：203 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx9OBtw",
+       "created": 1646116895458,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9OBtx",
+       "created": 1646116895458,
+       "text": "【南條文雄編號】 Nj. 0267"
+      }},
+      {"data": {
+       "id": "z5cYx9OBty",
+       "created": 1646116895458,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：773"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxi6nj",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

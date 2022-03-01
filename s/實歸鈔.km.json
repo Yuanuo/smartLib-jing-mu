@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "實歸鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyNQYf9",
+    "created": 1646116900172,
+    "text": "現藏錄（日本 深賢集）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyNPYeU",
+      "created": 1646116900171,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyNPYeV",
+        "created": 1646116900171,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyNPYeW",
+        "created": 1646116900171,
+        "text": "實歸鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyNPYeX",
+        "created": 1646116900171,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyNPYeY",
+        "created": 1646116900171,
+        "text": "实归钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyNQYeZ",
+        "created": 1646116900172,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyNQYea",
+        "created": 1646116900172,
+        "text": "shi gui chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyNQYeb",
+      "created": 1646116900172,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyNQYec",
+      "created": 1646116900172,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyNQYed",
+      "created": 1646116900172,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyNQYee",
+       "created": 1646116900172,
+       "text": "日本 深賢集"
+      }},
+      {"data": {
+       "id": "z5cYyNQYef",
+       "created": 1646116900172,
+       "text": "深賢",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyNQYeg",
+      "created": 1646116900172,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyNQYeh",
+      "created": 1646116900172,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyNQYei",
+      "created": 1646116900172,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyNQYej",
+       "created": 1646116900172,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYek",
+       "created": 1646116900172,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYel",
+       "created": 1646116900172,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYem",
+       "created": 1646116900172,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYen",
+       "created": 1646116900172,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYeo",
+       "created": 1646116900172,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYep",
+       "created": 1646116900172,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYeq",
+       "created": 1646116900172,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYer",
+       "created": 1646116900172,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYes",
+       "created": 1646116900172,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYet",
+       "created": 1646116900172,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYeu",
+       "created": 1646116900172,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYev",
+       "created": 1646116900172,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYew",
+       "created": 1646116900172,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYex",
+       "created": 1646116900172,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYey",
+       "created": 1646116900172,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYez",
+       "created": 1646116900172,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf0",
+       "created": 1646116900172,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf1",
+       "created": 1646116900172,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf2",
+       "created": 1646116900172,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf3",
+       "created": 1646116900172,
+       "text": "【大正藏】No.2497《實歸鈔》日本 深賢集 部別：續諸宗部九 / 冊數：78 / 頁數：702 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyNQYf4",
+       "created": 1646116900172,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf5",
+       "created": 1646116900172,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf6",
+       "created": 1646116900172,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf7",
+       "created": 1646116900172,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNQYf8",
+       "created": 1646116900172,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2497"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri15722u",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "佛所行讚"},
+  "children": [{
+   "data": {
+    "id": "z5cYwaX2o2",
+    "created": 1646116893297,
+    "text": "現藏錄（馬鳴菩薩造　北涼 曇無讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwaW2n5",
+      "created": 1646116893296,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwaW2n6",
+        "created": 1646116893296,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaW2n7",
+        "created": 1646116893296,
+        "text": "佛所行讚",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaW2n8",
+        "created": 1646116893296,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaW2n9",
+        "created": 1646116893296,
+        "text": "佛所行赞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaW2nA",
+        "created": 1646116893296,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaW2nB",
+        "created": 1646116893296,
+        "text": "fo suo xing zan"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaW2nK",
+        "created": 1646116893296,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaW2nL",
+        "created": 1646116893296,
+        "text": "Fo so hsing tsan ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaW2nM",
+        "created": 1646116893296,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaW2nN",
+        "created": 1646116893296,
+        "text": "Buddhacarita",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaW2nO",
+        "created": 1646116893296,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaW2nP",
+        "created": 1646116893296,
+        "text": "Saṅs-rgyas-kyi spyod-pa shes-bya-baḥi sñan-dṅags chen-po."
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwaW2nQ",
+        "created": 1646116893296,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwaW2nR",
+        "created": 1646116893296,
+        "text": "불소행찬경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwaW2nC",
+      "created": 1646116893296,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwaW2nD",
+      "created": 1646116893296,
+      "text": "北涼",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwaW2nE",
+      "created": 1646116893296,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwaW2nF",
+       "created": 1646116893296,
+       "text": "馬鳴菩薩造　北涼 曇無讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwaW2nG",
+       "created": 1646116893296,
+       "text": "曇無讖",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwaW2nH",
+       "created": 1646116893296,
+       "text": "馬鳴",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwaW2nI",
+      "created": 1646116893296,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwaW2nJ",
+      "created": 1646116893296,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwaW2nS",
+      "created": 1646116893296,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwaW2nT",
+      "created": 1646116893296,
+      "text": "Translated by Dharmakṣema: between the 3rd and 15th years of Hsüan Shih (玄始), Northern Liang dynasty (北涼) (A.D. 414-426) in Ku-tsang (姑藏).T. 2154-520c:7."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwaW2nU",
+      "created": 1646116893296,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwaW2nV",
+       "created": 1646116893296,
+       "text": "【北京版】Mdo-ḥgrel (Skyes-rabs) (ṅe) 1-124b"
+      }},
+      {"data": {
+       "id": "z5cYwaW2nW",
+       "created": 1646116893296,
+       "text": "【奈塘版】Mdo-ḥgrel (ṅe)1-119b"
+      }},
+      {"data": {
+       "id": "z5cYwaW2nX",
+       "created": 1646116893296,
+       "text": "【德格版】Skyes-rabs (ge)1b-103b"
+      }},
+      {"data": {
+       "id": "z5cYwaW2nY",
+       "created": 1646116893296,
+       "text": "【卓尼版】Skyes-rabs (ge)1b-112b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwaW2nZ",
+      "created": 1646116893296,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwaX2na",
+      "created": 1646116893297,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwaX2nb",
+      "created": 1646116893297,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwaX2nc",
+       "created": 1646116893297,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nd",
+       "created": 1646116893297,
+       "text": "【開寶藏】No.974《佛所行贊經》北涼 馬鳴菩薩 撰 天竺三藏曇無讖 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：5 千字文：涇"
+      }},
+      {"data": {
+       "id": "z5cYwaX2ne",
+       "created": 1646116893297,
+       "text": "【崇寧藏】No.977《佛所行讚經》 卷數：5 千字文：據(423)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nf",
+       "created": 1646116893297,
+       "text": "【毘盧藏】No.977《佛所行讚經》北涼三藏曇無讖譯 參考年代：(紹興一八．閏八) 千字文：據(423)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2ng",
+       "created": 1646116893297,
+       "text": "【圓覺藏】No.986《佛所行讚經》 卷數：5 千字文：據(423)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nh",
+       "created": 1646116893297,
+       "text": "【趙城金藏】No.982《佛所行讚經》 卷數：5 千字文：據"
+      }},
+      {"data": {
+       "id": "z5cYwaX2ni",
+       "created": 1646116893297,
+       "text": "【資福藏】No.992《佛所行讚經》 卷數：5 (五卷) 千字文：據(423)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nj",
+       "created": 1646116893297,
+       "text": "【磧砂藏】No.1002《佛所行讚經》北涼 曇無讖譯 部別： / 冊數：27 / 頁數：487 / 卷數：5 千字文：據 1 (423)-據 5 (423)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nk",
+       "created": 1646116893297,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nl",
+       "created": 1646116893297,
+       "text": "【高麗藏】No.980《佛所行讚經》北天竺三藏曇無讖譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：29 頁數：638 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：據"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nm",
+       "created": 1646116893297,
+       "text": "【普寧藏】No.993《佛所行讚經》 卷數：5 千字文：據(423)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nn",
+       "created": 1646116893297,
+       "text": "【至元錄】No.1431《佛所讚經傳》馬鳴菩薩造　北涼天竺三藏曇無讖譯 卷數：5 千字文：伊(531)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2no",
+       "created": 1646116893297,
+       "text": "【洪武南藏】No.886《佛所行讚經》馬鳴菩薩 撰　北涼 天竺三藏曇無讖 譯　 冊數：150 / 頁數：281 / 卷數：5 千字文：據 1 (423)-據 5 (423)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2np",
+       "created": 1646116893297,
+       "text": "【永樂南藏】No.1078《佛所行讚經》 部別：西土聖賢撰集 千字文：誠(291)-美(292)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nq",
+       "created": 1646116893297,
+       "text": "【永樂北藏】No.1409《佛所行贊經》北涼曇無讖譯 部別：西土聖賢撰集 / 冊數：130 / 頁數：1 / 卷數：5 千字文：典"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nr",
+       "created": 1646116893297,
+       "text": "【嘉興藏】No.1343《佛所行讚經》北涼曇無讖譯 部別：西土聖賢撰集 / 法寶總目錄經號：1342 千字文 / 函號：［正藏］ 典(476)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2ns",
+       "created": 1646116893297,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nt",
+       "created": 1646116893297,
+       "text": "【乾隆藏】No.1344《佛所行讚經》馬鳴撰　(北涼)曇無讖譯 部別：西土聖賢撰集 / 冊數：106 / 頁數：679 / 卷數：5 千字文：典"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nu",
+       "created": 1646116893297,
+       "text": "【縮刻藏】No.1056《佛所行讚》馬鳴菩薩造　北涼曇無讖譯 部別：印度撰述雜部 / 卷數：5 千字文：藏 7 (24)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nv",
+       "created": 1646116893297,
+       "text": "【卍正藏】No.1358《佛所行讚》北涼 曇無讖譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：288 / 卷數：5 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nw",
+       "created": 1646116893297,
+       "text": "【大正藏】No.192《佛所行讚》馬鳴菩薩造 北涼 曇無讖譯 部別：本緣部下 / 冊數：4 / 頁數：1 / 卷數：5 相關經典：縮-藏7,卍-26.7,國-本4-5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwaX2nx",
+       "created": 1646116893297,
+       "text": "【佛教大藏經】No.1125《佛所行讚》北涼 曇無讖譯 部別：雜部一 / 冊數：50 / 頁數：576 / 卷數：5"
+      }},
+      {"data": {
+       "id": "z5cYwaX2ny",
+       "created": 1646116893297,
+       "text": "【中華藏】No.1067《佛所行讚》馬鳴菩薩造，北涼天竺三藏曇無讖譯 冊數：50 / 頁數：403 / 卷數：5 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwaX2nz",
+       "created": 1646116893297,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwaX2o0",
+       "created": 1646116893297,
+       "text": "【南條文雄編號】 Nj. 1351"
+      }},
+      {"data": {
+       "id": "z5cYwaX2o1",
+       "created": 1646116893297,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：192"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvu75j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

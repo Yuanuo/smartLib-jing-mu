@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "持世經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwuS7hi",
+    "created": 1646116894532,
+    "text": "現藏錄（姚秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwuS7gq",
+      "created": 1646116894532,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwuS7gr",
+        "created": 1646116894532,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuS7gs",
+        "created": 1646116894532,
+        "text": "持世經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuS7gt",
+        "created": 1646116894532,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuS7gu",
+        "created": 1646116894532,
+        "text": "持世经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuS7gv",
+        "created": 1646116894532,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuS7gw",
+        "created": 1646116894532,
+        "text": "chi shi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuS7h4",
+        "created": 1646116894532,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuS7h5",
+        "created": 1646116894532,
+        "text": "Ch'ih shih ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuS7h6",
+        "created": 1646116894532,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuS7h7",
+        "created": 1646116894532,
+        "text": "Lokadharaparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuS7h8",
+        "created": 1646116894532,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuS7h9",
+        "created": 1646116894532,
+        "text": "Ḥjig-rten-ḥdsin-gyis yoṅs-su dris-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuS7hA",
+        "created": 1646116894532,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuS7hB",
+        "created": 1646116894532,
+        "text": "지세경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwuS7gx",
+      "created": 1646116894532,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuS7gy",
+      "created": 1646116894532,
+      "text": "姚秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwuS7gz",
+      "created": 1646116894532,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwuS7h0",
+       "created": 1646116894532,
+       "text": "姚秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYwuS7h1",
+       "created": 1646116894532,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwuS7h2",
+      "created": 1646116894532,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuS7h3",
+      "created": 1646116894532,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwuS7hC",
+      "created": 1646116894532,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuS7hD",
+      "created": 1646116894532,
+      "text": "Translation by Kumārajīva: between the 4th and 14th years of Hung Shih (弘始), Later Ch'in dynasty (後奏) (A.D. 402-412), in Ch'ang-an (長安).T.2154-514c:26."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwuS7hE",
+     "created": 1646116894532,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwuS7hF",
+      "created": 1646116894532,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuS7hG",
+      "created": 1646116894532,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwuS7hH",
+      "created": 1646116894532,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwuS7hI",
+       "created": 1646116894532,
+       "text": "【房山石經】No.417《持世經》(姚秦)三藏鳩摩羅什於長安逍遙園譯 冊數：10 / 頁數：148 / 卷數：4 / 刻經年代：大安二年-三年刻石 / 瀏覽：目錄圖檔 千字文：蓋"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hJ",
+       "created": 1646116894532,
+       "text": "【開寶藏】No.147《持世經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘經 五大部外諸重譯經 / 卷數：4 千字文：萬"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hK",
+       "created": 1646116894532,
+       "text": "【崇寧藏】No.148《持世經》 卷數：4 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hL",
+       "created": 1646116894532,
+       "text": "【毘盧藏】No.144《持世經》姚秦鳩摩羅什譯 參考年代：(靖康元．七) 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hM",
+       "created": 1646116894532,
+       "text": "【圓覺藏】No.145《持世經》 卷數：4 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hN",
+       "created": 1646116894532,
+       "text": "【趙城金藏】No.146《持世經》 卷數：4 千字文：萬"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hO",
+       "created": 1646116894532,
+       "text": "【資福藏】No.149《持世經》 卷數：4 (四卷) 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hP",
+       "created": 1646116894532,
+       "text": "【磧砂藏】No.148《持世經》姚秦 鳩摩羅什譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：200 / 卷數：4 千字文：方 5 (144)-方 8 (144)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hQ",
+       "created": 1646116894532,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hR",
+       "created": 1646116894532,
+       "text": "【高麗藏】No.146《持世經》姚秦龜茲三藏鳩摩羅什譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：541 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：萬"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hS",
+       "created": 1646116894532,
+       "text": "【普寧藏】No.144《持世經》 卷數：4 千字文：方(144)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hT",
+       "created": 1646116894532,
+       "text": "【至元錄】No.225《持世經》姚秦三藏鳩摩羅什譯 卷數：4 / 譯次：(第三譯) 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hU",
+       "created": 1646116894532,
+       "text": "【洪武南藏】No.133《持世經》姚秦 三藏法師鳩摩羅什 譯 冊數：49 / 頁數：173 / 卷數：4 千字文：方 5 (144)-方 8 (144)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hV",
+       "created": 1646116894532,
+       "text": "【永樂南藏】No.143《持世經》 部別：大乘經-五大部外重譯經 千字文：四(149)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hW",
+       "created": 1646116894532,
+       "text": "【永樂北藏】No.191《持世經》姚秦鳩摩羅什譯 部別：大乘經五大部外重譯經 / 冊數：40 / 頁數：1 / 卷數：4 千字文：常"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hX",
+       "created": 1646116894532,
+       "text": "【嘉興藏】No.161《持世經》姚秦鳩摩羅什譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0161 千字文 / 函號：［正藏］ 常(152)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hY",
+       "created": 1646116894532,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hZ",
+       "created": 1646116894532,
+       "text": "【乾隆藏】No.162《持世經》姚秦 鳩摩羅什譯 部別：大乘五大部外重譯經 / 冊數：34 / 頁數：385 / 卷數：4 千字文：常"
+      }},
+      {"data": {
+       "id": "z5cYwuS7ha",
+       "created": 1646116894532,
+       "text": "【縮刻藏】No.219《持世經》姚秦鳩摩羅什譯 部別：大乘經-方等部 / 卷數：4 千字文：宇 10 (5)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hb",
+       "created": 1646116894532,
+       "text": "【卍正藏】No.165《持世經》姚秦 鳩摩羅什譯 部別：大乘經 五大部外重譯經 / 冊數：16 / 頁數：615 / 卷數：4 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hc",
+       "created": 1646116894532,
+       "text": "【大正藏】No.482《持世經》姚秦 鳩摩羅什譯 部別：經集部一 / 冊數：14 / 頁數：642 / 卷數：4 相關經典：縮-宇10,卍-9.9,國-經3 參考資料：No.481"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hd",
+       "created": 1646116894532,
+       "text": "【佛教大藏經】No.222《持世經》姚秦 鳩摩羅什譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：651 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYwuS7he",
+       "created": 1646116894532,
+       "text": "【中華藏】No.155《持世經》姚秦龜茲三藏鳩摩羅什譯 冊數：17 / 頁數：260 / 卷數：4 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hf",
+       "created": 1646116894532,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hg",
+       "created": 1646116894532,
+       "text": "【南條文雄編號】 Nj. 0166"
+      }},
+      {"data": {
+       "id": "z5cYwuS7hh",
+       "created": 1646116894532,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：482"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwsjfb",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

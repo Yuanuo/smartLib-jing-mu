@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "佛說罵意經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx6lBIz",
+    "created": 1646116895295,
+    "text": "現藏錄（後漢 安世高譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx6kBI8",
+      "created": 1646116895294,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx6kBI9",
+        "created": 1646116895294,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6kBIA",
+        "created": 1646116895294,
+        "text": "佛說罵意經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6kBIB",
+        "created": 1646116895294,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6kBIC",
+        "created": 1646116895294,
+        "text": "佛说骂意经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6kBID",
+        "created": 1646116895294,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6kBIE",
+        "created": 1646116895294,
+        "text": "fo shuo ma yi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6kBIM",
+        "created": 1646116895294,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6kBIN",
+        "created": 1646116895294,
+        "text": "Ma i ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYx6kBIO",
+       "created": 1646116895294,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYx6kBIP",
+        "created": 1646116895294,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6kBIQ",
+        "created": 1646116895294,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6kBIR",
+        "created": 1646116895294,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6kBIS",
+        "created": 1646116895294,
+        "text": "매의경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6kBIF",
+      "created": 1646116895294,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6kBIG",
+      "created": 1646116895294,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6kBIH",
+      "created": 1646116895294,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6kBII",
+       "created": 1646116895294,
+       "text": "後漢 安世高譯"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIJ",
+       "created": 1646116895294,
+       "text": "安世高",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6kBIK",
+      "created": 1646116895294,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6kBIL",
+      "created": 1646116895294,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6kBIT",
+      "created": 1646116895294,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6kBIU",
+      "created": 1646116895294,
+      "text": "Translation by An Shih-kao: (see K.806)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx6kBIV",
+     "created": 1646116895294,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx6kBIW",
+      "created": 1646116895294,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6kBIX",
+      "created": 1646116895294,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6kBIY",
+      "created": 1646116895294,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6kBIZ",
+       "created": 1646116895294,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIa",
+       "created": 1646116895294,
+       "text": "【開寶藏】No.805《罵意經》後漢 安息三藏安世高 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIb",
+       "created": 1646116895294,
+       "text": "【崇寧藏】No.812《佛說罵意經》 卷數：1 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIc",
+       "created": 1646116895294,
+       "text": "【毘盧藏】No.813《佛說罵意經》後漢安世高譯 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBId",
+       "created": 1646116895294,
+       "text": "【圓覺藏】No.820《罵意經》 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIe",
+       "created": 1646116895294,
+       "text": "【趙城金藏】No.812《罵意經》 卷數：1 千字文：甚"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIf",
+       "created": 1646116895294,
+       "text": "【資福藏】No.826《罵意經》 卷數：1 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIg",
+       "created": 1646116895294,
+       "text": "【磧砂藏】No.826《佛說罵意經》後漢 安世高譯 部別：小乘單譯經 / 冊數：20 / 頁數：58 / 卷數：1 千字文：無 3 (303)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIh",
+       "created": 1646116895294,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIi",
+       "created": 1646116895294,
+       "text": "【高麗藏】No.809《罵意經》後漢三藏安世高譯 部別：小乘經 單譯 / 冊數：20 頁數：1101(原版) 516(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：甚"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIj",
+       "created": 1646116895294,
+       "text": "【普寧藏】No.818《佛說罵意經》 卷數：1 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIk",
+       "created": 1646116895294,
+       "text": "【至元錄】No.1048《罵意經》後漢安息三藏安世高譯 卷數：1 千字文：卑(328)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIl",
+       "created": 1646116895294,
+       "text": "【洪武南藏】No.735《佛說罵意經》後漢 安息三藏安世高 譯 冊數：106 / 頁數：118 / 卷數：1 千字文：無 3 (303)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIm",
+       "created": 1646116895294,
+       "text": "【永樂南藏】No.694《佛說罵意經》 部別：小乘經-單譯經 千字文：敬(248)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIn",
+       "created": 1646116895294,
+       "text": "【永樂北藏】No.714《佛說罵意經》後漢安世高譯 部別：小乘經單譯經 / 冊數：66 / 頁數：47 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIo",
+       "created": 1646116895294,
+       "text": "【嘉興藏】No.677《佛說罵意經》後漢安世高譯 部別：小乘經-單譯經 / 法寶總目錄經號：0677 千字文 / 函號：［正藏］ 敬(248)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIp",
+       "created": 1646116895294,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIq",
+       "created": 1646116895294,
+       "text": "【乾隆藏】No.678《佛說罵意經》後漢 安世高譯 部別：小乘單譯經 / 冊數：55 / 頁數：373 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIr",
+       "created": 1646116895294,
+       "text": "【縮刻藏】No.718《佛說罵意經》後漢安世高譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIs",
+       "created": 1646116895294,
+       "text": "【卍正藏】No.686《佛說罵意經》後漢 安世高譯 部別：小乘經 單譯經 / 冊數：26 / 頁數：849 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIt",
+       "created": 1646116895294,
+       "text": "【大正藏】No.732《佛說罵意經》後漢 安世高譯 部別：經集部四 / 冊數：17 / 頁數：530 / 卷數：1 相關經典：縮-宿8,卍-14.10 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx6kBIu",
+       "created": 1646116895294,
+       "text": "【佛教大藏經】No.739《佛說罵意經》後漢 安世高譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：411 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIv",
+       "created": 1646116895294,
+       "text": "【中華藏】No.872《佛說罵意經》後漢安息國三藏安世高譯 冊數：36 / 頁數：165 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIw",
+       "created": 1646116895294,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIx",
+       "created": 1646116895294,
+       "text": "【南條文雄編號】 Nj. 0682"
+      }},
+      {"data": {
+       "id": "z5cYx6kBIy",
+       "created": 1646116895294,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：732"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxdqmc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

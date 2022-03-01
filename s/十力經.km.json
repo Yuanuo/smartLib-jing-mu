@@ -1,0 +1,575 @@
+{
+ "root": {
+  "data": {"text": "佛說十力經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx9rC0I",
+     "created": 1646116895487,
+     "text": "現藏錄（唐 勿提提犀魚譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx9qBzQ",
+       "created": 1646116895486,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx9qBzR",
+         "created": 1646116895486,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9qBzS",
+         "created": 1646116895486,
+         "text": "佛說十力經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9qBzT",
+         "created": 1646116895486,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9qBzU",
+         "created": 1646116895486,
+         "text": "佛说十力经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9qBzV",
+         "created": 1646116895486,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9qBzW",
+         "created": 1646116895486,
+         "text": "fo shuo shi li jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9qBze",
+         "created": 1646116895486,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9qBzf",
+         "created": 1646116895486,
+         "text": "Shin li ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9qBzg",
+         "created": 1646116895486,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9qBzh",
+         "created": 1646116895486,
+         "text": "Daśabalasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9qBzi",
+         "created": 1646116895486,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9qBzj",
+         "created": 1646116895486,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9qBzk",
+         "created": 1646116895486,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9qBzl",
+         "created": 1646116895486,
+         "text": "십력경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9qBzX",
+       "created": 1646116895486,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9qBzY",
+       "created": 1646116895486,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9qBzZ",
+       "created": 1646116895486,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9qBza",
+        "created": 1646116895486,
+        "text": "唐 勿提提犀魚譯"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzb",
+        "created": 1646116895486,
+        "text": "勿提提犀魚",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9qBzc",
+       "created": 1646116895486,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9qBzd",
+       "created": 1646116895486,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9qBzm",
+       "created": 1646116895486,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9qBzn",
+       "created": 1646116895486,
+       "text": "Translation by Utpalavīrya: 2nd month, 6th year of Cheng Yüan (貞元), T'ang dynasty (唐) (A.D. 790) at Lien-hua Monastery (蓮華寺), As-hsi (安西).T. 2157-396b:6."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYx9qBzo",
+      "created": 1646116895486,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYx9qBzp",
+       "created": 1646116895486,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9qBzq",
+       "created": 1646116895486,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9qBzr",
+       "created": 1646116895486,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9qBzs",
+        "created": 1646116895486,
+        "text": "【房山石經】No.750《佛說十力經》三藏沙門勿提提犀魚于安西蓮花寺譯 冊數：24 / 頁數：166 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：書"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzt",
+        "created": 1646116895486,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzu",
+        "created": 1646116895486,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzv",
+        "created": 1646116895486,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzw",
+        "created": 1646116895486,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzx",
+        "created": 1646116895486,
+        "text": "【趙城金藏】No.1399《佛說十力經》 卷數：1 千字文：時"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzy",
+        "created": 1646116895486,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qBzz",
+        "created": 1646116895486,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC00",
+        "created": 1646116895486,
+        "text": "【宋藏遺珍】No.6《佛說十力經》唐 勿提提犀魚 譯 六冊版冊數：1 / 頁數：99 / 卷數：1 四冊版冊數：37 / 頁數：556 【宋藏遺珍】No.10《大唐正元新譯十地等經記》唐 悟空 述 六冊版冊數：1 / 頁數：119 / 卷數：1 四冊版冊數：37 / 頁數：565"
+       }},
+       {"data": {
+        "id": "z5cYx9qC01",
+        "created": 1646116895486,
+        "text": "【高麗藏】No.1386《十力經》龜茲國三藏勿提提犀魚譯 部別：宋續入藏經 / 冊數：37 頁數：537 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：合"
+       }},
+       {"data": {
+        "id": "z5cYx9qC02",
+        "created": 1646116895486,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC03",
+        "created": 1646116895486,
+        "text": "【至元錄】No.180《十力經》于闐三藏尸羅達摩共安西三藏勿提犀魚等譯 卷數：1 / 出處：(於北庭譯) 千字文：白(133)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC04",
+        "created": 1646116895486,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC05",
+        "created": 1646116895486,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC06",
+        "created": 1646116895486,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC07",
+        "created": 1646116895486,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC08",
+        "created": 1646116895486,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC09",
+        "created": 1646116895486,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0A",
+        "created": 1646116895486,
+        "text": "【縮刻藏】No.1292《佛說十力經》唐勿提提犀魚譯 部別：祕密部 / 卷數：1 千字文： 15 (25)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0B",
+        "created": 1646116895486,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0C",
+        "created": 1646116895486,
+        "text": "【大正藏】No.780《佛說十力經》唐 勿提提犀魚譯 部別：經集部四 / 冊數：17 / 頁數：715 / 卷數：1 相關經典：縮-閏15,續-1.3.1,國-經15 參考資料：No.781"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0D",
+        "created": 1646116895486,
+        "text": "【佛教大藏經】No.696《佛說十力經》唐 勿提提犀魚譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：271 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0E",
+        "created": 1646116895486,
+        "text": "【中華藏】No.1523《佛說十力經》三藏沙門勿提堤犀魚於安西蓮華寺譯 冊數：66 / 頁數：812 / 卷數：1 / 底本：金藏廣勝寺本 【中華藏】No.1524《佛說十力經》西天譯經三藏沙門勿提堤犀魚於安西蓮華寺譯 冊數：66 / 頁數：819 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0F",
+        "created": 1646116895486,
+        "text": "【新纂卍續藏】No.91《佛說十力經》唐 勿提提犀魚譯 部別：印度撰述 密經儀軌部 / 冊數：2 / 頁數：455 / 卷數：1 《卍大日本續藏經》套數：第一編．第 3 套 《卍續藏經》(新文豐版)冊數：第 3 冊"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0G",
+        "created": 1646116895486,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9qC0H",
+        "created": 1646116895486,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：780"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzLDqT4",
+     "created": 1646116903879,
+     "text": "現藏錄（宋 施護譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzLDqSP",
+       "created": 1646116903879,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzLDqSQ",
+         "created": 1646116903879,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzLDqSR",
+         "created": 1646116903879,
+         "text": "十力經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzLDqSS",
+         "created": 1646116903879,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzLDqST",
+         "created": 1646116903879,
+         "text": "十力经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzLDqSU",
+         "created": 1646116903879,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzLDqSV",
+         "created": 1646116903879,
+         "text": "shi li jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzLDqSW",
+       "created": 1646116903879,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzLDqSX",
+       "created": 1646116903879,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzLDqSY",
+       "created": 1646116903879,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzLDqSZ",
+        "created": 1646116903879,
+        "text": "宋 施護譯"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSa",
+        "created": 1646116903879,
+        "text": "施護",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzLDqSb",
+       "created": 1646116903879,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzLDqSc",
+       "created": 1646116903879,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzLDqSd",
+       "created": 1646116903879,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzLDqSe",
+        "created": 1646116903879,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSf",
+        "created": 1646116903879,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSg",
+        "created": 1646116903879,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSh",
+        "created": 1646116903879,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSi",
+        "created": 1646116903879,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSj",
+        "created": 1646116903879,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSk",
+        "created": 1646116903879,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSl",
+        "created": 1646116903879,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSm",
+        "created": 1646116903879,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSn",
+        "created": 1646116903879,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSo",
+        "created": 1646116903879,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSp",
+        "created": 1646116903879,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSq",
+        "created": 1646116903879,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSr",
+        "created": 1646116903879,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSs",
+        "created": 1646116903879,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSt",
+        "created": 1646116903879,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSu",
+        "created": 1646116903879,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSv",
+        "created": 1646116903879,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSw",
+        "created": 1646116903879,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSx",
+        "created": 1646116903879,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSy",
+        "created": 1646116903879,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqSz",
+        "created": 1646116903879,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqT0",
+        "created": 1646116903879,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqT1",
+        "created": 1646116903879,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqT2",
+        "created": 1646116903879,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzLDqT3",
+        "created": 1646116903879,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】 (未收錄)"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxj2nq",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

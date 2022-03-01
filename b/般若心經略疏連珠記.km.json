@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "般若心經略疏連珠記"},
+  "children": [{
+   "data": {
+    "id": "z5cYxsoPA6",
+    "created": 1646116898274,
+    "text": "現藏錄（宋 師會述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxsoP9Q",
+      "created": 1646116898274,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxsoP9R",
+        "created": 1646116898274,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxsoP9S",
+        "created": 1646116898274,
+        "text": "般若心經略疏連珠記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxsoP9T",
+        "created": 1646116898274,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxsoP9U",
+        "created": 1646116898274,
+        "text": "般若心经略疏连珠记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxsoP9V",
+        "created": 1646116898274,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxsoP9W",
+        "created": 1646116898274,
+        "text": "bo re xin jing lve shu lian zhu ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxsoP9X",
+      "created": 1646116898274,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxsoP9Y",
+      "created": 1646116898274,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxsoP9Z",
+      "created": 1646116898274,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxsoP9a",
+       "created": 1646116898274,
+       "text": "宋 師會述"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9b",
+       "created": 1646116898274,
+       "text": "師會",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxsoP9c",
+       "created": 1646116898274,
+       "text": "達摩笈多",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxsoP9d",
+      "created": 1646116898274,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxsoP9e",
+      "created": 1646116898274,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxsoP9f",
+      "created": 1646116898274,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxsoP9g",
+       "created": 1646116898274,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9h",
+       "created": 1646116898274,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9i",
+       "created": 1646116898274,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9j",
+       "created": 1646116898274,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9k",
+       "created": 1646116898274,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9l",
+       "created": 1646116898274,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9m",
+       "created": 1646116898274,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9n",
+       "created": 1646116898274,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9o",
+       "created": 1646116898274,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9p",
+       "created": 1646116898274,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9q",
+       "created": 1646116898274,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9r",
+       "created": 1646116898274,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9s",
+       "created": 1646116898274,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9t",
+       "created": 1646116898274,
+       "text": "【永樂南藏】No.1586《心經略疏連珠記》 部別：此方撰述 千字文：青(608)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9u",
+       "created": 1646116898274,
+       "text": "【永樂北藏】No.1687《般若心經略疏連珠記》唐法藏述-宋師會述記 部別：此土著述 / 冊數：175 / 頁數：1 / 卷數：2 千字文：百"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9v",
+       "created": 1646116898274,
+       "text": "【嘉興藏】No.1592《心經略疏連珠記》唐法藏述-宋師會述記 部別：此土著述 / 法寶總目錄經號：1591 千字文 / 函號：［正藏］ 百(613)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9w",
+       "created": 1646116898274,
+       "text": "【嘉興藏新文豐版】［正藏］No.108《般若心經略疏連珠記》宋 師會述 冊數：5 / 頁數：631 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9x",
+       "created": 1646116898274,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9y",
+       "created": 1646116898274,
+       "text": "【縮刻藏】No.1708《般若心經略疏連珠記》宋師會述 部別：支那撰述-經疏部 / 卷數：2 千字文：呂 8 (30)"
+      }},
+      {"data": {
+       "id": "z5cYxsoP9z",
+       "created": 1646116898274,
+       "text": "【卍正藏】No.1607《般若心經略疏連珠記》宋 師會述 部別：此土著述 / 冊數：66 / 頁數：918 / 卷數：2 原版套數：第 34 套"
+      }},
+      {"data": {
+       "id": "z5cYxsoPA0",
+       "created": 1646116898274,
+       "text": "【大正藏】No.1713《般若心經略疏連珠記》宋 師會述 部別：經疏部一 / 冊數：33 / 頁數：555 / 卷數：2 相關經典：縮-呂8,卍-34.10 參考資料：cf.Nos.251,1712"
+      }},
+      {"data": {
+       "id": "z5cYxsoPA1",
+       "created": 1646116898274,
+       "text": "【佛教大藏經】No.1886《般若心經略疏連珠記》宋 師會述 部別：經疏部六 / 冊數：64 / 頁數：567 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxsoPA2",
+       "created": 1646116898274,
+       "text": "【中華藏】No.1825《般若心經略疏連珠記》宋玉峰沙門師會述 冊數：97 / 頁數：255 / 卷數：2 / 底本：明永樂北藏本"
+      }},
+      {"data": {
+       "id": "z5cYxsoPA3",
+       "created": 1646116898274,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsoPA4",
+       "created": 1646116898274,
+       "text": "【南條文雄編號】 Nj. 1600"
+      }},
+      {"data": {
+       "id": "z5cYxsoPA5",
+       "created": 1646116898274,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1713"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzoi1fa",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大毘盧遮那經指歸"},
+  "children": [{
+   "data": {
+    "id": "z5cYyCUVR9",
+    "created": 1646116899494,
+    "text": "現藏錄（日本 圓珍撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyCUVQU",
+      "created": 1646116899494,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyCUVQV",
+        "created": 1646116899494,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCUVQW",
+        "created": 1646116899494,
+        "text": "大毘盧遮那經指歸",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCUVQX",
+        "created": 1646116899494,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCUVQY",
+        "created": 1646116899494,
+        "text": "大毘卢遮那经指归",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCUVQZ",
+        "created": 1646116899494,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCUVQa",
+        "created": 1646116899494,
+        "text": "da pi lu zhe na jing zhi gui"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCUVQb",
+      "created": 1646116899494,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCUVQc",
+      "created": 1646116899494,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCUVQd",
+      "created": 1646116899494,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCUVQe",
+       "created": 1646116899494,
+       "text": "日本 圓珍撰"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQf",
+       "created": 1646116899494,
+       "text": "圓珍",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCUVQg",
+      "created": 1646116899494,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCUVQh",
+      "created": 1646116899494,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCUVQi",
+      "created": 1646116899494,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCUVQj",
+       "created": 1646116899494,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQk",
+       "created": 1646116899494,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQl",
+       "created": 1646116899494,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQm",
+       "created": 1646116899494,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQn",
+       "created": 1646116899494,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQo",
+       "created": 1646116899494,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQp",
+       "created": 1646116899494,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQq",
+       "created": 1646116899494,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQr",
+       "created": 1646116899494,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQs",
+       "created": 1646116899494,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQt",
+       "created": 1646116899494,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQu",
+       "created": 1646116899494,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQv",
+       "created": 1646116899494,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQw",
+       "created": 1646116899494,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQx",
+       "created": 1646116899494,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQy",
+       "created": 1646116899494,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVQz",
+       "created": 1646116899494,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR0",
+       "created": 1646116899494,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR1",
+       "created": 1646116899494,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR2",
+       "created": 1646116899494,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR3",
+       "created": 1646116899494,
+       "text": "【大正藏】No.2212a《大毘盧遮那經指歸》日本 圓珍撰 部別：續經疏部三 / 冊數：58 / 頁數：12 / 卷數：1 相關經典：佛全-26 參考資料：cf.No.848"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR4",
+       "created": 1646116899494,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR5",
+       "created": 1646116899494,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR6",
+       "created": 1646116899494,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR7",
+       "created": 1646116899494,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCUVR8",
+       "created": 1646116899494,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2212"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0md1ul",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "理趣釋重釋記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyDaVlx",
+    "created": 1646116899562,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyDaVlL",
+      "created": 1646116899562,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyDaVlM",
+        "created": 1646116899562,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDaVlN",
+        "created": 1646116899562,
+        "text": "理趣釋重釋記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyDaVlO",
+        "created": 1646116899562,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDaVlP",
+        "created": 1646116899562,
+        "text": "理趣释重释记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyDaVlQ",
+        "created": 1646116899562,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDaVlR",
+        "created": 1646116899562,
+        "text": "li qu shi zhong shi ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyDaVlS",
+      "created": 1646116899562,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyDaVlT",
+      "created": 1646116899562,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyDaVlU",
+      "created": 1646116899562,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyDaVlV",
+      "created": 1646116899562,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyDaVlW",
+      "created": 1646116899562,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyDaVlX",
+       "created": 1646116899562,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlY",
+       "created": 1646116899562,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlZ",
+       "created": 1646116899562,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVla",
+       "created": 1646116899562,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlb",
+       "created": 1646116899562,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlc",
+       "created": 1646116899562,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVld",
+       "created": 1646116899562,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVle",
+       "created": 1646116899562,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlf",
+       "created": 1646116899562,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlg",
+       "created": 1646116899562,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlh",
+       "created": 1646116899562,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVli",
+       "created": 1646116899562,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlj",
+       "created": 1646116899562,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlk",
+       "created": 1646116899562,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVll",
+       "created": 1646116899562,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlm",
+       "created": 1646116899562,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVln",
+       "created": 1646116899562,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlo",
+       "created": 1646116899562,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlp",
+       "created": 1646116899562,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlq",
+       "created": 1646116899562,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlr",
+       "created": 1646116899562,
+       "text": "【大正藏】No.2240《理趣釋重釋記》 部別：續經疏部六 / 冊數：61 / 頁數：640 / 卷數：1 相關經典： 參考資料：cf.Nos.1003,2241"
+      }},
+      {"data": {
+       "id": "z5cYyDaVls",
+       "created": 1646116899562,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlt",
+       "created": 1646116899562,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlu",
+       "created": 1646116899562,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlv",
+       "created": 1646116899562,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDaVlw",
+       "created": 1646116899562,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2240"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0oa1vg",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

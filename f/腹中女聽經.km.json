@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "佛說腹中女聽經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwzE8sS",
+    "created": 1646116894828,
+    "text": "現藏錄（北涼 曇無讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwzD8rZ",
+      "created": 1646116894827,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwzD8ra",
+        "created": 1646116894827,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzD8rb",
+        "created": 1646116894827,
+        "text": "佛說腹中女聽經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzD8rc",
+        "created": 1646116894827,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzD8rd",
+        "created": 1646116894827,
+        "text": "佛说腹中女听经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzD8re",
+        "created": 1646116894827,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzD8rf",
+        "created": 1646116894827,
+        "text": "fo shuo fu zhong nv ting jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzD8ro",
+        "created": 1646116894827,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzD8rp",
+        "created": 1646116894827,
+        "text": "Fu chung nu t'ing ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzD8rq",
+        "created": 1646116894827,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzD8rr",
+        "created": 1646116894827,
+        "text": "Strīvivartavyākaraṇa(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzD8rs",
+        "created": 1646116894827,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzD8rt",
+        "created": 1646116894827,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzD8ru",
+        "created": 1646116894827,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzD8rv",
+        "created": 1646116894827,
+        "text": "복중청경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwzD8rg",
+      "created": 1646116894827,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzD8rh",
+      "created": 1646116894827,
+      "text": "北涼",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwzD8ri",
+      "created": 1646116894827,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwzD8rj",
+       "created": 1646116894827,
+       "text": "北涼 曇無讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwzD8rk",
+       "created": 1646116894827,
+       "text": "曇無識",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwzD8rl",
+       "created": 1646116894827,
+       "text": "曇無讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwzD8rm",
+      "created": 1646116894827,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzD8rn",
+      "created": 1646116894827,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwzD8rw",
+      "created": 1646116894827,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzD8rx",
+      "created": 1646116894827,
+      "text": "Translation by Dharmakṣema: between the 3rd and 15th years of Hsüan Shih (玄始) (A.D. 414-426), Northern Liang dynasty (北涼).T. 2154-520c:7."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwzD8ry",
+     "created": 1646116894827,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwzD8rz",
+      "created": 1646116894827,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzD8s0",
+      "created": 1646116894827,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwzD8s1",
+      "created": 1646116894827,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwzD8s2",
+       "created": 1646116894827,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8s3",
+       "created": 1646116894827,
+       "text": "【開寶藏】No.233《腹中女聽經》北涼 天竺三藏曇無讖 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwzD8s4",
+       "created": 1646116894827,
+       "text": "【崇寧藏】No.234《腹中女聽經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8s5",
+       "created": 1646116894827,
+       "text": "【毘盧藏】No.230《腹中女聽經》北涼曇無讖譯 參考年代：(靖康元．八) 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8s6",
+       "created": 1646116894827,
+       "text": "【圓覺藏】No.237《腹中女聽經》 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8s7",
+       "created": 1646116894827,
+       "text": "【趙城金藏】No.232《腹中女聽經》 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwzD8s8",
+       "created": 1646116894827,
+       "text": "【資福藏】No.241《腹中女聽經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8s9",
+       "created": 1646116894827,
+       "text": "【磧砂藏】No.242《腹中女聽經》北涼 曇無讖譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：128 / 卷數：1 千字文：毀 4 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sA",
+       "created": 1646116894827,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sB",
+       "created": 1646116894827,
+       "text": "【高麗藏】No.232《腹中聽經》北涼天竺三藏曇無讖譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：453 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sC",
+       "created": 1646116894827,
+       "text": "【普寧藏】No.236《腹中女聽經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sD",
+       "created": 1646116894827,
+       "text": "【至元錄】No.310《腹中女聽經》北涼天竺三藏曇無讖譯 卷數：1 / 譯次：(第三譯) 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sE",
+       "created": 1646116894827,
+       "text": "【洪武南藏】No.209《腹中女聽經》涼 天竺三藏法師曇無懺 第三譯 冊數：54 / 頁數：229 / 卷數：1 千字文：毀 4 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sF",
+       "created": 1646116894827,
+       "text": "【永樂南藏】No.226《腹中女聽經》 部別：大乘經-五大部外重譯經 千字文：絜(164)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sG",
+       "created": 1646116894827,
+       "text": "【永樂北藏】No.260《佛說腹中女聽經》北涼曇無讖譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：445 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sH",
+       "created": 1646116894827,
+       "text": "【嘉興藏】No.231《腹中女聽經》北涼曇無讖譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0231 千字文 / 函號：［正藏］ 潔(164)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sI",
+       "created": 1646116894827,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sJ",
+       "created": 1646116894827,
+       "text": "【乾隆藏】No.232《佛說腹中女聽經》北涼 曇無讖譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：237 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sK",
+       "created": 1646116894827,
+       "text": "【縮刻藏】No.217《佛說腹中女聽經》北涼曇無讖譯 部別：大乘經-方等部 / 卷數：1 千字文：宇 9 (5)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sL",
+       "created": 1646116894827,
+       "text": "【卍正藏】No.236《佛說腹中女聽經》北涼 曇無讖譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：971 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sM",
+       "created": 1646116894827,
+       "text": "【大正藏】No.563《佛說腹中女聽經》北涼 曇無讖譯 部別：經集部一 / 冊數：14 / 頁數：914 / 卷數：1 相關經典：縮-宇9,卍-10.5 參考資料：Nos.562,564"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sN",
+       "created": 1646116894827,
+       "text": "【佛教大藏經】No.220《佛說腹中女聽經》北涼 曇無讖譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：635 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sO",
+       "created": 1646116894827,
+       "text": "【中華藏】No.236《佛說腹中女聽經》北涼天竺三藏曇無讖譯 冊數：19 / 頁數：57 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sP",
+       "created": 1646116894827,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sQ",
+       "created": 1646116894827,
+       "text": "【南條文雄編號】 Nj. 0236"
+      }},
+      {"data": {
+       "id": "z5cYwzD8sR",
+       "created": 1646116894827,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：563"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx0qhn",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

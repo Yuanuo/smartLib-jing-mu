@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "佛說兜沙經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwgt46p",
+    "created": 1646116893691,
+    "text": "現藏錄（後漢 支婁迦讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwgs45w",
+      "created": 1646116893690,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwgs45x",
+        "created": 1646116893690,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgs45y",
+        "created": 1646116893690,
+        "text": "佛說兜沙經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgs45z",
+        "created": 1646116893690,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgs460",
+        "created": 1646116893690,
+        "text": "佛说兜沙经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgs461",
+        "created": 1646116893690,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgs462",
+        "created": 1646116893690,
+        "text": "fo shuo dou sha jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgs46A",
+        "created": 1646116893690,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgs46B",
+        "created": 1646116893690,
+        "text": "De-bshin-gśegs-paḥi ḥod-zer-las rnam-par-saṅs-rgyas pa"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwgs46C",
+       "created": 1646116893690,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwgs46D",
+        "created": 1646116893690,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgs46E",
+        "created": 1646116893690,
+        "text": "Saṅs-rgyas-kyi mtshan-śin-tu-bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgs46F",
+        "created": 1646116893690,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgs46G",
+        "created": 1646116893690,
+        "text": "두사경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgs463",
+      "created": 1646116893690,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgs464",
+      "created": 1646116893690,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgs465",
+      "created": 1646116893690,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgs466",
+       "created": 1646116893690,
+       "text": "後漢 支婁迦讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwgs467",
+       "created": 1646116893690,
+       "text": "支婁迦讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgs468",
+      "created": 1646116893690,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgs469",
+      "created": 1646116893690,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgs46H",
+      "created": 1646116893690,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgs46I",
+      "created": 1646116893690,
+      "text": "Translation by Lokakṣema: between the 1st year of Chien Ho (建和), Later Han dynasty (後漢) (A.D. 147) and the 3rd year of Chung-P'ing (中平), Later Han dynasty (後漢) (A.D. 186) in Lo-yang (洛陽).T. 2151-348c:8."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgs46J",
+      "created": 1646116893690,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgs46K",
+       "created": 1646116893690,
+       "text": "【北京版】Phal-chen (yi)189b-197a206a-2I9a"
+      }},
+      {"data": {
+       "id": "z5cYwgs46L",
+       "created": 1646116893690,
+       "text": "【德格版】Phal-chen (ka)l75b-184b191a-203b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgs46M",
+      "created": 1646116893690,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgs46N",
+      "created": 1646116893690,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgs46O",
+      "created": 1646116893690,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgs46P",
+       "created": 1646116893690,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgs46Q",
+       "created": 1646116893690,
+       "text": "【開寶藏】No.94《兜沙經》後漢 月支三藏支婁迦讖 譯 部別：大乘經 華嚴部 / 卷數：1 千字文：伏"
+      }},
+      {"data": {
+       "id": "z5cYwgt46R",
+       "created": 1646116893691,
+       "text": "【崇寧藏】No.94《佛說兜沙經》 卷數：1 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46S",
+       "created": 1646116893691,
+       "text": "【毘盧藏】No.90《佛說兜沙經》後漢支婁迦讖譯 參考年代：(元豊八．五) 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46T",
+       "created": 1646116893691,
+       "text": "【圓覺藏】No.91《兜沙經》 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46U",
+       "created": 1646116893691,
+       "text": "【趙城金藏】No.90《佛說兜沙經》 卷數：1 千字文：伏"
+      }},
+      {"data": {
+       "id": "z5cYwgt46V",
+       "created": 1646116893691,
+       "text": "【資福藏】No.95《佛說兜沙經》 卷數：1 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46W",
+       "created": 1646116893691,
+       "text": "【磧砂藏】No.106《佛說兜沙經》後漢 支婁迦讖譯 部別：華嚴部 / 冊數：8 / 頁數：523 / 卷數：1 千字文：遐 11 (121)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46X",
+       "created": 1646116893691,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46Y",
+       "created": 1646116893691,
+       "text": "【高麗藏】No.90《兜沙經》後漢月氏三藏支婁迦讖譯 部別：大乘經 華嚴部 / 冊數：8 頁數：1099 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：伏"
+      }},
+      {"data": {
+       "id": "z5cYwgt46Z",
+       "created": 1646116893691,
+       "text": "【普寧藏】No.92《佛說兜沙經》 卷數：1 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46a",
+       "created": 1646116893691,
+       "text": "【至元錄】No.166《兜沙經》後漢月支三藏支婁迦讖譯 卷數：1 千字文：賓(126)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46b",
+       "created": 1646116893691,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46c",
+       "created": 1646116893691,
+       "text": "【永樂南藏】No.93《佛說兜沙經》 部別：大乘經-華嚴部 千字文：邇(122)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46d",
+       "created": 1646116893691,
+       "text": "【永樂北藏】No.122《佛說兜沙經》後漢支婁迦讖譯 部別：大乘經華嚴部 / 冊數：31 / 頁數：872 / 卷數：1 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwgt46e",
+       "created": 1646116893691,
+       "text": "【嘉興藏】No.98《兜沙經》後漢支婁迦讖譯 部別：大乘經-華嚴部 / 法寶總目錄經號：0098 千字文 / 函號：［正藏］ 壹(123)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46f",
+       "created": 1646116893691,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46g",
+       "created": 1646116893691,
+       "text": "【乾隆藏】No.98《佛說兜沙經》後漢 支婁迦讖譯 部別：大乘華嚴部 / 冊數：27 / 頁數：717 / 卷數：1 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwgt46h",
+       "created": 1646116893691,
+       "text": "【縮刻藏】No.4《佛說兜沙經》後漢支婁迦讖譯 部別：大乘經-華嚴部 / 卷數：1 千字文：天 10 (1)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46i",
+       "created": 1646116893691,
+       "text": "【卍正藏】No.101《佛說兜沙經》後漢 支婁迦讖譯 部別：大乘經 華嚴部 / 冊數：13 / 頁數：313 / 卷數：1 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwgt46j",
+       "created": 1646116893691,
+       "text": "【大正藏】No.280《佛說兜沙經》後漢 支婁迦讖譯 部別：華嚴部下 / 冊數：10 / 頁數：445 / 卷數：1 相關經典：縮-天10,卍-8.3 參考資料：Nos.278(3,5),279(7,9)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46k",
+       "created": 1646116893691,
+       "text": "【佛教大藏經】No.4《佛說兜沙經》後漢 支婁迦讖譯 部別：大乘經 華嚴部二 / 冊數：2 / 頁數：617 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwgt46l",
+       "created": 1646116893691,
+       "text": "【中華藏】No.100《佛說兜沙經》後漢月支三藏支婁迦讖譯 冊數：13 / 頁數：652 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwgt46m",
+       "created": 1646116893691,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgt46n",
+       "created": 1646116893691,
+       "text": "【南條文雄編號】 Nj. 0102"
+      }},
+      {"data": {
+       "id": "z5cYwgt46o",
+       "created": 1646116893691,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：280"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw5582",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

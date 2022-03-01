@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "阿彌陀經疏鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyeUdJb",
+    "created": 1646116901230,
+    "text": "現藏錄（明 袾宏述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyeTdIw",
+      "created": 1646116901229,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyeTdIx",
+        "created": 1646116901229,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyeTdIy",
+        "created": 1646116901229,
+        "text": "阿彌陀經疏鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyeTdIz",
+        "created": 1646116901229,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyeTdJ0",
+        "created": 1646116901229,
+        "text": "阿弥陀经疏钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyeTdJ1",
+        "created": 1646116901229,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyeTdJ2",
+        "created": 1646116901229,
+        "text": "a mi tuo jing shu chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyeTdJ3",
+      "created": 1646116901229,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyeTdJ4",
+      "created": 1646116901229,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyeTdJ5",
+      "created": 1646116901229,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyeTdJ6",
+       "created": 1646116901229,
+       "text": "明 袾宏述"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJ7",
+       "created": 1646116901229,
+       "text": "袾宏",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyeTdJ8",
+      "created": 1646116901229,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyeTdJ9",
+      "created": 1646116901229,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyeTdJA",
+      "created": 1646116901229,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyeTdJB",
+       "created": 1646116901229,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJC",
+       "created": 1646116901229,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJD",
+       "created": 1646116901229,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJE",
+       "created": 1646116901229,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJF",
+       "created": 1646116901229,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJG",
+       "created": 1646116901229,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJH",
+       "created": 1646116901229,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJI",
+       "created": 1646116901229,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJJ",
+       "created": 1646116901229,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJK",
+       "created": 1646116901229,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJL",
+       "created": 1646116901229,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJM",
+       "created": 1646116901229,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJN",
+       "created": 1646116901229,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJO",
+       "created": 1646116901229,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJP",
+       "created": 1646116901229,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJQ",
+       "created": 1646116901229,
+       "text": "【嘉興藏】No.1776《彌陀疏鈔》（無） 部別：續藏 / 法寶總目錄經號：1775 千字文 / 函號：［續藏］ 55 函 【嘉興藏】No.1890《彌陀疏鈔》 部別：續藏 / 法寶總目錄經號：1889 千字文 / 函號：［續藏］ 88 函"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJR",
+       "created": 1646116901229,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJS",
+       "created": 1646116901229,
+       "text": "【乾隆藏】No.1632《佛說阿彌陀經疏鈔》明 袾宏述 部別：此土著述 / 冊數：150 / 頁數：547 / 卷數：10 千字文：貢"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJT",
+       "created": 1646116901229,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJU",
+       "created": 1646116901229,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJV",
+       "created": 1646116901229,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJW",
+       "created": 1646116901229,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJX",
+       "created": 1646116901229,
+       "text": "【中華藏】No.1890《佛說阿彌陀經疏鈔》明古杭雲棲寺沙門祩宏述 冊數：100 / 頁數：822 / 卷數：10 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJY",
+       "created": 1646116901229,
+       "text": "【新纂卍續藏】No.424《阿彌陀經疏鈔》明 袾宏述 部別：中國撰述 大小乘釋經部二十 方等部疏 / 冊數：22 / 頁數：600 / 卷數：4 《卍大日本續藏經》套數：第一編．第 33 套 《卍續藏經》(新文豐版)冊數：第 33 冊"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJZ",
+       "created": 1646116901229,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyeTdJa",
+       "created": 1646116901229,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：394"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1yl2f0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

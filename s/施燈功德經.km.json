@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說施燈功德經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx5ZAsX",
+    "created": 1646116895221,
+    "text": "現藏錄（高齊 那連提耶舍譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx5ZAra",
+      "created": 1646116895221,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx5ZArb",
+        "created": 1646116895221,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5ZArc",
+        "created": 1646116895221,
+        "text": "佛說施燈功德經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5ZArd",
+        "created": 1646116895221,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5ZAre",
+        "created": 1646116895221,
+        "text": "佛说施灯功德经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5ZArf",
+        "created": 1646116895221,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5ZArg",
+        "created": 1646116895221,
+        "text": "fo shuo shi deng gong de jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5ZAro",
+        "created": 1646116895221,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5ZArp",
+        "created": 1646116895221,
+        "text": "Shih teng kung to ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5ZArq",
+        "created": 1646116895221,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5ZArr",
+        "created": 1646116895221,
+        "text": "Pradīpadānīya(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5ZArs",
+        "created": 1646116895221,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5ZArt",
+        "created": 1646116895221,
+        "text": "Mar-me ḥbul-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5ZAru",
+        "created": 1646116895221,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5ZArv",
+        "created": 1646116895221,
+        "text": "시등공덕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx5ZArh",
+      "created": 1646116895221,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5ZAri",
+      "created": 1646116895221,
+      "text": "高齊",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5ZArj",
+      "created": 1646116895221,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx5ZArk",
+       "created": 1646116895221,
+       "text": "高齊 那連提耶舍譯"
+      }},
+      {"data": {
+       "id": "z5cYx5ZArl",
+       "created": 1646116895221,
+       "text": "那連提舍",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx5ZArm",
+      "created": 1646116895221,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5ZArn",
+      "created": 1646116895221,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5ZArw",
+      "created": 1646116895221,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5ZArx",
+      "created": 1646116895221,
+      "text": "Translation by Narendrayaśas: 9th year of T'ien Pao (天保), Northern Ch'i dynasty (北齊) (A.D. 558) in T'ien-p'ing Monastery (天平寺).T. 2157-842a:21."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5ZAry",
+      "created": 1646116895221,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx5ZArz",
+       "created": 1646116895221,
+       "text": "【北京版】Mdo-sna-tshogs (tsu)84b-96a"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAs0",
+       "created": 1646116895221,
+       "text": "【奈塘版】Mdo (ma)132b-150a"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAs1",
+       "created": 1646116895221,
+       "text": "【德格版】Mdo-sde (tsha)81 b-92a"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAs2",
+       "created": 1646116895221,
+       "text": "【拉薩版】Mdo (ma)125a-142a"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAs3",
+       "created": 1646116895221,
+       "text": "【卓尼版】Mdo-maṅ (tsha)93a-105a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx5ZAs4",
+      "created": 1646116895221,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5ZAs5",
+      "created": 1646116895221,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5ZAs6",
+      "created": 1646116895221,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx5ZAs7",
+       "created": 1646116895221,
+       "text": "【房山石經】No.554《佛說施燈功德經》(高齊)天竺三藏那連提耶舍譯 冊數：12 / 頁數：454 / 卷數：1 / 刻經年代：天慶元年刻石 / 瀏覽：目錄圖檔 千字文：量"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAs8",
+       "created": 1646116895221,
+       "text": "【開寶藏】No.407《燃燈功德經》高齊 天竺三藏那連提耶舍 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：欲"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAs9",
+       "created": 1646116895221,
+       "text": "【崇寧藏】No.406《施燈功德經》 卷數：1 千字文：難(191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsA",
+       "created": 1646116895221,
+       "text": "【毘盧藏】No.404《施燈功德經》高齊那連提黎耶舍譯 千字文：難(191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsB",
+       "created": 1646116895221,
+       "text": "【圓覺藏】No.417《施燈功德經》 千字文：難(191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsC",
+       "created": 1646116895221,
+       "text": "【趙城金藏】No.409《施燈功德經》 卷數：1 千字文：欲"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsD",
+       "created": 1646116895221,
+       "text": "【資福藏】No.421《施燈功德經》 卷數：1 千字文：難(191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsE",
+       "created": 1646116895221,
+       "text": "【磧砂藏】No.422《佛說施燈功德經》高齊 那連提黎耶舍譯 部別：五大部外單譯經 / 冊數：13 / 頁數：222 / 卷數：1 千字文：難 10 (191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsF",
+       "created": 1646116895221,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsG",
+       "created": 1646116895221,
+       "text": "【高麗藏】No.408《施燈功德經》高齊天竺三藏那連提耶舍譯 部別：大乘經 單譯 / 冊數：13 頁數：425 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：欲"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsH",
+       "created": 1646116895221,
+       "text": "【普寧藏】No.415《佛說施燈功德經》 卷數：1 千字文：難(191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsI",
+       "created": 1646116895221,
+       "text": "【至元錄】No.413《施燈功德經》高齊天竺三藏那連提耶舍譯 梵名：阿唎(二合)亞　鉢囉(二合)敵八　怛哩顏　拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：欲(190)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsJ",
+       "created": 1646116895221,
+       "text": "【洪武南藏】No.368《佛說施燈功德經》高齊 北天竺三藏法師那連提黎耶捨 譯 冊數：65 / 頁數：70 / 卷數：1 千字文：難 10 (191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsK",
+       "created": 1646116895221,
+       "text": "【永樂南藏】No.408《佛說施燈功德經》 部別：大乘經-單譯經 千字文：難(191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsL",
+       "created": 1646116895221,
+       "text": "【永樂北藏】No.453《佛說施燈功德經》高齊那連提黎耶舍譯 部別：大乘經單經譯 / 冊數：50 / 頁數：749 / 卷數：1 千字文：難"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsM",
+       "created": 1646116895221,
+       "text": "【嘉興藏】No.423《佛說施燈功德經》高齊那連提黎耶舍譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0423 千字文 / 函號：［正藏］ 難(191)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsN",
+       "created": 1646116895221,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsO",
+       "created": 1646116895221,
+       "text": "【乾隆藏】No.424《佛說施燈功德經》高齊 那連提黎耶舍譯 部別：大乘單譯經 / 冊數：43 / 頁數：153 / 卷數：1 千字文：難"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsP",
+       "created": 1646116895221,
+       "text": "【縮刻藏】No.354《佛說施燈功德經》高齊那連提耶舍譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsQ",
+       "created": 1646116895221,
+       "text": "【卍正藏】No.429《佛說施燈功德經》高齊 那連提耶舍譯 部別：大乘經 單譯經 / 冊數：20 / 頁數：833 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsR",
+       "created": 1646116895221,
+       "text": "【大正藏】No.702《佛說施燈功德經》高齊 那連提耶舍譯 部別：經集部三 / 冊數：16 / 頁數：803 / 卷數：1 相關經典：縮-宙8,卍-11.10,國-經14 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsS",
+       "created": 1646116895221,
+       "text": "【佛教大藏經】No.357《佛說施燈功德經》高齊 那連提耶舍譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：375 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsT",
+       "created": 1646116895221,
+       "text": "【中華藏】No.438《佛說施燈功德經》高齊天竺三藏那連提耶舍譯 冊數：22 / 頁數：915 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsU",
+       "created": 1646116895221,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsV",
+       "created": 1646116895221,
+       "text": "【南條文雄編號】 Nj. 0428"
+      }},
+      {"data": {
+       "id": "z5cYx5ZAsW",
+       "created": 1646116895221,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：702"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxboli",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "教觀綱宗"},
+  "children": [{
+   "data": {
+    "id": "z5cYy0yRno",
+    "created": 1646116898780,
+    "text": "現藏錄（明 智旭述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy0yRn9",
+      "created": 1646116898780,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy0yRnA",
+        "created": 1646116898780,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0yRnB",
+        "created": 1646116898780,
+        "text": "教觀綱宗",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0yRnC",
+        "created": 1646116898780,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0yRnD",
+        "created": 1646116898780,
+        "text": "教观纲宗",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0yRnE",
+        "created": 1646116898780,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0yRnF",
+        "created": 1646116898780,
+        "text": "jiao guan gang zong"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0yRnG",
+      "created": 1646116898780,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0yRnH",
+      "created": 1646116898780,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0yRnI",
+      "created": 1646116898780,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0yRnJ",
+       "created": 1646116898780,
+       "text": "明 智旭述"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnK",
+       "created": 1646116898780,
+       "text": "智旭",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0yRnL",
+      "created": 1646116898780,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0yRnM",
+      "created": 1646116898780,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0yRnN",
+      "created": 1646116898780,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0yRnO",
+       "created": 1646116898780,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnP",
+       "created": 1646116898780,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnQ",
+       "created": 1646116898780,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnR",
+       "created": 1646116898780,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnS",
+       "created": 1646116898780,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnT",
+       "created": 1646116898780,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnU",
+       "created": 1646116898780,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnV",
+       "created": 1646116898780,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnW",
+       "created": 1646116898780,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnX",
+       "created": 1646116898780,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnY",
+       "created": 1646116898780,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnZ",
+       "created": 1646116898780,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRna",
+       "created": 1646116898780,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnb",
+       "created": 1646116898780,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnc",
+       "created": 1646116898780,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnd",
+       "created": 1646116898780,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRne",
+       "created": 1646116898780,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnf",
+       "created": 1646116898780,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRng",
+       "created": 1646116898780,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnh",
+       "created": 1646116898780,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRni",
+       "created": 1646116898780,
+       "text": "【大正藏】No.1939《教觀綱宗》明 智旭述 部別：諸宗部三 / 冊數：46 / 頁數：936 / 卷數：1 相關經典：續-2.6.5,國-諸宗14 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy0yRnj",
+       "created": 1646116898780,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnk",
+       "created": 1646116898780,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnl",
+       "created": 1646116898780,
+       "text": "【新纂卍續藏】No.973《教觀綱宗》明 智旭重述 部別：中國撰述 諸宗著述部四 天台宗 / 冊數：57 / 頁數：495 / 卷數：1 《卍大日本續藏經》套數：第二編．第 6 套 《卍續藏經》(新文豐版)冊數：第 101 冊"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnm",
+       "created": 1646116898780,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0yRnn",
+       "created": 1646116898780,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1939"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri02j1lv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

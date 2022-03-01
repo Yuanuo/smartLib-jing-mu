@@ -1,0 +1,357 @@
+{
+ "root": {
+  "data": {"text": "龍樹菩薩勸誡王頌"},
+  "children": [{
+   "data": {
+    "id": "z5cYxqzOfc",
+    "created": 1646116898161,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxqzOeg",
+      "created": 1646116898161,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxqzOeh",
+        "created": 1646116898161,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqzOei",
+        "created": 1646116898161,
+        "text": "龍樹菩薩勸誡王頌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqzOej",
+        "created": 1646116898161,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqzOek",
+        "created": 1646116898161,
+        "text": "龙树菩萨劝诫王颂",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqzOel",
+        "created": 1646116898161,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqzOem",
+        "created": 1646116898161,
+        "text": "long shu pu sa quan jie wang song"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqzOeu",
+        "created": 1646116898161,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqzOev",
+        "created": 1646116898161,
+        "text": "Lung shu p'u sa ch'üan chieh wang sung"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqzOew",
+        "created": 1646116898161,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqzOex",
+        "created": 1646116898161,
+        "text": "Suhṛllekha",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqzOey",
+        "created": 1646116898161,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqzOez",
+        "created": 1646116898161,
+        "text": "Bśes-paḥi spriṅ-yig"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqzOf0",
+        "created": 1646116898161,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqzOf1",
+        "created": 1646116898161,
+        "text": "용수보살권계왕송",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqzOen",
+      "created": 1646116898161,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqzOeo",
+      "created": 1646116898161,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqzOep",
+      "created": 1646116898161,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqzOeq",
+       "created": 1646116898161,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxqzOer",
+       "created": 1646116898161,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqzOes",
+      "created": 1646116898161,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqzOet",
+      "created": 1646116898161,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqzOf2",
+      "created": 1646116898161,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqzOf3",
+      "created": 1646116898161,
+      "text": "Translation by I-ching: between the 1st year of Chiu Shih (久視) and the 2nd year of Ching Yün (景雲), T'ang dynasty (唐) (A.D.700-711).T. 2154-569a:19."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqzOf4",
+      "created": 1646116898161,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqzOf5",
+       "created": 1646116898161,
+       "text": "【北京版】Mdo-ḥgrel (Dbu-ma) (gi)74a-81b(Spriṅ-yig)(ṅe)282b-290a"
+      }},
+      {"data": {
+       "id": "z5cYxqzOf6",
+       "created": 1646116898161,
+       "text": "【奈塘版】Mdo-ḥgrel (gi)64a-70b(ṅe)279a-286b"
+      }},
+      {"data": {
+       "id": "z5cYxqzOf7",
+       "created": 1646116898161,
+       "text": "【德格版】Spriṅ-yig (ṅe)40b-46bJo-boḥi chos chuṅ60a-65b"
+      }},
+      {"data": {
+       "id": "z5cYxqzOf8",
+       "created": 1646116898161,
+       "text": "【卓尼版】Spriṅ-yig (ṅe)40b-46b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqzOf9",
+      "created": 1646116898161,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqzOfA",
+      "created": 1646116898161,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqzOfB",
+      "created": 1646116898161,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqzOfC",
+       "created": 1646116898161,
+       "text": "【房山石經】No.210《佛說龍樹菩薩勸誡王頌經》三藏法師義淨譯 冊數：3 / 頁數：500 / 卷數：1 / 刻經年代： / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYxqzOfD",
+       "created": 1646116898161,
+       "text": "【開寶藏】No.1034《龍樹菩薩勸誡王頌》唐 三藏義淨 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：1 千字文：彩"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfE",
+       "created": 1646116898161,
+       "text": "【崇寧藏】No.1037《龍樹菩薩勸戒王頌》 卷數：1 千字文：畫(437)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfF",
+       "created": 1646116898161,
+       "text": "【毘盧藏】No.1037《龍樹菩薩勸戒王頌》唐義淨譯 參考年代：(紹興一八．閏八) 千字文：畫(437)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfG",
+       "created": 1646116898161,
+       "text": "【圓覺藏】No.1044《龍樹菩薩勸戒王經》 千字文：畫(437)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfH",
+       "created": 1646116898161,
+       "text": "【趙城金藏】No.1038《龍樹菩薩頌》 卷數：1 千字文：畫"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfI",
+       "created": 1646116898161,
+       "text": "【資福藏】No.1049《龍樹菩薩勸戒王經》 卷數：1 千字文：畫(437)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfJ",
+       "created": 1646116898161,
+       "text": "【磧砂藏】No.1062《龍樹菩薩勸誡王頌》唐 義淨譯 部別： / 冊數：28 / 頁數：507 / 卷數：1 千字文：畫 4 (437)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfK",
+       "created": 1646116898161,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfL",
+       "created": 1646116898161,
+       "text": "【高麗藏】No.1036《龍樹菩薩勸誡王頌》大唐三藏法師義淨譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：654 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：畫"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfM",
+       "created": 1646116898161,
+       "text": "【普寧藏】No.1053《龍樹菩薩勸誡王頌》 卷數：1 千字文：畫(437)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfN",
+       "created": 1646116898161,
+       "text": "【至元錄】No.1491《龍樹菩薩勸誡王訟》失譯人年代 卷數：1 千字文：桓(545)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfO",
+       "created": 1646116898161,
+       "text": "【洪武南藏】No.1439《龍樹菩薩勸戒王頌》大唐 三藏法師義淨 譯 冊數：241 / 頁數：489 / 卷數：1 千字文：畫 4 (437)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfP",
+       "created": 1646116898161,
+       "text": "【永樂南藏】No.1132《龍樹菩薩勸戒王頌》 部別：西土聖賢撰集 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfQ",
+       "created": 1646116898161,
+       "text": "【永樂北藏】No.1499《龍樹菩薩勸誡王頌》唐義淨譯 部別：西土聖賢撰集 / 冊數：132 / 頁數：522 / 卷數：1 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfR",
+       "created": 1646116898161,
+       "text": "【嘉興藏】No.1433《龍樹菩薩勸誡王頌》唐義淨譯 部別：西土聖賢撰集 / 法寶總目錄經號：1432 千字文 / 函號：［正藏］ 隸(484)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfS",
+       "created": 1646116898161,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfT",
+       "created": 1646116898161,
+       "text": "【乾隆藏】No.1434《龍樹菩薩勸誡王頌》唐 義淨譯 部別：西土聖賢撰集 / 冊數：108 / 頁數：769 / 卷數：1 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfU",
+       "created": 1646116898161,
+       "text": "【縮刻藏】No.1078《龍樹菩薩勸誡王頌》唐義淨譯 部別：印度撰述雜部 / 卷數：1 千字文：藏 8 (24)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfV",
+       "created": 1646116898161,
+       "text": "【卍正藏】No.1446《龍樹菩薩勸誡王頌》大唐 義淨譯 部別：西土聖賢撰集 / 冊數：51 / 頁數：299 / 卷數：1 原版套數：第 27 套"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfW",
+       "created": 1646116898161,
+       "text": "【大正藏】No.1674《龍樹菩薩勸誡王頌》唐 義淨譯 部別：論集部全 / 冊數：32 / 頁數：751 / 卷數：1 相關經典：縮-藏8,卍-27.2 參考資料：Nos.1672,1673"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfX",
+       "created": 1646116898161,
+       "text": "【佛教大藏經】No.1148《龍樹菩薩勸誡王頌》唐 義淨譯 部別：雜部二 / 冊數：51 / 頁數：182 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfY",
+       "created": 1646116898161,
+       "text": "【中華藏】No.1129《龍樹菩薩勸誡王頌》大唐三藏法師義淨譯 冊數：52 / 頁數：412 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfZ",
+       "created": 1646116898161,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfa",
+       "created": 1646116898161,
+       "text": "【南條文雄編號】 Nj. 1441"
+      }},
+      {"data": {
+       "id": "z5cYxqzOfb",
+       "created": 1646116898161,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1674"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzld1e6",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說療痔病經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxZCJXl",
+    "created": 1646116897058,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxZCJWo",
+      "created": 1646116897058,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxZCJWp",
+        "created": 1646116897058,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZCJWq",
+        "created": 1646116897058,
+        "text": "佛說療痔病經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZCJWr",
+        "created": 1646116897058,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZCJWs",
+        "created": 1646116897058,
+        "text": "佛说疗痔病经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZCJWt",
+        "created": 1646116897058,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZCJWu",
+        "created": 1646116897058,
+        "text": "fo shuo liao zhi bing jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZCJX2",
+        "created": 1646116897058,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZCJX3",
+        "created": 1646116897058,
+        "text": "Liao chih ping ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZCJX4",
+        "created": 1646116897058,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZCJX5",
+        "created": 1646116897058,
+        "text": "Arśapraśamanasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZCJX6",
+        "created": 1646116897058,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZCJX7",
+        "created": 1646116897058,
+        "text": "Gshan ḥbrum rab-tu shi-bar-byed-paḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZCJX8",
+        "created": 1646116897058,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZCJX9",
+        "created": 1646116897058,
+        "text": "요치병경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZCJWv",
+      "created": 1646116897058,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZCJWw",
+      "created": 1646116897058,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZCJWx",
+      "created": 1646116897058,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZCJWy",
+       "created": 1646116897058,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxZCJWz",
+       "created": 1646116897058,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZCJX0",
+      "created": 1646116897058,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZCJX1",
+      "created": 1646116897058,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZCJXA",
+      "created": 1646116897058,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZCJXB",
+      "created": 1646116897058,
+      "text": "Translation by I-ching: 4th year of Ching Lung (景龍), T'ang dynasty (唐) (A.D. 710) in Ta-chien-fu Monastery (大薦福寺).T. 2154-567c:25; T. 2156-868b:11."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZCJXC",
+      "created": 1646116897058,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZCJXD",
+       "created": 1646116897058,
+       "text": "【北京版】Rgyud (pha)277a-278a(ya)188a-189a"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXE",
+       "created": 1646116897058,
+       "text": "【奈塘版】Rgyud (pa)256b-258a"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXF",
+       "created": 1646116897058,
+       "text": "【德格版】Rgyud-ḥbum (ba)61a-61bGzuṅs-ḥdus (waṃ)181b-183a"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXG",
+       "created": 1646116897058,
+       "text": "【拉薩版】Rgyud (na)286a-287b"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXH",
+       "created": 1646116897058,
+       "text": "【卓尼版】Rgyud (pha)311a-312a(ya)193b-194b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZCJXI",
+      "created": 1646116897058,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZCJXJ",
+      "created": 1646116897058,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZCJXK",
+      "created": 1646116897058,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZCJXL",
+       "created": 1646116897058,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXM",
+       "created": 1646116897058,
+       "text": "【開寶藏】No.883《療痔病經》唐 三藏義淨 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXN",
+       "created": 1646116897058,
+       "text": "【崇寧藏】No.885《佛說療痔病經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXO",
+       "created": 1646116897058,
+       "text": "【毘盧藏】No.886《療痔病經》唐義淨譯 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXP",
+       "created": 1646116897058,
+       "text": "【圓覺藏】No.894《療痔病經》 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXQ",
+       "created": 1646116897058,
+       "text": "【趙城金藏】No.869《療痔病經》 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXR",
+       "created": 1646116897058,
+       "text": "【資福藏】No.900《療痔病經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXS",
+       "created": 1646116897058,
+       "text": "【磧砂藏】No.908《佛說療痔病經》唐 義淨譯 部別：小乘單譯經 / 冊數：20 / 頁數：170 / 卷數：1 千字文：學 8 (305)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXT",
+       "created": 1646116897058,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXU",
+       "created": 1646116897058,
+       "text": "【高麗藏】No.866《療痔病經》三藏法師義淨奉制譯 部別：小乘經 單譯 / 冊數：20 頁數：1234(原版) 650(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXV",
+       "created": 1646116897058,
+       "text": "【普寧藏】No.900《佛說療痔病經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXW",
+       "created": 1646116897058,
+       "text": "【至元錄】No.1126《療痔病經》唐天后代三藏義淨譯 卷數：1 千字文：和(330)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXX",
+       "created": 1646116897058,
+       "text": "【洪武南藏】No.811《佛說療痔病經》唐 三藏法師義淨 譯 冊數：106 / 頁數：521 / 卷數：1 千字文：斈 8 (305)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXY",
+       "created": 1646116897058,
+       "text": "【永樂南藏】No.775《佛說療痔病經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXZ",
+       "created": 1646116897058,
+       "text": "【永樂北藏】No.770《佛說療痔病經》唐義淨譯 部別：小乘經單譯經 / 冊數：66 / 頁數：587 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXa",
+       "created": 1646116897058,
+       "text": "【嘉興藏】No.733《佛說療痔病經》唐義淨譯 部別：小乘經-單譯經 / 法寶總目錄經號：0733 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXb",
+       "created": 1646116897058,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXc",
+       "created": 1646116897058,
+       "text": "【乾隆藏】No.734《佛說療痔病經》唐 義淨譯 部別：小乘單譯經 / 冊數：56 / 頁數：65 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXd",
+       "created": 1646116897058,
+       "text": "【縮刻藏】No.1524《佛說療痔病經》唐義淨譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXe",
+       "created": 1646116897058,
+       "text": "【卍正藏】No.742《佛說療痔病經》大唐 義淨譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：84 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXf",
+       "created": 1646116897058,
+       "text": "【大正藏】No.1325《佛說療痔病經》唐 義淨譯 部別：密教部四 / 冊數：21 / 頁數：490 / 卷數：1 相關經典：縮-成8,卍-15.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxZCJXg",
+       "created": 1646116897058,
+       "text": "【佛教大藏經】No.1601《佛說療痔病經》唐 義淨譯 部別：密教部六 / 冊數：57 / 頁數：392 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXh",
+       "created": 1646116897058,
+       "text": "【中華藏】No.944《佛說療痔病經》大唐三藏義淨奉制譯 冊數：36 / 頁數：429 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXi",
+       "created": 1646116897058,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXj",
+       "created": 1646116897058,
+       "text": "【南條文雄編號】 Nj. 0738"
+      }},
+      {"data": {
+       "id": "z5cYxZCJXk",
+       "created": 1646116897058,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1325"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyqp144",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

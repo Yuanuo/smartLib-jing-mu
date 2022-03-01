@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "仁王經科疏懸談"},
+  "children": [{
+   "data": {
+    "id": "z5cYzGVp3N",
+    "created": 1646116903587,
+    "text": "現藏錄（明 真貴述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzGVp2j",
+      "created": 1646116903587,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzGVp2k",
+        "created": 1646116903587,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGVp2l",
+        "created": 1646116903587,
+        "text": "仁王經科疏懸談",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzGVp2m",
+        "created": 1646116903587,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGVp2n",
+        "created": 1646116903587,
+        "text": "仁王经科疏悬谈",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzGVp2o",
+        "created": 1646116903587,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGVp2p",
+        "created": 1646116903587,
+        "text": "ren wang jing ke shu xuan tan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzGVp2q",
+      "created": 1646116903587,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGVp2r",
+      "created": 1646116903587,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGVp2s",
+      "created": 1646116903587,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGVp2t",
+      "created": 1646116903587,
+      "text": "明 真貴述"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGVp2u",
+      "created": 1646116903587,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGVp2v",
+      "created": 1646116903587,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGVp2w",
+      "created": 1646116903587,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzGVp2x",
+       "created": 1646116903587,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp2y",
+       "created": 1646116903587,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp2z",
+       "created": 1646116903587,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp30",
+       "created": 1646116903587,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp31",
+       "created": 1646116903587,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp32",
+       "created": 1646116903587,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp33",
+       "created": 1646116903587,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp34",
+       "created": 1646116903587,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp35",
+       "created": 1646116903587,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp36",
+       "created": 1646116903587,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp37",
+       "created": 1646116903587,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp38",
+       "created": 1646116903587,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp39",
+       "created": 1646116903587,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3A",
+       "created": 1646116903587,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3B",
+       "created": 1646116903587,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3C",
+       "created": 1646116903587,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3D",
+       "created": 1646116903587,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3E",
+       "created": 1646116903587,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3F",
+       "created": 1646116903587,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3G",
+       "created": 1646116903587,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3H",
+       "created": 1646116903587,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3I",
+       "created": 1646116903587,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3J",
+       "created": 1646116903587,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3K",
+       "created": 1646116903587,
+       "text": "【新纂卍續藏】No.516《仁王經科疏懸談》明 真貴述 部別：中國撰述 大小乘釋經部二十四 般若部疏 / 冊數：26 / 頁數：205 / 卷數：1 《卍大日本續藏經》套數：第一編．第 94 套 《卍續藏經》(新文豐版)冊數：第 94 冊"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3L",
+       "created": 1646116903587,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGVp3M",
+       "created": 1646116903587,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1176"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3s339m",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

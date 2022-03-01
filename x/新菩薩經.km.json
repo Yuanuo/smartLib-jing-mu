@@ -1,0 +1,453 @@
+{
+ "root": {
+  "data": {"text": "新菩薩經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYydxdCO",
+     "created": 1646116901197,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYydwdBm",
+       "created": 1646116901196,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYydwdBn",
+         "created": 1646116901196,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYydwdBo",
+         "created": 1646116901196,
+         "text": "新菩薩經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYydwdBp",
+         "created": 1646116901196,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYydwdBq",
+         "created": 1646116901196,
+         "text": "新菩萨经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYydwdBr",
+         "created": 1646116901196,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYydwdBs",
+         "created": 1646116901196,
+         "text": "xin pu sa jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYydwdBt",
+       "created": 1646116901196,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYydwdBu",
+       "created": 1646116901196,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYydwdBv",
+       "created": 1646116901196,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYydwdBw",
+       "created": 1646116901196,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYydwdBx",
+       "created": 1646116901196,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYydwdBy",
+        "created": 1646116901196,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdBz",
+        "created": 1646116901196,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC0",
+        "created": 1646116901196,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC1",
+        "created": 1646116901196,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC2",
+        "created": 1646116901196,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC3",
+        "created": 1646116901196,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC4",
+        "created": 1646116901196,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC5",
+        "created": 1646116901196,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC6",
+        "created": 1646116901196,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC7",
+        "created": 1646116901196,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC8",
+        "created": 1646116901196,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdC9",
+        "created": 1646116901196,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCA",
+        "created": 1646116901196,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCB",
+        "created": 1646116901196,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCC",
+        "created": 1646116901196,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCD",
+        "created": 1646116901196,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCE",
+        "created": 1646116901196,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCF",
+        "created": 1646116901196,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCG",
+        "created": 1646116901196,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCH",
+        "created": 1646116901196,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCI",
+        "created": 1646116901196,
+        "text": "【大正藏】No.2917A《新菩薩經》 部別：疑似部全 / 冊數：85 / 頁數：1462 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYydwdCJ",
+        "created": 1646116901196,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCK",
+        "created": 1646116901196,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCL",
+        "created": 1646116901196,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydwdCM",
+        "created": 1646116901196,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydxdCN",
+        "created": 1646116901197,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2917"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYydzdD1",
+     "created": 1646116901199,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYydzdCP",
+       "created": 1646116901199,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYydzdCQ",
+         "created": 1646116901199,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYydzdCR",
+         "created": 1646116901199,
+         "text": "新菩薩經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYydzdCS",
+         "created": 1646116901199,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYydzdCT",
+         "created": 1646116901199,
+         "text": "新菩萨经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYydzdCU",
+         "created": 1646116901199,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYydzdCV",
+         "created": 1646116901199,
+         "text": "xin pu sa jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYydzdCW",
+       "created": 1646116901199,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYydzdCX",
+       "created": 1646116901199,
+       "text": "失譯"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYydzdCY",
+       "created": 1646116901199,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYydzdCZ",
+       "created": 1646116901199,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYydzdCa",
+       "created": 1646116901199,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYydzdCb",
+        "created": 1646116901199,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCc",
+        "created": 1646116901199,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCd",
+        "created": 1646116901199,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCe",
+        "created": 1646116901199,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCf",
+        "created": 1646116901199,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCg",
+        "created": 1646116901199,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCh",
+        "created": 1646116901199,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCi",
+        "created": 1646116901199,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCj",
+        "created": 1646116901199,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCk",
+        "created": 1646116901199,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCl",
+        "created": 1646116901199,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCm",
+        "created": 1646116901199,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCn",
+        "created": 1646116901199,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCo",
+        "created": 1646116901199,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCp",
+        "created": 1646116901199,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCq",
+        "created": 1646116901199,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCr",
+        "created": 1646116901199,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCs",
+        "created": 1646116901199,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCt",
+        "created": 1646116901199,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCu",
+        "created": 1646116901199,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCv",
+        "created": 1646116901199,
+        "text": "【大正藏】No.2917B《新菩薩經》 部別：疑似部全 / 冊數：85 / 頁數：1462 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYydzdCw",
+        "created": 1646116901199,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCx",
+        "created": 1646116901199,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCy",
+        "created": 1646116901199,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdCz",
+        "created": 1646116901199,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydzdD0",
+        "created": 1646116901199,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2917"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1xo2ep",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

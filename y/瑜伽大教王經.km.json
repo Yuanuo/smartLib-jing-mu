@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說瑜伽大教王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxEyDXA",
+    "created": 1646116895804,
+    "text": "現藏錄（宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxEyDWD",
+      "created": 1646116895804,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxEyDWE",
+        "created": 1646116895804,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEyDWF",
+        "created": 1646116895804,
+        "text": "佛說瑜伽大教王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEyDWG",
+        "created": 1646116895804,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEyDWH",
+        "created": 1646116895804,
+        "text": "佛说瑜伽大教王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEyDWI",
+        "created": 1646116895804,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEyDWJ",
+        "created": 1646116895804,
+        "text": "fo shuo yu jia da jiao wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEyDWR",
+        "created": 1646116895804,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEyDWS",
+        "created": 1646116895804,
+        "text": "Yü ch'ieh ta chiao wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEyDWT",
+        "created": 1646116895804,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEyDWU",
+        "created": 1646116895804,
+        "text": "Māyājālamahātantra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEyDWV",
+        "created": 1646116895804,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEyDWW",
+        "created": 1646116895804,
+        "text": "Rgyud-kyi rgyal-po chen-po sgyu-ḥphrul dra-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEyDWX",
+        "created": 1646116895804,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEyDWY",
+        "created": 1646116895804,
+        "text": "유가대교왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxEyDWK",
+      "created": 1646116895804,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEyDWL",
+      "created": 1646116895804,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEyDWM",
+      "created": 1646116895804,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxEyDWN",
+       "created": 1646116895804,
+       "text": "宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWO",
+       "created": 1646116895804,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxEyDWP",
+      "created": 1646116895804,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEyDWQ",
+      "created": 1646116895804,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEyDWZ",
+      "created": 1646116895804,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEyDWa",
+      "created": 1646116895804,
+      "text": "Translation by Fa-hsien: (see K.1172)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEyDWb",
+      "created": 1646116895804,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxEyDWc",
+       "created": 1646116895804,
+       "text": "【北京版】Rgyud (ja)59a-103a"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWd",
+       "created": 1646116895804,
+       "text": "【奈塘版】Rgyud (cha)96a-156"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWe",
+       "created": 1646116895804,
+       "text": "【德格版】Rgyud-ḥbum (ja)94b-134a"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWf",
+       "created": 1646116895804,
+       "text": "【拉薩版】Rgyud (ca)287a-347a"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWg",
+       "created": 1646116895804,
+       "text": "【卓尼版】Rgyud (ja)61b-105b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxEyDWh",
+      "created": 1646116895804,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEyDWi",
+      "created": 1646116895804,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEyDWj",
+      "created": 1646116895804,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxEyDWk",
+       "created": 1646116895804,
+       "text": "【房山石經】No.987《佛說瑜伽大教王經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：27 / 頁數：98 / 卷數：5 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：扶"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWl",
+       "created": 1646116895804,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWm",
+       "created": 1646116895804,
+       "text": "【崇寧藏】No.1246《佛說瑜伽大教王經》 卷數：5 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWn",
+       "created": 1646116895804,
+       "text": "【毘盧藏】No.1247《佛說瑜伽大教王經》宋法賢譯 參考年代：(紹興一八．閏八) 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWo",
+       "created": 1646116895804,
+       "text": "【圓覺藏】No.1230《瑜伽大教王經》 卷數：5 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWp",
+       "created": 1646116895804,
+       "text": "【趙城金藏】No.1221《瑜伽大教王經》 卷數：5 千字文：高"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWq",
+       "created": 1646116895804,
+       "text": "【資福藏】No.1235《瑜伽大教王經》 卷數：5 (五卷) 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWr",
+       "created": 1646116895804,
+       "text": "【磧砂藏】No.1242《佛說瑜伽大教王經》宋 法賢譯 部別： / 冊數：33 / 頁數：177 / 卷數：5 千字文：輦 1 (508)-輦 5 (508)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWs",
+       "created": 1646116895804,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWt",
+       "created": 1646116895804,
+       "text": "【高麗藏】No.1220《瑜伽大教王經》西天三藏明教大師法賢譯 部別：宋續入藏經 / 冊數：34 頁數：421 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：高"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWu",
+       "created": 1646116895804,
+       "text": "【普寧藏】No.1235《佛說瑜伽大教王經》 卷數：5 千字文：輦(508)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWv",
+       "created": 1646116895804,
+       "text": "【至元錄】No.691《瑜伽大教王經》宋三藏法賢譯 梵名：麻牙扎囉　麻訶單特囉　麻訶衍拏　紺畢囉乃牙　孤忽(二合)嵓　拔囉訶悉　拏麻 / 卷數：5 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWw",
+       "created": 1646116895804,
+       "text": "【洪武南藏】No.1094《佛說瑜伽大教王經》西天譯經三藏朝散大夫試光祿卿明教大師臣法賢 奉詔譯 冊數：182 / 頁數：349 / 卷數：5 千字文：輦 1 (508)-輦 5 (508)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWx",
+       "created": 1646116895804,
+       "text": "【永樂南藏】No.918《佛說瑜伽大教王經》 部別：宋元入藏諸大小乘經 千字文：興(262)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWy",
+       "created": 1646116895804,
+       "text": "【永樂北藏】No.1054《佛說瑜伽大教王經》宋法賢譯 部別：宋元入藏諸大小乘經之餘 / 冊數：73 / 頁數：1 / 卷數：5 千字文：流"
+      }},
+      {"data": {
+       "id": "z5cYxEyDWz",
+       "created": 1646116895804,
+       "text": "【嘉興藏】No.1016《瑜伽大教王經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1015 千字文 / 函號：［正藏］ 流(274)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX0",
+       "created": 1646116895804,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX1",
+       "created": 1646116895804,
+       "text": "【乾隆藏】No.1017《佛說瑜伽大教王經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：61 / 頁數：445 / 卷數：5 千字文：流"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX2",
+       "created": 1646116895804,
+       "text": "【縮刻藏】No.1443《佛說瑜伽大教王經》宋法賢譯 部別：祕密部 / 卷數：5 千字文：成 4 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX3",
+       "created": 1646116895804,
+       "text": "【卍正藏】No.1026《佛說瑜伽大教王經》法賢譯 部別：宋元入藏諸大小乘經之餘 / 冊數：29 / 頁數：741 / 卷數：5 原版套數：第 16 套"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX4",
+       "created": 1646116895804,
+       "text": "【大正藏】No.890《佛說瑜伽大教王經》宋 法賢譯 部別：密教部一 / 冊數：18 / 頁數：559 / 卷數：5 相關經典：縮-成4,卍-16.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxEyDX5",
+       "created": 1646116895804,
+       "text": "【佛教大藏經】No.1518《佛說瑜伽大教王經》宋 法賢譯 部別：密教部五 / 冊數：56 / 頁數：636 / 卷數：5"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX6",
+       "created": 1646116895804,
+       "text": "【中華藏】No.1330《佛說瑜伽大教王經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：745 / 卷數：5 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX7",
+       "created": 1646116895804,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX8",
+       "created": 1646116895804,
+       "text": "【南條文雄編號】 Nj. 1022"
+      }},
+      {"data": {
+       "id": "z5cYxEyDX9",
+       "created": 1646116895804,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：890"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxrwqw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

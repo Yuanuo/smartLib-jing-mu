@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "讚僧功德經"},
+  "children": [{
+   "data": {
+    "id": "z5cYydfd8c",
+    "created": 1646116901179,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYydfd80",
+      "created": 1646116901179,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYydfd81",
+        "created": 1646116901179,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYydfd82",
+        "created": 1646116901179,
+        "text": "讚僧功德經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYydfd83",
+        "created": 1646116901179,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYydfd84",
+        "created": 1646116901179,
+        "text": "赞僧功德经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYydfd85",
+        "created": 1646116901179,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYydfd86",
+        "created": 1646116901179,
+        "text": "zan seng gong de jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYydfd87",
+      "created": 1646116901179,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYydfd88",
+      "created": 1646116901179,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYydfd89",
+      "created": 1646116901179,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYydfd8A",
+      "created": 1646116901179,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYydfd8B",
+      "created": 1646116901179,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYydfd8C",
+       "created": 1646116901179,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8D",
+       "created": 1646116901179,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8E",
+       "created": 1646116901179,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8F",
+       "created": 1646116901179,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8G",
+       "created": 1646116901179,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8H",
+       "created": 1646116901179,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8I",
+       "created": 1646116901179,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8J",
+       "created": 1646116901179,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8K",
+       "created": 1646116901179,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8L",
+       "created": 1646116901179,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8M",
+       "created": 1646116901179,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8N",
+       "created": 1646116901179,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8O",
+       "created": 1646116901179,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8P",
+       "created": 1646116901179,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8Q",
+       "created": 1646116901179,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8R",
+       "created": 1646116901179,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8S",
+       "created": 1646116901179,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8T",
+       "created": 1646116901179,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8U",
+       "created": 1646116901179,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8V",
+       "created": 1646116901179,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8W",
+       "created": 1646116901179,
+       "text": "【大正藏】No.2911《讚僧功德經》 部別：疑似部全 / 冊數：85 / 頁數：1456 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYydfd8X",
+       "created": 1646116901179,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8Y",
+       "created": 1646116901179,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8Z",
+       "created": 1646116901179,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8a",
+       "created": 1646116901179,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydfd8b",
+       "created": 1646116901179,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2911"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1x72ej",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

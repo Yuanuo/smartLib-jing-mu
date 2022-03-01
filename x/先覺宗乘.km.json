@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "先覺宗乘"},
+  "children": [{
+   "data": {
+    "id": "z5cYzSFseo",
+    "created": 1646116904315,
+    "text": "現藏錄（清 圓信較定　郭凝之彙編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzSEse8",
+      "created": 1646116904314,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzSEse9",
+        "created": 1646116904314,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzSEseA",
+        "created": 1646116904314,
+        "text": "先覺宗乘",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzSEseB",
+        "created": 1646116904314,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzSEseC",
+        "created": 1646116904314,
+        "text": "先觉宗乘",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzSEseD",
+        "created": 1646116904314,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzSEseE",
+        "created": 1646116904314,
+        "text": "xian jue zong cheng"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzSEseF",
+      "created": 1646116904314,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzSEseG",
+      "created": 1646116904314,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzSEseH",
+      "created": 1646116904314,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzSEseI",
+       "created": 1646116904314,
+       "text": "清 圓信較定　郭凝之彙編"
+      }},
+      {"data": {
+       "id": "z5cYzSEseJ",
+       "created": 1646116904314,
+       "text": "圓信",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYzSEseK",
+       "created": 1646116904314,
+       "text": "郭凝之",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzSEseL",
+      "created": 1646116904314,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzSEseM",
+      "created": 1646116904314,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzSEseN",
+      "created": 1646116904314,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzSEseO",
+       "created": 1646116904314,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseP",
+       "created": 1646116904314,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseQ",
+       "created": 1646116904314,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseR",
+       "created": 1646116904314,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseS",
+       "created": 1646116904314,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseT",
+       "created": 1646116904314,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseU",
+       "created": 1646116904314,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseV",
+       "created": 1646116904314,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseW",
+       "created": 1646116904314,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseX",
+       "created": 1646116904314,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseY",
+       "created": 1646116904314,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseZ",
+       "created": 1646116904314,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEsea",
+       "created": 1646116904314,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseb",
+       "created": 1646116904314,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEsec",
+       "created": 1646116904314,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEsed",
+       "created": 1646116904314,
+       "text": "【嘉興藏】No.1780《先覺宗乘》明郭凝之編 部別：續藏 / 法寶總目錄經號：1779 千字文 / 函號：［續藏］ 57 函"
+      }},
+      {"data": {
+       "id": "z5cYzSEsee",
+       "created": 1646116904314,
+       "text": "【嘉興藏新文豐版】［續藏］No.125《先覺宗乘》明 郭凝之編 冊數：23 / 頁數：277 / 卷數：5"
+      }},
+      {"data": {
+       "id": "z5cYzSEsef",
+       "created": 1646116904314,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseg",
+       "created": 1646116904314,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEseh",
+       "created": 1646116904314,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEsei",
+       "created": 1646116904314,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSEsej",
+       "created": 1646116904315,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSFsek",
+       "created": 1646116904315,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSFsel",
+       "created": 1646116904315,
+       "text": "【新纂卍續藏】No.1620《先覺宗乘》清 圓信較定　郭凝之彙編 部別：中國撰述 史傳部十三 禪宗 / 冊數：87 / 頁數：179 / 卷數：5 《卍大日本續藏經》套數：第二編乙．第 21 套 《卍續藏經》(新文豐版)冊數：第 148 冊"
+      }},
+      {"data": {
+       "id": "z5cYzSFsem",
+       "created": 1646116904315,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzSFsen",
+       "created": 1646116904315,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：270"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4ca3j1",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,492 @@
+{
+ "root": {
+  "data": {"text": "立正安國論"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyVaano",
+     "created": 1646116900678,
+     "text": "現藏錄（日本 日蓮撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyVaan9",
+       "created": 1646116900678,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyVaanA",
+         "created": 1646116900678,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyVaanB",
+         "created": 1646116900678,
+         "text": "立正安國論",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyVaanC",
+         "created": 1646116900678,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyVaanD",
+         "created": 1646116900678,
+         "text": "立正安国论",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyVaanE",
+         "created": 1646116900678,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyVaanF",
+         "created": 1646116900678,
+         "text": "li zheng an guo lun"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyVaanG",
+       "created": 1646116900678,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyVaanH",
+       "created": 1646116900678,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyVaanI",
+       "created": 1646116900678,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyVaanJ",
+        "created": 1646116900678,
+        "text": "日本 日蓮撰"
+       }},
+       {"data": {
+        "id": "z5cYyVaanK",
+        "created": 1646116900678,
+        "text": "日蓮",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyVaanL",
+       "created": 1646116900678,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyVaanM",
+       "created": 1646116900678,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyVaanN",
+       "created": 1646116900678,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyVaanO",
+        "created": 1646116900678,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanP",
+        "created": 1646116900678,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanQ",
+        "created": 1646116900678,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanR",
+        "created": 1646116900678,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanS",
+        "created": 1646116900678,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanT",
+        "created": 1646116900678,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanU",
+        "created": 1646116900678,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanV",
+        "created": 1646116900678,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanW",
+        "created": 1646116900678,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanX",
+        "created": 1646116900678,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanY",
+        "created": 1646116900678,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanZ",
+        "created": 1646116900678,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaana",
+        "created": 1646116900678,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanb",
+        "created": 1646116900678,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanc",
+        "created": 1646116900678,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaand",
+        "created": 1646116900678,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaane",
+        "created": 1646116900678,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanf",
+        "created": 1646116900678,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaang",
+        "created": 1646116900678,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanh",
+        "created": 1646116900678,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaani",
+        "created": 1646116900678,
+        "text": "【大正藏】No.2688《立正安國論》日本 日蓮撰 部別：續諸宗部十五 / 冊數：84 / 頁數：203 / 卷數：1 相關經典：國-諸宗25 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYyVaanj",
+        "created": 1646116900678,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaank",
+        "created": 1646116900678,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanl",
+        "created": 1646116900678,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaanm",
+        "created": 1646116900678,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyVaann",
+        "created": 1646116900678,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2688"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYz90mjx",
+     "created": 1646116903122,
+     "text": "現藏錄（日本 日蓮撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYz90mjI",
+       "created": 1646116903122,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYz90mjJ",
+         "created": 1646116903122,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYz90mjK",
+         "created": 1646116903122,
+         "text": "立正安國論"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYz90mjL",
+         "created": 1646116903122,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYz90mjM",
+         "created": 1646116903122,
+         "text": "立正安国论"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYz90mjN",
+         "created": 1646116903122,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYz90mjO",
+         "created": 1646116903122,
+         "text": "li zheng an guo lun"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYz90mjP",
+       "created": 1646116903122,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYz90mjQ",
+       "created": 1646116903122,
+       "text": "日本"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYz90mjR",
+       "created": 1646116903122,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYz90mjS",
+        "created": 1646116903122,
+        "text": "日本 日蓮撰"
+       }},
+       {"data": {
+        "id": "z5cYz90mjT",
+        "created": 1646116903122,
+        "text": "日蓮"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYz90mjU",
+       "created": 1646116903122,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYz90mjV",
+       "created": 1646116903122,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYz90mjW",
+       "created": 1646116903122,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYz90mjX",
+        "created": 1646116903122,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjY",
+        "created": 1646116903122,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjZ",
+        "created": 1646116903122,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mja",
+        "created": 1646116903122,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjb",
+        "created": 1646116903122,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjc",
+        "created": 1646116903122,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjd",
+        "created": 1646116903122,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mje",
+        "created": 1646116903122,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjf",
+        "created": 1646116903122,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjg",
+        "created": 1646116903122,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjh",
+        "created": 1646116903122,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mji",
+        "created": 1646116903122,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjj",
+        "created": 1646116903122,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjk",
+        "created": 1646116903122,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjl",
+        "created": 1646116903122,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjm",
+        "created": 1646116903122,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjn",
+        "created": 1646116903122,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjo",
+        "created": 1646116903122,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjp",
+        "created": 1646116903122,
+        "text": "【縮刻藏】No.1902《立正安國論》身延山沙門日蓮撰 部別：日本撰述部-日蓮宗 / 卷數：1 千字文：霜 10 (40)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjq",
+        "created": 1646116903122,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjr",
+        "created": 1646116903122,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjs",
+        "created": 1646116903122,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjt",
+        "created": 1646116903122,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mju",
+        "created": 1646116903122,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjv",
+        "created": 1646116903122,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz90mjw",
+        "created": 1646116903122,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：691"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1ja28a",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

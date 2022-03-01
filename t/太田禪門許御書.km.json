@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "太田禪門許御書"},
+  "children": [{
+   "data": {
+    "id": "z5cYyVnars",
+    "created": 1646116900691,
+    "text": "現藏錄（日本 日蓮撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyVnarD",
+      "created": 1646116900691,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyVnarE",
+        "created": 1646116900691,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVnarF",
+        "created": 1646116900691,
+        "text": "太田禪門許御書",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyVnarG",
+        "created": 1646116900691,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVnarH",
+        "created": 1646116900691,
+        "text": "太田禅门许御书",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyVnarI",
+        "created": 1646116900691,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVnarJ",
+        "created": 1646116900691,
+        "text": "tai tian shan men xu yu shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyVnarK",
+      "created": 1646116900691,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyVnarL",
+      "created": 1646116900691,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyVnarM",
+      "created": 1646116900691,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyVnarN",
+       "created": 1646116900691,
+       "text": "日本 日蓮撰"
+      }},
+      {"data": {
+       "id": "z5cYyVnarO",
+       "created": 1646116900691,
+       "text": "日蓮",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyVnarP",
+      "created": 1646116900691,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyVnarQ",
+      "created": 1646116900691,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyVnarR",
+      "created": 1646116900691,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyVnarS",
+       "created": 1646116900691,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarT",
+       "created": 1646116900691,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarU",
+       "created": 1646116900691,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarV",
+       "created": 1646116900691,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarW",
+       "created": 1646116900691,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarX",
+       "created": 1646116900691,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarY",
+       "created": 1646116900691,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarZ",
+       "created": 1646116900691,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnara",
+       "created": 1646116900691,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarb",
+       "created": 1646116900691,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarc",
+       "created": 1646116900691,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnard",
+       "created": 1646116900691,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnare",
+       "created": 1646116900691,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarf",
+       "created": 1646116900691,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarg",
+       "created": 1646116900691,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarh",
+       "created": 1646116900691,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnari",
+       "created": 1646116900691,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarj",
+       "created": 1646116900691,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnark",
+       "created": 1646116900691,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarl",
+       "created": 1646116900691,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarm",
+       "created": 1646116900691,
+       "text": "【大正藏】No.2694《太田禪門許御書》日本 日蓮撰 部別：續諸宗部十五 / 冊數：84 / 頁數：280 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyVnarn",
+       "created": 1646116900691,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnaro",
+       "created": 1646116900691,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarp",
+       "created": 1646116900691,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarq",
+       "created": 1646116900691,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVnarr",
+       "created": 1646116900691,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2694"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1jn28g",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "獨菴獨語"},
+  "children": [{
+   "data": {
+    "id": "z5cYyRvZlE",
+    "created": 1646116900451,
+    "text": "現藏錄（日本 獨菴玄光撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyRuZkZ",
+      "created": 1646116900450,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyRuZka",
+        "created": 1646116900450,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRuZkb",
+        "created": 1646116900450,
+        "text": "獨菴獨語",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRuZkc",
+        "created": 1646116900450,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRuZkd",
+        "created": 1646116900450,
+        "text": "独庵独语",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRuZke",
+        "created": 1646116900450,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRuZkf",
+        "created": 1646116900450,
+        "text": "du an du yu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRvZkg",
+      "created": 1646116900451,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRvZkh",
+      "created": 1646116900451,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRvZki",
+      "created": 1646116900451,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRvZkj",
+       "created": 1646116900451,
+       "text": "日本 獨菴玄光撰"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkk",
+       "created": 1646116900451,
+       "text": "獨菴玄光",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRvZkl",
+      "created": 1646116900451,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRvZkm",
+      "created": 1646116900451,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRvZkn",
+      "created": 1646116900451,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRvZko",
+       "created": 1646116900451,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkp",
+       "created": 1646116900451,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkq",
+       "created": 1646116900451,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkr",
+       "created": 1646116900451,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZks",
+       "created": 1646116900451,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkt",
+       "created": 1646116900451,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZku",
+       "created": 1646116900451,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkv",
+       "created": 1646116900451,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkw",
+       "created": 1646116900451,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkx",
+       "created": 1646116900451,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZky",
+       "created": 1646116900451,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZkz",
+       "created": 1646116900451,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl0",
+       "created": 1646116900451,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl1",
+       "created": 1646116900451,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl2",
+       "created": 1646116900451,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl3",
+       "created": 1646116900451,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl4",
+       "created": 1646116900451,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl5",
+       "created": 1646116900451,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl6",
+       "created": 1646116900451,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl7",
+       "created": 1646116900451,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZl8",
+       "created": 1646116900451,
+       "text": "【大正藏】No.2597《獨菴獨語》日本 獨菴玄光撰 部別：續諸宗部十三 / 冊數：82 / 頁數：559 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyRvZl9",
+       "created": 1646116900451,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZlA",
+       "created": 1646116900451,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZlB",
+       "created": 1646116900451,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZlC",
+       "created": 1646116900451,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRvZlD",
+       "created": 1646116900451,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2597"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1cy25m",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

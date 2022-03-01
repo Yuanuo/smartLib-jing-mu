@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說一向出生菩薩經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxL7FL3",
+    "created": 1646116896185,
+    "text": "現藏錄（隋 闍那崛多譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxL7FKB",
+      "created": 1646116896185,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxL7FKC",
+        "created": 1646116896185,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxL7FKD",
+        "created": 1646116896185,
+        "text": "佛說一向出生菩薩經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxL7FKE",
+        "created": 1646116896185,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxL7FKF",
+        "created": 1646116896185,
+        "text": "佛说一向出生菩萨经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxL7FKG",
+        "created": 1646116896185,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxL7FKH",
+        "created": 1646116896185,
+        "text": "fo shuo yi xiang chu sheng pu sa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxL7FKP",
+        "created": 1646116896185,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxL7FKQ",
+        "created": 1646116896185,
+        "text": "I hsiang ch'u sheng p'u sa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxL7FKR",
+        "created": 1646116896185,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxL7FKS",
+        "created": 1646116896185,
+        "text": "Anantamukhasādhakadhāraṇī(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxL7FKT",
+        "created": 1646116896185,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxL7FKU",
+        "created": 1646116896185,
+        "text": "Sgo mthaḥ-yas-pa sgrub pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxL7FKV",
+        "created": 1646116896185,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxL7FKW",
+        "created": 1646116896185,
+        "text": "일향출생보살경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxL7FKI",
+      "created": 1646116896185,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxL7FKJ",
+      "created": 1646116896185,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxL7FKK",
+      "created": 1646116896185,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxL7FKL",
+       "created": 1646116896185,
+       "text": "隋 闍那崛多譯"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKM",
+       "created": 1646116896185,
+       "text": "闍那崛多",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxL7FKN",
+      "created": 1646116896185,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxL7FKO",
+      "created": 1646116896185,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxL7FKX",
+      "created": 1646116896185,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxL7FKY",
+      "created": 1646116896185,
+      "text": "Translation by Jñānagupta: 12th month, 5th year of K'ai Huang (開皇) (January, A.D. 586) or the 15th year of K'ai Huang (聞皇), Sui dynasty (隋) (A.D. 595) in Ta-hsing-shan Monastery (大興善寺).T. 2154-548c:21; T. 2153-395b:20."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxL7FKZ",
+     "created": 1646116896185,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxL7FKa",
+      "created": 1646116896185,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxL7FKb",
+      "created": 1646116896185,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxL7FKc",
+      "created": 1646116896185,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxL7FKd",
+       "created": 1646116896185,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKe",
+       "created": 1646116896185,
+       "text": "【開寶藏】No.331《一向出生菩薩經》隋 天竺三藏闍那崛多 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：良"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKf",
+       "created": 1646116896185,
+       "text": "【崇寧藏】No.330《一向出生菩薩經》 卷數：1 千字文：知(169)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKg",
+       "created": 1646116896185,
+       "text": "【毘盧藏】No.328《一向出生菩薩經》隋闍那崛多等譯 千字文：知(169)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKh",
+       "created": 1646116896185,
+       "text": "【圓覺藏】No.339《一向出生菩薩經》 千字文：知(169)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKi",
+       "created": 1646116896185,
+       "text": "【趙城金藏】No.331《一向出生菩薩經》 卷數：1 千字文：良"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKj",
+       "created": 1646116896185,
+       "text": "【資福藏】No.343《一向出生菩薩經》 卷數：1 千字文：知(169)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKk",
+       "created": 1646116896185,
+       "text": "【磧砂藏】No.346《佛說一向出生菩薩經》隋 闍那崛多等譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：680 / 卷數：1 千字文：知 9 (169)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKl",
+       "created": 1646116896185,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKm",
+       "created": 1646116896185,
+       "text": "【高麗藏】No.330《一向出生菩薩經》隋天竺三藏闍那崛多譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：1325 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：良"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKn",
+       "created": 1646116896185,
+       "text": "【普寧藏】No.340《佛說一向出生菩薩經》 卷數：1 千字文：知(169)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKo",
+       "created": 1646116896185,
+       "text": "【至元錄】No.593《一向出生菩薩經》隋天竺三藏闍那崛多譯 卷數：1 / 譯次：(第二譯) 千字文：善(231)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKp",
+       "created": 1646116896185,
+       "text": "【洪武南藏】No.296《佛說一向出生菩薩經》隋 北天竺三藏法師闍那崛多 譯 冊數：57 / 頁數：399 / 卷數：1 千字文：知 9 (169)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKq",
+       "created": 1646116896185,
+       "text": "【永樂南藏】No.325《佛說一向出生菩薩經》 部別：大乘經-五大部外重譯經 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKr",
+       "created": 1646116896185,
+       "text": "【永樂北藏】No.383《佛說一向出生菩薩經》隋闍那崛多譯 部別：大乘經五大部外重譯經 / 冊數：46 / 頁數：287 / 卷數：1 千字文：莫"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKs",
+       "created": 1646116896185,
+       "text": "【嘉興藏】No.354《一向出生菩薩經》隋闍那崛多譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0354 千字文 / 函號：［正藏］ 莫(175)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKt",
+       "created": 1646116896185,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKu",
+       "created": 1646116896185,
+       "text": "【乾隆藏】No.355《佛說一向出生菩薩經》隋 闍那崛多譯 部別：大乘五大部外重譯經 / 冊數：39 / 頁數：557 / 卷數：1 千字文：莫"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKv",
+       "created": 1646116896185,
+       "text": "【縮刻藏】No.1559《佛說一向出生菩薩經》隋闍那崛多譯 部別：祕密部 / 卷數：1 千字文：成 9 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKw",
+       "created": 1646116896185,
+       "text": "【卍正藏】No.359《佛說一向出生菩薩經》隋 闍那崛多譯 部別：大乘經 五大部外重譯經 / 冊數：19 / 頁數：114 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKx",
+       "created": 1646116896185,
+       "text": "【大正藏】No.1017《佛說一向出生菩薩經》隋 闍那崛多譯 部別：密教部二 / 冊數：19 / 頁數：698 / 卷數：1 相關經典：縮-成9,卍-11.1 參考資料：Nos.1009,1011-1016,1018"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKy",
+       "created": 1646116896185,
+       "text": "【佛教大藏經】No.1636《佛說一向出生菩薩經》隋 闍那崛多譯 部別：密教部六 / 冊數：57 / 頁數：445 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxL7FKz",
+       "created": 1646116896185,
+       "text": "【中華藏】No.355《佛說一向出生菩薩經》隋天竺三藏闍那崛多譯 冊數：20 / 頁數：369 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxL7FL0",
+       "created": 1646116896185,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxL7FL1",
+       "created": 1646116896185,
+       "text": "【南條文雄編號】 Nj. 0359"
+      }},
+      {"data": {
+       "id": "z5cYxL7FL2",
+       "created": 1646116896185,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1017"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy2guv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

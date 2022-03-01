@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "賢劫經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwrD6pd",
+    "created": 1646116894331,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwrD6og",
+      "created": 1646116894331,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwrD6oh",
+        "created": 1646116894331,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrD6oi",
+        "created": 1646116894331,
+        "text": "賢劫經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrD6oj",
+        "created": 1646116894331,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrD6ok",
+        "created": 1646116894331,
+        "text": "贤劫经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrD6ol",
+        "created": 1646116894331,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrD6om",
+        "created": 1646116894331,
+        "text": "xian jie jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrD6ou",
+        "created": 1646116894331,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrD6ov",
+        "created": 1646116894331,
+        "text": "Hsien chieh ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrD6ow",
+        "created": 1646116894331,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrD6ox",
+        "created": 1646116894331,
+        "text": "Bhadrakalpikasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrD6oy",
+        "created": 1646116894331,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrD6oz",
+        "created": 1646116894331,
+        "text": "Bskal-ba bzaṅ po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrD6p0",
+        "created": 1646116894331,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrD6p1",
+        "created": 1646116894331,
+        "text": "현겁경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrD6on",
+      "created": 1646116894331,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrD6oo",
+      "created": 1646116894331,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrD6op",
+      "created": 1646116894331,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrD6oq",
+       "created": 1646116894331,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwrD6or",
+       "created": 1646116894331,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrD6os",
+      "created": 1646116894331,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrD6ot",
+      "created": 1646116894331,
+      "text": "8"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrD6p2",
+      "created": 1646116894331,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrD6p3",
+      "created": 1646116894331,
+      "text": "Translation by Dharmarakṣa: 21st day, 7th month, 1st year of Yüan K'ang (元康), Western Chin dynasty (西晉) (September 1st, A.D. 291)T. 2145-7b:13. or in the 1st year of Yung K'ang (永康), Western Chin dynasty (西晉)(A.D. 300).T. 2157-792a:8."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrD6p4",
+      "created": 1646116894331,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrD6p5",
+       "created": 1646116894331,
+       "text": "【北京版】Mdo-sna-tshogs"
+      }},
+      {"data": {
+       "id": "z5cYwrD6p6",
+       "created": 1646116894331,
+       "text": "【奈塘版】Mdo (ka)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6p7",
+       "created": 1646116894331,
+       "text": "【德格版】Mdo-sde (ka)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6p8",
+       "created": 1646116894331,
+       "text": "【拉薩版】Mdo (ka)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6p9",
+       "created": 1646116894331,
+       "text": "【卓尼版】Mdo-maṅ (ka)"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrD6pA",
+      "created": 1646116894331,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrD6pB",
+      "created": 1646116894331,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrD6pC",
+      "created": 1646116894331,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrD6pD",
+       "created": 1646116894331,
+       "text": "【房山石經】No.533《賢劫經》(西晉)三藏竺法護譯 冊數：11 / 頁數：333 / 卷數：13 / 刻經年代：大安九年刻石 / 瀏覽：目錄圖檔 千字文：彼"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pE",
+       "created": 1646116894331,
+       "text": "【開寶藏】No.388《賢劫經》西晉 三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：10 千字文：罔"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pF",
+       "created": 1646116894331,
+       "text": "【崇寧藏】No.387《賢劫經》 卷數：10 千字文：談(178)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pG",
+       "created": 1646116894331,
+       "text": "【毘盧藏】No.385《賢劫經》西晉竺法護譯 參考年代：(靖康二．二) 千字文：談(178)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pH",
+       "created": 1646116894331,
+       "text": "【圓覺藏】No.396《賢劫經》 卷數：10 千字文：談(178)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pI",
+       "created": 1646116894331,
+       "text": "【趙城金藏】No.388《賢劫經》 卷數：8 千字文：罔"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pJ",
+       "created": 1646116894331,
+       "text": "【資福藏】No.400《賢劫經》 卷數：10 (一部十卷) 千字文：談(178)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pK",
+       "created": 1646116894331,
+       "text": "【磧砂藏】No.403《賢劫經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：12 / 頁數：350 / 卷數：10 千字文：談 1 (178)-談 10 (178)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pL",
+       "created": 1646116894331,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pM",
+       "created": 1646116894331,
+       "text": "【高麗藏】No.387《賢劫經》西晉月氏三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：700 / 卷數：8 / 連結：高麗大藏經 (圖檔) 千字文：罔"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pN",
+       "created": 1646116894331,
+       "text": "【普寧藏】No.397《賢劫經》 卷數：10 千字文：談(178)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pO",
+       "created": 1646116894331,
+       "text": "【至元錄】No.397《賢劫經》西晉三藏竺法護譯 梵名：阿唎(二合)亞　巴底囉　迦囉(二合)鞞迦拏　麻麻訶衍拏　蘇怛囉(二合) / 卷數：13 / 譯次：(第一譯闕第二) 千字文：靡(181)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pP",
+       "created": 1646116894331,
+       "text": "【洪武南藏】No.353《賢劫經》西晉 三藏竺法護 譯 冊數：60-61 / 頁數：446 / 卷數：10 千字文：談 1 (178)-談 10 (178)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pQ",
+       "created": 1646116894331,
+       "text": "【永樂南藏】No.392《賢劫經》 部別：大乘經-五大部外重譯經 千字文：恃(182)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pR",
+       "created": 1646116894331,
+       "text": "【永樂北藏】No.427《賢劫經》西晉竺法護譯 部別：大乘經單經譯 / 冊數：48 / 頁數：139 / 卷數：10 千字文：恃"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pS",
+       "created": 1646116894331,
+       "text": "【嘉興藏】No.398《賢劫經》西晉竺法護譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0398 千字文 / 函號：［正藏］ 恃(182)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pT",
+       "created": 1646116894331,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pU",
+       "created": 1646116894331,
+       "text": "【乾隆藏】No.399《賢劫經》西晉 竺法護譯 部別：大乘單譯經 / 冊數：41 / 頁數：97 / 卷數：10 千字文：恃"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pV",
+       "created": 1646116894331,
+       "text": "【縮刻藏】No.125《賢劫經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：8 千字文：黃 4 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pW",
+       "created": 1646116894331,
+       "text": "【卍正藏】No.404《賢劫經》西晉 竺法護譯 部別：大乘經 單譯經 / 冊數：19 / 頁數：818 / 卷數：8 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pX",
+       "created": 1646116894331,
+       "text": "【大正藏】No.425《賢劫經》西晉 竺法護譯 部別：經集部一 / 冊數：14 / 頁數：1 / 卷數：8 相關經典：縮-黃4,卍-11.5,國-經1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwrD6pY",
+       "created": 1646116894331,
+       "text": "【佛教大藏經】No.127《賢劫經》西晉 竺法護譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：595 / 卷數：8"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pZ",
+       "created": 1646116894331,
+       "text": "【中華藏】No.413《賢劫經》西晉月氏三藏竺法護譯 冊數：21 / 頁數：331 / 卷數：8 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pa",
+       "created": 1646116894331,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pb",
+       "created": 1646116894331,
+       "text": "【南條文雄編號】 Nj. 0403"
+      }},
+      {"data": {
+       "id": "z5cYwrD6pc",
+       "created": 1646116894331,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：425"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwmydm",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

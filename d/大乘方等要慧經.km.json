@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說大乘方等要慧經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwmW5aO",
+    "created": 1646116894040,
+    "text": "現藏錄（後漢 安世高譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwmV5ZR",
+      "created": 1646116894039,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwmV5ZS",
+        "created": 1646116894039,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmV5ZT",
+        "created": 1646116894039,
+        "text": "佛說大乘方等要慧經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmV5ZU",
+        "created": 1646116894039,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmV5ZV",
+        "created": 1646116894039,
+        "text": "佛说大乘方等要慧经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmV5ZW",
+        "created": 1646116894039,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmV5ZX",
+        "created": 1646116894039,
+        "text": "fo shuo da cheng fang deng yao hui jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmV5Zf",
+        "created": 1646116894039,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmV5Zg",
+        "created": 1646116894039,
+        "text": "Ta ch'eng fang teng yao hui ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmV5Zh",
+        "created": 1646116894039,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmV5Zi",
+        "created": 1646116894039,
+        "text": "Maitreyaparipṛcchādharmāṣṭa(ka)(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmV5Zj",
+        "created": 1646116894039,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmV5Zk",
+        "created": 1646116894039,
+        "text": "Byams-pas shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmV5Zl",
+        "created": 1646116894039,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmV5Zm",
+        "created": 1646116894039,
+        "text": "대승방등요혜경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmV5ZY",
+      "created": 1646116894039,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmV5ZZ",
+      "created": 1646116894039,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmV5Za",
+      "created": 1646116894039,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmV5Zb",
+       "created": 1646116894039,
+       "text": "後漢 安世高譯"
+      }},
+      {"data": {
+       "id": "z5cYwmV5Zc",
+       "created": 1646116894039,
+       "text": "安世高",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmV5Zd",
+      "created": 1646116894039,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmV5Ze",
+      "created": 1646116894039,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmV5Zn",
+      "created": 1646116894039,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmV5Zo",
+      "created": 1646116894039,
+      "text": "Translation by An Shih-kao: between the 2nd year of Chien Ho (建和) and the 3rd year of Chien Ning (建寧), Later Han dynasty (後漢) (A.D. 148-170).T.2151-349a:12."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmV5Zp",
+      "created": 1646116894039,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmV5Zq",
+       "created": 1646116894039,
+       "text": "【北京版】Dkon-brtsegs (ḥi)84a-97a"
+      }},
+      {"data": {
+       "id": "z5cYwmV5Zr",
+       "created": 1646116894039,
+       "text": "【奈塘版】Dkon-brtsegs (cha)185b-203a"
+      }},
+      {"data": {
+       "id": "z5cYwmV5Zs",
+       "created": 1646116894039,
+       "text": "【德格版】Dkon-brtsegs (cha)104b-116b"
+      }},
+      {"data": {
+       "id": "z5cYwmV5Zt",
+       "created": 1646116894039,
+       "text": "【拉薩版】Dkon-brtsegs (cha)189a-207a"
+      }},
+      {"data": {
+       "id": "z5cYwmV5Zu",
+       "created": 1646116894039,
+       "text": "【卓尼版】Dkon-brtsegs (cha)110b-123a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmV5Zv",
+      "created": 1646116894039,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmV5Zw",
+      "created": 1646116894039,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmV5Zx",
+      "created": 1646116894039,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmV5Zy",
+       "created": 1646116894039,
+       "text": "【房山石經】No.376《佛說大乘方等要慧經》(后漢)安息三藏安世高譯 冊數：9 / 頁數：154 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：位"
+      }},
+      {"data": {
+       "id": "z5cYwmV5Zz",
+       "created": 1646116894039,
+       "text": "【開寶藏】No.52《要慧經》後漢 安息三藏安世高 譯 部別：大乘經 寶積部 / 卷數：1 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a0",
+       "created": 1646116894039,
+       "text": "【崇寧藏】No.51《佛說大乘方等要慧經》 卷數：1 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a1",
+       "created": 1646116894039,
+       "text": "【毘盧藏】No.47《大乘方等要慧經》後漢安世高譯 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a2",
+       "created": 1646116894039,
+       "text": "【圓覺藏】No.48《大乘方等要慧經》 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a3",
+       "created": 1646116894039,
+       "text": "【趙城金藏】No.50《大乘方等要慧經》 卷數：1 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a4",
+       "created": 1646116894039,
+       "text": "【資福藏】No.56《佛說大乘方等要慧經》 卷數：1 (一卷) 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a5",
+       "created": 1646116894039,
+       "text": "【磧砂藏】No.51《佛說大乘方等要慧經》後漢 安世高譯 部別：寶積部 / 冊數：6 / 頁數：433 / 卷數：1 千字文：推 5 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a6",
+       "created": 1646116894039,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a7",
+       "created": 1646116894039,
+       "text": "【高麗藏】No.50《大乘方等要慧經》後漢安息國三藏安世高譯 部別：大乘經 寶積部 / 冊數：6 頁數：1337 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a8",
+       "created": 1646116894039,
+       "text": "【普寧藏】No.48《佛說大乘方等要慧經》 卷數：1 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5a9",
+       "created": 1646116894039,
+       "text": "【至元錄】No.118《大乘方等要慧經》後漢安息三藏安世高譯 卷數：1 / 譯次：(第一譯) 千字文：有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aA",
+       "created": 1646116894039,
+       "text": "【洪武南藏】No.47《佛說大乘方等要慧經》後漢 安息三藏安世高 譯 冊數：32 / 頁數：197 / 卷數：1 千字文：推 5 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aB",
+       "created": 1646116894039,
+       "text": "【永樂南藏】No.48《大乘方等要慧經》 部別：大乘經-寶積部 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aC",
+       "created": 1646116894039,
+       "text": "【永樂北藏】No.68《佛說大乘方等要慧經》後漢安世高譯 部別：大乘經寶積部 / 冊數：23 / 頁數：105 / 卷數：1 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aD",
+       "created": 1646116894039,
+       "text": "【嘉興藏】No.50《大乘方等要慧經》後漢安世高譯 部別：大乘經-寶積部 / 法寶總目錄經號：0050 千字文 / 函號：［正藏］ 推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aE",
+       "created": 1646116894039,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aF",
+       "created": 1646116894039,
+       "text": "【乾隆藏】No.50《佛說大乘方等要慧經》後漢 安世高譯 部別：大乘寶積部 / 冊數：20 / 頁數：451 / 卷數：1 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aG",
+       "created": 1646116894039,
+       "text": "【縮刻藏】No.70《佛說大乘方等要慧經》後漢安世高譯 部別：大乘經-方等部 / 卷數：1 千字文：地 12 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aH",
+       "created": 1646116894039,
+       "text": "【卍正藏】No.54《佛說大乘方等要慧經》後漢 安世高譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：794 / 卷數：1 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aI",
+       "created": 1646116894039,
+       "text": "【大正藏】No.348《佛說大乘方等要慧經》後漢 安世高譯 部別：寶積部下 / 冊數：12 / 頁數：186 / 卷數：1 相關經典：縮-地12,卍-6.5 參考資料：No.310(41)"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aJ",
+       "created": 1646116894039,
+       "text": "【佛教大藏經】No.70《佛說大乘方等要慧經》後漢 安世高譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：897 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwmV5aK",
+       "created": 1646116894039,
+       "text": "【中華藏】No.54《佛說大乘方等要慧經》後漢安息國三藏安世高譯 冊數：9 / 頁數：973 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwmW5aL",
+       "created": 1646116894040,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmW5aM",
+       "created": 1646116894040,
+       "text": "【南條文雄編號】 Nj. 0054"
+      }},
+      {"data": {
+       "id": "z5cYwmW5aN",
+       "created": 1646116894040,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：348"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhweub5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "高雄口訣"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLQYK6",
+    "created": 1646116900048,
+    "text": "現藏錄（日本 真濟撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLQYJR",
+      "created": 1646116900048,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLQYJS",
+        "created": 1646116900048,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLQYJT",
+        "created": 1646116900048,
+        "text": "高雄口訣",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLQYJU",
+        "created": 1646116900048,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLQYJV",
+        "created": 1646116900048,
+        "text": "高雄口诀",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLQYJW",
+        "created": 1646116900048,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLQYJX",
+        "created": 1646116900048,
+        "text": "gao xiong kou jue"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLQYJY",
+      "created": 1646116900048,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLQYJZ",
+      "created": 1646116900048,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLQYJa",
+      "created": 1646116900048,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLQYJb",
+       "created": 1646116900048,
+       "text": "日本 真濟撰"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJc",
+       "created": 1646116900048,
+       "text": "真濟",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLQYJd",
+      "created": 1646116900048,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLQYJe",
+      "created": 1646116900048,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLQYJf",
+      "created": 1646116900048,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLQYJg",
+       "created": 1646116900048,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJh",
+       "created": 1646116900048,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJi",
+       "created": 1646116900048,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJj",
+       "created": 1646116900048,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJk",
+       "created": 1646116900048,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJl",
+       "created": 1646116900048,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJm",
+       "created": 1646116900048,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJn",
+       "created": 1646116900048,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJo",
+       "created": 1646116900048,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJp",
+       "created": 1646116900048,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJq",
+       "created": 1646116900048,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJr",
+       "created": 1646116900048,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJs",
+       "created": 1646116900048,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJt",
+       "created": 1646116900048,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJu",
+       "created": 1646116900048,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJv",
+       "created": 1646116900048,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJw",
+       "created": 1646116900048,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJx",
+       "created": 1646116900048,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJy",
+       "created": 1646116900048,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYJz",
+       "created": 1646116900048,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYK0",
+       "created": 1646116900048,
+       "text": "【大正藏】No.2466《高雄口訣》日本 真濟撰 部別：續諸宗部九 / 冊數：78 / 頁數：32 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLQYK1",
+       "created": 1646116900048,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYK2",
+       "created": 1646116900048,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYK3",
+       "created": 1646116900048,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYK4",
+       "created": 1646116900048,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLQYK5",
+       "created": 1646116900048,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2466"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri11s21z",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

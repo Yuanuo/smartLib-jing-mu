@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "溫室經義記"},
+  "children": [{
+   "data": {
+    "id": "z5cYxvkQ6x",
+    "created": 1646116898456,
+    "text": "現藏錄（隋 慧遠撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxvkQ6I",
+      "created": 1646116898456,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxvkQ6J",
+        "created": 1646116898456,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvkQ6K",
+        "created": 1646116898456,
+        "text": "溫室經義記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxvkQ6L",
+        "created": 1646116898456,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvkQ6M",
+        "created": 1646116898456,
+        "text": "温室经义记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxvkQ6N",
+        "created": 1646116898456,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvkQ6O",
+        "created": 1646116898456,
+        "text": "wen shi jing yi ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxvkQ6P",
+      "created": 1646116898456,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxvkQ6Q",
+      "created": 1646116898456,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxvkQ6R",
+      "created": 1646116898456,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxvkQ6S",
+       "created": 1646116898456,
+       "text": "隋 慧遠撰"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6T",
+       "created": 1646116898456,
+       "text": "慧遠",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxvkQ6U",
+      "created": 1646116898456,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxvkQ6V",
+      "created": 1646116898456,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxvkQ6W",
+      "created": 1646116898456,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxvkQ6X",
+       "created": 1646116898456,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6Y",
+       "created": 1646116898456,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6Z",
+       "created": 1646116898456,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6a",
+       "created": 1646116898456,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6b",
+       "created": 1646116898456,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6c",
+       "created": 1646116898456,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6d",
+       "created": 1646116898456,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6e",
+       "created": 1646116898456,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6f",
+       "created": 1646116898456,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6g",
+       "created": 1646116898456,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6h",
+       "created": 1646116898456,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6i",
+       "created": 1646116898456,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6j",
+       "created": 1646116898456,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6k",
+       "created": 1646116898456,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6l",
+       "created": 1646116898456,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6m",
+       "created": 1646116898456,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6n",
+       "created": 1646116898456,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6o",
+       "created": 1646116898456,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6p",
+       "created": 1646116898456,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6q",
+       "created": 1646116898456,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6r",
+       "created": 1646116898456,
+       "text": "【大正藏】No.1793《溫室經義記》隋 慧遠撰 部別：經疏部七 / 冊數：39 / 頁數：512 / 卷數：1 相關經典：續-1.59.1 參考資料：cf.No.701"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6s",
+       "created": 1646116898456,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6t",
+       "created": 1646116898456,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6u",
+       "created": 1646116898456,
+       "text": "【新纂卍續藏】No.667《溫室經義記》隋 慧遠撰 部別：中國撰述 大小乘釋經部三十五 小乘經並聖賢集疏 / 冊數：37 / 頁數：647 / 卷數：1 《卍大日本續藏經》套數：第一編．第 59 套 《卍續藏經》(新文豐版)冊數：第 59 冊"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6v",
+       "created": 1646116898456,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvkQ6w",
+       "created": 1646116898456,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1793"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhztk1hn",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

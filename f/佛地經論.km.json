@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "佛地經論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxjcMXO",
+    "created": 1646116897704,
+    "text": "現藏錄（親光菩薩等造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxjcMWV",
+      "created": 1646116897704,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxjcMWW",
+        "created": 1646116897704,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjcMWX",
+        "created": 1646116897704,
+        "text": "佛地經論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjcMWY",
+        "created": 1646116897704,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjcMWZ",
+        "created": 1646116897704,
+        "text": "佛地经论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjcMWa",
+        "created": 1646116897704,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjcMWb",
+        "created": 1646116897704,
+        "text": "fo di jing lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjcMWk",
+        "created": 1646116897704,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjcMWl",
+        "created": 1646116897704,
+        "text": "Fo ti ching lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjcMWm",
+        "created": 1646116897704,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjcMWn",
+        "created": 1646116897704,
+        "text": "Buddhabhūmisūtraśāstra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjcMWo",
+        "created": 1646116897704,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjcMWp",
+        "created": 1646116897704,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjcMWq",
+        "created": 1646116897704,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjcMWr",
+        "created": 1646116897704,
+        "text": "불지경론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxjcMWc",
+      "created": 1646116897704,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjcMWd",
+      "created": 1646116897704,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxjcMWe",
+      "created": 1646116897704,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxjcMWf",
+       "created": 1646116897704,
+       "text": "親光菩薩等造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxjcMWg",
+       "created": 1646116897704,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxjcMWh",
+       "created": 1646116897704,
+       "text": "親光",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxjcMWi",
+      "created": 1646116897704,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjcMWj",
+      "created": 1646116897704,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxjcMWs",
+      "created": 1646116897704,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjcMWt",
+      "created": 1646116897704,
+      "text": "Translation by Hsüan-tsang: begun on the 3rd day, 10th month, 23rd year of Cheng Kuan (貞觀) and completed on the 24th day, 11th month, 24th year of Cheng Kuan (貞觀), T'ang dynasty (唐) (November 12th, A.D. 649-January 2nd, A.D. 650).T. 2154-556b:5."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxjcMWu",
+     "created": 1646116897704,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxjcMWv",
+      "created": 1646116897704,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjcMWw",
+      "created": 1646116897704,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxjcMWx",
+      "created": 1646116897704,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxjcMWy",
+       "created": 1646116897704,
+       "text": "【房山石經】No.70《佛地經論》親光菩薩造　沙門玄奘奉詔譯 冊數：2 / 頁數：477 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.702《佛地經論》親光等菩薩造　(唐)三藏法師玄奘奉詔譯 冊數：17 / 頁數：258 / 卷數：7 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：虛"
+      }},
+      {"data": {
+       "id": "z5cYxjcMWz",
+       "created": 1646116897704,
+       "text": "【開寶藏】No.553《佛地經論》唐 三藏玄奘 譯 部別：大乘論 菩薩對法藏--釋經論 / 卷數：7 千字文：傳"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX0",
+       "created": 1646116897704,
+       "text": "【崇寧藏】No.556《佛地經論》 卷數：7 千字文：聲(220)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX1",
+       "created": 1646116897704,
+       "text": "【毘盧藏】No.554《佛地經論》唐三藏玄奘譯 參考年代：(建炎二．一一) 千字文：聲(220)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX2",
+       "created": 1646116897704,
+       "text": "【圓覺藏】No.566《佛地經論》 卷數：7 千字文：聲(220)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX3",
+       "created": 1646116897704,
+       "text": "【趙城金藏】No.555《佛地經論》 卷數：7 千字文：傳"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX4",
+       "created": 1646116897704,
+       "text": "【資福藏】No.571《佛地經論》 卷數：7 (七卷) 千字文：聲(220)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX5",
+       "created": 1646116897704,
+       "text": "【磧砂藏】No.572《佛地經論》唐 玄奘譯 部別：釋經論 / 冊數：15 / 頁數：1 / 卷數：7 千字文：聲 1 (220)-聲 7 (220)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX6",
+       "created": 1646116897704,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX7",
+       "created": 1646116897704,
+       "text": "【高麗藏】No.554《佛地經論》親光菩薩等造-大唐三藏法師玄奘譯 部別：大乘論 釋經論 / 冊數：15 頁數：228(原版) 347(新文豐) / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：傳"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX8",
+       "created": 1646116897704,
+       "text": "【普寧藏】No.565《佛地經論》 卷數：7 千字文：聲(220)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMX9",
+       "created": 1646116897704,
+       "text": "【至元錄】No.1281《佛地經論》親光等菩薩造　唐三藏玄奘譯 梵名：晡怛　布麻　蘇怛囉(二合)沙悉特囉(二合) / 卷數：7 / 出處：(出內典錄) 千字文：縻(408)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXA",
+       "created": 1646116897704,
+       "text": "【洪武南藏】No.503《佛地經論》親光 等菩薩造　大唐 三藏法師玄奘 奉詔譯　 冊數：75-76 / 頁數：459 / 卷數：7 千字文：聲 1 (220)-聲 7 (220)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXB",
+       "created": 1646116897704,
+       "text": "【永樂南藏】No.1312《佛地經論》 部別：大乘論 千字文：次(374)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXC",
+       "created": 1646116897704,
+       "text": "【永樂北藏】No.1241《佛地經論》唐玄奘譯 部別：大乘論 / 冊數：103 / 頁數：1 / 卷數：7 千字文：節"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXD",
+       "created": 1646116897704,
+       "text": "【嘉興藏】No.1187《佛地經論》唐玄奘譯 部別：大乘論 / 法寶總目錄經號：1186 千字文 / 函號：［正藏］ 節(377)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXE",
+       "created": 1646116897704,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXF",
+       "created": 1646116897704,
+       "text": "【乾隆藏】No.1188《佛地經論》唐 玄奘譯 部別：大乘論 / 冊數：84 / 頁數：477 / 卷數：7 千字文：節"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXG",
+       "created": 1646116897704,
+       "text": "【縮刻藏】No.973《佛地經論》親光菩薩等造　唐玄奘譯 部別：印度大乘釋經論 / 卷數：7 千字文：暑 11 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXH",
+       "created": 1646116897704,
+       "text": "【卍正藏】No.1203《佛地經論》大唐 玄奘譯 部別：大乘論 / 冊數：40 / 頁數：752 / 卷數：7 原版套數：第 21 套"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXI",
+       "created": 1646116897704,
+       "text": "【大正藏】No.1530《佛地經論》親光菩薩等造 唐 玄奘譯 部別：釋經論部下 / 冊數：26 / 頁數：291 / 卷數：7 相關經典：縮-暑11,卍-21.9 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxjcMXJ",
+       "created": 1646116897704,
+       "text": "【佛教大藏經】No.1016《佛地經論》唐 玄奘譯 部別：大乘釋經論 論部四 / 冊數：38 / 頁數：888 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXK",
+       "created": 1646116897704,
+       "text": "【中華藏】No.602《佛地經論》親光菩薩先進造，大唐三藏法師玄奘奉詔譯 冊數：27 / 頁數：1 / 卷數：7 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXL",
+       "created": 1646116897704,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXM",
+       "created": 1646116897704,
+       "text": "【南條文雄編號】 Nj. 1195"
+      }},
+      {"data": {
+       "id": "z5cYxjcMXN",
+       "created": 1646116897704,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1530"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz8o1a4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

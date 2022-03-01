@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "金剛經郢說"},
+  "children": [{
+   "data": {
+    "id": "z5cYz2fkk9",
+    "created": 1646116902729,
+    "text": "現藏錄（清 徐發詮次）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYz2fkjV",
+      "created": 1646116902729,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYz2fkjW",
+        "created": 1646116902729,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz2fkjX",
+        "created": 1646116902729,
+        "text": "金剛經郢說",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz2fkjY",
+        "created": 1646116902729,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz2fkjZ",
+        "created": 1646116902729,
+        "text": "金刚经郢说",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz2fkja",
+        "created": 1646116902729,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYz2fkjb",
+        "created": 1646116902729,
+        "text": "jin gang jing ying shuo"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYz2fkjc",
+      "created": 1646116902729,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYz2fkjd",
+      "created": 1646116902729,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz2fkje",
+      "created": 1646116902729,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYz2fkjf",
+      "created": 1646116902729,
+      "text": "清 徐發詮次"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz2fkjg",
+      "created": 1646116902729,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYz2fkjh",
+      "created": 1646116902729,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz2fkji",
+      "created": 1646116902729,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYz2fkjj",
+       "created": 1646116902729,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjk",
+       "created": 1646116902729,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjl",
+       "created": 1646116902729,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjm",
+       "created": 1646116902729,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjn",
+       "created": 1646116902729,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjo",
+       "created": 1646116902729,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjp",
+       "created": 1646116902729,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjq",
+       "created": 1646116902729,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjr",
+       "created": 1646116902729,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjs",
+       "created": 1646116902729,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjt",
+       "created": 1646116902729,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkju",
+       "created": 1646116902729,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjv",
+       "created": 1646116902729,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjw",
+       "created": 1646116902729,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjx",
+       "created": 1646116902729,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjy",
+       "created": 1646116902729,
+       "text": "【嘉興藏】No.1919《金剛經郢說》 部別：又續藏 / 法寶總目錄經號：1918 千字文 / 函號：［又續藏］ 11 函"
+      }},
+      {"data": {
+       "id": "z5cYz2fkjz",
+       "created": 1646116902729,
+       "text": "【嘉興藏新文豐版】［續藏］No.289《金剛經郢說》清 徐發詮次 冊數：33 / 頁數：585 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk0",
+       "created": 1646116902729,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk1",
+       "created": 1646116902729,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk2",
+       "created": 1646116902729,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk3",
+       "created": 1646116902729,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk4",
+       "created": 1646116902729,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk5",
+       "created": 1646116902729,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk6",
+       "created": 1646116902729,
+       "text": "【新纂卍續藏】No.488《金剛經郢說》清 徐發詮次 部別：中國撰述 大小乘釋經部二十三 般若部疏 / 冊數：25 / 頁數：282 / 卷數：1 《卍大日本續藏經》套數：第一編．第 39 套 《卍續藏經》(新文豐版)冊數：第 39 冊"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk7",
+       "created": 1646116902729,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz2fkk8",
+       "created": 1646116902729,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：435"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3482yd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

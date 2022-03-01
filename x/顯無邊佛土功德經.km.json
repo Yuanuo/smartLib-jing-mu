@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "顯無邊佛土功德經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwhP4Ex",
+    "created": 1646116893723,
+    "text": "現藏錄（唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwhO4E0",
+      "created": 1646116893722,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwhO4E1",
+        "created": 1646116893722,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhO4E2",
+        "created": 1646116893722,
+        "text": "顯無邊佛土功德經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhO4E3",
+        "created": 1646116893722,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhO4E4",
+        "created": 1646116893722,
+        "text": "显无边佛土功德经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhO4E5",
+        "created": 1646116893722,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhO4E6",
+        "created": 1646116893722,
+        "text": "xian wu bian fo tu gong de jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhP4EE",
+        "created": 1646116893723,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhP4EF",
+        "created": 1646116893723,
+        "text": "Hsien wu pien fo t'u kung te ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhP4EG",
+        "created": 1646116893723,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhP4EH",
+        "created": 1646116893723,
+        "text": "Tathāgatānāṃ Buddhakṣetraguṇoktadharmaparyāya(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhP4EI",
+        "created": 1646116893723,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhP4EJ",
+        "created": 1646116893723,
+        "text": "De-bshin-gśegs-pa rnams-kyi saṅs-rgyas-kyi shiṅ-gi yon-tan brjod-paḥi chos-kyi-rnam-graṅs"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhP4EK",
+        "created": 1646116893723,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhP4EL",
+        "created": 1646116893723,
+        "text": "현무변불토공덕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhO4E7",
+      "created": 1646116893722,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhO4E8",
+      "created": 1646116893722,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhO4E9",
+      "created": 1646116893722,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhO4EA",
+       "created": 1646116893722,
+       "text": "唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYwhP4EB",
+       "created": 1646116893723,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhP4EC",
+      "created": 1646116893723,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhP4ED",
+      "created": 1646116893723,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhP4EM",
+      "created": 1646116893723,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhP4EN",
+      "created": 1646116893723,
+      "text": "Translation by Hsüan-tsang: 28th day, 9th month, 5th year of Yung Hui (永徽), T'ang dynasty (唐) (Nov. 12th, A.D. 654) in Ta-tz'u-en Monastery (大慈恩寺).T. 2154-555c:9."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhP4EO",
+      "created": 1646116893723,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhP4EP",
+       "created": 1646116893723,
+       "text": "【北京版】Mdo-sna-tshogs (gu)310b-312a"
+      }},
+      {"data": {
+       "id": "z5cYwhP4EQ",
+       "created": 1646116893723,
+       "text": "【奈塘版】Mdo (ṅa)438b-441a"
+      }},
+      {"data": {
+       "id": "z5cYwhP4ER",
+       "created": 1646116893723,
+       "text": "【德格版】Mdo-sde (ṅa)285b-286d"
+      }},
+      {"data": {
+       "id": "z5cYwhP4ES",
+       "created": 1646116893723,
+       "text": "【拉薩版】Mdo (ṅa)442b-444b"
+      }},
+      {"data": {
+       "id": "z5cYwhP4ET",
+       "created": 1646116893723,
+       "text": "【卓尼版】Mdo-maṅ (ṅa)349a-351a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhP4EU",
+      "created": 1646116893723,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhP4EV",
+      "created": 1646116893723,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhP4EW",
+      "created": 1646116893723,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhP4EX",
+       "created": 1646116893723,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4EY",
+       "created": 1646116893723,
+       "text": "【開寶藏】No.102《顯無邊佛土功德經》唐 三藏法師玄奘 譯 部別：大乘經 華嚴部 / 卷數：1 千字文：戎"
+      }},
+      {"data": {
+       "id": "z5cYwhP4EZ",
+       "created": 1646116893723,
+       "text": "【崇寧藏】No.101《顯無邊佛土功德經》 卷數：1 千字文：(120)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ea",
+       "created": 1646116893723,
+       "text": "【毘盧藏】No.97《顯無邊佛土功德經》大唐玄奘譯 參考年代：(元豊八．五) 千字文：羗(120)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Eb",
+       "created": 1646116893723,
+       "text": "【圓覺藏】No.98《顯無邊佛土功德經》 千字文：羌(120)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ec",
+       "created": 1646116893723,
+       "text": "【趙城金藏】No.101《顯無邊佛土功德經》 卷數：1 千字文：戎"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ed",
+       "created": 1646116893723,
+       "text": "【資福藏】No.102《顯無邊佛土功德經》 卷數：1 千字文：羌(120)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ee",
+       "created": 1646116893723,
+       "text": "【磧砂藏】No.99《顯無邊佛土功德經》唐 玄奘譯 部別：華嚴部 / 冊數：8 / 頁數：417 / 卷數：1 千字文：羌 6 (120)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ef",
+       "created": 1646116893723,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Eg",
+       "created": 1646116893723,
+       "text": "【高麗藏】No.101《顯無邊佛土功德經》大唐三藏法師玄奘譯 部別：大乘經 華嚴部 / 冊數：8 頁數：1239 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：戎"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Eh",
+       "created": 1646116893723,
+       "text": "【普寧藏】No.99《顯無邊佛土功德經》 卷數：1 千字文：羌(120)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ei",
+       "created": 1646116893723,
+       "text": "【至元錄】No.174《顯無邊佛土功德經》唐三藏玄奘譯 卷數：1 / 出處：(出內典錄) 千字文：歸(127)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ej",
+       "created": 1646116893723,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ek",
+       "created": 1646116893723,
+       "text": "【永樂南藏】No.100《顯無邊佛土功德經》 部別：大乘經-華嚴部 千字文：壹(123)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4El",
+       "created": 1646116893723,
+       "text": "【永樂北藏】No.115《顯無邊佛土功德經》唐玄奘譯 部別：大乘經華嚴部 / 冊數：31 / 頁數：795 / 卷數：1 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Em",
+       "created": 1646116893723,
+       "text": "【嘉興藏】No.91《顯無邊功德經》唐玄奘譯 部別：大乘經-華嚴部 / 法寶總目錄經號：0091 千字文 / 函號：［正藏］ 壹(123)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4En",
+       "created": 1646116893723,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Eo",
+       "created": 1646116893723,
+       "text": "【乾隆藏】No.91《顯無邊佛土功德經》唐 玄奘譯 部別：大乘華嚴部 / 冊數：27 / 頁數：649 / 卷數：1 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ep",
+       "created": 1646116893723,
+       "text": "【縮刻藏】No.12《顯無邊佛土功德經》唐玄奘譯 部別：大乘經-華嚴部 / 卷數：1 千字文：天 10 (1)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Eq",
+       "created": 1646116893723,
+       "text": "【卍正藏】No.94《顯無邊佛土功德經》大唐 玄奘譯 部別：大乘經 華嚴部 / 冊數：13 / 頁數：281 / 卷數：1 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Er",
+       "created": 1646116893723,
+       "text": "【大正藏】No.289《顯無邊佛土功德經》唐 玄奘譯 部別：華嚴部下 / 冊數：10 / 頁數：591 / 卷數：1 相關經典：縮-天10,卍-8.2 參考資料：Nos.278(26),279(31),290"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Es",
+       "created": 1646116893723,
+       "text": "【佛教大藏經】No.12《顯無邊佛土功德經》唐 玄奘譯 部別：大乘經 華嚴部二 / 冊數：2 / 頁數：784 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Et",
+       "created": 1646116893723,
+       "text": "【中華藏】No.108《顯無邊佛土功德經》大唐三藏法師玄奘譯 冊數：13 / 頁數：825 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Eu",
+       "created": 1646116893723,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ev",
+       "created": 1646116893723,
+       "text": "【南條文雄編號】 Nj. 0095"
+      }},
+      {"data": {
+       "id": "z5cYwhP4Ew",
+       "created": 1646116893723,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：289"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw618b",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

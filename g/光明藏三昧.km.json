@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "光明藏三昧"},
+  "children": [{
+   "data": {
+    "id": "z5cYyROZgO",
+    "created": 1646116900418,
+    "text": "現藏錄（日本 孤雲懷奘記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyRNZfj",
+      "created": 1646116900417,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyRNZfk",
+        "created": 1646116900417,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRNZfl",
+        "created": 1646116900417,
+        "text": "光明藏三昧",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRNZfm",
+        "created": 1646116900417,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRNZfn",
+        "created": 1646116900417,
+        "text": "光明藏三昧"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRNZfo",
+        "created": 1646116900417,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRNZfp",
+        "created": 1646116900417,
+        "text": "guang ming cang san mei"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRNZfq",
+      "created": 1646116900417,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRNZfr",
+      "created": 1646116900417,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRNZfs",
+      "created": 1646116900417,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRNZft",
+       "created": 1646116900417,
+       "text": "日本 孤雲懷奘記"
+      }},
+      {"data": {
+       "id": "z5cYyRNZfu",
+       "created": 1646116900417,
+       "text": "孤雲懷奘",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRNZfv",
+      "created": 1646116900417,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRNZfw",
+      "created": 1646116900417,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRNZfx",
+      "created": 1646116900417,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRNZfy",
+       "created": 1646116900417,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZfz",
+       "created": 1646116900417,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg0",
+       "created": 1646116900417,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg1",
+       "created": 1646116900417,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg2",
+       "created": 1646116900417,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg3",
+       "created": 1646116900417,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg4",
+       "created": 1646116900417,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg5",
+       "created": 1646116900417,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg6",
+       "created": 1646116900417,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg7",
+       "created": 1646116900417,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg8",
+       "created": 1646116900417,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZg9",
+       "created": 1646116900417,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgA",
+       "created": 1646116900417,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgB",
+       "created": 1646116900417,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgC",
+       "created": 1646116900417,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgD",
+       "created": 1646116900417,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgE",
+       "created": 1646116900417,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgF",
+       "created": 1646116900417,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgG",
+       "created": 1646116900417,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgH",
+       "created": 1646116900417,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgI",
+       "created": 1646116900417,
+       "text": "【大正藏】No.2590《光明藏三昧》日本 孤雲懷奘記 部別：續諸宗部十三 / 冊數：82 / 頁數：453 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyRNZgJ",
+       "created": 1646116900417,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgK",
+       "created": 1646116900417,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgL",
+       "created": 1646116900417,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgM",
+       "created": 1646116900417,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRNZgN",
+       "created": 1646116900417,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2590"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1c125f",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

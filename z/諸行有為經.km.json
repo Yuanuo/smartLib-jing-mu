@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說諸行有為經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx8HBgh",
+    "created": 1646116895389,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx8GBfk",
+      "created": 1646116895388,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx8GBfl",
+        "created": 1646116895388,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8GBfm",
+        "created": 1646116895388,
+        "text": "佛說諸行有為經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8GBfn",
+        "created": 1646116895388,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8GBfo",
+        "created": 1646116895388,
+        "text": "佛说诸行有为经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8GBfp",
+        "created": 1646116895388,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8GBfq",
+        "created": 1646116895388,
+        "text": "fo shuo zhu xing you wei jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8GBfy",
+        "created": 1646116895388,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8GBfz",
+        "created": 1646116895388,
+        "text": "Chu hsing yu wei ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8GBg0",
+        "created": 1646116895388,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8GBg1",
+        "created": 1646116895388,
+        "text": "Anityatāsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8GBg2",
+        "created": 1646116895388,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8GBg3",
+        "created": 1646116895388,
+        "text": "Mi-rtag-pa-ñid-kyi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8GBg4",
+        "created": 1646116895388,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8GBg5",
+        "created": 1646116895388,
+        "text": "제행유위경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx8GBfr",
+      "created": 1646116895388,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8GBfs",
+      "created": 1646116895388,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx8GBft",
+      "created": 1646116895388,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx8GBfu",
+       "created": 1646116895388,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYx8GBfv",
+       "created": 1646116895388,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx8GBfw",
+      "created": 1646116895388,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8GBfx",
+      "created": 1646116895388,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx8GBg6",
+      "created": 1646116895388,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8GBg7",
+      "created": 1646116895388,
+      "text": "Ta-chung-lu vol.4 p.1a:3b."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx8GBg8",
+      "created": 1646116895388,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx8HBg9",
+       "created": 1646116895389,
+       "text": "【北京版】Mdo-sna-tshogs (sha)165b-167a"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgA",
+       "created": 1646116895389,
+       "text": "【奈塘版】Mdo (la)244a-246b"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgB",
+       "created": 1646116895389,
+       "text": "【德格版】Mdo-sde (sa)155b-157a"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgC",
+       "created": 1646116895389,
+       "text": "【拉薩版】Mdo-sde (la)238b-241a"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgD",
+       "created": 1646116895389,
+       "text": "【卓尼版】Mdo-maṅ (sa)194a-195b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx8HBgE",
+      "created": 1646116895389,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8HBgF",
+      "created": 1646116895389,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx8HBgG",
+      "created": 1646116895389,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx8HBgH",
+       "created": 1646116895389,
+       "text": "【房山石經】No.875《佛說諸行有為經》西天中印度摩伽陀國那爛陀寺三藏傳教大師賜紫沙門法天奉詔譯 冊數：25 / 頁數：610 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：溪"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgI",
+       "created": 1646116895389,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgJ",
+       "created": 1646116895389,
+       "text": "【崇寧藏】No.1111《佛說諸行有為經》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgK",
+       "created": 1646116895389,
+       "text": "【毘盧藏】No.1111《佛說諸行有為經》宋法天譯 參考年代：(建炎二．四) 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgL",
+       "created": 1646116895389,
+       "text": "【圓覺藏】No.1121《諸行有餘經》 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgM",
+       "created": 1646116895389,
+       "text": "【趙城金藏】No.1113《諸行有為經》 卷數：1 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgN",
+       "created": 1646116895389,
+       "text": "【資福藏】No.1125《諸行有餘經》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgO",
+       "created": 1646116895389,
+       "text": "【磧砂藏】No.1136《佛說諸行有為經》宋 法天譯 部別： / 冊數：32 / 頁數：573 / 卷數：1 千字文：路 10 (493)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgP",
+       "created": 1646116895389,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgQ",
+       "created": 1646116895389,
+       "text": "【高麗藏】No.1112《諸行有爲經》那爛陀寺三藏沙門法天譯 部別：宋續入藏經 / 冊數：33 頁數：921 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgR",
+       "created": 1646116895389,
+       "text": "【普寧藏】No.1126《佛說諸行有為經》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgS",
+       "created": 1646116895389,
+       "text": "【至元錄】No.1168《諸行有為經》宋西域三藏法天譯 卷數：1 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgT",
+       "created": 1646116895389,
+       "text": "【洪武南藏】No.991《諸行有為經》三藏傳教大師賜紫沙門法天 奉詔譯 冊數：179 / 頁數：119 / 卷數：1 千字文：路 10 (493)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgU",
+       "created": 1646116895389,
+       "text": "【永樂南藏】No.798《佛說諸行有餘經》 部別：宋元入藏諸大小乘經 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgV",
+       "created": 1646116895389,
+       "text": "【永樂北藏】No.832《佛說諸行有為經》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：401 / 卷數：1 千字文：忠"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgW",
+       "created": 1646116895389,
+       "text": "【嘉興藏】No.795《佛說諸行有為經》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0795 千字文 / 函號：［正藏］ 忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgX",
+       "created": 1646116895389,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgY",
+       "created": 1646116895389,
+       "text": "【乾隆藏】No.796《佛說諸行有為經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：619 / 卷數：1 千字文：忠"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgZ",
+       "created": 1646116895389,
+       "text": "【縮刻藏】No.731《佛說諸行有為經》宋法天譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBga",
+       "created": 1646116895389,
+       "text": "【卍正藏】No.805《佛說諸行有為經》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：407 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgb",
+       "created": 1646116895389,
+       "text": "【大正藏】No.758《佛說諸行有為經》宋 法天譯 部別：經集部四 / 冊數：17 / 頁數：600 / 卷數：1 相關經典：縮-宿8,卍-15.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx8HBgc",
+       "created": 1646116895389,
+       "text": "【佛教大藏經】No.752《佛說諸行有為經》宋 法天譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：436 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgd",
+       "created": 1646116895389,
+       "text": "【中華藏】No.1224《佛說諸行有為經》西天中印度摩伽陀國那爛陀寺三藏傳教大師賜紫沙門法天奉詔譯 冊數：63 / 頁數：820 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx8HBge",
+       "created": 1646116895389,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgf",
+       "created": 1646116895389,
+       "text": "【南條文雄編號】 Nj. 0801"
+      }},
+      {"data": {
+       "id": "z5cYx8HBgg",
+       "created": 1646116895389,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：758"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxgcn4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

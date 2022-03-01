@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "掌珍量噵"},
+  "children": [{
+   "data": {
+    "id": "z5cYyEBVyA",
+    "created": 1646116899599,
+    "text": "現藏錄（日本 秀法師撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyEBVxV",
+      "created": 1646116899599,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyEBVxW",
+        "created": 1646116899599,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEBVxX",
+        "created": 1646116899599,
+        "text": "掌珍量噵",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEBVxY",
+        "created": 1646116899599,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEBVxZ",
+        "created": 1646116899599,
+        "text": "掌珍量噵"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEBVxa",
+        "created": 1646116899599,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEBVxb",
+        "created": 1646116899599,
+        "text": "zhang zhen liang dao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEBVxc",
+      "created": 1646116899599,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEBVxd",
+      "created": 1646116899599,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEBVxe",
+      "created": 1646116899599,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEBVxf",
+       "created": 1646116899599,
+       "text": "日本 秀法師撰"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxg",
+       "created": 1646116899599,
+       "text": "秀",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEBVxh",
+      "created": 1646116899599,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEBVxi",
+      "created": 1646116899599,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEBVxj",
+      "created": 1646116899599,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEBVxk",
+       "created": 1646116899599,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxl",
+       "created": 1646116899599,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxm",
+       "created": 1646116899599,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxn",
+       "created": 1646116899599,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxo",
+       "created": 1646116899599,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxp",
+       "created": 1646116899599,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxq",
+       "created": 1646116899599,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxr",
+       "created": 1646116899599,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxs",
+       "created": 1646116899599,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxt",
+       "created": 1646116899599,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxu",
+       "created": 1646116899599,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxv",
+       "created": 1646116899599,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxw",
+       "created": 1646116899599,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxx",
+       "created": 1646116899599,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxy",
+       "created": 1646116899599,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVxz",
+       "created": 1646116899599,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy0",
+       "created": 1646116899599,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy1",
+       "created": 1646116899599,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy2",
+       "created": 1646116899599,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy3",
+       "created": 1646116899599,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy4",
+       "created": 1646116899599,
+       "text": "【大正藏】No.2258《掌珍量噵》日本 秀法師撰 部別：續論疏部三 / 冊數：65 / 頁數：266 / 卷數：1 相關經典：佛全-80 參考資料：cf.No.1578"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy5",
+       "created": 1646116899599,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy6",
+       "created": 1646116899599,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy7",
+       "created": 1646116899599,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy8",
+       "created": 1646116899599,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEBVy9",
+       "created": 1646116899599,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2258"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0pb1vy",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

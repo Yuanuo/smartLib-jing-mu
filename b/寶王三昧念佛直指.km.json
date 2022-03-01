@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "寶王三昧念佛直指"},
+  "children": [{
+   "data": {
+    "id": "z5cYy2ISCE",
+    "created": 1646116898862,
+    "text": "現藏錄（明 妙[口*十]集）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy2ISBZ",
+      "created": 1646116898862,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy2ISBa",
+        "created": 1646116898862,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy2ISBb",
+        "created": 1646116898862,
+        "text": "寶王三昧念佛直指",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy2ISBc",
+        "created": 1646116898862,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy2ISBd",
+        "created": 1646116898862,
+        "text": "宝王三昧念佛直指",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy2ISBe",
+        "created": 1646116898862,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy2ISBf",
+        "created": 1646116898862,
+        "text": "bao wang san mei nian fo zhi zhi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy2ISBg",
+      "created": 1646116898862,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy2ISBh",
+      "created": 1646116898862,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy2ISBi",
+      "created": 1646116898862,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy2ISBj",
+       "created": 1646116898862,
+       "text": "明 妙[口*十]集"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBk",
+       "created": 1646116898862,
+       "text": "妙協",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy2ISBl",
+      "created": 1646116898862,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy2ISBm",
+      "created": 1646116898862,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy2ISBn",
+      "created": 1646116898862,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy2ISBo",
+       "created": 1646116898862,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBp",
+       "created": 1646116898862,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBq",
+       "created": 1646116898862,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBr",
+       "created": 1646116898862,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBs",
+       "created": 1646116898862,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBt",
+       "created": 1646116898862,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBu",
+       "created": 1646116898862,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBv",
+       "created": 1646116898862,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBw",
+       "created": 1646116898862,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBx",
+       "created": 1646116898862,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBy",
+       "created": 1646116898862,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISBz",
+       "created": 1646116898862,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC0",
+       "created": 1646116898862,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC1",
+       "created": 1646116898862,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC2",
+       "created": 1646116898862,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC3",
+       "created": 1646116898862,
+       "text": "【嘉興藏】No.1736《念佛直指》 部別：續藏 / 法寶總目錄經號：1735 千字文 / 函號：［續藏］ 40 函"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC4",
+       "created": 1646116898862,
+       "text": "【嘉興藏新文豐版】［續藏］No.81《念佛直指》明 妙叶集 冊數：20 / 頁數：109 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC5",
+       "created": 1646116898862,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC6",
+       "created": 1646116898862,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC7",
+       "created": 1646116898862,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISC8",
+       "created": 1646116898862,
+       "text": "【大正藏】No.1974《寶王三昧念佛直指》明 妙叶集 部別：諸宗部四 / 冊數：47 / 頁數：354 / 卷數：2 相關經典：續-2.13.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy2ISC9",
+       "created": 1646116898862,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISCA",
+       "created": 1646116898862,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISCB",
+       "created": 1646116898862,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISCC",
+       "created": 1646116898862,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2ISCD",
+       "created": 1646116898862,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1974"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri04u1mv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

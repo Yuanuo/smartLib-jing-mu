@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "楞嚴經如說"},
+  "children": [{
+   "data": {
+    "id": "z5cYz7TmG7",
+    "created": 1646116903027,
+    "text": "現藏錄（明 鍾惺撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYz7TmFT",
+      "created": 1646116903027,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYz7TmFU",
+        "created": 1646116903027,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz7TmFV",
+        "created": 1646116903027,
+        "text": "楞嚴經如說",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz7TmFW",
+        "created": 1646116903027,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz7TmFX",
+        "created": 1646116903027,
+        "text": "楞严经如说",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz7TmFY",
+        "created": 1646116903027,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYz7TmFZ",
+        "created": 1646116903027,
+        "text": "leng yan jing ru shuo"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYz7TmFa",
+      "created": 1646116903027,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYz7TmFb",
+      "created": 1646116903027,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz7TmFc",
+      "created": 1646116903027,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYz7TmFd",
+      "created": 1646116903027,
+      "text": "明 鍾惺撰"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz7TmFe",
+      "created": 1646116903027,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYz7TmFf",
+      "created": 1646116903027,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz7TmFg",
+      "created": 1646116903027,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYz7TmFh",
+       "created": 1646116903027,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFi",
+       "created": 1646116903027,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFj",
+       "created": 1646116903027,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFk",
+       "created": 1646116903027,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFl",
+       "created": 1646116903027,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFm",
+       "created": 1646116903027,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFn",
+       "created": 1646116903027,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFo",
+       "created": 1646116903027,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFp",
+       "created": 1646116903027,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFq",
+       "created": 1646116903027,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFr",
+       "created": 1646116903027,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFs",
+       "created": 1646116903027,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFt",
+       "created": 1646116903027,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFu",
+       "created": 1646116903027,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFv",
+       "created": 1646116903027,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFw",
+       "created": 1646116903027,
+       "text": "【嘉興藏】No.1934《楞嚴經如說》清釋照維編 部別：又續藏 / 法寶總目錄經號：1932 千字文 / 函號：［又續藏］ 15 函"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFx",
+       "created": 1646116903027,
+       "text": "【嘉興藏新文豐版】［續藏］No.307《首楞嚴經如說》明 鍾惺伯集 冊數：34 / 頁數：431 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFy",
+       "created": 1646116903027,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmFz",
+       "created": 1646116903027,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmG0",
+       "created": 1646116903027,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmG1",
+       "created": 1646116903027,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmG2",
+       "created": 1646116903027,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmG3",
+       "created": 1646116903027,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmG4",
+       "created": 1646116903027,
+       "text": "【新纂卍續藏】No.286《楞嚴經如說》明 鍾惺撰 部別：中國撰述 大小乘釋經部十一 方等部疏 / 冊數：13 / 頁數：383 / 卷數：10 《卍大日本續藏經》套數：第一編．第 21 套 《卍續藏經》(新文豐版)冊數：第 21 冊"
+      }},
+      {"data": {
+       "id": "z5cYz7TmG5",
+       "created": 1646116903027,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz7TmG6",
+       "created": 1646116903027,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：453"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3cj32b",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

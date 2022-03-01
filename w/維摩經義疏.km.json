@@ -1,0 +1,494 @@
+{
+ "root": {
+  "data": {"text": "維摩經義疏"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxvFPxL",
+     "created": 1646116898425,
+     "text": "現藏錄（隋 吉藏撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxvFPwg",
+       "created": 1646116898425,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxvFPwh",
+         "created": 1646116898425,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxvFPwi",
+         "created": 1646116898425,
+         "text": "維摩經義疏",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxvFPwj",
+         "created": 1646116898425,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxvFPwk",
+         "created": 1646116898425,
+         "text": "维摩经义疏",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxvFPwl",
+         "created": 1646116898425,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxvFPwm",
+         "created": 1646116898425,
+         "text": "wei mo jing yi shu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxvFPwn",
+       "created": 1646116898425,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxvFPwo",
+       "created": 1646116898425,
+       "text": "隋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxvFPwp",
+       "created": 1646116898425,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxvFPwq",
+        "created": 1646116898425,
+        "text": "隋 吉藏撰"
+       }},
+       {"data": {
+        "id": "z5cYxvFPwr",
+        "created": 1646116898425,
+        "text": "吉藏",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxvFPws",
+       "created": 1646116898425,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxvFPwt",
+       "created": 1646116898425,
+       "text": "6"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxvFPwu",
+       "created": 1646116898425,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxvFPwv",
+        "created": 1646116898425,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPww",
+        "created": 1646116898425,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPwx",
+        "created": 1646116898425,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPwy",
+        "created": 1646116898425,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPwz",
+        "created": 1646116898425,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx0",
+        "created": 1646116898425,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx1",
+        "created": 1646116898425,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx2",
+        "created": 1646116898425,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx3",
+        "created": 1646116898425,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx4",
+        "created": 1646116898425,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx5",
+        "created": 1646116898425,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx6",
+        "created": 1646116898425,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx7",
+        "created": 1646116898425,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx8",
+        "created": 1646116898425,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPx9",
+        "created": 1646116898425,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxA",
+        "created": 1646116898425,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxB",
+        "created": 1646116898425,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxC",
+        "created": 1646116898425,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxD",
+        "created": 1646116898425,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxE",
+        "created": 1646116898425,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxF",
+        "created": 1646116898425,
+        "text": "【大正藏】No.1781《維摩經義疏》隋 吉藏撰 部別：經疏部六 / 冊數：38 / 頁數：908 / 卷數：6 相關經典：續-1.29.1 參考資料：cf.Nos.475,1780"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxG",
+        "created": 1646116898425,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxH",
+        "created": 1646116898425,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxI",
+        "created": 1646116898425,
+        "text": "【新纂卍續藏】No.342《維摩經義疏》隋 吉藏撰 部別：中國撰述 大小乘釋經部十七 方等部疏 / 冊數：19 / 頁數：59 / 卷數：6 《卍大日本續藏經》套數：第一編．第 29 套 《卍續藏經》(新文豐版)冊數：第 29 冊"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxJ",
+        "created": 1646116898425,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxvFPxK",
+        "created": 1646116898425,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1781"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyAsUzH",
+     "created": 1646116899394,
+     "text": "現藏錄（日本 聖德太子撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyAsUyc",
+       "created": 1646116899394,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyAsUyd",
+         "created": 1646116899394,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyAsUye",
+         "created": 1646116899394,
+         "text": "維摩經義疏"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyAsUyf",
+         "created": 1646116899394,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyAsUyg",
+         "created": 1646116899394,
+         "text": "维摩经义疏"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyAsUyh",
+         "created": 1646116899394,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyAsUyi",
+         "created": 1646116899394,
+         "text": "wei mo jing yi shu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyAsUyj",
+       "created": 1646116899394,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyAsUyk",
+       "created": 1646116899394,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyAsUyl",
+       "created": 1646116899394,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyAsUym",
+        "created": 1646116899394,
+        "text": "日本 聖德太子撰"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyn",
+        "created": 1646116899394,
+        "text": "聖德太子",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyAsUyo",
+       "created": 1646116899394,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyAsUyp",
+       "created": 1646116899394,
+       "text": "5"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyAsUyq",
+       "created": 1646116899394,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyAsUyr",
+        "created": 1646116899394,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUys",
+        "created": 1646116899394,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyt",
+        "created": 1646116899394,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyu",
+        "created": 1646116899394,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyv",
+        "created": 1646116899394,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyw",
+        "created": 1646116899394,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyx",
+        "created": 1646116899394,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyy",
+        "created": 1646116899394,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUyz",
+        "created": 1646116899394,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz0",
+        "created": 1646116899394,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz1",
+        "created": 1646116899394,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz2",
+        "created": 1646116899394,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz3",
+        "created": 1646116899394,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz4",
+        "created": 1646116899394,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz5",
+        "created": 1646116899394,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz6",
+        "created": 1646116899394,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz7",
+        "created": 1646116899394,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz8",
+        "created": 1646116899394,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUz9",
+        "created": 1646116899394,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUzA",
+        "created": 1646116899394,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUzB",
+        "created": 1646116899394,
+        "text": "【大正藏】No.2186《維摩經義疏》日本 聖德太子撰 部別：續經疏部一 / 冊數：56 / 頁數：20 / 卷數：5 相關經典：佛全-5,國-經疏16 參考資料：cf.No.475"
+       }},
+       {"data": {
+        "id": "z5cYyAsUzC",
+        "created": 1646116899394,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUzD",
+        "created": 1646116899394,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUzE",
+        "created": 1646116899394,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUzF",
+        "created": 1646116899394,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyAsUzG",
+        "created": 1646116899394,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2186"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzso1h9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

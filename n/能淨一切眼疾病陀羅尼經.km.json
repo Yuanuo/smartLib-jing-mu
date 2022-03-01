@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "能淨一切眼疾病陀羅尼經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxZAJWn",
+    "created": 1646116897056,
+    "text": "現藏錄（唐 不空譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxZ9JVq",
+      "created": 1646116897055,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxZ9JVr",
+        "created": 1646116897055,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZ9JVs",
+        "created": 1646116897055,
+        "text": "能淨一切眼疾病陀羅尼經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZAJVt",
+        "created": 1646116897056,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZAJVu",
+        "created": 1646116897056,
+        "text": "能净一切眼疾病陀罗尼经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZAJVv",
+        "created": 1646116897056,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZAJVw",
+        "created": 1646116897056,
+        "text": "neng jing yi qie yan ji bing tuo luo ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZAJW4",
+        "created": 1646116897056,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZAJW5",
+        "created": 1646116897056,
+        "text": "Neng ching i ch'ieh yen chi ping t'o lo ni ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZAJW6",
+        "created": 1646116897056,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZAJW7",
+        "created": 1646116897056,
+        "text": "Cakṣurviśodhanavidyā",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZAJW8",
+        "created": 1646116897056,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZAJW9",
+        "created": 1646116897056,
+        "text": "Mig rnam-par sbyoṅ-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZAJWA",
+        "created": 1646116897056,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZAJWB",
+        "created": 1646116897056,
+        "text": "능정일체안질병다라니경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZAJVx",
+      "created": 1646116897056,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZAJVy",
+      "created": 1646116897056,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZAJVz",
+      "created": 1646116897056,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZAJW0",
+       "created": 1646116897056,
+       "text": "唐 不空譯"
+      }},
+      {"data": {
+       "id": "z5cYxZAJW1",
+       "created": 1646116897056,
+       "text": "不空",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZAJW2",
+      "created": 1646116897056,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZAJW3",
+      "created": 1646116897056,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZAJWC",
+      "created": 1646116897056,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZAJWD",
+      "created": 1646116897056,
+      "text": "Translation by Amoghavajra: (see K.1273)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZAJWE",
+      "created": 1646116897056,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZAJWF",
+       "created": 1646116897056,
+       "text": "【北京版】Rgyud (ba)68b-69b(ya)182b-184a"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWG",
+       "created": 1646116897056,
+       "text": "【奈塘版】Rgyud (pa)403a-405a"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWH",
+       "created": 1646116897056,
+       "text": "【德格版】Rgyud (ba)59a-60bGzuṅs-ḥdus (wam)176b-177b"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWI",
+       "created": 1646116897056,
+       "text": "【拉薩版】Rgyud (na)430b-432b"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWJ",
+       "created": 1646116897056,
+       "text": "【卓尼版】Rgyud (ba)79a-80b(ya)187b-189b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZAJWK",
+      "created": 1646116897056,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZAJWL",
+      "created": 1646116897056,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZAJWM",
+      "created": 1646116897056,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZAJWN",
+       "created": 1646116897056,
+       "text": "【房山石經】No.796《佛說能淨一切眼疾病陀羅尼經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：183 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：俠"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWO",
+       "created": 1646116897056,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWP",
+       "created": 1646116897056,
+       "text": "【崇寧藏】No.1376《能淨一切眼疾病陀羅尼經》 卷數：1 千字文：感(558)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWQ",
+       "created": 1646116897056,
+       "text": "【毘盧藏】No.1374《能淨一切眼疾病陀羅尼經》唐不空譯 千字文：感(558)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWR",
+       "created": 1646116897056,
+       "text": "【圓覺藏】No.1373《能淨一切眼疾病陀羅尼經》 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWS",
+       "created": 1646116897056,
+       "text": "【趙城金藏】No.1314《能淨一切眼[疾病]陀羅尼經》 卷數：1 千字文：肥"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWT",
+       "created": 1646116897056,
+       "text": "【資福藏】No.1378《能淨一切眼疾病陀羅尼經》 卷數：1 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWU",
+       "created": 1646116897056,
+       "text": "【磧砂藏】No.1382《能淨一切眼疾病陀羅尼經》唐 不空譯 部別： / 冊數：34 / 頁數：516 / 卷數：1 千字文：阿 3 (535)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWV",
+       "created": 1646116897056,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWW",
+       "created": 1646116897056,
+       "text": "【高麗藏】No.1301《能淨一切眼疾病陀羅尼經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：36 頁數：962 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：阿"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWX",
+       "created": 1646116897056,
+       "text": "【普寧藏】No.1373《能淨一切眼疾病陀羅尼經》 卷數：1 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWY",
+       "created": 1646116897056,
+       "text": "【至元錄】No.666《能淨一切眼疾病陀羅尼經》唐三藏大廣智不空譯 梵名：阿唎(二合)亞　斫乞(二合)芻嚧(二合)尾秫怛儞　拏麻尾帝(二合)野　陀羅尼 / 卷數：1 千字文：君(244)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWZ",
+       "created": 1646116897056,
+       "text": "【洪武南藏】No.1229《能淨一切眼疾病陀羅尼經》大興善寺三藏沙門大廣智不空 奉詔譯 冊數：189 / 頁數：455 / 卷數：1 千字文：阿 3 (535)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWa",
+       "created": 1646116897056,
+       "text": "【永樂南藏】No.1022《能淨一切眼疾病陀羅尼經》 部別：宋元入藏諸大小乘經 千字文：淵(277)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWb",
+       "created": 1646116897056,
+       "text": "【永樂北藏】No.1014《佛說能淨一切眼疾病陀羅尼經》唐不空譯 部別：宋元入藏諸大小乘經 / 冊數：71 / 頁數：13 / 卷數：1 千字文：斯"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWc",
+       "created": 1646116897056,
+       "text": "【嘉興藏】No.976《能淨一切眼疾病陀羅尼》唐不空譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0976 千字文 / 函號：［正藏］ 斯(267)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWd",
+       "created": 1646116897056,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWe",
+       "created": 1646116897056,
+       "text": "【乾隆藏】No.977《佛說能淨一切眼疾病陀羅尼經》唐 不空譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：760 / 卷數：1 千字文：斯"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWf",
+       "created": 1646116897056,
+       "text": "【縮刻藏】No.1284《能淨一切眼疾病陀羅尼經》唐不空譯 部別：祕密部 / 卷數：1 千字文： 15 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWg",
+       "created": 1646116897056,
+       "text": "【卍正藏】No.986《能淨一切眼疾病陀羅尼經》不空譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：905 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWh",
+       "created": 1646116897056,
+       "text": "【大正藏】No.1324《能淨一切眼疾病陀羅尼經》唐 不空譯 部別：密教部四 / 冊數：21 / 頁數：490 / 卷數：1 相關經典：縮-閏15,卍-15.10 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxZAJWi",
+       "created": 1646116897056,
+       "text": "【佛教大藏經】No.1357《能淨一切眼疾病陀羅尼經》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：1272 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWj",
+       "created": 1646116897056,
+       "text": "【中華藏】No.1427《能淨一切眼疾病陀羅尼經》大興善寺三藏沙門不空奉詔譯 冊數：65 / 頁數：649 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWk",
+       "created": 1646116897056,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWl",
+       "created": 1646116897056,
+       "text": "【南條文雄編號】 Nj. 0982"
+      }},
+      {"data": {
+       "id": "z5cYxZAJWm",
+       "created": 1646116897056,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1324"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyqn143",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

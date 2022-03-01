@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "佛說四天王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx0M9Gk",
+    "created": 1646116894898,
+    "text": "現藏錄（宋 智嚴共寶雲譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx0L9Fs",
+      "created": 1646116894897,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx0L9Ft",
+        "created": 1646116894897,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0L9Fu",
+        "created": 1646116894897,
+        "text": "佛說四天王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0L9Fv",
+        "created": 1646116894897,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0L9Fw",
+        "created": 1646116894897,
+        "text": "佛说四天王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0L9Fx",
+        "created": 1646116894897,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0L9Fy",
+        "created": 1646116894897,
+        "text": "fo shuo si tian wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0M9G7",
+        "created": 1646116894898,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0M9G8",
+        "created": 1646116894898,
+        "text": "Ssu t'ien wang ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYx0M9G9",
+       "created": 1646116894898,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYx0M9GA",
+        "created": 1646116894898,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0M9GB",
+        "created": 1646116894898,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0M9GC",
+        "created": 1646116894898,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0M9GD",
+        "created": 1646116894898,
+        "text": "사천왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0L9Fz",
+      "created": 1646116894897,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0L9G0",
+      "created": 1646116894897,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0L9G1",
+      "created": 1646116894897,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0L9G2",
+       "created": 1646116894897,
+       "text": "宋 智嚴共寶雲譯"
+      }},
+      {"data": {
+       "id": "z5cYx0L9G3",
+       "created": 1646116894897,
+       "text": "寶雲",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYx0L9G4",
+       "created": 1646116894897,
+       "text": "智嚴",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0L9G5",
+      "created": 1646116894897,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0L9G6",
+      "created": 1646116894897,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0M9GE",
+      "created": 1646116894898,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0M9GF",
+      "created": 1646116894898,
+      "text": "Translation by Chih-yen and Pao-yün: after the 4th year of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 427-) in Chih-yüan Monastery (枳園寺), Yang-tu (楊都).T.2145-12c:8; T.2149-258a:10."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx0M9GG",
+     "created": 1646116894898,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx0M9GH",
+      "created": 1646116894898,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0M9GI",
+      "created": 1646116894898,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0M9GJ",
+      "created": 1646116894898,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0M9GK",
+       "created": 1646116894898,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GL",
+       "created": 1646116894898,
+       "text": "【開寶藏】No.839《四天王經》劉宋 涼州沙門釋智嚴共寶雲 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：學"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GM",
+       "created": 1646116894898,
+       "text": "【崇寧藏】No.841《佛說四天王經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GN",
+       "created": 1646116894898,
+       "text": "【毘盧藏】No.842《四天王經》宋釋智嚴寶雲譯 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GO",
+       "created": 1646116894898,
+       "text": "【圓覺藏】No.846《四天王經》 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GP",
+       "created": 1646116894898,
+       "text": "【趙城金藏】No.859《四天王經》 卷數：1 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GQ",
+       "created": 1646116894898,
+       "text": "【資福藏】No.852《四天王經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GR",
+       "created": 1646116894898,
+       "text": "【磧砂藏】No.863《佛說四天王經》宋 智嚴．寶雲譯 部別：小乘單譯經 / 冊數：20 / 頁數：122 / 卷數：1 千字文：竟 6 (304)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GS",
+       "created": 1646116894898,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GT",
+       "created": 1646116894898,
+       "text": "【高麗藏】No.856《四天王經》宋涼州沙門智嚴譯 部別：小乘經 單譯 / 冊數：20 頁數：1205(原版) 621(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GU",
+       "created": 1646116894898,
+       "text": "【普寧藏】No.855《佛說四天王經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GV",
+       "created": 1646116894898,
+       "text": "【至元錄】No.1082《四天王經》宋梁州釋智嚴共寶雲譯 卷數：1 千字文：上(329)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GW",
+       "created": 1646116894898,
+       "text": "【洪武南藏】No.768《佛說四天王經》宋 涼州釋智嚴共寶雲 譯 冊數：106 / 頁數：329 / 卷數：1 千字文：竟 6 (304)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GX",
+       "created": 1646116894898,
+       "text": "【永樂南藏】No.731《佛說四天王經》 部別：小乘經-單譯經 千字文：孝(249)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GY",
+       "created": 1646116894898,
+       "text": "【永樂北藏】No.754《佛說四天王經》劉宋智嚴-共寶雲譯 部別：小乘經單譯經 / 冊數：66 / 頁數：433 / 卷數：1 千字文：孝"
+      }},
+      {"data": {
+       "id": "z5cYx0M9GZ",
+       "created": 1646116894898,
+       "text": "【嘉興藏】No.717《佛說四天王經》劉宋智嚴-共寶雲譯 部別：小乘經-單譯經 / 法寶總目錄經號：0717 千字文 / 函號：［正藏］ 孝(249)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Ga",
+       "created": 1646116894898,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gb",
+       "created": 1646116894898,
+       "text": "【乾隆藏】No.718《佛說四天王經》宋 釋智嚴,寶雲譯 部別：小乘單譯經 / 冊數：55 / 頁數：663 / 卷數：1 千字文：孝"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gc",
+       "created": 1646116894898,
+       "text": "【縮刻藏】No.710《佛說四天王經》宋智嚴共寶雲譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gd",
+       "created": 1646116894898,
+       "text": "【卍正藏】No.726《佛說四天王經》宋 智嚴共寶雲譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：17 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Ge",
+       "created": 1646116894898,
+       "text": "【大正藏】No.590《佛說四天王經》宋 智嚴共寶雲譯 部別：經集部二 / 冊數：15 / 頁數：118 / 卷數：1 相關經典：縮-宿8,卍-15.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gf",
+       "created": 1646116894898,
+       "text": "【佛教大藏經】No.731《佛說四天王經》劉宋 智嚴共寶雲譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：401 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gg",
+       "created": 1646116894898,
+       "text": "【中華藏】No.924《佛說四天王經》宋涼州沙門智嚴共寶雲譯 冊數：36 / 頁數：363 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gh",
+       "created": 1646116894898,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gi",
+       "created": 1646116894898,
+       "text": "【南條文雄編號】 Nj. 0722"
+      }},
+      {"data": {
+       "id": "z5cYx0M9Gj",
+       "created": 1646116894898,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：590"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx2pie",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

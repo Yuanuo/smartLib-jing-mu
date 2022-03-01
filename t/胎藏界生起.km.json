@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "胎藏界生起"},
+  "children": [{
+   "data": {
+    "id": "z5cYyJ9Xaj",
+    "created": 1646116899907,
+    "text": "現藏錄（日本 覺超記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyJ8Xa4",
+      "created": 1646116899906,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyJ8Xa5",
+        "created": 1646116899906,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJ8Xa6",
+        "created": 1646116899906,
+        "text": "胎藏界生起",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJ8Xa7",
+        "created": 1646116899906,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJ8Xa8",
+        "created": 1646116899906,
+        "text": "胎藏界生起"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJ8Xa9",
+        "created": 1646116899906,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJ8XaA",
+        "created": 1646116899906,
+        "text": "tai cang jie sheng qi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJ8XaB",
+      "created": 1646116899906,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJ8XaC",
+      "created": 1646116899906,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJ8XaD",
+      "created": 1646116899906,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJ8XaE",
+       "created": 1646116899906,
+       "text": "日本 覺超記"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaF",
+       "created": 1646116899906,
+       "text": "覺超",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJ8XaG",
+      "created": 1646116899906,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJ8XaH",
+      "created": 1646116899906,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJ8XaI",
+      "created": 1646116899906,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJ8XaJ",
+       "created": 1646116899906,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaK",
+       "created": 1646116899906,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaL",
+       "created": 1646116899906,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaM",
+       "created": 1646116899906,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaN",
+       "created": 1646116899906,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaO",
+       "created": 1646116899906,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaP",
+       "created": 1646116899906,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaQ",
+       "created": 1646116899906,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaR",
+       "created": 1646116899906,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaS",
+       "created": 1646116899906,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaT",
+       "created": 1646116899906,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaU",
+       "created": 1646116899906,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaV",
+       "created": 1646116899906,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaW",
+       "created": 1646116899906,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaX",
+       "created": 1646116899906,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaY",
+       "created": 1646116899906,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8XaZ",
+       "created": 1646116899906,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xaa",
+       "created": 1646116899906,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xab",
+       "created": 1646116899906,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xac",
+       "created": 1646116899906,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xad",
+       "created": 1646116899906,
+       "text": "【大正藏】No.2404《胎藏界生起》日本 覺超記 部別：續諸宗部六 / 冊數：75 / 頁數：799 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xae",
+       "created": 1646116899906,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xaf",
+       "created": 1646116899906,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xag",
+       "created": 1646116899906,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xah",
+       "created": 1646116899906,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJ8Xai",
+       "created": 1646116899906,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2404"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0xu203",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

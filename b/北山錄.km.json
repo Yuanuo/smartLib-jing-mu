@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "北山錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYy7mU3K",
+    "created": 1646116899202,
+    "text": "現藏錄（唐 神清撰．慧寶注）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy7mU2e",
+      "created": 1646116899202,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy7mU2f",
+        "created": 1646116899202,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy7mU2g",
+        "created": 1646116899202,
+        "text": "北山錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy7mU2h",
+        "created": 1646116899202,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy7mU2i",
+        "created": 1646116899202,
+        "text": "北山录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy7mU2j",
+        "created": 1646116899202,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy7mU2k",
+        "created": 1646116899202,
+        "text": "bei shan lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy7mU2l",
+      "created": 1646116899202,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy7mU2m",
+      "created": 1646116899202,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy7mU2n",
+      "created": 1646116899202,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy7mU2o",
+       "created": 1646116899202,
+       "text": "唐 神清撰．慧寶注"
+      }},
+      {"data": {
+       "id": "z5cYy7mU2p",
+       "created": 1646116899202,
+       "text": "慧寶",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy7mU2q",
+       "created": 1646116899202,
+       "text": "神清",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy7mU2r",
+      "created": 1646116899202,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy7mU2s",
+      "created": 1646116899202,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy7mU2t",
+      "created": 1646116899202,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy7mU2u",
+       "created": 1646116899202,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU2v",
+       "created": 1646116899202,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU2w",
+       "created": 1646116899202,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU2x",
+       "created": 1646116899202,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU2y",
+       "created": 1646116899202,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU2z",
+       "created": 1646116899202,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU30",
+       "created": 1646116899202,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU31",
+       "created": 1646116899202,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU32",
+       "created": 1646116899202,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU33",
+       "created": 1646116899202,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU34",
+       "created": 1646116899202,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU35",
+       "created": 1646116899202,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU36",
+       "created": 1646116899202,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU37",
+       "created": 1646116899202,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU38",
+       "created": 1646116899202,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU39",
+       "created": 1646116899202,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3A",
+       "created": 1646116899202,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3B",
+       "created": 1646116899202,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3C",
+       "created": 1646116899202,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3D",
+       "created": 1646116899202,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3E",
+       "created": 1646116899202,
+       "text": "【大正藏】No.2113《北山錄》唐 神清撰．慧寶注 部別：史傳部四 / 冊數：52 / 頁數：573 / 卷數：10 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy7mU3F",
+       "created": 1646116899202,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3G",
+       "created": 1646116899202,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3H",
+       "created": 1646116899202,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3I",
+       "created": 1646116899202,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy7mU3J",
+       "created": 1646116899202,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2113"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0ea1r7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

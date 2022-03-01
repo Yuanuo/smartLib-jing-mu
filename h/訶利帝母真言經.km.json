@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "訶利帝母真言經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxWrIlO",
+    "created": 1646116896913,
+    "text": "現藏錄（唐 不空譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxWrIkX",
+      "created": 1646116896913,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxWrIkY",
+        "created": 1646116896913,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxWrIkZ",
+        "created": 1646116896913,
+        "text": "訶利帝母真言經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxWrIka",
+        "created": 1646116896913,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxWrIkb",
+        "created": 1646116896913,
+        "text": "诃利帝母真言经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxWrIkc",
+        "created": 1646116896913,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxWrIkd",
+        "created": 1646116896913,
+        "text": "he li di mu zhen yan jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxWrIkl",
+        "created": 1646116896913,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxWrIkm",
+        "created": 1646116896913,
+        "text": "Ho li ti mu chen yen ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxWrIkn",
+       "created": 1646116896913,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxWrIko",
+        "created": 1646116896913,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxWrIkp",
+        "created": 1646116896913,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxWrIkq",
+        "created": 1646116896913,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxWrIkr",
+        "created": 1646116896913,
+        "text": "하리재모진언경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxWrIke",
+      "created": 1646116896913,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxWrIkf",
+      "created": 1646116896913,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxWrIkg",
+      "created": 1646116896913,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxWrIkh",
+       "created": 1646116896913,
+       "text": "唐 不空譯"
+      }},
+      {"data": {
+       "id": "z5cYxWrIki",
+       "created": 1646116896913,
+       "text": "不空",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxWrIkj",
+      "created": 1646116896913,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxWrIkk",
+      "created": 1646116896913,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxWrIks",
+      "created": 1646116896913,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxWrIkt",
+      "created": 1646116896913,
+      "text": "Translation by Amoghavajra: (see K.1272)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxWrIku",
+     "created": 1646116896913,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxWrIkv",
+      "created": 1646116896913,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxWrIkw",
+      "created": 1646116896913,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxWrIkx",
+      "created": 1646116896913,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxWrIky",
+       "created": 1646116896913,
+       "text": "【房山石經】No.800《訶利帝母真言法》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：192 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：俠"
+      }},
+      {"data": {
+       "id": "z5cYxWrIkz",
+       "created": 1646116896913,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl0",
+       "created": 1646116896913,
+       "text": "【崇寧藏】No.1371《訶利帝母真言法》 卷數：1 千字文：感(558)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl1",
+       "created": 1646116896913,
+       "text": "【毘盧藏】No.1369《訶利帝母真言法》唐不空譯 千字文：感(558)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl2",
+       "created": 1646116896913,
+       "text": "【圓覺藏】No.1368《訶利帝母真言法》 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl3",
+       "created": 1646116896913,
+       "text": "【趙城金藏】No.1319《訶利帝母真言法》 卷數：1 千字文：肥"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl4",
+       "created": 1646116896913,
+       "text": "【資福藏】No.1373《訶利帝母真言法》 卷數：1 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl5",
+       "created": 1646116896913,
+       "text": "【磧砂藏】No.1377《訶利帝母真言法》唐 不空譯 部別： / 冊數：34 / 頁數：511 / 卷數：1 千字文：阿 2 (535)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl6",
+       "created": 1646116896913,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl7",
+       "created": 1646116896913,
+       "text": "【高麗藏】No.1306《訶利帝母眞言經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：36 頁數：971 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：阿"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl8",
+       "created": 1646116896913,
+       "text": "【普寧藏】No.1368《訶利帝母真言法》 卷數：1 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIl9",
+       "created": 1646116896913,
+       "text": "【至元錄】No.670《訶利帝母真言法經》唐三藏大廣智不空譯 卷數：1 千字文：君(244)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlA",
+       "created": 1646116896913,
+       "text": "【洪武南藏】No.1224《訶利帝母真言法》大興善寺三藏沙門大廣智不空 奉詔譯 冊數：189 / 頁數：433 / 卷數：1 千字文：阿 2 (535)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlB",
+       "created": 1646116896913,
+       "text": "【永樂南藏】No.1151《呵利帝母真言法》 部別：西土聖賢撰集 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlC",
+       "created": 1646116896913,
+       "text": "【永樂北藏】No.1507《訶利帝母真言法》唐不空譯 部別：西土聖賢撰集 / 冊數：132 / 頁數：607 / 卷數：1 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlD",
+       "created": 1646116896913,
+       "text": "【嘉興藏】No.1441《訶利帝母真言法》唐不空譯 部別：西土聖賢撰集 / 法寶總目錄經號：1440 千字文 / 函號：［正藏］ 隸(484)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlE",
+       "created": 1646116896913,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlF",
+       "created": 1646116896913,
+       "text": "【乾隆藏】No.1442《訶利帝母真言法》唐 不空譯 部別：西土聖賢撰集 / 冊數：109 / 頁數：33 / 卷數：1 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlG",
+       "created": 1646116896913,
+       "text": "【縮刻藏】No.1263《訶利帝母真言經》唐不空譯 部別：祕密部 / 卷數：1 千字文： 14 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlH",
+       "created": 1646116896913,
+       "text": "【卍正藏】No.1454《訶利帝母真言經》不空譯 部別：西土聖賢撰集 / 冊數：51 / 頁數：342 / 卷數：1 原版套數：第 27 套"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlI",
+       "created": 1646116896913,
+       "text": "【大正藏】No.1261《訶利帝母真言經》唐 不空譯 部別：密教部四 / 冊數：21 / 頁數：289 / 卷數：1 相關經典：縮-閏14,卍-27.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxWrIlJ",
+       "created": 1646116896913,
+       "text": "【佛教大藏經】No.1334《訶利帝母真言經》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：1175 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlK",
+       "created": 1646116896913,
+       "text": "【中華藏】No.1432《訶利帝母真言法》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：65 / 頁數：665 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlL",
+       "created": 1646116896913,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlM",
+       "created": 1646116896913,
+       "text": "【南條文雄編號】 Nj. 1449"
+      }},
+      {"data": {
+       "id": "z5cYxWrIlN",
+       "created": 1646116896913,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1261"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhymo12b",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

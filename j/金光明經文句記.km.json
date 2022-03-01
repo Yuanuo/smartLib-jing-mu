@@ -1,0 +1,272 @@
+{
+ "root": {
+  "data": {"text": "金光明經文句記"},
+  "children": [{
+   "data": {
+    "id": "z5cYxvTQ1T",
+    "created": 1646116898439,
+    "text": "現藏錄（宋 知禮述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxvSQ0l",
+      "created": 1646116898438,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxvSQ0m",
+        "created": 1646116898438,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvSQ0n",
+        "created": 1646116898438,
+        "text": "金光明經文句記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxvSQ0o",
+        "created": 1646116898438,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvSQ0p",
+        "created": 1646116898438,
+        "text": "金光明经文句记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxvSQ0q",
+        "created": 1646116898438,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvSQ0r",
+        "created": 1646116898438,
+        "text": "jin guang ming jing wen ju ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxvSQ0s",
+      "created": 1646116898438,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxvSQ0t",
+      "created": 1646116898438,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxvSQ0u",
+      "created": 1646116898438,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxvSQ0v",
+       "created": 1646116898438,
+       "text": "宋 知禮述"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ0w",
+       "created": 1646116898438,
+       "text": "明得",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxvSQ0x",
+       "created": 1646116898438,
+       "text": "智禮",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxvSQ0y",
+       "created": 1646116898438,
+       "text": "智顗",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxvSQ0z",
+       "created": 1646116898438,
+       "text": "知禮",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxvSQ10",
+      "created": 1646116898438,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxvSQ11",
+      "created": 1646116898438,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxvSQ12",
+      "created": 1646116898438,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxvSQ13",
+       "created": 1646116898438,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ14",
+       "created": 1646116898438,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ15",
+       "created": 1646116898438,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ16",
+       "created": 1646116898438,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ17",
+       "created": 1646116898438,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ18",
+       "created": 1646116898438,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ19",
+       "created": 1646116898438,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1A",
+       "created": 1646116898438,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1B",
+       "created": 1646116898438,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1C",
+       "created": 1646116898438,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1D",
+       "created": 1646116898438,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1E",
+       "created": 1646116898438,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1F",
+       "created": 1646116898438,
+       "text": "【洪武南藏】No.1404《金光明經文句記》四明沙門知禮 述 冊數：220 / 頁數：269 / 卷數：12 千字文：田 7 (630)-赤 8 (631)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1G",
+       "created": 1646116898438,
+       "text": "【永樂南藏】No.1539《金光明經文句記》 部別：此方撰述 千字文：約(587)-法(588)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1H",
+       "created": 1646116898438,
+       "text": "【永樂北藏】No.1634《金光明經文句記》宋知禮述 部別：此土著述 / 冊數：165 / 頁數：1 / 卷數：12 千字文：盟-何"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1I",
+       "created": 1646116898438,
+       "text": "【嘉興藏】No.1545《金光明經文句記》宋知禮述 部別：此土著述 / 法寶總目錄經號：1544 千字文 / 函號：［正藏］ 盟(584)-何(585)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1J",
+       "created": 1646116898438,
+       "text": "【嘉興藏新文豐版】［正藏］No.62《金光明經文句記》宋 知禮述 冊數：3 / 頁數：345 / 卷數：6"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1K",
+       "created": 1646116898438,
+       "text": "【乾隆藏】No.1507《金光明經文句記》宋 智禮述 部別：此土著述 / 冊數：119-120 / 頁數：673 / 卷數：10 千字文：溪"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1L",
+       "created": 1646116898438,
+       "text": "【縮刻藏】No.1695《金光明經文句記》宋知禮述 部別：支那撰述-經疏部 / 卷數：12 千字文：呂 3 (30)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1M",
+       "created": 1646116898438,
+       "text": "【卍正藏】No.1560《金光明經文句記》宋 知禮述 部別：此土著述 / 冊數：63 / 頁數：221 / 卷數：6 原版套數：第 33 套"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1N",
+       "created": 1646116898438,
+       "text": "【大正藏】No.1786《金光明經文句記》宋 知禮述 部別：經疏部七 / 冊數：39 / 頁數：83 / 卷數：6 相關經典：縮-呂3,卍-33.2,續-1.31.1-2 參考資料：cf.Nos.663,1785"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1O",
+       "created": 1646116898438,
+       "text": "【佛教大藏經】No.1872《金光明經文句記》宋 知禮述 部別：經疏部五 / 冊數：63 / 頁數：457 / 卷數：12"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1P",
+       "created": 1646116898438,
+       "text": "【中華藏】No.1808《金光明經文句記》宋四明沙門知禮述 冊數：96 / 頁數：447 / 卷數：6 / 底本：明永樂北藏本"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1Q",
+       "created": 1646116898438,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1R",
+       "created": 1646116898438,
+       "text": "【南條文雄編號】 Nj. 1553"
+      }},
+      {"data": {
+       "id": "z5cYxvSQ1S",
+       "created": 1646116898438,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1786"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzt21hf",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

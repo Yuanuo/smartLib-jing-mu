@@ -1,0 +1,559 @@
+{
+ "root": {
+  "data": {"text": "法句經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwbW33r",
+     "created": 1646116893358,
+     "text": "現藏錄（法救撰　吳 維祇難等譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwbW32y",
+       "created": 1646116893358,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwbW32z",
+         "created": 1646116893358,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbW330",
+         "created": 1646116893358,
+         "text": "法句經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbW331",
+         "created": 1646116893358,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbW332",
+         "created": 1646116893358,
+         "text": "法句经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbW333",
+         "created": 1646116893358,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbW334",
+         "created": 1646116893358,
+         "text": "fa ju jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbW33D",
+         "created": 1646116893358,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbW33E",
+         "created": 1646116893358,
+         "text": "Fa chü ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbW33F",
+         "created": 1646116893358,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbW33G",
+         "created": 1646116893358,
+         "text": "Dharmapāda",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbW33H",
+         "created": 1646116893358,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbW33I",
+         "created": 1646116893358,
+         "text": "Ched-du brjod-paḥi tshoms"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbW33J",
+         "created": 1646116893358,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbW33K",
+         "created": 1646116893358,
+         "text": "법구경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbW335",
+       "created": 1646116893358,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbW336",
+       "created": 1646116893358,
+       "text": "吳",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbW337",
+       "created": 1646116893358,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbW338",
+        "created": 1646116893358,
+        "text": "法救撰　吳 維祇難等譯"
+       }},
+       {"data": {
+        "id": "z5cYwbW339",
+        "created": 1646116893358,
+        "text": "法救",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYwbW33A",
+        "created": 1646116893358,
+        "text": "維祇難",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbW33B",
+       "created": 1646116893358,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbW33C",
+       "created": 1646116893358,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbW33L",
+       "created": 1646116893358,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbW33M",
+       "created": 1646116893358,
+       "text": "Translated by Vighna, etc.: 3rd year of Huang Wu (黃武), Wu dynasty (呉) (A.D. 224) in Wu-ch'ang (武昌).T. 2145-6c:12."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwbW33N",
+      "created": 1646116893358,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwbW33O",
+       "created": 1646116893358,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbW33P",
+       "created": 1646116893358,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbW33Q",
+       "created": 1646116893358,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbW33R",
+        "created": 1646116893358,
+        "text": "【房山石經】No.24《佛說法句經》失譯人 冊數：1 / 頁數：146 / 卷數：1 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文："
+       }},
+       {"data": {
+        "id": "z5cYwbW33S",
+        "created": 1646116893358,
+        "text": "【開寶藏】No.1015《法集經》吳 尊者法救 撰 天竺沙門維祗難 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：2 千字文：畫"
+       }},
+       {"data": {
+        "id": "z5cYwbW33T",
+        "created": 1646116893358,
+        "text": "【崇寧藏】No.1018《佛說法句經》 卷數：2 千字文：獸(436)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33U",
+        "created": 1646116893358,
+        "text": "【毘盧藏】No.1018《佛說法句經》吳維祇難等譯 參考年代：(紹興一八．閏八) 千字文：獸(436)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33V",
+        "created": 1646116893358,
+        "text": "【圓覺藏】No.1027《法句經》 千字文：獸(436)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33W",
+        "created": 1646116893358,
+        "text": "【趙城金藏】No.1023《法句經》 卷數：2 千字文：獸"
+       }},
+       {"data": {
+        "id": "z5cYwbW33X",
+        "created": 1646116893358,
+        "text": "【資福藏】No.1032《法句經》 卷數：2 (上下) 千字文：獸(436)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33Y",
+        "created": 1646116893358,
+        "text": "【磧砂藏】No.1043《佛說法句經》吳 維祗難等譯 部別： / 冊數：28 / 頁數：426 / 卷數：2 千字文：獸 1 (436)-獸 2 (436)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33Z",
+        "created": 1646116893358,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33a",
+        "created": 1646116893358,
+        "text": "【高麗藏】No.1021《法句經》吳天竺沙門維祇難等譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：560 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：獸"
+       }},
+       {"data": {
+        "id": "z5cYwbW33b",
+        "created": 1646116893358,
+        "text": "【普寧藏】No.1034《佛說法句經》 卷數：2 千字文：獸(436)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33c",
+        "created": 1646116893358,
+        "text": "【至元錄】No.1472《法句經》法救撰　吳天竺三藏維祗難等譯 卷數：2 千字文：營(544)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33d",
+        "created": 1646116893358,
+        "text": "【洪武南藏】No.917《法句經》尊者法救 造　吳 天竺沙門維祇難 等譯　 冊數：155 / 頁數：341 / 卷數：2 千字文：獸 1 (436)-獸 2 (436)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33e",
+        "created": 1646116893358,
+        "text": "【永樂南藏】No.1111《法句經》 部別：西土聖賢撰集 千字文：所(299)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33f",
+        "created": 1646116893358,
+        "text": "【永樂北藏】No.1423《法句經》吳維只難等譯 部別：西土聖賢撰集 / 冊數：131 / 頁數：1 / 卷數：2 千字文：群"
+       }},
+       {"data": {
+        "id": "z5cYwbW33g",
+        "created": 1646116893358,
+        "text": "【嘉興藏】No.1357《法句經》吳維只難等譯 部別：西土聖賢撰集 / 法寶總目錄經號：1356 千字文 / 函號：［正藏］ 群(479)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33h",
+        "created": 1646116893358,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33i",
+        "created": 1646116893358,
+        "text": "【乾隆藏】No.1358《法句經》法救造　(吳)維祇難等譯 部別：西土聖賢撰集 / 冊數：107 / 頁數：503 / 卷數：2 千字文：群"
+       }},
+       {"data": {
+        "id": "z5cYwbW33j",
+        "created": 1646116893358,
+        "text": "【縮刻藏】No.1053《法句經》尊者法救撰　吳維祇難等譯 部別：印度撰述雜部 / 卷數：2 千字文：藏 6 (24)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33k",
+        "created": 1646116893358,
+        "text": "【卍正藏】No.1372《法句經》吳 維祇難等譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：650 / 卷數：2 原版套數：第 26 套"
+       }},
+       {"data": {
+        "id": "z5cYwbW33l",
+        "created": 1646116893358,
+        "text": "【大正藏】No.210《法句經》法救撰 吳 維祇難等譯 部別：本緣部下 / 冊數：4 / 頁數：559 / 卷數：2 相關經典：縮-藏6,卍-26.9,南-23.法句 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwbW33m",
+        "created": 1646116893358,
+        "text": "【佛教大藏經】No.1122《法句經》吳 維祇難等譯 部別：雜部一 / 冊數：50 / 頁數：429 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYwbW33n",
+        "created": 1646116893358,
+        "text": "【中華藏】No.1110《法句經》尊者法救撰，吳天竺沙門維祇難等譯 冊數：52 / 頁數：258 / 卷數：2 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwbW33o",
+        "created": 1646116893358,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbW33p",
+        "created": 1646116893358,
+        "text": "【南條文雄編號】 Nj. 1365"
+       }},
+       {"data": {
+        "id": "z5cYwbW33q",
+        "created": 1646116893358,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：210"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYydId2K",
+     "created": 1646116901156,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYydId1i",
+       "created": 1646116901156,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYydId1j",
+         "created": 1646116901156,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYydId1k",
+         "created": 1646116901156,
+         "text": "法句經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYydId1l",
+         "created": 1646116901156,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYydId1m",
+         "created": 1646116901156,
+         "text": "法句经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYydId1n",
+         "created": 1646116901156,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYydId1o",
+         "created": 1646116901156,
+         "text": "fa ju jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYydId1p",
+       "created": 1646116901156,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYydId1q",
+       "created": 1646116901156,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYydId1r",
+       "created": 1646116901156,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYydId1s",
+       "created": 1646116901156,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYydId1t",
+       "created": 1646116901156,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYydId1u",
+        "created": 1646116901156,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId1v",
+        "created": 1646116901156,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId1w",
+        "created": 1646116901156,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId1x",
+        "created": 1646116901156,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId1y",
+        "created": 1646116901156,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId1z",
+        "created": 1646116901156,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId20",
+        "created": 1646116901156,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId21",
+        "created": 1646116901156,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId22",
+        "created": 1646116901156,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId23",
+        "created": 1646116901156,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId24",
+        "created": 1646116901156,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId25",
+        "created": 1646116901156,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId26",
+        "created": 1646116901156,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId27",
+        "created": 1646116901156,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId28",
+        "created": 1646116901156,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId29",
+        "created": 1646116901156,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2A",
+        "created": 1646116901156,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2B",
+        "created": 1646116901156,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2C",
+        "created": 1646116901156,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2D",
+        "created": 1646116901156,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2E",
+        "created": 1646116901156,
+        "text": "【大正藏】No.2901《法句經》 部別：疑似部全 / 冊數：85 / 頁數：1432 / 卷數：1 相關經典： 參考資料：cf.No.2902"
+       }},
+       {"data": {
+        "id": "z5cYydId2F",
+        "created": 1646116901156,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2G",
+        "created": 1646116901156,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2H",
+        "created": 1646116901156,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2I",
+        "created": 1646116901156,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYydId2J",
+        "created": 1646116901156,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2901"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvvx61",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

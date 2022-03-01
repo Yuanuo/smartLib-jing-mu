@@ -1,0 +1,324 @@
+{
+ "root": {
+  "data": {"text": "法苑珠林"},
+  "children": [{
+   "data": {
+    "id": "z5cYy89UAT",
+    "created": 1646116899225,
+    "text": "現藏錄（唐 道世撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy88U9c",
+      "created": 1646116899224,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy88U9d",
+        "created": 1646116899224,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy88U9e",
+        "created": 1646116899224,
+        "text": "法苑珠林",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy88U9f",
+        "created": 1646116899224,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy88U9g",
+        "created": 1646116899224,
+        "text": "法苑珠林"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy88U9h",
+        "created": 1646116899224,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy88U9i",
+        "created": 1646116899224,
+        "text": "fa yuan zhu lin"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy88U9q",
+        "created": 1646116899224,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy88U9r",
+        "created": 1646116899224,
+        "text": "Fa yüan chu lin"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYy88U9s",
+       "created": 1646116899224,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYy88U9t",
+        "created": 1646116899224,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy88U9u",
+        "created": 1646116899225,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy89U9v",
+        "created": 1646116899225,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy89U9w",
+        "created": 1646116899225,
+        "text": "법원주림",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy88U9j",
+      "created": 1646116899224,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy88U9k",
+      "created": 1646116899224,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy88U9l",
+      "created": 1646116899224,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy88U9m",
+       "created": 1646116899224,
+       "text": "唐 道世撰"
+      }},
+      {"data": {
+       "id": "z5cYy88U9n",
+       "created": 1646116899224,
+       "text": "道世",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy88U9o",
+      "created": 1646116899224,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy88U9p",
+      "created": 1646116899224,
+      "text": "100"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy89U9x",
+      "created": 1646116899225,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy89U9y",
+      "created": 1646116899225,
+      "text": "Compiled by Tao-shih: 1st year of Tsung Chang (總章), T'ang dynasty (唐) (A.D. 668).Mochizuki, vol. 6, p. 154b."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYy89U9z",
+     "created": 1646116899225,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYy89UA0",
+      "created": 1646116899225,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy89UA1",
+      "created": 1646116899225,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy89UA2",
+      "created": 1646116899225,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy89UA3",
+       "created": 1646116899225,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy89UA4",
+       "created": 1646116899225,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy89UA5",
+       "created": 1646116899225,
+       "text": "【崇寧藏】No.1089《法苑珠林》 卷數：100 千字文：杜(481)-羅(490)"
+      }},
+      {"data": {
+       "id": "z5cYy89UA6",
+       "created": 1646116899225,
+       "text": "【毘盧藏】No.1088《法苑珠林》序李儼撰　道世撰 參考年代：(重和元．一二)(重和元．一一)(宣和六．八) 千字文：杜(481)-羅(490)"
+      }},
+      {"data": {
+       "id": "z5cYy89UA7",
+       "created": 1646116899225,
+       "text": "【圓覺藏】No.1098《法苑珠林》 卷數：100 千字文：杜(481)-羅(490)"
+      }},
+      {"data": {
+       "id": "z5cYy89UA8",
+       "created": 1646116899225,
+       "text": "【趙城金藏】No.1496《法苑珠林》 卷數：100 千字文：起-威"
+      }},
+      {"data": {
+       "id": "z5cYy89UA9",
+       "created": 1646116899225,
+       "text": "【資福藏】No.1102《法苑殊林》 卷數：100 (一部一百卷) 千字文：杜(481)-羅(490)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAA",
+       "created": 1646116899225,
+       "text": "【磧砂藏】No.1113《法苑珠林》唐 道世撰 部別： / 冊數：31-32 / 頁數：672 / 卷數：100 千字文：杜 1 (481)-羅 10 (490)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAB",
+       "created": 1646116899225,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAC",
+       "created": 1646116899225,
+       "text": "【高麗藏】No.1406《法苑珠林》西明寺沙門釋道世撰 部別：宋續入藏經 / 冊數：39 頁數：216 / 卷數：100 / 連結：高麗大藏經 (圖檔) 千字文：霸-何"
+      }},
+      {"data": {
+       "id": "z5cYy89UAD",
+       "created": 1646116899225,
+       "text": "【普寧藏】No.1103《法苑珠林》 卷數：100 千字文：杜(481)-羅(490)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAE",
+       "created": 1646116899225,
+       "text": "【至元錄】No.1570《法苑珠林》西明寺沙門道世集 卷數：100 千字文：譽(606)-秦(615)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAF",
+       "created": 1646116899225,
+       "text": "【洪武南藏】No.968《法苑珠林》大唐 上都西明寺沙門釋道世字玄惲 撰 冊數：173-178 / 頁數：502 / 卷數：100 千字文：杜 1 (481)-羅 10 (490)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAG",
+       "created": 1646116899225,
+       "text": "【永樂南藏】No.1501《法苑珠林》 部別：此方撰述 千字文：勒(525)-時(534)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAH",
+       "created": 1646116899225,
+       "text": "【永樂北藏】No.1545《法苑珠林》唐道世集 部別：此土著述 / 冊數：139-142 / 頁數：83 / 卷數：100 千字文：高-祿"
+      }},
+      {"data": {
+       "id": "z5cYy89UAI",
+       "created": 1646116899225,
+       "text": "【嘉興藏】No.1474《法苑珠林》唐道世集 部別：此土著述 / 法寶總目錄經號：1473 千字文 / 函號：［正藏］ 高(505)-祿(514)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAJ",
+       "created": 1646116899225,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAK",
+       "created": 1646116899225,
+       "text": "【乾隆藏】No.1532《法苑珠林》唐 釋道世撰 部別：此土著述 / 冊數：123-125 / 頁數：1 / 卷數：100 千字文：營-綺"
+      }},
+      {"data": {
+       "id": "z5cYy89UAL",
+       "created": 1646116899225,
+       "text": "【縮刻藏】No.1833《法苑珠林》唐道世撰 部別：支那撰述-纂集部 / 卷數：100 千字文：雨 5 (36)-雨 10 (36)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAM",
+       "created": 1646116899225,
+       "text": "【卍正藏】No.1487《法苑珠林》釋道世撰 部別：此土著述 / 冊數：53-54 / 頁數：635 / 卷數：100 原版套數：第 28 套"
+      }},
+      {"data": {
+       "id": "z5cYy89UAN",
+       "created": 1646116899225,
+       "text": "【大正藏】No.2122《法苑珠林》唐 道世撰 部別：事彙部上 / 冊數：53 / 頁數：269 / 卷數：100 相關經典：縮-雨5-10,卍-28.4-10 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy89UAO",
+       "created": 1646116899225,
+       "text": "【佛教大藏經】No.2033《法苑珠林》唐 道世撰 部別：纂集部二 / 冊數：77 / 頁數：1 / 卷數：100"
+      }},
+      {"data": {
+       "id": "z5cYy89UAP",
+       "created": 1646116899225,
+       "text": "【中華藏】No.1667《法苑珠林》西明寺沙門釋道世撰 冊數：71-72 / 頁數：163 / 卷數：100 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy89UAQ",
+       "created": 1646116899225,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy89UAR",
+       "created": 1646116899225,
+       "text": "【南條文雄編號】 Nj. 1482"
+      }},
+      {"data": {
+       "id": "z5cYy89UAS",
+       "created": 1646116899225,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2122"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0ew1rh",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "法華經三大部補注"},
+  "children": [{
+   "data": {
+    "id": "z5cYyqHgva",
+    "created": 1646116901961,
+    "text": "現藏錄（宋 從義撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyqGguw",
+      "created": 1646116901960,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyqGgux",
+        "created": 1646116901960,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyqHguy",
+        "created": 1646116901961,
+        "text": "法華經三大部補注",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyqHguz",
+        "created": 1646116901961,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyqHgv0",
+        "created": 1646116901961,
+        "text": "法华经三大部补注",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyqHgv1",
+        "created": 1646116901961,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyqHgv2",
+        "created": 1646116901961,
+        "text": "fa hua jing san da bu bu zhu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyqHgv3",
+      "created": 1646116901961,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyqHgv4",
+      "created": 1646116901961,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyqHgv5",
+      "created": 1646116901961,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyqHgv6",
+      "created": 1646116901961,
+      "text": "宋 從義撰"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyqHgv7",
+      "created": 1646116901961,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyqHgv8",
+      "created": 1646116901961,
+      "text": "14"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyqHgv9",
+      "created": 1646116901961,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyqHgvA",
+       "created": 1646116901961,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvB",
+       "created": 1646116901961,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvC",
+       "created": 1646116901961,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvD",
+       "created": 1646116901961,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvE",
+       "created": 1646116901961,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvF",
+       "created": 1646116901961,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvG",
+       "created": 1646116901961,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvH",
+       "created": 1646116901961,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvI",
+       "created": 1646116901961,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvJ",
+       "created": 1646116901961,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvK",
+       "created": 1646116901961,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvL",
+       "created": 1646116901961,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvM",
+       "created": 1646116901961,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvN",
+       "created": 1646116901961,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvO",
+       "created": 1646116901961,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvP",
+       "created": 1646116901961,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvQ",
+       "created": 1646116901961,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvR",
+       "created": 1646116901961,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvS",
+       "created": 1646116901961,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvT",
+       "created": 1646116901961,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvU",
+       "created": 1646116901961,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvV",
+       "created": 1646116901961,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvW",
+       "created": 1646116901961,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvX",
+       "created": 1646116901961,
+       "text": "【新纂卍續藏】No.586《法華經三大部補注》宋 從義撰 部別：中國撰述 大小乘釋經部二十六 法華部疏 / 冊數：28 / 頁數：121 / 卷數：14 《卍大日本續藏經》套數：第一編．第 44 套 《卍續藏經》(新文豐版)冊數：第 44 冊"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvY",
+       "created": 1646116901961,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyqHgvZ",
+       "created": 1646116901961,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：925"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2iw2of",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,334 @@
+{
+ "root": {
+  "data": {"text": "得道梯橙錫杖經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxA5C4j",
+    "created": 1646116895501,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxA5C3q",
+      "created": 1646116895501,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxA5C3r",
+        "created": 1646116895501,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxA5C3s",
+        "created": 1646116895501,
+        "text": "得道梯橙錫杖經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxA5C3t",
+        "created": 1646116895501,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxA5C3u",
+        "created": 1646116895501,
+        "text": "得道梯橙锡杖经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxA5C3v",
+        "created": 1646116895501,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxA5C3w",
+        "created": 1646116895501,
+        "text": "de dao ti cheng xi zhang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxA5C41",
+        "created": 1646116895501,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxA5C42",
+        "created": 1646116895501,
+        "text": "Te tao t'i ch'eng hsi chang ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxA5C43",
+       "created": 1646116895501,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxA5C44",
+        "created": 1646116895501,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxA5C45",
+        "created": 1646116895501,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxA5C46",
+        "created": 1646116895501,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxA5C47",
+        "created": 1646116895501,
+        "text": "득도제등석장경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxA5C3x",
+      "created": 1646116895501,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxA5C3y",
+      "created": 1646116895501,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxA5C3z",
+      "created": 1646116895501,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxA5C40",
+      "created": 1646116895501,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxA5C48",
+      "created": 1646116895501,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxA5C49",
+      "created": 1646116895501,
+      "text": "Translator unknown: Eastern Chin dynasty (東晉) (A.D. 317-420).T. 2154-717b:17."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxA5C4A",
+      "created": 1646116895501,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxA5C4B",
+       "created": 1646116895501,
+       "text": "【北京版】Mdo-sna-tshogs (śu)279b-282b282b-283a"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4C",
+       "created": 1646116895501,
+       "text": "【奈塘版】Mdo (la)425b-430a430b-431b"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4D",
+       "created": 1646116895501,
+       "text": "【德格版】Mdo-sde (sa)271a-274a274a-275a"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4E",
+       "created": 1646116895501,
+       "text": "【拉薩版】Mdo (la)413b-418b418b-420a"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4F",
+       "created": 1646116895501,
+       "text": "【卓尼版】Mdo-maṅ (sa)325a-328b328b-329b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxA5C4G",
+      "created": 1646116895501,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxA5C4H",
+      "created": 1646116895501,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxA5C4I",
+      "created": 1646116895501,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxA5C4J",
+       "created": 1646116895501,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4K",
+       "created": 1646116895501,
+       "text": "【開寶藏】No.790《得道梯登錫杖經》東晉 失譯者 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：定"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4L",
+       "created": 1646116895501,
+       "text": "【崇寧藏】No.792《錫杖經》 卷數：1 千字文：安(287)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4M",
+       "created": 1646116895501,
+       "text": "【毘盧藏】No.793《錫杖經》失譯 千字文：安(287)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4N",
+       "created": 1646116895501,
+       "text": "【圓覺藏】No.800《得道梯橙錫杖經》 千字文：安(287)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4O",
+       "created": 1646116895501,
+       "text": "【趙城金藏】No.796《得道梯橙經》 卷數：1 千字文：辭"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4P",
+       "created": 1646116895501,
+       "text": "【資福藏】No.806《得道梯橙錫杖經》 卷數：1 千字文：安(287)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4Q",
+       "created": 1646116895501,
+       "text": "【磧砂藏】No.812《得道梯隥錫杖經》失譯 部別：阿含部 / 冊數：19 / 頁數：191 / 卷數：1 千字文：安 6 (287)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4R",
+       "created": 1646116895501,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4S",
+       "created": 1646116895501,
+       "text": "【高麗藏】No.793《得道梯橙錫杖經》失譯人名今附東晉錄 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：906(原版) 932(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：詞"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4T",
+       "created": 1646116895501,
+       "text": "【普寧藏】No.804《得道梯隥錫杖經》 卷數：1 千字文：安(287)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4U",
+       "created": 1646116895501,
+       "text": "【至元錄】No.1033《得道梯橙錫杖經》失譯人名 卷數：1 / 出處：(附東晉錄) 千字文：政(312)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4V",
+       "created": 1646116895501,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4W",
+       "created": 1646116895501,
+       "text": "【永樂南藏】No.680《得道梯隥錫杖經》 部別：小乘經-阿含部 千字文：尺(233)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4X",
+       "created": 1646116895501,
+       "text": "【永樂北藏】No.723《佛說得道梯登錫杖經》失譯人名附東晉錄 部別：小乘經單譯經 / 冊數：66 / 頁數：127 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4Y",
+       "created": 1646116895501,
+       "text": "【嘉興藏】No.686《佛說得道梯隥錫杖經》失譯人名附東晉錄 部別：小乘經-單譯經 / 法寶總目錄經號：0686 千字文 / 函號：［正藏］ 敬(248)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4Z",
+       "created": 1646116895501,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4a",
+       "created": 1646116895501,
+       "text": "【乾隆藏】No.687《佛說得道梯[陳-東+登]錫杖經》失譯人名今附東晉錄 部別：小乘單譯經 / 冊數：55 / 頁數：437 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4b",
+       "created": 1646116895501,
+       "text": "【縮刻藏】No.694《得道梯橙錫杖經》失譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4c",
+       "created": 1646116895501,
+       "text": "【卍正藏】No.695《得道梯橙錫杖經》失譯人名今附東晉錄 部別：小乘經 單譯經 / 冊數：26 / 頁數：885 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4d",
+       "created": 1646116895501,
+       "text": "【大正藏】No.785《得道梯橙錫杖經》失譯 部別：經集部四 / 冊數：17 / 頁數：724 / 卷數：1 相關經典：縮-宿7,卍-14.10 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxA5C4e",
+       "created": 1646116895501,
+       "text": "【佛教大藏經】No.714《得道梯橙錫杖經》失譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：369 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4f",
+       "created": 1646116895501,
+       "text": "【中華藏】No.856《得道梯橙錫杖經》失譯人名今附東晉錄 冊數：34 / 頁數：654 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4g",
+       "created": 1646116895501,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4h",
+       "created": 1646116895501,
+       "text": "【南條文雄編號】 Nj. 0691"
+      }},
+      {"data": {
+       "id": "z5cYxA5C4i",
+       "created": 1646116895501,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：785"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxjgnv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

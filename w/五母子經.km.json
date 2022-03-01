@@ -1,0 +1,563 @@
+{
+ "root": {
+  "data": {"text": "五母子經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwyZ8kf",
+     "created": 1646116894787,
+     "text": "現藏錄（吳 支謙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwyX8jo",
+       "created": 1646116894785,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwyX8jp",
+         "created": 1646116894785,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyX8jq",
+         "created": 1646116894785,
+         "text": "五母子經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwyX8jr",
+         "created": 1646116894785,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyX8js",
+         "created": 1646116894785,
+         "text": "五母子经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwyX8jt",
+         "created": 1646116894785,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyX8ju",
+         "created": 1646116894785,
+         "text": "wu mu zi jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwyX8k2",
+         "created": 1646116894785,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyX8k3",
+         "created": 1646116894785,
+         "text": "Wu mu tzu ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYwyX8k4",
+        "created": 1646116894785,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYwyX8k5",
+         "created": 1646116894785,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyX8k6",
+         "created": 1646116894785,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwyX8k7",
+         "created": 1646116894785,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyY8k8",
+         "created": 1646116894786,
+         "text": "오모자경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwyX8jv",
+       "created": 1646116894785,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwyX8jw",
+       "created": 1646116894785,
+       "text": "吳",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwyX8jx",
+       "created": 1646116894785,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwyX8jy",
+        "created": 1646116894785,
+        "text": "吳 支謙譯"
+       }},
+       {"data": {
+        "id": "z5cYwyX8jz",
+        "created": 1646116894785,
+        "text": "支謙",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwyX8k0",
+       "created": 1646116894785,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwyX8k1",
+       "created": 1646116894785,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwyY8k9",
+       "created": 1646116894786,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwyY8kA",
+       "created": 1646116894786,
+       "text": "Translation by Chih-ch'ien: between the 2nd year of Huang Wu (黃武) and the 2nd year of Chien Hsing (建興), Wu dynasty (呉) (A.D 223-253).T. 2151-351b:21."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwyY8kB",
+      "created": 1646116894786,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwyY8kC",
+       "created": 1646116894786,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwyY8kD",
+       "created": 1646116894786,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwyY8kE",
+       "created": 1646116894786,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwyY8kF",
+        "created": 1646116894786,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kG",
+        "created": 1646116894786,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kH",
+        "created": 1646116894786,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kI",
+        "created": 1646116894786,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kJ",
+        "created": 1646116894786,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kK",
+        "created": 1646116894786,
+        "text": "【趙城金藏】No.771《五母子經》 卷數：1 千字文：思"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kL",
+        "created": 1646116894786,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kM",
+        "created": 1646116894786,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kN",
+        "created": 1646116894786,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kO",
+        "created": 1646116894786,
+        "text": "【高麗藏】No.768《五母子經》吳月氏國居士支謙譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：791(原版) 817(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：思"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kP",
+        "created": 1646116894786,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kQ",
+        "created": 1646116894786,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kR",
+        "created": 1646116894786,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kS",
+        "created": 1646116894786,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kT",
+        "created": 1646116894786,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kU",
+        "created": 1646116894786,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kV",
+        "created": 1646116894786,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kW",
+        "created": 1646116894786,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kX",
+        "created": 1646116894786,
+        "text": "【縮刻藏】No.700《佛說五母子經》吳支謙譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kY",
+        "created": 1646116894786,
+        "text": "【卍正藏】No.642《五母子經》吳 支謙譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：353 / 卷數：1 原版套數：第 14 套"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kZ",
+        "created": 1646116894786,
+        "text": "【大正藏】No.555a《五母子經》吳 支謙譯 部別：經集部一 / 冊數：14 / 頁數：906 / 卷數：1 相關經典：縮-宿7,卍-14.2 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwyY8ka",
+        "created": 1646116894786,
+        "text": "【佛教大藏經】No.721《五母子經》吳 支謙譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：383 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kb",
+        "created": 1646116894786,
+        "text": "【中華藏】No.829《五母子經》吳月氏國居士支謙譯 冊數：34 / 頁數：471 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kc",
+        "created": 1646116894786,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8kd",
+        "created": 1646116894786,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwyY8ke",
+        "created": 1646116894786,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：555"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwyf8lL",
+     "created": 1646116894793,
+     "text": "現藏錄（吳 支謙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwyd8kg",
+       "created": 1646116894791,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwyd8kh",
+         "created": 1646116894791,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyd8ki",
+         "created": 1646116894791,
+         "text": "五母子經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwyd8kj",
+         "created": 1646116894791,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwyd8kk",
+         "created": 1646116894791,
+         "text": "五母子经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwyd8kl",
+         "created": 1646116894791,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwye8km",
+         "created": 1646116894792,
+         "text": "wu mu zi jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwye8kn",
+       "created": 1646116894792,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwye8ko",
+       "created": 1646116894792,
+       "text": "吳"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwye8kp",
+       "created": 1646116894792,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwye8kq",
+        "created": 1646116894792,
+        "text": "吳 支謙譯"
+       }},
+       {"data": {
+        "id": "z5cYwye8kr",
+        "created": 1646116894792,
+        "text": "支謙"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwye8ks",
+       "created": 1646116894792,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwye8kt",
+       "created": 1646116894792,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwye8ku",
+       "created": 1646116894792,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwye8kv",
+        "created": 1646116894792,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8kw",
+        "created": 1646116894792,
+        "text": "【開寶藏】No.765《五母子經》失譯者 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：辭"
+       }},
+       {"data": {
+        "id": "z5cYwye8kx",
+        "created": 1646116894792,
+        "text": "【崇寧藏】No.766《五母子經》 卷數：1 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwye8ky",
+        "created": 1646116894792,
+        "text": "【毘盧藏】No.767《五母子經》吳支謙譯 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwye8kz",
+        "created": 1646116894792,
+        "text": "【圓覺藏】No.774《五母子經》 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l0",
+        "created": 1646116894792,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l1",
+        "created": 1646116894792,
+        "text": "【資福藏】No.780《五母子經》 卷數：1 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l2",
+        "created": 1646116894792,
+        "text": "【磧砂藏】No.786《五母子經》吳 支謙譯 部別：阿含部 / 冊數：19 / 頁數：78 / 卷數：1 千字文：言 7 (285)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l3",
+        "created": 1646116894792,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l4",
+        "created": 1646116894792,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l5",
+        "created": 1646116894792,
+        "text": "【普寧藏】No.778《五母子經》 卷數：1 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l6",
+        "created": 1646116894792,
+        "text": "【至元錄】No.1008《五子母經》吳月氏居士支謙譯 卷數：1 / 譯次：(第一譯) 千字文：職(310)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l7",
+        "created": 1646116894792,
+        "text": "【洪武南藏】No.706《五母子經》吴 優婆塞支謙 譯 冊數：100 / 頁數：192 / 卷數：1 千字文：言 7 (285)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l8",
+        "created": 1646116894792,
+        "text": "【永樂南藏】No.653《五母子經》 部別：小乘經-阿含部 千字文：善(231)"
+       }},
+       {"data": {
+        "id": "z5cYwye8l9",
+        "created": 1646116894792,
+        "text": "【永樂北藏】No.668《五母子經》吳支謙譯 部別：小乘經阿含部 / 冊數：62 / 頁數：187 / 卷數：1 千字文：慶"
+       }},
+       {"data": {
+        "id": "z5cYwye8lA",
+        "created": 1646116894792,
+        "text": "【嘉興藏】No.633《五母子經》吳支謙譯 部別：小乘經-阿含部 / 法寶總目錄經號：0633 千字文 / 函號：［正藏］ 慶(232)"
+       }},
+       {"data": {
+        "id": "z5cYwye8lB",
+        "created": 1646116894792,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8lC",
+        "created": 1646116894792,
+        "text": "【乾隆藏】No.634《五母子經》吳 支謙譯 部別：小乘阿含部 / 冊數：52 / 頁數：221 / 卷數：1 千字文：慶"
+       }},
+       {"data": {
+        "id": "z5cYwye8lD",
+        "created": 1646116894792,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8lE",
+        "created": 1646116894792,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8lF",
+        "created": 1646116894792,
+        "text": "【大正藏】No.555b《五母子經》吳 支謙譯 部別：經集部一 / 冊數：14 / 頁數：907 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwye8lG",
+        "created": 1646116894792,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8lH",
+        "created": 1646116894792,
+        "text": "【中華藏】No.830《五母子經(別本)》吳優婆塞支謙譯 冊數：34 / 頁數：473 / 卷數：1 / 底本：凊藏本"
+       }},
+       {"data": {
+        "id": "z5cYwye8lI",
+        "created": 1646116894792,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwye8lJ",
+        "created": 1646116894792,
+        "text": "【南條文雄編號】 Nj. 0638"
+       }},
+       {"data": {
+        "id": "z5cYwye8lK",
+        "created": 1646116894792,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：555"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwzjhe",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

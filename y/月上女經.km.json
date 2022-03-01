@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說月上女經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwuL7fr",
+    "created": 1646116894525,
+    "text": "現藏錄（隋 闍那崛多譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwuK7eu",
+      "created": 1646116894524,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwuL7ev",
+        "created": 1646116894525,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuL7ew",
+        "created": 1646116894525,
+        "text": "佛說月上女經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuL7ex",
+        "created": 1646116894525,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuL7ey",
+        "created": 1646116894525,
+        "text": "佛说月上女经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuL7ez",
+        "created": 1646116894525,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuL7f0",
+        "created": 1646116894525,
+        "text": "fo shuo yue shang nv jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuL7f8",
+        "created": 1646116894525,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuL7f9",
+        "created": 1646116894525,
+        "text": "Yüeh shang nü ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuL7fA",
+        "created": 1646116894525,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuL7fB",
+        "created": 1646116894525,
+        "text": "Candrottarādārikāparipṛcchāsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuL7fC",
+        "created": 1646116894525,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuL7fD",
+        "created": 1646116894525,
+        "text": "Bu-mo zla-mchog luṅ-bstan pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwuL7fE",
+        "created": 1646116894525,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwuL7fF",
+        "created": 1646116894525,
+        "text": "월상녀경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwuL7f1",
+      "created": 1646116894525,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuL7f2",
+      "created": 1646116894525,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwuL7f3",
+      "created": 1646116894525,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwuL7f4",
+       "created": 1646116894525,
+       "text": "隋 闍那崛多譯"
+      }},
+      {"data": {
+       "id": "z5cYwuL7f5",
+       "created": 1646116894525,
+       "text": "闍那崛多",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwuL7f6",
+      "created": 1646116894525,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuL7f7",
+      "created": 1646116894525,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwuL7fG",
+      "created": 1646116894525,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuL7fH",
+      "created": 1646116894525,
+      "text": "Translation by Jñānagupta: 6th month, 11th year of K'ai Huang (開皇), Sui dynasty (隋) (A.D. 591).T.2154-549a:11."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwuL7fI",
+      "created": 1646116894525,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwuL7fJ",
+       "created": 1646116894525,
+       "text": "【北京版】Mdo-sna-tshogs (mu)235a-254a"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fK",
+       "created": 1646116894525,
+       "text": "【奈塘版】Mdo (ba)383a-393a"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fL",
+       "created": 1646116894525,
+       "text": "【德格版】Mdo-sde (tsa)224b-243b"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fM",
+       "created": 1646116894525,
+       "text": "【拉薩版】Mdo (ba)356a-386a"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fN",
+       "created": 1646116894525,
+       "text": "【卓尼版】Mdo-maṅ (tsa)279a-301 b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwuL7fO",
+      "created": 1646116894525,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwuL7fP",
+      "created": 1646116894525,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwuL7fQ",
+      "created": 1646116894525,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwuL7fR",
+       "created": 1646116894525,
+       "text": "【房山石經】No.561《月上女經》(隋)天竺三藏闍那崛多等譯 冊數：12 / 頁數：609 / 卷數：2 / 刻經年代：天慶四年-五年刻石 / 瀏覽：目錄圖檔 千字文：悲"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fS",
+       "created": 1646116894525,
+       "text": "【開寶藏】No.414《月上女經》隋 天竺三藏闍那崛多等 譯 部別：大乘經 大乘經單譯 / 卷數：2 千字文：量"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fT",
+       "created": 1646116894525,
+       "text": "【崇寧藏】No.413《月上女經》 卷數：2 千字文：墨(193)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fU",
+       "created": 1646116894525,
+       "text": "【毘盧藏】No.411《月上女經》隋闍那崛多譯 千字文：墨(193)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fV",
+       "created": 1646116894525,
+       "text": "【圓覺藏】No.424《月上女經》 千字文：墨(193)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fW",
+       "created": 1646116894525,
+       "text": "【趙城金藏】No.416《月上女經》 卷數：2 千字文：量"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fX",
+       "created": 1646116894525,
+       "text": "【資福藏】No.428《月上女經》 卷數：2 (上下) 千字文：墨(193)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fY",
+       "created": 1646116894525,
+       "text": "【磧砂藏】No.429《月上女經》隋 闍那崛多譯 部別：五大部外單譯經 / 冊數：13 / 頁數：324 / 卷數：2 千字文：墨 7 (193)-墨 8 (193)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fZ",
+       "created": 1646116894525,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fa",
+       "created": 1646116894525,
+       "text": "【高麗藏】No.415《月上女經》隋天竺三藏闍那崛多譯 部別：大乘經 單譯 / 冊數：13 頁數：570 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：量"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fb",
+       "created": 1646116894525,
+       "text": "【普寧藏】No.422《月上女經》 卷數：2 千字文：墨(193)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fc",
+       "created": 1646116894525,
+       "text": "【至元錄】No.420《月上女經》隋天竺三藏闍那崛多譯 梵名：阿唎(二合)牙怛囉　烏怛囉　答哥　尾牙迦　囉拏　拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：2 千字文：量(192)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fd",
+       "created": 1646116894525,
+       "text": "【洪武南藏】No.375《月上女經》隋 三藏法師闍那崛多 譯 冊數：65 / 頁數：463 / 卷數：2 千字文：墨 7 (193)-墨 8 (193)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fe",
+       "created": 1646116894525,
+       "text": "【永樂南藏】No.419《月上女經》 部別：大乘經-單譯經 千字文：染(196)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7ff",
+       "created": 1646116894525,
+       "text": "【永樂北藏】No.467《月上女經》隋闍那崛多譯 部別：大乘經單經譯 / 冊數：52 / 頁數：1 / 卷數：2 千字文：染"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fg",
+       "created": 1646116894525,
+       "text": "【嘉興藏】No.436《月上女經》隋闍那崛多譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0436 千字文 / 函號：［正藏］ 染(196)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fh",
+       "created": 1646116894525,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fi",
+       "created": 1646116894525,
+       "text": "【乾隆藏】No.437《月上女經》隋 闍那崛多譯 部別：大乘單譯經 / 冊數：44 / 頁數：97 / 卷數：2 千字文：染"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fj",
+       "created": 1646116894525,
+       "text": "【縮刻藏】No.164《佛說月上女經》隋闍那崛多譯 部別：大乘經-方等部 / 卷數：2 千字文：黃 8 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fk",
+       "created": 1646116894525,
+       "text": "【卍正藏】No.442《佛說月上女經》隋 闍那崛多譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：311 / 卷數：2 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fl",
+       "created": 1646116894525,
+       "text": "【大正藏】No.480《佛說月上女經》隋 闍那崛多譯 部別：經集部一 / 冊數：14 / 頁數：615 / 卷數：2 相關經典：縮-黃8,卍-12.2,國-經2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwuL7fm",
+       "created": 1646116894525,
+       "text": "【佛教大藏經】No.166《佛說月上女經》隋 闍那崛多譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：423 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fn",
+       "created": 1646116894525,
+       "text": "【中華藏】No.445《佛說月上女經》隋天竺三藏法師闍那崛多譯 冊數：23 / 頁數：179 / 卷數：2 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fo",
+       "created": 1646116894525,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fp",
+       "created": 1646116894525,
+       "text": "【南條文雄編號】 Nj. 0441"
+      }},
+      {"data": {
+       "id": "z5cYwuL7fq",
+       "created": 1646116894525,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：480"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwscf9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

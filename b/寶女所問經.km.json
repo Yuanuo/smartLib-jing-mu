@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "寶女所問經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwpx6SH",
+    "created": 1646116894253,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwpw6RK",
+      "created": 1646116894252,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwpw6RL",
+        "created": 1646116894252,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpw6RM",
+        "created": 1646116894252,
+        "text": "寶女所問經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpw6RN",
+        "created": 1646116894252,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpw6RO",
+        "created": 1646116894252,
+        "text": "宝女所问经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpw6RP",
+        "created": 1646116894252,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpw6RQ",
+        "created": 1646116894252,
+        "text": "bao nv suo wen jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpw6RY",
+        "created": 1646116894252,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpw6RZ",
+        "created": 1646116894252,
+        "text": "Pao nü so wen ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpw6Ra",
+        "created": 1646116894252,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpw6Rb",
+        "created": 1646116894252,
+        "text": "Mahāyānopadeśa(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpw6Rc",
+        "created": 1646116894252,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpw6Rd",
+        "created": 1646116894252,
+        "text": "Theg-pa chen-poḥi man-nag"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpw6Re",
+        "created": 1646116894252,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpw6Rf",
+        "created": 1646116894252,
+        "text": "보녀소문경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpw6RR",
+      "created": 1646116894252,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpw6RS",
+      "created": 1646116894252,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpw6RT",
+      "created": 1646116894252,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpw6RU",
+       "created": 1646116894252,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwpw6RV",
+       "created": 1646116894252,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpw6RW",
+      "created": 1646116894252,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpw6RX",
+      "created": 1646116894252,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpw6Rg",
+      "created": 1646116894252,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpw6Rh",
+      "created": 1646116894252,
+      "text": "Translation by Dharmarakṣa: 27th day, 4th month, 8th year of Tai K'ang (太康), Western Chin dynasty (西晉) (May 26th, A.D. 287).T.2154-493c:23."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpw6Ri",
+      "created": 1646116894252,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpw6Rj",
+       "created": 1646116894252,
+       "text": "【北京版】Mdo sna tshogs (phu)273b-323a"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rk",
+       "created": 1646116894252,
+       "text": "【奈塘版】Mdo (pa)418b-498a"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rl",
+       "created": 1646116894252,
+       "text": "【德格版】Mdo-sde (.ba)260a-307a"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rm",
+       "created": 1646116894252,
+       "text": "【拉薩版】Mdo (pa)412a-490a"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rn",
+       "created": 1646116894252,
+       "text": "【卓尼版】Mdo-maṅ (ba)305b-370b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpw6Ro",
+      "created": 1646116894252,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpw6Rp",
+      "created": 1646116894252,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpw6Rq",
+      "created": 1646116894252,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpw6Rr",
+       "created": 1646116894252,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rs",
+       "created": 1646116894252,
+       "text": "【開寶藏】No.75《寶女所問經》西晉 月支三藏竺法護 譯 部別：大乘經 大集部 / 卷數：4 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rt",
+       "created": 1646116894252,
+       "text": "【崇寧藏】No.76《寶女所問經》 卷數：4 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Ru",
+       "created": 1646116894252,
+       "text": "【毘盧藏】No.72《寶女經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rv",
+       "created": 1646116894252,
+       "text": "【圓覺藏】No.73《寶女所問經》 卷數：4 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rw",
+       "created": 1646116894252,
+       "text": "【趙城金藏】No.74《寶女所問經》 卷數：4 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rx",
+       "created": 1646116894252,
+       "text": "【資福藏】No.76《寶女所問經》 卷數：4 (四卷) 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Ry",
+       "created": 1646116894252,
+       "text": "【磧砂藏】No.76《寶女所問經》晉 竺法護譯 部別：大集部 / 冊數：7 / 頁數：249 / 卷數：4 千字文：殷 1 (103)-殷 4 (103)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6Rz",
+       "created": 1646116894252,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S0",
+       "created": 1646116894252,
+       "text": "【高麗藏】No.74《寶女所問經》西晉月氏國三藏竺法護譯 部別：大乘經 大集部 / 冊數：7 頁數：1129 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S1",
+       "created": 1646116894252,
+       "text": "【普寧藏】No.73《寶女所問經》 卷數：4 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S2",
+       "created": 1646116894252,
+       "text": "【至元錄】No.145《寶女所問經》西晉天竺三藏竺法護譯 卷數：3 千字文：問(107)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S3",
+       "created": 1646116894252,
+       "text": "【洪武南藏】No.72《寶女所問經》西晉 三藏竺法護 譯 冊數：37 / 頁數：39 / 卷數：4 千字文：殷 1 (103)-殷 4 (103)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S4",
+       "created": 1646116894252,
+       "text": "【永樂南藏】No.73《寶女所問經》 部別：大乘經-大集部 千字文：發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S5",
+       "created": 1646116894252,
+       "text": "【永樂北藏】No.96《寶女所問經》西晉竺法護譯 部別：大乘經大集部 / 冊數：26 / 頁數：499 / 卷數：4 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S6",
+       "created": 1646116894252,
+       "text": "【嘉興藏】No.76《寶女所問經》西晉竺法護譯 部別：大乘經-大集部 / 法寶總目錄經號：0076 千字文 / 函號：［正藏］ 發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S7",
+       "created": 1646116894252,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S8",
+       "created": 1646116894252,
+       "text": "【乾隆藏】No.76《寶女所問經》西晉 竺法護譯 部別：大乘大集部 / 冊數：23 / 頁數：251 / 卷數：4 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwpw6S9",
+       "created": 1646116894252,
+       "text": "【縮刻藏】No.91《寶女所問經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：4 千字文：玄 5 (3)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6SA",
+       "created": 1646116894252,
+       "text": "【卍正藏】No.79《寶女所問經》西晉 竺法護譯 部別：大乘經 大集部 / 冊數：11 / 頁數：193 / 卷數：4 原版套數：第 7 套"
+      }},
+      {"data": {
+       "id": "z5cYwpw6SB",
+       "created": 1646116894252,
+       "text": "【大正藏】No.399《寶女所問經》西晉 竺法護譯 部別：大集部全 / 冊數：13 / 頁數：452 / 卷數：4 相關經典：縮-玄5,卍-7.2 參考資料：No.397(3)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6SC",
+       "created": 1646116894252,
+       "text": "【佛教大藏經】No.92《寶女所問經》西晉 竺法護譯 部別：大乘經 方等部三 / 冊數：5 / 頁數：800 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYwpw6SD",
+       "created": 1646116894252,
+       "text": "【中華藏】No.81《寶女所問經》西晉三藏竺法護譯 冊數：11 / 頁數：705 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwpw6SE",
+       "created": 1646116894252,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpw6SF",
+       "created": 1646116894252,
+       "text": "【南條文雄編號】 Nj. 0080"
+      }},
+      {"data": {
+       "id": "z5cYwpw6SG",
+       "created": 1646116894252,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：399"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwkrcw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

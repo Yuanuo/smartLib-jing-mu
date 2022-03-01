@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "奏進法語"},
+  "children": [{
+   "data": {
+    "id": "z5cYyJhXlR",
+    "created": 1646116899941,
+    "text": "現藏錄（日本 真盛撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyJhXkm",
+      "created": 1646116899941,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyJhXkn",
+        "created": 1646116899941,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJhXko",
+        "created": 1646116899941,
+        "text": "奏進法語",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJhXkp",
+        "created": 1646116899941,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJhXkq",
+        "created": 1646116899941,
+        "text": "奏进法语",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJhXkr",
+        "created": 1646116899941,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJhXks",
+        "created": 1646116899941,
+        "text": "zou jin fa yu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJhXkt",
+      "created": 1646116899941,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJhXku",
+      "created": 1646116899941,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJhXkv",
+      "created": 1646116899941,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJhXkw",
+       "created": 1646116899941,
+       "text": "日本 真盛撰"
+      }},
+      {"data": {
+       "id": "z5cYyJhXkx",
+       "created": 1646116899941,
+       "text": "真盛",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJhXky",
+      "created": 1646116899941,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJhXkz",
+      "created": 1646116899941,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJhXl0",
+      "created": 1646116899941,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJhXl1",
+       "created": 1646116899941,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl2",
+       "created": 1646116899941,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl3",
+       "created": 1646116899941,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl4",
+       "created": 1646116899941,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl5",
+       "created": 1646116899941,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl6",
+       "created": 1646116899941,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl7",
+       "created": 1646116899941,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl8",
+       "created": 1646116899941,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXl9",
+       "created": 1646116899941,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlA",
+       "created": 1646116899941,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlB",
+       "created": 1646116899941,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlC",
+       "created": 1646116899941,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlD",
+       "created": 1646116899941,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlE",
+       "created": 1646116899941,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlF",
+       "created": 1646116899941,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlG",
+       "created": 1646116899941,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlH",
+       "created": 1646116899941,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlI",
+       "created": 1646116899941,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlJ",
+       "created": 1646116899941,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlK",
+       "created": 1646116899941,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlL",
+       "created": 1646116899941,
+       "text": "【大正藏】No.2420《奏進法語》日本 真盛撰 部別：續諸宗部八 / 冊數：77 / 頁數：279 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyJhXlM",
+       "created": 1646116899941,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlN",
+       "created": 1646116899941,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlO",
+       "created": 1646116899941,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlP",
+       "created": 1646116899941,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJhXlQ",
+       "created": 1646116899941,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2420"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0yt20j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

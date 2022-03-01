@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "月林師觀禪師語錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYzXtuNv",
+    "created": 1646116904665,
+    "text": "現藏錄（(侍者) 法寶．法[王*壽]．慶會．法清．有宗．惟珪．道果．慧開．德秀 編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzXtuNF",
+      "created": 1646116904665,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzXtuNG",
+        "created": 1646116904665,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXtuNH",
+        "created": 1646116904665,
+        "text": "月林師觀禪師語錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzXtuNI",
+        "created": 1646116904665,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXtuNJ",
+        "created": 1646116904665,
+        "text": "月林师观禅师语录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzXtuNK",
+        "created": 1646116904665,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXtuNL",
+        "created": 1646116904665,
+        "text": "yue lin shi guan shan shi yu lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzXtuNM",
+      "created": 1646116904665,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzXtuNN",
+      "created": 1646116904665,
+      "text": "",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzXtuNO",
+      "created": 1646116904665,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzXtuNP",
+       "created": 1646116904665,
+       "text": "(侍者) 法寶．法[王*壽]．慶會．法清．有宗．惟珪．道果．慧開．德秀 編"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNQ",
+       "created": 1646116904665,
+       "text": "慧開",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYzXtuNR",
+       "created": 1646116904665,
+       "text": "法寶",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzXtuNS",
+      "created": 1646116904665,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzXtuNT",
+      "created": 1646116904665,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzXtuNU",
+      "created": 1646116904665,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzXtuNV",
+       "created": 1646116904665,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNW",
+       "created": 1646116904665,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNX",
+       "created": 1646116904665,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNY",
+       "created": 1646116904665,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNZ",
+       "created": 1646116904665,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNa",
+       "created": 1646116904665,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNb",
+       "created": 1646116904665,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNc",
+       "created": 1646116904665,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNd",
+       "created": 1646116904665,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNe",
+       "created": 1646116904665,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNf",
+       "created": 1646116904665,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNg",
+       "created": 1646116904665,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNh",
+       "created": 1646116904665,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNi",
+       "created": 1646116904665,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNj",
+       "created": 1646116904665,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNk",
+       "created": 1646116904665,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNl",
+       "created": 1646116904665,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNm",
+       "created": 1646116904665,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNn",
+       "created": 1646116904665,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNo",
+       "created": 1646116904665,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNp",
+       "created": 1646116904665,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNq",
+       "created": 1646116904665,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNr",
+       "created": 1646116904665,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNs",
+       "created": 1646116904665,
+       "text": "【新纂卍續藏】No.1354《月林師觀禪師語錄》(侍者) 法寶．法璹．慶會．法清．有宗．惟珪．道果．慧開．德秀 編 部別：中國撰述 諸宗著述部十六 禪宗語錄別集 / 冊數：69 / 頁數：345 / 卷數：1 《卍大日本續藏經》套數：第二編．第 25 套 《卍續藏經》(新文豐版)冊數：第 120 冊"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNt",
+       "created": 1646116904665,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXtuNu",
+       "created": 1646116904665,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1505"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4m03nj",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

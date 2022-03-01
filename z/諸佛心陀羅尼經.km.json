@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "諸佛心陀羅尼經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxGdDv1",
+    "created": 1646116895907,
+    "text": "現藏錄（唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxGdDu4",
+      "created": 1646116895907,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxGdDu5",
+        "created": 1646116895907,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGdDu6",
+        "created": 1646116895907,
+        "text": "諸佛心陀羅尼經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGdDu7",
+        "created": 1646116895907,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGdDu8",
+        "created": 1646116895907,
+        "text": "诸佛心陀罗尼经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGdDu9",
+        "created": 1646116895907,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGdDuA",
+        "created": 1646116895907,
+        "text": "zhu fo xin tuo luo ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGdDuI",
+        "created": 1646116895907,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGdDuJ",
+        "created": 1646116895907,
+        "text": "Chu fo hsin t'o lo ni ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGdDuK",
+        "created": 1646116895907,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGdDuL",
+        "created": 1646116895907,
+        "text": "Buddhahṛdayadhāraṇī(dharmaparyāya)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGdDuM",
+        "created": 1646116895907,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGdDuN",
+        "created": 1646116895907,
+        "text": "Saṅs-rgyas-kyi sñiṅ-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGdDuO",
+        "created": 1646116895907,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGdDuP",
+        "created": 1646116895907,
+        "text": "제불심타라니경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxGdDuB",
+      "created": 1646116895907,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxGdDuC",
+      "created": 1646116895907,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxGdDuD",
+      "created": 1646116895907,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxGdDuE",
+       "created": 1646116895907,
+       "text": "唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuF",
+       "created": 1646116895907,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxGdDuG",
+      "created": 1646116895907,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxGdDuH",
+      "created": 1646116895907,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxGdDuQ",
+      "created": 1646116895907,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxGdDuR",
+      "created": 1646116895907,
+      "text": "Translation by Hsüan-tsang: 26th day, 9th month, 1st year of Yung Hui (永徽), T'ang dynasty (唐) (October 26th, A.D. 650) in Ta-tz'u-en Monastery (大慈恩寺).T. 2154-556a:11."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxGdDuS",
+      "created": 1646116895907,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxGdDuT",
+       "created": 1646116895907,
+       "text": "【北京版】Rgyu d(na)15a-16b(ḥa)70a-72b"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuU",
+       "created": 1646116895907,
+       "text": "【奈塘版】Rgyud (da)58b-62a"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuV",
+       "created": 1646116895907,
+       "text": "【德格版】Rgyud-ḥbum(na)44b-46bGzuṅs-ḥdus (E)72b-74b"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuW",
+       "created": 1646116895907,
+       "text": "【拉薩版】Rgyud (tha)9b-12b"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuX",
+       "created": 1646116895907,
+       "text": "【卓尼版】Rgyud (na)20a-22b(ḥa)77a-80a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxGdDuY",
+      "created": 1646116895907,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxGdDuZ",
+      "created": 1646116895907,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxGdDua",
+      "created": 1646116895907,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxGdDub",
+       "created": 1646116895907,
+       "text": "【房山石經】No.213《諸佛心陀羅尼經》沙門玄奘奉詔譯 冊數：3 / 頁數：503 / 卷數：1 / 刻經年代：咸通三年 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYxGdDuc",
+       "created": 1646116895907,
+       "text": "【開寶藏】No.443《諸佛心陀羅尼經》唐 三藏玄奘 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：贊"
+      }},
+      {"data": {
+       "id": "z5cYxGdDud",
+       "created": 1646116895907,
+       "text": "【崇寧藏】No.435《諸佛心陀羅尼經》 卷數：1 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDue",
+       "created": 1646116895907,
+       "text": "【毘盧藏】No.446《諸佛心陀羅尼經》唐玄奘譯 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuf",
+       "created": 1646116895907,
+       "text": "【圓覺藏】No.459《諸佛心陀羅尼經》 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDug",
+       "created": 1646116895907,
+       "text": "【趙城金藏】No.445《諸佛心陀羅尼經》 卷數：1 千字文：讚"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuh",
+       "created": 1646116895907,
+       "text": "【資福藏】No.463《諸佛心陀羅尼經》 卷數：1 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDui",
+       "created": 1646116895907,
+       "text": "【磧砂藏】No.463《諸佛心陀羅尼經》唐 玄奘譯 部別：五大部外單譯經 / 冊數：13 / 頁數：681 / 卷數：1 千字文：羔 10 (199)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuj",
+       "created": 1646116895907,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuk",
+       "created": 1646116895907,
+       "text": "【高麗藏】No.444《諸佛心陀羅尼經》大唐三藏法師玄奘譯 部別：大乘經 單譯 / 冊數：13 頁數：1161 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：讚"
+      }},
+      {"data": {
+       "id": "z5cYxGdDul",
+       "created": 1646116895907,
+       "text": "【普寧藏】No.457《諸佛心陀羅尼經》 卷數：1 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDum",
+       "created": 1646116895907,
+       "text": "【至元錄】No.638《諸佛心陀羅尼經》唐三藏玄奘譯 梵名：晡怛　阿囉(二合)怛牙　拏麻陀羅尼 / 卷數：1 / 出處：(出內典錄) 千字文：資(241)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDun",
+       "created": 1646116895907,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuo",
+       "created": 1646116895907,
+       "text": "【永樂南藏】No.455《諸佛心陀羅尼經》 部別：大乘經-單譯經 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDup",
+       "created": 1646116895907,
+       "text": "【永樂北藏】No.515《諸佛心陀羅尼經》唐玄奘譯 部別：大乘經單經譯 / 冊數：53 / 頁數：625 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuq",
+       "created": 1646116895907,
+       "text": "【嘉興藏】No.484《諸佛心陀羅尼經》唐玄奘譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0484 千字文 / 函號：［正藏］ 行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDur",
+       "created": 1646116895907,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDus",
+       "created": 1646116895907,
+       "text": "【乾隆藏】No.485《諸佛心陀羅尼經》唐 玄奘譯 部別：大乘單譯經 / 冊數：45 / 頁數：385 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxGdDut",
+       "created": 1646116895907,
+       "text": "【縮刻藏】No.1141《諸佛心陀羅尼經》唐玄奘譯 部別：祕密部 / 卷數：1 千字文： 5 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuu",
+       "created": 1646116895907,
+       "text": "【卍正藏】No.491《諸佛心陀羅尼經》大唐 玄奘譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：945 / 卷數：1 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuv",
+       "created": 1646116895907,
+       "text": "【大正藏】No.918《諸佛心陀羅尼經》唐 玄奘譯 部別：密教部二 / 冊數：19 / 頁數：1 / 卷數：1 相關經典：縮-閏5,卍-12.5 參考資料：cf.No.919"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuw",
+       "created": 1646116895907,
+       "text": "【佛教大藏經】No.1211《諸佛心陀羅尼經》唐 玄奘譯 部別：密教部一 / 冊數：52 / 頁數：836 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxGdDux",
+       "created": 1646116895907,
+       "text": "【中華藏】No.487《諸佛心陀羅尼經》大唐三藏法師玄奘奉詔譯 冊數：24 / 頁數：24 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuy",
+       "created": 1646116895907,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGdDuz",
+       "created": 1646116895907,
+       "text": "【南條文雄編號】 Nj. 0489"
+      }},
+      {"data": {
+       "id": "z5cYxGdDv0",
+       "created": 1646116895907,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：918"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxurrs",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

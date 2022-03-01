@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "坐禪箴"},
+  "children": [{
+   "data": {
+    "id": "z5cYzZHuqg",
+    "created": 1646116904751,
+    "text": "現藏錄（日本 永平寺道元撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzZHuq1",
+      "created": 1646116904751,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzZHuq2",
+        "created": 1646116904751,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzZHuq3",
+        "created": 1646116904751,
+        "text": "坐禪箴",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzZHuq4",
+        "created": 1646116904751,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzZHuq5",
+        "created": 1646116904751,
+        "text": "坐禅箴",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzZHuq6",
+        "created": 1646116904751,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzZHuq7",
+        "created": 1646116904751,
+        "text": "zuo shan zhen"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzZHuq8",
+      "created": 1646116904751,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzZHuq9",
+      "created": 1646116904751,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzZHuqA",
+      "created": 1646116904751,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzZHuqB",
+       "created": 1646116904751,
+       "text": "日本 永平寺道元撰"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqC",
+       "created": 1646116904751,
+       "text": "道元",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzZHuqD",
+      "created": 1646116904751,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzZHuqE",
+      "created": 1646116904751,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzZHuqF",
+      "created": 1646116904751,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzZHuqG",
+       "created": 1646116904751,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqH",
+       "created": 1646116904751,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqI",
+       "created": 1646116904751,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqJ",
+       "created": 1646116904751,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqK",
+       "created": 1646116904751,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqL",
+       "created": 1646116904751,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqM",
+       "created": 1646116904751,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqN",
+       "created": 1646116904751,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqO",
+       "created": 1646116904751,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqP",
+       "created": 1646116904751,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqQ",
+       "created": 1646116904751,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqR",
+       "created": 1646116904751,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqS",
+       "created": 1646116904751,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqT",
+       "created": 1646116904751,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqU",
+       "created": 1646116904751,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqV",
+       "created": 1646116904751,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqW",
+       "created": 1646116904751,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqX",
+       "created": 1646116904751,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqY",
+       "created": 1646116904751,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqZ",
+       "created": 1646116904751,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqa",
+       "created": 1646116904751,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqb",
+       "created": 1646116904751,
+       "text": "【佛教大藏經】No.2084《坐禪箴》日本 道元撰 部別：撰述部 曹洞宗 / 冊數：84 / 頁數：440 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqc",
+       "created": 1646116904751,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqd",
+       "created": 1646116904751,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqe",
+       "created": 1646116904751,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzZHuqf",
+       "created": 1646116904751,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：685"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4of3or",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

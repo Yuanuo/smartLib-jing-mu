@@ -1,0 +1,708 @@
+{
+ "root": {
+  "data": {"text": "大乘四法經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx9GBt6",
+     "created": 1646116895450,
+     "text": "現藏錄（唐 地婆訶羅譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx9DBs9",
+       "created": 1646116895447,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx9DBsA",
+         "created": 1646116895447,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9DBsB",
+         "created": 1646116895447,
+         "text": "大乘四法經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9DBsC",
+         "created": 1646116895447,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9DBsD",
+         "created": 1646116895447,
+         "text": "大乘四法经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9EBsE",
+         "created": 1646116895448,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9EBsF",
+         "created": 1646116895448,
+         "text": "da cheng si fa jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9EBsN",
+         "created": 1646116895448,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9EBsO",
+         "created": 1646116895448,
+         "text": "Ta ch'eng ssu fa ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9EBsP",
+         "created": 1646116895448,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9EBsQ",
+         "created": 1646116895448,
+         "text": "Caturdharmakasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9EBsR",
+         "created": 1646116895448,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9EBsS",
+         "created": 1646116895448,
+         "text": "Chos-bshi pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9EBsT",
+         "created": 1646116895448,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9EBsU",
+         "created": 1646116895448,
+         "text": "대승사법경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9EBsG",
+       "created": 1646116895448,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9EBsH",
+       "created": 1646116895448,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9EBsI",
+       "created": 1646116895448,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9EBsJ",
+        "created": 1646116895448,
+        "text": "唐 地婆訶羅譯"
+       }},
+       {"data": {
+        "id": "z5cYx9EBsK",
+        "created": 1646116895448,
+        "text": "地婆訶羅",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9EBsL",
+       "created": 1646116895448,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9EBsM",
+       "created": 1646116895448,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9EBsV",
+       "created": 1646116895448,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9EBsW",
+       "created": 1646116895448,
+       "text": "Translation by Divākara: 1st year of Yung Lung (永隆), T'ang dynasty (唐) (A.D. 680) in Tung-t'ai-yüan Monastery (東太原寺).T. 2154-563c:24."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9EBsX",
+       "created": 1646116895448,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9EBsY",
+        "created": 1646116895448,
+        "text": "【北京版】Mdo-sna-tshogs (shu)64b65a"
+       }},
+       {"data": {
+        "id": "z5cYx9EBsZ",
+        "created": 1646116895448,
+        "text": "【奈塘版】Mdo (wa)86a-87a"
+       }},
+       {"data": {
+        "id": "z5cYx9EBsa",
+        "created": 1646116895448,
+        "text": "【德格版】Mdo-sde (za)60b-61a"
+       }},
+       {"data": {
+        "id": "z5cYx9EBsb",
+        "created": 1646116895448,
+        "text": "【拉薩版】Mdo (wa)92a-93a"
+       }},
+       {"data": {
+        "id": "z5cYx9EBsc",
+        "created": 1646116895448,
+        "text": "【卓尼版】Mdo-maṅ (za)69a-b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9EBsd",
+       "created": 1646116895448,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9EBse",
+       "created": 1646116895448,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9EBsf",
+       "created": 1646116895448,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9EBsg",
+        "created": 1646116895448,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9EBsh",
+        "created": 1646116895448,
+        "text": "【開寶藏】No.246《四法經》唐 中天竺三藏地婆訶羅于東太原寺 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsi",
+        "created": 1646116895449,
+        "text": "【崇寧藏】No.250《大乘四法經》 卷數：1 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsj",
+        "created": 1646116895449,
+        "text": "【毘盧藏】No.243《大乘四法經》唐地婆訶羅譯 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsk",
+        "created": 1646116895449,
+        "text": "【圓覺藏】No.256《大乘四法經》 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsl",
+        "created": 1646116895449,
+        "text": "【趙城金藏】No.246《大乘四法經》 卷數：1 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsm",
+        "created": 1646116895449,
+        "text": "【資福藏】No.260《大乘四法經》 卷數：1 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsn",
+        "created": 1646116895449,
+        "text": "【磧砂藏】No.261《大乘四法經》唐 地婆訶羅譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：189 / 卷數：1 千字文：傷 8 (160)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBso",
+        "created": 1646116895449,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsp",
+        "created": 1646116895449,
+        "text": "【高麗藏】No.246《大乘四法經》大唐天竺三藏地婆訶羅譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：525 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsq",
+        "created": 1646116895449,
+        "text": "【普寧藏】No.255《大乘四法經》 卷數：1 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsr",
+        "created": 1646116895449,
+        "text": "【至元錄】No.323《大乘四法經》唐天竺三藏地婆訶羅譯(於東太原寺譯) 梵名：阿唎(二合)亞　茶都失(二合)迦　儞哩(二合)訶羅拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：1 / 出處：(出大周錄) / 譯次：(第一譯) 千字文：改(172)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBss",
+        "created": 1646116895449,
+        "text": "【洪武南藏】No.228《大乘四法經》唐 中天竺三藏地婆訶羅 奉敕於東太原寺初譯 冊數：54 / 頁數：472 / 卷數：1 千字文：傷 8 (160)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBst",
+        "created": 1646116895449,
+        "text": "【永樂南藏】No.251《大乘四法經》 部別：大乘經-五大部外重譯經 千字文：效(166)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsu",
+        "created": 1646116895449,
+        "text": "【永樂北藏】No.290《佛說大乘四法經》唐地婆訶羅譯 部別：大乘經五大部外重譯經 / 冊數：44 / 頁數：310 / 卷數：1 千字文：良"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsv",
+        "created": 1646116895449,
+        "text": "【嘉興藏】No.261《大乘四法經》唐地婆訶羅譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0261 千字文 / 函號：［正藏］ 良(168)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsw",
+        "created": 1646116895449,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsx",
+        "created": 1646116895449,
+        "text": "【乾隆藏】No.262《佛說大乘四法經》唐 地婆訶羅初譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：826 / 卷數：1 千字文：良"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsy",
+        "created": 1646116895449,
+        "text": "【縮刻藏】No.336《大乘四法經》唐地婆訶羅譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 7 (6)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBsz",
+        "created": 1646116895449,
+        "text": "【卍正藏】No.266《大乘四法經》大唐 地婆訶羅譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：312 / 卷數：1 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYx9FBt0",
+        "created": 1646116895449,
+        "text": "【大正藏】No.772《大乘四法經》唐 地婆訶羅譯 部別：經集部四 / 冊數：17 / 頁數：708 / 卷數：1 相關經典：縮-宙7,卍-10.7 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYx9FBt1",
+        "created": 1646116895449,
+        "text": "【佛教大藏經】No.339《大乘四法經》唐 地婆訶羅譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：284 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx9FBt2",
+        "created": 1646116895449,
+        "text": "【中華藏】No.267《大乘四法經》大唐天竺三藏地婆訶羅譯 冊數：19 / 頁數：223 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx9FBt3",
+        "created": 1646116895449,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9FBt4",
+        "created": 1646116895449,
+        "text": "【南條文雄編號】 Nj. 0266"
+       }},
+       {"data": {
+        "id": "z5cYx9FBt5",
+        "created": 1646116895449,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：772"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYx9YBux",
+     "created": 1646116895468,
+     "text": "現藏錄（唐 實叉難陀譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx9WBu0",
+       "created": 1646116895466,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx9WBu1",
+         "created": 1646116895466,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9WBu2",
+         "created": 1646116895466,
+         "text": "大乘四法經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9WBu3",
+         "created": 1646116895466,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9WBu4",
+         "created": 1646116895466,
+         "text": "大乘四法经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9WBu5",
+         "created": 1646116895466,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9WBu6",
+         "created": 1646116895466,
+         "text": "da cheng si fa jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9WBuE",
+         "created": 1646116895466,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9WBuF",
+         "created": 1646116895466,
+         "text": "Ta ch'eng ssu fa ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9WBuG",
+         "created": 1646116895466,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9WBuH",
+         "created": 1646116895466,
+         "text": "Catuṣkanirhārasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9WBuI",
+         "created": 1646116895466,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9WBuJ",
+         "created": 1646116895466,
+         "text": "Bshi-pa sgrub-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx9WBuK",
+         "created": 1646116895466,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx9WBuL",
+         "created": 1646116895466,
+         "text": "대승사법경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9WBu7",
+       "created": 1646116895466,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9WBu8",
+       "created": 1646116895466,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9WBu9",
+       "created": 1646116895466,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9WBuA",
+        "created": 1646116895466,
+        "text": "唐 實叉難陀譯"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuB",
+        "created": 1646116895466,
+        "text": "實叉難陀",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9WBuC",
+       "created": 1646116895466,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9WBuD",
+       "created": 1646116895466,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9WBuM",
+       "created": 1646116895466,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9WBuN",
+       "created": 1646116895466,
+       "text": "Translation by Śikṣānanda: between the 1st year of Cheng Sheng (證聖)and the 1st year of Chiu Shih(久視), T'ang dynasty (唐 (A.D. 695-700) in Ch'ing-ch'an Monastery (淸禪寺), Hsi-ching (西京), or in Shou-chi Monastery (授記寺), Tung tu (東都).T.2152-369c:9."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9WBuO",
+       "created": 1646116895466,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9WBuP",
+        "created": 1646116895466,
+        "text": "【北京版】Mdo-sna-tshogs (su)65a-74bMdo-sna-tshogs (bu)250b-251a"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuQ",
+        "created": 1646116895466,
+        "text": "【奈塘版】Mdo (wa)87a-99bMdo (pha)382a-383a"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuR",
+        "created": 1646116895466,
+        "text": "【德格版】Mdo-sde (za)61a-69bMdo-sde (ma)240a-b"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuS",
+        "created": 1646116895466,
+        "text": "【拉薩版】Mdo (wa)93a-106bMdo (pha)376b-377b"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuT",
+        "created": 1646116895466,
+        "text": "【卓尼版】Mdo-maṅ (za)70a-79bMdo-maṅ (ma)295b-296b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx9WBuU",
+       "created": 1646116895466,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx9WBuV",
+       "created": 1646116895466,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx9WBuW",
+       "created": 1646116895466,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx9WBuX",
+        "created": 1646116895466,
+        "text": "【房山石經】No.185《大乘四法經》于闐國三藏法師實叉難陀奉制譯 冊數：3 / 頁數：480 / 卷數：1 / 刻經年代： / 瀏覽：目錄圖檔 千字文： 【房山石經】No.284《大乘四法經》于闐國三藏法師實叉難陀譯 冊數：3 / 頁數：596 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.639《大乘四法經》(大唐)于闐國三藏法師實叉難陀奉制譯 冊數：14 / 頁數：59 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：行"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuY",
+        "created": 1646116895466,
+        "text": "【開寶藏】No.489《四法經》唐 天后代于闐三藏實叉難陀 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羊"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuZ",
+        "created": 1646116895466,
+        "text": "【崇寧藏】No.484《大乘四方經》 卷數：1 千字文：景(201)"
+       }},
+       {"data": {
+        "id": "z5cYx9WBua",
+        "created": 1646116895466,
+        "text": "【毘盧藏】No.481《大乘四法經》唐實叉難陀譯 千字文：景(201)"
+       }},
+       {"data": {
+        "id": "z5cYx9WBub",
+        "created": 1646116895466,
+        "text": "【圓覺藏】No.511《大乘四法經》 千字文：景(201)"
+       }},
+       {"data": {
+        "id": "z5cYx9WBuc",
+        "created": 1646116895466,
+        "text": "【趙城金藏】No.486《大乘四法經》 卷數：1 千字文：羊"
+       }},
+       {"data": {
+        "id": "z5cYx9XBud",
+        "created": 1646116895467,
+        "text": "【資福藏】No.517《大乘四法經》 卷數：1 千字文：景(201)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBue",
+        "created": 1646116895467,
+        "text": "【磧砂藏】No.499《大乘四法經》唐 實叉難陀譯 部別：五大部外單譯經 / 冊數：13 / 頁數：762 / 卷數：1 千字文：景 4 (201)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuf",
+        "created": 1646116895467,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBug",
+        "created": 1646116895467,
+        "text": "【高麗藏】No.485《大乘四法經》于闐國三藏實叉難陀譯 部別：大乘經 單譯 / 冊數：13 頁數：1296 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羊"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuh",
+        "created": 1646116895467,
+        "text": "【普寧藏】No.493《大乘四法經》 卷數：1 千字文：景(201)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBui",
+        "created": 1646116895467,
+        "text": "【至元錄】No.447《大乘四法經》于闐國三藏實叉難陀譯 梵名：阿唎(二合)亞　茶都失(二合)迦儞哩(二合)訶囉　拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：1 / 出處：(新編入錄) 千字文：絲(195)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuj",
+        "created": 1646116895467,
+        "text": "【洪武南藏】No.437《大乘四法經》唐 于闐國三藏法師實叉難陀 奉制譯 冊數：68 / 頁數：233 / 卷數：1 千字文：景 4 (201)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuk",
+        "created": 1646116895467,
+        "text": "【永樂南藏】No.492《大乘四法經》 部別：大乘經-單譯經 千字文：維(203)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBul",
+        "created": 1646116895467,
+        "text": "【永樂北藏】No.546《大乘四法經》唐實叉難陀譯 部別：大乘經單經譯 / 冊數：54 / 頁數：1 / 卷數：1 千字文：維"
+       }},
+       {"data": {
+        "id": "z5cYx9XBum",
+        "created": 1646116895467,
+        "text": "【嘉興藏】No.515《大乘四法經》唐實叉難陀譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0515 千字文 / 函號：［正藏］ 維(203)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBun",
+        "created": 1646116895467,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuo",
+        "created": 1646116895467,
+        "text": "【乾隆藏】No.516《大乘四法經》唐 實叉難陀譯 部別：大乘單譯經 / 冊數：45 / 頁數：635 / 卷數：1 千字文：維"
+       }},
+       {"data": {
+        "id": "z5cYx9XBup",
+        "created": 1646116895467,
+        "text": "【縮刻藏】No.338《大乘四法經》唐實叉難陀譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 7 (6)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuq",
+        "created": 1646116895467,
+        "text": "【卍正藏】No.522《大乘四法經》實叉難陀譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：109 / 卷數：1 原版套數：第 12 套"
+       }},
+       {"data": {
+        "id": "z5cYx9XBur",
+        "created": 1646116895467,
+        "text": "【大正藏】No.774《大乘四法經》唐 實叉難陀譯 部別：經集部四 / 冊數：17 / 頁數：709 / 卷數：1 相關經典：縮-宙7,卍-12.6 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYx9XBus",
+        "created": 1646116895467,
+        "text": "【佛教大藏經】No.341《大乘四法經》唐 實叉難陀譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：285 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx9XBut",
+        "created": 1646116895467,
+        "text": "【中華藏】No.537《大乘四法經》于闐國三藏法師實叉難陀奉制譯 冊數：24 / 頁數：253 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuu",
+        "created": 1646116895467,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuv",
+        "created": 1646116895467,
+        "text": "【南條文雄編號】 Nj. 0520"
+       }},
+       {"data": {
+        "id": "z5cYx9XBuw",
+        "created": 1646116895467,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：774"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxhxni",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "歎異抄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyUfaVl",
+    "created": 1646116900621,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyUeaV9",
+      "created": 1646116900620,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyUeaVA",
+        "created": 1646116900620,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUeaVB",
+        "created": 1646116900620,
+        "text": "歎異抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUeaVC",
+        "created": 1646116900620,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUeaVD",
+        "created": 1646116900620,
+        "text": "叹异抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUeaVE",
+        "created": 1646116900620,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUeaVF",
+        "created": 1646116900620,
+        "text": "tan yi chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyUeaVG",
+      "created": 1646116900620,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUeaVH",
+      "created": 1646116900620,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUeaVI",
+      "created": 1646116900620,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUeaVJ",
+      "created": 1646116900620,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUeaVK",
+      "created": 1646116900620,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyUeaVL",
+       "created": 1646116900620,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUeaVM",
+       "created": 1646116900620,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUeaVN",
+       "created": 1646116900620,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUeaVO",
+       "created": 1646116900620,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUeaVP",
+       "created": 1646116900620,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUeaVQ",
+       "created": 1646116900620,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVR",
+       "created": 1646116900621,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVS",
+       "created": 1646116900621,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVT",
+       "created": 1646116900621,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVU",
+       "created": 1646116900621,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVV",
+       "created": 1646116900621,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVW",
+       "created": 1646116900621,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVX",
+       "created": 1646116900621,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVY",
+       "created": 1646116900621,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVZ",
+       "created": 1646116900621,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVa",
+       "created": 1646116900621,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVb",
+       "created": 1646116900621,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVc",
+       "created": 1646116900621,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVd",
+       "created": 1646116900621,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVe",
+       "created": 1646116900621,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVf",
+       "created": 1646116900621,
+       "text": "【大正藏】No.2661《歎異抄》 部別：續諸宗部十四 / 冊數：83 / 頁數：728 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyUfaVg",
+       "created": 1646116900621,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVh",
+       "created": 1646116900621,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVi",
+       "created": 1646116900621,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVj",
+       "created": 1646116900621,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUfaVk",
+       "created": 1646116900621,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2661"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1ho27j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

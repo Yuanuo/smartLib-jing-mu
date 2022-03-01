@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "華嚴經疏論纂要"},
+  "children": [{
+   "data": {
+    "id": "z5cYyxJjBe",
+    "created": 1646116902397,
+    "text": "現藏錄（唐 澄觀疏　唐 李通玄論　唐 道沛纂要）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyxJjAy",
+      "created": 1646116902397,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyxJjAz",
+        "created": 1646116902397,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyxJjB0",
+        "created": 1646116902397,
+        "text": "華嚴經疏論纂要",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyxJjB1",
+        "created": 1646116902397,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyxJjB2",
+        "created": 1646116902397,
+        "text": "华严经疏论纂要",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyxJjB3",
+        "created": 1646116902397,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyxJjB4",
+        "created": 1646116902397,
+        "text": "hua yan jing shu lun zuan yao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyxJjB5",
+      "created": 1646116902397,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyxJjB6",
+      "created": 1646116902397,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyxJjB7",
+      "created": 1646116902397,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyxJjB8",
+       "created": 1646116902397,
+       "text": "唐 澄觀疏　唐 李通玄論　唐 道沛纂要"
+      }},
+      {"data": {
+       "id": "z5cYyxJjB9",
+       "created": 1646116902397,
+       "text": "李通玄",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYyxJjBA",
+       "created": 1646116902397,
+       "text": "澄觀",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyxJjBB",
+      "created": 1646116902397,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyxJjBC",
+      "created": 1646116902397,
+      "text": "120"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyxJjBD",
+      "created": 1646116902397,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyxJjBE",
+       "created": 1646116902397,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBF",
+       "created": 1646116902397,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBG",
+       "created": 1646116902397,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBH",
+       "created": 1646116902397,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBI",
+       "created": 1646116902397,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBJ",
+       "created": 1646116902397,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBK",
+       "created": 1646116902397,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBL",
+       "created": 1646116902397,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBM",
+       "created": 1646116902397,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBN",
+       "created": 1646116902397,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBO",
+       "created": 1646116902397,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBP",
+       "created": 1646116902397,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBQ",
+       "created": 1646116902397,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBR",
+       "created": 1646116902397,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBS",
+       "created": 1646116902397,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBT",
+       "created": 1646116902397,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBU",
+       "created": 1646116902397,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBV",
+       "created": 1646116902397,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBW",
+       "created": 1646116902397,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBX",
+       "created": 1646116902397,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBY",
+       "created": 1646116902397,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBZ",
+       "created": 1646116902397,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBa",
+       "created": 1646116902397,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBb",
+       "created": 1646116902397,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBc",
+       "created": 1646116902397,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxJjBd",
+       "created": 1646116902397,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】 (未收錄)"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2v12ub",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

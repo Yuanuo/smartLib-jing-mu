@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "月舟和尚遺錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyRsZkY",
+    "created": 1646116900448,
+    "text": "現藏錄（日本 月舟宗胡語、侍者曹源編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyRsZjs",
+      "created": 1646116900448,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyRsZjt",
+        "created": 1646116900448,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRsZju",
+        "created": 1646116900448,
+        "text": "月舟和尚遺錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRsZjv",
+        "created": 1646116900448,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRsZjw",
+        "created": 1646116900448,
+        "text": "月舟和尚遗录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyRsZjx",
+        "created": 1646116900448,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyRsZjy",
+        "created": 1646116900448,
+        "text": "yue zhou he shang yi lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRsZjz",
+      "created": 1646116900448,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRsZk0",
+      "created": 1646116900448,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRsZk1",
+      "created": 1646116900448,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRsZk2",
+       "created": 1646116900448,
+       "text": "日本 月舟宗胡語、侍者曹源編"
+      }},
+      {"data": {
+       "id": "z5cYyRsZk3",
+       "created": 1646116900448,
+       "text": "曹源",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYyRsZk4",
+       "created": 1646116900448,
+       "text": "月舟宗胡",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyRsZk5",
+      "created": 1646116900448,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyRsZk6",
+      "created": 1646116900448,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyRsZk7",
+      "created": 1646116900448,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyRsZk8",
+       "created": 1646116900448,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZk9",
+       "created": 1646116900448,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkA",
+       "created": 1646116900448,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkB",
+       "created": 1646116900448,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkC",
+       "created": 1646116900448,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkD",
+       "created": 1646116900448,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkE",
+       "created": 1646116900448,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkF",
+       "created": 1646116900448,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkG",
+       "created": 1646116900448,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkH",
+       "created": 1646116900448,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkI",
+       "created": 1646116900448,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkJ",
+       "created": 1646116900448,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkK",
+       "created": 1646116900448,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkL",
+       "created": 1646116900448,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkM",
+       "created": 1646116900448,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkN",
+       "created": 1646116900448,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkO",
+       "created": 1646116900448,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkP",
+       "created": 1646116900448,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkQ",
+       "created": 1646116900448,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkR",
+       "created": 1646116900448,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkS",
+       "created": 1646116900448,
+       "text": "【大正藏】No.2596《月舟和尚遺錄》日本 月舟宗胡語、侍者曹源編 部別：續諸宗部十三 / 冊數：82 / 頁數：549 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyRsZkT",
+       "created": 1646116900448,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkU",
+       "created": 1646116900448,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkV",
+       "created": 1646116900448,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkW",
+       "created": 1646116900448,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyRsZkX",
+       "created": 1646116900448,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2596"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1cw25l",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

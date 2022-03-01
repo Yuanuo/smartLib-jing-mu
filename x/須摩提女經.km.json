@@ -1,0 +1,571 @@
+{
+ "root": {
+  "data": {"text": "須摩提女經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwVd1oM",
+     "created": 1646116892993,
+     "text": "現藏錄（吳 支謙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwVc1nU",
+       "created": 1646116892992,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwVc1nV",
+         "created": 1646116892992,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVc1nW",
+         "created": 1646116892992,
+         "text": "須摩提女經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVc1nX",
+         "created": 1646116892992,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVc1nY",
+         "created": 1646116892992,
+         "text": "须摩提女经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVc1nZ",
+         "created": 1646116892992,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVc1na",
+         "created": 1646116892992,
+         "text": "xu mo ti nv jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVc1ni",
+         "created": 1646116892992,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVc1nj",
+         "created": 1646116892992,
+         "text": "Hsü mo t'i nü ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVc1nk",
+         "created": 1646116892992,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVc1nl",
+         "created": 1646116892992,
+         "text": "Sumāgadhāvadānasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVc1nm",
+         "created": 1646116892992,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVc1nn",
+         "created": 1646116892992,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVc1no",
+         "created": 1646116892992,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVc1np",
+         "created": 1646116892992,
+         "text": "수마제녀경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwVc1nb",
+       "created": 1646116892992,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwVc1nc",
+       "created": 1646116892992,
+       "text": "吳",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwVc1nd",
+       "created": 1646116892992,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwVc1ne",
+        "created": 1646116892992,
+        "text": "吳 支謙譯"
+       }},
+       {"data": {
+        "id": "z5cYwVc1nf",
+        "created": 1646116892992,
+        "text": "支謙",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwVc1ng",
+       "created": 1646116892992,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwVc1nh",
+       "created": 1646116892992,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwVc1nq",
+       "created": 1646116892992,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwVc1nr",
+       "created": 1646116892992,
+       "text": "Translation by Chih-ch'ien: (see K.720)."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwVc1ns",
+      "created": 1646116892992,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwVc1nt",
+       "created": 1646116892992,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwVc1nu",
+       "created": 1646116892992,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwVc1nv",
+       "created": 1646116892992,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwVc1nw",
+        "created": 1646116892992,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1nx",
+        "created": 1646116892992,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1ny",
+        "created": 1646116892992,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1nz",
+        "created": 1646116892992,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o0",
+        "created": 1646116892992,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o1",
+        "created": 1646116892992,
+        "text": "【趙城金藏】No.725《須摩提女經》 卷數：1 千字文：止"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o2",
+        "created": 1646116892992,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o3",
+        "created": 1646116892992,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o4",
+        "created": 1646116892992,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o5",
+        "created": 1646116892992,
+        "text": "【高麗藏】No.723《須摩提女經》吳月支國居士支謙譯 部別：小乘經 阿含部 / 冊數：19 頁數：643 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：止"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o6",
+        "created": 1646116892992,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o7",
+        "created": 1646116892992,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o8",
+        "created": 1646116892992,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1o9",
+        "created": 1646116892992,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oA",
+        "created": 1646116892992,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oB",
+        "created": 1646116892992,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oC",
+        "created": 1646116892992,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oD",
+        "created": 1646116892992,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oE",
+        "created": 1646116892992,
+        "text": "【縮刻藏】No.456《須摩提女經》吳支謙譯 部別：小乘經 / 卷數：1 千字文：昃 4 (12)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oF",
+        "created": 1646116892992,
+        "text": "【卍正藏】No.618《須摩提女經》吳 支謙譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：300 / 卷數：1 原版套數：第 14 套"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oG",
+        "created": 1646116892992,
+        "text": "【大正藏】No.128a《須摩提女經》吳 支謙譯 部別：阿含部下 / 冊數：2 / 頁數：835 / 卷數：1 相關經典：縮-昃4,卍-14.2 參考資料：Nos.125(30.3),129,130"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oH",
+        "created": 1646116892992,
+        "text": "【佛教大藏經】No.464《須摩提女經》吳 支謙譯 部別：小乘經 阿含部一 / 冊數：23 / 頁數：485 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oI",
+        "created": 1646116892992,
+        "text": "【中華藏】No.772《佛說阿含經須摩提女度眾生品》吳月氏國居士支謙譯 冊數：34 / 頁數：188 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oJ",
+        "created": 1646116892992,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oK",
+        "created": 1646116892992,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVc1oL",
+        "created": 1646116892992,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：128"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwVh1p2",
+     "created": 1646116892997,
+     "text": "現藏錄（吳 支謙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwVg1oN",
+       "created": 1646116892996,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwVg1oO",
+         "created": 1646116892996,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVg1oP",
+         "created": 1646116892996,
+         "text": "須摩提女經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVg1oQ",
+         "created": 1646116892996,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVg1oR",
+         "created": 1646116892996,
+         "text": "须摩提女经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwVg1oS",
+         "created": 1646116892996,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwVg1oT",
+         "created": 1646116892996,
+         "text": "xu mo ti nv jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwVg1oU",
+       "created": 1646116892996,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwVg1oV",
+       "created": 1646116892996,
+       "text": "吳"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwVg1oW",
+       "created": 1646116892996,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwVg1oX",
+        "created": 1646116892996,
+        "text": "吳 支謙譯"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oY",
+        "created": 1646116892996,
+        "text": "支謙"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwVg1oZ",
+       "created": 1646116892996,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwVg1oa",
+       "created": 1646116892996,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwVg1ob",
+       "created": 1646116892996,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwVg1oc",
+        "created": 1646116892996,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1od",
+        "created": 1646116892996,
+        "text": "【開寶藏】No.717《須摩提女經》吳 月支優婆塞支謙 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：止"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oe",
+        "created": 1646116892996,
+        "text": "【崇寧藏】No.719《須摩提女經》 卷數：1 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1of",
+        "created": 1646116892996,
+        "text": "【毘盧藏】No.720《須摩提女經》吳支謙譯 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1og",
+        "created": 1646116892996,
+        "text": "【圓覺藏】No.727《須摩提女經》 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oh",
+        "created": 1646116892996,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oi",
+        "created": 1646116892996,
+        "text": "【資福藏】No.732《須摩提女經》 卷數：1 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oj",
+        "created": 1646116892996,
+        "text": "【磧砂藏】No.739《須摩提女經》吳 支謙譯 部別：阿含部 / 冊數：18 / 頁數：854 / 卷數：1 千字文：若 7 (283)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1ok",
+        "created": 1646116892996,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1ol",
+        "created": 1646116892996,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1om",
+        "created": 1646116892996,
+        "text": "【普寧藏】No.731《須摩提女經》 卷數：1 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1on",
+        "created": 1646116892996,
+        "text": "【至元錄】No.961《須摩提女經》吳月支優婆塞支謙譯 卷數：1 千字文：仕(308)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oo",
+        "created": 1646116892996,
+        "text": "【洪武南藏】No.659《須摩提女經》吴 月支優婆塞支謙 譯 冊數：99 / 頁數：426 / 卷數：1 千字文：若 7 (283)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1op",
+        "created": 1646116892996,
+        "text": "【永樂南藏】No.608《須摩提女經》 部別：小乘經-阿含部 千字文：緣(230)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oq",
+        "created": 1646116892996,
+        "text": "【永樂北藏】No.645《須摩提女經》吳支謙譯 部別：小乘經阿含部 / 冊數：62 / 頁數：59 / 卷數：1 千字文：善"
+       }},
+       {"data": {
+        "id": "z5cYwVg1or",
+        "created": 1646116892996,
+        "text": "【嘉興藏】No.610《須摩提女經》吳支謙譯 部別：小乘經-阿含部 / 法寶總目錄經號：0610 千字文 / 函號：［正藏］ 善(231)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1os",
+        "created": 1646116892996,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1ot",
+        "created": 1646116892996,
+        "text": "【乾隆藏】No.611《須摩提女經》吳 支謙譯 部別：小乘阿含部 / 冊數：52 / 頁數：124 / 卷數：1 千字文：善"
+       }},
+       {"data": {
+        "id": "z5cYwVg1ou",
+        "created": 1646116892996,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1ov",
+        "created": 1646116892996,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1ow",
+        "created": 1646116892996,
+        "text": "【大正藏】No.128b《須摩提女經》吳 支謙譯 部別：阿含部下 / 冊數：2 / 頁數：837 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwVg1ox",
+        "created": 1646116892996,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oy",
+        "created": 1646116892996,
+        "text": "【中華藏】No.773《須摩提女經(別本)》吳月支優婆塞支謙譯 冊數：34 / 頁數：194 / 卷數：1 / 底本：凊藏本"
+       }},
+       {"data": {
+        "id": "z5cYwVg1oz",
+        "created": 1646116892996,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwVg1p0",
+        "created": 1646116892996,
+        "text": "【南條文雄編號】 Nj. 0615"
+       }},
+       {"data": {
+        "id": "z5cYwVg1p1",
+        "created": 1646116892996,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：128"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvlr3j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

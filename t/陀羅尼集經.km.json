@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "陀羅尼集經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxFxDij",
+    "created": 1646116895865,
+    "text": "現藏錄（唐 阿地瞿多譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxFwDhm",
+      "created": 1646116895864,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxFwDhn",
+        "created": 1646116895864,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFwDho",
+        "created": 1646116895864,
+        "text": "陀羅尼集經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFwDhp",
+        "created": 1646116895864,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFwDhq",
+        "created": 1646116895864,
+        "text": "陀罗尼集经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFwDhr",
+        "created": 1646116895864,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFwDhs",
+        "created": 1646116895864,
+        "text": "tuo luo ni ji jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFwDi0",
+        "created": 1646116895864,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFwDi1",
+        "created": 1646116895864,
+        "text": "T'o to ni chi ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFwDi2",
+        "created": 1646116895864,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFwDi3",
+        "created": 1646116895864,
+        "text": "Dhāraṇīsamuccaya(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFwDi4",
+        "created": 1646116895864,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFxDi5",
+        "created": 1646116895865,
+        "text": "Ḥphags pa spyan-ras gzigs dbaṅ phyug hayagrībaḥi gzuṅs"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFxDi6",
+        "created": 1646116895865,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFxDi7",
+        "created": 1646116895865,
+        "text": "타라니집경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxFwDht",
+      "created": 1646116895864,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxFwDhu",
+      "created": 1646116895864,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxFwDhv",
+      "created": 1646116895864,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxFwDhw",
+       "created": 1646116895864,
+       "text": "唐 阿地瞿多譯"
+      }},
+      {"data": {
+       "id": "z5cYxFwDhx",
+       "created": 1646116895864,
+       "text": "阿地瞿多",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxFwDhy",
+      "created": 1646116895864,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxFwDhz",
+      "created": 1646116895864,
+      "text": "12"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxFxDi8",
+      "created": 1646116895865,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxFxDi9",
+      "created": 1646116895865,
+      "text": "Translation by Atigupta: 15th day, 4th month, 5th year of Yung Hui (永徽), T'ang dynasty (唐) (May 6th, A.D. 654) in Hui-jih Monastery (慧日寺), Hsi-ching (西京).T. 2149-260c:16."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxFxDiA",
+      "created": 1646116895865,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxFxDiB",
+       "created": 1646116895865,
+       "text": "【北京版】Rgyud (tsa)39a-b(ḥa)230b-231b"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiC",
+       "created": 1646116895865,
+       "text": "【奈塘版】Rgyud (pha)436b-438a"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiD",
+       "created": 1646116895865,
+       "text": "【德格版】Rgyud-ḥbum (tsha)225a-b232a-233a"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiE",
+       "created": 1646116895865,
+       "text": "【拉薩版】Rgyud (pha)27b-28b"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiF",
+       "created": 1646116895865,
+       "text": "【卓尼版】Rgyud (tsa)43a-44a(ḥa)250b-251b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxFxDiG",
+      "created": 1646116895865,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxFxDiH",
+      "created": 1646116895865,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxFxDiI",
+      "created": 1646116895865,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxFxDiJ",
+       "created": 1646116895865,
+       "text": "【房山石經】No.484《陀羅尼集經》(大唐)中天竺三藏阿地瞿多譯 冊數：11 / 頁數：1 / 卷數：12 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：良知"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiK",
+       "created": 1646116895865,
+       "text": "【開寶藏】No.309《陀羅尼集經》唐 中天竺三藏阿地瞿多 譯 部別：大乘經 五大部外諸重譯經 / 卷數：12 千字文：效"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiL",
+       "created": 1646116895865,
+       "text": "【崇寧藏】No.308《佛說陀羅尼集經》 卷數：12 千字文：才(167)-良(168)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiM",
+       "created": 1646116895865,
+       "text": "【毘盧藏】No.306《佛說陀羅尼集經》唐玄揩序唐瞿多譯 參考年代：(靖康元．六、七) 千字文：才(167)-良(168)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiN",
+       "created": 1646116895865,
+       "text": "【圓覺藏】No.317《佛說陀羅尼集經》 卷數：12 千字文：才(167)-良(168)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiO",
+       "created": 1646116895865,
+       "text": "【趙城金藏】No.308《陀羅尼集經》 卷數：12 千字文：效才"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiP",
+       "created": 1646116895865,
+       "text": "【資福藏】No.321《佛說陀羅尼集經》 卷數：12 (十二卷) 千字文：才(167)-良(168)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiQ",
+       "created": 1646116895865,
+       "text": "【磧砂藏】No.323《佛說陀羅尼集經》唐 阿地瞿多譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：516 / 卷數：12 千字文：才 1 (167)-良 5 (168)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiR",
+       "created": 1646116895865,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiS",
+       "created": 1646116895865,
+       "text": "【高麗藏】No.308《陀羅尼集經》大唐天竺三藏阿地瞿多譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：1063 / 卷數：12 / 連結：高麗大藏經 (圖檔) 千字文：效-才"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiT",
+       "created": 1646116895865,
+       "text": "【普寧藏】No.317《佛說陀羅尼集經》 卷數：12 千字文：才(167)-良(168)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiU",
+       "created": 1646116895865,
+       "text": "【至元錄】No.565《陀羅尼集經》唐中天竺三藏阿地瞿多譯(單重合譯此經出大道場經大明呪藏之少分也撮要譯出) 卷數：12 / 出處：(出大周錄) 千字文：積(228)-福(229)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiV",
+       "created": 1646116895865,
+       "text": "【洪武南藏】No.278《陀羅尼集經》唐 中天竺三藏大德阿地瞿多 譯 冊數：56-57 / 頁數：387 / 卷數：12 千字文：才 1 (167)-良 5 (168)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiW",
+       "created": 1646116895865,
+       "text": "【永樂南藏】No.338《佛說陀羅尼集經》 部別：大乘經-五大部外重譯經 千字文：得(173)-能(174)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiX",
+       "created": 1646116895865,
+       "text": "【永樂北藏】No.387《佛說陀羅尼集經》唐阿地瞿多譯 部別：大乘經五大部外重譯經 / 冊數：46 / 頁數：331 / 卷數：13 千字文：忘-罔"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiY",
+       "created": 1646116895865,
+       "text": "【嘉興藏】No.358《佛說陀羅尼集》唐阿地瞿多譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0358 千字文 / 函號：［正藏］ 忘(176)-罔(177)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDiZ",
+       "created": 1646116895865,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDia",
+       "created": 1646116895865,
+       "text": "【乾隆藏】No.359《佛說陀羅尼集經》唐 阿地瞿多譯 部別：大乘五大部外重譯經 / 冊數：39-40 / 頁數：591 / 卷數：13 千字文：忘罔"
+      }},
+      {"data": {
+       "id": "z5cYxFxDib",
+       "created": 1646116895865,
+       "text": "【縮刻藏】No.1138《陀羅尼集經》唐阿地瞿多譯 部別：祕密部 / 卷數：12 千字文： 4 (25)- 5 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDic",
+       "created": 1646116895865,
+       "text": "【卍正藏】No.363《佛說陀羅尼集經》大唐 阿地瞿多譯 部別：大乘經 五大部外重譯經 / 冊數：19 / 頁數：132 / 卷數：12 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYxFxDid",
+       "created": 1646116895865,
+       "text": "【大正藏】No.901《陀羅尼集經》唐 阿地瞿多譯 部別：密教部一 / 冊數：18 / 頁數：785 / 卷數：12 相關經典：縮-閏4-5,卍-12.1.2 參考資料：cf.Nos.1034-1036,1070-1072A,1073,1074,1092"
+      }},
+      {"data": {
+       "id": "z5cYxFxDie",
+       "created": 1646116895865,
+       "text": "【佛教大藏經】No.1208《陀羅尼集經》唐 阿地瞿多譯 部別：密教部一 / 冊數：52 / 頁數：595 / 卷數：12"
+      }},
+      {"data": {
+       "id": "z5cYxFxDif",
+       "created": 1646116895865,
+       "text": "【中華藏】No.327《佛說陀羅尼集經》大唐天竺三藏阿地瞿多譯 冊數：20 / 頁數：1 / 卷數：12 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxFxDig",
+       "created": 1646116895865,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFxDih",
+       "created": 1646116895865,
+       "text": "【南條文雄編號】 Nj. 0363"
+      }},
+      {"data": {
+       "id": "z5cYxFxDii",
+       "created": 1646116895865,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：901"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxtkrb",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

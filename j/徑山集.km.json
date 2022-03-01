@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "徑山集"},
+  "children": [{
+   "data": {
+    "id": "z5cYzfewo3",
+    "created": 1646116905146,
+    "text": "現藏錄（明 宗淨集）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzfewnP",
+      "created": 1646116905146,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzfewnQ",
+        "created": 1646116905146,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzfewnR",
+        "created": 1646116905146,
+        "text": "徑山集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzfewnS",
+        "created": 1646116905146,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzfewnT",
+        "created": 1646116905146,
+        "text": "径山集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzfewnU",
+        "created": 1646116905146,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzfewnV",
+        "created": 1646116905146,
+        "text": "jing shan ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzfewnW",
+      "created": 1646116905146,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzfewnX",
+      "created": 1646116905146,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzfewnY",
+      "created": 1646116905146,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzfewnZ",
+      "created": 1646116905146,
+      "text": "明 宗淨集"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzfewna",
+      "created": 1646116905146,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzfewnb",
+      "created": 1646116905146,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzfewnc",
+      "created": 1646116905146,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzfewnd",
+       "created": 1646116905146,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewne",
+       "created": 1646116905146,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnf",
+       "created": 1646116905146,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewng",
+       "created": 1646116905146,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnh",
+       "created": 1646116905146,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewni",
+       "created": 1646116905146,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnj",
+       "created": 1646116905146,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnk",
+       "created": 1646116905146,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnl",
+       "created": 1646116905146,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnm",
+       "created": 1646116905146,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnn",
+       "created": 1646116905146,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewno",
+       "created": 1646116905146,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnp",
+       "created": 1646116905146,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnq",
+       "created": 1646116905146,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnr",
+       "created": 1646116905146,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewns",
+       "created": 1646116905146,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnt",
+       "created": 1646116905146,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnu",
+       "created": 1646116905146,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnv",
+       "created": 1646116905146,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnw",
+       "created": 1646116905146,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnx",
+       "created": 1646116905146,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewny",
+       "created": 1646116905146,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewnz",
+       "created": 1646116905146,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewo0",
+       "created": 1646116905146,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewo1",
+       "created": 1646116905146,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzfewo2",
+       "created": 1646116905146,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1756"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4zd3tv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

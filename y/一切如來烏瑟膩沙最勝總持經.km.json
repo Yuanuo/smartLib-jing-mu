@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說一切如來烏瑟膩沙最勝總持經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxJIEm1",
+    "created": 1646116896072,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxJHEl4",
+      "created": 1646116896071,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxJHEl5",
+        "created": 1646116896071,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxJHEl6",
+        "created": 1646116896071,
+        "text": "佛說一切如來烏瑟膩沙最勝總持經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxJHEl7",
+        "created": 1646116896071,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxJHEl8",
+        "created": 1646116896071,
+        "text": "佛说一切如来乌瑟腻沙最胜总持经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxJHEl9",
+        "created": 1646116896071,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxJHElA",
+        "created": 1646116896071,
+        "text": "fo shuo yi qie ru lai wu se ni sha zui sheng zong chi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxJHElI",
+        "created": 1646116896071,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxJHElJ",
+        "created": 1646116896071,
+        "text": "I ch'ieh ju lai wu se ni sha tsui sheng tsung ch'ih ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxJHElK",
+        "created": 1646116896071,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxJHElL",
+        "created": 1646116896071,
+        "text": "(Sarvadurgatipariśodhana)uṣṇīṣavijayadhāraṇī(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxJHElM",
+        "created": 1646116896071,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxJHElN",
+        "created": 1646116896071,
+        "text": "De-bshin-gśegs-pa thams-cad-kyi gtsug-tor-rnam-par rgyal ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxJHElO",
+        "created": 1646116896071,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxJHElP",
+        "created": 1646116896071,
+        "text": "일체여래오슬니사최승총지경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxJHElB",
+      "created": 1646116896071,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxJHElC",
+      "created": 1646116896071,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxJHElD",
+      "created": 1646116896071,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxJHElE",
+       "created": 1646116896071,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYxJHElF",
+       "created": 1646116896071,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxJHElG",
+      "created": 1646116896071,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxJHElH",
+      "created": 1646116896071,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxJHElQ",
+      "created": 1646116896071,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxJHElR",
+      "created": 1646116896071,
+      "text": "Translation by Fa-t'ien (see K.1202)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxJHElS",
+      "created": 1646116896071,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxJHElT",
+       "created": 1646116896071,
+       "text": "【北京版】Rygud (pha)221b-226b; 241b-243a; 239b-241b"
+      }},
+      {"data": {
+       "id": "z5cYxJHElU",
+       "created": 1646116896071,
+       "text": "【奈塘版】Rgyud (pa)181b-188b; 207a-210a; 210a-212a"
+      }},
+      {"data": {
+       "id": "z5cYxJHElV",
+       "created": 1646116896071,
+       "text": "【德格版】Rgyud-ḥbum (pha)237b-242a; 242a-243b; 248a-250a"
+      }},
+      {"data": {
+       "id": "z5cYxJHElW",
+       "created": 1646116896071,
+       "text": "【拉薩版】Rgyud (na)204b-211b; 233b-235a; 230a-233b"
+      }},
+      {"data": {
+       "id": "z5cYxJHElX",
+       "created": 1646116896071,
+       "text": "【卓尼版】Rgyud (pha)246a-251a, 265b-268a, 268a-269b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxJHElY",
+      "created": 1646116896071,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxJHElZ",
+      "created": 1646116896071,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxJHEla",
+      "created": 1646116896071,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxJHElb",
+       "created": 1646116896071,
+       "text": "【房山石經】No.972《佛說一切如來烏瑟膩沙最勝總持經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：26 / 頁數：619 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：匡"
+      }},
+      {"data": {
+       "id": "z5cYxJHElc",
+       "created": 1646116896071,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxJHEld",
+       "created": 1646116896071,
+       "text": "【崇寧藏】No.1200《佛說一切如來烏瑟膩沙最勝總持經》 卷數：1 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxJHEle",
+       "created": 1646116896071,
+       "text": "【毘盧藏】No.1202《一切如來烏瑟膩沙最勝總持經》宋法天譯 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElf",
+       "created": 1646116896071,
+       "text": "【圓覺藏】No.1210《一切如來烏瑟膩沙最勝總持經》 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElg",
+       "created": 1646116896071,
+       "text": "【趙城金藏】No.1205《一切如來烏瑟膩沙最勝總持經》 卷數：1 千字文：家"
+      }},
+      {"data": {
+       "id": "z5cYxJHElh",
+       "created": 1646116896071,
+       "text": "【資福藏】No.1215《一切如來烏瑟膩沙最勝總持經》 卷數：1 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxJHEli",
+       "created": 1646116896071,
+       "text": "【磧砂藏】No.1224《佛說一切如來烏瑟膩沙最勝總持經》宋 法天譯 部別： / 冊數：33 / 頁數：72 / 卷數：1 千字文：高 5 (505)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElj",
+       "created": 1646116896071,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElk",
+       "created": 1646116896071,
+       "text": "【高麗藏】No.1204《一切如來烏瑟膩沙最勝惚持經》西天三藏傳教大師法天譯 部別：宋續入藏經 / 冊數：34 頁數：286 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：家"
+      }},
+      {"data": {
+       "id": "z5cYxJHEll",
+       "created": 1646116896071,
+       "text": "【普寧藏】No.1215《佛說一切如來烏瑟膩沙最勝總持經》 卷數：1 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElm",
+       "created": 1646116896071,
+       "text": "【至元錄】No.753《一切如來烏瑟膩沙最勝總持經》宋西域三藏法天譯 卷數：1 千字文：薄(260)"
+      }},
+      {"data": {
+       "id": "z5cYxJHEln",
+       "created": 1646116896071,
+       "text": "【洪武南藏】No.1075《一切如來烏瑟膩沙最勝[總-囪+匆]持經》西天譯經三藏朝散大夫試鴻臚卿傳教大師臣法天 奉詔譯 冊數：181 / 頁數：517 / 卷數：1 千字文：高 5 (505)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElo",
+       "created": 1646116896071,
+       "text": "【永樂南藏】No.881《佛說一切如來烏瑟膩沙最勝總持經》 部別：宋元入藏諸大小乘經 千字文：履(259)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElp",
+       "created": 1646116896071,
+       "text": "【永樂北藏】No.902《佛說一切如來烏瑟膩沙最勝總持經》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：466 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYxJHElq",
+       "created": 1646116896071,
+       "text": "【嘉興藏】No.865《佛說一切如來最勝總持經》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0865 千字文 / 函號：［正藏］ 臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElr",
+       "created": 1646116896071,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxJHEls",
+       "created": 1646116896071,
+       "text": "【乾隆藏】No.866《佛說一切如來烏瑟膩沙最勝總持經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：636 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYxJHElt",
+       "created": 1646116896071,
+       "text": "【縮刻藏】No.1459《佛說一切如來烏瑟膩沙最勝總持經》宋法天譯 部別：祕密部 / 卷數：1 千字文：成 6 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElu",
+       "created": 1646116896071,
+       "text": "【卍正藏】No.875《佛說一切如來烏瑟膩沙最勝總持經》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：865 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxJHElv",
+       "created": 1646116896071,
+       "text": "【大正藏】No.978《佛說一切如來烏瑟膩沙最勝總持經》宋 法天譯 部別：密教部二 / 冊數：19 / 頁數：407 / 卷數：1 相關經典：縮-成6,卍-15.5 參考資料：cf.No.979"
+      }},
+      {"data": {
+       "id": "z5cYxJHElw",
+       "created": 1646116896071,
+       "text": "【佛教大藏經】No.1534《佛一切如來烏瑟膩沙最勝總持經》宋 法天譯 部別：密教部六 / 冊數：57 / 頁數：32 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxJHElx",
+       "created": 1646116896071,
+       "text": "【中華藏】No.1314《佛說一切如來烏瑟膩沙最勝總持經》西天譯經三藏朝散大夫試鴻臚卿傳教大師法天奉詔譯 冊數：64 / 頁數：572 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxJHEly",
+       "created": 1646116896071,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxJHElz",
+       "created": 1646116896071,
+       "text": "【南條文雄編號】 Nj. 0871"
+      }},
+      {"data": {
+       "id": "z5cYxJIEm0",
+       "created": 1646116896072,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：978"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxzbtq",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

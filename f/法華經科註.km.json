@@ -1,0 +1,708 @@
+{
+ "root": {
+  "data": {"text": "法華經科註"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyq2gqx",
+     "created": 1646116901946,
+     "text": "現藏錄（宋 守倫註　明 法濟參訂）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyq2gqJ",
+       "created": 1646116901946,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyq2gqK",
+         "created": 1646116901946,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq2gqL",
+         "created": 1646116901946,
+         "text": "法華經科註",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyq2gqM",
+         "created": 1646116901946,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq2gqN",
+         "created": 1646116901946,
+         "text": "法华经科注",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyq2gqO",
+         "created": 1646116901946,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq2gqP",
+         "created": 1646116901946,
+         "text": "fa hua jing ke zhu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyq2gqQ",
+       "created": 1646116901946,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq2gqR",
+       "created": 1646116901946,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq2gqS",
+       "created": 1646116901946,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq2gqT",
+       "created": 1646116901946,
+       "text": "宋 守倫註　明 法濟參訂"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq2gqU",
+       "created": 1646116901946,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq2gqV",
+       "created": 1646116901946,
+       "text": "10"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq2gqW",
+       "created": 1646116901946,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyq2gqX",
+        "created": 1646116901946,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqY",
+        "created": 1646116901946,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqZ",
+        "created": 1646116901946,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqa",
+        "created": 1646116901946,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqb",
+        "created": 1646116901946,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqc",
+        "created": 1646116901946,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqd",
+        "created": 1646116901946,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqe",
+        "created": 1646116901946,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqf",
+        "created": 1646116901946,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqg",
+        "created": 1646116901946,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqh",
+        "created": 1646116901946,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqi",
+        "created": 1646116901946,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqj",
+        "created": 1646116901946,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqk",
+        "created": 1646116901946,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gql",
+        "created": 1646116901946,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqm",
+        "created": 1646116901946,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqn",
+        "created": 1646116901946,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqo",
+        "created": 1646116901946,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqp",
+        "created": 1646116901946,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqq",
+        "created": 1646116901946,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqr",
+        "created": 1646116901946,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqs",
+        "created": 1646116901946,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqt",
+        "created": 1646116901946,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqu",
+        "created": 1646116901946,
+        "text": "【新纂卍續藏】No.605《法華經科註》宋 守倫註　明 法濟參訂 部別：中國撰述 大小乘釋經部二十八 法華部疏 / 冊數：30 / 頁數：632 / 卷數：10 《卍大日本續藏經》套數：第一編．第 48 套 《卍續藏經》(新文豐版)冊數：第 48 冊"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqv",
+        "created": 1646116901946,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq2gqw",
+        "created": 1646116901946,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：940"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyq4grc",
+     "created": 1646116901948,
+     "text": "現藏錄（元 徐行善科註）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyq4gqy",
+       "created": 1646116901948,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyq4gqz",
+         "created": 1646116901948,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq4gr0",
+         "created": 1646116901948,
+         "text": "法華經科註"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyq4gr1",
+         "created": 1646116901948,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq4gr2",
+         "created": 1646116901948,
+         "text": "法华经科注"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyq4gr3",
+         "created": 1646116901948,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq4gr4",
+         "created": 1646116901948,
+         "text": "fa hua jing ke zhu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyq4gr5",
+       "created": 1646116901948,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq4gr6",
+       "created": 1646116901948,
+       "text": "元",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq4gr7",
+       "created": 1646116901948,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq4gr8",
+       "created": 1646116901948,
+       "text": "元 徐行善科註"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq4gr9",
+       "created": 1646116901948,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq4grA",
+       "created": 1646116901948,
+       "text": "8"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq4grB",
+       "created": 1646116901948,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyq4grC",
+        "created": 1646116901948,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grD",
+        "created": 1646116901948,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grE",
+        "created": 1646116901948,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grF",
+        "created": 1646116901948,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grG",
+        "created": 1646116901948,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grH",
+        "created": 1646116901948,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grI",
+        "created": 1646116901948,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grJ",
+        "created": 1646116901948,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grK",
+        "created": 1646116901948,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grL",
+        "created": 1646116901948,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grM",
+        "created": 1646116901948,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grN",
+        "created": 1646116901948,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grO",
+        "created": 1646116901948,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grP",
+        "created": 1646116901948,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grQ",
+        "created": 1646116901948,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grR",
+        "created": 1646116901948,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grS",
+        "created": 1646116901948,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grT",
+        "created": 1646116901948,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grU",
+        "created": 1646116901948,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grV",
+        "created": 1646116901948,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grW",
+        "created": 1646116901948,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grX",
+        "created": 1646116901948,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grY",
+        "created": 1646116901948,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grZ",
+        "created": 1646116901948,
+        "text": "【新纂卍續藏】No.606《法華經科註》元 徐行善科註 部別：中國撰述 大小乘釋經部二十九 法華部疏 / 冊數：31 / 頁數：1 / 卷數：8 《卍大日本續藏經》套數：第一編．第 48 套 《卍續藏經》(新文豐版)冊數：第 48 冊"
+       }},
+       {"data": {
+        "id": "z5cYyq4gra",
+        "created": 1646116901948,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq4grb",
+        "created": 1646116901948,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：941"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyq6gsH",
+     "created": 1646116901950,
+     "text": "現藏錄（明 一如集註）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyq6grd",
+       "created": 1646116901950,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyq6gre",
+         "created": 1646116901950,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq6grf",
+         "created": 1646116901950,
+         "text": "法華經科註"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyq6grg",
+         "created": 1646116901950,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq6grh",
+         "created": 1646116901950,
+         "text": "法华经科注"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyq6gri",
+         "created": 1646116901950,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyq6grj",
+         "created": 1646116901950,
+         "text": "fa hua jing ke zhu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyq6grk",
+       "created": 1646116901950,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq6grl",
+       "created": 1646116901950,
+       "text": "明",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq6grm",
+       "created": 1646116901950,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq6grn",
+       "created": 1646116901950,
+       "text": "明 一如集註"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq6gro",
+       "created": 1646116901950,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyq6grp",
+       "created": 1646116901950,
+       "text": "7"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyq6grq",
+       "created": 1646116901950,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyq6grr",
+        "created": 1646116901950,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6grs",
+        "created": 1646116901950,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6grt",
+        "created": 1646116901950,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gru",
+        "created": 1646116901950,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6grv",
+        "created": 1646116901950,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6grw",
+        "created": 1646116901950,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6grx",
+        "created": 1646116901950,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gry",
+        "created": 1646116901950,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6grz",
+        "created": 1646116901950,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs0",
+        "created": 1646116901950,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs1",
+        "created": 1646116901950,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs2",
+        "created": 1646116901950,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs3",
+        "created": 1646116901950,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs4",
+        "created": 1646116901950,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs5",
+        "created": 1646116901950,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs6",
+        "created": 1646116901950,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs7",
+        "created": 1646116901950,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs8",
+        "created": 1646116901950,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gs9",
+        "created": 1646116901950,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gsA",
+        "created": 1646116901950,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gsB",
+        "created": 1646116901950,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gsC",
+        "created": 1646116901950,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gsD",
+        "created": 1646116901950,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gsE",
+        "created": 1646116901950,
+        "text": "【新纂卍續藏】No.607《法華經科註》明 一如集註 部別：中國撰述 大小乘釋經部二十九 法華部疏 / 冊數：31 / 頁數：171 / 卷數：7 《卍大日本續藏經》套數：第一編．第 49 套 《卍續藏經》(新文豐版)冊數：第 49 冊"
+       }},
+       {"data": {
+        "id": "z5cYyq6gsF",
+        "created": 1646116901950,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyq6gsG",
+        "created": 1646116901950,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：942"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2ii2o8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

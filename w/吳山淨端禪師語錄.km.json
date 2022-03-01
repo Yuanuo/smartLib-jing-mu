@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "吳山淨端禪師語錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYzQ8rxE",
+    "created": 1646116904184,
+    "text": "現藏錄（(法孫) 師皎 重編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzQ8rwa",
+      "created": 1646116904184,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzQ8rwb",
+        "created": 1646116904184,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ8rwc",
+        "created": 1646116904184,
+        "text": "吳山淨端禪師語錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzQ8rwd",
+        "created": 1646116904184,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ8rwe",
+        "created": 1646116904184,
+        "text": "吴山净端禅师语录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzQ8rwf",
+        "created": 1646116904184,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ8rwg",
+        "created": 1646116904184,
+        "text": "wu shan jing duan shan shi yu lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ8rwh",
+      "created": 1646116904184,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzQ8rwi",
+      "created": 1646116904184,
+      "text": "",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ8rwj",
+      "created": 1646116904184,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzQ8rwk",
+      "created": 1646116904184,
+      "text": "(法孫) 師皎 重編"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ8rwl",
+      "created": 1646116904184,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzQ8rwm",
+      "created": 1646116904184,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ8rwn",
+      "created": 1646116904184,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzQ8rwo",
+       "created": 1646116904184,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwp",
+       "created": 1646116904184,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwq",
+       "created": 1646116904184,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwr",
+       "created": 1646116904184,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rws",
+       "created": 1646116904184,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwt",
+       "created": 1646116904184,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwu",
+       "created": 1646116904184,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwv",
+       "created": 1646116904184,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rww",
+       "created": 1646116904184,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwx",
+       "created": 1646116904184,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwy",
+       "created": 1646116904184,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rwz",
+       "created": 1646116904184,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx0",
+       "created": 1646116904184,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx1",
+       "created": 1646116904184,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx2",
+       "created": 1646116904184,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx3",
+       "created": 1646116904184,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx4",
+       "created": 1646116904184,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx5",
+       "created": 1646116904184,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx6",
+       "created": 1646116904184,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx7",
+       "created": 1646116904184,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx8",
+       "created": 1646116904184,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rx9",
+       "created": 1646116904184,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rxA",
+       "created": 1646116904184,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rxB",
+       "created": 1646116904184,
+       "text": "【新纂卍續藏】No.1449《吳山淨端禪師語錄》(法孫) 師皎 重編 部別：中國撰述 諸宗著述部二十 禪宗語錄別集 / 冊數：73 / 頁數：71 / 卷數：2 《卍大日本續藏經》套數：第二編．第 31 套 《卍續藏經》(新文豐版)冊數：第 126 冊"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rxC",
+       "created": 1646116904184,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ8rxD",
+       "created": 1646116904184,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】 (未收錄)"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri48o3h7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

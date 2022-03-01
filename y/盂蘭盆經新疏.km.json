@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "盂蘭盆經新疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYzWNtvU",
+    "created": 1646116904571,
+    "text": "現藏錄（明 智旭疏）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzWNtup",
+      "created": 1646116904571,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzWNtuq",
+        "created": 1646116904571,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzWNtur",
+        "created": 1646116904571,
+        "text": "盂蘭盆經新疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzWNtus",
+        "created": 1646116904571,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzWNtut",
+        "created": 1646116904571,
+        "text": "盂兰盆经新疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzWNtuu",
+        "created": 1646116904571,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzWNtuv",
+        "created": 1646116904571,
+        "text": "yu lan pen jing xin shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzWNtuw",
+      "created": 1646116904571,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzWNtux",
+      "created": 1646116904571,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzWNtuy",
+      "created": 1646116904571,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzWNtuz",
+       "created": 1646116904571,
+       "text": "明 智旭疏"
+      }},
+      {"data": {
+       "id": "z5cYzWNtv0",
+       "created": 1646116904571,
+       "text": "智旭",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzWNtv1",
+      "created": 1646116904571,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzWNtv2",
+      "created": 1646116904571,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzWNtv3",
+      "created": 1646116904571,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzWNtv4",
+       "created": 1646116904571,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtv5",
+       "created": 1646116904571,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtv6",
+       "created": 1646116904571,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtv7",
+       "created": 1646116904571,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtv8",
+       "created": 1646116904571,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtv9",
+       "created": 1646116904571,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvA",
+       "created": 1646116904571,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvB",
+       "created": 1646116904571,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvC",
+       "created": 1646116904571,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvD",
+       "created": 1646116904571,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvE",
+       "created": 1646116904571,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvF",
+       "created": 1646116904571,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvG",
+       "created": 1646116904571,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvH",
+       "created": 1646116904571,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvI",
+       "created": 1646116904571,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvJ",
+       "created": 1646116904571,
+       "text": "【嘉興藏】No.1749《盂蘭盆新疏》明釋智旭撰 部別：續藏 / 法寶總目錄經號：1748 千字文 / 函號：［續藏］ 42 函"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvK",
+       "created": 1646116904571,
+       "text": "【嘉興藏新文豐版】［續藏］No.93《佛說盂蘭盆經新疏》明 智旭新疏 冊數：20 / 頁數：367 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvL",
+       "created": 1646116904571,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvM",
+       "created": 1646116904571,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvN",
+       "created": 1646116904571,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvO",
+       "created": 1646116904571,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvP",
+       "created": 1646116904571,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvQ",
+       "created": 1646116904571,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvR",
+       "created": 1646116904571,
+       "text": "【新纂卍續藏】No.377《盂蘭盆經新疏》明 智旭疏 部別：中國撰述 大小乘釋經部十九 方等部疏 / 冊數：21 / 頁數：573 / 卷數：1 《卍大日本續藏經》套數：第一編．第 35 套 《卍續藏經》(新文豐版)冊數：第 35 冊"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvS",
+       "created": 1646116904571,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzWNtvT",
+       "created": 1646116904571,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：237"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4jf3mc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

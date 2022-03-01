@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "佛說如來不思議祕密大乘經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwkc52D",
+    "created": 1646116893922,
+    "text": "現藏錄（宋 法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwkc51F",
+      "created": 1646116893922,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwkc51G",
+        "created": 1646116893922,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkc51H",
+        "created": 1646116893922,
+        "text": "佛說如來不思議祕密大乘經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkc51I",
+        "created": 1646116893922,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkc51J",
+        "created": 1646116893922,
+        "text": "佛说如来不思议秘密大乘经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkc51K",
+        "created": 1646116893922,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkc51L",
+        "created": 1646116893922,
+        "text": "fo shuo ru lai bu si yi mi mi da cheng jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkc51U",
+        "created": 1646116893922,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkc51V",
+        "created": 1646116893922,
+        "text": "Ju lai pu ssu i pi mi ta ch'eng ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkc51W",
+        "created": 1646116893922,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkc51X",
+        "created": 1646116893922,
+        "text": "Tathāgataguhyasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkc51Y",
+        "created": 1646116893922,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkc51Z",
+        "created": 1646116893922,
+        "text": "De-bshin-gśegs-paḥi gsaṅ-ba bsam-gyis-mi-khyab-par bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkc51a",
+        "created": 1646116893922,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkc51b",
+        "created": 1646116893922,
+        "text": "여래부사의비밀대승경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwkc51M",
+      "created": 1646116893922,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkc51N",
+      "created": 1646116893922,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkc51O",
+      "created": 1646116893922,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwkc51P",
+       "created": 1646116893922,
+       "text": "宋 法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwkc51Q",
+       "created": 1646116893922,
+       "text": "惟淨",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwkc51R",
+       "created": 1646116893922,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwkc51S",
+      "created": 1646116893922,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkc51T",
+      "created": 1646116893922,
+      "text": "20"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkc51c",
+      "created": 1646116893922,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkc51d",
+      "created": 1646116893922,
+      "text": "Translation by Dharmarakṣa: (see K.1475)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkc51e",
+      "created": 1646116893922,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwkc51f",
+       "created": 1646116893922,
+       "text": "【北京版】Dkon-brtsegs (tshi)113b-233a"
+      }},
+      {"data": {
+       "id": "z5cYwkc51g",
+       "created": 1646116893922,
+       "text": "【奈塘版】Dkon-brtsegs (ka)171b-341b"
+      }},
+      {"data": {
+       "id": "z5cYwkc51h",
+       "created": 1646116893922,
+       "text": "【德格版】Dkon-brtsegs (ka)100a-203a"
+      }},
+      {"data": {
+       "id": "z5cYwkc51i",
+       "created": 1646116893922,
+       "text": "【拉薩版】Dkon-brtsegs (ka)151a-313b"
+      }},
+      {"data": {
+       "id": "z5cYwkc51j",
+       "created": 1646116893922,
+       "text": "【卓尼版】Dkon-brtsegs (ka)112b-234b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwkc51k",
+      "created": 1646116893922,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkc51l",
+      "created": 1646116893922,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkc51m",
+      "created": 1646116893922,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwkc51n",
+       "created": 1646116893922,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51o",
+       "created": 1646116893922,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51p",
+       "created": 1646116893922,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51q",
+       "created": 1646116893922,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51r",
+       "created": 1646116893922,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51s",
+       "created": 1646116893922,
+       "text": "【趙城金藏】No.1484《如來不思議秘密大乘經》 卷數：20 千字文：寧晉"
+      }},
+      {"data": {
+       "id": "z5cYwkc51t",
+       "created": 1646116893922,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51u",
+       "created": 1646116893922,
+       "text": "【磧砂藏】No.1442《佛說如來不思議秘密大乘經》宋 法護等譯 部別： / 冊數：36 / 頁數：49 / 卷數：20 千字文：丁 1 (560)-俊 10 (561)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51v",
+       "created": 1646116893922,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51w",
+       "created": 1646116893922,
+       "text": "【高麗藏】No.1486《如來不思議祕密大乘經》西天譯經三藏法護惟淨譯 部別：宋續入藏經 / 冊數：41 頁數：258 / 卷數：20 / 連結：高麗大藏經 (圖檔) 千字文：并-嶽"
+      }},
+      {"data": {
+       "id": "z5cYwkc51x",
+       "created": 1646116893922,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51y",
+       "created": 1646116893922,
+       "text": "【至元錄】No.786《如來不思議祕密大乘經》宋三藏惟淨等譯(於延和殿譯) 卷數：20 千字文：斯(267)-馨(268)"
+      }},
+      {"data": {
+       "id": "z5cYwkc51z",
+       "created": 1646116893922,
+       "text": "【洪武南藏】No.1284《佛說如來不思議秘密大乘經》西天譯經三藏朝散大夫試光祿卿傳梵大師賜紫沙門臣法護 等奉詔譯 冊數：198 / 頁數：267 / 卷數：20 千字文：丁 1 (560)-俊 10 (561)"
+      }},
+      {"data": {
+       "id": "z5cYwkc520",
+       "created": 1646116893922,
+       "text": "【永樂南藏】No.1043《如來不思議祕密大乘經》 部別：宋元入藏諸大小乘經 千字文：暎(280)"
+      }},
+      {"data": {
+       "id": "z5cYwkc521",
+       "created": 1646116893922,
+       "text": "【永樂北藏】No.1075《佛說如來不思議秘密大乘經》宋惟淨法護等譯 部別：宋元入藏諸大小乘經之餘 / 冊數：74 / 頁數：451 / 卷數：20 千字文：映"
+      }},
+      {"data": {
+       "id": "z5cYwkc522",
+       "created": 1646116893922,
+       "text": "【嘉興藏】No.1037《如來不思議祕密大乘經》宋惟淨-法護等譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1036 千字文 / 函號：［正藏］ 映(280)"
+      }},
+      {"data": {
+       "id": "z5cYwkc523",
+       "created": 1646116893922,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc524",
+       "created": 1646116893922,
+       "text": "【乾隆藏】No.1038《佛說如來不思議秘密大乘經》宋 惟淨,法護等譯 部別：宋元入藏諸大小乘經 / 冊數：62 / 頁數：605 / 卷數：20 千字文：映"
+      }},
+      {"data": {
+       "id": "z5cYwkc525",
+       "created": 1646116893922,
+       "text": "【縮刻藏】No.31《佛說如來不思議祕密大乘經》宋法護等譯 部別：大乘經-方等部 / 卷數：20 千字文：地 7 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwkc526",
+       "created": 1646116893922,
+       "text": "【卍正藏】No.1047《佛說如來不思議祕密大乘經》法護等譯 部別：宋元入藏諸大小乘經之餘 / 冊數：30 / 頁數：292 / 卷數：20 原版套數：第 16 套"
+      }},
+      {"data": {
+       "id": "z5cYwkc527",
+       "created": 1646116893922,
+       "text": "【大正藏】No.312《佛說如來不思議祕密大乘經》宋 法護譯 部別：寶積部上 / 冊數：11 / 頁數：704 / 卷數：20 相關經典：縮-地7,卍-16.7-8 參考資料：No.310(3)"
+      }},
+      {"data": {
+       "id": "z5cYwkc528",
+       "created": 1646116893922,
+       "text": "【佛教大藏經】No.31《佛說如來不思議祕密大乘經》宋 法護等譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：29 / 卷數：20"
+      }},
+      {"data": {
+       "id": "z5cYwkc529",
+       "created": 1646116893922,
+       "text": "【中華藏】No.1633《佛說如來不思議秘密大乘經》西天譯經三藏朝散大夫試光祿卿傳梵大師賜紫沙門法護等奉詔譯 冊數：69 / 頁數：143 / 卷數：20 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwkc52A",
+       "created": 1646116893922,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkc52B",
+       "created": 1646116893922,
+       "text": "【南條文雄編號】 Nj. 1043"
+      }},
+      {"data": {
+       "id": "z5cYwkc52C",
+       "created": 1646116893922,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：312"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwbla4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

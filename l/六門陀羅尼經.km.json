@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "六門陀羅尼經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxbDK1u",
+    "created": 1646116897183,
+    "text": "現藏錄（唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxbCK0x",
+      "created": 1646116897182,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxbCK0y",
+        "created": 1646116897182,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbCK0z",
+        "created": 1646116897182,
+        "text": "六門陀羅尼經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbCK10",
+        "created": 1646116897182,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbCK11",
+        "created": 1646116897182,
+        "text": "六门陀罗尼经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbCK12",
+        "created": 1646116897182,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbDK13",
+        "created": 1646116897183,
+        "text": "liu men tuo luo ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbDK1B",
+        "created": 1646116897183,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbDK1C",
+        "created": 1646116897183,
+        "text": "Liu men t'o lo ni ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbDK1D",
+        "created": 1646116897183,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbDK1E",
+        "created": 1646116897183,
+        "text": "Saṇmukhīdhāraṇī(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbDK1F",
+        "created": 1646116897183,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbDK1G",
+        "created": 1646116897183,
+        "text": "Sgo drug-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbDK1H",
+        "created": 1646116897183,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbDK1I",
+        "created": 1646116897183,
+        "text": "육문타라니경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbDK14",
+      "created": 1646116897183,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbDK15",
+      "created": 1646116897183,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbDK16",
+      "created": 1646116897183,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbDK17",
+       "created": 1646116897183,
+       "text": "唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxbDK18",
+       "created": 1646116897183,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbDK19",
+      "created": 1646116897183,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbDK1A",
+      "created": 1646116897183,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbDK1J",
+      "created": 1646116897183,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbDK1K",
+      "created": 1646116897183,
+      "text": "Translation by Hsüan-tsang: 14th day, 7th month, 19th year of Cheng Kuan (貞觀), T'ang dynasty (唐) (October 11th, A.D. 645) in Hung-fu Monastery (弘福寺).T. 2154-556a:19"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbDK1L",
+      "created": 1646116897183,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbDK1M",
+       "created": 1646116897183,
+       "text": "【北京版】Rgyud (ba)86b-87a(ḥa)257a-258aMdo-sna-tshogs (da)320b-321"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1N",
+       "created": 1646116897183,
+       "text": "【奈塘版】Rgyud (pa)429b-430bMdo (tha)489a-490a"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1O",
+       "created": 1646116897183,
+       "text": "【德格版】Mdo-sde (na)299a-300aRgyud-ḥbum (na)71a-71bGzuṅs-ḥdus (E)260b-261a"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1P",
+       "created": 1646116897183,
+       "text": "【拉薩版】Mdo (tha)464a-465aRgyud (na)457b-458b"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1Q",
+       "created": 1646116897183,
+       "text": "【卓尼版】Rgyud (ba)100b-101a (ḥa)280a-280bMdo-maṅ (na)362a-363a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbDK1R",
+      "created": 1646116897183,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbDK1S",
+      "created": 1646116897183,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbDK1T",
+      "created": 1646116897183,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbDK1U",
+       "created": 1646116897183,
+       "text": "【房山石經】No.50《佛說六門陀羅尼經》三藏法師玄奘奉詔譯 冊數：2 / 頁數：407 / 刻經年代：長壽三年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.60《六門陀羅尼經》沙門玄奘奉詔譯 冊數：2 / 頁數：429 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.595《六門陀羅尼經》(大唐)三藏法師沙門玄奘奉詔譯 冊數：13 / 頁數：548 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1V",
+       "created": 1646116897183,
+       "text": "【開寶藏】No.447《六門陀羅尼經》唐 三藏玄奘 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：贊"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1W",
+       "created": 1646116897183,
+       "text": "【崇寧藏】No.439《六門陀羅尼經》 卷數：1 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1X",
+       "created": 1646116897183,
+       "text": "【毘盧藏】No.450《六門陀羅尼經》唐玄奘譯 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1Y",
+       "created": 1646116897183,
+       "text": "【圓覺藏】No.463《六門陀羅尼經》 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1Z",
+       "created": 1646116897183,
+       "text": "【趙城金藏】No.448《六門陀羅尼經》 卷數：1 千字文：讚"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1a",
+       "created": 1646116897183,
+       "text": "【資福藏】No.467《六門陀羅尼經》 卷數：1 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1b",
+       "created": 1646116897183,
+       "text": "【磧砂藏】No.467《佛說六門陀羅尼經》唐 玄奘譯 部別：五大部外單譯經 / 冊數：13 / 頁數：684 / 卷數：1 千字文：羔 10 (199)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1c",
+       "created": 1646116897183,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1d",
+       "created": 1646116897183,
+       "text": "【高麗藏】No.447《六門陀羅尼經》大唐三藏法師玄奘譯 部別：大乘經 單譯 / 冊數：13 頁數：1164 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：讚"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1e",
+       "created": 1646116897183,
+       "text": "【普寧藏】No.461《佛說六門陀羅尼經》 卷數：1 千字文：羔(199)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1f",
+       "created": 1646116897183,
+       "text": "【至元錄】No.642《六門陀羅尼經》唐三藏玄奘譯 卷數：1 千字文：資(241)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1g",
+       "created": 1646116897183,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1h",
+       "created": 1646116897183,
+       "text": "【永樂南藏】No.459《佛說六門陀羅尼經》 部別：大乘經-單譯經 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1i",
+       "created": 1646116897183,
+       "text": "【永樂北藏】No.519《佛說六門陀羅尼經》唐玄奘譯 部別：大乘經單經譯 / 冊數：53 / 頁數：637 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1j",
+       "created": 1646116897183,
+       "text": "【嘉興藏】No.488《佛說六門陀羅尼經》唐玄奘譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0488 千字文 / 函號：［正藏］ 行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1k",
+       "created": 1646116897183,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1l",
+       "created": 1646116897183,
+       "text": "【乾隆藏】No.489《佛說六門陀羅尼經》唐 玄奘譯 部別：大乘單譯經 / 冊數：45 / 頁數：392 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1m",
+       "created": 1646116897183,
+       "text": "【縮刻藏】No.1543《六門陀羅尼經》唐玄奘譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1n",
+       "created": 1646116897183,
+       "text": "【卍正藏】No.495《六門陀羅尼經》大唐 玄奘譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：950 / 卷數：1 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1o",
+       "created": 1646116897183,
+       "text": "【大正藏】No.1360《六門陀羅尼經》唐 玄奘譯 部別：密教部四 / 冊數：21 / 頁數：878 / 卷數：1 相關經典：縮-成8,卍-12.5 參考資料：cf.No.1361"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1p",
+       "created": 1646116897183,
+       "text": "【佛教大藏經】No.1099《六門陀羅尼經》唐 玄奘譯 部別：小乘論 論部十四 / 冊數：48 / 頁數：574 / 卷數：1 【佛教大藏經】No.1620《六門陀羅尼經》唐 玄奘譯 部別：密教部六 / 冊數：57 / 頁數：421 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1q",
+       "created": 1646116897183,
+       "text": "【中華藏】No.491《六門陀羅尼經》大唐三藏法師玄奘奉詔譯 冊數：24 / 頁數：31 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1r",
+       "created": 1646116897183,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1s",
+       "created": 1646116897183,
+       "text": "【南條文雄編號】 Nj. 0493"
+      }},
+      {"data": {
+       "id": "z5cYxbDK1t",
+       "created": 1646116897183,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1360"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyu6153",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

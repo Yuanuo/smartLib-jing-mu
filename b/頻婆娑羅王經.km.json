@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "頻婆娑羅王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwMraA",
+    "created": 1646116892449,
+    "text": "現藏錄（劉宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwMoZD",
+      "created": 1646116892446,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwMoZE",
+        "created": 1646116892446,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMoZF",
+        "created": 1646116892446,
+        "text": "頻婆娑羅王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMoZG",
+        "created": 1646116892446,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMoZH",
+        "created": 1646116892446,
+        "text": "频婆娑罗王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMoZI",
+        "created": 1646116892446,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMoZJ",
+        "created": 1646116892446,
+        "text": "bin po suo luo wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMpZR",
+        "created": 1646116892447,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMpZS",
+        "created": 1646116892447,
+        "text": "P'in p'o so lo wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMpZT",
+        "created": 1646116892447,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMpZU",
+        "created": 1646116892447,
+        "text": "Bimbisārapratyudgamanasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMpZV",
+        "created": 1646116892447,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMpZW",
+        "created": 1646116892447,
+        "text": "Mdo-chen-po gzugs-can-sñiṅ-pos bsu-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMpZX",
+        "created": 1646116892447,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMpZY",
+        "created": 1646116892447,
+        "text": "빈바사라왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwMpZK",
+      "created": 1646116892447,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMpZL",
+      "created": 1646116892447,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwMpZM",
+      "created": 1646116892447,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwMpZN",
+       "created": 1646116892447,
+       "text": "劉宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYwMpZO",
+       "created": 1646116892447,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwMpZP",
+      "created": 1646116892447,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMpZQ",
+      "created": 1646116892447,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwMpZZ",
+      "created": 1646116892447,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMpZa",
+      "created": 1646116892447,
+      "text": "Ta-chung-lu vol.10 p.10b:14b"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwMpZb",
+      "created": 1646116892447,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwMpZc",
+       "created": 1646116892447,
+       "text": "【北京版】Mdo-sna-tshogs (lu)268a-274b"
+      }},
+      {"data": {
+       "id": "z5cYwMpZd",
+       "created": 1646116892447,
+       "text": "【奈塘版】Mdo (ra)373b-383a"
+      }},
+      {"data": {
+       "id": "z5cYwMpZe",
+       "created": 1646116892447,
+       "text": "【德格版】Mdo-sde (śa)244b-249b"
+      }},
+      {"data": {
+       "id": "z5cYwMpZf",
+       "created": 1646116892447,
+       "text": "【拉薩版】Mdo (ra)467b-476b"
+      }},
+      {"data": {
+       "id": "z5cYwMpZg",
+       "created": 1646116892447,
+       "text": "【卓尼版】Mdo-maṅ (śa)287b-294a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwMpZh",
+      "created": 1646116892447,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMpZi",
+      "created": 1646116892447,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwMpZj",
+      "created": 1646116892447,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwMqZk",
+       "created": 1646116892448,
+       "text": "【房山石經】No.1033《佛說頻婆娑羅王經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：27 / 頁數：210 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：回"
+      }},
+      {"data": {
+       "id": "z5cYwMqZl",
+       "created": 1646116892448,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZm",
+       "created": 1646116892448,
+       "text": "【崇寧藏】No.1252《佛說頻婆娑羅王經》 卷數：1 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZn",
+       "created": 1646116892448,
+       "text": "【毘盧藏】No.1253《佛說頻婆娑羅王經》宋法賢譯 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZo",
+       "created": 1646116892448,
+       "text": "【圓覺藏】No.1260《頻婆娑羅王經》 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZp",
+       "created": 1646116892448,
+       "text": "【趙城金藏】No.1262《頻婆娑羅王經》 卷數：1 千字文：輦"
+      }},
+      {"data": {
+       "id": "z5cYwMqZq",
+       "created": 1646116892448,
+       "text": "【資福藏】No.1265《頻婆娑羅王經》 卷數：1 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZr",
+       "created": 1646116892448,
+       "text": "【磧砂藏】No.1271《佛說頻婆娑羅王經》宋 法賢譯 部別： / 冊數：33 / 頁數：227 / 卷數：1 千字文：驅 4 (509)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZs",
+       "created": 1646116892448,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZt",
+       "created": 1646116892448,
+       "text": "【高麗藏】No.1243《頻婆裟羅王經》譯經大師臣法賢奉詔譯 部別：宋續入藏經 / 冊數：34 頁數：523 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：輦"
+      }},
+      {"data": {
+       "id": "z5cYwMqZu",
+       "created": 1646116892448,
+       "text": "【普寧藏】No.1264《佛說頻婆娑羅王經》 卷數：1 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZv",
+       "created": 1646116892448,
+       "text": "【至元錄】No.1143《頻婆羅王經》宋天竺三藏法賢譯 卷數：1 千字文：夫(333)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZw",
+       "created": 1646116892448,
+       "text": "【洪武南藏】No.1123《頻婆娑羅王經》西天譯經三藏朝散大夫試光祿卿明教大師臣法賢 奉詔譯 冊數：182 / 頁數：558 / 卷數：1 千字文：驅 4 (509)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZx",
+       "created": 1646116892448,
+       "text": "【永樂南藏】No.929《佛說頻婆娑羅王經》 部別：宋元入藏諸大小乘經 千字文：興(262)"
+      }},
+      {"data": {
+       "id": "z5cYwMqZy",
+       "created": 1646116892448,
+       "text": "【永樂北藏】No.931《佛說頻婆娑羅王經》宋法賢譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：619 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYwMqZz",
+       "created": 1646116892448,
+       "text": "【嘉興藏】No.894《佛說頻婆娑羅王經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0894 千字文 / 函號：［正藏］ 臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYwMqa0",
+       "created": 1646116892448,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMqa1",
+       "created": 1646116892448,
+       "text": "【乾隆藏】No.895《佛說頻婆娑羅王經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：753 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYwMqa2",
+       "created": 1646116892448,
+       "text": "【縮刻藏】No.495《佛說頻婆娑羅王經》宋法賢譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwMqa3",
+       "created": 1646116892448,
+       "text": "【卍正藏】No.904《佛說頻婆娑羅王經》法賢譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：941 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwMqa4",
+       "created": 1646116892448,
+       "text": "【大正藏】No.41《頻婆娑羅王經》劉宋 法賢譯 部別：阿含部上 / 冊數：1 / 頁數：825 / 卷數：1 相關經典：縮-昃8,卍-15.5,南-3.1.22 參考資料：No.26(62)"
+      }},
+      {"data": {
+       "id": "z5cYwMqa5",
+       "created": 1646116892448,
+       "text": "【佛教大藏經】No.503《佛說頻婆裟羅王經》劉宋 法賢譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：226 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwMqa6",
+       "created": 1646116892448,
+       "text": "【中華藏】No.1371《佛說頻婆娑羅王經》西天譯經三藏朝奉大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：878 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwMqa7",
+       "created": 1646116892448,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMqa8",
+       "created": 1646116892448,
+       "text": "【南條文雄編號】 Nj. 0900"
+      }},
+      {"data": {
+       "id": "z5cYwMqa9",
+       "created": 1646116892448,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：41"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhv6k14",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

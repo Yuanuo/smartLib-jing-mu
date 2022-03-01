@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "神僧傳"},
+  "children": [{
+   "data": {
+    "id": "z5cYy61TPu",
+    "created": 1646116899093,
+    "text": "現藏錄（明太宗御製）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy61TPF",
+      "created": 1646116899093,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy61TPG",
+        "created": 1646116899093,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy61TPH",
+        "created": 1646116899093,
+        "text": "神僧傳",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy61TPI",
+        "created": 1646116899093,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy61TPJ",
+        "created": 1646116899093,
+        "text": "神僧传",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy61TPK",
+        "created": 1646116899093,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy61TPL",
+        "created": 1646116899093,
+        "text": "shen seng chuan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy61TPM",
+      "created": 1646116899093,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy61TPN",
+      "created": 1646116899093,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy61TPO",
+      "created": 1646116899093,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy61TPP",
+       "created": 1646116899093,
+       "text": "明太宗御製"
+      }},
+      {"data": {
+       "id": "z5cYy61TPQ",
+       "created": 1646116899093,
+       "text": "太宗皇帝",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy61TPR",
+      "created": 1646116899093,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy61TPS",
+      "created": 1646116899093,
+      "text": "9"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy61TPT",
+      "created": 1646116899093,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy61TPU",
+       "created": 1646116899093,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPV",
+       "created": 1646116899093,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPW",
+       "created": 1646116899093,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPX",
+       "created": 1646116899093,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPY",
+       "created": 1646116899093,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPZ",
+       "created": 1646116899093,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPa",
+       "created": 1646116899093,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPb",
+       "created": 1646116899093,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPc",
+       "created": 1646116899093,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPd",
+       "created": 1646116899093,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPe",
+       "created": 1646116899093,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPf",
+       "created": 1646116899093,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPg",
+       "created": 1646116899093,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPh",
+       "created": 1646116899093,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPi",
+       "created": 1646116899093,
+       "text": "【永樂北藏】No.1711《神僧傳》明太宗朱棣集撰 部別：此土著述 / 冊數：181 / 頁數：235 / 卷數：9 千字文：城"
+      }},
+      {"data": {
+       "id": "z5cYy61TPj",
+       "created": 1646116899093,
+       "text": "【嘉興藏】No.1612《神僧傳》明太宗朱棣集撰 部別：此土著述 / 法寶總目錄經號：1611 千字文 / 函號：［正藏］ 城(632)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPk",
+       "created": 1646116899093,
+       "text": "【嘉興藏新文豐版】［正藏］No.118《神僧傳》明 成祖撰 冊數：6 / 頁數：479 / 卷數：9"
+      }},
+      {"data": {
+       "id": "z5cYy61TPl",
+       "created": 1646116899093,
+       "text": "【乾隆藏】No.1624《神僧傳》明 成祖撰　明太宗御製 部別：此土著述 / 冊數：148 / 頁數：563 / 卷數：9 千字文：畝"
+      }},
+      {"data": {
+       "id": "z5cYy61TPm",
+       "created": 1646116899093,
+       "text": "【縮刻藏】No.1830《神僧傳》御製 部別：支那撰述-傳記部 / 卷數：9 千字文：致 11 (35)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPn",
+       "created": 1646116899093,
+       "text": "【卍正藏】No.1626《神僧傳》明 太宗御製 部別：此土著述 / 冊數：69 / 頁數：235 / 卷數：9 原版套數：第 35-36 套"
+      }},
+      {"data": {
+       "id": "z5cYy61TPo",
+       "created": 1646116899093,
+       "text": "【大正藏】No.2064《神僧傳》 部別：史傳部二 / 冊數：50 / 頁數：948 / 卷數：9 相關經典：縮-致11,卍-30.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy61TPp",
+       "created": 1646116899093,
+       "text": "【佛教大藏經】No.2029《神僧傳》 部別：史傳部二 / 冊數：75 / 頁數：1364 / 卷數：9"
+      }},
+      {"data": {
+       "id": "z5cYy61TPq",
+       "created": 1646116899093,
+       "text": "【中華藏】No.1185《神僧傳》 冊數：62 / 頁數：358 / 卷數：9 / 底本：明永樂北藏本"
+      }},
+      {"data": {
+       "id": "z5cYy61TPr",
+       "created": 1646116899093,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy61TPs",
+       "created": 1646116899093,
+       "text": "【南條文雄編號】 Nj. 1620"
+      }},
+      {"data": {
+       "id": "z5cYy61TPt",
+       "created": 1646116899093,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2064"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0b91pp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

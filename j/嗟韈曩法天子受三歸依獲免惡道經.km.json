@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說嗟韈曩法天子受三歸依獲免惡道經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx0t9LJ",
+    "created": 1646116894931,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx0s9KM",
+      "created": 1646116894930,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx0s9KN",
+        "created": 1646116894930,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0s9KO",
+        "created": 1646116894930,
+        "text": "佛說嗟韈曩法天子受三歸依獲免惡道經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0s9KP",
+        "created": 1646116894930,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0s9KQ",
+        "created": 1646116894930,
+        "text": "佛说嗟韈曩法天子受三归依获免恶道经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0s9KR",
+        "created": 1646116894930,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0t9KS",
+        "created": 1646116894931,
+        "text": "fo shuo jie wa nang fa tian zi shou san gui yi huo mian e dao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0t9Ka",
+        "created": 1646116894931,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0t9Kb",
+        "created": 1646116894931,
+        "text": "Chüeh wa nang fa t'ien tzu shou san kuei i huo mien e tao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0t9Kc",
+        "created": 1646116894931,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0t9Kd",
+        "created": 1646116894931,
+        "text": "Sūkarikāvadāna(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0t9Ke",
+        "created": 1646116894931,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0t9Kf",
+        "created": 1646116894931,
+        "text": "Phag-moḥi rtogs-pa-brjod-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0t9Kg",
+        "created": 1646116894931,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0t9Kh",
+        "created": 1646116894931,
+        "text": "차말랑법천자수삼귀의획면악도경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0t9KT",
+      "created": 1646116894931,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0t9KU",
+      "created": 1646116894931,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0t9KV",
+      "created": 1646116894931,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0t9KW",
+       "created": 1646116894931,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYx0t9KX",
+       "created": 1646116894931,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0t9KY",
+      "created": 1646116894931,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0t9KZ",
+      "created": 1646116894931,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0t9Ki",
+      "created": 1646116894931,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0t9Kj",
+      "created": 1646116894931,
+      "text": "Ta-chung-lu vol.4 p.6a:10b."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0t9Kk",
+      "created": 1646116894931,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0t9Kl",
+       "created": 1646116894931,
+       "text": "【北京版】Mdo-sna-tshogs (U)300b-302b"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Km",
+       "created": 1646116894931,
+       "text": "【奈塘版】Mdo (ḥa)427a-430a"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Kn",
+       "created": 1646116894931,
+       "text": "【德格版】Mdo-sde (Aṃ)289b-291a"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Ko",
+       "created": 1646116894931,
+       "text": "【拉薩版】Mdo-sde (ḥa)450a-452b"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Kp",
+       "created": 1646116894931,
+       "text": "【卓尼版】Mdo-maṅ (Aṃ)319b-321b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0t9Kq",
+      "created": 1646116894931,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0t9Kr",
+      "created": 1646116894931,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0t9Ks",
+      "created": 1646116894931,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0t9Kt",
+       "created": 1646116894931,
+       "text": "【房山石經】No.876《佛說嗟 韈曩法天子受三歸依獲免惡道經》西天中印度摩伽陀國那爛陀寺三藏傳教大師賜紫沙門法天奉詔譯 冊數：25 / 頁數：611 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：溪"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Ku",
+       "created": 1646116894931,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Kv",
+       "created": 1646116894931,
+       "text": "【崇寧藏】No.1107《嗟韈曩法天子受三歸依獲免惡道經》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Kw",
+       "created": 1646116894931,
+       "text": "【毘盧藏】No.1106《嗟韈曩法天子受三歸依獲免惡道經》宋法天譯 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Kx",
+       "created": 1646116894931,
+       "text": "【圓覺藏】No.1116《嗟》 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Ky",
+       "created": 1646116894931,
+       "text": "【趙城金藏】No.1112《嗟韈曩法天子受[三]歸依獲免惡道經》 卷數：1 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYx0t9Kz",
+       "created": 1646116894931,
+       "text": "【資福藏】No.1120《嗟韈曩法天子受三歸依獲免惡道經》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L0",
+       "created": 1646116894931,
+       "text": "【磧砂藏】No.1131《嗟韈曩法天子受三歸依獲免惡道經》宋 法天譯 部別： / 冊數：32 / 頁數：564 / 卷數：1 千字文：路 7 (493)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L1",
+       "created": 1646116894931,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L2",
+       "created": 1646116894931,
+       "text": "【高麗藏】No.1111《嗟韈曩法天子受三歸依獲免惡道經》那爛陀寺三藏沙門法天譯 部別：宋續入藏經 / 冊數：33 頁數：919 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L3",
+       "created": 1646116894931,
+       "text": "【普寧藏】No.1121《嗟韈曩法天子受三歸依獲免惡道經》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L4",
+       "created": 1646116894931,
+       "text": "【至元錄】No.1149《嗟韈曩法天子受三歸依獲免惡道經》宋西域三藏法天譯 卷數：1 千字文：唱(334)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L5",
+       "created": 1646116894931,
+       "text": "【洪武南藏】No.986《嗟韈曩法天子受三歸依獲免惡道經》西天中印度摩伽陁國那爛陁寺三藏傳教大師賜紫沙門法天 奉詔譯 冊數：179 / 頁數：81 / 卷數：1 千字文：路 7 (493)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L6",
+       "created": 1646116894931,
+       "text": "【永樂南藏】No.792《嗟韈曩法天子受三歸依獲免惡道經》 部別：宋元入藏諸大小乘經 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L7",
+       "created": 1646116894931,
+       "text": "【永樂北藏】No.837《嗟襪曩法天子受三歸依獲免惡道經》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：581 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L8",
+       "created": 1646116894931,
+       "text": "【嘉興藏】No.800《嗟韈曩法天子受三歸依》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0800 千字文 / 函號：［正藏］ 則(254)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9L9",
+       "created": 1646116894931,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LA",
+       "created": 1646116894931,
+       "text": "【乾隆藏】No.801《嗟韈曩法天子受三歸依獲免惡道經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：745 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LB",
+       "created": 1646116894931,
+       "text": "【縮刻藏】No.646《佛說嗟韈曩法天子受三歸依獲免惡道經》宋法天譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LC",
+       "created": 1646116894931,
+       "text": "【卍正藏】No.810《佛說嗟韈曩法天子受三歸依獲免惡道經》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：490 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LD",
+       "created": 1646116894931,
+       "text": "【大正藏】No.595《佛說嗟韈曩法天子受三歸依獲免惡道經》宋 法天譯 部別：經集部二 / 冊數：15 / 頁數：129 / 卷數：1 相關經典：縮-宿7,卍-15.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx0t9LE",
+       "created": 1646116894931,
+       "text": "【佛教大藏經】No.666《佛說嗟韈曩法天子受三歸依獲免惡道經》宋 法天譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：197 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LF",
+       "created": 1646116894931,
+       "text": "【中華藏】No.1221《佛說嗟韈曩法天子受三歸依獲免惡道經》西天中印度摩伽陀國那爛陀寺三藏傳教大師沙門法天奉詔譯 冊數：63 / 頁數：810 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LG",
+       "created": 1646116894931,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LH",
+       "created": 1646116894931,
+       "text": "【南條文雄編號】 Nj. 0806"
+      }},
+      {"data": {
+       "id": "z5cYx0t9LI",
+       "created": 1646116894931,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：595"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx3mij",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "真言宗未決文"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLAYEg",
+    "created": 1646116900032,
+    "text": "現藏錄（日本 德一撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLAYE1",
+      "created": 1646116900032,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLAYE2",
+        "created": 1646116900032,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLAYE3",
+        "created": 1646116900032,
+        "text": "真言宗未決文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLAYE4",
+        "created": 1646116900032,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLAYE5",
+        "created": 1646116900032,
+        "text": "真言宗未决文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLAYE6",
+        "created": 1646116900032,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLAYE7",
+        "created": 1646116900032,
+        "text": "zhen yan zong wei jue wen"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLAYE8",
+      "created": 1646116900032,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLAYE9",
+      "created": 1646116900032,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLAYEA",
+      "created": 1646116900032,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLAYEB",
+       "created": 1646116900032,
+       "text": "日本 德一撰"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEC",
+       "created": 1646116900032,
+       "text": "德一",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLAYED",
+      "created": 1646116900032,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLAYEE",
+      "created": 1646116900032,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLAYEF",
+      "created": 1646116900032,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLAYEG",
+       "created": 1646116900032,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEH",
+       "created": 1646116900032,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEI",
+       "created": 1646116900032,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEJ",
+       "created": 1646116900032,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEK",
+       "created": 1646116900032,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEL",
+       "created": 1646116900032,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEM",
+       "created": 1646116900032,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEN",
+       "created": 1646116900032,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEO",
+       "created": 1646116900032,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEP",
+       "created": 1646116900032,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEQ",
+       "created": 1646116900032,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYER",
+       "created": 1646116900032,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYES",
+       "created": 1646116900032,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYET",
+       "created": 1646116900032,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEU",
+       "created": 1646116900032,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEV",
+       "created": 1646116900032,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEW",
+       "created": 1646116900032,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEX",
+       "created": 1646116900032,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEY",
+       "created": 1646116900032,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEZ",
+       "created": 1646116900032,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEa",
+       "created": 1646116900032,
+       "text": "【大正藏】No.2458《真言宗未決文》日本 德一撰 部別：續諸宗部八 / 冊數：77 / 頁數：862 / 卷數：1 相關經典： 參考資料：cf.No.2459"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEb",
+       "created": 1646116900032,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEc",
+       "created": 1646116900032,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEd",
+       "created": 1646116900032,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEe",
+       "created": 1646116900032,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLAYEf",
+       "created": 1646116900032,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2458"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri11c21r",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

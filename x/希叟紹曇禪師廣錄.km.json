@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "希叟紹曇禪師廣錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYzS3sas",
+    "created": 1646116904303,
+    "text": "現藏錄（(侍者) 法澄．了舜．普和．希革．惠洇．彌紹．道亨．宗壽 編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzS3saD",
+      "created": 1646116904303,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzS3saE",
+        "created": 1646116904303,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzS3saF",
+        "created": 1646116904303,
+        "text": "希叟紹曇禪師廣錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzS3saG",
+        "created": 1646116904303,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzS3saH",
+        "created": 1646116904303,
+        "text": "希叟绍昙禅师广录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzS3saI",
+        "created": 1646116904303,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzS3saJ",
+        "created": 1646116904303,
+        "text": "xi sou shao tan shan shi guang lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzS3saK",
+      "created": 1646116904303,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzS3saL",
+      "created": 1646116904303,
+      "text": "",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzS3saM",
+      "created": 1646116904303,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzS3saN",
+       "created": 1646116904303,
+       "text": "(侍者) 法澄．了舜．普和．希革．惠洇．彌紹．道亨．宗壽 編"
+      }},
+      {"data": {
+       "id": "z5cYzS3saO",
+       "created": 1646116904303,
+       "text": "法澄",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzS3saP",
+      "created": 1646116904303,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzS3saQ",
+      "created": 1646116904303,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzS3saR",
+      "created": 1646116904303,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzS3saS",
+       "created": 1646116904303,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saT",
+       "created": 1646116904303,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saU",
+       "created": 1646116904303,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saV",
+       "created": 1646116904303,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saW",
+       "created": 1646116904303,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saX",
+       "created": 1646116904303,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saY",
+       "created": 1646116904303,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saZ",
+       "created": 1646116904303,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saa",
+       "created": 1646116904303,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sab",
+       "created": 1646116904303,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sac",
+       "created": 1646116904303,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sad",
+       "created": 1646116904303,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sae",
+       "created": 1646116904303,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saf",
+       "created": 1646116904303,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sag",
+       "created": 1646116904303,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sah",
+       "created": 1646116904303,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sai",
+       "created": 1646116904303,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3saj",
+       "created": 1646116904303,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sak",
+       "created": 1646116904303,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sal",
+       "created": 1646116904303,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sam",
+       "created": 1646116904303,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3san",
+       "created": 1646116904303,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sao",
+       "created": 1646116904303,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sap",
+       "created": 1646116904303,
+       "text": "【新纂卍續藏】No.1390《希叟紹曇禪師廣錄》(侍者) 法澄．了舜．普和．希革．惠洇．彌紹．道亨．宗壽 編 部別：中國撰述 諸宗著述部十七 禪宗語錄別集 / 冊數：70 / 頁數：410 / 卷數：7 《卍大日本續藏經》套數：第二編．第 27 套 《卍續藏經》(新文豐版)冊數：第 122 冊"
+      }},
+      {"data": {
+       "id": "z5cYzS3saq",
+       "created": 1646116904303,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzS3sar",
+       "created": 1646116904303,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1533"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4by3iv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

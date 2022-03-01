@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "妙法蓮華經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwfm3pm",
+    "created": 1646116893622,
+    "text": "現藏錄（姚秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwfk3op",
+      "created": 1646116893620,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwfk3oq",
+        "created": 1646116893620,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfk3or",
+        "created": 1646116893620,
+        "text": "妙法蓮華經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfk3os",
+        "created": 1646116893620,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfk3ot",
+        "created": 1646116893620,
+        "text": "妙法莲华经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfk3ou",
+        "created": 1646116893620,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfk3ov",
+        "created": 1646116893620,
+        "text": "miao fa lian hua jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfk3p3",
+        "created": 1646116893620,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfk3p4",
+        "created": 1646116893620,
+        "text": "Miao fa lien hua ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfk3p5",
+        "created": 1646116893620,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfk3p6",
+        "created": 1646116893620,
+        "text": "Saddharmapuṇḍarīkasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfk3p7",
+        "created": 1646116893620,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfk3p8",
+        "created": 1646116893620,
+        "text": "Dam-paḥi chos pad-ma dkar-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfk3p9",
+        "created": 1646116893620,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfk3pA",
+        "created": 1646116893620,
+        "text": "묘법연화경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwfk3ow",
+      "created": 1646116893620,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfk3ox",
+      "created": 1646116893620,
+      "text": "姚秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfk3oy",
+      "created": 1646116893620,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwfk3oz",
+       "created": 1646116893620,
+       "text": "姚秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYwfk3p0",
+       "created": 1646116893620,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwfk3p1",
+      "created": 1646116893620,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfk3p2",
+      "created": 1646116893620,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfk3pB",
+      "created": 1646116893620,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfk3pC",
+      "created": 1646116893620,
+      "text": "Translation by Kumārajīva: summer of the 8th year of Hung Shih (弘始), Later Ch'in dynasty (A.D. 406) in the Ta Monastery (大寺), T. 2154-512b:23. or in the 7th year of Hung Shih (弘始) (A.D. 405) in the Hsiao-yao Garden (逍遙園), Ch'ang-an(長安).T. 2153-385c:9."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfl3pD",
+      "created": 1646116893621,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwfl3pE",
+       "created": 1646116893621,
+       "text": "【北京版】Mdo-sna-tshogs (chu)1-205a"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pF",
+       "created": 1646116893621,
+       "text": "【奈塘版】Mdo (ja)1b-281b"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pG",
+       "created": 1646116893621,
+       "text": "【德格版】Mdo-sde (ja)1b-180b"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pH",
+       "created": 1646116893621,
+       "text": "【拉薩版】Mdo (ja)1b-285b"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pI",
+       "created": 1646116893621,
+       "text": "【卓尼版】Mdo-maṅ (ja)1b-212b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwfl3pJ",
+      "created": 1646116893621,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfl3pK",
+      "created": 1646116893621,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfl3pL",
+      "created": 1646116893621,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwfl3pM",
+       "created": 1646116893621,
+       "text": "【房山石經】No.1《妙法蓮華經》(姚秦)鳩摩羅什譯 冊數：1 / 頁數：1 / 卷數：7 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.91《妙法蓮華經》(姚秦)三藏鳩摩羅什譯 冊數：3 / 頁數：4 / 刻經年代：開元十六年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.105《妙法蓮華經》(姚秦)三藏鳩摩羅什譯 冊數：3 / 頁數：341 / 刻經年代：貞元四年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.106《妙法蓮華經》(姚秦)三藏鳩摩羅什譯 冊數：3 / 頁數：345 / 卷數：8 / 刻經年代：貞元五年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.108《妙法蓮華經》(姚秦)三藏鳩摩羅什譯 冊數：3 / 頁數：354 / 卷數：8 / 刻經年代：貞元五年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.120《妙法蓮華經》(姚秦)鳩摩羅什譯 冊數：3 / 頁數：373 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYwfl3pN",
+       "created": 1646116893621,
+       "text": "【開寶藏】No.117《妙法蓮花經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘經 五大部外諸重譯經 / 卷數：7 千字文：鳴"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pO",
+       "created": 1646116893621,
+       "text": "【崇寧藏】No.118《妙法蓮華經》 卷數：7 千字文：鳳(130)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pP",
+       "created": 1646116893621,
+       "text": "【毘盧藏】No.111《妙法蓮華經》序唐道宣述　姚秦鳩摩羅什譯 參考年代：(紹興戊辰．閏八) 千字文：鳳(130)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pQ",
+       "created": 1646116893621,
+       "text": "【圓覺藏】No.115《妙法蓮華經》 卷數：7 千字文：鳳(130)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pR",
+       "created": 1646116893621,
+       "text": "【趙城金藏】No.116《妙法蓮華經》 卷數：7 千字文：鳴"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pS",
+       "created": 1646116893621,
+       "text": "【資福藏】No.115《妙法蓮華經》 卷數：7 (七卷) 千字文：鳳(130)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pT",
+       "created": 1646116893621,
+       "text": "【磧砂藏】No.118《妙法蓮華經》姚秦 鳩摩羅什譯 部別：五大部外諸重譯經 / 冊數：9 / 頁數：128 / 卷數：7 千字文：鳳 4 (130)-鳳 10 (130)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pU",
+       "created": 1646116893621,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pV",
+       "created": 1646116893621,
+       "text": "【高麗藏】No.116《妙法蓮華經》姚秦三藏鳩摩羅什譯 部別：大乘經 五大部外諸重譯經 / 冊數：9 頁數：725 / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：鳴"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pW",
+       "created": 1646116893621,
+       "text": "【普寧藏】No.114《妙法蓮華經》 卷數：7 千字文：鳳(130)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pX",
+       "created": 1646116893621,
+       "text": "【至元錄】No.195《妙法蓮華經》姚秦三藏鳩摩羅什譯 梵名：薩達哩(二合)麻　奔怛唎乞(二合)蘇怛囉(二合) / 卷數：8 / 譯次：(第五譯) 千字文：及(142)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pY",
+       "created": 1646116893621,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pZ",
+       "created": 1646116893621,
+       "text": "【永樂南藏】No.118《妙法蓮華經》 部別：大乘經-五大部外重譯經 千字文：草(139)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pa",
+       "created": 1646116893621,
+       "text": "【永樂北藏】No.157《妙法蓮華經》姚秦鳩摩羅什譯 部別：大乘經五大部外重譯經 / 冊數：36 / 頁數：327 / 卷數：7 千字文：草"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pb",
+       "created": 1646116893621,
+       "text": "【嘉興藏】No.129《妙法蓮華經》姚秦鳩摩羅什譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0129 千字文 / 函號：［正藏］ 草(139)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pc",
+       "created": 1646116893621,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pd",
+       "created": 1646116893621,
+       "text": "【乾隆藏】No.130《妙法蓮華經》姚秦 鳩摩羅什譯 部別：大乘五大部外重譯經 / 冊數：31 / 頁數：393 / 卷數：7 千字文：草"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pe",
+       "created": 1646116893621,
+       "text": "【縮刻藏】No.422《妙法蓮華經》後秦鳩摩羅什譯 部別：大乘經-法華部 / 卷數：7 千字文：盈 1 (11)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pf",
+       "created": 1646116893621,
+       "text": "【卍正藏】No.133《妙法蓮華經》後秦 鳩摩羅什譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：280 / 卷數：7 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pg",
+       "created": 1646116893621,
+       "text": "【大正藏】No.262《妙法蓮華經》姚秦 鳩摩羅什譯 部別：法華部全 / 冊數：9 / 頁數：1 / 卷數：7 相關經典：縮-盈1,卍-9.2,國-法 參考資料：Nos.263,264;cf.Nos.265,1715-1729,2187-2192,2195,2748-2752"
+      }},
+      {"data": {
+       "id": "z5cYwfl3ph",
+       "created": 1646116893621,
+       "text": "【佛教大藏經】No.429《妙法蓮華經》姚秦 鳩摩羅什譯 部別：大乘經 法華部全 / 冊數：21 / 頁數：11 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pi",
+       "created": 1646116893621,
+       "text": "【中華藏】No.124《妙法蓮華經》姚秦三藏鳩摩羅什譯 冊數：15 / 頁數：507 / 卷數：7 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pj",
+       "created": 1646116893621,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pk",
+       "created": 1646116893621,
+       "text": "【南條文雄編號】 Nj. 0134"
+      }},
+      {"data": {
+       "id": "z5cYwfl3pl",
+       "created": 1646116893621,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：262"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw367j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

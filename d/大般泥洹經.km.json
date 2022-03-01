@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "佛說大般泥洹經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwo95zR",
+    "created": 1646116894141,
+    "text": "現藏錄（東晉 法顯譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwo85yT",
+      "created": 1646116894140,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwo85yU",
+        "created": 1646116894140,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwo85yV",
+        "created": 1646116894140,
+        "text": "佛說大般泥洹經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwo85yW",
+        "created": 1646116894140,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwo85yX",
+        "created": 1646116894140,
+        "text": "佛说大般泥洹经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwo85yY",
+        "created": 1646116894140,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwo85yZ",
+        "created": 1646116894140,
+        "text": "fo shuo da ban ni huan jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwo85yi",
+        "created": 1646116894140,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwo85yj",
+        "created": 1646116894140,
+        "text": "Ta pan ni yüan ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwo85yk",
+        "created": 1646116894140,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwo85yl",
+        "created": 1646116894140,
+        "text": "Mahāparinirvāṇasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwo85ym",
+        "created": 1646116894140,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwo85yn",
+        "created": 1646116894140,
+        "text": "Yoṅs-su-mya-ṅan-las-ḥdas-pa chen-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwo85yo",
+        "created": 1646116894140,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwo85yp",
+        "created": 1646116894140,
+        "text": "대반니원경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwo85ya",
+      "created": 1646116894140,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwo85yb",
+      "created": 1646116894140,
+      "text": "東晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwo85yc",
+      "created": 1646116894140,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwo85yd",
+       "created": 1646116894140,
+       "text": "東晉 法顯譯"
+      }},
+      {"data": {
+       "id": "z5cYwo85ye",
+       "created": 1646116894140,
+       "text": "佛陀跋陀羅",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwo85yf",
+       "created": 1646116894140,
+       "text": "法顯",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwo85yg",
+      "created": 1646116894140,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwo85yh",
+      "created": 1646116894140,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwo85yq",
+      "created": 1646116894140,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwo85yr",
+      "created": 1646116894140,
+      "text": "Translation by Fa-hsien: begun either on the 1st day, 10th month, 13th year and completed on the 2nd day, 1st month, 14th year of I Hsi (義煕), Eastern Chin dynasy (東晉) (Oct. 26, A.D. 417-Feb. 22, A.D. 418) in Tao-ch'ang Monastery (道場寺), Yang-tu (楊都), T. 2157-804a:21. or in the 6th year of I Hsi (義煕) Eastern Chin dynasty (東普) (A.D. 410-411). T. 2149-247a:21."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwo85ys",
+      "created": 1646116894140,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwo85yt",
+       "created": 1646116894140,
+       "text": "【北京版】Mdo-sna-tshogs (tu)1-156b"
+      }},
+      {"data": {
+       "id": "z5cYwo85yu",
+       "created": 1646116894140,
+       "text": "【奈塘版】Mdo (ña)1-231b"
+      }},
+      {"data": {
+       "id": "z5cYwo85yv",
+       "created": 1646116894140,
+       "text": "【德格版】Mdo-sde (tha)1b-151a"
+      }},
+      {"data": {
+       "id": "z5cYwo85yw",
+       "created": 1646116894140,
+       "text": "【拉薩版】Mdo (ña)1b-222b"
+      }},
+      {"data": {
+       "id": "z5cYwo85yx",
+       "created": 1646116894140,
+       "text": "【卓尼版】Mdo-maṅ (tha)1b-169a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwo85yy",
+      "created": 1646116894140,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwo85yz",
+      "created": 1646116894140,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwo95z0",
+      "created": 1646116894141,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwo95z1",
+       "created": 1646116894141,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwo95z2",
+       "created": 1646116894141,
+       "text": "【開寶藏】No.107《大般泥洹經》東晉 平陽沙門法顯共覺賢 譯 部別：大乘經 涅槃部 / 卷數：6 千字文：率"
+      }},
+      {"data": {
+       "id": "z5cYwo95z3",
+       "created": 1646116894141,
+       "text": "【崇寧藏】No.108《大般泥洹經》 卷數：6 千字文：賓(126)"
+      }},
+      {"data": {
+       "id": "z5cYwo95z4",
+       "created": 1646116894141,
+       "text": "【毘盧藏】No.105《佛說大般泥洹經》東晉法顯共覺賢譯 參考年代：(宣和七．八) 千字文：賓(126)"
+      }},
+      {"data": {
+       "id": "z5cYwo95z5",
+       "created": 1646116894141,
+       "text": "【圓覺藏】No.106《大般泥洹經》 卷數：6 千字文：賓(126)"
+      }},
+      {"data": {
+       "id": "z5cYwo95z6",
+       "created": 1646116894141,
+       "text": "【趙城金藏】No.106《大般泥洹經》 卷數：6 千字文：率"
+      }},
+      {"data": {
+       "id": "z5cYwo95z7",
+       "created": 1646116894141,
+       "text": "【資福藏】No.109《大般泥洹經》 卷數：6 (六卷) 千字文：賓(126)"
+      }},
+      {"data": {
+       "id": "z5cYwo95z8",
+       "created": 1646116894141,
+       "text": "【磧砂藏】No.109《大般泥洹經》晉 法顯．覺賢譯 部別：涅槃部 / 冊數：8 / 頁數：763 / 卷數：6 千字文：賓 3 (126)-賓 8 (126)"
+      }},
+      {"data": {
+       "id": "z5cYwo95z9",
+       "created": 1646116894141,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zA",
+       "created": 1646116894141,
+       "text": "【高麗藏】No.106《大般泥洹經》東晉平陽沙門法顯譯 部別：大乘經 涅槃部 / 冊數：9 頁數：361 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：率"
+      }},
+      {"data": {
+       "id": "z5cYwo95zB",
+       "created": 1646116894141,
+       "text": "【普寧藏】No.105《大般泥洹經》 卷數：6 千字文：賓(126)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zC",
+       "created": 1646116894141,
+       "text": "【至元錄】No.186《大般泥洹經》東晉平陽沙門法顯共覺賢譯 梵名：阿唎(二合)亞　麻訶巴哩　尼哩(二合)瓦拏拏麻 / 卷數：6 / 譯次：(第四譯) 千字文：被(138)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zD",
+       "created": 1646116894141,
+       "text": "【洪武南藏】No.100《大般泥洹經》東晉 沙門法顯共天竺沙門覺賢 譯 冊數：43 / 頁數：194 / 卷數：6 千字文：賓 3 (126)-賓 8 (126)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zE",
+       "created": 1646116894141,
+       "text": "【永樂南藏】No.107《大般泥洹經》 部別：大乘經-涅槃部 千字文：白(133)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zF",
+       "created": 1646116894141,
+       "text": "【永樂北藏】No.143《大般泥洹經》東晉法顯-共覺賢譯 部別：大乘經涅槃部 / 冊數：35 / 頁數：259 / 卷數：6 千字文：食"
+      }},
+      {"data": {
+       "id": "z5cYwo95zG",
+       "created": 1646116894141,
+       "text": "【嘉興藏】No.116《大般泥洹經》東晉法顯-共覺賢譯 部別：大乘經-涅槃部 / 法寶總目錄經號：0116 千字文 / 函號：［正藏］ 食(135)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zH",
+       "created": 1646116894141,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zI",
+       "created": 1646116894141,
+       "text": "【乾隆藏】No.116《大般泥洹經》東晉 法顯,覺賢譯 部別：大乘涅槃部 / 冊數：30 / 頁數：535 / 卷數：6 千字文：食"
+      }},
+      {"data": {
+       "id": "z5cYwo95zJ",
+       "created": 1646116894141,
+       "text": "【縮刻藏】No.437《佛說大般泥洹經》東晉法顯譯 部別：大乘經-涅槃部 / 卷數：6 千字文：盈 9 (11)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zK",
+       "created": 1646116894141,
+       "text": "【卍正藏】No.119《佛說大般泥洹經》東晉 法顯譯 部別：大乘經 涅槃部 / 冊數：14 / 頁數：740 / 卷數：6 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwo95zL",
+       "created": 1646116894141,
+       "text": "【大正藏】No.376《佛說大般泥洹經》東晉 法顯譯 部別：涅槃部全 / 冊數：12 / 頁數：853 / 卷數：6 相關經典：縮-盈9,卍-8.10 參考資料：Nos.374(1-6),375(1-18)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zM",
+       "created": 1646116894141,
+       "text": "【佛教大藏經】No.445《佛說大般泥洹經》東晉 法顯譯 部別：大乘經 涅槃部全 / 冊數：22 / 頁數：793 / 卷數：6"
+      }},
+      {"data": {
+       "id": "z5cYwo95zN",
+       "created": 1646116894141,
+       "text": "【中華藏】No.114《大般泥洹經》東晉三藏法師法顯譯 冊數：15 / 頁數：1 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwo95zO",
+       "created": 1646116894141,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwo95zP",
+       "created": 1646116894141,
+       "text": "【南條文雄編號】 Nj. 0120"
+      }},
+      {"data": {
+       "id": "z5cYwo95zQ",
+       "created": 1646116894141,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：376"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwhoby",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

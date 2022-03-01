@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說菩薩修行經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwlY5Jo",
+    "created": 1646116893980,
+    "text": "現藏錄（西晉 白法祖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwlY5Ir",
+      "created": 1646116893980,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwlY5Is",
+        "created": 1646116893980,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlY5It",
+        "created": 1646116893980,
+        "text": "佛說菩薩修行經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlY5Iu",
+        "created": 1646116893980,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlY5Iv",
+        "created": 1646116893980,
+        "text": "佛说菩萨修行经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlY5Iw",
+        "created": 1646116893980,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlY5Ix",
+        "created": 1646116893980,
+        "text": "fo shuo pu sa xiu xing jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlY5J5",
+        "created": 1646116893980,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlY5J6",
+        "created": 1646116893980,
+        "text": "P'u sa hsiu hsing ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlY5J7",
+        "created": 1646116893980,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlY5J8",
+        "created": 1646116893980,
+        "text": "Vīradatta(gṛhapati)paripṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlY5J9",
+        "created": 1646116893980,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlY5JA",
+        "created": 1646116893980,
+        "text": "Khyim-bdag-dpas-byin-gyis shus pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlY5JB",
+        "created": 1646116893980,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlY5JC",
+        "created": 1646116893980,
+        "text": "보살수행경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlY5Iy",
+      "created": 1646116893980,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlY5Iz",
+      "created": 1646116893980,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlY5J0",
+      "created": 1646116893980,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlY5J1",
+       "created": 1646116893980,
+       "text": "西晉 白法祖譯"
+      }},
+      {"data": {
+       "id": "z5cYwlY5J2",
+       "created": 1646116893980,
+       "text": "白法祖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlY5J3",
+      "created": 1646116893980,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlY5J4",
+      "created": 1646116893980,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlY5JD",
+      "created": 1646116893980,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlY5JE",
+      "created": 1646116893980,
+      "text": "Translation by Po Fa-tzu: during the years of Hui Ti Western Chin dynasty (99s) (A.D. 290-306).T. 2153-399c:25."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlY5JF",
+      "created": 1646116893980,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlY5JG",
+       "created": 1646116893980,
+       "text": "【北京版】Dkon-brtsegs (zi)200a-210b"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JH",
+       "created": 1646116893980,
+       "text": "【奈塘版】Dkon-brtsegs (ca)335b-350b"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JI",
+       "created": 1646116893980,
+       "text": "【德格版】Dkon-brtsegs (ca)194a-204b"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JJ",
+       "created": 1646116893980,
+       "text": "【拉薩版】Dkon-brtsegs (ca)339a-355a"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JK",
+       "created": 1646116893980,
+       "text": "【卓尼版】Dkon-brtsegs (ca)223a-234b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlY5JL",
+      "created": 1646116893980,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlY5JM",
+      "created": 1646116893980,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlY5JN",
+      "created": 1646116893980,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlY5JO",
+       "created": 1646116893980,
+       "text": "【房山石經】No.167《佛說菩薩修行經》(西晉)沙門白法祖譯 冊數：3 / 頁數：458 / 卷數：1 / 刻經年代：大中九年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.251《菩薩修行經》(西晉)沙門白法祖譯 冊數：3 / 頁數：561 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.510《菩薩修行經》(西晉)河內沙門白法祖譯 冊數：11 / 頁數：112 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JP",
+       "created": 1646116893980,
+       "text": "【開寶藏】No.365《菩薩修行經》西晉 河內沙門白法祖 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JQ",
+       "created": 1646116893980,
+       "text": "【崇寧藏】No.363《菩薩修行經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JR",
+       "created": 1646116893980,
+       "text": "【毘盧藏】No.361《菩薩修行經》 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JS",
+       "created": 1646116893980,
+       "text": "【圓覺藏】No.379《菩薩修行經》 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JT",
+       "created": 1646116893980,
+       "text": "【趙城金藏】No.370《菩薩修行經》 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JU",
+       "created": 1646116893980,
+       "text": "【資福藏】No.383《菩薩修行經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JV",
+       "created": 1646116893980,
+       "text": "【磧砂藏】No.386《菩薩修行經》晉 白法祖譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：793 / 卷數：1 千字文：必 11 (171)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JW",
+       "created": 1646116893980,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JX",
+       "created": 1646116893980,
+       "text": "【高麗藏】No.369《菩薩修行經》西晉河內沙門白法祖譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：162 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JY",
+       "created": 1646116893980,
+       "text": "【普寧藏】No.380《菩薩修行經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5JZ",
+       "created": 1646116893980,
+       "text": "【至元錄】No.374《菩薩修行經》西晉河內沙門白法祖譯 卷數：1 / 譯次：(第三譯闕一二) 千字文：能(174)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Ja",
+       "created": 1646116893980,
+       "text": "【洪武南藏】No.336《菩薩修行經》西晉 河內沙門白法祖 譯 冊數：58 / 頁數：264 / 卷數：1 千字文：必 11 (171)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jb",
+       "created": 1646116893980,
+       "text": "【永樂南藏】No.376《菩薩修行經》 部別：大乘經-五大部外重譯經 千字文：忘(176)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jc",
+       "created": 1646116893980,
+       "text": "【永樂北藏】No.413《佛說菩薩修行經》西晉白法祖譯 部別：大乘經單經譯 / 冊數：47 / 頁數：579 / 卷數：1 千字文：短"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jd",
+       "created": 1646116893980,
+       "text": "【嘉興藏】No.384《菩薩修行經》西晉白法祖譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0384 千字文 / 函號：［正藏］ 短(180)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Je",
+       "created": 1646116893980,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jf",
+       "created": 1646116893980,
+       "text": "【乾隆藏】No.385《佛說菩薩修行經》西晉 白法祖譯 部別：大乘單譯經 / 冊數：40 / 頁數：595 / 卷數：1 千字文：短"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jg",
+       "created": 1646116893980,
+       "text": "【縮刻藏】No.52《佛說菩薩修行經》西晉白法祖譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jh",
+       "created": 1646116893980,
+       "text": "【卍正藏】No.390《佛說菩薩修行經》西晉 白法祖譯 部別：大乘經 單譯經 / 冊數：19 / 頁數：616 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Ji",
+       "created": 1646116893980,
+       "text": "【大正藏】No.330《佛說菩薩修行經》西晉 白法祖譯 部別：寶積部下 / 冊數：12 / 頁數：63 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：Nos.310(28),331"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jj",
+       "created": 1646116893980,
+       "text": "【佛教大藏經】No.52《佛說菩薩修行經》西晉 白法祖譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：696 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jk",
+       "created": 1646116893980,
+       "text": "【中華藏】No.386《佛說菩薩修行經》西晉白法祖譯 冊數：20 / 頁數：552 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jl",
+       "created": 1646116893980,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jm",
+       "created": 1646116893980,
+       "text": "【南條文雄編號】 Nj. 0389"
+      }},
+      {"data": {
+       "id": "z5cYwlY5Jn",
+       "created": 1646116893980,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：330"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwd7an",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

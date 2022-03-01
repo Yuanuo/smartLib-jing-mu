@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "大乘百福相經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx3sAHz",
+    "created": 1646116895116,
+    "text": "現藏錄（唐 地婆訶羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx3rAH2",
+      "created": 1646116895115,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx3rAH3",
+        "created": 1646116895115,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3rAH4",
+        "created": 1646116895115,
+        "text": "大乘百福相經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3sAH5",
+        "created": 1646116895116,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3sAH6",
+        "created": 1646116895116,
+        "text": "大乘百福相经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3sAH7",
+        "created": 1646116895116,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3sAH8",
+        "created": 1646116895116,
+        "text": "da cheng bai fu xiang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3sAHG",
+        "created": 1646116895116,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3sAHH",
+        "created": 1646116895116,
+        "text": "Ta ch'eng pai fu hsiang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3sAHI",
+        "created": 1646116895116,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3sAHJ",
+        "created": 1646116895116,
+        "text": "Mañjuśrīparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3sAHK",
+        "created": 1646116895116,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3sAHL",
+        "created": 1646116895116,
+        "text": "Ḥjam-dpal-gyis dris-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3sAHM",
+        "created": 1646116895116,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3sAHN",
+        "created": 1646116895116,
+        "text": "대승백복상경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3sAH9",
+      "created": 1646116895116,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3sAHA",
+      "created": 1646116895116,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3sAHB",
+      "created": 1646116895116,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3sAHC",
+       "created": 1646116895116,
+       "text": "唐 地婆訶羅譯"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHD",
+       "created": 1646116895116,
+       "text": "地婆訶羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3sAHE",
+      "created": 1646116895116,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3sAHF",
+      "created": 1646116895116,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3sAHO",
+      "created": 1646116895116,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3sAHP",
+      "created": 1646116895116,
+      "text": "Translation by Divākara: 2nd year of Yung Shun (永淳), T'ang dynasty (唐) (A.D. 683) in Hsi-t'ai-yüan Monastery (西太原寺), Hsi-ching (西京).T. 2153-397:12."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3sAHQ",
+      "created": 1646116895116,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3sAHR",
+       "created": 1646116895116,
+       "text": "【北京版】Mdo-sna-tshogs (bu)1-5b"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHS",
+       "created": 1646116895116,
+       "text": "【奈塘版】Mdo (pha)1-8a"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHT",
+       "created": 1646116895116,
+       "text": "【德格版】Mdo-sde (ma)1b-5a"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHU",
+       "created": 1646116895116,
+       "text": "【拉薩版】Mdo (pha)1b-8a"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHV",
+       "created": 1646116895116,
+       "text": "【卓尼版】Mdo-maṅ (ma)1b-6b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3sAHW",
+      "created": 1646116895116,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3sAHX",
+      "created": 1646116895116,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3sAHY",
+      "created": 1646116895116,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3sAHZ",
+       "created": 1646116895116,
+       "text": "【房山石經】No.232《大乘百福相經》中天竺三藏法師地婆訶羅奉敕譯 冊數：3 / 頁數：520 / 卷數：1 / 刻經年代：咸通四年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.262《大乘百福相經》中天竺三藏地婆訶羅譯 冊數：3 / 頁數：572 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYx3sAHa",
+       "created": 1646116895116,
+       "text": "【開寶藏】No.244《百福相經》唐 中天竺三藏地婆訶羅 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHb",
+       "created": 1646116895116,
+       "text": "【崇寧藏】No.248《大乘百福相經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHc",
+       "created": 1646116895116,
+       "text": "【毘盧藏】No.241《大乘百福相經》唐地婆訶羅譯 參考年代：(靖康元．七) 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHd",
+       "created": 1646116895116,
+       "text": "【圓覺藏】No.249《大乘百福相經》 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHe",
+       "created": 1646116895116,
+       "text": "【趙城金藏】No.244《大乘百福相經》 卷數：1 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHf",
+       "created": 1646116895116,
+       "text": "【資福藏】No.253《大乘百福相經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHg",
+       "created": 1646116895116,
+       "text": "【磧砂藏】No.254《大乘百福相經》唐 地婆訶羅譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：165 / 卷數：1 千字文：傷 3 (160)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHh",
+       "created": 1646116895116,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHi",
+       "created": 1646116895116,
+       "text": "【高麗藏】No.244《大乘百福相經》大唐天竺三藏地婆訶羅譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：517 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHj",
+       "created": 1646116895116,
+       "text": "【普寧藏】No.248《大乘百福相經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHk",
+       "created": 1646116895116,
+       "text": "【至元錄】No.321《大乘百福相經》唐中天竺三藏地婆訶羅譯 梵名：阿唎(二合)亞曼殊室利八哩(二合)巴哩赤(三合)拏麻 / 卷數：1 / 出處：(出大周) / 譯次：(第一譯) 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHl",
+       "created": 1646116895116,
+       "text": "【洪武南藏】No.221《大乘百福相經》唐 中天竺三藏法師地婆訶羅 奉勑譯 冊數：54 / 頁數：377 / 卷數：1 千字文：傷 3 (160)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHm",
+       "created": 1646116895116,
+       "text": "【永樂南藏】No.246《大乘百福相經》 部別：大乘經-五大部外重譯經 千字文：男(165)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHn",
+       "created": 1646116895116,
+       "text": "【永樂北藏】No.288《佛說大乘百福相經》唐地婆訶羅譯 部別：大乘經五大部外重譯經 / 冊數：44 / 頁數：291 / 卷數：1 千字文：良"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHo",
+       "created": 1646116895116,
+       "text": "【嘉興藏】No.259《大乘百福相經》唐地婆訶羅譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0259 千字文 / 函號：［正藏］ 良(168)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHp",
+       "created": 1646116895116,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHq",
+       "created": 1646116895116,
+       "text": "【乾隆藏】No.260《佛說大乘百福相經》唐 地婆訶羅譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：811 / 卷數：1 千字文：良"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHr",
+       "created": 1646116895116,
+       "text": "【縮刻藏】No.339《大乘百福相經》唐地婆訶羅譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 7 (6)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHs",
+       "created": 1646116895116,
+       "text": "【卍正藏】No.264《大乘百福相經》大唐 地婆訶羅譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：303 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHt",
+       "created": 1646116895116,
+       "text": "【大正藏】No.661《大乘百福相經》唐 地婆訶羅譯 部別：經集部三 / 冊數：16 / 頁數：328 / 卷數：1 相關經典：縮-宇7,卍-10.7,國-經15 參考資料：No.662"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHu",
+       "created": 1646116895116,
+       "text": "【佛教大藏經】No.342《大乘百福相經》唐 地婆訶羅譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：289 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHv",
+       "created": 1646116895116,
+       "text": "【中華藏】No.264《大乘百福相經》大唐天竺三藏地婆訶羅譯 冊數：19 / 頁數：213 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHw",
+       "created": 1646116895116,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHx",
+       "created": 1646116895116,
+       "text": "【南條文雄編號】 Nj. 0264"
+      }},
+      {"data": {
+       "id": "z5cYx3sAHy",
+       "created": 1646116895116,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：661"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx8rkd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "見聞錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyzSjo0",
+    "created": 1646116902530,
+    "text": "現藏錄（明 智旭隨筆）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyzSjnL",
+      "created": 1646116902530,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyzSjnM",
+        "created": 1646116902530,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyzSjnN",
+        "created": 1646116902530,
+        "text": "見聞錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyzSjnO",
+        "created": 1646116902530,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyzSjnP",
+        "created": 1646116902530,
+        "text": "见闻录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyzSjnQ",
+        "created": 1646116902530,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyzSjnR",
+        "created": 1646116902530,
+        "text": "jian wen lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyzSjnS",
+      "created": 1646116902530,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyzSjnT",
+      "created": 1646116902530,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyzSjnU",
+      "created": 1646116902530,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyzSjnV",
+       "created": 1646116902530,
+       "text": "明 智旭隨筆"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnW",
+       "created": 1646116902530,
+       "text": "智旭",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyzSjnX",
+      "created": 1646116902530,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyzSjnY",
+      "created": 1646116902530,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyzSjnZ",
+      "created": 1646116902530,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyzSjna",
+       "created": 1646116902530,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnb",
+       "created": 1646116902530,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnc",
+       "created": 1646116902530,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnd",
+       "created": 1646116902530,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjne",
+       "created": 1646116902530,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnf",
+       "created": 1646116902530,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjng",
+       "created": 1646116902530,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnh",
+       "created": 1646116902530,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjni",
+       "created": 1646116902530,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnj",
+       "created": 1646116902530,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnk",
+       "created": 1646116902530,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnl",
+       "created": 1646116902530,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnm",
+       "created": 1646116902530,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnn",
+       "created": 1646116902530,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjno",
+       "created": 1646116902530,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnp",
+       "created": 1646116902530,
+       "text": "【嘉興藏】No.1774《見聞錄》明釋智旭撰 部別：續藏 / 法寶總目錄經號：1773 千字文 / 函號：［續藏］ 55 函"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnq",
+       "created": 1646116902530,
+       "text": "【嘉興藏新文豐版】［續藏］No.119《見聞錄》明 智旭隨筆 冊數：23 / 頁數：41 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnr",
+       "created": 1646116902530,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjns",
+       "created": 1646116902530,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnt",
+       "created": 1646116902530,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnu",
+       "created": 1646116902530,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnv",
+       "created": 1646116902530,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnw",
+       "created": 1646116902530,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnx",
+       "created": 1646116902530,
+       "text": "【新纂卍續藏】No.1641《見聞錄》明 智旭隨筆 部別：中國撰述 史傳部十四 雜傳二 / 冊數：88 / 頁數：22 / 卷數：1 《卍大日本續藏經》套數：第二編乙．第 22 套 《卍續藏經》(新文豐版)冊數：第 149 冊"
+      }},
+      {"data": {
+       "id": "z5cYyzSjny",
+       "created": 1646116902530,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyzSjnz",
+       "created": 1646116902530,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：264"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2yq2vx",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

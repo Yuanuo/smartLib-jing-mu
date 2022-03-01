@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "大意經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwZF2ZO",
+    "created": 1646116893217,
+    "text": "現藏錄（劉宋 求那跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwZE2YW",
+      "created": 1646116893216,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwZE2YX",
+        "created": 1646116893216,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwZE2YY",
+        "created": 1646116893216,
+        "text": "大意經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwZE2YZ",
+        "created": 1646116893216,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwZE2Ya",
+        "created": 1646116893216,
+        "text": "大意经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwZE2Yb",
+        "created": 1646116893216,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwZE2Yc",
+        "created": 1646116893216,
+        "text": "da yi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwZE2Yk",
+        "created": 1646116893216,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwZE2Yl",
+        "created": 1646116893216,
+        "text": "Ta i ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwZE2Ym",
+        "created": 1646116893216,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwZE2Yn",
+        "created": 1646116893216,
+        "text": "Mahāmati(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwZE2Yo",
+        "created": 1646116893216,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwZE2Yp",
+        "created": 1646116893216,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwZF2Yq",
+        "created": 1646116893217,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwZF2Yr",
+        "created": 1646116893217,
+        "text": "대의경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwZE2Yd",
+      "created": 1646116893216,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwZE2Ye",
+      "created": 1646116893216,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwZE2Yf",
+      "created": 1646116893216,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwZE2Yg",
+       "created": 1646116893216,
+       "text": "劉宋 求那跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwZE2Yh",
+       "created": 1646116893216,
+       "text": "求那跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwZE2Yi",
+      "created": 1646116893216,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwZE2Yj",
+      "created": 1646116893216,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwZF2Ys",
+      "created": 1646116893217,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwZF2Yt",
+      "created": 1646116893217,
+      "text": "Translation by Guṇabhadra: between the 12th and 20th years of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 435-443) in Wa-kuan Monastery (瓦官寺), Yang-tu (楊都).T. 2151-362b:26."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwZF2Yu",
+     "created": 1646116893217,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwZF2Yv",
+      "created": 1646116893217,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwZF2Yw",
+      "created": 1646116893217,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwZF2Yx",
+      "created": 1646116893217,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwZF2Yy",
+       "created": 1646116893217,
+       "text": "【房山石經】No.625《大意經》(劉宋)天竺三藏求那跋陀羅譯 冊數：14 / 頁數：11 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Yz",
+       "created": 1646116893217,
+       "text": "【開寶藏】No.476《大意經》劉宋 天竺三藏求那跋陀羅 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z0",
+       "created": 1646116893217,
+       "text": "【崇寧藏】No.490《佛說大意經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z1",
+       "created": 1646116893217,
+       "text": "【毘盧藏】No.497《大意經》宋求那跋陀羅譯 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z2",
+       "created": 1646116893217,
+       "text": "【圓覺藏】No.505《大意經》 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z3",
+       "created": 1646116893217,
+       "text": "【趙城金藏】No.500《大意經》 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z4",
+       "created": 1646116893217,
+       "text": "【資福藏】No.511《大意經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z5",
+       "created": 1646116893217,
+       "text": "【磧砂藏】No.506《佛說大意經》宋 求那跋陀羅譯 部別：五大部外單譯經 / 冊數：13 / 頁數：776 / 卷數：1 千字文：景 7 (201)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z6",
+       "created": 1646116893217,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z7",
+       "created": 1646116893217,
+       "text": "【高麗藏】No.499《大意經》宋天竺三藏求那跋陀羅譯 部別：大乘經 單譯 / 冊數：13 頁數：1325 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z8",
+       "created": 1646116893217,
+       "text": "【普寧藏】No.500《佛說大意經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2Z9",
+       "created": 1646116893217,
+       "text": "【至元錄】No.434《大意經》宋天竺三藏求那跋陀羅譯 卷數：1 千字文：悲(194)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZA",
+       "created": 1646116893217,
+       "text": "【洪武南藏】No.444《佛說大意經》劉宋 天竺三藏求那跋陀羅 譯 冊數：68 / 頁數：289 / 卷數：1 千字文：景 7 (201)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZB",
+       "created": 1646116893217,
+       "text": "【永樂南藏】No.499《佛說大意經》 部別：大乘經-單譯經 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZC",
+       "created": 1646116893217,
+       "text": "【永樂北藏】No.553《佛說大意經》劉宋求那跋陀羅譯 部別：大乘經單經譯 / 冊數：54 / 頁數：60 / 卷數：1 千字文：維"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZD",
+       "created": 1646116893217,
+       "text": "【嘉興藏】No.522《佛說大意經》劉宋求那跋陀羅譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0522 千字文 / 函號：［正藏］ 維(203)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZE",
+       "created": 1646116893217,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZF",
+       "created": 1646116893217,
+       "text": "【乾隆藏】No.523《佛說大意經》劉宋 (天竺)求那跋陀羅譯 部別：大乘單譯經 / 冊數：45 / 頁數：682 / 卷數：1 千字文：維"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZG",
+       "created": 1646116893217,
+       "text": "【縮刻藏】No.279《佛說大意經》宋求那跋陀羅譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 6 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZH",
+       "created": 1646116893217,
+       "text": "【卍正藏】No.529《佛說大意經》宋 求那跋陀羅譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：133 / 卷數：1 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZI",
+       "created": 1646116893217,
+       "text": "【大正藏】No.177《大意經》劉宋 求那跋陀羅譯 部別：本緣部上 / 冊數：3 / 頁數：446 / 卷數：1 相關經典：縮-宙6,卍-12.6 參考資料：No.152(9)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZJ",
+       "created": 1646116893217,
+       "text": "【佛教大藏經】No.282《佛說大意經》劉宋 求那跋陀羅譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：11 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZK",
+       "created": 1646116893217,
+       "text": "【中華藏】No.546《佛說大意經》宋天竺三藏求那跋陀羅譯 冊數：24 / 頁數：279 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZL",
+       "created": 1646116893217,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZM",
+       "created": 1646116893217,
+       "text": "【南條文雄編號】 Nj. 0527"
+      }},
+      {"data": {
+       "id": "z5cYwZF2ZN",
+       "created": 1646116893217,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：177"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvrz52",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

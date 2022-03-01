@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "文殊所說最勝名義經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxTbHpI",
+    "created": 1646116896711,
+    "text": "現藏錄（宋 金總持等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxTaHoc",
+      "created": 1646116896710,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxTaHod",
+        "created": 1646116896710,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxTaHoe",
+        "created": 1646116896710,
+        "text": "文殊所說最勝名義經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxTaHof",
+        "created": 1646116896710,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxTbHog",
+        "created": 1646116896711,
+        "text": "文殊所说最胜名义经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxTbHoh",
+        "created": 1646116896711,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxTbHoi",
+        "created": 1646116896711,
+        "text": "wen shu suo shuo zui sheng ming yi jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxTbHoj",
+      "created": 1646116896711,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxTbHok",
+      "created": 1646116896711,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxTbHol",
+      "created": 1646116896711,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxTbHom",
+       "created": 1646116896711,
+       "text": "宋 金總持等譯"
+      }},
+      {"data": {
+       "id": "z5cYxTbHon",
+       "created": 1646116896711,
+       "text": "金總持",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxTbHoo",
+       "created": 1646116896711,
+       "text": "金總持",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxTbHop",
+      "created": 1646116896711,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxTbHoq",
+      "created": 1646116896711,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxTbHor",
+      "created": 1646116896711,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxTbHos",
+       "created": 1646116896711,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHot",
+       "created": 1646116896711,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHou",
+       "created": 1646116896711,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHov",
+       "created": 1646116896711,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHow",
+       "created": 1646116896711,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHox",
+       "created": 1646116896711,
+       "text": "【趙城金藏】No.1515《文殊所說最勝名義經》 卷數：2 千字文：門"
+      }},
+      {"data": {
+       "id": "z5cYxTbHoy",
+       "created": 1646116896711,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHoz",
+       "created": 1646116896711,
+       "text": "【磧砂藏】No.1507《文殊所說最勝名義經》宋 金總持等譯 部別： / 冊數：36 / 頁數：475 / 卷數：2 千字文：更 10 (571)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp0",
+       "created": 1646116896711,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp1",
+       "created": 1646116896711,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp2",
+       "created": 1646116896711,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp3",
+       "created": 1646116896711,
+       "text": "【至元錄】No.688《文殊所說最勝名義經》宋西夏沙門金總持譯 卷數：2 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp4",
+       "created": 1646116896711,
+       "text": "【洪武南藏】No.1350《文殊所說最勝名義經》西天譯經三藏明因妙善普濟法師賜紫沙門臣金[總-囪+匆]持 等奉詔譯 冊數：201 / 頁數：181 / 卷數：2 千字文：更 10 (571)-更 11 (571)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp5",
+       "created": 1646116896711,
+       "text": "【永樂南藏】No.1221《文殊所說最勝名義經》 部別：西土聖賢撰集 千字文：優(306)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp6",
+       "created": 1646116896711,
+       "text": "【永樂北藏】No.1428《文殊所說最勝名義經》宋金總持等譯 部別：西土聖賢撰集 / 冊數：131 / 頁數：211 / 卷數：0 千字文：群"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp7",
+       "created": 1646116896711,
+       "text": "【嘉興藏】No.1362《文殊所說最勝名義經》宋金總持等譯 部別：西土聖賢撰集 / 法寶總目錄經號：1361 千字文 / 函號：［正藏］ 群(479)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp8",
+       "created": 1646116896711,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHp9",
+       "created": 1646116896711,
+       "text": "【乾隆藏】No.1363《文殊所說最勝名義經》宋 金總持等譯 部別：西土聖賢撰集 / 冊數：107 / 頁數：655 / 卷數：2 千字文：群"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpA",
+       "created": 1646116896711,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpB",
+       "created": 1646116896711,
+       "text": "【卍正藏】No.1377《文殊所說最勝名義經》宋 金總持等譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：736 / 卷數：2 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpC",
+       "created": 1646116896711,
+       "text": "【大正藏】No.1188《文殊所說最勝名義經》宋 金總持等譯 部別：密教部三 / 冊數：20 / 頁數：814 / 卷數：2 相關經典：縮-成13,卍-26.9 參考資料：Nos.1189,1190"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpD",
+       "created": 1646116896711,
+       "text": "【佛教大藏經】No.1733《文殊所說最勝名義經》宋 金總持等譯 部別：密教部七 / 冊數：58 / 頁數：259 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpE",
+       "created": 1646116896711,
+       "text": "【中華藏】No.1696《文殊所說最勝名義經》西天譯經三藏明因妙善普濟法師賜紫沙門金總持等奉詔譯 冊數：76 / 頁數：88 / 卷數：2 / 底本：金藏廣勝寺本 影印宋磧砂藏本"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpF",
+       "created": 1646116896711,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpG",
+       "created": 1646116896711,
+       "text": "【南條文雄編號】 Nj. 1370"
+      }},
+      {"data": {
+       "id": "z5cYxTbHpH",
+       "created": 1646116896711,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1188"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyh1107",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

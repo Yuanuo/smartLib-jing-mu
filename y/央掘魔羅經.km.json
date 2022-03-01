@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "央掘魔羅經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwV41h8",
+    "created": 1646116892958,
+    "text": "現藏錄（劉宋 求那跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwV31gB",
+      "created": 1646116892957,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwV31gC",
+        "created": 1646116892957,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwV31gD",
+        "created": 1646116892957,
+        "text": "央掘魔羅經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwV31gE",
+        "created": 1646116892957,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwV31gF",
+        "created": 1646116892957,
+        "text": "央掘魔罗经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwV31gG",
+        "created": 1646116892957,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwV31gH",
+        "created": 1646116892957,
+        "text": "yang jue mo luo jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwV31gP",
+        "created": 1646116892957,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwV31gQ",
+        "created": 1646116892957,
+        "text": "Yang chüeh mo lo ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwV31gR",
+        "created": 1646116892957,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwV31gS",
+        "created": 1646116892957,
+        "text": "Aṅgulimālīyasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwV31gT",
+        "created": 1646116892957,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwV31gU",
+        "created": 1646116892957,
+        "text": "Sor-moḥi phreṅ-ba-la phan pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwV31gV",
+        "created": 1646116892957,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwV31gW",
+        "created": 1646116892957,
+        "text": "앙굴마라경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwV31gI",
+      "created": 1646116892957,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwV31gJ",
+      "created": 1646116892957,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwV31gK",
+      "created": 1646116892957,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwV31gL",
+       "created": 1646116892957,
+       "text": "劉宋 求那跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwV31gM",
+       "created": 1646116892957,
+       "text": "求那跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwV31gN",
+      "created": 1646116892957,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwV31gO",
+      "created": 1646116892957,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwV31gX",
+      "created": 1646116892957,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwV31gY",
+      "created": 1646116892957,
+      "text": "Translation by Guṇabhadra: between the 12th and 20th years of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 435-443).T. 2151-362b:4."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwV31gZ",
+      "created": 1646116892957,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwV31ga",
+       "created": 1646116892957,
+       "text": "【北京版】Mdo-sna-tshogs (tsu)133b-215a"
+      }},
+      {"data": {
+       "id": "z5cYwV31gb",
+       "created": 1646116892957,
+       "text": "【奈塘版】Mdo (ma)207b-332a"
+      }},
+      {"data": {
+       "id": "z5cYwV31gc",
+       "created": 1646116892957,
+       "text": "【德格版】Mdo-sde (tsha)126a-206b"
+      }},
+      {"data": {
+       "id": "z5cYwV31gd",
+       "created": 1646116892957,
+       "text": "【拉薩版】Mdo (ma)196a-315b"
+      }},
+      {"data": {
+       "id": "z5cYwV41ge",
+       "created": 1646116892958,
+       "text": "【卓尼版】Mdo-maṅ (tsha)146b-243a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwV41gf",
+      "created": 1646116892958,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwV41gg",
+      "created": 1646116892958,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwV41gh",
+      "created": 1646116892958,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwV41gi",
+       "created": 1646116892958,
+       "text": "【房山石經】No.555《央掘魔羅經》(劉宋)天竺三藏求那跋陀羅譯 冊數：12 / 頁數：462 / 卷數：4 / 刻經年代：天慶二年-四年刻石 / 瀏覽：目錄圖檔 千字文：墨"
+      }},
+      {"data": {
+       "id": "z5cYwV41gj",
+       "created": 1646116892958,
+       "text": "【開寶藏】No.408《央掘魔羅經》劉宋 天竺三藏求那跋陀羅 譯 部別：大乘經 大乘經單譯 / 卷數：4 千字文：難"
+      }},
+      {"data": {
+       "id": "z5cYwV41gk",
+       "created": 1646116892958,
+       "text": "【崇寧藏】No.407《央掘魔羅經》 卷數：4 千字文：量(192)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gl",
+       "created": 1646116892958,
+       "text": "【毘盧藏】No.405《央掘魔羅經》宋求那跋陀羅譯 參考年代：(建炎元．八) 千字文：量(192)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gm",
+       "created": 1646116892958,
+       "text": "【圓覺藏】No.418《央掘魔羅經》 卷數：4 千字文：量(192)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gn",
+       "created": 1646116892958,
+       "text": "【趙城金藏】No.411《央掘魔羅經》 卷數：4 千字文：難"
+      }},
+      {"data": {
+       "id": "z5cYwV41go",
+       "created": 1646116892958,
+       "text": "【資福藏】No.422《央掘魔羅經》 卷數：4 (四卷) 千字文：量(192)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gp",
+       "created": 1646116892958,
+       "text": "【磧砂藏】No.423《央掘魔羅經》劉宋 求那跋陀羅譯 部別：五大部外單譯經 / 冊數：13 / 頁數：228 / 卷數：4 千字文：量 1 (192)-量 4 (192)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gq",
+       "created": 1646116892958,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gr",
+       "created": 1646116892958,
+       "text": "【高麗藏】No.410《央掘魔羅經》宋天竺三藏求那跋陀羅譯 部別：大乘經 單譯 / 冊數：13 頁數：462 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：難"
+      }},
+      {"data": {
+       "id": "z5cYwV41gs",
+       "created": 1646116892958,
+       "text": "【普寧藏】No.416《央掘魔羅經》 卷數：4 千字文：量(192)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gt",
+       "created": 1646116892958,
+       "text": "【至元錄】No.414《央崛魔羅》宋天竺三藏求那跋陀羅譯 梵名：阿唎(二合)亞　央姑囉　麻離顏拏麻 / 卷數：4 千字文：難(191)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gu",
+       "created": 1646116892958,
+       "text": "【洪武南藏】No.369《鴦崛摩羅經》劉宋 天竺三藏法師求那跋陀羅 譯 冊數：65 / 頁數：88 / 卷數：4 千字文：量 1 (192)-量 4 (192)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gv",
+       "created": 1646116892958,
+       "text": "【永樂南藏】No.413《央掘魔羅經》 部別：大乘經-單譯經 千字文：悲(194)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gw",
+       "created": 1646116892958,
+       "text": "【永樂北藏】No.460《央掘魔羅經》劉宋求那跋陀羅譯 部別：大乘經單經譯 / 冊數：51 / 頁數：519 / 卷數：4 千字文：悲"
+      }},
+      {"data": {
+       "id": "z5cYwV41gx",
+       "created": 1646116892958,
+       "text": "【嘉興藏】No.429《央掘魔羅經》劉宋求那跋陀羅譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0429 千字文 / 函號：［正藏］ 悲(194)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gy",
+       "created": 1646116892958,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwV41gz",
+       "created": 1646116892958,
+       "text": "【乾隆藏】No.430《央掘魔羅經》劉宋 求那跋陀羅譯 部別：大乘單譯經 / 冊數：43 / 頁數：627 / 卷數：4 千字文：悲"
+      }},
+      {"data": {
+       "id": "z5cYwV41h0",
+       "created": 1646116892958,
+       "text": "【縮刻藏】No.181《央掘魔羅經》宋求那跋陀羅譯 部別：大乘經-方等部 / 卷數：4 千字文：黃 10 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwV41h1",
+       "created": 1646116892958,
+       "text": "【卍正藏】No.435《央掘魔羅經》宋 求那跋陀羅譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：165 / 卷數：4 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYwV41h2",
+       "created": 1646116892958,
+       "text": "【大正藏】No.120《央掘魔羅經》劉宋 求那跋陀羅譯 部別：阿含部下 / 冊數：2 / 頁數：512 / 卷數：4 相關經典：縮-黃10,卍-12.1,南-11上.86 參考資料：Nos.99(1077),100(16),118,119,125(38.6)"
+      }},
+      {"data": {
+       "id": "z5cYwV41h3",
+       "created": 1646116892958,
+       "text": "【佛教大藏經】No.183《央掘魔羅經》劉宋 求那跋陀羅譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：847 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYwV41h4",
+       "created": 1646116892958,
+       "text": "【中華藏】No.440《央掘魔羅經》宋天竺三藏求那跋陀羅譯 冊數：23 / 頁數：38 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwV41h5",
+       "created": 1646116892958,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwV41h6",
+       "created": 1646116892958,
+       "text": "【南條文雄編號】 Nj. 0434"
+      }},
+      {"data": {
+       "id": "z5cYwV41h7",
+       "created": 1646116892958,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：120"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvks3b",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "正像末法和讚"},
+  "children": [{
+   "data": {
+    "id": "z5cYyTqaMZ",
+    "created": 1646116900570,
+    "text": "現藏錄（日本 親鸞撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyTqaLu",
+      "created": 1646116900570,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyTqaLv",
+        "created": 1646116900570,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTqaLw",
+        "created": 1646116900570,
+        "text": "正像末法和讚",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTqaLx",
+        "created": 1646116900570,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTqaLy",
+        "created": 1646116900570,
+        "text": "正像末法和赞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTqaLz",
+        "created": 1646116900570,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTqaM0",
+        "created": 1646116900570,
+        "text": "zheng xiang mo fa he zan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTqaM1",
+      "created": 1646116900570,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTqaM2",
+      "created": 1646116900570,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTqaM3",
+      "created": 1646116900570,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTqaM4",
+       "created": 1646116900570,
+       "text": "日本 親鸞撰"
+      }},
+      {"data": {
+       "id": "z5cYyTqaM5",
+       "created": 1646116900570,
+       "text": "親鸞",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTqaM6",
+      "created": 1646116900570,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTqaM7",
+      "created": 1646116900570,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTqaM8",
+      "created": 1646116900570,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTqaM9",
+       "created": 1646116900570,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMA",
+       "created": 1646116900570,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMB",
+       "created": 1646116900570,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMC",
+       "created": 1646116900570,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMD",
+       "created": 1646116900570,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaME",
+       "created": 1646116900570,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMF",
+       "created": 1646116900570,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMG",
+       "created": 1646116900570,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMH",
+       "created": 1646116900570,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMI",
+       "created": 1646116900570,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMJ",
+       "created": 1646116900570,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMK",
+       "created": 1646116900570,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaML",
+       "created": 1646116900570,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMM",
+       "created": 1646116900570,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMN",
+       "created": 1646116900570,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMO",
+       "created": 1646116900570,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMP",
+       "created": 1646116900570,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMQ",
+       "created": 1646116900570,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMR",
+       "created": 1646116900570,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMS",
+       "created": 1646116900570,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMT",
+       "created": 1646116900570,
+       "text": "【大正藏】No.2652《正像末法和讚》日本 親鸞撰 部別：續諸宗部十四 / 冊數：83 / 頁數：664 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyTqaMU",
+       "created": 1646116900570,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMV",
+       "created": 1646116900570,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMW",
+       "created": 1646116900570,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMX",
+       "created": 1646116900570,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTqaMY",
+       "created": 1646116900570,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2652"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1ga275",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

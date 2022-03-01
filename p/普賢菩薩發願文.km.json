@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "普賢菩薩發願文"},
+  "children": [{
+   "data": {
+    "id": "z5cYzEpoXD",
+    "created": 1646116903483,
+    "text": "現藏錄（隋 智顗撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzEpoWY",
+      "created": 1646116903483,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzEpoWZ",
+        "created": 1646116903483,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzEpoWa",
+        "created": 1646116903483,
+        "text": "普賢菩薩發願文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzEpoWb",
+        "created": 1646116903483,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzEpoWc",
+        "created": 1646116903483,
+        "text": "普贤菩萨发愿文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzEpoWd",
+        "created": 1646116903483,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzEpoWe",
+        "created": 1646116903483,
+        "text": "pu xian pu sa fa yuan wen"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzEpoWf",
+      "created": 1646116903483,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzEpoWg",
+      "created": 1646116903483,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzEpoWh",
+      "created": 1646116903483,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzEpoWi",
+       "created": 1646116903483,
+       "text": "隋 智顗撰"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWj",
+       "created": 1646116903483,
+       "text": "智顗",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzEpoWk",
+      "created": 1646116903483,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzEpoWl",
+      "created": 1646116903483,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzEpoWm",
+      "created": 1646116903483,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzEpoWn",
+       "created": 1646116903483,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWo",
+       "created": 1646116903483,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWp",
+       "created": 1646116903483,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWq",
+       "created": 1646116903483,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWr",
+       "created": 1646116903483,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWs",
+       "created": 1646116903483,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWt",
+       "created": 1646116903483,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWu",
+       "created": 1646116903483,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWv",
+       "created": 1646116903483,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWw",
+       "created": 1646116903483,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWx",
+       "created": 1646116903483,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWy",
+       "created": 1646116903483,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoWz",
+       "created": 1646116903483,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX0",
+       "created": 1646116903483,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX1",
+       "created": 1646116903483,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX2",
+       "created": 1646116903483,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX3",
+       "created": 1646116903483,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX4",
+       "created": 1646116903483,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX5",
+       "created": 1646116903483,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX6",
+       "created": 1646116903483,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX7",
+       "created": 1646116903483,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX8",
+       "created": 1646116903483,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoX9",
+       "created": 1646116903483,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoXA",
+       "created": 1646116903483,
+       "text": "【新纂卍續藏】No.914《普賢菩薩發願文》隋 智顗撰 部別：中國撰述 諸宗著述部二 天台宗 / 冊數：55 / 頁數：689 / 卷數：1 《卍大日本續藏經》套數：第二編．第 4 套 《卍續藏經》(新文豐版)冊數：第 99 冊"
+      }},
+      {"data": {
+       "id": "z5cYzEpoXB",
+       "created": 1646116903483,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEpoXC",
+       "created": 1646116903483,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1229"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3p7389",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

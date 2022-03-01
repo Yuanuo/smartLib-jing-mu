@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "梵網經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxhrLrZ",
+    "created": 1646116897595,
+    "text": "現藏錄（後秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxhrLqc",
+      "created": 1646116897595,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxhrLqd",
+        "created": 1646116897595,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhrLqe",
+        "created": 1646116897595,
+        "text": "梵網經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhrLqf",
+        "created": 1646116897595,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhrLqg",
+        "created": 1646116897595,
+        "text": "梵网经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhrLqh",
+        "created": 1646116897595,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhrLqi",
+        "created": 1646116897595,
+        "text": "fan wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhrLqq",
+        "created": 1646116897595,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhrLqr",
+        "created": 1646116897595,
+        "text": "Fan wang ching lu she no fo shuo p'u sa hsin ti chieh pin ti shih"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhrLqs",
+        "created": 1646116897595,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhrLqt",
+        "created": 1646116897595,
+        "text": "Brahmajālasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhrLqu",
+        "created": 1646116897595,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhrLqv",
+        "created": 1646116897595,
+        "text": "Chos-kyi rgya-mo saṅs-rgyas rnam-par-snaṅ-mdsad-kyis byaṅ-chub-sems-dpaḥi sems-kyi gnas bśad-pa leḥu bcu-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhrLqw",
+        "created": 1646116897595,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhrLqx",
+        "created": 1646116897595,
+        "text": "범망경려사나불설보살심지계품제십",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxhrLqj",
+      "created": 1646116897595,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhrLqk",
+      "created": 1646116897595,
+      "text": "後秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxhrLql",
+      "created": 1646116897595,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxhrLqm",
+       "created": 1646116897595,
+       "text": "後秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYxhrLqn",
+       "created": 1646116897595,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxhrLqo",
+      "created": 1646116897595,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhrLqp",
+      "created": 1646116897595,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxhrLqy",
+      "created": 1646116897595,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhrLqz",
+      "created": 1646116897595,
+      "text": "Translation by Kumārajīva: 12th day, 6th month, 7th year of Hung-shih (弘始), Later Ch'in Dynasty (後秦) (July 24th, A.D. 405), T. 2157-809c:14. or 8th year of Hung-shih (弘始), Later Ch'in (後秦) (A.D. 406).T. 2149-252c:25."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxhrLr0",
+      "created": 1646116897595,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxhrLr1",
+       "created": 1646116897595,
+       "text": "【北京版】Mdo-sna-tshogs (shu)79a-98a"
+      }},
+      {"data": {
+       "id": "z5cYxhrLr2",
+       "created": 1646116897595,
+       "text": "【奈塘版】Mdo (wa)106a-131b"
+      }},
+      {"data": {
+       "id": "z5cYxhrLr3",
+       "created": 1646116897595,
+       "text": "【德格版】Mdo-sde (za)74a-91a"
+      }},
+      {"data": {
+       "id": "z5cYxhrLr4",
+       "created": 1646116897595,
+       "text": "【拉薩版】Mdo (wa)114b-145a"
+      }},
+      {"data": {
+       "id": "z5cYxhrLr5",
+       "created": 1646116897595,
+       "text": "【卓尼版】Mdo-maṅ (za)84b-104a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxhrLr6",
+      "created": 1646116897595,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhrLr7",
+      "created": 1646116897595,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxhrLr8",
+      "created": 1646116897595,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxhrLr9",
+       "created": 1646116897595,
+       "text": "【房山石經】No.71《梵網經盧舍那佛所說心地品第十》(姚秦)三藏鳩摩羅什譯 冊數：2 / 頁數：479 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.674《梵網經》(后秦)三藏法師鳩摩羅什譯 冊數：14 / 頁數：402 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：念 【房山石經】No.675《梵網經菩薩戒》(后秦)三藏法師鳩摩羅什譯 冊數：14 / 頁數：421 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：念 【房山石經】No.1087《梵網經菩薩戒》(姚秦)三藏法師鳩摩羅什譯 冊數：29 / 頁數：273 / 卷數：1 / 刻經年代：明 無刻石年代 / 瀏覽：目錄圖檔 千字文：寧"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrA",
+       "created": 1646116897595,
+       "text": "【開寶藏】No.524《梵網經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘律 菩薩調伏藏 / 卷數：2 千字文：賢"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrB",
+       "created": 1646116897595,
+       "text": "【崇寧藏】No.529《佛說梵網經》 卷數：2 千字文：克(205)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrC",
+       "created": 1646116897595,
+       "text": "【毘盧藏】No.527《梵網經》姚秦鳩摩羅什譯 千字文：剋(205)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrD",
+       "created": 1646116897595,
+       "text": "【圓覺藏】No.538《梵網經》 千字文：剋(205)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrE",
+       "created": 1646116897595,
+       "text": "【趙城金藏】No.528《梵網經》 卷數：2 千字文：賢"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrF",
+       "created": 1646116897595,
+       "text": "【資福藏】No.544《梵網經》 卷數：2 (上下) 千字文：克(205)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrG",
+       "created": 1646116897595,
+       "text": "【磧砂藏】No.545《佛說梵網經》姚秦 鳩摩羅什譯 部別： / 冊數：14 / 頁數：1 / 卷數：2 千字文：剋 1 (205)-剋 2 (205)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrH",
+       "created": 1646116897595,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrI",
+       "created": 1646116897595,
+       "text": "【高麗藏】No.527《梵網經廬舍那佛說菩薩心地戒品第十》後秦龜茲三藏鳩摩羅什譯 部別：大乘律 / 冊數：14 頁數：314 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：賢"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrJ",
+       "created": 1646116897595,
+       "text": "【普寧藏】No.538《佛說梵綱經》 卷數：2 千字文：克(205)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrK",
+       "created": 1646116897595,
+       "text": "【至元錄】No.1182《梵綱經》姚秦鳩摩羅什譯 卷數：2 / 譯次：(兩譯一闕) 千字文：奉(342)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrL",
+       "created": 1646116897595,
+       "text": "【洪武南藏】No.482《佛說梵網經》姚秦 三藏法師鳩摩羅什 譯 冊數：69 / 頁數：420 / 卷數：2 千字文：剋 1 (205)-剋 2 (205)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrM",
+       "created": 1646116897595,
+       "text": "【永樂南藏】No.1227《梵綱經》 部別：大乘律 千字文：攝(309)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrN",
+       "created": 1646116897595,
+       "text": "【永樂北藏】No.1119《佛說梵網經》姚秦鳩摩羅什譯 部別：大乘律 / 冊數：76 / 頁數：581 / 卷數：2 千字文：安"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrO",
+       "created": 1646116897595,
+       "text": "【嘉興藏】No.1081《梵網經》姚秦鳩摩羅什譯 部別：大乘律 / 法寶總目錄經號：1080 千字文 / 函號：［正藏］ 安(287)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrP",
+       "created": 1646116897595,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrQ",
+       "created": 1646116897595,
+       "text": "【乾隆藏】No.1082《佛說梵網經》姚秦 鳩摩羅什譯 部別：大乘律 / 冊數：64 / 頁數：393 / 卷數：2 千字文：安"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrR",
+       "created": 1646116897595,
+       "text": "【縮刻藏】No.772《梵網經盧舍那佛說菩薩心地戒品第十》後秦鳩摩羅什譯 部別：大乘律 / 卷數：2 千字文：列 1 (15)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrS",
+       "created": 1646116897595,
+       "text": "【卍正藏】No.1092《梵網經》後秦 鳩摩羅什譯 部別：大乘律 / 冊數：31 / 頁數：225 / 卷數：2 原版套數：第 17 套"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrT",
+       "created": 1646116897595,
+       "text": "【大正藏】No.1484《梵網經》後秦 鳩摩羅什譯 部別：律部三 / 冊數：24 / 頁數：997 / 卷數：2 相關經典：縮-列1,卍-17.1,國-律12 參考資料：cf.Nos.1811-1815,2246,2797"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrU",
+       "created": 1646116897595,
+       "text": "【佛教大藏經】No.806《梵網經盧舍那佛說菩薩心地戒品第十》後秦 鳩摩羅什譯 部別：大乘律 律部一 / 冊數：29 / 頁數：1 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrV",
+       "created": 1646116897595,
+       "text": "【中華藏】No.575《梵網經盧舍那佛說菩薩心地戒品第十》後漢龜茲國三藏鳩摩羅什譯 冊數：24 / 頁數：764 / 卷數：2 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrW",
+       "created": 1646116897595,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrX",
+       "created": 1646116897595,
+       "text": "【南條文雄編號】 Nj. 1087"
+      }},
+      {"data": {
+       "id": "z5cYxhrLrY",
+       "created": 1646116897595,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1484"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz5n18t",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

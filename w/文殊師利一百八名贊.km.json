@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "文殊師利一百八名贊"},
+  "children": [{
+   "data": {
+    "id": "z5cYzQ2rvG",
+    "created": 1646116904178,
+    "text": "現藏錄（元 智慧譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzQ2rub",
+      "created": 1646116904178,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzQ2ruc",
+        "created": 1646116904178,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ2rud",
+        "created": 1646116904178,
+        "text": "文殊師利一百八名贊",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzQ2rue",
+        "created": 1646116904178,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ2ruf",
+        "created": 1646116904178,
+        "text": "文殊师利一百八名赞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzQ2rug",
+        "created": 1646116904178,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzQ2ruh",
+        "created": 1646116904178,
+        "text": "wen shu shi li yi bai ba ming zan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ2rui",
+      "created": 1646116904178,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzQ2ruj",
+      "created": 1646116904178,
+      "text": "元",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ2ruk",
+      "created": 1646116904178,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzQ2rul",
+       "created": 1646116904178,
+       "text": "元 智慧譯"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rum",
+       "created": 1646116904178,
+       "text": "智慧",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ2run",
+      "created": 1646116904178,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzQ2ruo",
+      "created": 1646116904178,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzQ2rup",
+      "created": 1646116904178,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzQ2ruq",
+       "created": 1646116904178,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rur",
+       "created": 1646116904178,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rus",
+       "created": 1646116904178,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rut",
+       "created": 1646116904178,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2ruu",
+       "created": 1646116904178,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2ruv",
+       "created": 1646116904178,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2ruw",
+       "created": 1646116904178,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rux",
+       "created": 1646116904178,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2ruy",
+       "created": 1646116904178,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2ruz",
+       "created": 1646116904178,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv0",
+       "created": 1646116904178,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv1",
+       "created": 1646116904178,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv2",
+       "created": 1646116904178,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv3",
+       "created": 1646116904178,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv4",
+       "created": 1646116904178,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv5",
+       "created": 1646116904178,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv6",
+       "created": 1646116904178,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv7",
+       "created": 1646116904178,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv8",
+       "created": 1646116904178,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rv9",
+       "created": 1646116904178,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rvA",
+       "created": 1646116904178,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rvB",
+       "created": 1646116904178,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rvC",
+       "created": 1646116904178,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rvD",
+       "created": 1646116904178,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rvE",
+       "created": 1646116904178,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzQ2rvF",
+       "created": 1646116904178,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：709"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri48i3h4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

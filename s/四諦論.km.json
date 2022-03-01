@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "四諦論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxpIOGN",
+    "created": 1646116898056,
+    "text": "現藏錄（婆藪跋摩造　陳 真諦譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxpHOFU",
+      "created": 1646116898055,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxpHOFV",
+        "created": 1646116898055,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxpHOFW",
+        "created": 1646116898055,
+        "text": "四諦論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxpHOFX",
+        "created": 1646116898055,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxpHOFY",
+        "created": 1646116898055,
+        "text": "四谛论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxpHOFZ",
+        "created": 1646116898055,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxpHOFa",
+        "created": 1646116898055,
+        "text": "si di lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxpHOFj",
+        "created": 1646116898055,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxpHOFk",
+        "created": 1646116898055,
+        "text": "Ssu ti lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxpIOFl",
+        "created": 1646116898056,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxpIOFm",
+        "created": 1646116898056,
+        "text": "Catuḥsatyaśāstra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxpIOFn",
+        "created": 1646116898056,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxpIOFo",
+        "created": 1646116898056,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxpIOFp",
+        "created": 1646116898056,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxpIOFq",
+        "created": 1646116898056,
+        "text": "사제론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxpHOFb",
+      "created": 1646116898055,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxpHOFc",
+      "created": 1646116898055,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxpHOFd",
+      "created": 1646116898055,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxpHOFe",
+       "created": 1646116898055,
+       "text": "婆藪跋摩造　陳 真諦譯"
+      }},
+      {"data": {
+       "id": "z5cYxpHOFf",
+       "created": 1646116898055,
+       "text": "婆藪跋摩",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxpHOFg",
+       "created": 1646116898055,
+       "text": "真諦",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxpHOFh",
+      "created": 1646116898055,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxpHOFi",
+      "created": 1646116898055,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxpIOFr",
+      "created": 1646116898056,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxpIOFs",
+      "created": 1646116898056,
+      "text": "Translated by Paramārtha: Ch'en dynasty (陳) (A.D. 557-569) in Kuang-chou (廣州), Nan-k'ang Province (南康郡).T. 2151-364c:21; T. 2153-435b:13."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxpIOFt",
+     "created": 1646116898056,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxpIOFu",
+      "created": 1646116898056,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxpIOFv",
+      "created": 1646116898056,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxpIOFw",
+      "created": 1646116898056,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxpIOFx",
+       "created": 1646116898056,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOFy",
+       "created": 1646116898056,
+       "text": "【開寶藏】No.969《四諦論》陳 婆藪跋摩 造 天竺三藏真諦 譯 部別：小乘論 聲聞對法藏 / 卷數：4 千字文：據"
+      }},
+      {"data": {
+       "id": "z5cYxpIOFz",
+       "created": 1646116898056,
+       "text": "【崇寧藏】No.972《四諦論》 卷數：4 千字文：渭(422)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG0",
+       "created": 1646116898056,
+       "text": "【毘盧藏】No.972《四諦論》法師婆藪跋摩所造　陳三藏真諦譯 千字文：渭(422)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG1",
+       "created": 1646116898056,
+       "text": "【圓覺藏】No.981《四諦論》 卷數：4 千字文：渭(422)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG2",
+       "created": 1646116898056,
+       "text": "【趙城金藏】No.976《四諦論》 卷數：4 千字文：渭"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG3",
+       "created": 1646116898056,
+       "text": "【資福藏】No.987《四諦論》 卷數：4 (四卷) 千字文：渭(422)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG4",
+       "created": 1646116898056,
+       "text": "【磧砂藏】No.997《四諦論》陳 真諦譯 部別： / 冊數：27 / 頁數：448 / 卷數：4 千字文：渭 4 (422)-渭 7 (422)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG5",
+       "created": 1646116898056,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG6",
+       "created": 1646116898056,
+       "text": "【高麗藏】No.974《四諦論》陳天竺三藏真諦譯 部別：小乘論 / 冊數：29 頁數：521 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：渭"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG7",
+       "created": 1646116898056,
+       "text": "【普寧藏】No.988《四諦論》 卷數：4 千字文：渭(422)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG8",
+       "created": 1646116898056,
+       "text": "【至元錄】No.1424《四諦論》婆藪跋摩造　陳天竺三藏真諦譯 卷數：4 千字文：磻(529)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOG9",
+       "created": 1646116898056,
+       "text": "【洪武南藏】No.881《四諦論》婆藪跋摩所 造　陳 三藏真諦 譯　 冊數：150 / 頁數：131 / 卷數：4 千字文：渭 4 (422)-渭 7 (422)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGA",
+       "created": 1646116898056,
+       "text": "【永樂南藏】No.1430《四諦論》 部別：小乘論 千字文：漆(485)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGB",
+       "created": 1646116898056,
+       "text": "【永樂北藏】No.1307《四諦論》陳真諦譯 部別：小乘論 / 冊數：106 / 頁數：1 / 卷數：4 千字文：逸"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGC",
+       "created": 1646116898056,
+       "text": "【嘉興藏】No.1253《四諦論》陳真諦譯 部別：小乘論 / 法寶總目錄經號：1252 千字文 / 函號：［正藏］ 逸(388)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGD",
+       "created": 1646116898056,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGE",
+       "created": 1646116898056,
+       "text": "【乾隆藏】No.1254《四諦論》陳 真諦譯 部別：小乘論 / 冊數：87 / 頁數：133 / 卷數：4 千字文：逸"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGF",
+       "created": 1646116898056,
+       "text": "【縮刻藏】No.1029《四諦論》婆藪跋摩造　陳真諦譯 部別：印度小乘論 / 卷數：4 千字文：藏 3 (24)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGG",
+       "created": 1646116898056,
+       "text": "【卍正藏】No.1268《四諦論》陳 真諦譯 部別：小乘論 / 冊數：42 / 頁數：1 / 卷數：4 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGH",
+       "created": 1646116898056,
+       "text": "【大正藏】No.1647《四諦論》婆藪跋摩造 陳 真諦譯 部別：論集部全 / 冊數：32 / 頁數：375 / 卷數：4 相關經典：縮-藏3,卍-22.6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxpIOGI",
+       "created": 1646116898056,
+       "text": "【佛教大藏經】No.1073《四諦論》陳 真諦譯 部別：小乘論 論部十三 / 冊數：47 / 頁數：433 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGJ",
+       "created": 1646116898056,
+       "text": "【中華藏】No.1059《四諦論》婆藪跋摩造，陳天竺三藏真諦譯 冊數：50 / 頁數：68 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGK",
+       "created": 1646116898056,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGL",
+       "created": 1646116898056,
+       "text": "【南條文雄編號】 Nj. 1261"
+      }},
+      {"data": {
+       "id": "z5cYxpIOGM",
+       "created": 1646116898056,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1647"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzif1dd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

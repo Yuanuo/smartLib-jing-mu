@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "百論疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYxwvQVN",
+    "created": 1646116898529,
+    "text": "現藏錄（隋 吉藏撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxwvQUi",
+      "created": 1646116898529,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxwvQUj",
+        "created": 1646116898529,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxwvQUk",
+        "created": 1646116898529,
+        "text": "百論疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxwvQUl",
+        "created": 1646116898529,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxwvQUm",
+        "created": 1646116898529,
+        "text": "百论疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxwvQUn",
+        "created": 1646116898529,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxwvQUo",
+        "created": 1646116898529,
+        "text": "bai lun shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxwvQUp",
+      "created": 1646116898529,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxwvQUq",
+      "created": 1646116898529,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxwvQUr",
+      "created": 1646116898529,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxwvQUs",
+       "created": 1646116898529,
+       "text": "隋 吉藏撰"
+      }},
+      {"data": {
+       "id": "z5cYxwvQUt",
+       "created": 1646116898529,
+       "text": "吉藏",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxwvQUu",
+      "created": 1646116898529,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxwvQUv",
+      "created": 1646116898529,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxwvQUw",
+      "created": 1646116898529,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxwvQUx",
+       "created": 1646116898529,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQUy",
+       "created": 1646116898529,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQUz",
+       "created": 1646116898529,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV0",
+       "created": 1646116898529,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV1",
+       "created": 1646116898529,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV2",
+       "created": 1646116898529,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV3",
+       "created": 1646116898529,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV4",
+       "created": 1646116898529,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV5",
+       "created": 1646116898529,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV6",
+       "created": 1646116898529,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV7",
+       "created": 1646116898529,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV8",
+       "created": 1646116898529,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQV9",
+       "created": 1646116898529,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVA",
+       "created": 1646116898529,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVB",
+       "created": 1646116898529,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVC",
+       "created": 1646116898529,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVD",
+       "created": 1646116898529,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVE",
+       "created": 1646116898529,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVF",
+       "created": 1646116898529,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVG",
+       "created": 1646116898529,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVH",
+       "created": 1646116898529,
+       "text": "【大正藏】No.1827《百論疏》隋 吉藏撰 部別：論疏部三 / 冊數：42 / 頁數：232 / 卷數：3 相關經典：續-1.73.5,續-1.87.2,國-論疏8 參考資料：cf.No.1569"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVI",
+       "created": 1646116898529,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVJ",
+       "created": 1646116898529,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVK",
+       "created": 1646116898529,
+       "text": "【新纂卍續藏】No.781《百論疏》隋 吉藏 部別：中國撰述 大小乘釋論部二 三論部疏 / 冊數：46 / 頁數：409 / 卷數：9 《卍大日本續藏經》套數：第一編．第 87 套 《卍續藏經》(新文豐版)冊數：第 87 冊"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVL",
+       "created": 1646116898529,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxwvQVM",
+       "created": 1646116898529,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1827"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzvl1im",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

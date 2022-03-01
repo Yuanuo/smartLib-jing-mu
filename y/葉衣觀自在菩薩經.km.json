@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "葉衣觀自在菩薩經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxOzGX2",
+    "created": 1646116896425,
+    "text": "現藏錄（唐 不空譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxOzGW5",
+      "created": 1646116896425,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxOzGW6",
+        "created": 1646116896425,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOzGW7",
+        "created": 1646116896425,
+        "text": "葉衣觀自在菩薩經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOzGW8",
+        "created": 1646116896425,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOzGW9",
+        "created": 1646116896425,
+        "text": "叶衣观自在菩萨经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOzGWA",
+        "created": 1646116896425,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOzGWB",
+        "created": 1646116896425,
+        "text": "ye yi guan zi zai pu sa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOzGWJ",
+        "created": 1646116896425,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOzGWK",
+        "created": 1646116896425,
+        "text": "Yeh i kuan tzu tsai p'u sa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOzGWL",
+        "created": 1646116896425,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOzGWM",
+        "created": 1646116896425,
+        "text": "Parṇaśavarīdhāraṇī(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOzGWN",
+        "created": 1646116896425,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOzGWO",
+        "created": 1646116896425,
+        "text": "Parṇṇa-śa-ba-riḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxOzGWP",
+        "created": 1646116896425,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxOzGWQ",
+        "created": 1646116896425,
+        "text": "엽의관자재보살경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxOzGWC",
+      "created": 1646116896425,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOzGWD",
+      "created": 1646116896425,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOzGWE",
+      "created": 1646116896425,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxOzGWF",
+       "created": 1646116896425,
+       "text": "唐 不空譯"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWG",
+       "created": 1646116896425,
+       "text": "不空",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxOzGWH",
+      "created": 1646116896425,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOzGWI",
+      "created": 1646116896425,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOzGWR",
+      "created": 1646116896425,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOzGWS",
+      "created": 1646116896425,
+      "text": "Translation by Amoghavajra: (see K.1272)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOzGWT",
+      "created": 1646116896425,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxOzGWU",
+       "created": 1646116896425,
+       "text": "【北京版】Rgyud (pha)190b-191b(ya)155a-156a"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWV",
+       "created": 1646116896425,
+       "text": "【奈塘版】Rgyud (pa)145a-146b"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWW",
+       "created": 1646116896425,
+       "text": "【德格版】Rgyud-ḥbum (tsha)227a-228aGzuns-ḥdus (wam)148a-149a"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWX",
+       "created": 1646116896425,
+       "text": "【拉薩版】Rgyud (na)158a-159b"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWY",
+       "created": 1646116896425,
+       "text": "【卓尼版】Rgyud (pha)211b-212b(ya)159a-160a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxOzGWZ",
+      "created": 1646116896425,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxOzGWa",
+      "created": 1646116896425,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxOzGWb",
+      "created": 1646116896425,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxOzGWc",
+       "created": 1646116896425,
+       "text": "【房山石經】No.798《葉衣觀自在菩薩經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：186 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：俠"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWd",
+       "created": 1646116896425,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWe",
+       "created": 1646116896425,
+       "text": "【崇寧藏】No.1369《葉衣觀自在菩薩經》 卷數：1 千字文：感(558)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWf",
+       "created": 1646116896425,
+       "text": "【毘盧藏】No.1367《葉衣觀自在菩薩經》唐不空譯 千字文：感(558)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWg",
+       "created": 1646116896425,
+       "text": "【圓覺藏】No.1366《葉衣觀自在菩薩經》 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWh",
+       "created": 1646116896425,
+       "text": "【趙城金藏】No.1318《葉衣觀自在菩薩經》 卷數：1 千字文：肥"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWi",
+       "created": 1646116896425,
+       "text": "【資福藏】No.1371《葉衣觀自在菩薩經》 卷數：1 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWj",
+       "created": 1646116896425,
+       "text": "【磧砂藏】No.1375《葉衣觀自在菩薩經》唐 不空譯 部別： / 冊數：34 / 頁數：508 / 卷數：1 千字文：阿 2 (535)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWk",
+       "created": 1646116896425,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWl",
+       "created": 1646116896425,
+       "text": "【高麗藏】No.1305《葉衣觀自在菩薩經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：36 頁數：967 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：阿"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWm",
+       "created": 1646116896425,
+       "text": "【普寧藏】No.1366《葉衣觀自在菩薩經》 卷數：1 千字文：阿(535)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWn",
+       "created": 1646116896425,
+       "text": "【至元錄】No.669《葉衣觀自在菩薩陀羅尼經》唐三藏大廣智不空譯 梵名：阿唎(二合)亞　八囉拏　灑瓦哩拏麻陀羅尼 / 卷數：1 千字文：君(244)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWo",
+       "created": 1646116896425,
+       "text": "【洪武南藏】No.1222《葉衣觀自在菩薩經》特進試鴻臚卿大興善寺三藏沙門大廣智不空 奉詔譯 冊數：189 / 頁數：417 / 卷數：1 千字文：阿 2 (535)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWp",
+       "created": 1646116896425,
+       "text": "【永樂南藏】No.1010《葉衣觀自在菩薩經》 部別：宋元入藏諸大小乘經 千字文：不(275)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWq",
+       "created": 1646116896425,
+       "text": "【永樂北藏】No.1005《葉衣觀自在菩薩經》唐不空譯 部別：宋元入藏諸大小乘經 / 冊數：70 / 頁數：481 / 卷數：1 千字文：清"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWr",
+       "created": 1646116896425,
+       "text": "【嘉興藏】No.966《葉衣觀自在菩薩經》唐不空譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0966 千字文 / 函號：［正藏］ 清(264)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWs",
+       "created": 1646116896425,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWt",
+       "created": 1646116896425,
+       "text": "【乾隆藏】No.968《葉衣觀自在菩薩經》唐 不空譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：421 / 卷數：1 千字文：清"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWu",
+       "created": 1646116896425,
+       "text": "【縮刻藏】No.1225《葉衣觀自在菩薩陀羅尼經》唐不空譯 部別：祕密部 / 卷數：1 千字文： 12 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWv",
+       "created": 1646116896425,
+       "text": "【卍正藏】No.977《葉衣觀自在菩薩經》不空譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：699 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWw",
+       "created": 1646116896425,
+       "text": "【大正藏】No.1100《葉衣觀自在菩薩經》唐 不空譯 部別：密教部三 / 冊數：20 / 頁數：447 / 卷數：1 相關經典：縮-閏12,卍-15.9 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxOzGWx",
+       "created": 1646116896425,
+       "text": "【佛教大藏經】No.1294《葉衣觀自在菩薩陀羅尼經》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：802 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWy",
+       "created": 1646116896425,
+       "text": "【中華藏】No.1431《葉衣觀自在菩薩經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：65 / 頁數：659 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxOzGWz",
+       "created": 1646116896425,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxOzGX0",
+       "created": 1646116896425,
+       "text": "【南條文雄編號】 Nj. 0973"
+      }},
+      {"data": {
+       "id": "z5cYxOzGX1",
+       "created": 1646116896425,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1100"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy95xe",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

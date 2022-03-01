@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "華嚴心要法門註"},
+  "children": [{
+   "data": {
+    "id": "z5cYyxujMN",
+    "created": 1646116902434,
+    "text": "現藏錄（唐 澄觀撰、宗密註）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyxujLh",
+      "created": 1646116902434,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyxujLi",
+        "created": 1646116902434,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyxujLj",
+        "created": 1646116902434,
+        "text": "華嚴心要法門註",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyxujLk",
+        "created": 1646116902434,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyxujLl",
+        "created": 1646116902434,
+        "text": "华严心要法门注",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyxujLm",
+        "created": 1646116902434,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyxujLn",
+        "created": 1646116902434,
+        "text": "hua yan xin yao fa men zhu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyxujLo",
+      "created": 1646116902434,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyxujLp",
+      "created": 1646116902434,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyxujLq",
+      "created": 1646116902434,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyxujLr",
+       "created": 1646116902434,
+       "text": "唐 澄觀撰、宗密註"
+      }},
+      {"data": {
+       "id": "z5cYyxujLs",
+       "created": 1646116902434,
+       "text": "宗密",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYyxujLt",
+       "created": 1646116902434,
+       "text": "澄觀",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyxujLu",
+      "created": 1646116902434,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyxujLv",
+      "created": 1646116902434,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyxujLw",
+      "created": 1646116902434,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyxujLx",
+       "created": 1646116902434,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujLy",
+       "created": 1646116902434,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujLz",
+       "created": 1646116902434,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM0",
+       "created": 1646116902434,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM1",
+       "created": 1646116902434,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM2",
+       "created": 1646116902434,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM3",
+       "created": 1646116902434,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM4",
+       "created": 1646116902434,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM5",
+       "created": 1646116902434,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM6",
+       "created": 1646116902434,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM7",
+       "created": 1646116902434,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM8",
+       "created": 1646116902434,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujM9",
+       "created": 1646116902434,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMA",
+       "created": 1646116902434,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMB",
+       "created": 1646116902434,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMC",
+       "created": 1646116902434,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMD",
+       "created": 1646116902434,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujME",
+       "created": 1646116902434,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMF",
+       "created": 1646116902434,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMG",
+       "created": 1646116902434,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMH",
+       "created": 1646116902434,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMI",
+       "created": 1646116902434,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMJ",
+       "created": 1646116902434,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMK",
+       "created": 1646116902434,
+       "text": "【新纂卍續藏】No.1005《華嚴心要法門註》唐 澄觀撰、宗密註 部別：中國撰述 諸宗著述部五 華嚴宗 / 冊數：58 / 頁數：426 / 卷數：1 《卍大日本續藏經》套數：第二編．第 8 套 《卍續藏經》(新文豐版)冊數：第 103 冊"
+      }},
+      {"data": {
+       "id": "z5cYyxujML",
+       "created": 1646116902434,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyxujMM",
+       "created": 1646116902434,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1296"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2w22ur",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

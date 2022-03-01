@@ -1,0 +1,354 @@
+{
+ "root": {
+  "data": {"text": "佛說蓮華眼陀羅尼經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxdgKkH",
+    "created": 1646116897336,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxdfKjL",
+      "created": 1646116897335,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxdfKjM",
+        "created": 1646116897335,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxdfKjN",
+        "created": 1646116897335,
+        "text": "佛說蓮華眼陀羅尼經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxdfKjO",
+        "created": 1646116897335,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxdfKjP",
+        "created": 1646116897335,
+        "text": "佛说莲华眼陀罗尼经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxdfKjQ",
+        "created": 1646116897335,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxdfKjR",
+        "created": 1646116897335,
+        "text": "fo shuo lian hua yan tuo luo ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxdfKjZ",
+        "created": 1646116897335,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxdfKja",
+        "created": 1646116897335,
+        "text": "Lien hua yen t'o lo ni ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxdfKjb",
+       "created": 1646116897335,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxdfKjc",
+        "created": 1646116897335,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxdfKjd",
+        "created": 1646116897335,
+        "text": "Phyag daṅ"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxdfKje",
+        "created": 1646116897335,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxdfKjf",
+        "created": 1646116897335,
+        "text": "연화안다라니경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxdfKjS",
+      "created": 1646116897335,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxdfKjT",
+      "created": 1646116897335,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxdfKjU",
+      "created": 1646116897335,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxdfKjV",
+       "created": 1646116897335,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjW",
+       "created": 1646116897335,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxdfKjX",
+      "created": 1646116897335,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxdfKjY",
+      "created": 1646116897335,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxdfKjg",
+      "created": 1646116897335,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxdfKjh",
+      "created": 1646116897335,
+      "text": "Translation by Dānapāla: (see K.1096)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxdfKji",
+      "created": 1646116897335,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxdfKjj",
+       "created": 1646116897335,
+       "text": "【北京版】Rgyud (pha)305b-306a(ḥa)86a"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjk",
+       "created": 1646116897335,
+       "text": "【奈塘版】Rgyud (tsha)31a-b"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjl",
+       "created": 1646116897335,
+       "text": "【德格版】Rgyud-ḥbum (na)100b-101aGzuṅs-ḥdus (E)88a-b"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjm",
+       "created": 1646116897335,
+       "text": "【拉薩版】Rgyud (tsha)129b-130a"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjn",
+       "created": 1646116897335,
+       "text": "【卓尼版】Rgyud (pha)344a-b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxdfKjo",
+      "created": 1646116897335,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxdfKjp",
+      "created": 1646116897335,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxdfKjq",
+      "created": 1646116897335,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxdfKjr",
+       "created": 1646116897335,
+       "text": "【房山石經】No.911《佛說蓮華眼陀羅尼經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：26 / 頁數：262 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：奄"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjs",
+       "created": 1646116897335,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjt",
+       "created": 1646116897335,
+       "text": "【崇寧藏】No.1142《佛說蓮華眼陀羅尼經》 卷數：1 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKju",
+       "created": 1646116897335,
+       "text": "【毘盧藏】No.1143《佛說蓮華眼陀羅尼經》三藏施護譯 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjv",
+       "created": 1646116897335,
+       "text": "【圓覺藏】No.1152《佛說蓮華眼陀羅尼經》 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjw",
+       "created": 1646116897335,
+       "text": "【趙城金藏】No.1144《蓮華眼陀羅尼經》 卷數：1 千字文：將"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjx",
+       "created": 1646116897335,
+       "text": "【資福藏】No.1157《佛說蓮華眼陀羅尼經》 卷數：1 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjy",
+       "created": 1646116897335,
+       "text": "【磧砂藏】No.1166《佛說蓮華眼陀羅尼經》宋 施護譯 部別： / 冊數：32 / 頁數：764 / 卷數：1 千字文：八 5 (499)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKjz",
+       "created": 1646116897335,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk0",
+       "created": 1646116897335,
+       "text": "【高麗藏】No.1143《蓮華眼陀羅尼經》西天三藏傳法大師施護譯 部別：宋續入藏經 / 冊數：33 頁數：1182 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：將"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk1",
+       "created": 1646116897335,
+       "text": "【普寧藏】No.1157《佛說蓮華眼陀羅尼經》 卷數：1 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk2",
+       "created": 1646116897335,
+       "text": "【至元錄】No.752《蓮華眼陀羅尼經》宋天竺三藏施護譯 卷數：1 千字文：薄(260)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk3",
+       "created": 1646116897335,
+       "text": "【洪武南藏】No.1019《佛說蓮華眼陀羅尼經》宋 三藏法師施護 奉詔譯 冊數：180 / 頁數：292 / 卷數：1 千字文：八 5 (499)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk4",
+       "created": 1646116897335,
+       "text": "【永樂南藏】No.823《佛說蓮華眼陀羅尼經》 部別：宋元入藏諸大小乘經 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk5",
+       "created": 1646116897335,
+       "text": "【永樂北藏】No.858《佛說蓮華眼陀羅尼經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：785 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk6",
+       "created": 1646116897335,
+       "text": "【嘉興藏】No.821《佛說蓮華眼陀羅尼經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0821 千字文 / 函號：［正藏］ 則(254)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk7",
+       "created": 1646116897335,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk8",
+       "created": 1646116897335,
+       "text": "【乾隆藏】No.822《佛說蓮華眼陀羅尼經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：143 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxdfKk9",
+       "created": 1646116897335,
+       "text": "【縮刻藏】No.1526《佛說蓮華眼陀羅尼經》宋施護譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKkA",
+       "created": 1646116897335,
+       "text": "【卍正藏】No.831《佛說蓮華眼陀羅尼經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：583 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxdfKkB",
+       "created": 1646116897335,
+       "text": "【大正藏】No.1411《佛說蓮華眼陀羅尼經》宋 施護譯 部別：密教部四 / 冊數：21 / 頁數：926 / 卷數：1 相關經典：縮-成8,卍-15.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxdfKkC",
+       "created": 1646116897335,
+       "text": "【佛教大藏經】No.1603《佛說蓮華眼陀羅尼經》宋 施護譯 部別：密教部六 / 冊數：57 / 頁數：395 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxdfKkD",
+       "created": 1646116897335,
+       "text": "【中華藏】No.1253《佛說蓮華眼陀羅尼經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：64 / 頁數：131 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxdfKkE",
+       "created": 1646116897335,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxdfKkF",
+       "created": 1646116897335,
+       "text": "【南條文雄編號】 Nj. 0827"
+      }},
+      {"data": {
+       "id": "z5cYxdfKkG",
+       "created": 1646116897335,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1411"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyyf16l",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

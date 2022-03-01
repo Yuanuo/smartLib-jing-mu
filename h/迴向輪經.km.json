@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說迴向輪經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxKLF3j",
+    "created": 1646116896137,
+    "text": "現藏錄（唐 尸羅達摩譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxKKF2m",
+      "created": 1646116896136,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxKKF2n",
+        "created": 1646116896136,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxKKF2o",
+        "created": 1646116896136,
+        "text": "佛說迴向輪經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxKKF2p",
+        "created": 1646116896136,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxKKF2q",
+        "created": 1646116896136,
+        "text": "佛说回向轮经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxKKF2r",
+        "created": 1646116896136,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxKKF2s",
+        "created": 1646116896136,
+        "text": "fo shuo hui xiang lun jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxKLF30",
+        "created": 1646116896137,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxKLF31",
+        "created": 1646116896137,
+        "text": "Hui hsiang lun ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxKLF32",
+        "created": 1646116896137,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxKLF33",
+        "created": 1646116896137,
+        "text": "Pariṇāmacakra(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxKLF34",
+        "created": 1646116896137,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxKLF35",
+        "created": 1646116896137,
+        "text": "Yoṅs-su bsṅo-baḥi ḥkhor-lo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxKLF36",
+        "created": 1646116896137,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxKLF37",
+        "created": 1646116896137,
+        "text": "회향륜경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxKKF2t",
+      "created": 1646116896136,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxKKF2u",
+      "created": 1646116896136,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxKKF2v",
+      "created": 1646116896136,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxKKF2w",
+       "created": 1646116896136,
+       "text": "唐 尸羅達摩譯"
+      }},
+      {"data": {
+       "id": "z5cYxKKF2x",
+       "created": 1646116896136,
+       "text": "尸羅達摩",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxKLF2y",
+      "created": 1646116896137,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxKLF2z",
+      "created": 1646116896137,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxKLF38",
+      "created": 1646116896137,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxKLF39",
+      "created": 1646116896137,
+      "text": "Translation by Śīladharma: 2nd month, 6th year of Cheng Yüan (貞元), T'ang dynasty (唐) (A.D. 790).T. 2157-896b:6."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxKLF3A",
+      "created": 1646116896137,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxKLF3B",
+       "created": 1646116896137,
+       "text": "【北京版】Mdo-sna-tshogs (wu)323a-327a"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3C",
+       "created": 1646116896137,
+       "text": "【奈塘版】Mdo (dsa)460b-465aRgyud(tsha)188a-192b"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3D",
+       "created": 1646116896137,
+       "text": "【德格版】Mdo-sde (sha)303a-306a"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3E",
+       "created": 1646116896137,
+       "text": "【拉薩版】Mdo (dsa)467b-472aRgyud(tsha)306a-311b"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3F",
+       "created": 1646116896137,
+       "text": "【卓尼版】Mdo-maṅ (sha)337a-341a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxKLF3G",
+      "created": 1646116896137,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxKLF3H",
+      "created": 1646116896137,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxKLF3I",
+      "created": 1646116896137,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxKLF3J",
+       "created": 1646116896137,
+       "text": "【房山石經】No.751《佛說回向輪經》于闐三藏尸羅達摩于北庭龍興寺譯 冊數：24 / 頁數：167 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：書"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3K",
+       "created": 1646116896137,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3L",
+       "created": 1646116896137,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3M",
+       "created": 1646116896137,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3N",
+       "created": 1646116896137,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3O",
+       "created": 1646116896137,
+       "text": "【趙城金藏】No.1400《佛說迴向輪經》 卷數：1 千字文：時"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3P",
+       "created": 1646116896137,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3Q",
+       "created": 1646116896137,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3R",
+       "created": 1646116896137,
+       "text": "【宋藏遺珍】No.7《佛說迴向輪經》唐 尸羅達摩 譯 六冊版冊數：1 / 頁數：109 / 卷數：1 四冊版冊數：37 / 頁數：561"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3S",
+       "created": 1646116896137,
+       "text": "【高麗藏】No.1387《廻向輪經》于闐國三藏尸羅達摩譯 部別：宋續入藏經 / 冊數：37 頁數：541 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：合"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3T",
+       "created": 1646116896137,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3U",
+       "created": 1646116896137,
+       "text": "【至元錄】No.181《回向輪經》于闐三藏尸羅達摩共勿提犀魚等譯 卷數：1 千字文：白(133)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3V",
+       "created": 1646116896137,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3W",
+       "created": 1646116896137,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3X",
+       "created": 1646116896137,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3Y",
+       "created": 1646116896137,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3Z",
+       "created": 1646116896137,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3a",
+       "created": 1646116896137,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3b",
+       "created": 1646116896137,
+       "text": "【縮刻藏】No.1139《佛說迴向輪經》唐尸羅達摩譯 部別：祕密部 / 卷數：1 千字文： 5 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3c",
+       "created": 1646116896137,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3d",
+       "created": 1646116896137,
+       "text": "【大正藏】No.998《佛說迴向輪經》唐 尸羅達摩譯 部別：密教部二 / 冊數：19 / 頁數：577 / 卷數：1 相關經典：縮-閏5,續-1.2.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxKLF3e",
+       "created": 1646116896137,
+       "text": "【佛教大藏經】No.1209《佛說迴向輪經》唐 尸羅達摩譯 部別：密教部一 / 冊數：52 / 頁數：827 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3f",
+       "created": 1646116896137,
+       "text": "【中華藏】No.1526《佛說迴向輪經》于闐三藏尸羅達摩於北庭龍興寺譯 冊數：66 / 頁數：826 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3g",
+       "created": 1646116896137,
+       "text": "【新纂卍續藏】No.67《佛說迴向輪經》唐 尸羅達摩譯 部別：印度撰述 密經儀軌部 / 冊數：2 / 頁數：296 / 卷數：1 《卍大日本續藏經》套數：第一編．第 2 套 《卍續藏經》(新文豐版)冊數：第 2 冊"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3h",
+       "created": 1646116896137,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxKLF3i",
+       "created": 1646116896137,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：998"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy14ub",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

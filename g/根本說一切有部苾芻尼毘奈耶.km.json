@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "根本說一切有部苾芻尼毘奈耶"},
+  "children": [{
+   "data": {
+    "id": "z5cYxfdLEn",
+    "created": 1646116897457,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxfdLDq",
+      "created": 1646116897457,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxfdLDr",
+        "created": 1646116897457,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfdLDs",
+        "created": 1646116897457,
+        "text": "根本說一切有部苾芻尼毘奈耶",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfdLDt",
+        "created": 1646116897457,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfdLDu",
+        "created": 1646116897457,
+        "text": "根本说一切有部苾刍尼毘奈耶",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfdLDv",
+        "created": 1646116897457,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfdLDw",
+        "created": 1646116897457,
+        "text": "gen ben shuo yi qie you bu bi chu ni pi nai ye"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfdLE4",
+        "created": 1646116897457,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfdLE5",
+        "created": 1646116897457,
+        "text": "Ken pen shuo i ch'ieh yu pu pi ch'u ni p'i na yeh"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfdLE6",
+        "created": 1646116897457,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfdLE7",
+        "created": 1646116897457,
+        "text": "(Mūlasarvāstivāda)Bhikṣuṇīvinayavibhaṅga",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfdLE8",
+        "created": 1646116897457,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfdLE9",
+        "created": 1646116897457,
+        "text": "Dge-sloṅ-maḥi ḥdul-ba rnam-par-ḥbyed-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfdLEA",
+        "created": 1646116897457,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfdLEB",
+        "created": 1646116897457,
+        "text": "근본설일체유부필추니비나야",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxfdLDx",
+      "created": 1646116897457,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfdLDy",
+      "created": 1646116897457,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfdLDz",
+      "created": 1646116897457,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxfdLE0",
+       "created": 1646116897457,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxfdLE1",
+       "created": 1646116897457,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxfdLE2",
+      "created": 1646116897457,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfdLE3",
+      "created": 1646116897457,
+      "text": "20"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfdLEC",
+      "created": 1646116897457,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfdLED",
+      "created": 1646116897457,
+      "text": "Translation by I-ching: 4th year of Ching Lung (景龍), T'ang dynasty (唐) (A.D. 710) in Ta-chien-fu Monastery (大薦福寺).T. 2154-568:2; T. 2157-868b:14."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfdLEE",
+      "created": 1646116897457,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxfdLEF",
+       "created": 1646116897457,
+       "text": "【北京版】Ḥdul-ba (the)25a-290a"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEG",
+       "created": 1646116897457,
+       "text": "【奈塘版】Ḥdul-ba (ta)36b-483b"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEH",
+       "created": 1646116897457,
+       "text": "【德格版】Ḥdul-ba (ta)25b-328a"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEI",
+       "created": 1646116897457,
+       "text": "【拉薩版】Ḥdul-ba (ta)35a-460a"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEJ",
+       "created": 1646116897457,
+       "text": "【卓尼版】Ḥdul-ba (ta)26b-361a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxfdLEK",
+      "created": 1646116897457,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfdLEL",
+      "created": 1646116897457,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfdLEM",
+      "created": 1646116897457,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxfdLEN",
+       "created": 1646116897457,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEO",
+       "created": 1646116897457,
+       "text": "【開寶藏】No.887《根本說一切有部苾刍尼毗奈耶》唐 三藏義淨 譯 部別：小乘律 聲聞調伏藏 / 卷數：20 千字文：殊-貴"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEP",
+       "created": 1646116897457,
+       "text": "【崇寧藏】No.890《根本說一切有部苾芻尼毘奈耶》 卷數：20 千字文：樂(321)-殊(322)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEQ",
+       "created": 1646116897457,
+       "text": "【毘盧藏】No.891《根本說一切有部苾芻尼毘奈耶》序御製　唐義淨譯 參考年代：(紹興四．八)(紹興八．三) 千字文：樂(321)-殊(322)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLER",
+       "created": 1646116897457,
+       "text": "【圓覺藏】No.899《根本說一切有部苾芻尼毘柰耶經》 卷數：20 千字文：樂(321)-殊(322)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLES",
+       "created": 1646116897457,
+       "text": "【趙城金藏】No.894《根本說一切有部苾芻尼毗奈耶》 卷數：20 千字文：詠樂"
+      }},
+      {"data": {
+       "id": "z5cYxfdLET",
+       "created": 1646116897457,
+       "text": "【資福藏】No.905《根本說一切有部苾芻尼毘奈耶經》 卷數：20 (二十卷) 千字文：樂(321)-殊(322)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEU",
+       "created": 1646116897457,
+       "text": "【磧砂藏】No.913《根本說一切有部苾芻尼毗柰耶》唐 義淨譯 部別： / 冊數：21 / 頁數：277 / 卷數：20 千字文：樂 1 (321)-殊 10 (322)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEV",
+       "created": 1646116897457,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEW",
+       "created": 1646116897457,
+       "text": "【高麗藏】No.892《根本說一切有部芯芻尼毘奈耶》三藏法師義淨譯 部別：小乘律 / 冊數：22 頁數：423 / 卷數：20 / 連結：高麗大藏經 (圖檔) 千字文：詠-樂"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEX",
+       "created": 1646116897457,
+       "text": "【普寧藏】No.905《根本說一切有部苾芻尼毘柰耶》 卷數：20 千字文：樂(321)-殊(322)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEY",
+       "created": 1646116897457,
+       "text": "【至元錄】No.1210《根本說一切有部苾芻尼毘奈耶》唐天后代三藏義淨譯 卷數：20 千字文：枝(360)-交(361)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEZ",
+       "created": 1646116897457,
+       "text": "【洪武南藏】No.816《根本說一切有部苾芻尼毗柰耶》唐 三藏法師義淨 奉制譯 冊數：113-114 / 頁數：413 / 卷數：20 千字文：樂 1 (321)-殊 10 (322)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEa",
+       "created": 1646116897457,
+       "text": "【永樂南藏】No.1256《根本說一切有部苾芻尼毘柰耶》 部別：小乘律 千字文：上(329)-和(330)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEb",
+       "created": 1646116897457,
+       "text": "【永樂北藏】No.1165《根本說一切有部苾刍尼毗奈耶》唐義淨譯 部別：小乘律 / 冊數：87 / 頁數：405 / 卷數：20 千字文：貴-賤"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEc",
+       "created": 1646116897457,
+       "text": "【嘉興藏】No.1118《根本說苾芻尼毘奈耶》唐義淨譯 部別：小乘律 / 法寶總目錄經號：1117 千字文 / 函號：［正藏］ 貴(323)-賤(324)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEd",
+       "created": 1646116897457,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEe",
+       "created": 1646116897457,
+       "text": "【乾隆藏】No.1119《根本說一切有部苾芻尼毗柰耶》唐 義淨譯 部別：小乘律 / 冊數：72 / 頁數：313 / 卷數：20 千字文：貴賤"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEf",
+       "created": 1646116897457,
+       "text": "【縮刻藏】No.825《根本說一切有部苾芻尼毘奈耶》唐義淨譯 部別：小乘律 / 卷數：20 千字文：張 10 (16)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEg",
+       "created": 1646116897457,
+       "text": "【卍正藏】No.1129《根本說一切有部苾芻尼毗奈耶》義淨譯 部別：小乘律 / 冊數：35 / 頁數：49 / 卷數：20 原版套數：第 19 套"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEh",
+       "created": 1646116897457,
+       "text": "【大正藏】No.1443《根本說一切有部苾芻尼毘奈耶》唐 義淨譯 部別：律部二 / 冊數：23 / 頁數：907 / 卷數：20 相關經典：縮-張10,卍-19.1,國-律22 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxfdLEi",
+       "created": 1646116897457,
+       "text": "【佛教大藏經】No.860《根本說一切有部苾芻尼毘奈耶》唐 義淨譯 部別：小乘律 律部四 / 冊數：32 / 頁數：773 / 卷數：20"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEj",
+       "created": 1646116897457,
+       "text": "【中華藏】No.961《根本說一切有部苾蒭尼毗奈耶》三藏法師義淨奉制譯 冊數：38 / 頁數：754 / 卷數：20 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEk",
+       "created": 1646116897457,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEl",
+       "created": 1646116897457,
+       "text": "【南條文雄編號】 Nj. 1124"
+      }},
+      {"data": {
+       "id": "z5cYxfdLEm",
+       "created": 1646116897457,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1443"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz1t17l",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

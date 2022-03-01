@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說四品法門經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx9fBwn",
+    "created": 1646116895475,
+    "text": "現藏錄（宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx9fBvq",
+      "created": 1646116895475,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx9fBvr",
+        "created": 1646116895475,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9fBvs",
+        "created": 1646116895475,
+        "text": "佛說四品法門經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9fBvt",
+        "created": 1646116895475,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9fBvu",
+        "created": 1646116895475,
+        "text": "佛说四品法门经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9fBvv",
+        "created": 1646116895475,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9fBvw",
+        "created": 1646116895475,
+        "text": "fo shuo si pin fa men jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9fBw4",
+        "created": 1646116895475,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9fBw5",
+        "created": 1646116895475,
+        "text": "Ssu p'in fa men ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9fBw6",
+        "created": 1646116895475,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9fBw7",
+        "created": 1646116895475,
+        "text": "Bahudhātukasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9fBw8",
+        "created": 1646116895475,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9fBw9",
+        "created": 1646116895475,
+        "text": "Khams maṅ-poḥi-mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx9fBwA",
+        "created": 1646116895475,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx9fBwB",
+        "created": 1646116895475,
+        "text": "사품법문경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx9fBvx",
+      "created": 1646116895475,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9fBvy",
+      "created": 1646116895475,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx9fBvz",
+      "created": 1646116895475,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx9fBw0",
+       "created": 1646116895475,
+       "text": "宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYx9fBw1",
+       "created": 1646116895475,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx9fBw2",
+      "created": 1646116895475,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9fBw3",
+      "created": 1646116895475,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx9fBwC",
+      "created": 1646116895475,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9fBwD",
+      "created": 1646116895475,
+      "text": "Translation by Fa-hsien: (see K.1250)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx9fBwE",
+      "created": 1646116895475,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx9fBwF",
+       "created": 1646116895475,
+       "text": "【北京版】Mdo-sna-tshogs (lu)325b-330b"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwG",
+       "created": 1646116895475,
+       "text": "【奈塘版】Mdo-sna-tshogs (ra)460b-468a"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwH",
+       "created": 1646116895475,
+       "text": "【德格版】Mdo-sde (śa)297a-301b"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwI",
+       "created": 1646116895475,
+       "text": "【拉薩版】Mdo-sde (ra)551b-559a"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwJ",
+       "created": 1646116895475,
+       "text": "【卓尼版】Mdo-maṅ (śa)352a-357b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx9fBwK",
+      "created": 1646116895475,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx9fBwL",
+      "created": 1646116895475,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx9fBwM",
+      "created": 1646116895475,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx9fBwN",
+       "created": 1646116895475,
+       "text": "【房山石經】No.1038《佛說四品法門經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：27 / 頁數：239 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：漢"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwO",
+       "created": 1646116895475,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwP",
+       "created": 1646116895475,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwQ",
+       "created": 1646116895475,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwR",
+       "created": 1646116895475,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwS",
+       "created": 1646116895475,
+       "text": "【趙城金藏】No.1273《四品法門經》 卷數：1 千字文：驅"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwT",
+       "created": 1646116895475,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwU",
+       "created": 1646116895475,
+       "text": "【磧砂藏】No.1475《佛說四品法門經》宋 法賢譯 部別： / 冊數：36 / 頁數：340 / 卷數：1 千字文：寔 5 (567)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwV",
+       "created": 1646116895475,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwW",
+       "created": 1646116895475,
+       "text": "【高麗藏】No.1254《四品法門經》譯經大師臣法賢奉詔譯 部別：宋續入藏經 / 冊數：34 頁數：570 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：驅"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwX",
+       "created": 1646116895475,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwY",
+       "created": 1646116895475,
+       "text": "【至元錄】No.1135《四品法門經》宋天竺三藏法賢譯 卷數：1 千字文：睦(332)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwZ",
+       "created": 1646116895475,
+       "text": "【洪武南藏】No.1316《佛說四品法門經》西天譯經三藏朝奉大夫試光祿卿明教大師臣法賢 奉詔譯 冊數：200 / 頁數：87 / 卷數：1 千字文：寔 5 (567)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwa",
+       "created": 1646116895475,
+       "text": "【永樂南藏】No.1052《佛說四品法門經》 部別：宋元入藏諸大小乘經 千字文：思(284)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwb",
+       "created": 1646116895475,
+       "text": "【永樂北藏】No.1028《佛說四品法門經》宋法賢譯 部別：宋元入藏諸大小乘經 / 冊數：71 / 頁數：146 / 卷數：1 千字文：斯"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwc",
+       "created": 1646116895475,
+       "text": "【嘉興藏】No.990《四品法門經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0990 千字文 / 函號：［正藏］ 斯(267)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwd",
+       "created": 1646116895475,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwe",
+       "created": 1646116895475,
+       "text": "【乾隆藏】No.991《佛說四品法門經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：60 / 頁數：70 / 卷數：1 千字文：斯"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwf",
+       "created": 1646116895475,
+       "text": "【縮刻藏】No.667《佛說四品法門經》宋法賢譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwg",
+       "created": 1646116895475,
+       "text": "【卍正藏】No.1000《佛說四品法門經》法賢譯 部別：宋元入藏諸大小乘經 / 冊數：29 / 頁數：28 / 卷數：1 原版套數：第 16 套"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwh",
+       "created": 1646116895475,
+       "text": "【大正藏】No.776《佛說四品法門經》宋 法賢譯 部別：經集部四 / 冊數：17 / 頁數：712 / 卷數：1 相關經典：縮-宿7,卍-16.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx9fBwi",
+       "created": 1646116895475,
+       "text": "【佛教大藏經】No.687《佛說四品法門經》宋 法賢譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：238 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwj",
+       "created": 1646116895475,
+       "text": "【中華藏】No.1382《佛說四品法門經》西天譯經三藏朝奉大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：940 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwk",
+       "created": 1646116895475,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwl",
+       "created": 1646116895475,
+       "text": "【南條文雄編號】 Nj. 0996"
+      }},
+      {"data": {
+       "id": "z5cYx9fBwm",
+       "created": 1646116895475,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：776"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxirnm",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

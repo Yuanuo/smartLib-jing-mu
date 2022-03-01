@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛為娑伽羅龍王所說大乘經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx1B9Qt",
+    "created": 1646116894949,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx1A9Pw",
+      "created": 1646116894948,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx1A9Px",
+        "created": 1646116894948,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1A9Py",
+        "created": 1646116894948,
+        "text": "佛為娑伽羅龍王所說大乘經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1A9Pz",
+        "created": 1646116894948,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1A9Q0",
+        "created": 1646116894948,
+        "text": "佛为娑伽罗龙王所说大乘经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1A9Q1",
+        "created": 1646116894948,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1A9Q2",
+        "created": 1646116894948,
+        "text": "fo wei suo jia luo long wang suo shuo da cheng jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1A9QA",
+        "created": 1646116894948,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1A9QB",
+        "created": 1646116894948,
+        "text": "Fo wei so ch'ieh lo lung wang so shuo ta ch'eng ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1A9QC",
+        "created": 1646116894948,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1A9QD",
+        "created": 1646116894948,
+        "text": "Sāgaranāgarājaparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1A9QE",
+        "created": 1646116894948,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1A9QF",
+        "created": 1646116894948,
+        "text": "Kluḥi rgyal-po rgya-mtshos shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1A9QG",
+        "created": 1646116894948,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1A9QH",
+        "created": 1646116894948,
+        "text": "불위사가라용왕소설대승경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx1A9Q3",
+      "created": 1646116894948,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1A9Q4",
+      "created": 1646116894948,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1A9Q5",
+      "created": 1646116894948,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx1A9Q6",
+       "created": 1646116894948,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYx1A9Q7",
+       "created": 1646116894948,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx1A9Q8",
+      "created": 1646116894948,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1A9Q9",
+      "created": 1646116894948,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1A9QI",
+      "created": 1646116894948,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1A9QJ",
+      "created": 1646116894948,
+      "text": "Translation by Dānapāla: (see K.1096)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1A9QK",
+      "created": 1646116894948,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx1A9QL",
+       "created": 1646116894948,
+       "text": "【北京版】Mdo-na-tshogs (pu)206a-213a"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QM",
+       "created": 1646116894948,
+       "text": "【奈塘版】Mdo (na)305b-317a"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QN",
+       "created": 1646116894948,
+       "text": "【德格版】Mdo-sde (pha)198a-205a"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QO",
+       "created": 1646116894948,
+       "text": "【拉薩版】Mdo (na)303a-313b"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QP",
+       "created": 1646116894948,
+       "text": "【卓尼版】Mdo-maṅ (pha)239b-248a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx1A9QQ",
+      "created": 1646116894948,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1A9QR",
+      "created": 1646116894948,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1A9QS",
+      "created": 1646116894948,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx1A9QT",
+       "created": 1646116894948,
+       "text": "【房山石經】No.913《佛為娑伽羅龍王所說大乘經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：26 / 頁數：265 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：奄"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QU",
+       "created": 1646116894948,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QV",
+       "created": 1646116894948,
+       "text": "【崇寧藏】No.1145《佛為娑伽羅龍王所說大乘經》 卷數：1 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QW",
+       "created": 1646116894948,
+       "text": "【毘盧藏】No.1146《佛為娑伽羅龍王所說大乘經》三藏施護譯 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QX",
+       "created": 1646116894948,
+       "text": "【圓覺藏】No.1155《佛為娑伽羅龍王所說大乘經》 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYx1A9QY",
+       "created": 1646116894948,
+       "text": "【趙城金藏】No.1141《佛為娑伽羅龍王所說大乘經》 卷數：1 千字文：將"
+      }},
+      {"data": {
+       "id": "z5cYx1B9QZ",
+       "created": 1646116894949,
+       "text": "【資福藏】No.1160《佛為娑伽羅龍王所說大乘經》 卷數：1 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qa",
+       "created": 1646116894949,
+       "text": "【磧砂藏】No.1169《佛為娑伽羅龍王所說大乘經》宋 施護譯 部別： / 冊數：32 / 頁數：766 / 卷數：1 千字文：八 6 (499)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qb",
+       "created": 1646116894949,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qc",
+       "created": 1646116894949,
+       "text": "【高麗藏】No.1140《佛爲娑伽羅龍王所說大乘經》西天三藏明教大師天息災譯 部別：宋續入藏經 / 冊數：33 頁數：1176 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：將"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qd",
+       "created": 1646116894949,
+       "text": "【普寧藏】No.1160《佛為娑伽羅龍王所說大乘經》 卷數：1 千字文：八(499)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qe",
+       "created": 1646116894949,
+       "text": "【至元錄】No.513《佛為娑伽羅龍王所說大乘經》宋西域三藏施護等譯 梵名：阿唎(二合)亞　薩迦囉　拏迦阿囉(二合)扎八哩巴哩赤(三合)摩訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：賢(204)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qf",
+       "created": 1646116894949,
+       "text": "【洪武南藏】No.1022《佛為娑伽龍王所說大乘經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師臣施護 奉詔譯 冊數：180 / 頁數：301 / 卷數：1 千字文：八 6 (499)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qg",
+       "created": 1646116894949,
+       "text": "【永樂南藏】No.829《佛為娑伽羅龍王所說大乘經》 部別：宋元入藏諸大小乘經 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qh",
+       "created": 1646116894949,
+       "text": "【永樂北藏】No.871《佛為娑伽羅龍王所說大乘法經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：847 / 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qi",
+       "created": 1646116894949,
+       "text": "【嘉興藏】No.834《佛為娑伽羅龍王所說大乘法經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0834 千字文 / 函號：［正藏］ 盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qj",
+       "created": 1646116894949,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qk",
+       "created": 1646116894949,
+       "text": "【乾隆藏】No.835《佛為娑伽羅龍王所說大乘法經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：191 / 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Ql",
+       "created": 1646116894949,
+       "text": "【縮刻藏】No.778《佛為娑伽羅龍王所說大乘經》宋施護譯 部別：大乘律 / 卷數：1 千字文：列 1 (15)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qm",
+       "created": 1646116894949,
+       "text": "【卍正藏】No.844《佛為娑伽羅龍王所說大乘經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：611 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qn",
+       "created": 1646116894949,
+       "text": "【大正藏】No.601《佛為娑伽羅龍王所說大乘經》宋 施護譯 部別：經集部二 / 冊數：15 / 頁數：159 / 卷數：1 相關經典：縮-列1,卍-15.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qo",
+       "created": 1646116894949,
+       "text": "【佛教大藏經】No.812《佛為娑伽羅龍王所說大乘經》宋 施護譯 部別：大乘律 律部一 / 冊數：29 / 頁數：155 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qp",
+       "created": 1646116894949,
+       "text": "【中華藏】No.1250《佛為娑伽羅龍王所說大乘經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：64 / 頁數：122 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qq",
+       "created": 1646116894949,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qr",
+       "created": 1646116894949,
+       "text": "【南條文雄編號】 Nj. 0840"
+      }},
+      {"data": {
+       "id": "z5cYx1B9Qs",
+       "created": 1646116894949,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：601"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx44ip",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

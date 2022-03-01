@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "真心要決"},
+  "children": [{
+   "data": {
+    "id": "z5cYyG4WZx",
+    "created": 1646116899716,
+    "text": "現藏錄（日本 良遍撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyG4WZI",
+      "created": 1646116899716,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyG4WZJ",
+        "created": 1646116899716,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyG4WZK",
+        "created": 1646116899716,
+        "text": "真心要決",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyG4WZL",
+        "created": 1646116899716,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyG4WZM",
+        "created": 1646116899716,
+        "text": "真心要决",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyG4WZN",
+        "created": 1646116899716,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyG4WZO",
+        "created": 1646116899716,
+        "text": "zhen xin yao jue"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyG4WZP",
+      "created": 1646116899716,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyG4WZQ",
+      "created": 1646116899716,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyG4WZR",
+      "created": 1646116899716,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyG4WZS",
+       "created": 1646116899716,
+       "text": "日本 良遍撰"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZT",
+       "created": 1646116899716,
+       "text": "良遍",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyG4WZU",
+      "created": 1646116899716,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyG4WZV",
+      "created": 1646116899716,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyG4WZW",
+      "created": 1646116899716,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyG4WZX",
+       "created": 1646116899716,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZY",
+       "created": 1646116899716,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZZ",
+       "created": 1646116899716,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZa",
+       "created": 1646116899716,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZb",
+       "created": 1646116899716,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZc",
+       "created": 1646116899716,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZd",
+       "created": 1646116899716,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZe",
+       "created": 1646116899716,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZf",
+       "created": 1646116899716,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZg",
+       "created": 1646116899716,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZh",
+       "created": 1646116899716,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZi",
+       "created": 1646116899716,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZj",
+       "created": 1646116899716,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZk",
+       "created": 1646116899716,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZl",
+       "created": 1646116899716,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZm",
+       "created": 1646116899716,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZn",
+       "created": 1646116899716,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZo",
+       "created": 1646116899716,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZp",
+       "created": 1646116899716,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZq",
+       "created": 1646116899716,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZr",
+       "created": 1646116899716,
+       "text": "【大正藏】No.2313《真心要決》日本 良遍撰 部別：續諸宗部二 / 冊數：71 / 頁數：89 / 卷數：3 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyG4WZs",
+       "created": 1646116899716,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZt",
+       "created": 1646116899716,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZu",
+       "created": 1646116899716,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZv",
+       "created": 1646116899716,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG4WZw",
+       "created": 1646116899716,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2313"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0sk1xi",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

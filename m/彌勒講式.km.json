@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "彌勒講式"},
+  "children": [{
+   "data": {
+    "id": "z5cYyWxbFO",
+    "created": 1646116900763,
+    "text": "現藏錄（日本 貞慶撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyWxbEj",
+      "created": 1646116900763,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyWxbEk",
+        "created": 1646116900763,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWxbEl",
+        "created": 1646116900763,
+        "text": "彌勒講式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyWxbEm",
+        "created": 1646116900763,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWxbEn",
+        "created": 1646116900763,
+        "text": "弥勒讲式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyWxbEo",
+        "created": 1646116900763,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWxbEp",
+        "created": 1646116900763,
+        "text": "mi le jiang shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyWxbEq",
+      "created": 1646116900763,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyWxbEr",
+      "created": 1646116900763,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyWxbEs",
+      "created": 1646116900763,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyWxbEt",
+       "created": 1646116900763,
+       "text": "日本 貞慶撰"
+      }},
+      {"data": {
+       "id": "z5cYyWxbEu",
+       "created": 1646116900763,
+       "text": "貞慶",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyWxbEv",
+      "created": 1646116900763,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyWxbEw",
+      "created": 1646116900763,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyWxbEx",
+      "created": 1646116900763,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyWxbEy",
+       "created": 1646116900763,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbEz",
+       "created": 1646116900763,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF0",
+       "created": 1646116900763,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF1",
+       "created": 1646116900763,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF2",
+       "created": 1646116900763,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF3",
+       "created": 1646116900763,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF4",
+       "created": 1646116900763,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF5",
+       "created": 1646116900763,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF6",
+       "created": 1646116900763,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF7",
+       "created": 1646116900763,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF8",
+       "created": 1646116900763,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbF9",
+       "created": 1646116900763,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFA",
+       "created": 1646116900763,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFB",
+       "created": 1646116900763,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFC",
+       "created": 1646116900763,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFD",
+       "created": 1646116900763,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFE",
+       "created": 1646116900763,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFF",
+       "created": 1646116900763,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFG",
+       "created": 1646116900763,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFH",
+       "created": 1646116900763,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFI",
+       "created": 1646116900763,
+       "text": "【大正藏】No.2729《彌勒講式》日本 貞慶撰 部別：悉曇部全 / 冊數：84 / 頁數：887 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyWxbFJ",
+       "created": 1646116900763,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFK",
+       "created": 1646116900763,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFL",
+       "created": 1646116900763,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFM",
+       "created": 1646116900763,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWxbFN",
+       "created": 1646116900763,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2729"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1ln29f",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

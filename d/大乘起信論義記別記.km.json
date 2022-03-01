@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大乘起信論義記別記"},
+  "children": [{
+   "data": {
+    "id": "z5cYxxcQje",
+    "created": 1646116898572,
+    "text": "現藏錄（唐 法藏撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxxcQiz",
+      "created": 1646116898572,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxxcQj0",
+        "created": 1646116898572,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxcQj1",
+        "created": 1646116898572,
+        "text": "大乘起信論義記別記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxxcQj2",
+        "created": 1646116898572,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxcQj3",
+        "created": 1646116898572,
+        "text": "大乘起信论义记别记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxxcQj4",
+        "created": 1646116898572,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxxcQj5",
+        "created": 1646116898572,
+        "text": "da cheng qi xin lun yi ji bie ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxxcQj6",
+      "created": 1646116898572,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxxcQj7",
+      "created": 1646116898572,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxxcQj8",
+      "created": 1646116898572,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxxcQj9",
+       "created": 1646116898572,
+       "text": "唐 法藏撰"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjA",
+       "created": 1646116898572,
+       "text": "達摩笈多",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxxcQjB",
+      "created": 1646116898572,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxxcQjC",
+      "created": 1646116898572,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxxcQjD",
+      "created": 1646116898572,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxxcQjE",
+       "created": 1646116898572,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjF",
+       "created": 1646116898572,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjG",
+       "created": 1646116898572,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjH",
+       "created": 1646116898572,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjI",
+       "created": 1646116898572,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjJ",
+       "created": 1646116898572,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjK",
+       "created": 1646116898572,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjL",
+       "created": 1646116898572,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjM",
+       "created": 1646116898572,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjN",
+       "created": 1646116898572,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjO",
+       "created": 1646116898572,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjP",
+       "created": 1646116898572,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjQ",
+       "created": 1646116898572,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjR",
+       "created": 1646116898572,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjS",
+       "created": 1646116898572,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjT",
+       "created": 1646116898572,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjU",
+       "created": 1646116898572,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjV",
+       "created": 1646116898572,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjW",
+       "created": 1646116898572,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjX",
+       "created": 1646116898572,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjY",
+       "created": 1646116898572,
+       "text": "【大正藏】No.1847《大乘起信論義記別記》唐 法藏撰 部別：論疏部五 / 冊數：44 / 頁數：287 / 卷數：1 相關經典：續-1.71.5 參考資料：cf.Nos.1666,1846,1848"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjZ",
+       "created": 1646116898572,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQja",
+       "created": 1646116898572,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjb",
+       "created": 1646116898572,
+       "text": "【新纂卍續藏】No.761《起信論別記》唐 法藏撰 部別：中國撰述 大小乘釋論部一 起信論疏 / 冊數：45 / 頁數：327 / 卷數：1 《卍大日本續藏經》套數：第一編．第 71 套 《卍續藏經》(新文豐版)冊數：第 71 冊"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjc",
+       "created": 1646116898572,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxxcQjd",
+       "created": 1646116898572,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1847"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzws1j7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "文殊師利問菩提經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwtY7RL",
+    "created": 1646116894476,
+    "text": "現藏錄（姚秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwtX7QO",
+      "created": 1646116894475,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwtX7QP",
+        "created": 1646116894475,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtX7QQ",
+        "created": 1646116894475,
+        "text": "文殊師利問菩提經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtX7QR",
+        "created": 1646116894475,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtX7QS",
+        "created": 1646116894475,
+        "text": "文殊师利问菩提经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtX7QT",
+        "created": 1646116894475,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtX7QU",
+        "created": 1646116894475,
+        "text": "wen shu shi li wen pu ti jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtX7Qc",
+        "created": 1646116894475,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtX7Qd",
+        "created": 1646116894475,
+        "text": "Wen shu shih li wen p'u t'i ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtX7Qe",
+        "created": 1646116894475,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtX7Qf",
+        "created": 1646116894475,
+        "text": "Gayāśīrṣasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtX7Qg",
+        "created": 1646116894475,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtX7Qh",
+        "created": 1646116894475,
+        "text": "Ga-ya mgoḥi ri"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtX7Qi",
+        "created": 1646116894475,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtX7Qj",
+        "created": 1646116894475,
+        "text": "문수사리문보제경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwtX7QV",
+      "created": 1646116894475,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtX7QW",
+      "created": 1646116894475,
+      "text": "姚秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtX7QX",
+      "created": 1646116894475,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwtX7QY",
+       "created": 1646116894475,
+       "text": "姚秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYwtX7QZ",
+       "created": 1646116894475,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwtX7Qa",
+      "created": 1646116894475,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtX7Qb",
+      "created": 1646116894475,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtX7Qk",
+      "created": 1646116894475,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtX7Ql",
+      "created": 1646116894475,
+      "text": "Translation by Kumārajīva: between the 4th and 14th years of Hung Shih (弘始), Later Ch'in dynasty (後奏) (A.D. 402-412).T. 2154-512c:14."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtX7Qm",
+      "created": 1646116894475,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwtX7Qn",
+       "created": 1646116894475,
+       "text": "【北京版】Mdo'sna-tshogs(hu)313b-321"
+      }},
+      {"data": {
+       "id": "z5cYwtX7Qo",
+       "created": 1646116894475,
+       "text": "【奈塘版】Mdo (ca)456b-468"
+      }},
+      {"data": {
+       "id": "z5cYwtX7Qp",
+       "created": 1646116894475,
+       "text": "【德格版】Mdo-sde (ca)285a-292a"
+      }},
+      {"data": {
+       "id": "z5cYwtX7Qq",
+       "created": 1646116894475,
+       "text": "【拉薩版】Mdo (ca)462a-473a"
+      }},
+      {"data": {
+       "id": "z5cYwtX7Qr",
+       "created": 1646116894475,
+       "text": "【卓尼版】Mdo-maṅ (ca)351a-359a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwtY7Qs",
+      "created": 1646116894476,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtY7Qt",
+      "created": 1646116894476,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtY7Qu",
+      "created": 1646116894476,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwtY7Qv",
+       "created": 1646116894476,
+       "text": "【房山石經】No.229《文殊師利問菩提經》(姚秦)三藏鳩摩羅什譯 冊數：3 / 頁數：518 / 卷數：1 / 刻經年代： / 瀏覽：目錄圖檔 千字文： 【房山石經】No.449《文殊師利問菩提經》(姚秦)三藏鳩摩羅什譯 冊數：10 / 頁數：421 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwtY7Qw",
+       "created": 1646116894476,
+       "text": "【開寶藏】No.223《文殊師利問菩薩提經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwtY7Qx",
+       "created": 1646116894476,
+       "text": "【崇寧藏】No.224《文殊師利問菩提經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7Qy",
+       "created": 1646116894476,
+       "text": "【毘盧藏】No.220《文殊師利問菩提經》姚秦鳩摩羅什譯 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7Qz",
+       "created": 1646116894476,
+       "text": "【圓覺藏】No.238《文殊師利問菩提經》 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R0",
+       "created": 1646116894476,
+       "text": "【趙城金藏】No.222《文殊師利問菩提經》 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R1",
+       "created": 1646116894476,
+       "text": "【資福藏】No.242《文殊師利問菩提經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R2",
+       "created": 1646116894476,
+       "text": "【磧砂藏】No.243《文殊師利問菩提經》姚秦 鳩摩羅什譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：129 / 卷數：1 千字文：毀 5 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R3",
+       "created": 1646116894476,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R4",
+       "created": 1646116894476,
+       "text": "【高麗藏】No.222《文殊師利問菩提經》姚秦龜茲三藏鳩摩羅什譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：419 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R5",
+       "created": 1646116894476,
+       "text": "【普寧藏】No.237《文殊師利問菩提經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R6",
+       "created": 1646116894476,
+       "text": "【至元錄】No.300《文殊師利問菩提經》姚秦三藏鳩摩羅什譯 卷數：1 / 譯次：(第一譯) 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R7",
+       "created": 1646116894476,
+       "text": "【洪武南藏】No.210《文殊師利問菩薩經》姚秦 三藏法師鳩摩羅什 初譯 冊數：54 / 頁數：234 / 卷數：1 千字文：毀 5 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R8",
+       "created": 1646116894476,
+       "text": "【永樂南藏】No.232《文珠師利問菩提經》 部別：大乘經-五大部外重譯經 千字文：男(165)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7R9",
+       "created": 1646116894476,
+       "text": "【永樂北藏】No.262《文殊師利問菩提經》姚秦鳩摩羅什譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：479 / 卷數：1 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RA",
+       "created": 1646116894476,
+       "text": "【嘉興藏】No.233《文殊問菩提經》姚秦鳩摩羅什譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0233 千字文 / 函號：［正藏］ 男(165)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RB",
+       "created": 1646116894476,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RC",
+       "created": 1646116894476,
+       "text": "【乾隆藏】No.234《文殊師利問菩提經》姚秦 鳩摩羅什初譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：261 / 卷數：1 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RD",
+       "created": 1646116894476,
+       "text": "【縮刻藏】No.250《文殊師利問菩提經》姚秦鳩摩羅什譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 2 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RE",
+       "created": 1646116894476,
+       "text": "【卍正藏】No.238《文殊師利問菩提經》姚秦 鳩摩羅什譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：1 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RF",
+       "created": 1646116894476,
+       "text": "【大正藏】No.464《文殊師利問菩提經》姚秦 鳩摩羅什譯 部別：經集部一 / 冊數：14 / 頁數：481 / 卷數：1 相關經典：縮-宙2,卍-10.6,國-經15 參考資料：Nos.465-467"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RG",
+       "created": 1646116894476,
+       "text": "【佛教大藏經】No.253《文殊師利問菩提經》姚秦 鳩摩羅什譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：197 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RH",
+       "created": 1646116894476,
+       "text": "【中華藏】No.240《文殊師利問菩提經》姚秦龜茲三藏鳩摩羅什譯 冊數：19 / 頁數：90 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RI",
+       "created": 1646116894476,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RJ",
+       "created": 1646116894476,
+       "text": "【南條文雄編號】 Nj. 0238"
+      }},
+      {"data": {
+       "id": "z5cYwtY7RK",
+       "created": 1646116894476,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：464"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwqzet",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

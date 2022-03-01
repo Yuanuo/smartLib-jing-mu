@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "大方等無想經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwoc69Y",
+    "created": 1646116894170,
+    "text": "現藏錄（北涼 曇無讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwob68b",
+      "created": 1646116894169,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwob68c",
+        "created": 1646116894169,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwob68d",
+        "created": 1646116894169,
+        "text": "大方等無想經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwob68e",
+        "created": 1646116894169,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwob68f",
+        "created": 1646116894169,
+        "text": "大方等无想经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwob68g",
+        "created": 1646116894169,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwob68h",
+        "created": 1646116894169,
+        "text": "da fang deng wu xiang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwob68p",
+        "created": 1646116894169,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwob68q",
+        "created": 1646116894169,
+        "text": "Ta fang teng wu hsiangching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwob68r",
+        "created": 1646116894169,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwob68s",
+        "created": 1646116894169,
+        "text": "Mahāmeghasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwob68t",
+        "created": 1646116894169,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwob68u",
+        "created": 1646116894169,
+        "text": "Sprin chen-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwob68v",
+        "created": 1646116894169,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwob68w",
+        "created": 1646116894169,
+        "text": "대방등무상경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwob68i",
+      "created": 1646116894169,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwob68j",
+      "created": 1646116894169,
+      "text": "北涼",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwob68k",
+      "created": 1646116894169,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwob68l",
+       "created": 1646116894169,
+       "text": "北涼 曇無讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwob68m",
+       "created": 1646116894169,
+       "text": "曇無讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwob68n",
+      "created": 1646116894169,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwob68o",
+      "created": 1646116894169,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwob68x",
+      "created": 1646116894169,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwob68y",
+      "created": 1646116894169,
+      "text": "Translation by Dharmakṣema: between the 3rd and 10th years of Hsüan Shih (玄始), Northern Liang dynasty (北涼) (A.D. 414-421).T.2151-360:24"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwob68z",
+      "created": 1646116894169,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwob690",
+       "created": 1646116894169,
+       "text": "【北京版】Mdo-sna-tshogs (dsu)121a-237a"
+      }},
+      {"data": {
+       "id": "z5cYwob691",
+       "created": 1646116894169,
+       "text": "【奈塘版】Mdo (tsha)175b-331a"
+      }},
+      {"data": {
+       "id": "z5cYwob692",
+       "created": 1646116894169,
+       "text": "【德格版】Mdo-sde (wa)113a-214b"
+      }},
+      {"data": {
+       "id": "z5cYwob693",
+       "created": 1646116894169,
+       "text": "【拉薩版】Mdotsha180a-337b"
+      }},
+      {"data": {
+       "id": "z5cYwob694",
+       "created": 1646116894169,
+       "text": "【卓尼版】Mdo-maṅ(wa)141a-266b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwob695",
+      "created": 1646116894169,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwob696",
+      "created": 1646116894169,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwob697",
+      "created": 1646116894169,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwob698",
+       "created": 1646116894169,
+       "text": "【房山石經】No.425《大方等無相經》(北涼)天竺三藏曇無讖譯 冊數：10 / 頁數：247 / 卷數：6 / 刻經年代：大安三年刻石 / 瀏覽：目錄圖檔 千字文：常"
+      }},
+      {"data": {
+       "id": "z5cYwob699",
+       "created": 1646116894169,
+       "text": "【開寶藏】No.165《大方等無相經》北涼 天竺三藏曇無讖 譯 部別：大乘經 五大部外諸重譯經 / 卷數：6 千字文：大"
+      }},
+      {"data": {
+       "id": "z5cYwob69A",
+       "created": 1646116894169,
+       "text": "【崇寧藏】No.166《大方等大雲經》 卷數：4 千字文：五(151)"
+      }},
+      {"data": {
+       "id": "z5cYwob69B",
+       "created": 1646116894169,
+       "text": "【毘盧藏】No.162《大方等大雲經》北涼曇無讖譯 參考年代：(靖康元．九、十) 千字文：五(151)"
+      }},
+      {"data": {
+       "id": "z5cYwob69C",
+       "created": 1646116894169,
+       "text": "【圓覺藏】No.163《大方等大雲經》 卷數：4 千字文：五(151)"
+      }},
+      {"data": {
+       "id": "z5cYwob69D",
+       "created": 1646116894169,
+       "text": "【趙城金藏】No.164《大方等無想經》 卷數：6 千字文：大"
+      }},
+      {"data": {
+       "id": "z5cYwob69E",
+       "created": 1646116894169,
+       "text": "【資福藏】No.167《大方等大雲經》 卷數：4 (四卷) 千字文：五(151)"
+      }},
+      {"data": {
+       "id": "z5cYwob69F",
+       "created": 1646116894169,
+       "text": "【磧砂藏】No.167《大方等大雲經》北涼 曇無讖譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：547 / 卷數：4 千字文：五 1 (151)-五 4 (151)"
+      }},
+      {"data": {
+       "id": "z5cYwob69G",
+       "created": 1646116894169,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwob69H",
+       "created": 1646116894169,
+       "text": "【高麗藏】No.164《大方等無想經》北天竺三藏曇無讖譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：1075 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：大"
+      }},
+      {"data": {
+       "id": "z5cYwob69I",
+       "created": 1646116894169,
+       "text": "【普寧藏】No.162《大方等大雲經》 卷數：4 千字文：五(151)"
+      }},
+      {"data": {
+       "id": "z5cYwob69J",
+       "created": 1646116894169,
+       "text": "【至元錄】No.243《大方等大雲經》北涼天竺三藏曇無讖譯 卷數：6 / 譯次：(第二譯)(兩譯一闕) 千字文：貞(163)"
+      }},
+      {"data": {
+       "id": "z5cYwob69K",
+       "created": 1646116894169,
+       "text": "【洪武南藏】No.150《大方等大雲經》北涼 天竺三藏法師曇無懺 譯 冊數：51 / 頁數：344 / 卷數：4 千字文：五 1 (151)-五 4 (151)"
+      }},
+      {"data": {
+       "id": "z5cYwob69L",
+       "created": 1646116894169,
+       "text": "【永樂南藏】No.175《大方等大雲經》 部別：大乘經-五大部外重譯經 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwob69M",
+       "created": 1646116894169,
+       "text": "【永樂北藏】No.268《大方等大雲經》北涼曇無讖譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：549 / 卷數：4 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYwob69N",
+       "created": 1646116894169,
+       "text": "【嘉興藏】No.240《大方等大雲經》北涼曇無讖譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0240 千字文 / 函號：［正藏］ 男(165)"
+      }},
+      {"data": {
+       "id": "z5cYwob69O",
+       "created": 1646116894169,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwob69P",
+       "created": 1646116894169,
+       "text": "【乾隆藏】No.240《大方等大雲經》北涼 曇無讖譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：313 / 卷數：4 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYwob69Q",
+       "created": 1646116894169,
+       "text": "【縮刻藏】No.447《大方等無想經》北涼曇無讖譯 部別：大乘經-涅槃部 / 卷數：6 千字文：盈 10 (11)"
+      }},
+      {"data": {
+       "id": "z5cYwob69R",
+       "created": 1646116894169,
+       "text": "【卍正藏】No.244《大方等無想經》北涼 曇無讖譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：29 / 卷數：6 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwoc69S",
+       "created": 1646116894170,
+       "text": "【大正藏】No.387《大方等無想經》北涼 曇無讖譯 部別：涅槃部全 / 冊數：12 / 頁數：1077 / 卷數：6 相關經典：縮-盈10,卍-10.6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwoc69T",
+       "created": 1646116894170,
+       "text": "【佛教大藏經】No.455《大方等無想經》北涼 曇無讖譯 部別：大乘經 涅槃部全 / 冊數：22 / 頁數：1081 / 卷數：6"
+      }},
+      {"data": {
+       "id": "z5cYwoc69U",
+       "created": 1646116894170,
+       "text": "【中華藏】No.173《大方等無想經》北涼三藏曇無讖譯 冊數：18 / 頁數：1 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwoc69V",
+       "created": 1646116894170,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwoc69W",
+       "created": 1646116894170,
+       "text": "【南條文雄編號】 Nj. 0244"
+      }},
+      {"data": {
+       "id": "z5cYwoc69X",
+       "created": 1646116894170,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：387"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwihc9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "阿差末菩薩經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwq86W4",
+    "created": 1646116894264,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwq86V7",
+      "created": 1646116894264,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwq86V8",
+        "created": 1646116894264,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwq86V9",
+        "created": 1646116894264,
+        "text": "阿差末菩薩經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwq86VA",
+        "created": 1646116894264,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwq86VB",
+        "created": 1646116894264,
+        "text": "阿差末菩萨经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwq86VC",
+        "created": 1646116894264,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwq86VD",
+        "created": 1646116894264,
+        "text": "a cha mo pu sa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwq86VL",
+        "created": 1646116894264,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwq86VM",
+        "created": 1646116894264,
+        "text": "A ch'a mo p'u sa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwq86VN",
+        "created": 1646116894264,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwq86VO",
+        "created": 1646116894264,
+        "text": "Akṣayamati(nirdeśa)sūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwq86VP",
+        "created": 1646116894264,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwq86VQ",
+        "created": 1646116894264,
+        "text": "Blo-gros-mi-zod-pas bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwq86VR",
+        "created": 1646116894264,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwq86VS",
+        "created": 1646116894264,
+        "text": "아차말보살경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwq86VE",
+      "created": 1646116894264,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwq86VF",
+      "created": 1646116894264,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwq86VG",
+      "created": 1646116894264,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwq86VH",
+       "created": 1646116894264,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwq86VI",
+       "created": 1646116894264,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwq86VJ",
+      "created": 1646116894264,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwq86VK",
+      "created": 1646116894264,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwq86VT",
+      "created": 1646116894264,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwq86VU",
+      "created": 1646116894264,
+      "text": "Translation by Dharmarakṣa: 1st day, 12th month, 1st year of Yung Chia (永嘉), Western Chin dynasty (西晉) (Jan. 10th, A.D. 308).T. 2149-233a:5."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwq86VV",
+      "created": 1646116894264,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwq86VW",
+       "created": 1646116894264,
+       "text": "【北京版】Mdo-sna-tshogs (bu)82b-180a"
+      }},
+      {"data": {
+       "id": "z5cYwq86VX",
+       "created": 1646116894264,
+       "text": "【奈塘版】Mdo (pha)124a-274a"
+      }},
+      {"data": {
+       "id": "z5cYwq86VY",
+       "created": 1646116894264,
+       "text": "【德格版】Mdo-sde (ma)79a-174b"
+      }},
+      {"data": {
+       "id": "z5cYwq86VZ",
+       "created": 1646116894264,
+       "text": "【拉薩版】Mdo (pha)122b-270b"
+      }},
+      {"data": {
+       "id": "z5cYwq86Va",
+       "created": 1646116894264,
+       "text": "【卓尼版】Mdo-maṅ (ma)88b-205a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwq86Vb",
+      "created": 1646116894264,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwq86Vc",
+      "created": 1646116894264,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwq86Vd",
+      "created": 1646116894264,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwq86Ve",
+       "created": 1646116894264,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vf",
+       "created": 1646116894264,
+       "text": "【開寶藏】No.71《阿差末菩薩經》西晉 月支三藏竺法護 譯 部別：大乘經 大集部 / 卷數：7 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vg",
+       "created": 1646116894264,
+       "text": "【崇寧藏】No.72《阿差末菩薩經》 卷數：7 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vh",
+       "created": 1646116894264,
+       "text": "【毘盧藏】No.68《阿差末菩薩經》西晉竺法護譯 參考年代：(元豊八．五) 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vi",
+       "created": 1646116894264,
+       "text": "【圓覺藏】No.69《阿差末經》 卷數：7 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vj",
+       "created": 1646116894264,
+       "text": "【趙城金藏】No.70《阿差末菩薩經》 卷數：7 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vk",
+       "created": 1646116894264,
+       "text": "【資福藏】No.72《阿差末菩薩經》 卷數：7 (七卷) 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vl",
+       "created": 1646116894264,
+       "text": "【磧砂藏】No.72《阿差末菩薩經》晉 竺法護譯 部別：大集部 / 冊數：7 / 頁數：143 / 卷數：7 千字文：周 1 (101)-周 7 (101)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vm",
+       "created": 1646116894264,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vn",
+       "created": 1646116894264,
+       "text": "【高麗藏】No.70《阿差末菩薩經》西晉月氏國三藏竺法護譯 部別：大乘經 大集部 / 冊數：7 頁數：963 / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vo",
+       "created": 1646116894264,
+       "text": "【普寧藏】No.69《阿差末菩薩經》 卷數：7 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vp",
+       "created": 1646116894264,
+       "text": "【至元錄】No.141《阿差摩經》西晉天竺三藏竺法護譯 梵名：阿唎(二合)亞　阿吃(二合)沙囉麻提　儞哩(二合)庇沙拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：7 / 譯次：(第三譯) 千字文：坐(105)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vq",
+       "created": 1646116894264,
+       "text": "【洪武南藏】No.68《阿差末菩薩經》西晉 三藏竺法護 譯 冊數：36 / 頁數：196 / 卷數：7 千字文：周 1 (101)-周 7 (101)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vr",
+       "created": 1646116894264,
+       "text": "【永樂南藏】No.69《阿差末菩薩經》 部別：大乘經-大集部 千字文：罪(100)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vs",
+       "created": 1646116894264,
+       "text": "【永樂北藏】No.90《阿差末菩薩經》西晉竺法護譯 部別：大乘經大集部 / 冊數：25 / 頁數：801 / 卷數：7 千字文：伐"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vt",
+       "created": 1646116894264,
+       "text": "【嘉興藏】No.70《般舟三昧經》後漢支婁迦讖譯 部別：大乘經-大集部 / 法寶總目錄經號：0070 千字文 / 函號：［正藏］ 伐(99)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vu",
+       "created": 1646116894264,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vv",
+       "created": 1646116894264,
+       "text": "【乾隆藏】No.70《阿差末菩薩經》西晉 竺法護譯 部別：大乘大集部 / 冊數：22 / 頁數：541 / 卷數：7 千字文：伐"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vw",
+       "created": 1646116894264,
+       "text": "【縮刻藏】No.89《阿差末菩薩經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：7 千字文：玄 5 (3)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vx",
+       "created": 1646116894264,
+       "text": "【卍正藏】No.73《阿差末菩薩經》西晉 竺法護譯 部別：大乘經 大集部 / 冊數：11 / 頁數：1 / 卷數：7 原版套數：第 7 套"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vy",
+       "created": 1646116894264,
+       "text": "【大正藏】No.403《阿差末菩薩經》西晉 竺法護譯 部別：大集部全 / 冊數：13 / 頁數：583 / 卷數：7 相關經典：縮-玄5,卍-7.1 參考資料：No.397(12)"
+      }},
+      {"data": {
+       "id": "z5cYwq86Vz",
+       "created": 1646116894264,
+       "text": "【佛教大藏經】No.87《阿差末菩薩經》西晉 竺法護譯 部別：大乘經 方等部三 / 冊數：5 / 頁數：681 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYwq86W0",
+       "created": 1646116894264,
+       "text": "【中華藏】No.77《阿差末菩薩經》西晉月支國三藏竺法護譯 冊數：11 / 頁數：478 / 卷數：7 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwq86W1",
+       "created": 1646116894264,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwq86W2",
+       "created": 1646116894264,
+       "text": "【南條文雄編號】 Nj. 0074"
+      }},
+      {"data": {
+       "id": "z5cYwq86W3",
+       "created": 1646116894264,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：403"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwl3d0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

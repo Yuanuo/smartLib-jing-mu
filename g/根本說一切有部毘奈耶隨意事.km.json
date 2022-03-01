@@ -1,0 +1,352 @@
+{
+ "root": {
+  "data": {"text": "根本說一切有部毘奈耶隨意事"},
+  "children": [{
+   "data": {
+    "id": "z5cYxfjLHb",
+    "created": 1646116897463,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxfjLGg",
+      "created": 1646116897463,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxfjLGh",
+        "created": 1646116897463,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfjLGi",
+        "created": 1646116897463,
+        "text": "根本說一切有部毘奈耶隨意事",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfjLGj",
+        "created": 1646116897463,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfjLGk",
+        "created": 1646116897463,
+        "text": "根本说一切有部毘奈耶随意事",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfjLGl",
+        "created": 1646116897463,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfjLGm",
+        "created": 1646116897463,
+        "text": "gen ben shuo yi qie you bu pi nai ye sui yi shi"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfjLGu",
+        "created": 1646116897463,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfjLGv",
+        "created": 1646116897463,
+        "text": "Ken pen shuo i ch'ieh yu pu p'i na yeh sui i shih"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfjLGw",
+        "created": 1646116897463,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfjLGx",
+        "created": 1646116897463,
+        "text": "Vinayavastu",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfjLGy",
+        "created": 1646116897463,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfjLGz",
+        "created": 1646116897463,
+        "text": "Ḥdul-ba gshi"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxfjLH0",
+        "created": 1646116897463,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxfjLH1",
+        "created": 1646116897463,
+        "text": "근본설일체유부비나야수의사",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxfjLGn",
+      "created": 1646116897463,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfjLGo",
+      "created": 1646116897463,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfjLGp",
+      "created": 1646116897463,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxfjLGq",
+       "created": 1646116897463,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxfjLGr",
+       "created": 1646116897463,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxfjLGs",
+      "created": 1646116897463,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfjLGt",
+      "created": 1646116897463,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfjLH2",
+      "created": 1646116897463,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfjLH3",
+      "created": 1646116897463,
+      "text": "Translation by I-ching: (see K.1389)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfjLH4",
+      "created": 1646116897463,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxfjLH5",
+       "created": 1646116897463,
+       "text": "【北京版】Ḥdul-ba (khe)209a-223b"
+      }},
+      {"data": {
+       "id": "z5cYxfjLH6",
+       "created": 1646116897463,
+       "text": "【奈塘版】Ḥdul-ba (ka)335-357"
+      }},
+      {"data": {
+       "id": "z5cYxfjLH7",
+       "created": 1646116897463,
+       "text": "【德格版】Ḥdul-ba (ka)218b-232a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxfjLH8",
+      "created": 1646116897463,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxfjLH9",
+      "created": 1646116897463,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxfjLHA",
+      "created": 1646116897463,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxfjLHB",
+       "created": 1646116897463,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHC",
+       "created": 1646116897463,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHD",
+       "created": 1646116897463,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHE",
+       "created": 1646116897463,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHF",
+       "created": 1646116897463,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHG",
+       "created": 1646116897463,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHH",
+       "created": 1646116897463,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHI",
+       "created": 1646116897463,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHJ",
+       "created": 1646116897463,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHK",
+       "created": 1646116897463,
+       "text": "【高麗藏】No.1393《根本說一切有部毘奈耶隨意事》三藏沙門義淨譯 部別：宋續入藏經 / 冊數：37 頁數：932 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：綺"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHL",
+       "created": 1646116897463,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHM",
+       "created": 1646116897463,
+       "text": "【至元錄】No.1266《根本說一切有部毘奈耶隨意事》唐天后代三藏義淨譯 梵名：毘囉瓦囉拏　瓦廝(二合)都 / 卷數：1 / 出處：(新編入錄) 千字文：真(394)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHN",
+       "created": 1646116897463,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHO",
+       "created": 1646116897463,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHP",
+       "created": 1646116897463,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHQ",
+       "created": 1646116897463,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHR",
+       "created": 1646116897463,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHS",
+       "created": 1646116897463,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHT",
+       "created": 1646116897463,
+       "text": "【縮刻藏】No.831《根本說一切有部毘奈耶隨意事》唐義淨譯 部別：小乘律 / 卷數：1 千字文：寒 4 (17)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHU",
+       "created": 1646116897463,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHV",
+       "created": 1646116897463,
+       "text": "【大正藏】No.1446《根本說一切有部毘奈耶隨意事》唐 義淨譯 部別：律部二 / 冊數：23 / 頁數：1044 / 卷數：1 相關經典：縮-寒4,續-1.2.1,國-律22 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxfjLHW",
+       "created": 1646116897463,
+       "text": "【佛教大藏經】No.866《根本說一切有部毘奈耶隨意事》唐 義淨譯 部別：小乘律 律部五 / 冊數：33 / 頁數：745 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHX",
+       "created": 1646116897463,
+       "text": "【中華藏】No.969《根本說一切有部毗奈耶隨意事》大唐三藏義淨奉制譯 冊數：39 / 頁數：857 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHY",
+       "created": 1646116897463,
+       "text": "【新纂卍續藏】No.49《根本說一切有部毗奈耶隨意事》唐 義淨譯 部別：印度撰述 律部 小乘部 / 冊數：1 / 頁數：641 / 卷數：1 《卍大日本續藏經》套數：第一編．第 2 套 《卍續藏經》(新文豐版)冊數：第 2 冊"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHZ",
+       "created": 1646116897463,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxfjLHa",
+       "created": 1646116897463,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1446"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz1z17o",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

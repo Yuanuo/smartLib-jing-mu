@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "青龍寺軌記"},
+  "children": [{
+   "data": {
+    "id": "z5cYxDhD4m",
+    "created": 1646116895725,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxDhD4A",
+      "created": 1646116895725,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxDhD4B",
+        "created": 1646116895725,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDhD4C",
+        "created": 1646116895725,
+        "text": "青龍寺軌記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDhD4D",
+        "created": 1646116895725,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDhD4E",
+        "created": 1646116895725,
+        "text": "青龙寺轨记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDhD4F",
+        "created": 1646116895725,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDhD4G",
+        "created": 1646116895725,
+        "text": "qing long si gui ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxDhD4H",
+      "created": 1646116895725,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDhD4I",
+      "created": 1646116895725,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDhD4J",
+      "created": 1646116895725,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDhD4K",
+      "created": 1646116895725,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDhD4L",
+      "created": 1646116895725,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxDhD4M",
+       "created": 1646116895725,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4N",
+       "created": 1646116895725,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4O",
+       "created": 1646116895725,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4P",
+       "created": 1646116895725,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4Q",
+       "created": 1646116895725,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4R",
+       "created": 1646116895725,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4S",
+       "created": 1646116895725,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4T",
+       "created": 1646116895725,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4U",
+       "created": 1646116895725,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4V",
+       "created": 1646116895725,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4W",
+       "created": 1646116895725,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4X",
+       "created": 1646116895725,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4Y",
+       "created": 1646116895725,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4Z",
+       "created": 1646116895725,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4a",
+       "created": 1646116895725,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4b",
+       "created": 1646116895725,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4c",
+       "created": 1646116895725,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4d",
+       "created": 1646116895725,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4e",
+       "created": 1646116895725,
+       "text": "【縮刻藏】No.1391《青龍寺軌記》 部別：祕密部 / 卷數：1 千字文：餘 4 (26)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4f",
+       "created": 1646116895725,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4g",
+       "created": 1646116895725,
+       "text": "【大正藏】No.855《青龍寺軌記》 部別：密教部一 / 冊數：18 / 頁數：172 / 卷數：1 相關經典：縮-餘4,續-2.9.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxDhD4h",
+       "created": 1646116895725,
+       "text": "【佛教大藏經】No.1464《青龍寺軌記》 部別：密教部三 / 冊數：54 / 頁數：549 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4i",
+       "created": 1646116895725,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4j",
+       "created": 1646116895725,
+       "text": "【新纂卍續藏】No.1064《青龍寺軌記》 部別：中國撰述 諸宗著述部六 真言宗 / 冊數：59 / 頁數：157 / 卷數：1 《卍大日本續藏經》套數：第二編．第 9 套 《卍續藏經》(新文豐版)冊數：第 104 冊"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4k",
+       "created": 1646116895725,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDhD4l",
+       "created": 1646116895725,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：855"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxpopw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

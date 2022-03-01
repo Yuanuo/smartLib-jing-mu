@@ -1,0 +1,357 @@
+{
+ "root": {
+  "data": {"text": "菩薩地持經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxmJNHn",
+    "created": 1646116897871,
+    "text": "現藏錄（北涼 曇無讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxmINGr",
+      "created": 1646116897870,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxmINGs",
+        "created": 1646116897870,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmINGt",
+        "created": 1646116897870,
+        "text": "菩薩地持經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmINGu",
+        "created": 1646116897870,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmINGv",
+        "created": 1646116897870,
+        "text": "菩萨地持经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmINGw",
+        "created": 1646116897870,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmINGx",
+        "created": 1646116897870,
+        "text": "pu sa di chi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmINH5",
+        "created": 1646116897870,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmINH6",
+        "created": 1646116897870,
+        "text": "P'u sa ti ch'ih ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmINH7",
+        "created": 1646116897870,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmINH8",
+        "created": 1646116897870,
+        "text": "Bodhisattvabhūmi",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmINH9",
+        "created": 1646116897870,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmINHA",
+        "created": 1646116897870,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmINHB",
+        "created": 1646116897870,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmINHC",
+        "created": 1646116897870,
+        "text": "보살지지경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxmINGy",
+      "created": 1646116897870,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmINGz",
+      "created": 1646116897870,
+      "text": "北涼",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmINH0",
+      "created": 1646116897870,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxmINH1",
+       "created": 1646116897870,
+       "text": "北涼 曇無讖譯"
+      }},
+      {"data": {
+       "id": "z5cYxmINH2",
+       "created": 1646116897870,
+       "text": "曇無讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxmINH3",
+      "created": 1646116897870,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmINH4",
+      "created": 1646116897870,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmINHD",
+      "created": 1646116897870,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmINHE",
+      "created": 1646116897870,
+      "text": "Translation by Dharmakṣema: between the 3rd and 10th (or 15th) years of Hsüan Shih (玄始), Northern Liang dynasty (涼) (A.D. 414-421 or 426).T. 2151-360b:24; T. 2154-520c:7."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmINHF",
+      "created": 1646116897870,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxmINHG",
+       "created": 1646116897870,
+       "text": "【北京版】Mdo-ḥgrel (Sems-tsam) (shi)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHH",
+       "created": 1646116897870,
+       "text": "【奈塘版】Mdo- ḥgrel (shi)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHI",
+       "created": 1646116897870,
+       "text": "【德格版】Sems-tsam (wi)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHJ",
+       "created": 1646116897870,
+       "text": "【卓尼版】Sems-tsam (wi)"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxmINHK",
+      "created": 1646116897870,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmINHL",
+      "created": 1646116897870,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmINHM",
+      "created": 1646116897870,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxmINHN",
+       "created": 1646116897870,
+       "text": "【房山石經】No.10《受菩薩戒法》(北涼)曇無讖譯 冊數：1 / 頁數：108 / 卷數：1 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.670《菩薩地持經》(北涼)天竺三藏曇無讖於姑臧譯 冊數：14 / 頁數：140 / 卷數：10 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：賢 【房山石經】No.679《菩薩戒本》慈氏菩薩說　(北涼)天竺三藏曇無讖於姑臧譯 冊數：14 / 頁數：495 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：作"
+      }},
+      {"data": {
+       "id": "z5cYxmINHO",
+       "created": 1646116897870,
+       "text": "【開寶藏】No.520《菩薩地持經》北涼 天竺三藏曇無讖于姑臧 譯 部別：大乘律 菩薩調伏藏 / 卷數：8 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxmINHP",
+       "created": 1646116897870,
+       "text": "【崇寧藏】No.525《菩薩地持經》 卷數：8 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHQ",
+       "created": 1646116897870,
+       "text": "【毘盧藏】No.523《菩薩地持經》北涼曇無讖譯 參考年代：(建炎二．二、十一) 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHR",
+       "created": 1646116897870,
+       "text": "【圓覺藏】No.535《菩薩地持經》 卷數：8 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHS",
+       "created": 1646116897870,
+       "text": "【趙城金藏】No.524《菩薩地持經》 卷數：10 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxmINHT",
+       "created": 1646116897870,
+       "text": "【資福藏】No.541《菩薩地持經》 卷數：8 (八卷) 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHU",
+       "created": 1646116897870,
+       "text": "【磧砂藏】No.541《菩薩地持經》北涼 曇無讖譯 部別： / 冊數：13 / 頁數：835 / 卷數：8 千字文：維 1 (203)-維 8 (203)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHV",
+       "created": 1646116897870,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHW",
+       "created": 1646116897870,
+       "text": "【高麗藏】No.523《菩薩地持經》北涼三藏曇無讖於姑臧譯 部別：大乘律 / 冊數：14 頁數：71 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxmINHX",
+       "created": 1646116897870,
+       "text": "【普寧藏】No.535《菩薩地持經》 卷數：8 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHY",
+       "created": 1646116897870,
+       "text": "【至元錄】No.1178《菩薩地持經》北涼天竺三藏曇無讖譯(於臧) 卷數：10 千字文：訓(340)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHZ",
+       "created": 1646116897870,
+       "text": "【洪武南藏】No.479《菩薩地持經》北涼 天竺三藏法師曇無讖 譯 冊數：68-69 / 頁數：523 / 卷數：8 千字文：維 1 (203)-維 8 (203)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHa",
+       "created": 1646116897870,
+       "text": "【永樂南藏】No.1225《菩薩地持經》 部別：大乘律 千字文：登(307)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHb",
+       "created": 1646116897870,
+       "text": "【永樂北藏】No.1118《菩薩地持經》北涼曇無讖譯 部別：大乘律 / 冊數：76 / 頁數：325 / 卷數：8 千字文：安"
+      }},
+      {"data": {
+       "id": "z5cYxmINHc",
+       "created": 1646116897870,
+       "text": "【嘉興藏】No.1080《菩薩地持經》北涼曇無讖譯 部別：大乘律 / 法寶總目錄經號：1079 千字文 / 函號：［正藏］ 安(287)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHd",
+       "created": 1646116897870,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHe",
+       "created": 1646116897870,
+       "text": "【乾隆藏】No.1081《菩薩地持經》北涼 曇無讖譯 部別：大乘律 / 冊數：64 / 頁數：223 / 卷數：8 千字文：安"
+      }},
+      {"data": {
+       "id": "z5cYxmINHf",
+       "created": 1646116897870,
+       "text": "【縮刻藏】No.874《菩薩地持經》北涼曇無讖譯 部別：印度大乘宗經論 / 卷數：10 千字文：來 6 (18)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHg",
+       "created": 1646116897870,
+       "text": "【卍正藏】No.1091《菩薩地持經》北涼 曇無讖譯 部別：大乘律 / 冊數：31 / 頁數：125 / 卷數：10 原版套數：第 17 套"
+      }},
+      {"data": {
+       "id": "z5cYxmINHh",
+       "created": 1646116897870,
+       "text": "【大正藏】No.1581《菩薩地持經》北涼 曇無讖譯 部別：瑜伽部上 / 冊數：30 / 頁數：888 / 卷數：10 相關經典：縮-來6,卍-17.1 參考資料：cf.Nos.1579(I,15),1582,2803"
+      }},
+      {"data": {
+       "id": "z5cYxmINHi",
+       "created": 1646116897870,
+       "text": "【佛教大藏經】No.916《菩薩地持經》北涼 曇無讖譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：1 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYxmINHj",
+       "created": 1646116897870,
+       "text": "【中華藏】No.571《菩薩地持經》北涼中印度三藏曇無讖於姑臧譯 冊數：24 / 頁數：395 / 卷數：10 / 底本：金藏廣勝寺本 麗藏本 凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYxmINHk",
+       "created": 1646116897870,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmINHl",
+       "created": 1646116897870,
+       "text": "【南條文雄編號】 Nj. 1086"
+      }},
+      {"data": {
+       "id": "z5cYxmINHm",
+       "created": 1646116897870,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1581"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzda1bj",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "無盡意菩薩經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwpc6MS",
+    "created": 1646116894232,
+    "text": "現藏錄（劉宋 智嚴,寶雲譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwpc6LZ",
+      "created": 1646116894232,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwpc6La",
+        "created": 1646116894232,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpc6Lb",
+        "created": 1646116894232,
+        "text": "無盡意菩薩經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpc6Lc",
+        "created": 1646116894232,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpc6Ld",
+        "created": 1646116894232,
+        "text": "无尽意菩萨经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpc6Le",
+        "created": 1646116894232,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpc6Lf",
+        "created": 1646116894232,
+        "text": "wu jin yi pu sa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpc6Lo",
+        "created": 1646116894232,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpc6Lp",
+        "created": 1646116894232,
+        "text": "Wu chin i p'u sa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpc6Lq",
+        "created": 1646116894232,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpc6Lr",
+        "created": 1646116894232,
+        "text": "Akṣayamati(nirdeśa)sūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpc6Ls",
+        "created": 1646116894232,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpc6Lt",
+        "created": 1646116894232,
+        "text": "Blo-gros-mi-zad-pas bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpc6Lu",
+        "created": 1646116894232,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpc6Lv",
+        "created": 1646116894232,
+        "text": "무진의보살경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpc6Lg",
+      "created": 1646116894232,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpc6Lh",
+      "created": 1646116894232,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpc6Li",
+      "created": 1646116894232,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpc6Lj",
+       "created": 1646116894232,
+       "text": "劉宋 智嚴,寶雲譯"
+      }},
+      {"data": {
+       "id": "z5cYwpc6Lk",
+       "created": 1646116894232,
+       "text": "寶雲",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwpc6Ll",
+       "created": 1646116894232,
+       "text": "智嚴",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpc6Lm",
+      "created": 1646116894232,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpc6Ln",
+      "created": 1646116894232,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpc6Lw",
+      "created": 1646116894232,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpc6Lx",
+      "created": 1646116894232,
+      "text": "Translation by Chih-yen and Pao-yün: 4th year of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 427) in Chih-yüan Monastery (枳園寺), Yang-tu (楊都).T.2151-361c:4."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwpc6Ly",
+     "created": 1646116894232,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwpc6Lz",
+      "created": 1646116894232,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpc6M0",
+      "created": 1646116894232,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpc6M1",
+      "created": 1646116894232,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpc6M2",
+       "created": 1646116894232,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6M3",
+       "created": 1646116894232,
+       "text": "【開寶藏】No.72《無盡意菩薩經》劉宋 涼州沙門智嚴共寶雲 譯 部別：大乘經 大集部 / 卷數：6 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwpc6M4",
+       "created": 1646116894232,
+       "text": "【崇寧藏】No.73《無盡意菩薩經》 卷數：4 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6M5",
+       "created": 1646116894232,
+       "text": "【毘盧藏】No.69《無盡意菩薩經》宋智嚴共寶雲譯 參考年代：(元豊八．五) 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6M6",
+       "created": 1646116894232,
+       "text": "【圓覺藏】No.70《無盡意菩薩經》 卷數：4 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6M7",
+       "created": 1646116894232,
+       "text": "【趙城金藏】No.71《無盡意經》 卷數：6 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwpc6M8",
+       "created": 1646116894232,
+       "text": "【資福藏】No.73《無盡意菩薩經》 卷數：4 (四卷) 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6M9",
+       "created": 1646116894232,
+       "text": "【磧砂藏】No.73《無盡意菩薩經》劉宋 智嚴．寶雲譯 部別：大集部 / 冊數：7 / 頁數：171 / 卷數：4 千字文：周 8 (101)-周 11 (101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MA",
+       "created": 1646116894232,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MB",
+       "created": 1646116894232,
+       "text": "【高麗藏】No.71《無盡意菩薩經》宋涼州沙門智嚴-共寶雲譯 部別：大乘經 大集部 / 冊數：7 頁數：1009 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MC",
+       "created": 1646116894232,
+       "text": "【普寧藏】No.70《無盡意菩薩經》 卷數：4 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MD",
+       "created": 1646116894232,
+       "text": "【至元錄】No.142《無盡意菩薩經》宋梁州沙門智嚴共寶曇譯(第譯) 卷數：6 千字文：坐(105)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6ME",
+       "created": 1646116894232,
+       "text": "【洪武南藏】No.69《無盡意菩薩經》劉宋 涼州沙門智嚴共寶雲 譯 冊數：36 / 頁數：311 / 卷數：4 千字文：周 8 (101)-周 11 (101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MF",
+       "created": 1646116894232,
+       "text": "【永樂南藏】No.70《無盡意菩薩經》 部別：大乘經-大集部 千字文：周(101)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MG",
+       "created": 1646116894232,
+       "text": "【永樂北藏】No.93《無盡意菩薩經》劉宋智嚴-共寶雲譯 部別：大乘經大集部 / 冊數：26 / 頁數：139 / 卷數：4 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MH",
+       "created": 1646116894232,
+       "text": "【嘉興藏】No.73《無盡意菩薩經》劉宋智嚴-共寶雲譯 部別：大乘經-大集部 / 法寶總目錄經號：0073 千字文 / 函號：［正藏］ 罪(100)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MI",
+       "created": 1646116894232,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MJ",
+       "created": 1646116894232,
+       "text": "【乾隆藏】No.73《無盡意菩薩經》劉宋 智嚴,寶雲譯 部別：大乘大集部 / 冊數：23 / 頁數：17 / 卷數：4 千字文：罪"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MK",
+       "created": 1646116894232,
+       "text": "【縮刻藏】No.88《大方等大集經》北涼曇無讖譯 部別：大乘經-方等部 / 卷數：60 千字文：玄 1 (3)-玄 4 (3)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6ML",
+       "created": 1646116894232,
+       "text": "【卍正藏】No.76《無盡意菩薩經》宋 智嚴共寶雲譯 部別：大乘經 大集部 / 冊數：11 / 頁數：103 / 卷數：6 原版套數：第 7 套"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MM",
+       "created": 1646116894232,
+       "text": "【大正藏】No.397《大方等大集經》北涼 曇無讖譯 部別：大集部全 / 冊數：13 / 頁數：1 / 卷數：60 相關經典：縮-玄1-4,卍-6.6-8,國-大1-4 參考資料：共一七品"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MN",
+       "created": 1646116894232,
+       "text": "【佛教大藏經】No.88《無盡意菩薩經》宋 智嚴共寶雲譯 部別：大乘經 方等部三 / 冊數：5 / 頁數：728 / 卷數：6 【佛教大藏經】No.86《大方等大集經》隋 僧就集 部別：大乘經 方等部三 / 冊數：5 / 頁數：1 / 卷數：60"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MO",
+       "created": 1646116894232,
+       "text": "【中華藏】No.78《無盡意菩薩經》宋涼州沙門智儼共寶雲譯 冊數：11 / 頁數：543 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MP",
+       "created": 1646116894232,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MQ",
+       "created": 1646116894232,
+       "text": "【南條文雄編號】 Nj. 0077"
+      }},
+      {"data": {
+       "id": "z5cYwpc6MR",
+       "created": 1646116894232,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：397　卷中：5"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwk7cp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

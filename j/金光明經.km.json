@@ -1,0 +1,571 @@
+{
+ "root": {
+  "data": {"text": "金光明經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx3xAJl",
+     "created": 1646116895121,
+     "text": "現藏錄（北涼 曇無讖譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx3xAIt",
+       "created": 1646116895121,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx3xAIu",
+         "created": 1646116895121,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx3xAIv",
+         "created": 1646116895121,
+         "text": "金光明經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx3xAIw",
+         "created": 1646116895121,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx3xAIx",
+         "created": 1646116895121,
+         "text": "金光明经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx3xAIy",
+         "created": 1646116895121,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx3xAIz",
+         "created": 1646116895121,
+         "text": "jin guang ming jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx3xAJ7",
+         "created": 1646116895121,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx3xAJ8",
+         "created": 1646116895121,
+         "text": "Chin kuang ming ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx3xAJ9",
+         "created": 1646116895121,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx3xAJA",
+         "created": 1646116895121,
+         "text": "Suvarṇaprabhāsa(uttamarāja)sūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx3xAJB",
+         "created": 1646116895121,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx3xAJC",
+         "created": 1646116895121,
+         "text": "Gser-ḥod dam-pa mdo-sdeḥi dbaṅ-paḥi rgyal-po"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx3xAJD",
+         "created": 1646116895121,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx3xAJE",
+         "created": 1646116895121,
+         "text": "금광명경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx3xAJ0",
+       "created": 1646116895121,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx3xAJ1",
+       "created": 1646116895121,
+       "text": "北涼",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx3xAJ2",
+       "created": 1646116895121,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx3xAJ3",
+        "created": 1646116895121,
+        "text": "北涼 曇無讖譯"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJ4",
+        "created": 1646116895121,
+        "text": "曇無讖",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx3xAJ5",
+       "created": 1646116895121,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx3xAJ6",
+       "created": 1646116895121,
+       "text": "4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx3xAJF",
+       "created": 1646116895121,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx3xAJG",
+       "created": 1646116895121,
+       "text": "Translation by Dharmakṣema: between the 3rd and 10th years of Hsüan Shih (玄始), Northern Liang dynasty (北涼) (A.D. 414-421).T. 2151-360b:24."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYx3xAJH",
+      "created": 1646116895121,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYx3xAJI",
+       "created": 1646116895121,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx3xAJJ",
+       "created": 1646116895121,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx3xAJK",
+       "created": 1646116895121,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx3xAJL",
+        "created": 1646116895121,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJM",
+        "created": 1646116895121,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJN",
+        "created": 1646116895121,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJO",
+        "created": 1646116895121,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJP",
+        "created": 1646116895121,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJQ",
+        "created": 1646116895121,
+        "text": "【趙城金藏】No.1463《金光明經》 卷數：4 千字文：傾"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJR",
+        "created": 1646116895121,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJS",
+        "created": 1646116895121,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJT",
+        "created": 1646116895121,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJU",
+        "created": 1646116895121,
+        "text": "【高麗藏】No.1465《金光明經》北涼三藏曇無讖譯 部別：宋續入藏經 / 冊數：40 頁數：626 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：精"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJV",
+        "created": 1646116895121,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJW",
+        "created": 1646116895121,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJX",
+        "created": 1646116895121,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJY",
+        "created": 1646116895121,
+        "text": "【永樂南藏】No.113《金光明經》 部別：大乘經-五大部外重譯經 千字文：食(135)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJZ",
+        "created": 1646116895121,
+        "text": "【永樂北藏】No.150《金光明經》北涼曇無讖譯 部別：大乘經五大部外重譯經 / 冊數：35 / 頁數：771 / 卷數：4 千字文：化"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJa",
+        "created": 1646116895121,
+        "text": "【嘉興藏】No.123《金光明經》北涼曇無讖譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0123 千字文 / 函號：［正藏］ 化(137)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJb",
+        "created": 1646116895121,
+        "text": "【嘉興藏新文豐版】［正藏］No.2《金光明經》北涼 曇無讖譯 冊數：1 / 頁數：163 / 卷數：4"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJc",
+        "created": 1646116895121,
+        "text": "【乾隆藏】No.123《金光明經》北涼 曇無讖譯 部別：大乘五大部外重譯經 / 冊數：31 / 頁數：61 / 卷數：4 千字文：化"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJd",
+        "created": 1646116895121,
+        "text": "【縮刻藏】No.173《金光明經》北涼曇無讖譯 部別：大乘經-方等部 / 卷數：4 千字文：黃 9 (4)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJe",
+        "created": 1646116895121,
+        "text": "【卍正藏】No.126《金光明經》北涼 曇無讖譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：89 / 卷數：4 原版套數：第 9 套"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJf",
+        "created": 1646116895121,
+        "text": "【大正藏】No.663《金光明經》北涼 曇無讖譯 部別：經集部三 / 冊數：16 / 頁數：335 / 卷數：4 相關經典：縮-黃9,卍-9.1,國-經5 參考資料：Nos.664,665;cf.Nos.1783-1787"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJg",
+        "created": 1646116895121,
+        "text": "【佛教大藏經】No.175《金光明經》北涼 曇無讖譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：658 / 卷數：4"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJh",
+        "created": 1646116895121,
+        "text": "【中華藏】No.1590《金光明經》北涼三藏法師曇無讖譯 冊數：67 / 頁數：932 / 卷數：4 / 底本：明永樂南藏本"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJi",
+        "created": 1646116895121,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJj",
+        "created": 1646116895121,
+        "text": "【南條文雄編號】 Nj. 0127"
+       }},
+       {"data": {
+        "id": "z5cYx3xAJk",
+        "created": 1646116895121,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：663"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYz3Xkyi",
+     "created": 1646116902783,
+     "text": "現藏錄（北涼 曇無讖譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYz3Wky3",
+       "created": 1646116902782,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYz3Wky4",
+         "created": 1646116902782,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYz3Wky5",
+         "created": 1646116902782,
+         "text": "金光明經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYz3Wky6",
+         "created": 1646116902782,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYz3Wky7",
+         "created": 1646116902782,
+         "text": "金光明经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYz3Wky8",
+         "created": 1646116902782,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYz3Wky9",
+         "created": 1646116902782,
+         "text": "jin guang ming jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYz3WkyA",
+       "created": 1646116902782,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYz3WkyB",
+       "created": 1646116902782,
+       "text": "北涼"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYz3WkyC",
+       "created": 1646116902782,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYz3WkyD",
+        "created": 1646116902782,
+        "text": "北涼 曇無讖譯"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyE",
+        "created": 1646116902782,
+        "text": "曇無讖"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYz3WkyF",
+       "created": 1646116902782,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYz3WkyG",
+       "created": 1646116902782,
+       "text": "4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYz3WkyH",
+       "created": 1646116902782,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYz3WkyI",
+        "created": 1646116902782,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyJ",
+        "created": 1646116902782,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyK",
+        "created": 1646116902782,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyL",
+        "created": 1646116902782,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyM",
+        "created": 1646116902782,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyN",
+        "created": 1646116902782,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyO",
+        "created": 1646116902782,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyP",
+        "created": 1646116902782,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyQ",
+        "created": 1646116902782,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyR",
+        "created": 1646116902782,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyS",
+        "created": 1646116902782,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyT",
+        "created": 1646116902782,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyU",
+        "created": 1646116902782,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyV",
+        "created": 1646116902782,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyW",
+        "created": 1646116902782,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyX",
+        "created": 1646116902782,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyY",
+        "created": 1646116902782,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3WkyZ",
+        "created": 1646116902782,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkya",
+        "created": 1646116902782,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkyb",
+        "created": 1646116902782,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkyc",
+        "created": 1646116902782,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkyd",
+        "created": 1646116902782,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkye",
+        "created": 1646116902782,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkyf",
+        "created": 1646116902782,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkyg",
+        "created": 1646116902782,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz3Wkyh",
+        "created": 1646116902782,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】 (未收錄)"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx8xkf",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

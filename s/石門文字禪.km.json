@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "石門文字禪"},
+  "children": [{
+   "data": {
+    "id": "z5cYzLVqYx",
+    "created": 1646116903897,
+    "text": "現藏錄（宋 慧洪著）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzLVqYJ",
+      "created": 1646116903897,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzLVqYK",
+        "created": 1646116903897,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzLVqYL",
+        "created": 1646116903897,
+        "text": "石門文字禪",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzLVqYM",
+        "created": 1646116903897,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzLVqYN",
+        "created": 1646116903897,
+        "text": "石门文字禅",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzLVqYO",
+        "created": 1646116903897,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzLVqYP",
+        "created": 1646116903897,
+        "text": "shi men wen zi shan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzLVqYQ",
+      "created": 1646116903897,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzLVqYR",
+      "created": 1646116903897,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzLVqYS",
+      "created": 1646116903897,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzLVqYT",
+      "created": 1646116903897,
+      "text": "宋 慧洪著"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzLVqYU",
+      "created": 1646116903897,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzLVqYV",
+      "created": 1646116903897,
+      "text": "0"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzLVqYW",
+      "created": 1646116903897,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzLVqYX",
+       "created": 1646116903897,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYY",
+       "created": 1646116903897,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYZ",
+       "created": 1646116903897,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYa",
+       "created": 1646116903897,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYb",
+       "created": 1646116903897,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYc",
+       "created": 1646116903897,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYd",
+       "created": 1646116903897,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYe",
+       "created": 1646116903897,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYf",
+       "created": 1646116903897,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYg",
+       "created": 1646116903897,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYh",
+       "created": 1646116903897,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYi",
+       "created": 1646116903897,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYj",
+       "created": 1646116903897,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYk",
+       "created": 1646116903897,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYl",
+       "created": 1646116903897,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYm",
+       "created": 1646116903897,
+       "text": "【嘉興藏】No.1789《石門文字禪》（無） 部別：續藏 / 法寶總目錄經號：1788 千字文 / 函號：［續藏］ 59 函"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYn",
+       "created": 1646116903897,
+       "text": "【嘉興藏新文豐版】［續藏］No.135《石門文字禪》宋 德洪著 冊數：23 / 頁數：577 / 卷數：30"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYo",
+       "created": 1646116903897,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYp",
+       "created": 1646116903897,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYq",
+       "created": 1646116903897,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYr",
+       "created": 1646116903897,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYs",
+       "created": 1646116903897,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYt",
+       "created": 1646116903897,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYu",
+       "created": 1646116903897,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYv",
+       "created": 1646116903897,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLVqYw",
+       "created": 1646116903897,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：279"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri40p3dk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

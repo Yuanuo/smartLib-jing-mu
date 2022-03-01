@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "發覺淨心經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwlO5HC",
+    "created": 1646116893970,
+    "text": "現藏錄（隋 闍那崛多譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwlN5GF",
+      "created": 1646116893969,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwlN5GG",
+        "created": 1646116893969,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlN5GH",
+        "created": 1646116893969,
+        "text": "發覺淨心經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlN5GI",
+        "created": 1646116893969,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlN5GJ",
+        "created": 1646116893969,
+        "text": "发觉净心经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlN5GK",
+        "created": 1646116893969,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlN5GL",
+        "created": 1646116893969,
+        "text": "fa jue jing xin jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlN5GT",
+        "created": 1646116893969,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlN5GU",
+        "created": 1646116893969,
+        "text": "Fa chiao ching hsin ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlO5GV",
+        "created": 1646116893970,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlO5GW",
+        "created": 1646116893970,
+        "text": "Adhyāśayasañcodana(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlO5GX",
+        "created": 1646116893970,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlO5GY",
+        "created": 1646116893970,
+        "text": "Lhag-paḥi-bsam-pa bskul-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlO5GZ",
+        "created": 1646116893970,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlO5Ga",
+        "created": 1646116893970,
+        "text": "발각정심경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlN5GM",
+      "created": 1646116893969,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlN5GN",
+      "created": 1646116893969,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlN5GO",
+      "created": 1646116893969,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlN5GP",
+       "created": 1646116893969,
+       "text": "隋 闍那崛多譯"
+      }},
+      {"data": {
+       "id": "z5cYwlN5GQ",
+       "created": 1646116893969,
+       "text": "闍那崛多",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlN5GR",
+      "created": 1646116893969,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlN5GS",
+      "created": 1646116893969,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlO5Gb",
+      "created": 1646116893970,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlO5Gc",
+      "created": 1646116893970,
+      "text": "Translation by Jñānagupta: 10th month, 15th year of K'ai Hung (開皇), Sui dynasty (隋) (A.D.595) in Ta-hsing-shan Monastery (大興善寺). T. 2151-364a:;T.2154-548b:10. Ono. = A.D. 587."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlO5Gd",
+      "created": 1646116893970,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlO5Ge",
+       "created": 1646116893970,
+       "text": "【北京版】Dkon-brtsegs (zi)129b-153b"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gf",
+       "created": 1646116893970,
+       "text": "【奈塘版】Dkon-brtsegs (ca)244a-277b"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gg",
+       "created": 1646116893970,
+       "text": "【德格版】Dkon-brtsegs (ca)131a-153b"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gh",
+       "created": 1646116893970,
+       "text": "【拉薩版】Dkon-brtsegs (ca)246a-278b"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gi",
+       "created": 1646116893970,
+       "text": "【卓尼版】Dkon-brtsegs (ca)151a-175a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlO5Gj",
+      "created": 1646116893970,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlO5Gk",
+      "created": 1646116893970,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlO5Gl",
+      "created": 1646116893970,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlO5Gm",
+       "created": 1646116893970,
+       "text": "【房山石經】No.362《發覺淨心經》(隋)天竺三藏闍那崛多等譯 冊數：9 / 頁數：90 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gn",
+       "created": 1646116893970,
+       "text": "【開寶藏】No.37《發覺淨心經》隋 北天竺健陀國三藏闍那崛多 譯 部別：大乘經 寶積部 / 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Go",
+       "created": 1646116893970,
+       "text": "【崇寧藏】No.37《發覺淨心經》 卷數：2 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gp",
+       "created": 1646116893970,
+       "text": "【毘盧藏】No.33《發覺淨心經》隋闍那崛多譯 參考年代：(宣和六．八) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gq",
+       "created": 1646116893970,
+       "text": "【圓覺藏】No.34《發覺淨心經》 卷數：2 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gr",
+       "created": 1646116893970,
+       "text": "【趙城金藏】No.37《發覺淨心經》 卷數：2 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gs",
+       "created": 1646116893970,
+       "text": "【資福藏】No.37《發覺淨心經》 卷數：2 (二卷) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gt",
+       "created": 1646116893970,
+       "text": "【磧砂藏】No.37《發覺淨心經》隋 闍那崛多譯 部別：寶積部 / 冊數：6 / 頁數：333 / 卷數：2 千字文：衣 4 (87)-衣 5 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gu",
+       "created": 1646116893970,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gv",
+       "created": 1646116893970,
+       "text": "【高麗藏】No.37《發覺淨心經》隋北印度健陀國三藏闍那崛多-隋言志德譯 部別：大乘經 寶積部 / 冊數：6 頁數：1175 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gw",
+       "created": 1646116893970,
+       "text": "【普寧藏】No.34《發覺淨心經》 卷數：2 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gx",
+       "created": 1646116893970,
+       "text": "【至元錄】No.104《發覺淨心經》隋天竺三藏闍那崛多等譯 卷數：2 / 譯次：(第二譯) 千字文：讓(91)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gy",
+       "created": 1646116893970,
+       "text": "【洪武南藏】No.33《發覺淨心經》隋 天竺三藏闍那崛多 譯 冊數：31 / 頁數：378 / 卷數：2 千字文：衣 4 (87)-衣 5 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5Gz",
+       "created": 1646116893970,
+       "text": "【永樂南藏】No.34《發覺淨心經》 部別：大乘經-寶積部 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H0",
+       "created": 1646116893970,
+       "text": "【永樂北藏】No.52《發覺淨心經》隋闍那崛多譯 部別：大乘經寶積部 / 冊數：22 / 頁數：581 / 卷數：2 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H1",
+       "created": 1646116893970,
+       "text": "【嘉興藏】No.34《發覺淨心經》隋闍那崛多譯 部別：大乘經-寶積部 / 法寶總目錄經號：0034 千字文 / 函號：［正藏］ 衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H2",
+       "created": 1646116893970,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H3",
+       "created": 1646116893970,
+       "text": "【乾隆藏】No.34《發覺淨心經》隋 闍那崛多譯 部別：大乘寶積部 / 冊數：20 / 頁數：65 / 卷數：2 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H4",
+       "created": 1646116893970,
+       "text": "【縮刻藏】No.49《發覺淨心經》隋闍那崛多譯 部別：大乘經-方等部 / 卷數：2 千字文：地 11 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H5",
+       "created": 1646116893970,
+       "text": "【卍正藏】No.37《發覺淨心經》隋 闍那崛多譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：590 / 卷數：2 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H6",
+       "created": 1646116893970,
+       "text": "【大正藏】No.327《發覺淨心經》隋 闍那崛多譯 部別：寶積部下 / 冊數：12 / 頁數：43 / 卷數：2 相關經典：縮-地11,卍-6.4 參考資料：No.310(25)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H7",
+       "created": 1646116893970,
+       "text": "【佛教大藏經】No.49《發覺淨心經》隋 闍那崛多譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：663 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H8",
+       "created": 1646116893970,
+       "text": "【中華藏】No.39《發覺淨心經》隋北印度健陀羅國三藏闍那崛多譯 冊數：9 / 頁數：768 / 卷數：2 / 底本：麗藏本 金藏大寶集寺本"
+      }},
+      {"data": {
+       "id": "z5cYwlO5H9",
+       "created": 1646116893970,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlO5HA",
+       "created": 1646116893970,
+       "text": "【南條文雄編號】 Nj. 0037"
+      }},
+      {"data": {
+       "id": "z5cYwlO5HB",
+       "created": 1646116893970,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：327"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwcxak",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

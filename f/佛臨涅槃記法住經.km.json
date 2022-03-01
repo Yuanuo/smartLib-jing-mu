@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛臨涅槃記法住經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwoj6C4",
+    "created": 1646116894177,
+    "text": "現藏錄（唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwoj6B7",
+      "created": 1646116894177,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwoj6B8",
+        "created": 1646116894177,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoj6B9",
+        "created": 1646116894177,
+        "text": "佛臨涅槃記法住經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoj6BA",
+        "created": 1646116894177,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoj6BB",
+        "created": 1646116894177,
+        "text": "佛临涅槃记法住经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoj6BC",
+        "created": 1646116894177,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoj6BD",
+        "created": 1646116894177,
+        "text": "fo lin nie pan ji fa zhu jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoj6BL",
+        "created": 1646116894177,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoj6BM",
+        "created": 1646116894177,
+        "text": "Fo lin nieh p'an chi fa chu ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoj6BN",
+        "created": 1646116894177,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoj6BO",
+        "created": 1646116894177,
+        "text": "Mahāparinirvāṇasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoj6BP",
+        "created": 1646116894177,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoj6BQ",
+        "created": 1646116894177,
+        "text": "Yoṅs-su-mya-ṅan-las-ḥdas-pa chen-poḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoj6BR",
+        "created": 1646116894177,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoj6BS",
+        "created": 1646116894177,
+        "text": "불림열반기법주경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwoj6BE",
+      "created": 1646116894177,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoj6BF",
+      "created": 1646116894177,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoj6BG",
+      "created": 1646116894177,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwoj6BH",
+       "created": 1646116894177,
+       "text": "唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYwoj6BI",
+       "created": 1646116894177,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwoj6BJ",
+      "created": 1646116894177,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoj6BK",
+      "created": 1646116894177,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoj6BT",
+      "created": 1646116894177,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoj6BU",
+      "created": 1646116894177,
+      "text": "Translation by Hsüan-tsang: 4th day, 4th month, 3rd year of Yung Hui (永徽), T'ang dynasty (唐) (May 17th, A.D. 652) in Ta-tz'u-en Monastery (大慈恩寺).T. 2154-556a:24."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoj6BV",
+      "created": 1646116894177,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwoj6BW",
+       "created": 1646116894177,
+       "text": "【北京版】Mdo-sna-tshogs (tu)157a-158b"
+      }},
+      {"data": {
+       "id": "z5cYwoj6BX",
+       "created": 1646116894177,
+       "text": "【奈塘版】Mdo (ña)231 b-234b"
+      }},
+      {"data": {
+       "id": "z5cYwoj6BY",
+       "created": 1646116894177,
+       "text": "【德格版】Mdo-sde (tha)151a-152b"
+      }},
+      {"data": {
+       "id": "z5cYwoj6BZ",
+       "created": 1646116894177,
+       "text": "【拉薩版】Mdo (ña)222b-225b"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Ba",
+       "created": 1646116894177,
+       "text": "【卓尼版】Mdo-maṅ (tha)169a-171a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwoj6Bb",
+      "created": 1646116894177,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoj6Bc",
+      "created": 1646116894177,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoj6Bd",
+      "created": 1646116894177,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwoj6Be",
+       "created": 1646116894177,
+       "text": "【房山石經】No.632《佛臨涅槃記法住經》(大唐)三藏法師玄奘奉詔譯 冊數：14 / 頁數：42 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bf",
+       "created": 1646116894177,
+       "text": "【開寶藏】No.483《佛臨般涅槃記法住經》唐 三藏玄奘 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bg",
+       "created": 1646116894177,
+       "text": "【崇寧藏】No.500《佛臨涅槃記法住經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bh",
+       "created": 1646116894177,
+       "text": "【毘盧藏】No.495《佛臨涅槃記法經》唐玄奘譯 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bi",
+       "created": 1646116894177,
+       "text": "【圓覺藏】No.504《佛臨涅槃記法住經》 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bj",
+       "created": 1646116894177,
+       "text": "【趙城金藏】No.484《佛臨涅槃記法住經》 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bk",
+       "created": 1646116894177,
+       "text": "【資福藏】No.510《佛臨涅槃記法住經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bl",
+       "created": 1646116894177,
+       "text": "【磧砂藏】No.516《佛臨涅槃記法住經》唐 玄奘譯 部別：五大部外單譯經 / 冊數：13 / 頁數：787 / 卷數：1 千字文：景 10 (201)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bm",
+       "created": 1646116894177,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bn",
+       "created": 1646116894177,
+       "text": "【高麗藏】No.483《佛臨涅槃記法住經》唐三藏法師玄奘譯 部別：大乘經 單譯 / 冊數：13 頁數：1292 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bo",
+       "created": 1646116894177,
+       "text": "【普寧藏】No.510《佛臨涅槃記法住經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bp",
+       "created": 1646116894177,
+       "text": "【至元錄】No.441《佛臨般涅槃記法住經》唐三藏玄奘譯 卷數：1 / 出處：(出翻經圖) 千字文：絲(195)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bq",
+       "created": 1646116894177,
+       "text": "【洪武南藏】No.454《佛臨涅槃記法住經》大唐 三藏法師玄奘 奉詔譯 冊數：68 / 頁數：332 / 卷數：1 千字文：景 10 (201)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Br",
+       "created": 1646116894177,
+       "text": "【永樂南藏】No.509《佛臨涅槃記法住經》 部別：大乘經-單譯經 千字文：賢(204)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bs",
+       "created": 1646116894177,
+       "text": "【永樂北藏】No.147《佛滅度後棺斂葬送經》失譯人名附西晉錄 部別：大乘經涅槃部 / 冊數：35 / 頁數：540 / 卷數：1 千字文：食"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bt",
+       "created": 1646116894177,
+       "text": "【嘉興藏】No.119《佛臨涅槃記法住經》唐玄奘譯 部別：大乘經-涅槃部 / 法寶總目錄經號：0119 千字文 / 函號：［正藏］ 食(135)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bu",
+       "created": 1646116894177,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bv",
+       "created": 1646116894177,
+       "text": "【乾隆藏】No.119《佛臨涅槃記法住經》唐 玄奘譯 部別：大乘涅槃部 / 冊數：30 / 頁數：725 / 卷數：1 千字文：食"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bw",
+       "created": 1646116894177,
+       "text": "【縮刻藏】No.604《佛臨涅槃記法住經》唐玄奘譯 部別：小乘經 / 卷數：1 千字文：辰 10 (13)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bx",
+       "created": 1646116894177,
+       "text": "【卍正藏】No.122《佛臨涅槃記法住經》大唐 玄奘譯 部別：大乘經 涅槃部 / 冊數：14 / 頁數：848 / 卷數：1 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwoj6By",
+       "created": 1646116894177,
+       "text": "【大正藏】No.390《佛臨涅槃記法住經》唐 玄奘譯 部別：涅槃部全 / 冊數：12 / 頁數：1112 / 卷數：1 相關經典：縮-辰10,卍-8.10 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwoj6Bz",
+       "created": 1646116894177,
+       "text": "【佛教大藏經】No.612《佛臨涅槃記法住經》唐 玄奘譯 部別：小乘經 阿含部四 / 冊數：26 / 頁數：794 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwoj6C0",
+       "created": 1646116894177,
+       "text": "【中華藏】No.535《佛臨涅槃記法住經》三藏法師玄奘奉詔譯 冊數：24 / 頁數：247 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwoj6C1",
+       "created": 1646116894177,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwoj6C2",
+       "created": 1646116894177,
+       "text": "【南條文雄編號】 Nj. 0123"
+      }},
+      {"data": {
+       "id": "z5cYwoj6C3",
+       "created": 1646116894177,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：390"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwiocc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

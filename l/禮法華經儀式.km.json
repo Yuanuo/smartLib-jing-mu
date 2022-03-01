@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "禮法華經儀式"},
+  "children": [{
+   "data": {
+    "id": "z5cYy19RrA",
+    "created": 1646116898791,
+    "text": "現藏錄（失譯撰集人名）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy19RqV",
+      "created": 1646116898791,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy19RqW",
+        "created": 1646116898791,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy19RqX",
+        "created": 1646116898791,
+        "text": "禮法華經儀式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy19RqY",
+        "created": 1646116898791,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy19RqZ",
+        "created": 1646116898791,
+        "text": "礼法华经仪式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy19Rqa",
+        "created": 1646116898791,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy19Rqb",
+        "created": 1646116898791,
+        "text": "li fa hua jing yi shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy19Rqc",
+      "created": 1646116898791,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy19Rqd",
+      "created": 1646116898791,
+      "text": "",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy19Rqe",
+      "created": 1646116898791,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy19Rqf",
+       "created": 1646116898791,
+       "text": "失譯撰集人名"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqg",
+       "created": 1646116898791,
+       "text": "知禮",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy19Rqh",
+      "created": 1646116898791,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy19Rqi",
+      "created": 1646116898791,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy19Rqj",
+      "created": 1646116898791,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy19Rqk",
+       "created": 1646116898791,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rql",
+       "created": 1646116898791,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqm",
+       "created": 1646116898791,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqn",
+       "created": 1646116898791,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqo",
+       "created": 1646116898791,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqp",
+       "created": 1646116898791,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqq",
+       "created": 1646116898791,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqr",
+       "created": 1646116898791,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqs",
+       "created": 1646116898791,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqt",
+       "created": 1646116898791,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqu",
+       "created": 1646116898791,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqv",
+       "created": 1646116898791,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqw",
+       "created": 1646116898791,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqx",
+       "created": 1646116898791,
+       "text": "【永樂南藏】No.1496《禮法華經儀式》 部別：此方撰述 千字文：實(524)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqy",
+       "created": 1646116898791,
+       "text": "【永樂北藏】No.1590《禮法華經儀式》宋知禮集 部別：此土著述 / 冊數：153 / 頁數：54 / 卷數：1 千字文：輔"
+      }},
+      {"data": {
+       "id": "z5cYy19Rqz",
+       "created": 1646116898791,
+       "text": "【嘉興藏】No.1510《禮法華經儀式》宋知禮集 部別：此土著述 / 法寶總目錄經號：1509 千字文 / 函號：［正藏］ 輔(547)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr0",
+       "created": 1646116898791,
+       "text": "【嘉興藏新文豐版】［正藏］No.30《禮法華經儀式》宋 知禮撰 冊數：1 / 頁數：369 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr1",
+       "created": 1646116898791,
+       "text": "【乾隆藏】No.1580《禮法華經儀式》失譯撰集人名 部別：此土著述 / 冊數：135 / 頁數：843 / 卷數：1 千字文：馳"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr2",
+       "created": 1646116898791,
+       "text": "【縮刻藏】No.1734《禮法華經儀式》宋知禮集 部別：支那撰述-懺悔部 / 卷數：1 千字文：調 10 (31)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr3",
+       "created": 1646116898791,
+       "text": "【卍正藏】No.1524《禮法華經儀式》 部別：此土著述 / 冊數：58 / 頁數：580 / 卷數：1 原版套數：第 30 套"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr4",
+       "created": 1646116898791,
+       "text": "【大正藏】No.1944《禮法華經儀式》 部別：諸宗部三 / 冊數：46 / 頁數：956 / 卷數：1 相關經典：縮-調10,卍-30.8 參考資料：cf.Nos.1941-1943"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr5",
+       "created": 1646116898791,
+       "text": "【佛教大藏經】No.1930《禮法華經儀式》宋 知禮集 部別：懺悔部 / 冊數：67 / 頁數：661 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr6",
+       "created": 1646116898791,
+       "text": "【中華藏】No.1920《禮法華經儀式》佚名者撰 冊數：105 / 頁數：663 / 卷數：1 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr7",
+       "created": 1646116898791,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr8",
+       "created": 1646116898791,
+       "text": "【南條文雄編號】 Nj. 1518"
+      }},
+      {"data": {
+       "id": "z5cYy19Rr9",
+       "created": 1646116898791,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1944"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri02u1m0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

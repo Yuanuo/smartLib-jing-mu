@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "住心決疑抄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyKRY0a",
+    "created": 1646116899987,
+    "text": "現藏錄（日本 信證撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyKRXzv",
+      "created": 1646116899987,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyKRXzw",
+        "created": 1646116899987,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKRXzx",
+        "created": 1646116899987,
+        "text": "住心決疑抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyKRXzy",
+        "created": 1646116899987,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKRXzz",
+        "created": 1646116899987,
+        "text": "住心决疑抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyKRY00",
+        "created": 1646116899987,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKRY01",
+        "created": 1646116899987,
+        "text": "zhu xin jue yi chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyKRY02",
+      "created": 1646116899987,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyKRY03",
+      "created": 1646116899987,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyKRY04",
+      "created": 1646116899987,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyKRY05",
+       "created": 1646116899987,
+       "text": "日本 信證撰"
+      }},
+      {"data": {
+       "id": "z5cYyKRY06",
+       "created": 1646116899987,
+       "text": "信證",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyKRY07",
+      "created": 1646116899987,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyKRY08",
+      "created": 1646116899987,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyKRY09",
+      "created": 1646116899987,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyKRY0A",
+       "created": 1646116899987,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0B",
+       "created": 1646116899987,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0C",
+       "created": 1646116899987,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0D",
+       "created": 1646116899987,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0E",
+       "created": 1646116899987,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0F",
+       "created": 1646116899987,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0G",
+       "created": 1646116899987,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0H",
+       "created": 1646116899987,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0I",
+       "created": 1646116899987,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0J",
+       "created": 1646116899987,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0K",
+       "created": 1646116899987,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0L",
+       "created": 1646116899987,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0M",
+       "created": 1646116899987,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0N",
+       "created": 1646116899987,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0O",
+       "created": 1646116899987,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0P",
+       "created": 1646116899987,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0Q",
+       "created": 1646116899987,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0R",
+       "created": 1646116899987,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0S",
+       "created": 1646116899987,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0T",
+       "created": 1646116899987,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0U",
+       "created": 1646116899987,
+       "text": "【大正藏】No.2437《住心決疑抄》日本 信證撰 部別：續諸宗部八 / 冊數：77 / 頁數：512 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyKRY0V",
+       "created": 1646116899987,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0W",
+       "created": 1646116899987,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0X",
+       "created": 1646116899987,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0Y",
+       "created": 1646116899987,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKRY0Z",
+       "created": 1646116899987,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2437"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri103216",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

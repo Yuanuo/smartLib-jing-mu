@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大使呪法經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxXAIrR",
+    "created": 1646116896932,
+    "text": "現藏錄（唐 菩提留支譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxXAIqm",
+      "created": 1646116896932,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxXAIqn",
+        "created": 1646116896932,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxXAIqo",
+        "created": 1646116896932,
+        "text": "大使呪法經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxXAIqp",
+        "created": 1646116896932,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxXAIqq",
+        "created": 1646116896932,
+        "text": "大使呪法经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxXAIqr",
+        "created": 1646116896932,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxXAIqs",
+        "created": 1646116896932,
+        "text": "da shi zhou fa jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxXAIqt",
+      "created": 1646116896932,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxXAIqu",
+      "created": 1646116896932,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxXAIqv",
+      "created": 1646116896932,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxXAIqw",
+       "created": 1646116896932,
+       "text": "唐 菩提留支譯"
+      }},
+      {"data": {
+       "id": "z5cYxXAIqx",
+       "created": 1646116896932,
+       "text": "菩提流支",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxXAIqy",
+      "created": 1646116896932,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxXAIqz",
+      "created": 1646116896932,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxXAIr0",
+      "created": 1646116896932,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxXAIr1",
+       "created": 1646116896932,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr2",
+       "created": 1646116896932,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr3",
+       "created": 1646116896932,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr4",
+       "created": 1646116896932,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr5",
+       "created": 1646116896932,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr6",
+       "created": 1646116896932,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr7",
+       "created": 1646116896932,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr8",
+       "created": 1646116896932,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIr9",
+       "created": 1646116896932,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrA",
+       "created": 1646116896932,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrB",
+       "created": 1646116896932,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrC",
+       "created": 1646116896932,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrD",
+       "created": 1646116896932,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrE",
+       "created": 1646116896932,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrF",
+       "created": 1646116896932,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrG",
+       "created": 1646116896932,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrH",
+       "created": 1646116896932,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrI",
+       "created": 1646116896932,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrJ",
+       "created": 1646116896932,
+       "text": "【縮刻藏】No.1362《大使呪法經》唐菩提流支譯 部別：祕密部 / 卷數：1 千字文：餘 2 (26)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrK",
+       "created": 1646116896932,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrL",
+       "created": 1646116896932,
+       "text": "【大正藏】No.1268《大使呪法經》唐 菩提留支譯 部別：密教部四 / 冊數：21 / 頁數：298 / 卷數：1 相關經典：縮-餘2,續-1.3.2 參考資料：No.1267"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrM",
+       "created": 1646116896932,
+       "text": "【佛教大藏經】No.1435《大使咒法經》唐 菩提流志譯 部別：密教部三 / 冊數：54 / 頁數：335 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrN",
+       "created": 1646116896932,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrO",
+       "created": 1646116896932,
+       "text": "【新纂卍續藏】No.141《大使咒法經》唐 菩提流支譯 部別：印度撰述 密經儀軌部 / 冊數：2 / 頁數：621 / 卷數：1 《卍大日本續藏經》套數：第一編．第 3 套 《卍續藏經》(新文豐版)冊數：第 3 冊"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrP",
+       "created": 1646116896932,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXAIrQ",
+       "created": 1646116896932,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1268"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyn812j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "祕鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyMDYZi",
+    "created": 1646116900097,
+    "text": "現藏錄（日本 勝賢記．守覺親王輯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyMDYZ2",
+      "created": 1646116900097,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyMDYZ3",
+        "created": 1646116900097,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyMDYZ4",
+        "created": 1646116900097,
+        "text": "祕鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyMDYZ5",
+        "created": 1646116900097,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyMDYZ6",
+        "created": 1646116900097,
+        "text": "秘钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyMDYZ7",
+        "created": 1646116900097,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyMDYZ8",
+        "created": 1646116900097,
+        "text": "mi chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyMDYZ9",
+      "created": 1646116900097,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyMDYZA",
+      "created": 1646116900097,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyMDYZB",
+      "created": 1646116900097,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyMDYZC",
+       "created": 1646116900097,
+       "text": "日本 勝賢記．守覺親王輯"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZD",
+       "created": 1646116900097,
+       "text": "勝賢",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYyMDYZE",
+       "created": 1646116900097,
+       "text": "守覺親王",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyMDYZF",
+      "created": 1646116900097,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyMDYZG",
+      "created": 1646116900097,
+      "text": "18"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyMDYZH",
+      "created": 1646116900097,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyMDYZI",
+       "created": 1646116900097,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZJ",
+       "created": 1646116900097,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZK",
+       "created": 1646116900097,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZL",
+       "created": 1646116900097,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZM",
+       "created": 1646116900097,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZN",
+       "created": 1646116900097,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZO",
+       "created": 1646116900097,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZP",
+       "created": 1646116900097,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZQ",
+       "created": 1646116900097,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZR",
+       "created": 1646116900097,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZS",
+       "created": 1646116900097,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZT",
+       "created": 1646116900097,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZU",
+       "created": 1646116900097,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZV",
+       "created": 1646116900097,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZW",
+       "created": 1646116900097,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZX",
+       "created": 1646116900097,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZY",
+       "created": 1646116900097,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZZ",
+       "created": 1646116900097,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZa",
+       "created": 1646116900097,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZb",
+       "created": 1646116900097,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZc",
+       "created": 1646116900097,
+       "text": "【大正藏】No.2489《祕鈔》日本 勝賢記．守覺親王輯 部別：續諸宗部九 / 冊數：78 / 頁數：483 / 卷數：18 相關經典： 參考資料：cf.No.2536"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZd",
+       "created": 1646116900097,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZe",
+       "created": 1646116900097,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZf",
+       "created": 1646116900097,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZg",
+       "created": 1646116900097,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyMDYZh",
+       "created": 1646116900097,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2489"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri13522m",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

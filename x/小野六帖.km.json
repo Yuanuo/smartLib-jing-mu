@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "小野六帖"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLhYOq",
+    "created": 1646116900065,
+    "text": "現藏錄（日本 仁海撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLgYOB",
+      "created": 1646116900064,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLgYOC",
+        "created": 1646116900064,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLgYOD",
+        "created": 1646116900064,
+        "text": "小野六帖",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLgYOE",
+        "created": 1646116900064,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLgYOF",
+        "created": 1646116900064,
+        "text": "小野六帖"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLgYOG",
+        "created": 1646116900064,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLgYOH",
+        "created": 1646116900064,
+        "text": "xiao ye liu tie"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLgYOI",
+      "created": 1646116900064,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLgYOJ",
+      "created": 1646116900064,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLgYOK",
+      "created": 1646116900064,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLgYOL",
+       "created": 1646116900064,
+       "text": "日本 仁海撰"
+      }},
+      {"data": {
+       "id": "z5cYyLgYOM",
+       "created": 1646116900064,
+       "text": "仁海",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLgYON",
+      "created": 1646116900064,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLgYOO",
+      "created": 1646116900064,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLgYOP",
+      "created": 1646116900064,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLhYOQ",
+       "created": 1646116900065,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOR",
+       "created": 1646116900065,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOS",
+       "created": 1646116900065,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOT",
+       "created": 1646116900065,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOU",
+       "created": 1646116900065,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOV",
+       "created": 1646116900065,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOW",
+       "created": 1646116900065,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOX",
+       "created": 1646116900065,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOY",
+       "created": 1646116900065,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOZ",
+       "created": 1646116900065,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOa",
+       "created": 1646116900065,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOb",
+       "created": 1646116900065,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOc",
+       "created": 1646116900065,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOd",
+       "created": 1646116900065,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOe",
+       "created": 1646116900065,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOf",
+       "created": 1646116900065,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOg",
+       "created": 1646116900065,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOh",
+       "created": 1646116900065,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOi",
+       "created": 1646116900065,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOj",
+       "created": 1646116900065,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOk",
+       "created": 1646116900065,
+       "text": "【大正藏】No.2473《小野六帖》日本 仁海撰 部別：續諸宗部九 / 冊數：78 / 頁數：76 / 卷數：7 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLhYOl",
+       "created": 1646116900065,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOm",
+       "created": 1646116900065,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOn",
+       "created": 1646116900065,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOo",
+       "created": 1646116900065,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLhYOp",
+       "created": 1646116900065,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2473"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri128226",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

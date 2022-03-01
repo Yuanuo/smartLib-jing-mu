@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "攝論章卷第一"},
+  "children": [{
+   "data": {
+    "id": "z5cYyZqc4f",
+    "created": 1646116900942,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyZqc43",
+      "created": 1646116900942,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyZqc44",
+        "created": 1646116900942,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZqc45",
+        "created": 1646116900942,
+        "text": "攝論章卷第一",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyZqc46",
+        "created": 1646116900942,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZqc47",
+        "created": 1646116900942,
+        "text": "摄论章卷第一",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyZqc48",
+        "created": 1646116900942,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZqc49",
+        "created": 1646116900942,
+        "text": "she lun zhang juan di yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyZqc4A",
+      "created": 1646116900942,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyZqc4B",
+      "created": 1646116900942,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyZqc4C",
+      "created": 1646116900942,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyZqc4D",
+      "created": 1646116900942,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyZqc4E",
+      "created": 1646116900942,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyZqc4F",
+       "created": 1646116900942,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4G",
+       "created": 1646116900942,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4H",
+       "created": 1646116900942,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4I",
+       "created": 1646116900942,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4J",
+       "created": 1646116900942,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4K",
+       "created": 1646116900942,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4L",
+       "created": 1646116900942,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4M",
+       "created": 1646116900942,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4N",
+       "created": 1646116900942,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4O",
+       "created": 1646116900942,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4P",
+       "created": 1646116900942,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4Q",
+       "created": 1646116900942,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4R",
+       "created": 1646116900942,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4S",
+       "created": 1646116900942,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4T",
+       "created": 1646116900942,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4U",
+       "created": 1646116900942,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4V",
+       "created": 1646116900942,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4W",
+       "created": 1646116900942,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4X",
+       "created": 1646116900942,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4Y",
+       "created": 1646116900942,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4Z",
+       "created": 1646116900942,
+       "text": "【大正藏】No.2808《攝論章卷第一》 部別：古逸部全 / 冊數：85 / 頁數：1022 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyZqc4a",
+       "created": 1646116900942,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4b",
+       "created": 1646116900942,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4c",
+       "created": 1646116900942,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4d",
+       "created": 1646116900942,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZqc4e",
+       "created": 1646116900942,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2808"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1qm2bn",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

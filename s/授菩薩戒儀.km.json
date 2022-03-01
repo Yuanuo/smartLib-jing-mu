@@ -1,0 +1,738 @@
+{
+ "root": {
+  "data": {"text": "授菩薩戒儀"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyIEXIR",
+     "created": 1646116899850,
+     "text": "現藏錄（日本 最澄撰．圓珍註）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyIEXHl",
+       "created": 1646116899850,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyIEXHm",
+         "created": 1646116899850,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyIEXHn",
+         "created": 1646116899850,
+         "text": "授菩薩戒儀",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyIEXHo",
+         "created": 1646116899850,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyIEXHp",
+         "created": 1646116899850,
+         "text": "授菩萨戒仪",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyIEXHq",
+         "created": 1646116899850,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyIEXHr",
+         "created": 1646116899850,
+         "text": "shou pu sa jie yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyIEXHs",
+       "created": 1646116899850,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyIEXHt",
+       "created": 1646116899850,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyIEXHu",
+       "created": 1646116899850,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyIEXHv",
+        "created": 1646116899850,
+        "text": "日本 最澄撰．圓珍註"
+       }},
+       {"data": {
+        "id": "z5cYyIEXHw",
+        "created": 1646116899850,
+        "text": "圓珍",
+        "resource": ["author"]
+       }},
+       {"data": {
+        "id": "z5cYyIEXHx",
+        "created": 1646116899850,
+        "text": "最澄",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyIEXHy",
+       "created": 1646116899850,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyIEXHz",
+       "created": 1646116899850,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyIEXI0",
+       "created": 1646116899850,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyIEXI1",
+        "created": 1646116899850,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI2",
+        "created": 1646116899850,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI3",
+        "created": 1646116899850,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI4",
+        "created": 1646116899850,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI5",
+        "created": 1646116899850,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI6",
+        "created": 1646116899850,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI7",
+        "created": 1646116899850,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI8",
+        "created": 1646116899850,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXI9",
+        "created": 1646116899850,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIA",
+        "created": 1646116899850,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIB",
+        "created": 1646116899850,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIC",
+        "created": 1646116899850,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXID",
+        "created": 1646116899850,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIE",
+        "created": 1646116899850,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIF",
+        "created": 1646116899850,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIG",
+        "created": 1646116899850,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIH",
+        "created": 1646116899850,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXII",
+        "created": 1646116899850,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIJ",
+        "created": 1646116899850,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIK",
+        "created": 1646116899850,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIL",
+        "created": 1646116899850,
+        "text": "【大正藏】No.2378《授菩薩戒儀》日本 最澄撰．圓珍註 部別：續諸宗部五 / 冊數：74 / 頁數：625 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYyIEXIM",
+        "created": 1646116899850,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIN",
+        "created": 1646116899850,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIO",
+        "created": 1646116899850,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIP",
+        "created": 1646116899850,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyIEXIQ",
+        "created": 1646116899850,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2378"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzNOr7v",
+     "created": 1646116904014,
+     "text": "現藏錄（唐 湛然述）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzNOr7G",
+       "created": 1646116904014,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzNOr7H",
+         "created": 1646116904014,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzNOr7I",
+         "created": 1646116904014,
+         "text": "授菩薩戒儀"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzNOr7J",
+         "created": 1646116904014,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzNOr7K",
+         "created": 1646116904014,
+         "text": "授菩萨戒仪"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzNOr7L",
+         "created": 1646116904014,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzNOr7M",
+         "created": 1646116904014,
+         "text": "shou pu sa jie yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzNOr7N",
+       "created": 1646116904014,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzNOr7O",
+       "created": 1646116904014,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzNOr7P",
+       "created": 1646116904014,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzNOr7Q",
+        "created": 1646116904014,
+        "text": "唐 湛然述"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7R",
+        "created": 1646116904014,
+        "text": "湛然",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzNOr7S",
+       "created": 1646116904014,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzNOr7T",
+       "created": 1646116904014,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzNOr7U",
+       "created": 1646116904014,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzNOr7V",
+        "created": 1646116904014,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7W",
+        "created": 1646116904014,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7X",
+        "created": 1646116904014,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7Y",
+        "created": 1646116904014,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7Z",
+        "created": 1646116904014,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7a",
+        "created": 1646116904014,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7b",
+        "created": 1646116904014,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7c",
+        "created": 1646116904014,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7d",
+        "created": 1646116904014,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7e",
+        "created": 1646116904014,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7f",
+        "created": 1646116904014,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7g",
+        "created": 1646116904014,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7h",
+        "created": 1646116904014,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7i",
+        "created": 1646116904014,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7j",
+        "created": 1646116904014,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7k",
+        "created": 1646116904014,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7l",
+        "created": 1646116904014,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7m",
+        "created": 1646116904014,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7n",
+        "created": 1646116904014,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7o",
+        "created": 1646116904014,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7p",
+        "created": 1646116904014,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7q",
+        "created": 1646116904014,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7r",
+        "created": 1646116904014,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7s",
+        "created": 1646116904014,
+        "text": "【新纂卍續藏】No.1086《授菩薩戒儀》唐 湛然述 部別：中國撰述 諸宗著述部六 戒律宗 / 冊數：59 / 頁數：354 / 卷數：1 《卍大日本續藏經》套數：第二編．第 10 套 《卍續藏經》(新文豐版)冊數：第 105 冊"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7t",
+        "created": 1646116904014,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNOr7u",
+        "created": 1646116904014,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1329"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzNQr8b",
+     "created": 1646116904016,
+     "text": "現藏錄（宋 遵式撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzNQr7w",
+       "created": 1646116904016,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzNQr7x",
+         "created": 1646116904016,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzNQr7y",
+         "created": 1646116904016,
+         "text": "授菩薩戒儀"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzNQr7z",
+         "created": 1646116904016,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzNQr80",
+         "created": 1646116904016,
+         "text": "授菩萨戒仪"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzNQr81",
+         "created": 1646116904016,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzNQr82",
+         "created": 1646116904016,
+         "text": "shou pu sa jie yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzNQr83",
+       "created": 1646116904016,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzNQr84",
+       "created": 1646116904016,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzNQr85",
+       "created": 1646116904016,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzNQr86",
+        "created": 1646116904016,
+        "text": "宋 遵式撰"
+       }},
+       {"data": {
+        "id": "z5cYzNQr87",
+        "created": 1646116904016,
+        "text": "遵式",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzNQr88",
+       "created": 1646116904016,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzNQr89",
+       "created": 1646116904016,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzNQr8A",
+       "created": 1646116904016,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzNQr8B",
+        "created": 1646116904016,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8C",
+        "created": 1646116904016,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8D",
+        "created": 1646116904016,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8E",
+        "created": 1646116904016,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8F",
+        "created": 1646116904016,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8G",
+        "created": 1646116904016,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8H",
+        "created": 1646116904016,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8I",
+        "created": 1646116904016,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8J",
+        "created": 1646116904016,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8K",
+        "created": 1646116904016,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8L",
+        "created": 1646116904016,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8M",
+        "created": 1646116904016,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8N",
+        "created": 1646116904016,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8O",
+        "created": 1646116904016,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8P",
+        "created": 1646116904016,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8Q",
+        "created": 1646116904016,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8R",
+        "created": 1646116904016,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8S",
+        "created": 1646116904016,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8T",
+        "created": 1646116904016,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8U",
+        "created": 1646116904016,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8V",
+        "created": 1646116904016,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8W",
+        "created": 1646116904016,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8X",
+        "created": 1646116904016,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8Y",
+        "created": 1646116904016,
+        "text": "【新纂卍續藏】No.950《金園集》宋 遵式述　慧觀重編 部別：中國撰述 諸宗著述部四 天台宗 / 冊數：57 / 頁數：1 / 卷數：3 《卍大日本續藏經》套數：第二編．第 6 套 《卍續藏經》(新文豐版)冊數：第 101 冊"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8Z",
+        "created": 1646116904016,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzNQr8a",
+        "created": 1646116904016,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1263-in"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0wa1zc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

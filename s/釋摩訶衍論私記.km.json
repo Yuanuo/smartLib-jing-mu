@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "釋摩訶衍論私記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyFFWJ7",
+    "created": 1646116899665,
+    "text": "現藏錄（日本 信堅記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyFEWIS",
+      "created": 1646116899664,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyFEWIT",
+        "created": 1646116899664,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFEWIU",
+        "created": 1646116899664,
+        "text": "釋摩訶衍論私記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyFEWIV",
+        "created": 1646116899664,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFEWIW",
+        "created": 1646116899664,
+        "text": "释摩诃衍论私记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyFEWIX",
+        "created": 1646116899664,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFEWIY",
+        "created": 1646116899664,
+        "text": "shi mo he yan lun si ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyFEWIZ",
+      "created": 1646116899664,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyFEWIa",
+      "created": 1646116899664,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyFEWIb",
+      "created": 1646116899664,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyFEWIc",
+       "created": 1646116899664,
+       "text": "日本 信堅記"
+      }},
+      {"data": {
+       "id": "z5cYyFEWId",
+       "created": 1646116899664,
+       "text": "信堅",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyFEWIe",
+      "created": 1646116899664,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyFEWIf",
+      "created": 1646116899664,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyFEWIg",
+      "created": 1646116899664,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyFEWIh",
+       "created": 1646116899664,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFEWIi",
+       "created": 1646116899664,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFEWIj",
+       "created": 1646116899664,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFEWIk",
+       "created": 1646116899664,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFEWIl",
+       "created": 1646116899664,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFEWIm",
+       "created": 1646116899664,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIn",
+       "created": 1646116899665,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIo",
+       "created": 1646116899665,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIp",
+       "created": 1646116899665,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIq",
+       "created": 1646116899665,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIr",
+       "created": 1646116899665,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIs",
+       "created": 1646116899665,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIt",
+       "created": 1646116899665,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIu",
+       "created": 1646116899665,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIv",
+       "created": 1646116899665,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIw",
+       "created": 1646116899665,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIx",
+       "created": 1646116899665,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIy",
+       "created": 1646116899665,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWIz",
+       "created": 1646116899665,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWJ0",
+       "created": 1646116899665,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWJ1",
+       "created": 1646116899665,
+       "text": "【大正藏】No.2289《釋摩訶衍論私記》日本 信堅記 部別：續論疏部七 / 冊數：69 / 頁數：593 / 卷數：1 相關經典： 參考資料：cf.Nos.1668,2284-2288,2290"
+      }},
+      {"data": {
+       "id": "z5cYyFFWJ2",
+       "created": 1646116899665,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWJ3",
+       "created": 1646116899665,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWJ4",
+       "created": 1646116899665,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWJ5",
+       "created": 1646116899665,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFFWJ6",
+       "created": 1646116899665,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2289"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0r41wt",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

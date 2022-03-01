@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說大乘莊嚴寶王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxMvFpu",
+    "created": 1646116896297,
+    "text": "現藏錄（宋 天息災譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxMuFox",
+      "created": 1646116896296,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxMuFoy",
+        "created": 1646116896296,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxMuFoz",
+        "created": 1646116896296,
+        "text": "佛說大乘莊嚴寶王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxMuFp0",
+        "created": 1646116896296,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxMuFp1",
+        "created": 1646116896296,
+        "text": "佛说大乘庄严宝王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxMuFp2",
+        "created": 1646116896296,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxMuFp3",
+        "created": 1646116896296,
+        "text": "fo shuo da cheng zhuang yan bao wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxMuFpB",
+        "created": 1646116896296,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxMuFpC",
+        "created": 1646116896296,
+        "text": "Ta ch'eng chuang yen pao wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxMuFpD",
+        "created": 1646116896296,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxMuFpE",
+        "created": 1646116896296,
+        "text": "(Avalokiteśvaraguṇa)kāraṇḍavyūhasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxMuFpF",
+        "created": 1646116896296,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxMuFpG",
+        "created": 1646116896296,
+        "text": "Za-ma-tog bkod-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxMuFpH",
+        "created": 1646116896296,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxMuFpI",
+        "created": 1646116896296,
+        "text": "대승장엄보왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxMuFp4",
+      "created": 1646116896296,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxMuFp5",
+      "created": 1646116896296,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxMuFp6",
+      "created": 1646116896296,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxMuFp7",
+       "created": 1646116896296,
+       "text": "宋 天息災譯"
+      }},
+      {"data": {
+       "id": "z5cYxMuFp8",
+       "created": 1646116896296,
+       "text": "天息災",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxMuFp9",
+      "created": 1646116896296,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxMuFpA",
+      "created": 1646116896296,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxMuFpJ",
+      "created": 1646116896296,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxMuFpK",
+      "created": 1646116896296,
+      "text": "Ta-chung-lu vol. 3 p. 9b-10b. Ono. vol. 12 p. 182b:2."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxMuFpL",
+      "created": 1646116896296,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxMuFpM",
+       "created": 1646116896296,
+       "text": "【北京版】Mdo-na-tshogs (chu)224a-274b"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpN",
+       "created": 1646116896296,
+       "text": "【奈塘版】Mdo (ja)313a-392a"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpO",
+       "created": 1646116896296,
+       "text": "【德格版】Mdo-sde (ja)200a-247b"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpP",
+       "created": 1646116896296,
+       "text": "【拉薩版】Mdo (ja)314b-388a"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpQ",
+       "created": 1646116896296,
+       "text": "【卓尼版】Mdo-maṅ (ja)232b-285b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxMuFpR",
+      "created": 1646116896296,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxMuFpS",
+      "created": 1646116896296,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxMuFpT",
+      "created": 1646116896296,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxMuFpU",
+       "created": 1646116896296,
+       "text": "【房山石經】No.856《佛說大乘莊嚴王經》西天中印度惹爛馱羅國密林寺三藏賜紫沙門天息災奉制譯 冊數：25 / 頁數：470 / 卷數：4 / 刻經年代：天眷二年刻石 / 瀏覽：目錄圖檔 千字文：刻"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpV",
+       "created": 1646116896296,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpW",
+       "created": 1646116896296,
+       "text": "【崇寧藏】No.1090《佛說大乘莊嚴寶王經》 卷數：4 千字文：將(491)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpX",
+       "created": 1646116896296,
+       "text": "【毘盧藏】No.1089《大乘莊嚴寶王經》 參考年代：(建炎二．一○) 千字文：將(491)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpY",
+       "created": 1646116896296,
+       "text": "【圓覺藏】No.1099《大乘莊嚴寶王經》 卷數：4 千字文：將(491)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpZ",
+       "created": 1646116896296,
+       "text": "【趙城金藏】No.1089《大乘莊嚴寶王經》 卷數：4 千字文：杜"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpa",
+       "created": 1646116896296,
+       "text": "【資福藏】No.1103《大乘莊嚴寶王經》 卷數：4 (四卷) 千字文：將(491)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpb",
+       "created": 1646116896296,
+       "text": "【磧砂藏】No.1114《佛說大乘莊嚴寶王經》宋 天息災譯 部別： / 冊數：32 / 頁數：469 / 卷數：4 千字文：將 1 (491)-將 4 (491)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpc",
+       "created": 1646116896296,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpd",
+       "created": 1646116896296,
+       "text": "【高麗藏】No.1088《大乘莊嚴寶王經》密林寺三藏天息災譯 部別：宋續入藏經 / 冊數：33 頁數：766 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：杜"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpe",
+       "created": 1646116896296,
+       "text": "【普寧藏】No.1104《佛說大乘莊嚴寶王經》 卷數：4 千字文：將(491)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpf",
+       "created": 1646116896296,
+       "text": "【至元錄】No.702《大乘莊嚴寶王經》宋西域三藏天息災譯 梵名：阿唎(二合)亞　迦蘭怛　尾喻訶拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：4 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFpg",
+       "created": 1646116896296,
+       "text": "【洪武南藏】No.969《佛說大乘莊嚴寶王經》西天中印度惹爛䭾囉國密林寺三藏賜紫沙門天息災 奉詔譯 冊數：178 / 頁數：285 / 卷數：4 千字文：將 1 (491)-將 4 (491)"
+      }},
+      {"data": {
+       "id": "z5cYxMuFph",
+       "created": 1646116896296,
+       "text": "【永樂南藏】No.776《佛說大乘莊嚴寶王經》 部別：宋元入藏諸大小乘經 千字文：竭(251)"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpi",
+       "created": 1646116896297,
+       "text": "【永樂北藏】No.813《佛說大乘莊嚴寶王經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：1 / 卷數：4 千字文：竭"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpj",
+       "created": 1646116896297,
+       "text": "【嘉興藏】No.776《佛說大乘莊嚴寶王經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0776 千字文 / 函號：［正藏］ 竭(251)"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpk",
+       "created": 1646116896297,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpl",
+       "created": 1646116896297,
+       "text": "【乾隆藏】No.777《佛說大乘莊嚴寶王經》宋 天息災譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：333 / 卷數：4 千字文：竭"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpm",
+       "created": 1646116896297,
+       "text": "【縮刻藏】No.1575《佛說大乘莊嚴寶王經》宋天息災譯 部別：祕密部 / 卷數：4 千字文：成 10 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpn",
+       "created": 1646116896297,
+       "text": "【卍正藏】No.786《佛說大乘莊嚴寶王經》天息災譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：243 / 卷數：4 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpo",
+       "created": 1646116896297,
+       "text": "【大正藏】No.1050《佛說大乘莊嚴寶王經》宋 天息災譯 部別：密教部三 / 冊數：20 / 頁數：47 / 卷數：4 相關經典：縮-成10,卍-15.2,國-密5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxMvFpp",
+       "created": 1646116896297,
+       "text": "【佛教大藏經】No.1652《佛說大乘莊嚴寶王經》宋 天息災譯 部別：密教部六 / 冊數：57 / 頁數：630 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpq",
+       "created": 1646116896297,
+       "text": "【中華藏】No.1198《佛說大乘莊嚴寶王經》西天中印度惹爛馱囉國密林寺三藏賜紫沙門天息災奉詔譯 冊數：63 / 頁數：617 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpr",
+       "created": 1646116896297,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxMvFps",
+       "created": 1646116896297,
+       "text": "【南條文雄編號】 Nj. 0782"
+      }},
+      {"data": {
+       "id": "z5cYxMvFpt",
+       "created": 1646116896297,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1050"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy5kvw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

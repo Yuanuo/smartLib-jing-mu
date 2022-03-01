@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "高僧傳"},
+  "children": [{
+   "data": {
+    "id": "z5cYy5pTM7",
+    "created": 1646116899081,
+    "text": "現藏錄（梁 慧皎撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy5pTLG",
+      "created": 1646116899081,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy5pTLH",
+        "created": 1646116899081,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5pTLI",
+        "created": 1646116899081,
+        "text": "高僧傳",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy5pTLJ",
+        "created": 1646116899081,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5pTLK",
+        "created": 1646116899081,
+        "text": "高僧传",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy5pTLL",
+        "created": 1646116899081,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5pTLM",
+        "created": 1646116899081,
+        "text": "gao seng chuan"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy5pTLU",
+        "created": 1646116899081,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5pTLV",
+        "created": 1646116899081,
+        "text": "Kao seng chuan"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYy5pTLW",
+       "created": 1646116899081,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYy5pTLX",
+        "created": 1646116899081,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5pTLY",
+        "created": 1646116899081,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy5pTLZ",
+        "created": 1646116899081,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5pTLa",
+        "created": 1646116899081,
+        "text": "고승전",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy5pTLN",
+      "created": 1646116899081,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy5pTLO",
+      "created": 1646116899081,
+      "text": "梁",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy5pTLP",
+      "created": 1646116899081,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy5pTLQ",
+       "created": 1646116899081,
+       "text": "梁 慧皎撰"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLR",
+       "created": 1646116899081,
+       "text": "慧皎",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy5pTLS",
+      "created": 1646116899081,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy5pTLT",
+      "created": 1646116899081,
+      "text": "14"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy5pTLb",
+      "created": 1646116899081,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy5pTLc",
+      "created": 1646116899081,
+      "text": "Compiled by Hui-chiao: 18th year of T'ien Chien (天監), Liang dynasty (梁) (A.D. 519) in Chia-hsiang Monastery (嘉祥寺), Kuei-chi (會稽).T.2149-267a:29; T. 2154-538a:21"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYy5pTLd",
+     "created": 1646116899081,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYy5pTLe",
+      "created": 1646116899081,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy5pTLf",
+      "created": 1646116899081,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy5pTLg",
+      "created": 1646116899081,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy5pTLh",
+       "created": 1646116899081,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLi",
+       "created": 1646116899081,
+       "text": "【開寶藏】No.1068《高僧傳》梁 會稽嘉祥寺沙門惠皎 撰 部別：賢聖傳記錄 此方撰述集傳 / 卷數：14 千字文：廣-內"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLj",
+       "created": 1646116899081,
+       "text": "【崇寧藏】No.1073《高僧傳》 卷數：14 千字文：通(466)-廣(467)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLk",
+       "created": 1646116899081,
+       "text": "【毘盧藏】No.1073《高僧傳》梁沙門慧皎撰 參考年代：(紹興一八．閏八) 千字文：通(466)-廣(467)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLl",
+       "created": 1646116899081,
+       "text": "【圓覺藏】No.1082《高僧傳》 卷數：14 千字文：通(466)-廣(467)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLm",
+       "created": 1646116899081,
+       "text": "【趙城金藏】No.1075《高僧傳》 卷數：14 千字文：廣-內"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLn",
+       "created": 1646116899081,
+       "text": "【資福藏】No.1086《高僧傳》 卷數：14 (十四卷) 千字文：通(466)-內(468)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLo",
+       "created": 1646116899081,
+       "text": "【磧砂藏】No.1097《高僧傳》梁 慧皎撰 部別： / 冊數：30 / 頁數：561 / 卷數：14 千字文：通 4 (466)-廣 8 (467)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLp",
+       "created": 1646116899081,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLq",
+       "created": 1646116899081,
+       "text": "【高麗藏】No.1074《高僧傳》梁會稽嘉祥寺沙門釋惠皎撰 部別：賢聖傳記錄 此土撰述 / 冊數：32 頁數：764 / 卷數：14 / 連結：高麗大藏經 (圖檔) 千字文：廣-內"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLr",
+       "created": 1646116899081,
+       "text": "【普寧藏】No.1087《高僧傳》 卷數：14 千字文：廣(466)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLs",
+       "created": 1646116899081,
+       "text": "【至元錄】No.1552《高僧傳》梁會稽嘉祥寺沙門慧皎撰 卷數：14 / 出處：(出長房錄) 千字文：虢(580)-踐(581)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLt",
+       "created": 1646116899081,
+       "text": "【洪武南藏】No.955《高僧傳》梁 會稽嘉祥寺沙門慧皎 撰 冊數：167-168 / 頁數：489 / 卷數：14 千字文：通 4 (466)-廣 8 (467)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLu",
+       "created": 1646116899081,
+       "text": "【永樂南藏】No.1476《高僧傅》 部別：此方撰述 千字文：輦(508)-驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLv",
+       "created": 1646116899081,
+       "text": "【永樂北藏】No.1560《高僧傳》梁慧皎撰 部別：此土著述 / 冊數：147-148 / 頁數：657 / 卷數：14 千字文：伊-尹"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLw",
+       "created": 1646116899081,
+       "text": "【嘉興藏】No.1482《高僧傳》梁慧皎撰 部別：此土著述 / 法寶總目錄經號：1481 千字文 / 函號：［正藏］ 伊(531)-尹(532)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLx",
+       "created": 1646116899081,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLy",
+       "created": 1646116899081,
+       "text": "【乾隆藏】No.1468《高僧傳》梁 慧皎撰 部別：此土著述 / 冊數：111 / 頁數：189 / 卷數：16 千字文：俠槐"
+      }},
+      {"data": {
+       "id": "z5cYy5pTLz",
+       "created": 1646116899081,
+       "text": "【縮刻藏】No.1818《高僧傳》梁慧皎撰 部別：支那撰述-傳記部 / 卷數：14 千字文：致 2 (35)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTM0",
+       "created": 1646116899081,
+       "text": "【卍正藏】No.1496《高僧傳》梁 釋慧皎撰 部別：此土著述 / 冊數：56 / 頁數：721 / 卷數：14 原版套數：第 29 套"
+      }},
+      {"data": {
+       "id": "z5cYy5pTM1",
+       "created": 1646116899081,
+       "text": "【大正藏】No.2059《高僧傳》梁 慧皎撰 部別：史傳部二 / 冊數：50 / 頁數：322 / 卷數：14 相關經典：縮-致2,卍-29.10,國-史傳7 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy5pTM2",
+       "created": 1646116899081,
+       "text": "【佛教大藏經】No.2017《高僧傳》梁 慧皎撰 部別：史傳部一 / 冊數：74 / 頁數：219 / 卷數：14"
+      }},
+      {"data": {
+       "id": "z5cYy5pTM3",
+       "created": 1646116899081,
+       "text": "【中華藏】No.1181《高僧傳》梁會稽嘉祥寺沙門釋惠皎撰 冊數：61 / 頁數：231 / 卷數：14 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy5pTM4",
+       "created": 1646116899081,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5pTM5",
+       "created": 1646116899081,
+       "text": "【南條文雄編號】 Nj. 1490"
+      }},
+      {"data": {
+       "id": "z5cYy5pTM6",
+       "created": 1646116899081,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2059"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0ax1pk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,493 @@
+{
+ "root": {
+  "data": {"text": "俱舍論疏"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxwjQRK",
+     "created": 1646116898517,
+     "text": "現藏錄（唐 法寶撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxwjQQf",
+       "created": 1646116898517,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxwjQQg",
+         "created": 1646116898517,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxwjQQh",
+         "created": 1646116898517,
+         "text": "俱舍論疏",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxwjQQi",
+         "created": 1646116898517,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxwjQQj",
+         "created": 1646116898517,
+         "text": "俱舍论疏",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxwjQQk",
+         "created": 1646116898517,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxwjQQl",
+         "created": 1646116898517,
+         "text": "ju she lun shu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxwjQQm",
+       "created": 1646116898517,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxwjQQn",
+       "created": 1646116898517,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxwjQQo",
+       "created": 1646116898517,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxwjQQp",
+        "created": 1646116898517,
+        "text": "唐 法寶撰"
+       }},
+       {"data": {
+        "id": "z5cYxwjQQq",
+        "created": 1646116898517,
+        "text": "法寶",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxwjQQr",
+       "created": 1646116898517,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxwjQQs",
+       "created": 1646116898517,
+       "text": "30"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxwjQQt",
+       "created": 1646116898517,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxwjQQu",
+        "created": 1646116898517,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQQv",
+        "created": 1646116898517,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQQw",
+        "created": 1646116898517,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQQx",
+        "created": 1646116898517,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQQy",
+        "created": 1646116898517,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQQz",
+        "created": 1646116898517,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR0",
+        "created": 1646116898517,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR1",
+        "created": 1646116898517,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR2",
+        "created": 1646116898517,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR3",
+        "created": 1646116898517,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR4",
+        "created": 1646116898517,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR5",
+        "created": 1646116898517,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR6",
+        "created": 1646116898517,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR7",
+        "created": 1646116898517,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR8",
+        "created": 1646116898517,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQR9",
+        "created": 1646116898517,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRA",
+        "created": 1646116898517,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRB",
+        "created": 1646116898517,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRC",
+        "created": 1646116898517,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRD",
+        "created": 1646116898517,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRE",
+        "created": 1646116898517,
+        "text": "【大正藏】No.1822《俱舍論疏》唐 法寶撰 部別：論疏部二 / 冊數：41 / 頁數：453 / 卷數：30 相關經典：續-1.85.1-5 參考資料：cf.No.1558"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRF",
+        "created": 1646116898517,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRG",
+        "created": 1646116898517,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRH",
+        "created": 1646116898517,
+        "text": "【新纂卍續藏】No.835《俱舍論疏》唐 法寶撰 部別：中國撰述 大小乘釋論部八 俱舍並順正論疏 / 冊數：52 / 頁數：528 / 卷數：0 《卍大日本續藏經》套數：第一編．第 85 套 《卍續藏經》(新文豐版)冊數：第 85 冊"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRI",
+        "created": 1646116898517,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxwjQRJ",
+        "created": 1646116898517,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1822"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYz5rliW",
+     "created": 1646116902927,
+     "text": "現藏錄（唐 神泰述）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYz5qlhr",
+       "created": 1646116902926,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYz5qlhs",
+         "created": 1646116902926,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYz5rlht",
+         "created": 1646116902927,
+         "text": "俱舍論疏"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYz5rlhu",
+         "created": 1646116902927,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYz5rlhv",
+         "created": 1646116902927,
+         "text": "俱舍论疏"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYz5rlhw",
+         "created": 1646116902927,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYz5rlhx",
+         "created": 1646116902927,
+         "text": "ju she lun shu"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYz5rlhy",
+       "created": 1646116902927,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYz5rlhz",
+       "created": 1646116902927,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYz5rli0",
+       "created": 1646116902927,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYz5rli1",
+        "created": 1646116902927,
+        "text": "唐 神泰述"
+       }},
+       {"data": {
+        "id": "z5cYz5rli2",
+        "created": 1646116902927,
+        "text": "神泰",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYz5rli3",
+       "created": 1646116902927,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYz5rli4",
+       "created": 1646116902927,
+       "text": "7"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYz5rli5",
+       "created": 1646116902927,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYz5rli6",
+        "created": 1646116902927,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rli7",
+        "created": 1646116902927,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rli8",
+        "created": 1646116902927,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rli9",
+        "created": 1646116902927,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliA",
+        "created": 1646116902927,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliB",
+        "created": 1646116902927,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliC",
+        "created": 1646116902927,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliD",
+        "created": 1646116902927,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliE",
+        "created": 1646116902927,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliF",
+        "created": 1646116902927,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliG",
+        "created": 1646116902927,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliH",
+        "created": 1646116902927,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliI",
+        "created": 1646116902927,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliJ",
+        "created": 1646116902927,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliK",
+        "created": 1646116902927,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliL",
+        "created": 1646116902927,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliM",
+        "created": 1646116902927,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliN",
+        "created": 1646116902927,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliO",
+        "created": 1646116902927,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliP",
+        "created": 1646116902927,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliQ",
+        "created": 1646116902927,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliR",
+        "created": 1646116902927,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliS",
+        "created": 1646116902927,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliT",
+        "created": 1646116902927,
+        "text": "【新纂卍續藏】No.836《俱舍論疏》唐 神泰述 部別：中國撰述 大小乘釋論部九 俱舍並順正論疏 / 冊數：53 / 頁數：1 / 卷數：0 《卍大日本續藏經》套數：第一編．第 83 套 《卍續藏經》(新文豐版)冊數：第 83 冊"
+       }},
+       {"data": {
+        "id": "z5cYz5rliU",
+        "created": 1646116902927,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYz5rliV",
+        "created": 1646116902927,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1065"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzv91ig",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

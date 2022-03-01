@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說無二平等最上瑜伽大教王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxEsDUM",
+    "created": 1646116895798,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxEsDTP",
+      "created": 1646116895798,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxEsDTQ",
+        "created": 1646116895798,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEsDTR",
+        "created": 1646116895798,
+        "text": "佛說無二平等最上瑜伽大教王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEsDTS",
+        "created": 1646116895798,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEsDTT",
+        "created": 1646116895798,
+        "text": "佛说无二平等最上瑜伽大教王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEsDTU",
+        "created": 1646116895798,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEsDTV",
+        "created": 1646116895798,
+        "text": "fo shuo wu er ping deng zui shang yu jia da jiao wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEsDTd",
+        "created": 1646116895798,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEsDTe",
+        "created": 1646116895798,
+        "text": "Wu erh p'ing teng tsui shang yü ch'ieh ta chiao wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEsDTf",
+        "created": 1646116895798,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEsDTg",
+        "created": 1646116895798,
+        "text": "Advayasamatāvijayakalparāja",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEsDTh",
+        "created": 1646116895798,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEsDTi",
+        "created": 1646116895798,
+        "text": "Gñis-su-med-pa mñam-pa-ñid rnam-par-rgyal-ba shes-bya-baḥi rtog-paḥi rgyal-po chen-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxEsDTj",
+        "created": 1646116895798,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxEsDTk",
+        "created": 1646116895798,
+        "text": "무이평등최상유가대교왕교",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxEsDTW",
+      "created": 1646116895798,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEsDTX",
+      "created": 1646116895798,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEsDTY",
+      "created": 1646116895798,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxEsDTZ",
+       "created": 1646116895798,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTa",
+       "created": 1646116895798,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxEsDTb",
+      "created": 1646116895798,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEsDTc",
+      "created": 1646116895798,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEsDTl",
+      "created": 1646116895798,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEsDTm",
+      "created": 1646116895798,
+      "text": "Ta-chung-lu vol. 14, p.1a-5a."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEsDTn",
+      "created": 1646116895798,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxEsDTo",
+       "created": 1646116895798,
+       "text": "【北京版】Rgyud (cha)1-42b"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTp",
+       "created": 1646116895798,
+       "text": "【奈塘版】Rgyud (ca)379a-432b"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTq",
+       "created": 1646116895798,
+       "text": "【德格版】Rgyud-ḥbum (cha)58b-103a"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTr",
+       "created": 1646116895798,
+       "text": "【拉薩版】Rgyud (tsha)454b-517a"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTs",
+       "created": 1646116895798,
+       "text": "【卓尼版】Rgyud (cha)1b-50a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxEsDTt",
+      "created": 1646116895798,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxEsDTu",
+      "created": 1646116895798,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxEsDTv",
+      "created": 1646116895798,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxEsDTw",
+       "created": 1646116895798,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTx",
+       "created": 1646116895798,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTy",
+       "created": 1646116895798,
+       "text": "【崇寧藏】No.1303《佛說無二平等最上瑜伽大教王經》 卷數：6 千字文：孰(543)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDTz",
+       "created": 1646116895798,
+       "text": "【毘盧藏】No.1301《佛說無二平等最上瑜伽大教王經》宋施護譯 千字文：孰(543)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU0",
+       "created": 1646116895798,
+       "text": "【圓覺藏】No.1301《無二平等大教王經》 卷數：6 千字文：輕(520)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU1",
+       "created": 1646116895798,
+       "text": "【趙城金藏】No.1432《無二平等最上瑜伽大教王經》 卷數：6 千字文：公"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU2",
+       "created": 1646116895798,
+       "text": "【資福藏】No.1306《佛說無二平等最上瑜伽大教王經》 卷數：6 (六卷) 千字文：輕(520)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU3",
+       "created": 1646116895798,
+       "text": "【磧砂藏】No.1309《佛說無二平等最上瑜伽大教王經》宋 施護譯 部別： / 冊數：33 / 頁數：709 / 卷數：6 千字文：輕 1 (520)-輕 6 (520)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU4",
+       "created": 1646116895798,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU5",
+       "created": 1646116895798,
+       "text": "【高麗藏】No.1434《無二平等最上瑜伽大教王教》天竺三藏施護譯 部別：宋續入藏經 / 冊數：40 頁數：388 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：翦"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU6",
+       "created": 1646116895798,
+       "text": "【普寧藏】No.1302《佛說無二平等最上瑜伽大教王經》 卷數：6 千字文：輕(520)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU7",
+       "created": 1646116895798,
+       "text": "【至元錄】No.689《無二平等最上瑜伽大教王經》宋西域三藏施護譯 卷數：6 千字文：竭(251)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU8",
+       "created": 1646116895798,
+       "text": "【洪武南藏】No.1161《佛說無二平等最上瑜伽大教王經》西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫臣施護 奉詔譯 冊數：186 / 頁數：91 / 卷數：6 千字文：輕 1 (520)-輕 6 (520)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDU9",
+       "created": 1646116895798,
+       "text": "【永樂南藏】No.962《佛說無二平等最上瑜伽大教王經》 部別：宋元入藏諸大小乘經 千字文：斯(267)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUA",
+       "created": 1646116895798,
+       "text": "【永樂北藏】No.1062《佛說無二平等最上瑜伽大教王經》宋施護譯 部別：宋元入藏諸大小乘經之餘 / 冊數：73 / 頁數：681 / 卷數：6 千字文：淵"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUB",
+       "created": 1646116895798,
+       "text": "【嘉興藏】No.1025《佛說無二平等最上瑜伽大教王經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1024 千字文 / 函號：［正藏］ 淵(277)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUC",
+       "created": 1646116895798,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUD",
+       "created": 1646116895798,
+       "text": "【乾隆藏】No.1025《佛說無二平等最上瑜伽大教王經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：62 / 頁數：131 / 卷數：6 千字文：淵"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUE",
+       "created": 1646116895798,
+       "text": "【縮刻藏】No.1442《佛說無二平等最上瑜伽大教王經》宋施護譯 部別：祕密部 / 卷數：6 千字文：成 4 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUF",
+       "created": 1646116895798,
+       "text": "【卍正藏】No.1034《佛說無二平等最上瑜伽大教王經》施護譯 部別：宋元入藏諸大小乘經之餘 / 冊數：30 / 頁數：1 / 卷數：6 原版套數：第 16 套"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUG",
+       "created": 1646116895798,
+       "text": "【大正藏】No.887《佛說無二平等最上瑜伽大教王經》宋 施護譯 部別：密教部一 / 冊數：18 / 頁數：514 / 卷數：6 相關經典：縮-成4,卍-16.6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxEsDUH",
+       "created": 1646116895798,
+       "text": "【佛教大藏經】No.1517《佛說無二平等最上瑜伽大教王經》宋 施護譯 部別：密教部五 / 冊數：56 / 頁數：591 / 卷數：6"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUI",
+       "created": 1646116895798,
+       "text": "【中華藏】No.1559《佛說無二平等最上瑜伽大教王經》西天譯經三藏朝奉大夫試光祿卿傳法大師施護奉詔譯 冊數：67 / 頁數：633 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUJ",
+       "created": 1646116895798,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUK",
+       "created": 1646116895798,
+       "text": "【南條文雄編號】 Nj. 1030"
+      }},
+      {"data": {
+       "id": "z5cYxEsDUL",
+       "created": 1646116895798,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：887"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxrqqt",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

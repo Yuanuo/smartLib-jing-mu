@@ -1,0 +1,671 @@
+{
+ "root": {
+  "data": {"text": "大乘起信論"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxqdOXo",
+     "created": 1646116898139,
+     "text": "現藏錄（馬鳴菩薩造　梁 真諦譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxqcOWu",
+       "created": 1646116898138,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxqcOWv",
+         "created": 1646116898138,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqcOWw",
+         "created": 1646116898138,
+         "text": "大乘起信論",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqcOWx",
+         "created": 1646116898138,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqcOWy",
+         "created": 1646116898138,
+         "text": "大乘起信论",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqcOWz",
+         "created": 1646116898138,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqcOX0",
+         "created": 1646116898138,
+         "text": "da cheng qi xin lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqcOXA",
+         "created": 1646116898138,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqcOXB",
+         "created": 1646116898138,
+         "text": "Ta ch'eng ch'i hsin lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqcOXC",
+         "created": 1646116898138,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqcOXD",
+         "created": 1646116898138,
+         "text": "Mahāyānaśraddhotpādaśāstra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqcOXE",
+         "created": 1646116898138,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqcOXF",
+         "created": 1646116898138,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqcOXG",
+         "created": 1646116898138,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqcOXH",
+         "created": 1646116898138,
+         "text": "대승기신론",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxqcOX1",
+       "created": 1646116898138,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqcOX2",
+       "created": 1646116898138,
+       "text": "梁",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxqcOX3",
+       "created": 1646116898138,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxqcOX4",
+        "created": 1646116898138,
+        "text": "馬鳴菩薩造　梁 真諦譯"
+       }},
+       {"data": {
+        "id": "z5cYxqcOX5",
+        "created": 1646116898138,
+        "text": "實叉難陀",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxqcOX6",
+        "created": 1646116898138,
+        "text": "真諦",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxqcOX7",
+        "created": 1646116898138,
+        "text": "馬鳴",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxqcOX8",
+       "created": 1646116898138,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqcOX9",
+       "created": 1646116898138,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxqcOXI",
+       "created": 1646116898138,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqcOXJ",
+       "created": 1646116898138,
+       "text": "Translation by Paramārtha: 10th day, 9th month, 2nd year of Ch'eng Sheng (承聖), Liang dynasty (梁) (September 23rd, A.D. 553) in Chien-hsing Monastery (建興寺), Heng-chou (衡州).T. 2154-538b:6."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxqcOXK",
+      "created": 1646116898138,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxqcOXL",
+       "created": 1646116898138,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqcOXM",
+       "created": 1646116898138,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxqcOXN",
+       "created": 1646116898138,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxqcOXO",
+        "created": 1646116898138,
+        "text": "【房山石經】No.737《大乘起信論》馬鳴菩薩造　(梁)天竺三藏真諦譯 冊數：20 / 頁數：261 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：命"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXP",
+        "created": 1646116898138,
+        "text": "【開寶藏】No.618《大乘起信論》梁 天竺三藏真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：則"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXQ",
+        "created": 1646116898138,
+        "text": "【崇寧藏】No.620《大乘起信論》真諦譯 卷數：1 千字文：盡(255)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXR",
+        "created": 1646116898138,
+        "text": "【毘盧藏】No.621《大乘起信論》馬鳴菩薩造　序揚州僧智愷作　梁真諦譯 千字文：盡(255)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXS",
+        "created": 1646116898138,
+        "text": "【圓覺藏】No.629《大乘起信論》 千字文：盡(255)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXT",
+        "created": 1646116898138,
+        "text": "【趙城金藏】No.617《大乘起信論》 卷數：1 千字文：則"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXU",
+        "created": 1646116898138,
+        "text": "【資福藏】No.634《大乘起信論》 卷數：1 千字文：盡(255)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXV",
+        "created": 1646116898138,
+        "text": "【磧砂藏】No.640《大乘起信論》梁 真諦譯 部別：集義論 / 冊數：17 / 頁數：212 / 卷數：1 千字文：盡 9 (255)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXW",
+        "created": 1646116898138,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXX",
+        "created": 1646116898138,
+        "text": "【高麗藏】No.616《大乘起信論》梁西印度三藏法師真諦譯 部別：大乘論 集義論 / 冊數：17 頁數：614(原版) 621(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：則"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXY",
+        "created": 1646116898138,
+        "text": "【普寧藏】No.632《大乘起信論》 卷數：1 千字文：盡(255)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXZ",
+        "created": 1646116898138,
+        "text": "【至元錄】No.1348《大乘起信論》馬鳴菩薩造　梁天竺三藏真諦譯 卷數：1 / 譯次：(第一譯) 千字文：傍(443)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXa",
+        "created": 1646116898138,
+        "text": "【洪武南藏】No.567《大乘起信論》馬鳴菩薩 造　梁 天竺三藏法師真諦 譯　 冊數：89 / 頁數：173 / 卷數：1 千字文：盡 9 (255)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXb",
+        "created": 1646116898138,
+        "text": "【永樂南藏】No.1374《大乘起信論》 部別：大乘論 千字文：邑(410)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXc",
+        "created": 1646116898138,
+        "text": "【永樂北藏】No.1296《大乘起信論》唐實叉難陀-梁真諦二譯 部別：大乘論 / 冊數：105 / 頁數：695 / 卷數：3 千字文：情"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXd",
+        "created": 1646116898138,
+        "text": "【嘉興藏】No.1242《大乘起信論》馬鳴菩薩造-梁天竺三藏法師真諦譯 部別：大乘論 / 法寶總目錄經號：1241a 千字文 / 函號：［正藏］ 情(387)"
+       }},
+       {"data": {
+        "id": "z5cYxqcOXe",
+        "created": 1646116898138,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXf",
+        "created": 1646116898139,
+        "text": "【乾隆藏】No.1243b《大乘起信論》馬鳴造　(梁)真諦譯 部別：大乘論 / 冊數：86 / 頁數：781 / 卷數：1 千字文：情"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXg",
+        "created": 1646116898139,
+        "text": "【縮刻藏】No.904《大乘起信論》馬鳴菩薩造　梁真諦譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 10 (18)"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXh",
+        "created": 1646116898139,
+        "text": "【卍正藏】No.1257《大乘起信論》梁 真諦譯 部別：大乘論 / 冊數：41 / 頁數：783 / 卷數：1 原版套數：第 22 套"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXi",
+        "created": 1646116898139,
+        "text": "【大正藏】No.1666《大乘起信論》馬鳴菩薩造 梁 真諦譯 部別：論集部全 / 冊數：32 / 頁數：575 / 卷數：1 相關經典：縮-來10,卍-22.5,國-論5 參考資料：No.1667;cf.Nos.1843-1849,2283"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXj",
+        "created": 1646116898139,
+        "text": "【佛教大藏經】No.946《大乘起信論》梁 真諦譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：794 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXk",
+        "created": 1646116898139,
+        "text": "【中華藏】No.666《大乘起信論》馬鳴菩薩造，西印度三藏法師真諦譯 冊數：30 / 頁數：808 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXl",
+        "created": 1646116898139,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXm",
+        "created": 1646116898139,
+        "text": "【南條文雄編號】 Nj. 1250"
+       }},
+       {"data": {
+        "id": "z5cYxqdOXn",
+        "created": 1646116898139,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1666"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxqfOYj",
+     "created": 1646116898141,
+     "text": "現藏錄（馬鳴菩薩造　唐 實叉難陀譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxqfOXp",
+       "created": 1646116898141,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxqfOXq",
+         "created": 1646116898141,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqfOXr",
+         "created": 1646116898141,
+         "text": "大乘起信論"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqfOXs",
+         "created": 1646116898141,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqfOXt",
+         "created": 1646116898141,
+         "text": "大乘起信论"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqfOXu",
+         "created": 1646116898141,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqfOXv",
+         "created": 1646116898141,
+         "text": "da cheng qi xin lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqfOY5",
+         "created": 1646116898141,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqfOY6",
+         "created": 1646116898141,
+         "text": "Ta ch'eng ch'i hsin lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqfOY7",
+         "created": 1646116898141,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqfOY8",
+         "created": 1646116898141,
+         "text": "Mahāyānaśraddhotpādaśāstra"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqfOY9",
+         "created": 1646116898141,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqfOYA",
+         "created": 1646116898141,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxqfOYB",
+         "created": 1646116898141,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxqfOYC",
+         "created": 1646116898141,
+         "text": "대승기신론"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxqfOXw",
+       "created": 1646116898141,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqfOXx",
+       "created": 1646116898141,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxqfOXy",
+       "created": 1646116898141,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxqfOXz",
+        "created": 1646116898141,
+        "text": "馬鳴菩薩造　唐 實叉難陀譯"
+       }},
+       {"data": {
+        "id": "z5cYxqfOY0",
+        "created": 1646116898141,
+        "text": "實叉難陀"
+       }},
+       {"data": {
+        "id": "z5cYxqfOY1",
+        "created": 1646116898141,
+        "text": "真諦"
+       }},
+       {"data": {
+        "id": "z5cYxqfOY2",
+        "created": 1646116898141,
+        "text": "馬鳴"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxqfOY3",
+       "created": 1646116898141,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqfOY4",
+       "created": 1646116898141,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxqfOYD",
+       "created": 1646116898141,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqfOYE",
+       "created": 1646116898141,
+       "text": "Translation by Śikṣānanda: between the 1st year of Cheng Sheng (證聖) and the 1st year of Chiu Shih (久視), T'ang dynasty (唐) (A.D. 695-700) in Ch'ing-ch'an Monastery (淸禪寺), Hsi-ching (西京), T. 2152-369b:25.or in Shou-chi Monastery (授記寺), Tung-tu (東都).T.2152-369c:3."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxqfOYF",
+      "created": 1646116898141,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxqfOYG",
+       "created": 1646116898141,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxqfOYH",
+       "created": 1646116898141,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxqfOYI",
+       "created": 1646116898141,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxqfOYJ",
+        "created": 1646116898141,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYK",
+        "created": 1646116898141,
+        "text": "【開寶藏】No.619《大乘起信論》唐 天后代于闐三藏實叉難陀 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：2 千字文：盡"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYL",
+        "created": 1646116898141,
+        "text": "【崇寧藏】No.621《大乘起信論》 卷數：2 千字文：命(256)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYM",
+        "created": 1646116898141,
+        "text": "【毘盧藏】No.622《大乘起信論》 千字文：命(256)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYN",
+        "created": 1646116898141,
+        "text": "【圓覺藏】No.630《大乘起信論》 千字文：命(256)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYO",
+        "created": 1646116898141,
+        "text": "【趙城金藏】No.624《大乘起信論》 卷數：2 千字文：盡"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYP",
+        "created": 1646116898141,
+        "text": "【資福藏】No.635《大乘起信論》 卷數：2 (上下) 千字文：命(256)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYQ",
+        "created": 1646116898141,
+        "text": "【磧砂藏】No.641《大乘起信論》唐 實叉難陀譯 部別：集義論 / 冊數：17 / 頁數：221 / 卷數：2 千字文：命 1 (256)-命 2 (256)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYR",
+        "created": 1646116898141,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYS",
+        "created": 1646116898141,
+        "text": "【高麗藏】No.623《大乘起信論》三藏實叉難陀譯 部別：大乘論 集義論 / 冊數：17 頁數：701(原版) 730(新文豐) / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：盡"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYT",
+        "created": 1646116898141,
+        "text": "【普寧藏】No.633《大乘起信論》 卷數：2 千字文：命(256)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYU",
+        "created": 1646116898141,
+        "text": "【至元錄】No.1349《大乘起信論》馬鳴菩薩造　唐天后代三藏實叉難陀譯 卷數：2 千字文：啟(444)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYV",
+        "created": 1646116898141,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYW",
+        "created": 1646116898141,
+        "text": "【永樂南藏】No.1374《大乘起信論》 部別：大乘論 千字文：邑(410)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYX",
+        "created": 1646116898141,
+        "text": "【永樂北藏】No.1296《大乘起信論》唐實叉難陀-梁真諦二譯 部別：大乘論 / 冊數：105 / 頁數：695 / 卷數：3 千字文：情"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYY",
+        "created": 1646116898141,
+        "text": "【嘉興藏】No.1242《大乘起信論》馬鳴菩薩造-唐三藏實叉難陀奉制譯 部別：大乘論 / 法寶總目錄經號：1241b 千字文 / 函號：［正藏］ 情(387)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYZ",
+        "created": 1646116898141,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYa",
+        "created": 1646116898141,
+        "text": "【乾隆藏】No.1243a《大乘起信論》馬鳴造　(唐)實叉難陀譯 部別：大乘論 / 冊數：86 / 頁數：755 / 卷數：2 千字文：情"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYb",
+        "created": 1646116898141,
+        "text": "【縮刻藏】No.903《大乘起信論》馬鳴菩薩造　唐實叉難陀譯 部別：印度大乘宗經論 / 卷數：2 千字文：來 10 (18)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYc",
+        "created": 1646116898141,
+        "text": "【卍正藏】No.1257《大乘起信論》大周 實叉難陀譯 部別：大乘論 / 冊數：41 / 頁數：768 / 卷數：2 原版套數：第 22 套"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYd",
+        "created": 1646116898141,
+        "text": "【大正藏】No.1667《大乘起信論》馬鳴菩薩造 唐 實叉難陀譯 部別：論集部全 / 冊數：32 / 頁數：583 / 卷數：2 相關經典：縮-來10,卍-22.5 參考資料：No.1666;cf.Nos.1850,2813-2815"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYe",
+        "created": 1646116898141,
+        "text": "【佛教大藏經】No.945《大乘起信論》唐 實叉難陀譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：781 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYf",
+        "created": 1646116898141,
+        "text": "【中華藏】No.673《大乘起信論》馬鳴菩薩造，大周于闐三藏實叉難陀奉製譯 冊數：30 / 頁數：918 / 卷數：2 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYg",
+        "created": 1646116898141,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYh",
+        "created": 1646116898141,
+        "text": "【南條文雄編號】 Nj. 1249"
+       }},
+       {"data": {
+        "id": "z5cYxqfOYi",
+        "created": 1646116898141,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1667"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzkq1dx",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說善夜經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxbKK4E",
+    "created": 1646116897190,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxbKK3H",
+      "created": 1646116897190,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxbKK3I",
+        "created": 1646116897190,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbKK3J",
+        "created": 1646116897190,
+        "text": "佛說善夜經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbKK3K",
+        "created": 1646116897190,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbKK3L",
+        "created": 1646116897190,
+        "text": "佛说善夜经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbKK3M",
+        "created": 1646116897190,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbKK3N",
+        "created": 1646116897190,
+        "text": "fo shuo shan ye jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbKK3V",
+        "created": 1646116897190,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbKK3W",
+        "created": 1646116897190,
+        "text": "Shan yeh ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbKK3X",
+        "created": 1646116897190,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbKK3Y",
+        "created": 1646116897190,
+        "text": "Bhadrakārātrī(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbKK3Z",
+        "created": 1646116897190,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbKK3a",
+        "created": 1646116897190,
+        "text": "Mtshan-mo bzaṅ po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbKK3b",
+        "created": 1646116897190,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbKK3c",
+        "created": 1646116897190,
+        "text": "선야경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbKK3O",
+      "created": 1646116897190,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbKK3P",
+      "created": 1646116897190,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbKK3Q",
+      "created": 1646116897190,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbKK3R",
+       "created": 1646116897190,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3S",
+       "created": 1646116897190,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbKK3T",
+      "created": 1646116897190,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbKK3U",
+      "created": 1646116897190,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbKK3d",
+      "created": 1646116897190,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbKK3e",
+      "created": 1646116897190,
+      "text": "Translation by I-ching: 23rd day, 9th month, 1st year of Ta Tsu (大足), T'ang dynasty (唐) (October 28th, A.D. 701) in Ta-fu-hsien Monastery (大福先寺), Tung-tu (東都).T.2154-567b:23"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbKK3f",
+      "created": 1646116897190,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbKK3g",
+       "created": 1646116897190,
+       "text": "【北京版】Mdo-sna-tshogs (su)171a-173bRgyud (ya)96b-98b"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3h",
+       "created": 1646116897190,
+       "text": "【奈塘版】Mdo (la)253b-257a"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3i",
+       "created": 1646116897190,
+       "text": "【德格版】Mdo-sde (sa)161 b-163bRgyud-ḥbum (ba)56a-58bGzuṅs-ḥdus (wam)90a-92a"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3j",
+       "created": 1646116897190,
+       "text": "【拉薩版】Mdo (la)248a-252a"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3k",
+       "created": 1646116897190,
+       "text": "【卓尼版】Mdo-maṅ (sa)200b-203bRgyud (ya)98a-100b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbKK3l",
+      "created": 1646116897190,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbKK3m",
+      "created": 1646116897190,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbKK3n",
+      "created": 1646116897190,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbKK3o",
+       "created": 1646116897190,
+       "text": "【房山石經】No.607《善夜經》(唐)三藏法師義淨奉制譯 冊數：13 / 頁數：575 / 卷數：1 / 刻經年代：保大元年刻石 / 瀏覽：目錄圖檔 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3p",
+       "created": 1646116897190,
+       "text": "【開寶藏】No.458《善夜經》唐 三藏義淨 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3q",
+       "created": 1646116897190,
+       "text": "【崇寧藏】No.463《佛說善夜經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3r",
+       "created": 1646116897190,
+       "text": "【毘盧藏】No.461《佛說善夜經》唐義淨譯 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3s",
+       "created": 1646116897190,
+       "text": "【圓覺藏】No.473《善夜經》 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3t",
+       "created": 1646116897190,
+       "text": "【趙城金藏】No.460《善夜經》 卷數：1 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3u",
+       "created": 1646116897190,
+       "text": "【資福藏】No.477《善夜經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3v",
+       "created": 1646116897190,
+       "text": "【磧砂藏】No.480《佛說善夜經》唐 義淨譯 部別：五大部外單譯經 / 冊數：13 / 頁數：702 / 卷數：1 千字文：羊 3 (200)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3w",
+       "created": 1646116897190,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3x",
+       "created": 1646116897190,
+       "text": "【高麗藏】No.459《善夜經》三藏法師義淨譯 部別：大乘經 單譯 / 冊數：13 頁數：1200 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3y",
+       "created": 1646116897190,
+       "text": "【普寧藏】No.473《佛說善夜經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK3z",
+       "created": 1646116897190,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK40",
+       "created": 1646116897190,
+       "text": "【洪武南藏】No.418《佛說善夜經》唐 三藏法師義淨 奉制譯 冊數：67 / 頁數：583 / 卷數：1 千字文：羊 3 (200)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK41",
+       "created": 1646116897190,
+       "text": "【永樂南藏】No.471《佛說善夜經》 部別：大乘經-單譯經 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK42",
+       "created": 1646116897190,
+       "text": "【永樂北藏】No.526《佛說善夜經》唐義淨譯 部別：大乘經單經譯 / 冊數：53 / 頁數：698 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxbKK43",
+       "created": 1646116897190,
+       "text": "【嘉興藏】No.495《佛說善夜經》唐義淨譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0495 千字文 / 函號：［正藏］ 行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK44",
+       "created": 1646116897190,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK45",
+       "created": 1646116897190,
+       "text": "【乾隆藏】No.496《佛說善夜經》唐 義淨譯 部別：大乘單譯經 / 冊數：45 / 頁數：437 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxbKK46",
+       "created": 1646116897190,
+       "text": "【縮刻藏】No.1544《佛說善夜經》唐義淨譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK47",
+       "created": 1646116897190,
+       "text": "【卍正藏】No.502《佛說善夜經》唐 義淨譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：1 / 卷數：1 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYxbKK48",
+       "created": 1646116897190,
+       "text": "【大正藏】No.1362《佛說善夜經》唐 義淨譯 部別：密教部四 / 冊數：21 / 頁數：881 / 卷數：1 相關經典：縮-成8,卍-12.6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxbKK49",
+       "created": 1646116897190,
+       "text": "【佛教大藏經】No.1621《佛說善夜經》唐 義淨譯 部別：密教部六 / 冊數：57 / 頁數：421 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxbKK4A",
+       "created": 1646116897190,
+       "text": "【中華藏】No.504《佛說善夜經》三藏法師義淨奉制譯 冊數：24 / 頁數：87 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxbKK4B",
+       "created": 1646116897190,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbKK4C",
+       "created": 1646116897190,
+       "text": "【南條文雄編號】 Nj. 0500"
+      }},
+      {"data": {
+       "id": "z5cYxbKK4D",
+       "created": 1646116897190,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1362"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyue156",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

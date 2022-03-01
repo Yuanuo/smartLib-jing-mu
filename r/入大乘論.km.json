@@ -1,0 +1,345 @@
+{
+ "root": {
+  "data": {"text": "入大乘論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxopO4h",
+    "created": 1646116898027,
+    "text": "現藏錄（堅意菩薩造　北涼 道泰等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxooO3n",
+      "created": 1646116898026,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxooO3o",
+        "created": 1646116898026,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxooO3p",
+        "created": 1646116898026,
+        "text": "入大乘論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxooO3q",
+        "created": 1646116898026,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxooO3r",
+        "created": 1646116898026,
+        "text": "入大乘论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxooO3s",
+        "created": 1646116898026,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxooO3t",
+        "created": 1646116898026,
+        "text": "ru da cheng lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxopO43",
+        "created": 1646116898027,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxopO44",
+        "created": 1646116898027,
+        "text": "Ju ta ch'eng lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxopO45",
+        "created": 1646116898027,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxopO46",
+        "created": 1646116898027,
+        "text": "Mahāyānavatāra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxopO47",
+        "created": 1646116898027,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxopO48",
+        "created": 1646116898027,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxopO49",
+        "created": 1646116898027,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxopO4A",
+        "created": 1646116898027,
+        "text": "입대승론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxopO3u",
+      "created": 1646116898027,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxopO3v",
+      "created": 1646116898027,
+      "text": "北涼",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxopO3w",
+      "created": 1646116898027,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxopO3x",
+       "created": 1646116898027,
+       "text": "堅意菩薩造　北涼 道泰等譯"
+      }},
+      {"data": {
+       "id": "z5cYxopO3y",
+       "created": 1646116898027,
+       "text": "堅意",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxopO3z",
+       "created": 1646116898027,
+       "text": "道泰",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxopO40",
+       "created": 1646116898027,
+       "text": "道秦",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxopO41",
+      "created": 1646116898027,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxopO42",
+      "created": 1646116898027,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxopO4B",
+      "created": 1646116898027,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxopO4C",
+      "created": 1646116898027,
+      "text": "Translation by Tao-t'ai: Northern Liang dynasty (北涼) (A.D. 397-439).T. 2146-141b:11."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxopO4D",
+     "created": 1646116898027,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxopO4E",
+      "created": 1646116898027,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxopO4F",
+      "created": 1646116898027,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxopO4G",
+      "created": 1646116898027,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxopO4H",
+       "created": 1646116898027,
+       "text": "【房山石經】No.732《入大乘論》堅意菩薩造　(北涼)沙門道泰等譯 冊數：20 / 頁數：203 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：命"
+      }},
+      {"data": {
+       "id": "z5cYxopO4I",
+       "created": 1646116898027,
+       "text": "【開寶藏】No.613《入大乘論》北涼 沙門釋道泰 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：2 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxopO4J",
+       "created": 1646116898027,
+       "text": "【崇寧藏】No.615《入大乘論》 卷數：2 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4K",
+       "created": 1646116898027,
+       "text": "【毘盧藏】No.616《入大乘論》堅意菩薩造　北涼道泰譯 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4L",
+       "created": 1646116898027,
+       "text": "【圓覺藏】No.624《入大乘論》 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4M",
+       "created": 1646116898027,
+       "text": "【趙城金藏】No.622《入大乘論》 卷數：2 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxopO4N",
+       "created": 1646116898027,
+       "text": "【資福藏】No.629《入大乘論》 卷數：2 (上下) 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4O",
+       "created": 1646116898027,
+       "text": "【磧砂藏】No.635《入大乘論》北涼 道泰譯 部別：集義論 / 冊數：17 / 頁數：174 / 卷數：2 千字文：盡 3 (255)-盡 4 (255)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4P",
+       "created": 1646116898027,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4Q",
+       "created": 1646116898027,
+       "text": "【高麗藏】No.621《入大乘論》三藏法師道泰譯 部別：大乘論 集義論 / 冊數：17 頁數：664(原版) 632(新文豐) / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxopO4R",
+       "created": 1646116898027,
+       "text": "【普寧藏】No.627《入大乘論》 卷數：2 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4S",
+       "created": 1646116898027,
+       "text": "【至元錄】No.1343《入大乘論》堅意菩薩造　北涼沙門道泰譯 卷數：4 / 出處：(出內典錄) 千字文：傍(443)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4T",
+       "created": 1646116898027,
+       "text": "【洪武南藏】No.562《入大乘論》堅意菩薩 造　北涼 沙門釋道泰 譯 冊數：89 / 頁數：22 / 卷數：2 千字文：盡 3 (255)-盡 4 (255)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4U",
+       "created": 1646116898027,
+       "text": "【永樂南藏】No.1369《入大乘論》 部別：大乘論 千字文：都(409)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4V",
+       "created": 1646116898027,
+       "text": "【永樂北藏】No.1290《入大乘論》北涼道泰譯 部別：大乘論 / 冊數：105 / 頁數：385 / 卷數：2 千字文：靜"
+      }},
+      {"data": {
+       "id": "z5cYxopO4W",
+       "created": 1646116898027,
+       "text": "【嘉興藏】No.1236《入大乘論》北涼道泰譯 部別：大乘論 / 法寶總目錄經號：1235 千字文 / 函號：［正藏］ 靜(386)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4X",
+       "created": 1646116898027,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4Y",
+       "created": 1646116898027,
+       "text": "【乾隆藏】No.1237《入大乘論二卷》堅意造　(北涼)釋道泰譯 部別：大乘論 / 冊數：86 / 頁數：535 / 卷數：2 千字文：靜"
+      }},
+      {"data": {
+       "id": "z5cYxopO4Z",
+       "created": 1646116898027,
+       "text": "【縮刻藏】No.931《入大乘論》堅意菩薩造　北涼道泰等譯 部別：印度大乘宗經論 / 卷數：2 千字文：暑 2 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4a",
+       "created": 1646116898027,
+       "text": "【卍正藏】No.1251《入大乘論》北涼 道秦等譯 部別：大乘論 / 冊數：41 / 頁數：641 / 卷數：2 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxopO4b",
+       "created": 1646116898027,
+       "text": "【大正藏】No.1634《入大乘論》堅意菩薩造 北涼 道泰等譯 部別：論集部全 / 冊數：32 / 頁數：36 / 卷數：2 相關經典：縮-暑2,卍-22.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxopO4c",
+       "created": 1646116898027,
+       "text": "【佛教大藏經】No.973《入大乘論》北涼 道泰等譯 部別：大乘宗經論 論部三 / 冊數：37 / 頁數：400 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxopO4d",
+       "created": 1646116898027,
+       "text": "【中華藏】No.671《入大乘論》堅意菩薩造，北涼三藏法師道泰等譯 冊數：30 / 頁數：871 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxopO4e",
+       "created": 1646116898027,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxopO4f",
+       "created": 1646116898027,
+       "text": "【南條文雄編號】 Nj. 1243"
+      }},
+      {"data": {
+       "id": "z5cYxopO4g",
+       "created": 1646116898027,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1634"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzhm1d0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

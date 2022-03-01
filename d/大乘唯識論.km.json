@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "大乘唯識論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxmeNP1",
+    "created": 1646116897892,
+    "text": "現藏錄（天親菩薩造　陳 真諦譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxmdNO8",
+      "created": 1646116897891,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxmdNO9",
+        "created": 1646116897891,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmdNOA",
+        "created": 1646116897891,
+        "text": "大乘唯識論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmdNOB",
+        "created": 1646116897891,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmdNOC",
+        "created": 1646116897891,
+        "text": "大乘唯识论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmdNOD",
+        "created": 1646116897891,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmdNOE",
+        "created": 1646116897891,
+        "text": "da cheng wei shi lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmeNON",
+        "created": 1646116897892,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmeNOO",
+        "created": 1646116897892,
+        "text": "Ta ch'eng wei shih lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmeNOP",
+        "created": 1646116897892,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmeNOQ",
+        "created": 1646116897892,
+        "text": "Viṁśatikāvṛtti",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmeNOR",
+        "created": 1646116897892,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmeNOS",
+        "created": 1646116897892,
+        "text": "Ñi-śu-paḥi ḥgrel-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmeNOT",
+        "created": 1646116897892,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmeNOU",
+        "created": 1646116897892,
+        "text": "대승유식론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxmeNOF",
+      "created": 1646116897892,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmeNOG",
+      "created": 1646116897892,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmeNOH",
+      "created": 1646116897892,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxmeNOI",
+       "created": 1646116897892,
+       "text": "天親菩薩造　陳 真諦譯"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOJ",
+       "created": 1646116897892,
+       "text": "世親",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxmeNOK",
+       "created": 1646116897892,
+       "text": "真諦",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxmeNOL",
+      "created": 1646116897892,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmeNOM",
+      "created": 1646116897892,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmeNOV",
+      "created": 1646116897892,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmeNOW",
+      "created": 1646116897892,
+      "text": "Translation by Paramārtha: Ch'en dynasty (陳) (A.D. 557-569).T. 2155-736b:20; T. 2151-364c:21"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxmeNOX",
+     "created": 1646116897892,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxmeNOY",
+      "created": 1646116897892,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmeNOZ",
+      "created": 1646116897892,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmeNOa",
+      "created": 1646116897892,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxmeNOb",
+       "created": 1646116897892,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOc",
+       "created": 1646116897892,
+       "text": "【開寶藏】No.607《唯識論》陳 天竺三藏真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：力"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOd",
+       "created": 1646116897892,
+       "text": "【崇寧藏】No.608《大乘唯識論》魏菩提流支譯 卷數：1 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOe",
+       "created": 1646116897892,
+       "text": "【毘盧藏】No.611《大乘唯識論》天親菩薩造　陳真諦譯 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOf",
+       "created": 1646116897892,
+       "text": "【圓覺藏】No.620《大乘唯識論》 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOg",
+       "created": 1646116897892,
+       "text": "【趙城金藏】No.611《大乘唯識論》 卷數：1 千字文：力"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOh",
+       "created": 1646116897892,
+       "text": "【資福藏】No.625《大乘唯識論》 卷數：1 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOi",
+       "created": 1646116897892,
+       "text": "【磧砂藏】No.629《大乘唯識論》陳 真諦譯 部別：集義論 / 冊數：17 / 頁數：79 / 卷數：1 千字文：忠 5 (253)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOj",
+       "created": 1646116897892,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOk",
+       "created": 1646116897892,
+       "text": "【高麗藏】No.610《大乘唯識論》陳世真諦三藏譯 部別：大乘論 集義論 / 冊數：17 頁數：486(原版) 483(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：力"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOl",
+       "created": 1646116897892,
+       "text": "【普寧藏】No.620《大乘唯識論》 卷數：1 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOm",
+       "created": 1646116897892,
+       "text": "【至元錄】No.1337《唯識論》陳天竺三藏真諦譯 卷數：1 / 譯次：(第一譯) 千字文：丙(441)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOn",
+       "created": 1646116897892,
+       "text": "【洪武南藏】No.557《大乘唯識論》天親菩薩 造　陳 三藏法師真諦 譯　 冊數：88 / 頁數：246 / 卷數：1 千字文：忠 5 (253)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOo",
+       "created": 1646116897892,
+       "text": "【永樂南藏】No.1365《大乘唯識論》 部別：大乘論 千字文：都(409)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOp",
+       "created": 1646116897892,
+       "text": "【永樂北藏】No.1286《大乘唯識論》陳真諦譯 部別：大乘論 / 冊數：105 / 頁數：291 / 卷數：1 千字文：靜"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOq",
+       "created": 1646116897892,
+       "text": "【嘉興藏】No.1232《大乘唯識論》陳真諦譯 部別：大乘論 / 法寶總目錄經號：1231 千字文 / 函號：［正藏］ 靜(386)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOr",
+       "created": 1646116897892,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOs",
+       "created": 1646116897892,
+       "text": "【乾隆藏】No.1233《大乘唯識論》天親造　(陳)真諦譯 部別：大乘論 / 冊數：86 / 頁數：463 / 卷數：1 千字文：靜"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOt",
+       "created": 1646116897892,
+       "text": "【縮刻藏】No.888《大乘唯識論》天親菩薩造　陳真諦譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 9 (18)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOu",
+       "created": 1646116897892,
+       "text": "【卍正藏】No.1247《大乘唯識論》陳 真諦譯 部別：大乘論 / 冊數：41 / 頁數：602 / 卷數：1 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOv",
+       "created": 1646116897892,
+       "text": "【大正藏】No.1589《大乘唯識論》天親菩薩造 陳 真諦譯 部別：瑜伽部下 / 冊數：31 / 頁數：70 / 卷數：1 相關經典：縮-來9,卍-22.4 參考資料：Nos.1588,1590;cf.No.1591"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOw",
+       "created": 1646116897892,
+       "text": "【佛教大藏經】No.930《大乘唯識論》陳 真諦譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：689 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOx",
+       "created": 1646116897892,
+       "text": "【中華藏】No.660《大乘唯識論》天親菩薩造，陳世真諦譯 冊數：30 / 頁數：648 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOy",
+       "created": 1646116897892,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmeNOz",
+       "created": 1646116897892,
+       "text": "【南條文雄編號】 Nj. 1239"
+      }},
+      {"data": {
+       "id": "z5cYxmeNP0",
+       "created": 1646116897892,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1589"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzdv1br",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

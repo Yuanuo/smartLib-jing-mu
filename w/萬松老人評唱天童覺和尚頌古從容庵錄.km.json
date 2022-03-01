@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "萬松老人評唱天童覺和尚頌古從容庵錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYy3XScW",
+    "created": 1646116898939,
+    "text": "現藏錄（宋 正覺頌古　元 行秀評唱）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy3WSbq",
+      "created": 1646116898938,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy3WSbr",
+        "created": 1646116898938,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy3WSbs",
+        "created": 1646116898938,
+        "text": "萬松老人評唱天童覺和尚頌古從容庵錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy3WSbt",
+        "created": 1646116898938,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy3WSbu",
+        "created": 1646116898938,
+        "text": "万松老人评唱天童觉和尚颂古从容庵录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy3WSbv",
+        "created": 1646116898938,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy3WSbw",
+        "created": 1646116898938,
+        "text": "wan song lao ren ping chang tian tong jue he shang song gu cong rong an lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy3WSbx",
+      "created": 1646116898938,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy3WSby",
+      "created": 1646116898938,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy3WSbz",
+      "created": 1646116898938,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy3WSc0",
+       "created": 1646116898938,
+       "text": "宋 正覺頌古　元 行秀評唱"
+      }},
+      {"data": {
+       "id": "z5cYy3WSc1",
+       "created": 1646116898938,
+       "text": "正覺",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy3WSc2",
+       "created": 1646116898938,
+       "text": "行秀",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy3WSc3",
+      "created": 1646116898938,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy3WSc4",
+      "created": 1646116898938,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy3WSc5",
+      "created": 1646116898938,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy3WSc6",
+       "created": 1646116898938,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WSc7",
+       "created": 1646116898938,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WSc8",
+       "created": 1646116898938,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WSc9",
+       "created": 1646116898938,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScA",
+       "created": 1646116898938,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScB",
+       "created": 1646116898938,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScC",
+       "created": 1646116898938,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScD",
+       "created": 1646116898938,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScE",
+       "created": 1646116898938,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScF",
+       "created": 1646116898938,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScG",
+       "created": 1646116898938,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScH",
+       "created": 1646116898938,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScI",
+       "created": 1646116898938,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScJ",
+       "created": 1646116898938,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScK",
+       "created": 1646116898938,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScL",
+       "created": 1646116898938,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScM",
+       "created": 1646116898938,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScN",
+       "created": 1646116898938,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScO",
+       "created": 1646116898938,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScP",
+       "created": 1646116898938,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScQ",
+       "created": 1646116898938,
+       "text": "【大正藏】No.2004《萬松老人評唱天童覺和尚頌古從容庵錄》宋 正覺頌古　元 行秀評唱 部別：諸宗部五 / 冊數：48 / 頁數：226 / 卷數：6 相關經典：續-2.12.4,國-諸宗6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy3WScR",
+       "created": 1646116898938,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScS",
+       "created": 1646116898938,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScT",
+       "created": 1646116898938,
+       "text": "【新纂卍續藏】No.1305《萬松老人評唱天童覺和尚頌古從容庵錄》宋 正覺頌古　元 行秀評唱 部別：中國撰述 諸宗著述部十四 禪宗語錄通集 / 冊數：67 / 頁數：376 / 卷數：6 《卍大日本續藏經》套數：第二編．第 22 套 《卍續藏經》(新文豐版)冊數：第 117 冊"
+      }},
+      {"data": {
+       "id": "z5cYy3WScU",
+       "created": 1646116898938,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy3WScV",
+       "created": 1646116898938,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2004"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri06y1nw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

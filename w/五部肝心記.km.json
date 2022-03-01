@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "五部肝心記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLSYKm",
+    "created": 1646116900050,
+    "text": "現藏錄（日本 真濟撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLSYK7",
+      "created": 1646116900050,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLSYK8",
+        "created": 1646116900050,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLSYK9",
+        "created": 1646116900050,
+        "text": "五部肝心記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLSYKA",
+        "created": 1646116900050,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLSYKB",
+        "created": 1646116900050,
+        "text": "五部肝心记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLSYKC",
+        "created": 1646116900050,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLSYKD",
+        "created": 1646116900050,
+        "text": "wu bu gan xin ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLSYKE",
+      "created": 1646116900050,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLSYKF",
+      "created": 1646116900050,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLSYKG",
+      "created": 1646116900050,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLSYKH",
+       "created": 1646116900050,
+       "text": "日本 真濟撰"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKI",
+       "created": 1646116900050,
+       "text": "真濟",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLSYKJ",
+      "created": 1646116900050,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLSYKK",
+      "created": 1646116900050,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLSYKL",
+      "created": 1646116900050,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLSYKM",
+       "created": 1646116900050,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKN",
+       "created": 1646116900050,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKO",
+       "created": 1646116900050,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKP",
+       "created": 1646116900050,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKQ",
+       "created": 1646116900050,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKR",
+       "created": 1646116900050,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKS",
+       "created": 1646116900050,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKT",
+       "created": 1646116900050,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKU",
+       "created": 1646116900050,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKV",
+       "created": 1646116900050,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKW",
+       "created": 1646116900050,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKX",
+       "created": 1646116900050,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKY",
+       "created": 1646116900050,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKZ",
+       "created": 1646116900050,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKa",
+       "created": 1646116900050,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKb",
+       "created": 1646116900050,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKc",
+       "created": 1646116900050,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKd",
+       "created": 1646116900050,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKe",
+       "created": 1646116900050,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKf",
+       "created": 1646116900050,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKg",
+       "created": 1646116900050,
+       "text": "【大正藏】No.2467《五部肝心記》日本 真濟撰 部別：續諸宗部九 / 冊數：78 / 頁數：37 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLSYKh",
+       "created": 1646116900050,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKi",
+       "created": 1646116900050,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKj",
+       "created": 1646116900050,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKk",
+       "created": 1646116900050,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLSYKl",
+       "created": 1646116900050,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2467"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri11u220",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

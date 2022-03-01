@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "施食通覽"},
+  "children": [{
+   "data": {
+    "id": "z5cYzKwqN1",
+    "created": 1646116903862,
+    "text": "現藏錄（宋 宗曉編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzKwqMM",
+      "created": 1646116903862,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzKwqMN",
+        "created": 1646116903862,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzKwqMO",
+        "created": 1646116903862,
+        "text": "施食通覽",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzKwqMP",
+        "created": 1646116903862,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzKwqMQ",
+        "created": 1646116903862,
+        "text": "施食通览",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzKwqMR",
+        "created": 1646116903862,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzKwqMS",
+        "created": 1646116903862,
+        "text": "shi shi tong lan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzKwqMT",
+      "created": 1646116903862,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzKwqMU",
+      "created": 1646116903862,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzKwqMV",
+      "created": 1646116903862,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzKwqMW",
+       "created": 1646116903862,
+       "text": "宋 宗曉編"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMX",
+       "created": 1646116903862,
+       "text": "宗曉",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzKwqMY",
+      "created": 1646116903862,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzKwqMZ",
+      "created": 1646116903862,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzKwqMa",
+      "created": 1646116903862,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzKwqMb",
+       "created": 1646116903862,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMc",
+       "created": 1646116903862,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMd",
+       "created": 1646116903862,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMe",
+       "created": 1646116903862,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMf",
+       "created": 1646116903862,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMg",
+       "created": 1646116903862,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMh",
+       "created": 1646116903862,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMi",
+       "created": 1646116903862,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMj",
+       "created": 1646116903862,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMk",
+       "created": 1646116903862,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMl",
+       "created": 1646116903862,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMm",
+       "created": 1646116903862,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMn",
+       "created": 1646116903862,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMo",
+       "created": 1646116903862,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMp",
+       "created": 1646116903862,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMq",
+       "created": 1646116903862,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMr",
+       "created": 1646116903862,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMs",
+       "created": 1646116903862,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMt",
+       "created": 1646116903862,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMu",
+       "created": 1646116903862,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMv",
+       "created": 1646116903862,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMw",
+       "created": 1646116903862,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMx",
+       "created": 1646116903862,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMy",
+       "created": 1646116903862,
+       "text": "【新纂卍續藏】No.961《施食通覽》宋 宗曉編 部別：中國撰述 諸宗著述部四 天台宗 / 冊數：57 / 頁數：101 / 卷數：1 《卍大日本續藏經》套數：第二編．第 6 套 《卍續藏經》(新文豐版)冊數：第 101 冊"
+      }},
+      {"data": {
+       "id": "z5cYzKwqMz",
+       "created": 1646116903862,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzKwqN0",
+       "created": 1646116903862,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1273"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3zq3d2",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "佛說稱揚諸佛功德經"},
+  "children": [{
+   "data": {
+    "id": "z5cYws46xx",
+    "created": 1646116894384,
+    "text": "現藏錄（元魏 吉迦夜譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYws46wz",
+      "created": 1646116894384,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYws46x0",
+        "created": 1646116894384,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYws46x1",
+        "created": 1646116894384,
+        "text": "佛說稱揚諸佛功德經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws46x2",
+        "created": 1646116894384,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYws46x3",
+        "created": 1646116894384,
+        "text": "佛说称扬诸佛功德经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws46x4",
+        "created": 1646116894384,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYws46x5",
+        "created": 1646116894384,
+        "text": "fo shuo cheng yang zhu fo gong de jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws46xE",
+        "created": 1646116894384,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYws46xF",
+        "created": 1646116894384,
+        "text": "Ch'eng yang chu fo kung te ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws46xG",
+        "created": 1646116894384,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYws46xH",
+        "created": 1646116894384,
+        "text": "Kusumasañcayasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws46xI",
+        "created": 1646116894384,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYws46xJ",
+        "created": 1646116894384,
+        "text": "Me-tog-gi tshogs"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws46xK",
+        "created": 1646116894384,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYws46xL",
+        "created": 1646116894384,
+        "text": "칭양제불공덕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYws46x6",
+      "created": 1646116894384,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYws46x7",
+      "created": 1646116894384,
+      "text": "元魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws46x8",
+      "created": 1646116894384,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYws46x9",
+       "created": 1646116894384,
+       "text": "元魏 吉迦夜譯"
+      }},
+      {"data": {
+       "id": "z5cYws46xA",
+       "created": 1646116894384,
+       "text": "吉迦夜",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYws46xB",
+       "created": 1646116894384,
+       "text": "曇曜",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYws46xC",
+      "created": 1646116894384,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYws46xD",
+      "created": 1646116894384,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws46xM",
+      "created": 1646116894384,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYws46xN",
+      "created": 1646116894384,
+      "text": "Translation by Kiṃkārya: 2nd year of Yen Hsing (延興), Northern Wei Dynasty (元魏) (A.D. 472) in Pei-t'ai (北臺) .T. 2151-360b:1; T. 2153-398b:16."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws46xO",
+      "created": 1646116894384,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYws46xP",
+       "created": 1646116894384,
+       "text": "【北京版】Mdo-sna-tshogs (zu)315b-352"
+      }},
+      {"data": {
+       "id": "z5cYws46xQ",
+       "created": 1646116894384,
+       "text": "【奈塘版】Mdo (sha)451a-499a"
+      }},
+      {"data": {
+       "id": "z5cYws46xR",
+       "created": 1646116894384,
+       "text": "【德格版】Mdo-sde (ḥa)288a-319a"
+      }},
+      {"data": {
+       "id": "z5cYws46xS",
+       "created": 1646116894384,
+       "text": "【拉薩版】Mdo (za)l b-52b"
+      }},
+      {"data": {
+       "id": "z5cYws46xT",
+       "created": 1646116894384,
+       "text": "【卓尼版】Mdo-maṅ (ha)312a-349a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYws46xU",
+      "created": 1646116894384,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYws46xV",
+      "created": 1646116894384,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws46xW",
+      "created": 1646116894384,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYws46xX",
+       "created": 1646116894384,
+       "text": "【房山石經】No.517《佛說稱揚諸佛功德經》(元魏)西域三藏吉迦夜共曇曜譯 冊數：11 / 頁數：120 / 卷數：3 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：得"
+      }},
+      {"data": {
+       "id": "z5cYws46xY",
+       "created": 1646116894384,
+       "text": "【開寶藏】No.372《稱揚諸佛功德經》元魏 西域三藏吉迦夜共曇曜 譯 部別：大乘經 五大部外諸重譯經 / 卷數：3 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYws46xZ",
+       "created": 1646116894384,
+       "text": "【崇寧藏】No.371《稱揚諸佛百德經》 卷數：3 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYws46xa",
+       "created": 1646116894384,
+       "text": "【毘盧藏】No.369《稱揚諸佛功德經》元魏吉迦夜共曇曜譯 參考年代：(靖康元．八) 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYws46xb",
+       "created": 1646116894384,
+       "text": "【圓覺藏】No.380《稱揚諸佛功德經》 卷數：3 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYws46xc",
+       "created": 1646116894384,
+       "text": "【趙城金藏】No.372《稱揚諸佛功德經》 卷數：3 千字文：必"
+      }},
+      {"data": {
+       "id": "z5cYws46xd",
+       "created": 1646116894384,
+       "text": "【資福藏】No.384《稱揚諸佛功德經》 卷數：3 (三卷) 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYws46xe",
+       "created": 1646116894384,
+       "text": "【磧砂藏】No.387《稱揚諸佛功德經》元魏 吉迦夜．瞿曜譯(內文是「曇曜」) 部別：五大部外諸重譯經 / 冊數：12 / 頁數：1 / 卷數：3 千字文：改 1 (172)-改 3 (172)"
+      }},
+      {"data": {
+       "id": "z5cYws46xf",
+       "created": 1646116894384,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYws46xg",
+       "created": 1646116894384,
+       "text": "【高麗藏】No.371《稱揚諸佛功德經》元魏天竺三藏吉迦夜譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：170 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：必"
+      }},
+      {"data": {
+       "id": "z5cYws46xh",
+       "created": 1646116894384,
+       "text": "【普寧藏】No.381《稱揚諸佛功德經》 卷數：3 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYws46xi",
+       "created": 1646116894384,
+       "text": "【至元錄】No.381《稱揚諸佛功德經》元魏西域三藏吉迦夜共曇曜譯 梵名：阿唎(二合)亞　姑蘇麻　散扎牙拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：3 / 譯次：(第三譯二闕) 千字文：莫(175)"
+      }},
+      {"data": {
+       "id": "z5cYws46xj",
+       "created": 1646116894384,
+       "text": "【洪武南藏】No.338《稱揚諸佛功德經》元魏 西域三藏吉迦夜共曇曜 第三譯 冊數：58 / 頁數：289 / 卷數：3 千字文：改 1 (172)-改 3 (172)"
+      }},
+      {"data": {
+       "id": "z5cYws46xk",
+       "created": 1646116894384,
+       "text": "【永樂南藏】No.379《稱揚諸佛功德經》 部別：大乘經-五大部外重譯經 千字文：罔(177)"
+      }},
+      {"data": {
+       "id": "z5cYws46xl",
+       "created": 1646116894384,
+       "text": "【永樂北藏】No.426《稱揚諸佛功德經》元魏吉迦夜-共曇曜譯 部別：大乘經單經譯 / 冊數：48 / 頁數：61 / 卷數：3 千字文：靡"
+      }},
+      {"data": {
+       "id": "z5cYws46xm",
+       "created": 1646116894384,
+       "text": "【嘉興藏】No.397《稱揚諸佛功德經》元魏吉迦夜-共曇曜譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0397 千字文 / 函號：［正藏］ 靡(181)"
+      }},
+      {"data": {
+       "id": "z5cYws46xn",
+       "created": 1646116894384,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYws46xo",
+       "created": 1646116894384,
+       "text": "【乾隆藏】No.398《稱揚諸佛功德經》元魏 吉迦夜,曇曜譯 部別：大乘單譯經 / 冊數：41 / 頁數：43 / 卷數：3 千字文：靡"
+      }},
+      {"data": {
+       "id": "z5cYws46xp",
+       "created": 1646116894384,
+       "text": "【縮刻藏】No.126《佛說稱揚諸佛功德經》元魏吉迦夜譯 部別：大乘經-方等部 / 卷數：3 千字文：黃 4 (4)"
+      }},
+      {"data": {
+       "id": "z5cYws46xq",
+       "created": 1646116894384,
+       "text": "【卍正藏】No.403《佛說稱揚諸佛功德經》元魏 吉迦夜譯 部別：大乘經 單譯經 / 冊數：19 / 頁數：787 / 卷數：3 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYws46xr",
+       "created": 1646116894384,
+       "text": "【大正藏】No.434《佛說稱揚諸佛功德經》元魏 吉迦夜譯 部別：經集部一 / 冊數：14 / 頁數：87 / 卷數：3 相關經典：縮-黃4,卍-11.4,國-經12 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYws46xs",
+       "created": 1646116894384,
+       "text": "【佛教大藏經】No.128《佛說稱揚諸佛功德經》元魏 吉迦夜譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：696 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYws46xt",
+       "created": 1646116894384,
+       "text": "【中華藏】No.397《佛說稱揚諸佛功德經》元魏天竺三藏吉迦夜譯 冊數：20 / 頁數：632 / 卷數：3 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYws46xu",
+       "created": 1646116894384,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYws46xv",
+       "created": 1646116894384,
+       "text": "【南條文雄編號】 Nj. 0402"
+      }},
+      {"data": {
+       "id": "z5cYws46xw",
+       "created": 1646116894384,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：434"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwofdv",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "外道問聖大乘法無我義經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxDKCyH",
+    "created": 1646116895702,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxDKCxK",
+      "created": 1646116895702,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxDKCxL",
+        "created": 1646116895702,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDKCxM",
+        "created": 1646116895702,
+        "text": "外道問聖大乘法無我義經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDKCxN",
+        "created": 1646116895702,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDKCxO",
+        "created": 1646116895702,
+        "text": "外道问圣大乘法无我义经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDKCxP",
+        "created": 1646116895702,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDKCxQ",
+        "created": 1646116895702,
+        "text": "wai dao wen sheng da cheng fa wu wo yi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDKCxY",
+        "created": 1646116895702,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDKCxZ",
+        "created": 1646116895702,
+        "text": "Wai tao wen sheng ta ch'eng fa wu wo i ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDKCxa",
+        "created": 1646116895702,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDKCxb",
+        "created": 1646116895702,
+        "text": "Nairātmyaparipṛcchānirdeśa",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDKCxc",
+        "created": 1646116895702,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDKCxd",
+        "created": 1646116895702,
+        "text": "Bdag-med-pa dris-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxDKCxe",
+        "created": 1646116895702,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxDKCxf",
+        "created": 1646116895702,
+        "text": "외도문성대승법무아의경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxDKCxR",
+      "created": 1646116895702,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDKCxS",
+      "created": 1646116895702,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDKCxT",
+      "created": 1646116895702,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxDKCxU",
+       "created": 1646116895702,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxV",
+       "created": 1646116895702,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxDKCxW",
+      "created": 1646116895702,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDKCxX",
+      "created": 1646116895702,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDKCxg",
+      "created": 1646116895702,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDKCxh",
+      "created": 1646116895702,
+      "text": "Ta-chung-lu vol.5 p.1a."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDKCxi",
+      "created": 1646116895702,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxDKCxj",
+       "created": 1646116895702,
+       "text": "【北京版】Mdo-sna-tshogs (bu)5b-8a"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxk",
+       "created": 1646116895702,
+       "text": "【奈塘版】Mdo (pha)8a-11b"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxl",
+       "created": 1646116895702,
+       "text": "【德格版】Mdo-sde (ma)5b-7b"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxm",
+       "created": 1646116895702,
+       "text": "【拉薩版】Mdo (pha)8a-11b"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxn",
+       "created": 1646116895702,
+       "text": "【卓尼版】Mdo-maṅ (ma)6b-9a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxDKCxo",
+      "created": 1646116895702,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxDKCxp",
+      "created": 1646116895702,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxDKCxq",
+      "created": 1646116895702,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxDKCxr",
+       "created": 1646116895702,
+       "text": "【房山石經】No.903《外道問聖大乘法無我義經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：26 / 頁數：143 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：時"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxs",
+       "created": 1646116895702,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxt",
+       "created": 1646116895702,
+       "text": "【崇寧藏】No.1131《外道問聖大乘法無我義經》 卷數：1 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxu",
+       "created": 1646116895702,
+       "text": "【毘盧藏】No.1131《外道問聖大乘法無我義經》三藏法天譯 參考年代：(建炎二．五) 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxv",
+       "created": 1646116895702,
+       "text": "【圓覺藏】No.1139《外道問大乘無我義經》 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxw",
+       "created": 1646116895702,
+       "text": "【趙城金藏】No.1129《外道問聖大乘法無我義經》 卷數：1 千字文：經"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxx",
+       "created": 1646116895702,
+       "text": "【資福藏】No.1143《外道問大乘無我義經》 卷數：1 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxy",
+       "created": 1646116895702,
+       "text": "【磧砂藏】No.1154《外道問聖大乘法無我義經》宋 法天譯 部別： / 冊數：32 / 頁數：667 / 卷數：1 千字文：卿 8 (496)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCxz",
+       "created": 1646116895702,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy0",
+       "created": 1646116895702,
+       "text": "【高麗藏】No.1128《外道問聖大乘法無我義經》西天譯經三藏法天譯 部別：宋續入藏經 / 冊數：33 頁數：1053 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：經"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy1",
+       "created": 1646116895702,
+       "text": "【普寧藏】No.1144《外道問聖大乘法無我義經》 卷數：1 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy2",
+       "created": 1646116895702,
+       "text": "【至元錄】No.505《外道問聖大乘法無我義經》宋天竺三藏法天譯 卷數：1 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy3",
+       "created": 1646116895702,
+       "text": "【洪武南藏】No.1009《外道問大乘法無我義經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師臣法天 奉詔譯 冊數：179 / 頁數：495 / 卷數：1 千字文：卿 8 (496)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy4",
+       "created": 1646116895702,
+       "text": "【永樂南藏】No.812《外道問大乘無我義經》 部別：宋元入藏諸大小乘經 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy5",
+       "created": 1646116895702,
+       "text": "【永樂北藏】No.849《外道問聖大乘法無我義經》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：676 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy6",
+       "created": 1646116895702,
+       "text": "【嘉興藏】No.812《外道問聖大乘法無我義經》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0812 千字文 / 函號：［正藏］ 則(254)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy7",
+       "created": 1646116895702,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy8",
+       "created": 1646116895702,
+       "text": "【乾隆藏】No.813《外道問聖大乘法無我義經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：61 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxDKCy9",
+       "created": 1646116895702,
+       "text": "【縮刻藏】No.235《外道問聖大乘法無我義經》宋法天譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 1 (6)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCyA",
+       "created": 1646116895702,
+       "text": "【卍正藏】No.822《外道問聖大乘法無我義經》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：535 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxDKCyB",
+       "created": 1646116895702,
+       "text": "【大正藏】No.846《外道問聖大乘法無我義經》宋 法天譯 部別：經集部四 / 冊數：17 / 頁數：934 / 卷數：1 相關經典：縮-宙1,卍-15.3,國-經15 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxDKCyC",
+       "created": 1646116895702,
+       "text": "【佛教大藏經】No.238《外道問聖大乘法無我義經》宋 法天譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：54 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxDKCyD",
+       "created": 1646116895702,
+       "text": "【中華藏】No.1240《外道問聖大乘法無我義經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師法天奉詔譯 冊數：63 / 頁數：990 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxDKCyE",
+       "created": 1646116895702,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxDKCyF",
+       "created": 1646116895702,
+       "text": "【南條文雄編號】 Nj. 0818"
+      }},
+      {"data": {
+       "id": "z5cYxDKCyG",
+       "created": 1646116895702,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：846"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxp1pn",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

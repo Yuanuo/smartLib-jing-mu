@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "樂想經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwOGn6",
+    "created": 1646116892536,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwOFmF",
+      "created": 1646116892535,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwOFmG",
+        "created": 1646116892535,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOFmH",
+        "created": 1646116892535,
+        "text": "樂想經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOFmI",
+        "created": 1646116892535,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOFmJ",
+        "created": 1646116892535,
+        "text": "乐想经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOFmK",
+        "created": 1646116892535,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOFmL",
+        "created": 1646116892535,
+        "text": "le xiang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOFmT",
+        "created": 1646116892535,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOFmU",
+        "created": 1646116892535,
+        "text": "Lo hsiang ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwOFmV",
+       "created": 1646116892535,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwOFmW",
+        "created": 1646116892535,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOFmX",
+        "created": 1646116892535,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOFmY",
+        "created": 1646116892535,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOFmZ",
+        "created": 1646116892535,
+        "text": "낙상경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwOFmM",
+      "created": 1646116892535,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOFmN",
+      "created": 1646116892535,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOFmO",
+      "created": 1646116892535,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwOFmP",
+       "created": 1646116892535,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwOFmQ",
+       "created": 1646116892535,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwOFmR",
+      "created": 1646116892535,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOFmS",
+      "created": 1646116892535,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOGma",
+      "created": 1646116892536,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOGmb",
+      "created": 1646116892536,
+      "text": "Translation by Dharmarakṣa: (see K.687)"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwOGmc",
+     "created": 1646116892536,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwOGmd",
+      "created": 1646116892536,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOGme",
+      "created": 1646116892536,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOGmf",
+      "created": 1646116892536,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwOGmg",
+       "created": 1646116892536,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmh",
+       "created": 1646116892536,
+       "text": "【開寶藏】No.681《樂想經》西晉 三藏竺法護 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwOGmi",
+       "created": 1646116892536,
+       "text": "【崇寧藏】No.684《佛說樂想經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmj",
+       "created": 1646116892536,
+       "text": "【毘盧藏】No.685《佛說樂想經》西晉竺法護譯 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmk",
+       "created": 1646116892536,
+       "text": "【圓覺藏】No.693《樂想經》 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOGml",
+       "created": 1646116892536,
+       "text": "【趙城金藏】No.690《樂想經》 卷數：1 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwOGmm",
+       "created": 1646116892536,
+       "text": "【資福藏】No.698《樂想經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmn",
+       "created": 1646116892536,
+       "text": "【磧砂藏】No.704《佛說樂想經》晉 竺法護譯 部別：阿含部 / 冊數：18 / 頁數：802 / 卷數：1 千字文：止 8 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmo",
+       "created": 1646116892536,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmp",
+       "created": 1646116892536,
+       "text": "【高麗藏】No.689《樂想經》西晉三藏竺法護譯 部別：小乘經 阿含部 / 冊數：19 頁數：561 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwOGmq",
+       "created": 1646116892536,
+       "text": "【普寧藏】No.696《佛號樂想經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmr",
+       "created": 1646116892536,
+       "text": "【至元錄】No.926《樂想經》西晉三藏竺法護譯 卷數：1 千字文：登(307)"
+      }},
+      {"data": {
+       "id": "z5cYwOGms",
+       "created": 1646116892536,
+       "text": "【洪武南藏】No.624《佛說樂想經》西晉 沙門竺法護 譯 冊數：99 / 頁數：209 / 卷數：1 千字文：止 8 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmt",
+       "created": 1646116892536,
+       "text": "【永樂南藏】No.573《佛說樂想經》 部別：小乘經-阿含部 千字文：福(229)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmu",
+       "created": 1646116892536,
+       "text": "【永樂北藏】No.596《佛說樂想經》西晉竺法護譯 部別：小乘經阿含部 / 冊數：61 / 頁數：614 / 卷數：1 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwOGmv",
+       "created": 1646116892536,
+       "text": "【嘉興藏】No.561《佛說樂想經》西晉竺法護譯 部別：小乘經-阿含部 / 法寶總目錄經號：0561 千字文 / 函號：［正藏］ 緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmw",
+       "created": 1646116892536,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmx",
+       "created": 1646116892536,
+       "text": "【乾隆藏】No.562《佛說樂想經》西晉 竺法護譯 部別：小乘阿含部 / 冊數：51 / 頁數：672 / 卷數：1 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwOGmy",
+       "created": 1646116892536,
+       "text": "【縮刻藏】No.510《佛說樂想經》西晉竺法護譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwOGmz",
+       "created": 1646116892536,
+       "text": "【卍正藏】No.569《佛說樂想經》西晉 竺法護譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：151 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwOGn0",
+       "created": 1646116892536,
+       "text": "【大正藏】No.56《樂想經》西晉 竺法護譯 部別：阿含部上 / 冊數：1 / 頁數：851 / 卷數：1 相關經典：縮-昃8,卍-14.1,南-9.1 參考資料：No.26(106)"
+      }},
+      {"data": {
+       "id": "z5cYwOGn1",
+       "created": 1646116892536,
+       "text": "【佛教大藏經】No.518《佛說樂想經》西晉 竺法護譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：269 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwOGn2",
+       "created": 1646116892536,
+       "text": "【中華藏】No.718《佛說樂想經》西晉月支國三藏竺法護譯 冊數：34 / 頁數：3 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwOGn3",
+       "created": 1646116892536,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOGn4",
+       "created": 1646116892536,
+       "text": "【南條文雄編號】 Nj. 0566"
+      }},
+      {"data": {
+       "id": "z5cYwOGn5",
+       "created": 1646116892536,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：56"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhv921j",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

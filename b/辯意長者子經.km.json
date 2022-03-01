@@ -1,0 +1,374 @@
+{
+ "root": {
+  "data": {"text": "辯意長者子經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwxZ8b5",
+    "created": 1646116894725,
+    "text": "現藏錄（後魏 法場譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwxY8a6",
+      "created": 1646116894724,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwxY8a7",
+        "created": 1646116894724,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxY8a8",
+        "created": 1646116894724,
+        "text": "辯意長者子經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxY8a9",
+        "created": 1646116894724,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxY8aA",
+        "created": 1646116894724,
+        "text": "辩意长者子经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxY8aB",
+        "created": 1646116894724,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxY8aC",
+        "created": 1646116894724,
+        "text": "bian yi chang zhe zi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxY8aM",
+        "created": 1646116894724,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxY8aN",
+        "created": 1646116894724,
+        "text": "Pien i chang che tzu ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxY8aO",
+        "created": 1646116894724,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxY8aP",
+        "created": 1646116894724,
+        "text": "Pratibhānamatiparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxY8aQ",
+        "created": 1646116894724,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxY8aR",
+        "created": 1646116894724,
+        "text": "Spobs-paḥi blo-gros-kyis shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxY8aS",
+        "created": 1646116894724,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxY8aT",
+        "created": 1646116894724,
+        "text": "변의장자자경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwxY8aD",
+      "created": 1646116894724,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxY8aE",
+      "created": 1646116894724,
+      "text": "後魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwxY8aF",
+      "created": 1646116894724,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwxY8aG",
+       "created": 1646116894724,
+       "text": "後魏 法場譯"
+      }},
+      {"data": {
+       "id": "z5cYwxY8aH",
+       "created": 1646116894724,
+       "text": "法埸",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwxY8aI",
+       "created": 1646116894724,
+       "text": "法場",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwxY8aJ",
+       "created": 1646116894724,
+       "text": "法揚",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwxY8aK",
+      "created": 1646116894724,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxY8aL",
+      "created": 1646116894724,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwxY8aU",
+      "created": 1646116894724,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxY8aV",
+      "created": 1646116894724,
+      "text": "Translation by Fa-ch'ang: in the years of Hsüan-wu Ti (宣武帝), Northern Wei dynasty (北魏) (A.D. 500-515) in Lo-yang (洛陽).T. 2154-540a:28."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwxY8aW",
+      "created": 1646116894724,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwxY8aX",
+       "created": 1646116894724,
+       "text": "【北京版】Mdo-sna-tshogs (nu)294b-307a"
+      }},
+      {"data": {
+       "id": "z5cYwxY8aY",
+       "created": 1646116894724,
+       "text": "【奈塘版】Mdo (da)473a-494"
+      }},
+      {"data": {
+       "id": "z5cYwxY8aZ",
+       "created": 1646116894724,
+       "text": "【德格版】Mdo-sde (pa)331b-344a"
+      }},
+      {"data": {
+       "id": "z5cYwxY8aa",
+       "created": 1646116894724,
+       "text": "【拉薩版】Mdo (da)463a-484a"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ab",
+       "created": 1646116894724,
+       "text": "【卓尼版】Mdo-maṅ (pa)313b-327a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwxY8ac",
+      "created": 1646116894724,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxY8ad",
+      "created": 1646116894724,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwxY8ae",
+      "created": 1646116894724,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwxY8af",
+       "created": 1646116894724,
+       "text": "【房山石經】No.323《佛說辯意長者子經》(元魏)沙門法揚譯 冊數：3 / 頁數：626 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYwxY8ag",
+       "created": 1646116894724,
+       "text": "【開寶藏】No.852《辯意長者子經》元魏 沙門釋法場 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：學"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ah",
+       "created": 1646116894724,
+       "text": "【崇寧藏】No.854《佛說辯意長者子所問經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ai",
+       "created": 1646116894724,
+       "text": "【毘盧藏】No.855《辯意長者子所問經》元魏沙門釋法場譯 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8aj",
+       "created": 1646116894724,
+       "text": "【圓覺藏】No.859《辯意長者子所問經》 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ak",
+       "created": 1646116894724,
+       "text": "【趙城金藏】No.857《辯意長者子經》 卷數：1 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYwxY8al",
+       "created": 1646116894724,
+       "text": "【資福藏】No.865《辯意長者子所問經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8am",
+       "created": 1646116894724,
+       "text": "【磧砂藏】No.877《佛說辯意長者子所問經》元魏 法場譯 部別：小乘單譯經 / 冊數：20 / 頁數：134 / 卷數：1 千字文：竟 10 (304)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8an",
+       "created": 1646116894724,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ao",
+       "created": 1646116894724,
+       "text": "【高麗藏】No.854《辯意長者子經》後魏沙門法場譯 部別：小乘經 單譯 / 冊數：20 頁數：1200(原版) 616(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ap",
+       "created": 1646116894724,
+       "text": "【普寧藏】No.869《佛說辯意長者子所問經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8aq",
+       "created": 1646116894724,
+       "text": "【至元錄】No.1095《辯意長者子經》元魏沙門法場譯 卷數：1 千字文：上(329)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ar",
+       "created": 1646116894724,
+       "text": "【洪武南藏】No.781《佛說辯意長者子所問經》元魏 沙門釋法揚 譯 冊數：106 / 頁數：384 / 卷數：1 千字文：竟 10 (304)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8as",
+       "created": 1646116894724,
+       "text": "【永樂南藏】No.744《佛說辨意長者子所問經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8at",
+       "created": 1646116894724,
+       "text": "【永樂北藏】No.800《佛說辯意長者子所問經》元魏法場譯 部別：小乘經單譯經 / 冊數：66 / 頁數：726 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYwxY8au",
+       "created": 1646116894724,
+       "text": "【嘉興藏】No.763《佛說辨意長者子所問經》元魏法場譯 部別：小乘經-單譯經 / 法寶總目錄經號：0763 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8av",
+       "created": 1646116894724,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8aw",
+       "created": 1646116894724,
+       "text": "【乾隆藏】No.764《佛說辯意長者子所問經》元魏 釋法場譯 部別：小乘單譯經 / 冊數：56 / 頁數：175 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ax",
+       "created": 1646116894724,
+       "text": "【縮刻藏】No.380《辯意長者子經》後魏法場譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8ay",
+       "created": 1646116894724,
+       "text": "【卍正藏】No.773《辯意長者子經》後魏 法埸譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：147 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwxY8az",
+       "created": 1646116894724,
+       "text": "【大正藏】No.544《辯意長者子經》後魏 法場譯 部別：經集部一 / 冊數：14 / 頁數：837 / 卷數：1 相關經典：縮-宙8,卍-15.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwxY8b0",
+       "created": 1646116894724,
+       "text": "【佛教大藏經】No.383《辯意長者子經》後魏 法場譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：480 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwxY8b1",
+       "created": 1646116894724,
+       "text": "【中華藏】No.923《辯意長者子經》後魏沙門法塲譯 冊數：36 / 頁數：353 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwxY8b2",
+       "created": 1646116894724,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwxY8b3",
+       "created": 1646116894724,
+       "text": "【南條文雄編號】 Nj. 0769"
+      }},
+      {"data": {
+       "id": "z5cYwxY8b4",
+       "created": 1646116894724,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：544"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwxwh3",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

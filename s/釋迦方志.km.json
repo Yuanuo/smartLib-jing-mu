@@ -1,0 +1,337 @@
+{
+ "root": {
+  "data": {"text": "釋迦方志"},
+  "children": [{
+   "data": {
+    "id": "z5cYy6qTiJ",
+    "created": 1646116899144,
+    "text": "現藏錄（唐 道宣撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy6qThQ",
+      "created": 1646116899144,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy6qThR",
+        "created": 1646116899144,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6qThS",
+        "created": 1646116899144,
+        "text": "釋迦方志",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6qThT",
+        "created": 1646116899144,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6qThU",
+        "created": 1646116899144,
+        "text": "释迦方志",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6qThV",
+        "created": 1646116899144,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6qThW",
+        "created": 1646116899144,
+        "text": "shi jia fang zhi"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6qThg",
+        "created": 1646116899144,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6qThh",
+        "created": 1646116899144,
+        "text": "Shih chia fang chih"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYy6qThi",
+       "created": 1646116899144,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYy6qThj",
+        "created": 1646116899144,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6qThk",
+        "created": 1646116899144,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6qThl",
+        "created": 1646116899144,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6qThm",
+        "created": 1646116899144,
+        "text": "석가방지",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy6qThX",
+      "created": 1646116899144,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6qThY",
+      "created": 1646116899144,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6qThZ",
+      "created": 1646116899144,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy6qTha",
+       "created": 1646116899144,
+       "text": "唐 道宣撰"
+      }},
+      {"data": {
+       "id": "z5cYy6qThb",
+       "created": 1646116899144,
+       "text": "終南太一山釋氏",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy6qThc",
+       "created": 1646116899144,
+       "text": "道宣",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy6qThd",
+       "created": 1646116899144,
+       "text": "釋氏",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy6qThe",
+      "created": 1646116899144,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6qThf",
+      "created": 1646116899144,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6qThn",
+      "created": 1646116899144,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6qTho",
+      "created": 1646116899144,
+      "text": "Written by Tao-Hsüan: 1st year of Yung Hui (永徽), T'ang dynasty (唐) (A.D. 650).T. 2154-561c:28."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYy6qThp",
+     "created": 1646116899144,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYy6qThq",
+      "created": 1646116899144,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6qThr",
+      "created": 1646116899144,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6qThs",
+      "created": 1646116899144,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy6qTht",
+       "created": 1646116899144,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6qThu",
+       "created": 1646116899144,
+       "text": "【開寶藏】No.1044《釋迦方志》唐 西明寺沙門釋道宣 撰 部別：賢聖傳記錄 此方撰述集傳 / 卷數：2 千字文：靈"
+      }},
+      {"data": {
+       "id": "z5cYy6qThv",
+       "created": 1646116899144,
+       "text": "【崇寧藏】No.1047《釋迦方志》 卷數：2 千字文：仙(439)"
+      }},
+      {"data": {
+       "id": "z5cYy6qThw",
+       "created": 1646116899144,
+       "text": "【毘盧藏】No.1047《釋迦方誌》唐道宣撰 參考年代：(紹興一八．閏八) 千字文：仙(439)"
+      }},
+      {"data": {
+       "id": "z5cYy6qThx",
+       "created": 1646116899144,
+       "text": "【圓覺藏】No.1056《釋迦方誌》 千字文：仙(439)"
+      }},
+      {"data": {
+       "id": "z5cYy6qThy",
+       "created": 1646116899144,
+       "text": "【趙城金藏】No.1050《釋迦方志》 卷數：2 千字文：綵"
+      }},
+      {"data": {
+       "id": "z5cYy6qThz",
+       "created": 1646116899144,
+       "text": "【資福藏】No.1061《釋迦方誌》 卷數：2 (上下) 千字文：仙(439)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi0",
+       "created": 1646116899144,
+       "text": "【磧砂藏】No.1072《釋迦方誌》唐 道宣撰 部別： / 冊數：28 / 頁數：633 / 卷數：2 千字文：仙 5 (439)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi1",
+       "created": 1646116899144,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi2",
+       "created": 1646116899144,
+       "text": "【高麗藏】No.1048《釋迦方志》終南大一山釋氏撰 部別：賢聖傳記錄 此土撰述 / 冊數：30 頁數：748 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：彩"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi3",
+       "created": 1646116899144,
+       "text": "【普寧藏】No.1063《釋迦方誌》 卷數：2 千字文：仙(439)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi4",
+       "created": 1646116899144,
+       "text": "【至元錄】No.1528《釋迦方誌》唐西明寺沙門道宣撰 卷數：2 / 出處：(出內典錄) 千字文：綺(553)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi5",
+       "created": 1646116899144,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi6",
+       "created": 1646116899144,
+       "text": "【永樂南藏】No.1460《釋迦方誌》 部別：此方撰述 千字文：相(492)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi7",
+       "created": 1646116899144,
+       "text": "【永樂北藏】No.1528《釋迦方志》唐道宣撰 部別：此土著述 / 冊數：133 / 頁數：409 / 卷數：3 千字文：壁"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi8",
+       "created": 1646116899144,
+       "text": "【嘉興藏】No.1462《釋迦方誌》唐道宣撰 部別：此土著述 / 法寶總目錄經號：1461 千字文 / 函號：［正藏］ 壁(487)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTi9",
+       "created": 1646116899144,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiA",
+       "created": 1646116899144,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiB",
+       "created": 1646116899144,
+       "text": "【縮刻藏】No.1817《釋迦方志》唐道宣撰 部別：支那撰述-傳記部 / 卷數：2 千字文：致 1 (35)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiC",
+       "created": 1646116899144,
+       "text": "【卍正藏】No.1475《釋迦方志》終南太一山釋氏 部別：此土著述 / 冊數：51 / 頁數：655 / 卷數：2 原版套數：第 27 套"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiD",
+       "created": 1646116899144,
+       "text": "【大正藏】No.2088《釋迦方志》唐 道宣撰 部別：史傳部三 / 冊數：51 / 頁數：948 / 卷數：2 相關經典：縮-致1,卍-27.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy6qTiE",
+       "created": 1646116899144,
+       "text": "【佛教大藏經】No.2016《釋迦方志》唐 道宣撰 部別：史傳部一 / 冊數：74 / 頁數：172 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiF",
+       "created": 1646116899144,
+       "text": "【中華藏】No.1139《釋迦方志》終南太一山釋氏 冊數：52 / 頁數：635 / 卷數：2 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiG",
+       "created": 1646116899144,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiH",
+       "created": 1646116899144,
+       "text": "【南條文雄編號】 Nj. 1470"
+      }},
+      {"data": {
+       "id": "z5cYy6qTiI",
+       "created": 1646116899144,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2088"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0co1qf",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

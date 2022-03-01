@@ -1,0 +1,908 @@
+{
+ "root": {
+  "data": {"text": "即身成佛義"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyJxXqi",
+     "created": 1646116899957,
+     "text": "現藏錄（日本 空海撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyJxXq3",
+       "created": 1646116899957,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyJxXq4",
+         "created": 1646116899957,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyJxXq5",
+         "created": 1646116899957,
+         "text": "即身成佛義",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyJxXq6",
+         "created": 1646116899957,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyJxXq7",
+         "created": 1646116899957,
+         "text": "即身成佛义",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyJxXq8",
+         "created": 1646116899957,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyJxXq9",
+         "created": 1646116899957,
+         "text": "ji shen cheng fo yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyJxXqA",
+       "created": 1646116899957,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyJxXqB",
+       "created": 1646116899957,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyJxXqC",
+       "created": 1646116899957,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyJxXqD",
+        "created": 1646116899957,
+        "text": "日本 空海撰"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqE",
+        "created": 1646116899957,
+        "text": "空海",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyJxXqF",
+       "created": 1646116899957,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyJxXqG",
+       "created": 1646116899957,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyJxXqH",
+       "created": 1646116899957,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyJxXqI",
+        "created": 1646116899957,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqJ",
+        "created": 1646116899957,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqK",
+        "created": 1646116899957,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqL",
+        "created": 1646116899957,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqM",
+        "created": 1646116899957,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqN",
+        "created": 1646116899957,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqO",
+        "created": 1646116899957,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqP",
+        "created": 1646116899957,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqQ",
+        "created": 1646116899957,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqR",
+        "created": 1646116899957,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqS",
+        "created": 1646116899957,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqT",
+        "created": 1646116899957,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqU",
+        "created": 1646116899957,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqV",
+        "created": 1646116899957,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqW",
+        "created": 1646116899957,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqX",
+        "created": 1646116899957,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqY",
+        "created": 1646116899957,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqZ",
+        "created": 1646116899957,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqa",
+        "created": 1646116899957,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqb",
+        "created": 1646116899957,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqc",
+        "created": 1646116899957,
+        "text": "【大正藏】No.2428a《即身成佛義》日本 空海撰 部別：續諸宗部八 / 冊數：77 / 頁數：381 / 卷數：1 相關經典：國-諸宗20 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYyJxXqd",
+        "created": 1646116899957,
+        "text": "【佛教大藏經】No.2099《即身成佛義》日本 空海撰 部別：撰述部 密宗 / 冊數：84 / 頁數：851 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqe",
+        "created": 1646116899957,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqf",
+        "created": 1646116899957,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqg",
+        "created": 1646116899957,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyJxXqh",
+        "created": 1646116899957,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2428"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyK1Xry",
+     "created": 1646116899961,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyK1XrM",
+       "created": 1646116899961,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyK1XrN",
+         "created": 1646116899961,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK1XrO",
+         "created": 1646116899961,
+         "text": "即身成佛義"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyK1XrP",
+         "created": 1646116899961,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK1XrQ",
+         "created": 1646116899961,
+         "text": "即身成佛义"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyK1XrR",
+         "created": 1646116899961,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK1XrS",
+         "created": 1646116899961,
+         "text": "ji shen cheng fo yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyK1XrT",
+       "created": 1646116899961,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyK1XrU",
+       "created": 1646116899961,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyK1XrV",
+       "created": 1646116899961,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyK1XrW",
+       "created": 1646116899961,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyK1XrX",
+       "created": 1646116899961,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyK1XrY",
+        "created": 1646116899961,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1XrZ",
+        "created": 1646116899961,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xra",
+        "created": 1646116899961,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrb",
+        "created": 1646116899961,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrc",
+        "created": 1646116899961,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrd",
+        "created": 1646116899961,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xre",
+        "created": 1646116899961,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrf",
+        "created": 1646116899961,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrg",
+        "created": 1646116899961,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrh",
+        "created": 1646116899961,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xri",
+        "created": 1646116899961,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrj",
+        "created": 1646116899961,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrk",
+        "created": 1646116899961,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrl",
+        "created": 1646116899961,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrm",
+        "created": 1646116899961,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrn",
+        "created": 1646116899961,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xro",
+        "created": 1646116899961,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrp",
+        "created": 1646116899961,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrq",
+        "created": 1646116899961,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrr",
+        "created": 1646116899961,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrs",
+        "created": 1646116899961,
+        "text": "【大正藏】No.2428c《即身成佛義》 部別：續諸宗部八 / 冊數：77 / 頁數：385 / 卷數：1 相關經典： 參考資料：異本二"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrt",
+        "created": 1646116899961,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xru",
+        "created": 1646116899961,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrv",
+        "created": 1646116899961,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrw",
+        "created": 1646116899961,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK1Xrx",
+        "created": 1646116899961,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2428"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyK5XtE",
+     "created": 1646116899965,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyK5Xsc",
+       "created": 1646116899965,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyK5Xsd",
+         "created": 1646116899965,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK5Xse",
+         "created": 1646116899965,
+         "text": "即身成佛義"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyK5Xsf",
+         "created": 1646116899965,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK5Xsg",
+         "created": 1646116899965,
+         "text": "即身成佛义"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyK5Xsh",
+         "created": 1646116899965,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK5Xsi",
+         "created": 1646116899965,
+         "text": "ji shen cheng fo yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyK5Xsj",
+       "created": 1646116899965,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyK5Xsk",
+       "created": 1646116899965,
+       "text": "失譯"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyK5Xsl",
+       "created": 1646116899965,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyK5Xsm",
+       "created": 1646116899965,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyK5Xsn",
+       "created": 1646116899965,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyK5Xso",
+        "created": 1646116899965,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsp",
+        "created": 1646116899965,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsq",
+        "created": 1646116899965,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsr",
+        "created": 1646116899965,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xss",
+        "created": 1646116899965,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xst",
+        "created": 1646116899965,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsu",
+        "created": 1646116899965,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsv",
+        "created": 1646116899965,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsw",
+        "created": 1646116899965,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsx",
+        "created": 1646116899965,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsy",
+        "created": 1646116899965,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xsz",
+        "created": 1646116899965,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt0",
+        "created": 1646116899965,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt1",
+        "created": 1646116899965,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt2",
+        "created": 1646116899965,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt3",
+        "created": 1646116899965,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt4",
+        "created": 1646116899965,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt5",
+        "created": 1646116899965,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt6",
+        "created": 1646116899965,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt7",
+        "created": 1646116899965,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt8",
+        "created": 1646116899965,
+        "text": "【大正藏】No.2428e《即身成佛義》 部別：續諸宗部八 / 冊數：77 / 頁數：391 / 卷數：1 相關經典： 參考資料：異本四"
+       }},
+       {"data": {
+        "id": "z5cYyK5Xt9",
+        "created": 1646116899965,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5XtA",
+        "created": 1646116899965,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5XtB",
+        "created": 1646116899965,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5XtC",
+        "created": 1646116899965,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK5XtD",
+        "created": 1646116899965,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2428"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyK7Xtr",
+     "created": 1646116899967,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyK7XtF",
+       "created": 1646116899967,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyK7XtG",
+         "created": 1646116899967,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK7XtH",
+         "created": 1646116899967,
+         "text": "即身成佛義"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyK7XtI",
+         "created": 1646116899967,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK7XtJ",
+         "created": 1646116899967,
+         "text": "即身成佛义"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyK7XtK",
+         "created": 1646116899967,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyK7XtL",
+         "created": 1646116899967,
+         "text": "ji shen cheng fo yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyK7XtM",
+       "created": 1646116899967,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyK7XtN",
+       "created": 1646116899967,
+       "text": "失譯"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyK7XtO",
+       "created": 1646116899967,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyK7XtP",
+       "created": 1646116899967,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyK7XtQ",
+       "created": 1646116899967,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyK7XtR",
+        "created": 1646116899967,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtS",
+        "created": 1646116899967,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtT",
+        "created": 1646116899967,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtU",
+        "created": 1646116899967,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtV",
+        "created": 1646116899967,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtW",
+        "created": 1646116899967,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtX",
+        "created": 1646116899967,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtY",
+        "created": 1646116899967,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7XtZ",
+        "created": 1646116899967,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xta",
+        "created": 1646116899967,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtb",
+        "created": 1646116899967,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtc",
+        "created": 1646116899967,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtd",
+        "created": 1646116899967,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xte",
+        "created": 1646116899967,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtf",
+        "created": 1646116899967,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtg",
+        "created": 1646116899967,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xth",
+        "created": 1646116899967,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xti",
+        "created": 1646116899967,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtj",
+        "created": 1646116899967,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtk",
+        "created": 1646116899967,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtl",
+        "created": 1646116899967,
+        "text": "【大正藏】No.2428f《即身成佛義》 部別：續諸宗部八 / 冊數：77 / 頁數：395 / 卷數：1 相關經典： 參考資料：異本五"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtm",
+        "created": 1646116899967,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtn",
+        "created": 1646116899967,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xto",
+        "created": 1646116899967,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtp",
+        "created": 1646116899967,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyK7Xtq",
+        "created": 1646116899967,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2428"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0z920r",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

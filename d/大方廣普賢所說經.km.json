@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "大方廣普賢所說經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwhs4N4",
+    "created": 1646116893752,
+    "text": "現藏錄（唐 實叉難陀譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwhr4MD",
+      "created": 1646116893751,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwhr4ME",
+        "created": 1646116893751,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhr4MF",
+        "created": 1646116893751,
+        "text": "大方廣普賢所說經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhr4MG",
+        "created": 1646116893751,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhr4MH",
+        "created": 1646116893751,
+        "text": "大方广普贤所说经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhr4MI",
+        "created": 1646116893751,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhs4MJ",
+        "created": 1646116893752,
+        "text": "da fang guang pu xian suo shuo jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhs4MR",
+        "created": 1646116893752,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhs4MS",
+        "created": 1646116893752,
+        "text": "Ta fang kuang p'u hsien so shuo ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwhs4MT",
+       "created": 1646116893752,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwhs4MU",
+        "created": 1646116893752,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhs4MV",
+        "created": 1646116893752,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhs4MW",
+        "created": 1646116893752,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhs4MX",
+        "created": 1646116893752,
+        "text": "대방광보현소설경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhs4MK",
+      "created": 1646116893752,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhs4ML",
+      "created": 1646116893752,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhs4MM",
+      "created": 1646116893752,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhs4MN",
+       "created": 1646116893752,
+       "text": "唐 實叉難陀譯"
+      }},
+      {"data": {
+       "id": "z5cYwhs4MO",
+       "created": 1646116893752,
+       "text": "實叉難陀",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhs4MP",
+      "created": 1646116893752,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhs4MQ",
+      "created": 1646116893752,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhs4MY",
+      "created": 1646116893752,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhs4MZ",
+      "created": 1646116893752,
+      "text": "Translation by Śikṣānanda: between the first year of Chiu Shih (久視) (A.D. 700) and the 5th day, 1st month, 4th year of Ch'ang An (長安), T'ang dynasty (唐) (A.D. 704) in San-yang Palace (三陽宮), Tung-tu (東都).T.2157-866a:26."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwhs4Ma",
+     "created": 1646116893752,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwhs4Mb",
+      "created": 1646116893752,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhs4Mc",
+      "created": 1646116893752,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhs4Md",
+      "created": 1646116893752,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhs4Me",
+       "created": 1646116893752,
+       "text": "【房山石經】No.399《大方廣普賢所說經》(大唐)于闐三藏實叉難陀譯 冊數：9 / 頁數：533 / 卷數：1 / 刻經年代：大安元年刻石 / 瀏覽：目錄圖檔 千字文：羌"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mf",
+       "created": 1646116893752,
+       "text": "【開寶藏】No.95《普賢所說經》唐 于闐三藏實叉難陀 譯 部別：大乘經 華嚴部 / 卷數：1 千字文：伏"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mg",
+       "created": 1646116893752,
+       "text": "【崇寧藏】No.91《大方廣普賢所說經》 卷數：1 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mh",
+       "created": 1646116893752,
+       "text": "【毘盧藏】No.87《大方廣普賢所說經》唐實叉難陀譯 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mi",
+       "created": 1646116893752,
+       "text": "【圓覺藏】No.88《大方廣普賢所說經》 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mj",
+       "created": 1646116893752,
+       "text": "【趙城金藏】No.91《大方廣普賢所說經》 卷數：1 千字文：伏"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mk",
+       "created": 1646116893752,
+       "text": "【資福藏】No.91《大方廣普賢所說經》 卷數：1 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Ml",
+       "created": 1646116893752,
+       "text": "【磧砂藏】No.91《大方廣普賢所說經》唐 實叉難陀譯 部別：華嚴部 / 冊數：8 / 頁數：336 / 卷數：1 千字文：戎 1 (119)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mm",
+       "created": 1646116893752,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mn",
+       "created": 1646116893752,
+       "text": "【高麗藏】No.91《大方廣普賢所說經》于闐三藏實叉難陀譯 部別：大乘經 華嚴部 / 冊數：8 頁數：1103 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：伏"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mo",
+       "created": 1646116893752,
+       "text": "【普寧藏】No.88《大方廣普賢所說經》 卷數：1 千字文：戎(119)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mp",
+       "created": 1646116893752,
+       "text": "【至元錄】No.163《大方廣普賢菩薩所說經》唐于闐三藏實叉難陀譯 卷數：1 / 出處：(昇編入錄) / 譯次：(單本) 千字文：賓(126)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mq",
+       "created": 1646116893752,
+       "text": "【洪武南藏】No.86《大方廣普賢所說經》唐 于闐三藏法師實叉難陀 譯 冊數：40 / 頁數：293 / 卷數：1 千字文：戎 1 (119)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mr",
+       "created": 1646116893752,
+       "text": "【永樂南藏】No.89《大方廣普賢所說經》 部別：大乘經-華嚴部 千字文：邇(122)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Ms",
+       "created": 1646116893752,
+       "text": "【永樂北藏】No.118《大方廣普賢所說經》唐實叉難陀譯 部別：大乘經華嚴部 / 冊數：31 / 頁數：829 / 卷數：1 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mt",
+       "created": 1646116893752,
+       "text": "【嘉興藏】No.94《普賢所說經》唐實叉難陀譯 部別：大乘經-華嚴部 / 法寶總目錄經號：0094 千字文 / 函號：［正藏］ 壹(123)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mu",
+       "created": 1646116893752,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mv",
+       "created": 1646116893752,
+       "text": "【乾隆藏】No.94《大方廣普賢所說經》唐 實叉難陀譯 部別：大乘華嚴部 / 冊數：27 / 頁數：679 / 卷數：1 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mw",
+       "created": 1646116893752,
+       "text": "【縮刻藏】No.25《大方廣普賢所說經》唐實叉難陀譯 部別：大乘經-華嚴部 / 卷數：1 千字文：天 11 (1)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mx",
+       "created": 1646116893752,
+       "text": "【卍正藏】No.97《大方廣普賢所說經》唐 實叉難陀譯 部別：大乘經 華嚴部 / 冊數：13 / 頁數：294 / 卷數：1 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwhs4My",
+       "created": 1646116893752,
+       "text": "【大正藏】No.298《大方廣普賢所說經》唐 實叉難陀譯 部別：華嚴部下 / 冊數：10 / 頁數：883 / 卷數：1 相關經典：縮-天11,卍-8.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwhs4Mz",
+       "created": 1646116893752,
+       "text": "【佛教大藏經】No.25《大方廣普賢所說經》唐 實叉難陀譯 部別：大乘經 華嚴部二 / 冊數：2 / 頁數：979 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwhs4N0",
+       "created": 1646116893752,
+       "text": "【中華藏】No.101《大方廣普賢所說經》唐于闐三藏實叉難陀譯 冊數：13 / 頁數：656 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwhs4N1",
+       "created": 1646116893752,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhs4N2",
+       "created": 1646116893752,
+       "text": "【南條文雄編號】 Nj. 0098"
+      }},
+      {"data": {
+       "id": "z5cYwhs4N3",
+       "created": 1646116893752,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：298"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw6v8k",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "本事經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx8XBmv",
+    "created": 1646116895405,
+    "text": "現藏錄（唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx8XBm3",
+      "created": 1646116895405,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx8XBm4",
+        "created": 1646116895405,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8XBm5",
+        "created": 1646116895405,
+        "text": "本事經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8XBm6",
+        "created": 1646116895405,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8XBm7",
+        "created": 1646116895405,
+        "text": "本事经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8XBm8",
+        "created": 1646116895405,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8XBm9",
+        "created": 1646116895405,
+        "text": "ben shi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8XBmH",
+        "created": 1646116895405,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8XBmI",
+        "created": 1646116895405,
+        "text": "Pen shih ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8XBmJ",
+        "created": 1646116895405,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8XBmK",
+        "created": 1646116895405,
+        "text": "Itivṛttakasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8XBmL",
+        "created": 1646116895405,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8XBmM",
+        "created": 1646116895405,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx8XBmN",
+        "created": 1646116895405,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx8XBmO",
+        "created": 1646116895405,
+        "text": "본사경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx8XBmA",
+      "created": 1646116895405,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8XBmB",
+      "created": 1646116895405,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx8XBmC",
+      "created": 1646116895405,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx8XBmD",
+       "created": 1646116895405,
+       "text": "唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmE",
+       "created": 1646116895405,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx8XBmF",
+      "created": 1646116895405,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8XBmG",
+      "created": 1646116895405,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx8XBmP",
+      "created": 1646116895405,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8XBmQ",
+      "created": 1646116895405,
+      "text": "Translation by Hsüan-tsang: between the 10th day, 9th month and the 8th day, 11th month, 1st year of Yung Hui (永徽), T'ang dynasty (唐) (October 10th-December 6th, A.D. 650) in Ta-tz'u-en Monastery (大慈恩寺).T. 2154-557a:3."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx8XBmR",
+     "created": 1646116895405,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx8XBmS",
+      "created": 1646116895405,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx8XBmT",
+      "created": 1646116895405,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx8XBmU",
+      "created": 1646116895405,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx8XBmV",
+       "created": 1646116895405,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmW",
+       "created": 1646116895405,
+       "text": "【開寶藏】No.799《本事經》唐 三藏玄奘 譯 部別：小乘經 小乘經單譯 / 卷數：7 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmX",
+       "created": 1646116895405,
+       "text": "【崇寧藏】No.801《本事經》 卷數：7 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmY",
+       "created": 1646116895405,
+       "text": "【毘盧藏】No.802《本事經》唐玄奘譯 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmZ",
+       "created": 1646116895405,
+       "text": "【圓覺藏】No.809《本事經》 卷數：7 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBma",
+       "created": 1646116895405,
+       "text": "【趙城金藏】No.806《本事經》 卷數：7 千字文：籍"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmb",
+       "created": 1646116895405,
+       "text": "【資福藏】No.815《本事經》 卷數：7 (七卷) 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmc",
+       "created": 1646116895405,
+       "text": "【磧砂藏】No.822《本事經》唐 玄奘譯 部別：小乘單譯經 / 冊數：20 / 頁數：1 / 卷數：7 千字文：甚 1 (302)-甚 7 (302)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmd",
+       "created": 1646116895405,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBme",
+       "created": 1646116895405,
+       "text": "【高麗藏】No.803《本事經》三藏法師玄奘奉詔譯 部別：小乘經 單譯 / 冊數：20 頁數：993(原版) 408(新文豐) / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：籍"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmf",
+       "created": 1646116895405,
+       "text": "【普寧藏】No.814《本事經》 卷數：7 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmg",
+       "created": 1646116895405,
+       "text": "【至元錄】No.1042《本事經》唐古梁三藏玄奘譯 卷數：7 / 出處：(出內典錄) 千字文：尊(327)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmh",
+       "created": 1646116895405,
+       "text": "【洪武南藏】No.731《本事經》唐 三藏法師玄奘 奉詔譯 冊數：105-106 / 頁數：480 / 卷數：7 千字文：甚 1 (302)-甚 7 (302)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmi",
+       "created": 1646116895405,
+       "text": "【永樂南藏】No.690《本事經》 部別：小乘經-單譯經 千字文：與(247)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmj",
+       "created": 1646116895405,
+       "text": "【永樂北藏】No.746《本事經》唐玄奘譯 部別：小乘經單譯經 / 冊數：66 / 頁數：245 / 卷數：7 千字文：孝"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmk",
+       "created": 1646116895405,
+       "text": "【嘉興藏】No.709《本事經》唐玄奘譯 部別：小乘經-單譯經 / 法寶總目錄經號：0709 千字文 / 函號：［正藏］ 孝(249)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBml",
+       "created": 1646116895405,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmm",
+       "created": 1646116895405,
+       "text": "【乾隆藏】No.710《本事經》唐 玄奘譯 部別：小乘單譯經 / 冊數：55 / 頁數：531 / 卷數：7 千字文：孝"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmn",
+       "created": 1646116895405,
+       "text": "【縮刻藏】No.592《本事經》唐玄奘譯 部別：小乘經 / 卷數：7 千字文：辰 6 (13)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmo",
+       "created": 1646116895405,
+       "text": "【卍正藏】No.718《本事經》大唐 玄奘譯 部別：小乘經 單譯經 / 冊數：26 / 頁數：936 / 卷數：7 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmp",
+       "created": 1646116895405,
+       "text": "【大正藏】No.765《本事經》唐 玄奘譯 部別：經集部四 / 冊數：17 / 頁數：662 / 卷數：7 相關經典：縮-辰6,卍-14.10,國-經14 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx8XBmq",
+       "created": 1646116895405,
+       "text": "【佛教大藏經】No.600《本事經》唐 玄奘譯 部別：小乘經 阿含部四 / 冊數：26 / 頁數：41 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmr",
+       "created": 1646116895405,
+       "text": "【中華藏】No.866《本事經》三藏法師玄奘奉詔譯 冊數：36 / 頁數：1 / 卷數：7 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx8XBms",
+       "created": 1646116895405,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmt",
+       "created": 1646116895405,
+       "text": "【南條文雄編號】 Nj. 0714"
+      }},
+      {"data": {
+       "id": "z5cYx8XBmu",
+       "created": 1646116895405,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：765"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxgsnb",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

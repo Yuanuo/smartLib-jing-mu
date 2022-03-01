@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "讚揚聖德多羅菩薩一百八名經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxPDGd8",
+    "created": 1646116896439,
+    "text": "現藏錄（宋 天息災譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxPDGcB",
+      "created": 1646116896439,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxPDGcC",
+        "created": 1646116896439,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPDGcD",
+        "created": 1646116896439,
+        "text": "讚揚聖德多羅菩薩一百八名經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPDGcE",
+        "created": 1646116896439,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPDGcF",
+        "created": 1646116896439,
+        "text": "赞扬圣德多罗菩萨一百八名经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPDGcG",
+        "created": 1646116896439,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPDGcH",
+        "created": 1646116896439,
+        "text": "zan yang sheng de duo luo pu sa yi bai ba ming jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPDGcP",
+        "created": 1646116896439,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPDGcQ",
+        "created": 1646116896439,
+        "text": "Tsan yang sheng te to lo p'u sa i pai pa ming ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPDGcR",
+        "created": 1646116896439,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPDGcS",
+        "created": 1646116896439,
+        "text": "(Ārya)tārābhaṭṭarikāyanāmāṣṭottaraśataka(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPDGcT",
+        "created": 1646116896439,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPDGcU",
+        "created": 1646116896439,
+        "text": "Rje-btsun-ma ḥphags-ma sgrol-maḥi mtshan brgya-rtsa-brgyad-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPDGcV",
+        "created": 1646116896439,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPDGcW",
+        "created": 1646116896439,
+        "text": "찬양성덕다라보살일백팔명경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPDGcI",
+      "created": 1646116896439,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPDGcJ",
+      "created": 1646116896439,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPDGcK",
+      "created": 1646116896439,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPDGcL",
+       "created": 1646116896439,
+       "text": "宋 天息災譯"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcM",
+       "created": 1646116896439,
+       "text": "天息災",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPDGcN",
+      "created": 1646116896439,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPDGcO",
+      "created": 1646116896439,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPDGcX",
+      "created": 1646116896439,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPDGcY",
+      "created": 1646116896439,
+      "text": "Translation by T'ien Hsi-tsai: (see K.1118)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPDGcZ",
+      "created": 1646116896439,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPDGca",
+       "created": 1646116896439,
+       "text": "【北京版】Rgyud (tsa)74a-76b(ya)164b-166b"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcb",
+       "created": 1646116896439,
+       "text": "【奈塘版】Rgyud (pha)480a-483a"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcc",
+       "created": 1646116896439,
+       "text": "【德格版】Rgyud-ḥbum (tsha)217a-219a266b-268aGzuṅs-ḥdus (wam)157b-160a"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcd",
+       "created": 1646116896439,
+       "text": "【拉薩版】Rgyud (pha)75b-79a"
+      }},
+      {"data": {
+       "id": "z5cYxPDGce",
+       "created": 1646116896439,
+       "text": "【卓尼版】Rgyud (tsa)84a-86a(ya)168a-170b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPDGcf",
+      "created": 1646116896439,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPDGcg",
+      "created": 1646116896439,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPDGch",
+      "created": 1646116896439,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPDGci",
+       "created": 1646116896439,
+       "text": "【房山石經】No.888《讚揚聖德多羅菩薩一百八名經》西天中印度惹爛馱羅國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：26 / 頁數：65 / 卷數：1 / 刻經年代：皇統二年刻石 / 瀏覽：目錄圖檔 千字文：尹"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcj",
+       "created": 1646116896439,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGck",
+       "created": 1646116896439,
+       "text": "【崇寧藏】No.1121《讚揚聖德多羅菩薩一百八名經》 卷數：1 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcl",
+       "created": 1646116896439,
+       "text": "【毘盧藏】No.1121《讚揚聖德多羅菩薩一百八名經》沙門天息災譯 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcm",
+       "created": 1646116896439,
+       "text": "【圓覺藏】No.1131《讚揚聖德多羅菩薩一百八名經》 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcn",
+       "created": 1646116896439,
+       "text": "【趙城金藏】No.1121《讚揚聖德多羅菩薩一百八名經》 卷數：1 千字文：書"
+      }},
+      {"data": {
+       "id": "z5cYxPDGco",
+       "created": 1646116896439,
+       "text": "【資福藏】No.1135《讚揚聖德多羅菩薩一百八名經》 卷數：1 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcp",
+       "created": 1646116896439,
+       "text": "【磧砂藏】No.1146《讚揚聖德多羅菩薩一百八名經》宋 天息災譯 部別： / 冊數：32 / 頁數：640 / 卷數：1 千字文：槐 10 (495)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcq",
+       "created": 1646116896439,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcr",
+       "created": 1646116896439,
+       "text": "【高麗藏】No.1120《讚揚聖德多羅菩薩一百八名經》西天三藏沙門天息災譯 部別：宋續入藏經 / 冊數：33 頁數：994 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：書"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcs",
+       "created": 1646116896439,
+       "text": "【普寧藏】No.1136《讚揚聖德多羅菩薩一百八名經》 卷數：1 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGct",
+       "created": 1646116896439,
+       "text": "【至元錄】No.711《讚揚聖德多羅菩薩一百八名經》宋西域三藏天息災譯 梵名：怛囉巴滴唎迦牙　拏麻阿失(二合)怛薩怛憾 / 卷數：1 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcu",
+       "created": 1646116896439,
+       "text": "【洪武南藏】No.1001《讚揚聖德多羅菩薩一百八名經》西天中印度惹爛䭾囉國密林寺三藏明教大師賜紫沙門天息災 奉詔譯 冊數：179 / 頁數：386 / 卷數：1 千字文：槐 10 (495)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcv",
+       "created": 1646116896439,
+       "text": "【永樂南藏】No.814《讚揚聖德多羅菩薩一百八名經》 部別：宋元入藏諸大小乘經 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcw",
+       "created": 1646116896439,
+       "text": "【永樂北藏】No.846《贊揚聖德多羅菩薩一百八名經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：661 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcx",
+       "created": 1646116896439,
+       "text": "【嘉興藏】No.809《讚揚聖德多羅一百八名經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0809 千字文 / 函號：［正藏］ 則(254)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcy",
+       "created": 1646116896439,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGcz",
+       "created": 1646116896439,
+       "text": "【乾隆藏】No.810《讚揚聖德多羅菩薩一百八名經》宋 天息災譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：49 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd0",
+       "created": 1646116896439,
+       "text": "【縮刻藏】No.1658《讚揚聖德多羅菩薩一百八名經》宋天息災譯 部別：祕密部 / 卷數：1 千字文：成 13 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd1",
+       "created": 1646116896439,
+       "text": "【卍正藏】No.819《讚揚聖德多羅菩薩一百八名經》天息災譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：528 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd2",
+       "created": 1646116896439,
+       "text": "【大正藏】No.1106《讚揚聖德多羅菩薩一百八名經》宋 天息災譯 部別：密教部三 / 冊數：20 / 頁數：474 / 卷數：1 相關經典：縮-成13,卍-15.3 參考資料：cf.Nos.1105,1107"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd3",
+       "created": 1646116896439,
+       "text": "【佛教大藏經】No.1737《讚揚聖德多羅菩薩一百八名經》宋 天息災譯 部別：密教部七 / 冊數：58 / 頁數：285 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd4",
+       "created": 1646116896439,
+       "text": "【中華藏】No.1231《讚揚聖德多羅菩薩一百八名經》西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：63 / 頁數：909 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd5",
+       "created": 1646116896439,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd6",
+       "created": 1646116896439,
+       "text": "【南條文雄編號】 Nj. 0815"
+      }},
+      {"data": {
+       "id": "z5cYxPDGd7",
+       "created": 1646116896439,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1106"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy9jxl",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

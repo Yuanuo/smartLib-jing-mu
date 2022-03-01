@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "華嚴一乘義私記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyGWWjO",
+    "created": 1646116899744,
+    "text": "現藏錄（日本 增春撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyGWWij",
+      "created": 1646116899744,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyGWWik",
+        "created": 1646116899744,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGWWil",
+        "created": 1646116899744,
+        "text": "華嚴一乘義私記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGWWim",
+        "created": 1646116899744,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGWWin",
+        "created": 1646116899744,
+        "text": "华严一乘义私记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGWWio",
+        "created": 1646116899744,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGWWip",
+        "created": 1646116899744,
+        "text": "hua yan yi cheng yi si ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGWWiq",
+      "created": 1646116899744,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGWWir",
+      "created": 1646116899744,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGWWis",
+      "created": 1646116899744,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGWWit",
+       "created": 1646116899744,
+       "text": "日本 增春撰"
+      }},
+      {"data": {
+       "id": "z5cYyGWWiu",
+       "created": 1646116899744,
+       "text": "增春",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGWWiv",
+      "created": 1646116899744,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGWWiw",
+      "created": 1646116899744,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGWWix",
+      "created": 1646116899744,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGWWiy",
+       "created": 1646116899744,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWiz",
+       "created": 1646116899744,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj0",
+       "created": 1646116899744,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj1",
+       "created": 1646116899744,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj2",
+       "created": 1646116899744,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj3",
+       "created": 1646116899744,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj4",
+       "created": 1646116899744,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj5",
+       "created": 1646116899744,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj6",
+       "created": 1646116899744,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj7",
+       "created": 1646116899744,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj8",
+       "created": 1646116899744,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWj9",
+       "created": 1646116899744,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjA",
+       "created": 1646116899744,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjB",
+       "created": 1646116899744,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjC",
+       "created": 1646116899744,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjD",
+       "created": 1646116899744,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjE",
+       "created": 1646116899744,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjF",
+       "created": 1646116899744,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjG",
+       "created": 1646116899744,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjH",
+       "created": 1646116899744,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjI",
+       "created": 1646116899744,
+       "text": "【大正藏】No.2327《華嚴一乘義私記》日本 增春撰 部別：續諸宗部三 / 冊數：72 / 頁數：14 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyGWWjJ",
+       "created": 1646116899744,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjK",
+       "created": 1646116899744,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjL",
+       "created": 1646116899744,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjM",
+       "created": 1646116899744,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGWWjN",
+       "created": 1646116899744,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2327"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0tc1xw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

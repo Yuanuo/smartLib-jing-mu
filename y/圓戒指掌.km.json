@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "圓戒指掌"},
+  "children": [{
+   "data": {
+    "id": "z5cYyIRXMV",
+    "created": 1646116899863,
+    "text": "現藏錄（日本 敬光述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyIRXLq",
+      "created": 1646116899863,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyIRXLr",
+        "created": 1646116899863,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIRXLs",
+        "created": 1646116899863,
+        "text": "圓戒指掌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyIRXLt",
+        "created": 1646116899863,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIRXLu",
+        "created": 1646116899863,
+        "text": "圆戒指掌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyIRXLv",
+        "created": 1646116899863,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIRXLw",
+        "created": 1646116899863,
+        "text": "yuan jie zhi zhang"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyIRXLx",
+      "created": 1646116899863,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyIRXLy",
+      "created": 1646116899863,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyIRXLz",
+      "created": 1646116899863,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyIRXM0",
+       "created": 1646116899863,
+       "text": "日本 敬光述"
+      }},
+      {"data": {
+       "id": "z5cYyIRXM1",
+       "created": 1646116899863,
+       "text": "敬光",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyIRXM2",
+      "created": 1646116899863,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyIRXM3",
+      "created": 1646116899863,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyIRXM4",
+      "created": 1646116899863,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyIRXM5",
+       "created": 1646116899863,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXM6",
+       "created": 1646116899863,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXM7",
+       "created": 1646116899863,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXM8",
+       "created": 1646116899863,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXM9",
+       "created": 1646116899863,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMA",
+       "created": 1646116899863,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMB",
+       "created": 1646116899863,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMC",
+       "created": 1646116899863,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMD",
+       "created": 1646116899863,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXME",
+       "created": 1646116899863,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMF",
+       "created": 1646116899863,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMG",
+       "created": 1646116899863,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMH",
+       "created": 1646116899863,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMI",
+       "created": 1646116899863,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMJ",
+       "created": 1646116899863,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMK",
+       "created": 1646116899863,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXML",
+       "created": 1646116899863,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMM",
+       "created": 1646116899863,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMN",
+       "created": 1646116899863,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMO",
+       "created": 1646116899863,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMP",
+       "created": 1646116899863,
+       "text": "【大正藏】No.2384《圓戒指掌》日本 敬光述 部別：續諸宗部五 / 冊數：74 / 頁數：798 / 卷數：3 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyIRXMQ",
+       "created": 1646116899863,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMR",
+       "created": 1646116899863,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMS",
+       "created": 1646116899863,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMT",
+       "created": 1646116899863,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIRXMU",
+       "created": 1646116899863,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2384"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0wn1zi",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

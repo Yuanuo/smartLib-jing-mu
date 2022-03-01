@@ -1,0 +1,352 @@
+{
+ "root": {
+  "data": {"text": "菩提心觀釋"},
+  "children": [{
+   "data": {
+    "id": "z5cYxqVOV3",
+    "created": 1646116898131,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxqVOU8",
+      "created": 1646116898131,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxqVOU9",
+        "created": 1646116898131,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqVOUA",
+        "created": 1646116898131,
+        "text": "菩提心觀釋",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqVOUB",
+        "created": 1646116898131,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqVOUC",
+        "created": 1646116898131,
+        "text": "菩提心观释",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqVOUD",
+        "created": 1646116898131,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqVOUE",
+        "created": 1646116898131,
+        "text": "pu ti xin guan shi"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqVOUM",
+        "created": 1646116898131,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqVOUN",
+        "created": 1646116898131,
+        "text": "P'u t'i hsin kuan shih"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqVOUO",
+        "created": 1646116898131,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqVOUP",
+        "created": 1646116898131,
+        "text": "Bodhicittabhāvanā",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqVOUQ",
+        "created": 1646116898131,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqVOUR",
+        "created": 1646116898131,
+        "text": "Byaṅ-chub-sems bsgom-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqVOUS",
+        "created": 1646116898131,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqVOUT",
+        "created": 1646116898131,
+        "text": "보리심관석",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqVOUF",
+      "created": 1646116898131,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqVOUG",
+      "created": 1646116898131,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqVOUH",
+      "created": 1646116898131,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqVOUI",
+       "created": 1646116898131,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUJ",
+       "created": 1646116898131,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqVOUK",
+      "created": 1646116898131,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqVOUL",
+      "created": 1646116898131,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqVOUU",
+      "created": 1646116898131,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqVOUV",
+      "created": 1646116898131,
+      "text": "Translation by Fa-t'ien: (see K.1202)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqVOUW",
+      "created": 1646116898131,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqVOUX",
+       "created": 1646116898131,
+       "text": "【北京版】Rgyud-ḥgrel (ku)1-5b"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUY",
+       "created": 1646116898131,
+       "text": "【奈塘版】Rgyud-ḥgrel (ku)1-6a"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUZ",
+       "created": 1646116898131,
+       "text": "【德格版】Dbu-ma (ki)16b-19a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqVOUa",
+      "created": 1646116898131,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqVOUb",
+      "created": 1646116898131,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqVOUc",
+      "created": 1646116898131,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqVOUd",
+       "created": 1646116898131,
+       "text": "【房山石經】No.970《菩提心觀釋》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：26 / 頁數：608 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：匡"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUe",
+       "created": 1646116898131,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUf",
+       "created": 1646116898131,
+       "text": "【崇寧藏】No.1201《菩提心觀釋》 卷數：1 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUg",
+       "created": 1646116898131,
+       "text": "【毘盧藏】No.1203《菩提心觀釋》宋法天譯 參考年代：(紹興一八．閏八) 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUh",
+       "created": 1646116898131,
+       "text": "【圓覺藏】No.1211《菩提心觀釋》 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUi",
+       "created": 1646116898131,
+       "text": "【趙城金藏】No.1206《菩提心觀釋》 卷數：1 千字文：家"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUj",
+       "created": 1646116898131,
+       "text": "【資福藏】No.1216《菩提心觀釋》 卷數：1 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUk",
+       "created": 1646116898131,
+       "text": "【磧砂藏】No.1225《菩提心觀釋》宋 法天譯 部別： / 冊數：33 / 頁數：74 / 卷數：1 千字文：高 5 (505)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUl",
+       "created": 1646116898131,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUm",
+       "created": 1646116898131,
+       "text": "【高麗藏】No.1205《菩提心觀釋》西天三藏傳教大師法天譯 部別：宋續入藏經 / 冊數：34 頁數：290 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：家"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUn",
+       "created": 1646116898131,
+       "text": "【普寧藏】No.1216《菩提心觀釋》 卷數：1 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUo",
+       "created": 1646116898131,
+       "text": "【至元錄】No.1502《菩提心觀釋》宋西域三藏法天譯 卷數：1 千字文：公(546)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUp",
+       "created": 1646116898131,
+       "text": "【洪武南藏】No.1076《菩提心觀釋》三藏法師法天 譯 冊數：181 / 頁數：526 / 卷數：1 千字文：高 5 (505)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUq",
+       "created": 1646116898131,
+       "text": "【永樂南藏】No.882《菩提心觀釋》 部別：宋元入藏諸大小乘經 千字文：履(259)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUr",
+       "created": 1646116898131,
+       "text": "【永樂北藏】No.903《菩提心觀釋》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：476 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUs",
+       "created": 1646116898131,
+       "text": "【嘉興藏】No.866《菩提心觀釋》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0866 千字文 / 函號：［正藏］ 臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUt",
+       "created": 1646116898131,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUu",
+       "created": 1646116898131,
+       "text": "【乾隆藏】No.867《菩提心觀釋》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：643 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUv",
+       "created": 1646116898131,
+       "text": "【縮刻藏】No.910《菩提心觀釋》宋法天譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 10 (18)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUw",
+       "created": 1646116898131,
+       "text": "【卍正藏】No.876《菩提心觀釋》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：869 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUx",
+       "created": 1646116898131,
+       "text": "【大正藏】No.1663《菩提心觀釋》宋 法天譯 部別：論集部全 / 冊數：32 / 頁數：562 / 卷數：1 相關經典：縮-來10,卍-15.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxqVOUy",
+       "created": 1646116898131,
+       "text": "【佛教大藏經】No.952《菩提心觀釋》宋 法天譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：934 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxqVOUz",
+       "created": 1646116898131,
+       "text": "【中華藏】No.1315《菩提心觀釋》西天譯經三藏朝散大夫試鴻臚卿傳教大師法天奉詔譯 冊數：64 / 頁數：577 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxqVOV0",
+       "created": 1646116898131,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqVOV1",
+       "created": 1646116898131,
+       "text": "【南條文雄編號】 Nj. 0872"
+      }},
+      {"data": {
+       "id": "z5cYxqVOV2",
+       "created": 1646116898131,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1663"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzkj1du",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

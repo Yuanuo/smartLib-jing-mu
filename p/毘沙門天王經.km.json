@@ -1,0 +1,682 @@
+{
+ "root": {
+  "data": {"text": "毘沙門天王經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxVlIWN",
+     "created": 1646116896845,
+     "text": "現藏錄（唐 不空譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxVkIVV",
+       "created": 1646116896844,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxVkIVW",
+         "created": 1646116896844,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVkIVX",
+         "created": 1646116896844,
+         "text": "毘沙門天王經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVkIVY",
+         "created": 1646116896844,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVkIVZ",
+         "created": 1646116896844,
+         "text": "毘沙门天王经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVkIVa",
+         "created": 1646116896844,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVkIVb",
+         "created": 1646116896844,
+         "text": "pi sha men tian wang jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVkIVj",
+         "created": 1646116896844,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVkIVk",
+         "created": 1646116896844,
+         "text": "P'i sha men t'ien wang ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVkIVl",
+         "created": 1646116896844,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVkIVm",
+         "created": 1646116896844,
+         "text": "Ātānātīyasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVkIVn",
+         "created": 1646116896844,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVkIVo",
+         "created": 1646116896844,
+         "text": "Lcaṅ-lo-can-gyi pho-braṅ-gi mdo"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVkIVp",
+         "created": 1646116896844,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVkIVq",
+         "created": 1646116896844,
+         "text": "비사문천왕경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxVkIVc",
+       "created": 1646116896844,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVkIVd",
+       "created": 1646116896844,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxVkIVe",
+       "created": 1646116896844,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxVkIVf",
+        "created": 1646116896844,
+        "text": "唐 不空譯"
+       }},
+       {"data": {
+        "id": "z5cYxVkIVg",
+        "created": 1646116896844,
+        "text": "不空",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxVkIVh",
+       "created": 1646116896844,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVkIVi",
+       "created": 1646116896844,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxVkIVr",
+       "created": 1646116896844,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVkIVs",
+       "created": 1646116896844,
+       "text": "Translation by Amoghavajra: (see K.1272)."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxVkIVt",
+      "created": 1646116896844,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxVkIVu",
+       "created": 1646116896844,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVkIVv",
+       "created": 1646116896844,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxVkIVw",
+       "created": 1646116896844,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxVkIVx",
+        "created": 1646116896844,
+        "text": "【房山石經】No.799《毗沙門天王經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：189 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：俠"
+       }},
+       {"data": {
+        "id": "z5cYxVkIVy",
+        "created": 1646116896844,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIVz",
+        "created": 1646116896844,
+        "text": "【崇寧藏】No.1370《毘沙門天王經》 卷數：1 千字文：感(558)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW0",
+        "created": 1646116896844,
+        "text": "【毘盧藏】No.1368《毘沙門天王經》唐不空譯 千字文：感(558)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW1",
+        "created": 1646116896844,
+        "text": "【圓覺藏】No.1367《毘沙門天王經》 千字文：阿(535)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW2",
+        "created": 1646116896844,
+        "text": "【趙城金藏】No.1320《毗沙王天王經》 卷數：1 千字文：肥"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW3",
+        "created": 1646116896844,
+        "text": "【資福藏】No.1372《毘沙門天王經》 卷數：1 千字文：阿(535)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW4",
+        "created": 1646116896844,
+        "text": "【磧砂藏】No.1376《毗沙門天王經》唐 不空譯 部別： / 冊數：34 / 頁數：510 / 卷數：1 千字文：阿 2 (535)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW5",
+        "created": 1646116896844,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW6",
+        "created": 1646116896844,
+        "text": "【高麗藏】No.1307《毘沙門天王經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：36 頁數：973 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：阿"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW7",
+        "created": 1646116896844,
+        "text": "【普寧藏】No.1367《毘沙門天王經》 卷數：1 千字文：阿(535)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW8",
+        "created": 1646116896844,
+        "text": "【至元錄】No.681《毘沙門天王經》唐天竺三藏大廣智不空譯 卷數：1 千字文：曰(245)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIW9",
+        "created": 1646116896844,
+        "text": "【洪武南藏】No.1223《毗沙門天王經》大興善寺三藏沙門大廣智不空 奉詔譯 冊數：189 / 頁數：427 / 卷數：1 千字文：阿 2 (535)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWA",
+        "created": 1646116896844,
+        "text": "【永樂南藏】No.1011《毘沙門天王經》 部別：宋元入藏諸大小乘經 千字文：不(275)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWB",
+        "created": 1646116896844,
+        "text": "【永樂北藏】No.1006《毗沙門天王經》唐不空譯 部別：宋元入藏諸大小乘經 / 冊數：70 / 頁數：492 / 卷數：1 千字文：清"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWC",
+        "created": 1646116896844,
+        "text": "【嘉興藏】No.967《毘沙門天王經》唐不空譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0967 千字文 / 函號：［正藏］ 清(264)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWD",
+        "created": 1646116896844,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWE",
+        "created": 1646116896844,
+        "text": "【乾隆藏】No.969《毗沙門天王經》唐 不空譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：431 / 卷數：1 千字文：清"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWF",
+        "created": 1646116896844,
+        "text": "【縮刻藏】No.1256《毘沙門天王經》唐不空譯 部別：祕密部 / 卷數：1 千字文： 14 (25)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWG",
+        "created": 1646116896844,
+        "text": "【卍正藏】No.978《毗沙門天王經》不空譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：704 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWH",
+        "created": 1646116896844,
+        "text": "【大正藏】No.1244《毘沙門天王經》唐 不空譯 部別：密教部四 / 冊數：21 / 頁數：215 / 卷數：1 相關經典：縮-閏14,卍-15.9 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxVkIWI",
+        "created": 1646116896844,
+        "text": "【佛教大藏經】No.1325《毘沙門天王經》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：1139 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWJ",
+        "created": 1646116896844,
+        "text": "【中華藏】No.1433《毗沙門天王經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：65 / 頁數：669 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWK",
+        "created": 1646116896844,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWL",
+        "created": 1646116896844,
+        "text": "【南條文雄編號】 Nj. 0974"
+       }},
+       {"data": {
+        "id": "z5cYxVkIWM",
+        "created": 1646116896844,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1244"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxVnIXL",
+     "created": 1646116896847,
+     "text": "現藏錄（宋 法天譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxVmIWO",
+       "created": 1646116896846,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxVmIWP",
+         "created": 1646116896846,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVmIWQ",
+         "created": 1646116896846,
+         "text": "佛說毘沙門天王經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVmIWR",
+         "created": 1646116896846,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVmIWS",
+         "created": 1646116896846,
+         "text": "佛说毘沙门天王经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVmIWT",
+         "created": 1646116896846,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVmIWU",
+         "created": 1646116896846,
+         "text": "fo shuo pi sha men tian wang jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVmIWc",
+         "created": 1646116896846,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVmIWd",
+         "created": 1646116896846,
+         "text": "P'i sha men t'ien wang ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVmIWe",
+         "created": 1646116896846,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVmIWf",
+         "created": 1646116896846,
+         "text": "Aṭānāṭīyamasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVmIWg",
+         "created": 1646116896846,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVmIWh",
+         "created": 1646116896846,
+         "text": "Lcaṅ-lo-can-gyi pho-braṅ-gi mdo"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxVmIWi",
+         "created": 1646116896846,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxVmIWj",
+         "created": 1646116896846,
+         "text": "비사문천왕경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxVmIWV",
+       "created": 1646116896846,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVmIWW",
+       "created": 1646116896846,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxVmIWX",
+       "created": 1646116896846,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxVmIWY",
+        "created": 1646116896846,
+        "text": "宋 法天譯"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWZ",
+        "created": 1646116896846,
+        "text": "法天",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxVmIWa",
+       "created": 1646116896846,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVmIWb",
+       "created": 1646116896846,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxVmIWk",
+       "created": 1646116896846,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVmIWl",
+       "created": 1646116896846,
+       "text": "Translation by Fa-t'ien: (see K.1177)."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxVmIWm",
+       "created": 1646116896846,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxVmIWn",
+        "created": 1646116896846,
+        "text": "【北京版】Rgyud (ba)168a-181a(ya)195b-210aŚer-phyin (tsi)264b-274b"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWo",
+        "created": 1646116896846,
+        "text": "【奈塘版】Rgyud (pha)91b-112bMdo (A)534a-558b"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWp",
+        "created": 1646116896846,
+        "text": "【德格版】Śes-phyin (ka)250a-259bRgyud-ḥbum (ba)149b-162bGzuṅs-ḥdus (wam)190a-205b"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWq",
+        "created": 1646116896846,
+        "text": "【拉薩版】Śer-phyin sna-tshogs (ka)388a-403bRgyud(pa)101b-124b"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWr",
+        "created": 1646116896846,
+        "text": "【卓尼版】Rgyud (ba)193b-209a(ya)201(?)-217a(ka)278b-289b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxVmIWs",
+       "created": 1646116896846,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxVmIWt",
+       "created": 1646116896846,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxVmIWu",
+       "created": 1646116896846,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxVmIWv",
+        "created": 1646116896846,
+        "text": "【房山石經】No.949《佛說毗沙門天王經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：26 / 頁數：525 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：營"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWw",
+        "created": 1646116896846,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWx",
+        "created": 1646116896846,
+        "text": "【崇寧藏】No.1176《毘沙門天王經》 卷數：1 千字文：千(503)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWy",
+        "created": 1646116896846,
+        "text": "【毘盧藏】No.1177《佛說毘沙門天王經》宋法天譯 參考年代：(紹興一八．閏八) 千字文：千(503)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIWz",
+        "created": 1646116896846,
+        "text": "【圓覺藏】No.1183《毘沙門天王經》 千字文：千(503)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX0",
+        "created": 1646116896846,
+        "text": "【趙城金藏】No.1186《毗沙門天王經》 卷數：1 千字文：封"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX1",
+        "created": 1646116896846,
+        "text": "【資福藏】No.1188《毘沙門天王經》 卷數：1 千字文：千(503)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX2",
+        "created": 1646116896846,
+        "text": "【磧砂藏】No.1197《佛說毗沙門天王經》宋 法天譯 部別： / 冊數：33 / 頁數：8 / 卷數：1 千字文：千 3 (503)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX3",
+        "created": 1646116896846,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX4",
+        "created": 1646116896846,
+        "text": "【高麗藏】No.1185《毘沙門天王經》西天譯經三藏傳教大師法天譯 部別：宋續入藏經 / 冊數：34 頁數：201 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：封"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX5",
+        "created": 1646116896846,
+        "text": "【普寧藏】No.1188《佛說毘沙門天王經》 卷數：1 千字文：千(503)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX6",
+        "created": 1646116896846,
+        "text": "【至元錄】No.714《毘沙門天王經》宋西域三藏法天譯 卷數：1 千字文：深(258)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX7",
+        "created": 1646116896846,
+        "text": "【洪武南藏】No.1047《佛說毘沙門天王經》朝散大夫試鴻臚卿明教大師臣法天 奉詔譯 冊數：181 / 頁數：253 / 卷數：1 千字文：千 3 (503)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX8",
+        "created": 1646116896846,
+        "text": "【永樂南藏】No.851《佛說毘沙門天王經》 部別：宋元入藏諸大小乘經 千字文：臨(257)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIX9",
+        "created": 1646116896846,
+        "text": "【永樂北藏】No.880《佛說毗沙門天王經》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：34 / 卷數：1 千字文：盡"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXA",
+        "created": 1646116896846,
+        "text": "【嘉興藏】No.843《佛說毘沙門天王經》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0843 千字文 / 函號：［正藏］ 盡(255)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXB",
+        "created": 1646116896846,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXC",
+        "created": 1646116896846,
+        "text": "【乾隆藏】No.844《佛說毗沙門天王經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：321 / 卷數：1 千字文：盡"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXD",
+        "created": 1646116896846,
+        "text": "【縮刻藏】No.1602《佛說毘沙門天王經》宋法天譯 部別：祕密部 / 卷數：1 千字文：成 12 (27)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXE",
+        "created": 1646116896846,
+        "text": "【卍正藏】No.853《佛說毗沙門天王經》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：683 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXF",
+        "created": 1646116896846,
+        "text": "【大正藏】No.1245《佛說毘沙門天王經》宋 法天譯 部別：密教部四 / 冊數：21 / 頁數：217 / 卷數：1 相關經典：縮-成12,卍-15.4 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxVmIXG",
+        "created": 1646116896846,
+        "text": "【佛教大藏經】No.1679《佛說毘沙門天王經》宋 法天譯 部別：密教部七 / 冊數：58 / 頁數：33 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXH",
+        "created": 1646116896846,
+        "text": "【中華藏】No.1296《佛說毗沙門天王經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：64 / 頁數：454 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXI",
+        "created": 1646116896846,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXJ",
+        "created": 1646116896846,
+        "text": "【南條文雄編號】 Nj. 0849"
+       }},
+       {"data": {
+        "id": "z5cYxVmIXK",
+        "created": 1646116896846,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1245"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyks11s",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

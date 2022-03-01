@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "金剛頂大教王經疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYyCsVZE",
+    "created": 1646116899518,
+    "text": "現藏錄（日本 圓仁撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyCsVYZ",
+      "created": 1646116899518,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyCsVYa",
+        "created": 1646116899518,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCsVYb",
+        "created": 1646116899518,
+        "text": "金剛頂大教王經疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCsVYc",
+        "created": 1646116899518,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCsVYd",
+        "created": 1646116899518,
+        "text": "金刚顶大教王经疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCsVYe",
+        "created": 1646116899518,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCsVYf",
+        "created": 1646116899518,
+        "text": "jin gang ding da jiao wang jing shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCsVYg",
+      "created": 1646116899518,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCsVYh",
+      "created": 1646116899518,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCsVYi",
+      "created": 1646116899518,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCsVYj",
+       "created": 1646116899518,
+       "text": "日本 圓仁撰"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYk",
+       "created": 1646116899518,
+       "text": "圓仁",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCsVYl",
+      "created": 1646116899518,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCsVYm",
+      "created": 1646116899518,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCsVYn",
+      "created": 1646116899518,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCsVYo",
+       "created": 1646116899518,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYp",
+       "created": 1646116899518,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYq",
+       "created": 1646116899518,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYr",
+       "created": 1646116899518,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYs",
+       "created": 1646116899518,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYt",
+       "created": 1646116899518,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYu",
+       "created": 1646116899518,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYv",
+       "created": 1646116899518,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYw",
+       "created": 1646116899518,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYx",
+       "created": 1646116899518,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYy",
+       "created": 1646116899518,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVYz",
+       "created": 1646116899518,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ0",
+       "created": 1646116899518,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ1",
+       "created": 1646116899518,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ2",
+       "created": 1646116899518,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ3",
+       "created": 1646116899518,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ4",
+       "created": 1646116899518,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ5",
+       "created": 1646116899518,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ6",
+       "created": 1646116899518,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ7",
+       "created": 1646116899518,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ8",
+       "created": 1646116899518,
+       "text": "【大正藏】No.2223《金剛頂大教王經疏》日本 圓仁撰 部別：續經疏部六 / 冊數：61 / 頁數：7 / 卷數：7 相關經典：佛全-43,國-經疏17 參考資料：cf.Nos.865,2221,2222,2224,2225"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZ9",
+       "created": 1646116899518,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZA",
+       "created": 1646116899518,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZB",
+       "created": 1646116899518,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZC",
+       "created": 1646116899518,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCsVZD",
+       "created": 1646116899518,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2223"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0n21ux",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

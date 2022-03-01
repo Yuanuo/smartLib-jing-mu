@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "波斯教殘經"},
+  "children": [{
+   "data": {
+    "id": "z5cYy9JURD",
+    "created": 1646116899297,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy9JUQb",
+      "created": 1646116899297,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy9JUQc",
+        "created": 1646116899297,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9JUQd",
+        "created": 1646116899297,
+        "text": "波斯教殘經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9JUQe",
+        "created": 1646116899297,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9JUQf",
+        "created": 1646116899297,
+        "text": "波斯教残经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9JUQg",
+        "created": 1646116899297,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9JUQh",
+        "created": 1646116899297,
+        "text": "bo si jiao can jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy9JUQi",
+      "created": 1646116899297,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9JUQj",
+      "created": 1646116899297,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9JUQk",
+      "created": 1646116899297,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9JUQl",
+      "created": 1646116899297,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9JUQm",
+      "created": 1646116899297,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy9JUQn",
+       "created": 1646116899297,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQo",
+       "created": 1646116899297,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQp",
+       "created": 1646116899297,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQq",
+       "created": 1646116899297,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQr",
+       "created": 1646116899297,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQs",
+       "created": 1646116899297,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQt",
+       "created": 1646116899297,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQu",
+       "created": 1646116899297,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQv",
+       "created": 1646116899297,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQw",
+       "created": 1646116899297,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQx",
+       "created": 1646116899297,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQy",
+       "created": 1646116899297,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUQz",
+       "created": 1646116899297,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR0",
+       "created": 1646116899297,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR1",
+       "created": 1646116899297,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR2",
+       "created": 1646116899297,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR3",
+       "created": 1646116899297,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR4",
+       "created": 1646116899297,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR5",
+       "created": 1646116899297,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR6",
+       "created": 1646116899297,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR7",
+       "created": 1646116899297,
+       "text": "【大正藏】No.2141B《波斯教殘經》 部別：外教部全 / 冊數：54 / 頁數：1281 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy9JUR8",
+       "created": 1646116899297,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JUR9",
+       "created": 1646116899297,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JURA",
+       "created": 1646116899297,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JURB",
+       "created": 1646116899297,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9JURC",
+       "created": 1646116899297,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2141"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0gw1s4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

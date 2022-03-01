@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "定宗論"},
+  "children": [{
+   "data": {
+    "id": "z5cYyHuXCN",
+    "created": 1646116899830,
+    "text": "現藏錄（日本 蓮剛撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyHuXBi",
+      "created": 1646116899830,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyHuXBj",
+        "created": 1646116899830,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyHuXBk",
+        "created": 1646116899830,
+        "text": "定宗論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyHuXBl",
+        "created": 1646116899830,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyHuXBm",
+        "created": 1646116899830,
+        "text": "定宗论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyHuXBn",
+        "created": 1646116899830,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyHuXBo",
+        "created": 1646116899830,
+        "text": "ding zong lun"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyHuXBp",
+      "created": 1646116899830,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyHuXBq",
+      "created": 1646116899830,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyHuXBr",
+      "created": 1646116899830,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyHuXBs",
+       "created": 1646116899830,
+       "text": "日本 蓮剛撰"
+      }},
+      {"data": {
+       "id": "z5cYyHuXBt",
+       "created": 1646116899830,
+       "text": "蓮剛",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyHuXBu",
+      "created": 1646116899830,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyHuXBv",
+      "created": 1646116899830,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyHuXBw",
+      "created": 1646116899830,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyHuXBx",
+       "created": 1646116899830,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXBy",
+       "created": 1646116899830,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXBz",
+       "created": 1646116899830,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC0",
+       "created": 1646116899830,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC1",
+       "created": 1646116899830,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC2",
+       "created": 1646116899830,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC3",
+       "created": 1646116899830,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC4",
+       "created": 1646116899830,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC5",
+       "created": 1646116899830,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC6",
+       "created": 1646116899830,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC7",
+       "created": 1646116899830,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC8",
+       "created": 1646116899830,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXC9",
+       "created": 1646116899830,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCA",
+       "created": 1646116899830,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCB",
+       "created": 1646116899830,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCC",
+       "created": 1646116899830,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCD",
+       "created": 1646116899830,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCE",
+       "created": 1646116899830,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCF",
+       "created": 1646116899830,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCG",
+       "created": 1646116899830,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCH",
+       "created": 1646116899830,
+       "text": "【大正藏】No.2369《定宗論》日本 蓮剛撰 部別：續諸宗部五 / 冊數：74 / 頁數：313 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyHuXCI",
+       "created": 1646116899830,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCJ",
+       "created": 1646116899830,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCK",
+       "created": 1646116899830,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCL",
+       "created": 1646116899830,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHuXCM",
+       "created": 1646116899830,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2369"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0vq1z3",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

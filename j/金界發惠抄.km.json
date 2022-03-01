@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "金界發惠抄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyOmZ3S",
+    "created": 1646116900256,
+    "text": "現藏錄（日本 賴瑜記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyOlZ2n",
+      "created": 1646116900255,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyOlZ2o",
+        "created": 1646116900255,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOlZ2p",
+        "created": 1646116900255,
+        "text": "金界發惠抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOlZ2q",
+        "created": 1646116900255,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOlZ2r",
+        "created": 1646116900255,
+        "text": "金界发惠抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOlZ2s",
+        "created": 1646116900255,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOlZ2t",
+        "created": 1646116900255,
+        "text": "jin jie fa hui chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOlZ2u",
+      "created": 1646116900255,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOlZ2v",
+      "created": 1646116900255,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOlZ2w",
+      "created": 1646116900255,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOlZ2x",
+       "created": 1646116900255,
+       "text": "日本 賴瑜記"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ2y",
+       "created": 1646116900255,
+       "text": "賴瑜",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOlZ2z",
+      "created": 1646116900255,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOlZ30",
+      "created": 1646116900255,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOlZ31",
+      "created": 1646116900255,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOlZ32",
+       "created": 1646116900255,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ33",
+       "created": 1646116900255,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ34",
+       "created": 1646116900255,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ35",
+       "created": 1646116900255,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ36",
+       "created": 1646116900255,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ37",
+       "created": 1646116900255,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ38",
+       "created": 1646116900255,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ39",
+       "created": 1646116900255,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ3A",
+       "created": 1646116900255,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ3B",
+       "created": 1646116900255,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOlZ3C",
+       "created": 1646116900255,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3D",
+       "created": 1646116900256,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3E",
+       "created": 1646116900256,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3F",
+       "created": 1646116900256,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3G",
+       "created": 1646116900256,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3H",
+       "created": 1646116900256,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3I",
+       "created": 1646116900256,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3J",
+       "created": 1646116900256,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3K",
+       "created": 1646116900256,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3L",
+       "created": 1646116900256,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3M",
+       "created": 1646116900256,
+       "text": "【大正藏】No.2533《金界發惠抄》日本 賴瑜記 部別：續諸宗部十 / 冊數：79 / 頁數：98 / 卷數：3 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3N",
+       "created": 1646116900256,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3O",
+       "created": 1646116900256,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3P",
+       "created": 1646116900256,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3Q",
+       "created": 1646116900256,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOmZ3R",
+       "created": 1646116900256,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2533"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri17j23u",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

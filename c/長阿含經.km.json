@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "長阿含經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwHVt",
+    "created": 1646116892117,
+    "text": "現藏錄（後秦 佛陀耶舍共竺佛念譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwFv0",
+      "created": 1646116892019,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwG41",
+        "created": 1646116892028,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwG42",
+        "created": 1646116892028,
+        "text": "長阿含經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwG43",
+        "created": 1646116892028,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwGX4",
+        "created": 1646116892057,
+        "text": "长阿含经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwGX5",
+        "created": 1646116892057,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwH56",
+        "created": 1646116892091,
+        "text": "chang a han jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwHDF",
+        "created": 1646116892099,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwHDG",
+        "created": 1646116892099,
+        "text": "Ch'ang a han ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwHEH",
+        "created": 1646116892100,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwHEI",
+        "created": 1646116892100,
+        "text": "Dīrghāgama(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwHEJ",
+        "created": 1646116892100,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwHEK",
+        "created": 1646116892100,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwHEL",
+        "created": 1646116892100,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwHEM",
+        "created": 1646116892100,
+        "text": "장아함경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwH67",
+      "created": 1646116892092,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwH78",
+      "created": 1646116892093,
+      "text": "後秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwH79",
+      "created": 1646116892093,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwH7A",
+       "created": 1646116892093,
+       "text": "後秦 佛陀耶舍共竺佛念譯"
+      }},
+      {"data": {
+       "id": "z5cYwH7B",
+       "created": 1646116892093,
+       "text": "佛念",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwHDC",
+       "created": 1646116892099,
+       "text": "佛陀耶舍",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwHDD",
+      "created": 1646116892099,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwHDE",
+      "created": 1646116892099,
+      "text": "22"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwHFN",
+      "created": 1646116892101,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwHFO",
+      "created": 1646116892101,
+      "text": "Translation by Buddhayaśas and (Chu) Fo-nien: 15th year of Hung Shih (弘始), Later Ch'in dynasty (後秦) (A.D. 413) in Ch'ang An (長安).T. 2153-421b:4."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwHFP",
+     "created": 1646116892101,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwHIQ",
+      "created": 1646116892104,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwHJR",
+      "created": 1646116892105,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwHJS",
+      "created": 1646116892105,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwHJT",
+       "created": 1646116892105,
+       "text": "【房山石經】No.738《佛說長阿含經》(姚秦)罽賓三藏佛陀耶舍共竺佛念譯 冊數：20 / 頁數：274 / 卷數：22 / 刻經年代：皇統九年刻石 / 瀏覽：目錄圖檔 千字文：履薄"
+      }},
+      {"data": {
+       "id": "z5cYwHKU",
+       "created": 1646116892106,
+       "text": "【開寶藏】No.643《長阿含經》姚秦 罽賓三藏佛陀耶舍共竺佛念 譯 部別：小乘經 小乘經重單合譯 / 卷數：22 千字文：臨-深"
+      }},
+      {"data": {
+       "id": "z5cYwHKV",
+       "created": 1646116892106,
+       "text": "【崇寧藏】No.645《長阿含經》 卷數：22 千字文：深(258)-履(259)"
+      }},
+      {"data": {
+       "id": "z5cYwHKW",
+       "created": 1646116892106,
+       "text": "【毘盧藏】No.646《長阿含經》序僧肇　姚秦佛陀耶舍共竺佛念譯 千字文：深(258)-履(259)"
+      }},
+      {"data": {
+       "id": "z5cYwHKX",
+       "created": 1646116892106,
+       "text": "【圓覺藏】No.654《長阿含經》 卷數：22 千字文：深(258)-履(259)"
+      }},
+      {"data": {
+       "id": "z5cYwHKY",
+       "created": 1646116892106,
+       "text": "【趙城金藏】No.648《長阿含經》 卷數：22 千字文：臨深"
+      }},
+      {"data": {
+       "id": "z5cYwHKZ",
+       "created": 1646116892106,
+       "text": "【資福藏】No.659《長阿含經》 卷數：22 (二十二卷) 千字文：深(258)-履(259)"
+      }},
+      {"data": {
+       "id": "z5cYwHKa",
+       "created": 1646116892106,
+       "text": "【磧砂藏】No.665《佛說長阿含經》姚秦 佛陀耶舍．竺佛念譯 部別：阿含部 / 冊數：17 / 頁數：302 / 卷數：22 千字文：深 1 (258)-履 11 (259)"
+      }},
+      {"data": {
+       "id": "z5cYwHKb",
+       "created": 1646116892106,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwHLc",
+       "created": 1646116892107,
+       "text": "【高麗藏】No.647《長阿含經》後秦弘始年佛陀邪舍-共竺佛念譯 部別：小乘經 阿含部 / 冊數：17 頁數：815(原版) 805(新文豐) / 卷數：22 / 連結：高麗大藏經 (圖檔) 千字文：臨-深"
+      }},
+      {"data": {
+       "id": "z5cYwHLd",
+       "created": 1646116892107,
+       "text": "【普寧藏】No.657《佛說長阿含經》 卷數：22 千字文：深(258)-履(259)"
+      }},
+      {"data": {
+       "id": "z5cYwHLe",
+       "created": 1646116892107,
+       "text": "【至元錄】No.887《長阿含經》姚秦罽賓三藏佛陀耶舍共竺佛念譯 梵名：地哩(二合)甘阿甘 / 卷數：22 / 譯次：(重單合譯) 千字文：若(283)-思(284)"
+      }},
+      {"data": {
+       "id": "z5cYwHLf",
+       "created": 1646116892107,
+       "text": "【洪武南藏】No.585《長阿含經》姚秦 三藏法師佛陀耶捨共竺佛念 譯 冊數：89-90 / 頁數：404 / 卷數：22 千字文：深 1 (258)-履 11 (259)"
+      }},
+      {"data": {
+       "id": "z5cYwHLg",
+       "created": 1646116892107,
+       "text": "【永樂南藏】No.534《佛說長阿含經》 部別：小乘經-阿含部 千字文：克(205)-念(206)"
+      }},
+      {"data": {
+       "id": "z5cYwHLh",
+       "created": 1646116892107,
+       "text": "【永樂北藏】No.574《佛說長阿含經》姚秦佛陀耶舍-共竺佛念譯 部別：小乘經阿含部 / 冊數：59-60 / 頁數：571 / 卷數：22 千字文：習-禍"
+      }},
+      {"data": {
+       "id": "z5cYwHLi",
+       "created": 1646116892107,
+       "text": "【嘉興藏】No.540《佛說長阿含經》姚秦佛陀耶舍-共竺佛念譯 部別：小乘經-阿含部 / 法寶總目錄經號：0540 千字文 / 函號：［正藏］ 習(223)-聽(224)"
+      }},
+      {"data": {
+       "id": "z5cYwHMj",
+       "created": 1646116892108,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwHMk",
+       "created": 1646116892108,
+       "text": "【乾隆藏】No.541《佛說長阿含經》姚秦 佛陀耶舍,竺佛念譯 部別：小乘阿含部 / 冊數：50 / 頁數：176 / 卷數：22 千字文：習聽禍"
+      }},
+      {"data": {
+       "id": "z5cYwHMl",
+       "created": 1646116892108,
+       "text": "【縮刻藏】No.548《佛說長阿含經》後秦佛陀耶舍共竺佛念譯 部別：小乘經 / 卷數：22 千字文：昃 9 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwHMm",
+       "created": 1646116892108,
+       "text": "【卍正藏】No.548《佛說長阿含經》後秦 佛陀耶舍共竺佛念譯 部別：小乘經 阿含部 / 冊數：24 / 頁數：421 / 卷數：22 原版套數：第 13 套"
+      }},
+      {"data": {
+       "id": "z5cYwHMn",
+       "created": 1646116892108,
+       "text": "【大正藏】No.1《長阿含經》後秦 佛陀耶舍共竺佛念譯 部別：阿含部上 / 冊數：1 / 頁數：1 / 卷數：22 相關經典：縮-昃9,卍-13.8,南-6-8,國-阿7 參考資料：cf.Nos.2-25,45(52)"
+      }},
+      {"data": {
+       "id": "z5cYwHMo",
+       "created": 1646116892108,
+       "text": "【佛教大藏經】No.556《佛說長阿含經》後秦 佛陀耶舍共竺佛念譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：381 / 卷數：22"
+      }},
+      {"data": {
+       "id": "z5cYwHMp",
+       "created": 1646116892108,
+       "text": "【中華藏】No.697《佛說長阿含經》後秦弘始年佛陀耶舍共竺佛念譯 冊數：31 / 頁數：1 / 卷數：22 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwHMq",
+       "created": 1646116892108,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwHNr",
+       "created": 1646116892109,
+       "text": "【南條文雄編號】 Nj. 0545"
+      }},
+      {"data": {
+       "id": "z5cYwHNs",
+       "created": 1646116892109,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhuuf0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

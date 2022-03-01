@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "西方合論"},
+  "children": [{
+   "data": {
+    "id": "z5cYy2MSDa",
+    "created": 1646116898866,
+    "text": "現藏錄（明 袁宏道撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy2MSCv",
+      "created": 1646116898866,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy2MSCw",
+        "created": 1646116898866,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy2MSCx",
+        "created": 1646116898866,
+        "text": "西方合論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy2MSCy",
+        "created": 1646116898866,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy2MSCz",
+        "created": 1646116898866,
+        "text": "西方合论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy2MSD0",
+        "created": 1646116898866,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy2MSD1",
+        "created": 1646116898866,
+        "text": "xi fang he lun"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy2MSD2",
+      "created": 1646116898866,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy2MSD3",
+      "created": 1646116898866,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy2MSD4",
+      "created": 1646116898866,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy2MSD5",
+       "created": 1646116898866,
+       "text": "明 袁宏道撰"
+      }},
+      {"data": {
+       "id": "z5cYy2MSD6",
+       "created": 1646116898866,
+       "text": "袁宏道",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy2MSD7",
+      "created": 1646116898866,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy2MSD8",
+      "created": 1646116898866,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy2MSD9",
+      "created": 1646116898866,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy2MSDA",
+       "created": 1646116898866,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDB",
+       "created": 1646116898866,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDC",
+       "created": 1646116898866,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDD",
+       "created": 1646116898866,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDE",
+       "created": 1646116898866,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDF",
+       "created": 1646116898866,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDG",
+       "created": 1646116898866,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDH",
+       "created": 1646116898866,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDI",
+       "created": 1646116898866,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDJ",
+       "created": 1646116898866,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDK",
+       "created": 1646116898866,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDL",
+       "created": 1646116898866,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDM",
+       "created": 1646116898866,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDN",
+       "created": 1646116898866,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDO",
+       "created": 1646116898866,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDP",
+       "created": 1646116898866,
+       "text": "【嘉興藏】No.1896《西方合論》荷葉菴道人石頭撰述 部別：又續藏 / 法寶總目錄經號：1895 千字文 / 函號：［又續藏］ 4 函"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDQ",
+       "created": 1646116898866,
+       "text": "【嘉興藏新文豐版】［續藏］No.265《西方合論》明 袁宏道撰 冊數：31 / 頁數：465 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDR",
+       "created": 1646116898866,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDS",
+       "created": 1646116898866,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDT",
+       "created": 1646116898866,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDU",
+       "created": 1646116898866,
+       "text": "【大正藏】No.1976《西方合論》明 袁宏道撰 部別：諸宗部四 / 冊數：47 / 頁數：385 / 卷數：10 相關經典：續-2.13.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy2MSDV",
+       "created": 1646116898866,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDW",
+       "created": 1646116898866,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDX",
+       "created": 1646116898866,
+       "text": "【新纂卍續藏】No.1164《淨土十要》明 成時(評點節要) 部別：中國撰述 諸宗著述部八 淨土宗 / 冊數：61 / 頁數：641 / 卷數：10 《卍大日本續藏經》套數：第二編．第 13 套 《卍續藏經》(新文豐版)冊數：第 108 冊"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDY",
+       "created": 1646116898866,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy2MSDZ",
+       "created": 1646116898866,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1976"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri04y1mx",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

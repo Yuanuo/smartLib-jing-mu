@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "諸經日誦"},
+  "children": [{
+   "data": {
+    "id": "z5cYzb9vQx",
+    "created": 1646116904867,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzb9vQL",
+      "created": 1646116904867,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzb9vQM",
+        "created": 1646116904867,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzb9vQN",
+        "created": 1646116904867,
+        "text": "諸經日誦",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzb9vQO",
+        "created": 1646116904867,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzb9vQP",
+        "created": 1646116904867,
+        "text": "诸经日诵",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzb9vQQ",
+        "created": 1646116904867,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzb9vQR",
+        "created": 1646116904867,
+        "text": "zhu jing ri song"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzb9vQS",
+      "created": 1646116904867,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzb9vQT",
+      "created": 1646116904867,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzb9vQU",
+      "created": 1646116904867,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzb9vQV",
+      "created": 1646116904867,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzb9vQW",
+      "created": 1646116904867,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzb9vQX",
+       "created": 1646116904867,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQY",
+       "created": 1646116904867,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQZ",
+       "created": 1646116904867,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQa",
+       "created": 1646116904867,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQb",
+       "created": 1646116904867,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQc",
+       "created": 1646116904867,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQd",
+       "created": 1646116904867,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQe",
+       "created": 1646116904867,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQf",
+       "created": 1646116904867,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQg",
+       "created": 1646116904867,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQh",
+       "created": 1646116904867,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQi",
+       "created": 1646116904867,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQj",
+       "created": 1646116904867,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQk",
+       "created": 1646116904867,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQl",
+       "created": 1646116904867,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQm",
+       "created": 1646116904867,
+       "text": "【嘉興藏】No.1694《諸經日誦》不著撰入 部別：續藏 / 法寶總目錄經號：1693 千字文 / 函號：［續藏］ 34 函"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQn",
+       "created": 1646116904867,
+       "text": "【嘉興藏新文豐版】［續藏］No.44《諸經日誦集要》伕名 冊數：19 / 頁數：127 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQo",
+       "created": 1646116904867,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQp",
+       "created": 1646116904867,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQq",
+       "created": 1646116904867,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQr",
+       "created": 1646116904867,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQs",
+       "created": 1646116904867,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQt",
+       "created": 1646116904867,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQu",
+       "created": 1646116904867,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQv",
+       "created": 1646116904867,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzb9vQw",
+       "created": 1646116904867,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：187"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4rn3qa",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

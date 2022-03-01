@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "入對法論集勝義疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYzGip7P",
+    "created": 1646116903600,
+    "text": "現藏錄（彌多羅造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzGip6k",
+      "created": 1646116903600,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzGip6l",
+        "created": 1646116903600,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGip6m",
+        "created": 1646116903600,
+        "text": "入對法論集勝義疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzGip6n",
+        "created": 1646116903600,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGip6o",
+        "created": 1646116903600,
+        "text": "入对法论集胜义疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzGip6p",
+        "created": 1646116903600,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzGip6q",
+        "created": 1646116903600,
+        "text": "ru dui fa lun ji sheng yi shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzGip6r",
+      "created": 1646116903600,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGip6s",
+      "created": 1646116903600,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGip6t",
+      "created": 1646116903600,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzGip6u",
+       "created": 1646116903600,
+       "text": "彌多羅造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYzGip6v",
+       "created": 1646116903600,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzGip6w",
+      "created": 1646116903600,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzGip6x",
+      "created": 1646116903600,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzGip6y",
+      "created": 1646116903600,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzGip6z",
+       "created": 1646116903600,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip70",
+       "created": 1646116903600,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip71",
+       "created": 1646116903600,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip72",
+       "created": 1646116903600,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip73",
+       "created": 1646116903600,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip74",
+       "created": 1646116903600,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip75",
+       "created": 1646116903600,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip76",
+       "created": 1646116903600,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip77",
+       "created": 1646116903600,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip78",
+       "created": 1646116903600,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip79",
+       "created": 1646116903600,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7A",
+       "created": 1646116903600,
+       "text": "【至元錄】No.1430《入對法論集勝義疏》彌多羅造　唐三藏玄奘譯(宋朝收入論藏今遂編入) 卷數：3 千字文：溪(530)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7B",
+       "created": 1646116903600,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7C",
+       "created": 1646116903600,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7D",
+       "created": 1646116903600,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7E",
+       "created": 1646116903600,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7F",
+       "created": 1646116903600,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7G",
+       "created": 1646116903600,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7H",
+       "created": 1646116903600,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7I",
+       "created": 1646116903600,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7J",
+       "created": 1646116903600,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7K",
+       "created": 1646116903600,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7L",
+       "created": 1646116903600,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7M",
+       "created": 1646116903600,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7N",
+       "created": 1646116903600,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzGip7O",
+       "created": 1646116903600,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1721"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3sg39s",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

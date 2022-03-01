@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "地藏菩薩經"},
+  "children": [{
+   "data": {
+    "id": "z5cYydbd7M",
+    "created": 1646116901175,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYydbd6k",
+      "created": 1646116901175,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYydbd6l",
+        "created": 1646116901175,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYydbd6m",
+        "created": 1646116901175,
+        "text": "地藏菩薩經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYydbd6n",
+        "created": 1646116901175,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYydbd6o",
+        "created": 1646116901175,
+        "text": "地藏菩萨经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYydbd6p",
+        "created": 1646116901175,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYydbd6q",
+        "created": 1646116901175,
+        "text": "di cang pu sa jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYydbd6r",
+      "created": 1646116901175,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYydbd6s",
+      "created": 1646116901175,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYydbd6t",
+      "created": 1646116901175,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYydbd6u",
+      "created": 1646116901175,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYydbd6v",
+      "created": 1646116901175,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYydbd6w",
+       "created": 1646116901175,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd6x",
+       "created": 1646116901175,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd6y",
+       "created": 1646116901175,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd6z",
+       "created": 1646116901175,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd70",
+       "created": 1646116901175,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd71",
+       "created": 1646116901175,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd72",
+       "created": 1646116901175,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd73",
+       "created": 1646116901175,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd74",
+       "created": 1646116901175,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd75",
+       "created": 1646116901175,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd76",
+       "created": 1646116901175,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd77",
+       "created": 1646116901175,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd78",
+       "created": 1646116901175,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd79",
+       "created": 1646116901175,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7A",
+       "created": 1646116901175,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7B",
+       "created": 1646116901175,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7C",
+       "created": 1646116901175,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7D",
+       "created": 1646116901175,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7E",
+       "created": 1646116901175,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7F",
+       "created": 1646116901175,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7G",
+       "created": 1646116901175,
+       "text": "【大正藏】No.2909《地藏菩薩經》 部別：疑似部全 / 冊數：85 / 頁數：1455 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYydbd7H",
+       "created": 1646116901175,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7I",
+       "created": 1646116901175,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7J",
+       "created": 1646116901175,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7K",
+       "created": 1646116901175,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYydbd7L",
+       "created": 1646116901175,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2909"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1x32eh",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

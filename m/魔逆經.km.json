@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說魔逆經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx0J9Fr",
+    "created": 1646116894895,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx0J9Eu",
+      "created": 1646116894895,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx0J9Ev",
+        "created": 1646116894895,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0J9Ew",
+        "created": 1646116894895,
+        "text": "佛說魔逆經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0J9Ex",
+        "created": 1646116894895,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0J9Ey",
+        "created": 1646116894895,
+        "text": "佛说魔逆经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0J9Ez",
+        "created": 1646116894895,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0J9F0",
+        "created": 1646116894895,
+        "text": "fo shuo mo ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0J9F8",
+        "created": 1646116894895,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0J9F9",
+        "created": 1646116894895,
+        "text": "Mo ni ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0J9FA",
+        "created": 1646116894895,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0J9FB",
+        "created": 1646116894895,
+        "text": "Mañjuśrīvikurvāṇa parivarta=(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0J9FC",
+        "created": 1646116894895,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0J9FD",
+        "created": 1646116894895,
+        "text": "Ḥjam-dpal rnam-par ḥphrul-baḥi leḥu"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0J9FE",
+        "created": 1646116894895,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0J9FF",
+        "created": 1646116894895,
+        "text": "마역경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0J9F1",
+      "created": 1646116894895,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0J9F2",
+      "created": 1646116894895,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0J9F3",
+      "created": 1646116894895,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0J9F4",
+       "created": 1646116894895,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYx0J9F5",
+       "created": 1646116894895,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0J9F6",
+      "created": 1646116894895,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0J9F7",
+      "created": 1646116894895,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0J9FG",
+      "created": 1646116894895,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0J9FH",
+      "created": 1646116894895,
+      "text": "Translation by Dharmarakṣa: 2nd day, 12th month, 10th year of T'ai K'ang (大康), Western Chin dynasty (西晉西晉) (December 30th, A.D. 289) in Ssu-pai-ma Monastery (四白馬寺), Lo-yang (洛陽).T.2154-494c:19"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0J9FI",
+      "created": 1646116894895,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0J9FJ",
+       "created": 1646116894895,
+       "text": "【北京版】Mdo-sna-tshogs (ku)273b-291a"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FK",
+       "created": 1646116894895,
+       "text": "【奈塘版】Aldo (kha)369a-395a"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FL",
+       "created": 1646116894895,
+       "text": "【德格版】Mdo-sde (kha)242a-257b"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FM",
+       "created": 1646116894895,
+       "text": "【拉薩版】Mdo (kha)391a-416a"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FN",
+       "created": 1646116894895,
+       "text": "【卓尼版】Mdo-maṅ (kha)297b-316a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0J9FO",
+      "created": 1646116894895,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0J9FP",
+      "created": 1646116894895,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0J9FQ",
+      "created": 1646116894895,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0J9FR",
+       "created": 1646116894895,
+       "text": "【房山石經】No.623《摩逆經》(西晉)三藏竺法護譯 冊數：13 / 頁數：629 / 卷數：1 / 刻經年代：天會十年刻石 / 瀏覽：目錄圖檔 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FS",
+       "created": 1646116894895,
+       "text": "【開寶藏】No.474《魔逆經》西晉 三藏竺法護 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FT",
+       "created": 1646116894895,
+       "text": "【崇寧藏】No.479《佛說魔逆經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FU",
+       "created": 1646116894895,
+       "text": "【毘盧藏】No.477《佛說魔逆經》西晉竺法護譯 參考年代：(建炎元．十二) 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FV",
+       "created": 1646116894895,
+       "text": "【圓覺藏】No.489《魔逆經》 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FW",
+       "created": 1646116894895,
+       "text": "【趙城金藏】No.464《魔逆經》 卷數：1 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FX",
+       "created": 1646116894895,
+       "text": "【資福藏】No.495《魔逆經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FY",
+       "created": 1646116894895,
+       "text": "【磧砂藏】No.495《佛說魔逆經》晉 竺法護譯 部別：五大部外單譯經 / 冊數：13 / 頁數：737 / 卷數：1 千字文：羊 10 (200)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9FZ",
+       "created": 1646116894895,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fa",
+       "created": 1646116894895,
+       "text": "【高麗藏】No.463《摩逆經》西晉月氏國三藏竺法護譯 部別：大乘經 單譯 / 冊數：13 頁數：1211 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fb",
+       "created": 1646116894895,
+       "text": "【普寧藏】No.489《佛說魔逆經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fc",
+       "created": 1646116894895,
+       "text": "【至元錄】No.432《魔逆經》西晉三藏竺法護譯 卷數：1 千字文：悲(194)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fd",
+       "created": 1646116894895,
+       "text": "【洪武南藏】No.433《佛說魔逆經》西晉大康年 三藏法師竺法護 譯 冊數：68 / 頁數：135 / 卷數：1 千字文：羊 10 (200)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fe",
+       "created": 1646116894895,
+       "text": "【永樂南藏】No.488《佛說魔逆經》 部別：大乘經-單譯經 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Ff",
+       "created": 1646116894895,
+       "text": "【永樂北藏】No.543《佛說魔逆經》西晉竺法護譯 部別：大乘經單經譯 / 冊數：53 / 頁數：891 / 卷數：1 千字文：維"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fg",
+       "created": 1646116894895,
+       "text": "【嘉興藏】No.512《佛說魔逆經》西晉竺法護譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0512 千字文 / 函號：［正藏］ 維(203)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fh",
+       "created": 1646116894895,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fi",
+       "created": 1646116894895,
+       "text": "【乾隆藏】No.513《佛說魔逆經》西晉 竺法護譯 部別：大乘單譯經 / 冊數：45 / 頁數：577 / 卷數：1 千字文：維"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fj",
+       "created": 1646116894895,
+       "text": "【縮刻藏】No.259《佛說摩逆經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 2 (6)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fk",
+       "created": 1646116894895,
+       "text": "【卍正藏】No.519《佛說魔逆經》西晉 竺法護譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：78 / 卷數：1 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fl",
+       "created": 1646116894895,
+       "text": "【大正藏】No.589《佛說魔逆經》西晉 竺法護譯 部別：經集部二 / 冊數：15 / 頁數：112 / 卷數：1 相關經典：縮-宙2,卍-12.6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fm",
+       "created": 1646116894895,
+       "text": "【佛教大藏經】No.262《佛說魔逆經》西晉 竺法護譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：248 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fn",
+       "created": 1646116894895,
+       "text": "【中華藏】No.512《佛說魔逆經(別本)》西晉三藏竺法護譯 冊數：24 / 頁數：128 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fo",
+       "created": 1646116894895,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fp",
+       "created": 1646116894895,
+       "text": "【南條文雄編號】 Nj. 0517"
+      }},
+      {"data": {
+       "id": "z5cYx0J9Fq",
+       "created": 1646116894895,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：589"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx2nid",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

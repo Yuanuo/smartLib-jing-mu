@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "大乘顯識經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwmT5ZQ",
+    "created": 1646116894037,
+    "text": "現藏錄（唐 地婆訶羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwmS5YT",
+      "created": 1646116894036,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwmS5YU",
+        "created": 1646116894036,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmS5YV",
+        "created": 1646116894036,
+        "text": "大乘顯識經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmS5YW",
+        "created": 1646116894036,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmS5YX",
+        "created": 1646116894036,
+        "text": "大乘显识经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmS5YY",
+        "created": 1646116894036,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmS5YZ",
+        "created": 1646116894036,
+        "text": "da cheng xian shi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmS5Yh",
+        "created": 1646116894036,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmS5Yi",
+        "created": 1646116894036,
+        "text": "Ta ch'eng hsien shih ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmS5Yj",
+        "created": 1646116894036,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmS5Yk",
+        "created": 1646116894036,
+        "text": "Bhadrapalāśreṣṭhiparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmS5Yl",
+        "created": 1646116894036,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmS5Ym",
+        "created": 1646116894036,
+        "text": "Tshoṅ-dpon bzaṅ-skyoṅ-gis shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwmS5Yn",
+        "created": 1646116894036,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwmS5Yo",
+        "created": 1646116894036,
+        "text": "대승현식경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmS5Ya",
+      "created": 1646116894036,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmS5Yb",
+      "created": 1646116894036,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmS5Yc",
+      "created": 1646116894036,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmS5Yd",
+       "created": 1646116894036,
+       "text": "唐 地婆訶羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Ye",
+       "created": 1646116894036,
+       "text": "地婆訶羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmS5Yf",
+      "created": 1646116894036,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmS5Yg",
+      "created": 1646116894036,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmS5Yp",
+      "created": 1646116894036,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmS5Yq",
+      "created": 1646116894036,
+      "text": "Translation by Divākara: first year of Yung Lung (永隆), T'ang dynasty (唐) (A.D. 680) in Tung-t'ai-yüan Monastery (東太原寺), Tung-ching (東京).T. 2153-397a:7."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmS5Yr",
+      "created": 1646116894036,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmS5Ys",
+       "created": 1646116894036,
+       "text": "【北京版】Dkon-brtsegs (ḥi)50b-73b"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Yt",
+       "created": 1646116894036,
+       "text": "【奈塘版】Dkon-brtsegs (cha)137b-172a"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Yu",
+       "created": 1646116894036,
+       "text": "【德格版】Dkon-brtsegs (cha)71a-94b"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Yv",
+       "created": 1646116894036,
+       "text": "【拉薩版】Dkon-brtsegs (cha)139b-175b"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Yw",
+       "created": 1646116894036,
+       "text": "【卓尼版】Dkon-brtsegs (cha)75a- l00b.Ono. = A.D. 630"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwmS5Yx",
+      "created": 1646116894036,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwmS5Yy",
+      "created": 1646116894036,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwmS5Yz",
+      "created": 1646116894036,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwmS5Z0",
+       "created": 1646116894036,
+       "text": "【房山石經】No.375《大乘顯識經》中大竺國沙門地婆訶羅等奉敕於東都東太原寺譯 冊數：9 / 頁數：149 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：位"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Z1",
+       "created": 1646116894036,
+       "text": "【開寶藏】No.51《顯識經》唐 中天竺三藏地婆訶羅 譯 部別：大乘經 寶積部 / 卷數：2 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Z2",
+       "created": 1646116894036,
+       "text": "【崇寧藏】No.50《大乘顯識經》 卷數：2 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Z3",
+       "created": 1646116894036,
+       "text": "【毘盧藏】No.46《大乘顯識經》御製序　唐地婆訶羅譯 參考年代：(宣和六．八) 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmS5Z4",
+       "created": 1646116894036,
+       "text": "【圓覺藏】No.47《大乘顯識經》 卷數：2 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5Z5",
+       "created": 1646116894037,
+       "text": "【趙城金藏】No.49《大乘顯識經》 卷數：2 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmT5Z6",
+       "created": 1646116894037,
+       "text": "【資福藏】No.51《大乘顯識經》 卷數：2 (二卷) 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5Z7",
+       "created": 1646116894037,
+       "text": "【磧砂藏】No.50《大乘顯識經》唐 地婆訶羅等譯 部別：寶積部 / 冊數：6 / 頁數：424 / 卷數：2 千字文：推 3 (89)-推 4 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5Z8",
+       "created": 1646116894037,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5Z9",
+       "created": 1646116894037,
+       "text": "【高麗藏】No.49《大乘顯識經》中天竺國沙門地婆訶羅譯 部別：大乘經 寶積部 / 冊數：6 頁數：1323 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZA",
+       "created": 1646116894037,
+       "text": "【普寧藏】No.47《大乘顯識經》 卷數：2 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZB",
+       "created": 1646116894037,
+       "text": "【至元錄】No.117《大乘顯識經》唐中天竺三藏地婆訶羅譯 卷數：2 / 出處：(出大周錄) 千字文：有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZC",
+       "created": 1646116894037,
+       "text": "【洪武南藏】No.46《大乘顯識經》中天竺國沙門地婆訶羅 等奉勑於東都太原寺譯 冊數：32 / 頁數：163 / 卷數：2 千字文：推 3 (89)-推 4 (89)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZD",
+       "created": 1646116894037,
+       "text": "【永樂南藏】No.47《大乘顯識經》 部別：大乘經-寶積部 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZE",
+       "created": 1646116894037,
+       "text": "【永樂北藏】No.67《大乘顯識經》唐地婆訶羅等譯 部別：大乘經寶積部 / 冊數：23 / 頁數：67 / 卷數：2 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZF",
+       "created": 1646116894037,
+       "text": "【嘉興藏】No.49《大乘顯識經》唐地婆訶羅等譯 部別：大乘經-寶積部 / 法寶總目錄經號：0049 千字文 / 函號：［正藏］ 推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZG",
+       "created": 1646116894037,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZH",
+       "created": 1646116894037,
+       "text": "【乾隆藏】No.49《大乘顯識經》地婆訶羅等譯 部別：大乘寶積部 / 冊數：20 / 頁數：423 / 卷數：2 千字文：推"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZI",
+       "created": 1646116894037,
+       "text": "【縮刻藏】No.69《大乘顯識經》唐地婆訶羅譯 部別：大乘經-方等部 / 卷數：2 千字文：地 12 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZJ",
+       "created": 1646116894037,
+       "text": "【卍正藏】No.53《大乘顯識經》〈中天竺〉地婆訶羅譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：780 / 卷數：2 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZK",
+       "created": 1646116894037,
+       "text": "【大正藏】No.347《大乘顯識經》唐 地婆訶羅譯 部別：寶積部下 / 冊數：12 / 頁數：178 / 卷數：2 相關經典：縮-地12,卍-6.5,國-寶7 參考資料：No.310(39)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZL",
+       "created": 1646116894037,
+       "text": "【佛教大藏經】No.69《大乘顯識經》唐 地婆訶羅譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：884 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZM",
+       "created": 1646116894037,
+       "text": "【中華藏】No.53《大乘顯識經》中天竺國沙門地婆訶羅奉詔譯 冊數：9 / 頁數：957 / 卷數：2 / 底本：金藏大寶集寺本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZN",
+       "created": 1646116894037,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZO",
+       "created": 1646116894037,
+       "text": "【南條文雄編號】 Nj. 0053"
+      }},
+      {"data": {
+       "id": "z5cYwmT5ZP",
+       "created": 1646116894037,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：347"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwerb4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

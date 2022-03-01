@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說聖大總持王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxbhKCk",
+    "created": 1646116897213,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxbhKBn",
+      "created": 1646116897213,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxbhKBo",
+        "created": 1646116897213,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbhKBp",
+        "created": 1646116897213,
+        "text": "佛說聖大總持王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbhKBq",
+        "created": 1646116897213,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbhKBr",
+        "created": 1646116897213,
+        "text": "佛说圣大总持王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbhKBs",
+        "created": 1646116897213,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbhKBt",
+        "created": 1646116897213,
+        "text": "fo shuo sheng da zong chi wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbhKC1",
+        "created": 1646116897213,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbhKC2",
+        "created": 1646116897213,
+        "text": "Sheng ta tsung ch'ih wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbhKC3",
+        "created": 1646116897213,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbhKC4",
+        "created": 1646116897213,
+        "text": "Mahādhāraṇī(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbhKC5",
+        "created": 1646116897213,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbhKC6",
+        "created": 1646116897213,
+        "text": "Gzuṅs chen-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbhKC7",
+        "created": 1646116897213,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbhKC8",
+        "created": 1646116897213,
+        "text": "성대총지왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbhKBu",
+      "created": 1646116897213,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbhKBv",
+      "created": 1646116897213,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbhKBw",
+      "created": 1646116897213,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbhKBx",
+       "created": 1646116897213,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYxbhKBy",
+       "created": 1646116897213,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbhKBz",
+      "created": 1646116897213,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbhKC0",
+      "created": 1646116897213,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbhKC9",
+      "created": 1646116897213,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbhKCA",
+      "created": 1646116897213,
+      "text": "Translation by Dānapāla: (see K.1158)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbhKCB",
+      "created": 1646116897213,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbhKCC",
+       "created": 1646116897213,
+       "text": "【北京版】Rgyud (ba)93b-96a(ḥa)162b-165a"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCD",
+       "created": 1646116897213,
+       "text": "【奈塘版】Rgyud (pa)441b-445"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCE",
+       "created": 1646116897213,
+       "text": "【德格版】Rgyud-ḥbum (na)90b-92bGzuṅs-ḥdus (E)163a-165b"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCF",
+       "created": 1646116897213,
+       "text": "【拉薩版】Rgyud (na)469b-473a"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCG",
+       "created": 1646116897213,
+       "text": "【卓尼版】Rgyud (ba)109b-112b(ḥa)175a-177b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbhKCH",
+      "created": 1646116897213,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbhKCI",
+      "created": 1646116897213,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbhKCJ",
+      "created": 1646116897213,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbhKCK",
+       "created": 1646116897213,
+       "text": "【房山石經】No.937《佛說聖大總持王經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：26 / 頁數：422 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：微"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCL",
+       "created": 1646116897213,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCM",
+       "created": 1646116897213,
+       "text": "【崇寧藏】No.1162《佛說聖大總持王經》 卷數：1 千字文：家(501)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCN",
+       "created": 1646116897213,
+       "text": "【毘盧藏】No.1163《佛說聖大總持王經》三藏施護譯 千字文：家(501)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCO",
+       "created": 1646116897213,
+       "text": "【圓覺藏】No.1171《聖大總持王經》 千字文：家(501)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCP",
+       "created": 1646116897213,
+       "text": "【趙城金藏】No.1165《聖大總持王經》 卷數：1 千字文：槐"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCQ",
+       "created": 1646116897213,
+       "text": "【資福藏】No.1176《聖大總持王經》 卷數：1 千字文：家(501)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCR",
+       "created": 1646116897213,
+       "text": "【磧砂藏】No.1185《佛說聖大總持王經》宋 施護譯 部別： / 冊數：32 / 頁數：838 / 卷數：1 千字文：家 6 (501)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCS",
+       "created": 1646116897213,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCT",
+       "created": 1646116897213,
+       "text": "【高麗藏】No.1164《聖大總持王經》施護譯 部別：宋續入藏經 / 冊數：34 頁數：80 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：槐"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCU",
+       "created": 1646116897213,
+       "text": "【普寧藏】No.1176《佛說聖大總持王經》 卷數：1 千字文：家(501)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCV",
+       "created": 1646116897213,
+       "text": "【至元錄】No.732《聖大總持王經》宋天竺三藏施護譯 卷數：1 千字文：履(259)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCW",
+       "created": 1646116897213,
+       "text": "【洪武南藏】No.1035《聖大揔持王經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師臣施護 奉詔譯 冊數：180 / 頁數：574 / 卷數：1 千字文：家 6 (501)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCX",
+       "created": 1646116897213,
+       "text": "【永樂南藏】No.841《佛說聖大總持王經》 部別：宋元入藏諸大小乘經 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCY",
+       "created": 1646116897213,
+       "text": "【永樂北藏】No.861《佛說聖大總持王經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：795 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCZ",
+       "created": 1646116897213,
+       "text": "【嘉興藏】No.824《佛說聖大總持王經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0824 千字文 / 函號：［正藏］ 則(254)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCa",
+       "created": 1646116897213,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCb",
+       "created": 1646116897213,
+       "text": "【乾隆藏】No.825《佛說聖大總持王經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：151 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCc",
+       "created": 1646116897213,
+       "text": "【縮刻藏】No.1533《佛說聖大總持王經》宋施護譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCd",
+       "created": 1646116897213,
+       "text": "【卍正藏】No.834《佛說聖大總持王經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：588 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCe",
+       "created": 1646116897213,
+       "text": "【大正藏】No.1371《佛說聖大總持王經》宋 施護譯 部別：密教部四 / 冊數：21 / 頁數：888 / 卷數：1 相關經典：縮-成8,卍-15.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxbhKCf",
+       "created": 1646116897213,
+       "text": "【佛教大藏經】No.1610《佛說聖大總持王經》宋 施護譯 部別：密教部六 / 冊數：57 / 頁數：409 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCg",
+       "created": 1646116897213,
+       "text": "【中華藏】No.1274《佛說聖大總持王經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：64 / 頁數：302 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCh",
+       "created": 1646116897213,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCi",
+       "created": 1646116897213,
+       "text": "【南條文雄編號】 Nj. 0830"
+      }},
+      {"data": {
+       "id": "z5cYxbhKCj",
+       "created": 1646116897213,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1371"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyv115g",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

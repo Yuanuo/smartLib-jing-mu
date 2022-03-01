@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "釋迦如來成道記註"},
+  "children": [{
+   "data": {
+    "id": "z5cYzMDqlP",
+    "created": 1646116903941,
+    "text": "現藏錄（唐 道誠註）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzMCqkk",
+      "created": 1646116903940,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzMCqkl",
+        "created": 1646116903940,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzMCqkm",
+        "created": 1646116903940,
+        "text": "釋迦如來成道記註",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzMCqkn",
+        "created": 1646116903940,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzMCqko",
+        "created": 1646116903940,
+        "text": "释迦如来成道记注",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzMCqkp",
+        "created": 1646116903940,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzMDqkq",
+        "created": 1646116903941,
+        "text": "shi jia ru lai cheng dao ji zhu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzMDqkr",
+      "created": 1646116903941,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzMDqks",
+      "created": 1646116903941,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzMDqkt",
+      "created": 1646116903941,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzMDqku",
+       "created": 1646116903941,
+       "text": "唐 道誠註"
+      }},
+      {"data": {
+       "id": "z5cYzMDqkv",
+       "created": 1646116903941,
+       "text": "道誠",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzMDqkw",
+      "created": 1646116903941,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzMDqkx",
+      "created": 1646116903941,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzMDqky",
+      "created": 1646116903941,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzMDqkz",
+       "created": 1646116903941,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql0",
+       "created": 1646116903941,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql1",
+       "created": 1646116903941,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql2",
+       "created": 1646116903941,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql3",
+       "created": 1646116903941,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql4",
+       "created": 1646116903941,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql5",
+       "created": 1646116903941,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql6",
+       "created": 1646116903941,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql7",
+       "created": 1646116903941,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql8",
+       "created": 1646116903941,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDql9",
+       "created": 1646116903941,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlA",
+       "created": 1646116903941,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlB",
+       "created": 1646116903941,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlC",
+       "created": 1646116903941,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlD",
+       "created": 1646116903941,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlE",
+       "created": 1646116903941,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlF",
+       "created": 1646116903941,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlG",
+       "created": 1646116903941,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlH",
+       "created": 1646116903941,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlI",
+       "created": 1646116903941,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlJ",
+       "created": 1646116903941,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlK",
+       "created": 1646116903941,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlL",
+       "created": 1646116903941,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlM",
+       "created": 1646116903941,
+       "text": "【新纂卍續藏】No.1509《釋迦如來成道記註》唐 道誠註 部別：中國撰述 史傳部一 釋迦傳 / 冊數：75 / 頁數：1 / 卷數：2 《卍大日本續藏經》套數：第二編乙．第 3 套 《卍續藏經》(新文豐版)冊數：第 130 冊"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlN",
+       "created": 1646116903941,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzMDqlO",
+       "created": 1646116903941,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1597"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri41w3e3",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

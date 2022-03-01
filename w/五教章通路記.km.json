@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "五教章通路記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyGtWrQ",
+    "created": 1646116899767,
+    "text": "現藏錄（日本 凝然述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyGtWql",
+      "created": 1646116899767,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyGtWqm",
+        "created": 1646116899767,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGtWqn",
+        "created": 1646116899767,
+        "text": "五教章通路記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGtWqo",
+        "created": 1646116899767,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGtWqp",
+        "created": 1646116899767,
+        "text": "五教章通路记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGtWqq",
+        "created": 1646116899767,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGtWqr",
+        "created": 1646116899767,
+        "text": "wu jiao zhang tong lu ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGtWqs",
+      "created": 1646116899767,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGtWqt",
+      "created": 1646116899767,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGtWqu",
+      "created": 1646116899767,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGtWqv",
+       "created": 1646116899767,
+       "text": "日本 凝然述"
+      }},
+      {"data": {
+       "id": "z5cYyGtWqw",
+       "created": 1646116899767,
+       "text": "凝然",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGtWqx",
+      "created": 1646116899767,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGtWqy",
+      "created": 1646116899767,
+      "text": "52"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGtWqz",
+      "created": 1646116899767,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGtWr0",
+       "created": 1646116899767,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr1",
+       "created": 1646116899767,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr2",
+       "created": 1646116899767,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr3",
+       "created": 1646116899767,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr4",
+       "created": 1646116899767,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr5",
+       "created": 1646116899767,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr6",
+       "created": 1646116899767,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr7",
+       "created": 1646116899767,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr8",
+       "created": 1646116899767,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWr9",
+       "created": 1646116899767,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrA",
+       "created": 1646116899767,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrB",
+       "created": 1646116899767,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrC",
+       "created": 1646116899767,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrD",
+       "created": 1646116899767,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrE",
+       "created": 1646116899767,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrF",
+       "created": 1646116899767,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrG",
+       "created": 1646116899767,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrH",
+       "created": 1646116899767,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrI",
+       "created": 1646116899767,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrJ",
+       "created": 1646116899767,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrK",
+       "created": 1646116899767,
+       "text": "【大正藏】No.2339《五教章通路記》日本 凝然述 部別：續諸宗部三 / 冊數：72 / 頁數：295 / 卷數：52 相關經典：佛全-9-10 參考資料：cf.Nos.1866,2337,2338,2340-2345"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrL",
+       "created": 1646116899767,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrM",
+       "created": 1646116899767,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrN",
+       "created": 1646116899767,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrO",
+       "created": 1646116899767,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGtWrP",
+       "created": 1646116899767,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2339"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0tz1y8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

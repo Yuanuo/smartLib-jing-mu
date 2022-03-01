@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "顯密差別問答"},
+  "children": [{
+   "data": {
+    "id": "z5cYyKNXzE",
+    "created": 1646116899983,
+    "text": "現藏錄（日本 濟暹撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyKNXyZ",
+      "created": 1646116899983,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyKNXya",
+        "created": 1646116899983,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKNXyb",
+        "created": 1646116899983,
+        "text": "顯密差別問答",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyKNXyc",
+        "created": 1646116899983,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKNXyd",
+        "created": 1646116899983,
+        "text": "显密差别问答",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyKNXye",
+        "created": 1646116899983,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyKNXyf",
+        "created": 1646116899983,
+        "text": "xian mi cha bie wen da"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyKNXyg",
+      "created": 1646116899983,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyKNXyh",
+      "created": 1646116899983,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyKNXyi",
+      "created": 1646116899983,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyKNXyj",
+       "created": 1646116899983,
+       "text": "日本 濟暹撰"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyk",
+       "created": 1646116899983,
+       "text": "濟暹",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyKNXyl",
+      "created": 1646116899983,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyKNXym",
+      "created": 1646116899983,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyKNXyn",
+      "created": 1646116899983,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyKNXyo",
+       "created": 1646116899983,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyp",
+       "created": 1646116899983,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyq",
+       "created": 1646116899983,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyr",
+       "created": 1646116899983,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXys",
+       "created": 1646116899983,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyt",
+       "created": 1646116899983,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyu",
+       "created": 1646116899983,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyv",
+       "created": 1646116899983,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyw",
+       "created": 1646116899983,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyx",
+       "created": 1646116899983,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyy",
+       "created": 1646116899983,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXyz",
+       "created": 1646116899983,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz0",
+       "created": 1646116899983,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz1",
+       "created": 1646116899983,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz2",
+       "created": 1646116899983,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz3",
+       "created": 1646116899983,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz4",
+       "created": 1646116899983,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz5",
+       "created": 1646116899983,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz6",
+       "created": 1646116899983,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz7",
+       "created": 1646116899983,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXz8",
+       "created": 1646116899983,
+       "text": "【大正藏】No.2435《顯密差別問答》日本 濟暹撰 部別：續諸宗部八 / 冊數：77 / 頁數：477 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyKNXz9",
+       "created": 1646116899983,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXzA",
+       "created": 1646116899983,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXzB",
+       "created": 1646116899983,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXzC",
+       "created": 1646116899983,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyKNXzD",
+       "created": 1646116899983,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2435"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0zz214",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

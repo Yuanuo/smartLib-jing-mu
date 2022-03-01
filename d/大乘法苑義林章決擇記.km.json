@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大乘法苑義林章決擇記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyrmhRP",
+    "created": 1646116902054,
+    "text": "現藏錄（唐 智周撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyrmhQk",
+      "created": 1646116902054,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyrmhQl",
+        "created": 1646116902054,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyrmhQm",
+        "created": 1646116902054,
+        "text": "大乘法苑義林章決擇記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyrmhQn",
+        "created": 1646116902054,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyrmhQo",
+        "created": 1646116902054,
+        "text": "大乘法苑义林章决择记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyrmhQp",
+        "created": 1646116902054,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyrmhQq",
+        "created": 1646116902054,
+        "text": "da cheng fa yuan yi lin zhang jue ze ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyrmhQr",
+      "created": 1646116902054,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyrmhQs",
+      "created": 1646116902054,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyrmhQt",
+      "created": 1646116902054,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyrmhQu",
+       "created": 1646116902054,
+       "text": "唐 智周撰"
+      }},
+      {"data": {
+       "id": "z5cYyrmhQv",
+       "created": 1646116902054,
+       "text": "智周",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyrmhQw",
+      "created": 1646116902054,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyrmhQx",
+      "created": 1646116902054,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyrmhQy",
+      "created": 1646116902054,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyrmhQz",
+       "created": 1646116902054,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR0",
+       "created": 1646116902054,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR1",
+       "created": 1646116902054,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR2",
+       "created": 1646116902054,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR3",
+       "created": 1646116902054,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR4",
+       "created": 1646116902054,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR5",
+       "created": 1646116902054,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR6",
+       "created": 1646116902054,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR7",
+       "created": 1646116902054,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR8",
+       "created": 1646116902054,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhR9",
+       "created": 1646116902054,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRA",
+       "created": 1646116902054,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRB",
+       "created": 1646116902054,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRC",
+       "created": 1646116902054,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRD",
+       "created": 1646116902054,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRE",
+       "created": 1646116902054,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRF",
+       "created": 1646116902054,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRG",
+       "created": 1646116902054,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRH",
+       "created": 1646116902054,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRI",
+       "created": 1646116902054,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRJ",
+       "created": 1646116902054,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRK",
+       "created": 1646116902054,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRL",
+       "created": 1646116902054,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRM",
+       "created": 1646116902054,
+       "text": "【新纂卍續藏】No.883《大乘法苑義林章決擇記》唐 智周撰 部別：中國撰述 諸宗著述部二 法相宗 / 冊數：55 / 頁數：170 / 卷數：4 《卍大日本續藏經》套數：第二編．第 3 套 《卍續藏經》(新文豐版)冊數：第 98 冊"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRN",
+       "created": 1646116902054,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyrmhRO",
+       "created": 1646116902054,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1212"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2lh2pr",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

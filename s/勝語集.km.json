@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "勝語集"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLtYSu",
+    "created": 1646116900077,
+    "text": "現藏錄（日本 惠什撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLtYSF",
+      "created": 1646116900077,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLtYSG",
+        "created": 1646116900077,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLtYSH",
+        "created": 1646116900077,
+        "text": "勝語集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLtYSI",
+        "created": 1646116900077,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLtYSJ",
+        "created": 1646116900077,
+        "text": "胜语集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLtYSK",
+        "created": 1646116900077,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLtYSL",
+        "created": 1646116900077,
+        "text": "sheng yu ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLtYSM",
+      "created": 1646116900077,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLtYSN",
+      "created": 1646116900077,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLtYSO",
+      "created": 1646116900077,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLtYSP",
+       "created": 1646116900077,
+       "text": "日本 惠什撰"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSQ",
+       "created": 1646116900077,
+       "text": "慧什",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLtYSR",
+      "created": 1646116900077,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLtYSS",
+      "created": 1646116900077,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLtYST",
+      "created": 1646116900077,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLtYSU",
+       "created": 1646116900077,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSV",
+       "created": 1646116900077,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSW",
+       "created": 1646116900077,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSX",
+       "created": 1646116900077,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSY",
+       "created": 1646116900077,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSZ",
+       "created": 1646116900077,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSa",
+       "created": 1646116900077,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSb",
+       "created": 1646116900077,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSc",
+       "created": 1646116900077,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSd",
+       "created": 1646116900077,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSe",
+       "created": 1646116900077,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSf",
+       "created": 1646116900077,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSg",
+       "created": 1646116900077,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSh",
+       "created": 1646116900077,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSi",
+       "created": 1646116900077,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSj",
+       "created": 1646116900077,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSk",
+       "created": 1646116900077,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSl",
+       "created": 1646116900077,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSm",
+       "created": 1646116900077,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSn",
+       "created": 1646116900077,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSo",
+       "created": 1646116900077,
+       "text": "【大正藏】No.2479《勝語集》日本 惠什撰 部別：續諸宗部九 / 冊數：78 / 頁數：209 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLtYSp",
+       "created": 1646116900077,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSq",
+       "created": 1646116900077,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSr",
+       "created": 1646116900077,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSs",
+       "created": 1646116900077,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLtYSt",
+       "created": 1646116900077,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2479"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri12l22c",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

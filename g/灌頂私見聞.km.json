@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "灌頂私見聞"},
+  "children": [{
+   "data": {
+    "id": "z5cYyJUXi9",
+    "created": 1646116899928,
+    "text": "現藏錄（日本 了翁撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyJUXhU",
+      "created": 1646116899928,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyJUXhV",
+        "created": 1646116899928,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJUXhW",
+        "created": 1646116899928,
+        "text": "灌頂私見聞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJUXhX",
+        "created": 1646116899928,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJUXhY",
+        "created": 1646116899928,
+        "text": "灌顶私见闻",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJUXhZ",
+        "created": 1646116899928,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJUXha",
+        "created": 1646116899928,
+        "text": "guan ding si jian wen"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJUXhb",
+      "created": 1646116899928,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJUXhc",
+      "created": 1646116899928,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJUXhd",
+      "created": 1646116899928,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJUXhe",
+       "created": 1646116899928,
+       "text": "日本 了翁撰"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhf",
+       "created": 1646116899928,
+       "text": "了翁",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJUXhg",
+      "created": 1646116899928,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJUXhh",
+      "created": 1646116899928,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJUXhi",
+      "created": 1646116899928,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJUXhj",
+       "created": 1646116899928,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhk",
+       "created": 1646116899928,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhl",
+       "created": 1646116899928,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhm",
+       "created": 1646116899928,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhn",
+       "created": 1646116899928,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXho",
+       "created": 1646116899928,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhp",
+       "created": 1646116899928,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhq",
+       "created": 1646116899928,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhr",
+       "created": 1646116899928,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhs",
+       "created": 1646116899928,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXht",
+       "created": 1646116899928,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhu",
+       "created": 1646116899928,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhv",
+       "created": 1646116899928,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhw",
+       "created": 1646116899928,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhx",
+       "created": 1646116899928,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhy",
+       "created": 1646116899928,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXhz",
+       "created": 1646116899928,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi0",
+       "created": 1646116899928,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi1",
+       "created": 1646116899928,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi2",
+       "created": 1646116899928,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi3",
+       "created": 1646116899928,
+       "text": "【大正藏】No.2415《灌頂私見聞》日本 了翁撰 部別：續諸宗部八 / 冊數：77 / 頁數：185 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyJUXi4",
+       "created": 1646116899928,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi5",
+       "created": 1646116899928,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi6",
+       "created": 1646116899928,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi7",
+       "created": 1646116899928,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJUXi8",
+       "created": 1646116899928,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2415"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0yf20e",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

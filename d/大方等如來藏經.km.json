@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "大方等如來藏經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx44AMc",
+    "created": 1646116895128,
+    "text": "現藏錄（東晉 佛陀跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx43ALf",
+      "created": 1646116895127,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx43ALg",
+        "created": 1646116895127,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx43ALh",
+        "created": 1646116895127,
+        "text": "大方等如來藏經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx43ALi",
+        "created": 1646116895127,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx43ALj",
+        "created": 1646116895127,
+        "text": "大方等如来藏经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx43ALk",
+        "created": 1646116895127,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx43ALl",
+        "created": 1646116895127,
+        "text": "da fang deng ru lai cang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx43ALt",
+        "created": 1646116895127,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx43ALu",
+        "created": 1646116895127,
+        "text": "Ta fang teng ju lai tsang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx43ALv",
+        "created": 1646116895127,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx43ALw",
+        "created": 1646116895127,
+        "text": "Tathāgatagarbhasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx43ALx",
+        "created": 1646116895127,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx43ALy",
+        "created": 1646116895127,
+        "text": "De-bshin-gśegs paḥi sñiṅ po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx43ALz",
+        "created": 1646116895127,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx43AM0",
+        "created": 1646116895127,
+        "text": "대방등여래장경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx43ALm",
+      "created": 1646116895127,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx43ALn",
+      "created": 1646116895127,
+      "text": "東晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx43ALo",
+      "created": 1646116895127,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx43ALp",
+       "created": 1646116895127,
+       "text": "東晉 佛陀跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYx43ALq",
+       "created": 1646116895127,
+       "text": "佛陀跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx43ALr",
+      "created": 1646116895127,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx43ALs",
+      "created": 1646116895127,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx43AM1",
+      "created": 1646116895127,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx43AM2",
+      "created": 1646116895127,
+      "text": "Translation by Buddhabhadra: 2nd year of Yuan Hsi (元煕), Eastern Chin dynasty (東晉) (A.D. 420) in Tao-ch'ang Monastery (道場寺), Yang-tu (楊都).T. 2149-247b:3."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx43AM3",
+      "created": 1646116895127,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx43AM4",
+       "created": 1646116895127,
+       "text": "【北京版】Mdo-sna-tshogs (shu)259b-274a"
+      }},
+      {"data": {
+       "id": "z5cYx43AM5",
+       "created": 1646116895127,
+       "text": "【奈塘版】Mdo (wa)350b-371a"
+      }},
+      {"data": {
+       "id": "z5cYx43AM6",
+       "created": 1646116895127,
+       "text": "【德格版】Mdo-sde (za)245b-259b"
+      }},
+      {"data": {
+       "id": "z5cYx43AM7",
+       "created": 1646116895127,
+       "text": "【拉薩版】Mdo (sha)1 b -24a"
+      }},
+      {"data": {
+       "id": "z5cYx43AM8",
+       "created": 1646116895127,
+       "text": "【卓尼版】Mdo-maṅ (za)274a-289a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx43AM9",
+      "created": 1646116895127,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx43AMA",
+      "created": 1646116895127,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx43AMB",
+      "created": 1646116895127,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx43AMC",
+       "created": 1646116895127,
+       "text": "【房山石經】No.171《佛說大方等如來藏經》(東晉)佛陀跋陀羅譯 冊數：3 / 頁數：466 / 卷數：1 / 刻經年代：大中十一年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.512《大方等如來藏經》(東晉)天竺三藏佛陀跋陀羅譯 冊數：11 / 頁數：114 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYx43AMD",
+       "created": 1646116895127,
+       "text": "【開寶藏】No.367《如來藏經》東晉 天竺三藏佛陀跋陀羅 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYx43AME",
+       "created": 1646116895127,
+       "text": "【崇寧藏】No.365《大方等如來藏經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMF",
+       "created": 1646116895127,
+       "text": "【毘盧藏】No.363《大方等如來藏經》東晉佛陀跋陀羅譯 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMG",
+       "created": 1646116895127,
+       "text": "【圓覺藏】No.372《大方等如來藏經》 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMH",
+       "created": 1646116895127,
+       "text": "【趙城金藏】No.361《大方等如來藏經》 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYx43AMI",
+       "created": 1646116895127,
+       "text": "【資福藏】No.376《大方等如來藏經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMJ",
+       "created": 1646116895127,
+       "text": "【磧砂藏】No.378《大方等如來藏經》晉 佛陀跋陀羅譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：773 / 卷數：1 千字文：必 7 (171)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMK",
+       "created": 1646116895127,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx43AML",
+       "created": 1646116895127,
+       "text": "【高麗藏】No.360《大方等如來藏經》東晉天竺三藏佛陀跋陀羅譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：118 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYx43AMM",
+       "created": 1646116895127,
+       "text": "【普寧藏】No.373《大方等如來藏經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMN",
+       "created": 1646116895127,
+       "text": "【至元錄】No.376《大方等如來藏經》東晉天竺三藏佛陀跋陀羅譯 梵名：阿唎(二合)亞　怛答迦達　迦囉(二合)把拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：1 / 譯次：(第三譯二闕) 千字文：能(174)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMO",
+       "created": 1646116895127,
+       "text": "【洪武南藏】No.328《大方等如來藏經》東晉 北天竺三藏法師佛陀跋陀羅 譯 冊數：58 / 頁數：184 / 卷數：1 千字文：必 7 (171)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMP",
+       "created": 1646116895127,
+       "text": "【永樂南藏】No.368《大方等如來藏經》 部別：大乘經-五大部外重譯經 千字文：忘(176)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMQ",
+       "created": 1646116895127,
+       "text": "【永樂北藏】No.408《大方等如來藏經》東晉佛陀跋陀羅譯 部別：大乘經單經譯 / 冊數：47 / 頁數：508 / 卷數：1 千字文：彼"
+      }},
+      {"data": {
+       "id": "z5cYx43AMR",
+       "created": 1646116895127,
+       "text": "【嘉興藏】No.379《大方等如來藏經》東晉佛陀跋陀羅譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0379 千字文 / 函號：［正藏］ 彼(179)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMS",
+       "created": 1646116895127,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMT",
+       "created": 1646116895127,
+       "text": "【乾隆藏】No.380《大方等如來藏經》東晉 佛陀跋陀羅譯 部別：大乘單譯經 / 冊數：40 / 頁數：542 / 卷數：1 千字文：彼"
+      }},
+      {"data": {
+       "id": "z5cYx43AMU",
+       "created": 1646116895127,
+       "text": "【縮刻藏】No.198《大方等如來藏經》東晉佛陀跋陀羅譯 部別：大乘經-方等部 / 卷數：1 千字文：宇 3 (5)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMV",
+       "created": 1646116895127,
+       "text": "【卍正藏】No.385《大方等如來藏經》東晉 佛陀跋陀羅譯 部別：大乘經 單譯經 / 冊數：19 / 頁數：586 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYx43AMW",
+       "created": 1646116895127,
+       "text": "【大正藏】No.666《大方等如來藏經》東晉 佛陀跋陀羅譯 部別：經集部三 / 冊數：16 / 頁數：457 / 卷數：1 相關經典：縮-宇3,卍-11.4,國-經6 參考資料：No.667"
+      }},
+      {"data": {
+       "id": "z5cYx43AMX",
+       "created": 1646116895127,
+       "text": "【佛教大藏經】No.200《大方等如來藏經》東晉 佛陀跋陀羅譯 部別：大乘經 方等部七 / 冊數：9 / 頁數：368 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx43AMY",
+       "created": 1646116895127,
+       "text": "【中華藏】No.387《大方等如來藏經》東晉佛[(陳-東)*(施-方)]跋[(陳-東)*(施-方)]羅譯 冊數：20 / 頁數：559 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx43AMZ",
+       "created": 1646116895127,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx43AMa",
+       "created": 1646116895127,
+       "text": "【南條文雄編號】 Nj. 0384"
+      }},
+      {"data": {
+       "id": "z5cYx43AMb",
+       "created": 1646116895127,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：666"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx93ki",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

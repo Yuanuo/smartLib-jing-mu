@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說決定總持經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxBrCTA",
+    "created": 1646116895611,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxBrCSD",
+      "created": 1646116895611,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxBrCSE",
+        "created": 1646116895611,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBrCSF",
+        "created": 1646116895611,
+        "text": "佛說決定總持經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBrCSG",
+        "created": 1646116895611,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBrCSH",
+        "created": 1646116895611,
+        "text": "佛说决定总持经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBrCSI",
+        "created": 1646116895611,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBrCSJ",
+        "created": 1646116895611,
+        "text": "fo shuo jue ding zong chi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBrCSR",
+        "created": 1646116895611,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBrCSS",
+        "created": 1646116895611,
+        "text": "Chüeh ting tsung ch'ih ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBrCST",
+        "created": 1646116895611,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBrCSU",
+        "created": 1646116895611,
+        "text": "Buddakṣepana",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBrCSV",
+        "created": 1646116895611,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBrCSW",
+        "created": 1646116895611,
+        "text": "Saṅs-rygas mi spaṅ-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBrCSX",
+        "created": 1646116895611,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBrCSY",
+        "created": 1646116895611,
+        "text": "결정총지경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBrCSK",
+      "created": 1646116895611,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBrCSL",
+      "created": 1646116895611,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBrCSM",
+      "created": 1646116895611,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBrCSN",
+       "created": 1646116895611,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSO",
+       "created": 1646116895611,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBrCSP",
+      "created": 1646116895611,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBrCSQ",
+      "created": 1646116895611,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBrCSZ",
+      "created": 1646116895611,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBrCSa",
+      "created": 1646116895611,
+      "text": "Translation by Dharmarakṣa: between the 1st year of T'ai Shih (泰始) and the 1st year of Chien Hsing (建興), Western Chin dynasty (西晉) (A.D. 265-313). T. 2151-353c:5. In this reference, the titleappears as the Chüeh tsung ch'ih ching (決總持經)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBrCSb",
+      "created": 1646116895611,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBrCSc",
+       "created": 1646116895611,
+       "text": "【北京版】Mdo-sna-tshogs(hu)47a-53a"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSd",
+       "created": 1646116895611,
+       "text": "【奈塘版】Mdo(za)64a-72a"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSe",
+       "created": 1646116895611,
+       "text": "【德格版】Mdo-sde(ya)44b-49b"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSf",
+       "created": 1646116895611,
+       "text": "【拉薩版】Mdo(za)114b-122b"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSg",
+       "created": 1646116895611,
+       "text": "【卓尼版】Mdo-maṅ(ya)53a-59b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBrCSh",
+      "created": 1646116895611,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBrCSi",
+      "created": 1646116895611,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBrCSj",
+      "created": 1646116895611,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBrCSk",
+       "created": 1646116895611,
+       "text": "【房山石經】No.255《佛說決定總持經》(西晉)三藏竺法護譯 冊數：3 / 頁數：565 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYxBrCSl",
+       "created": 1646116895611,
+       "text": "【開寶藏】No.238《決定總特經》西晉 三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSm",
+       "created": 1646116895611,
+       "text": "【崇寧藏】No.238《佛說決定總持經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSn",
+       "created": 1646116895611,
+       "text": "【毘盧藏】No.235《決定總持經》西晉竺法護譯 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSo",
+       "created": 1646116895611,
+       "text": "【圓覺藏】No.251《決定總持經》 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSp",
+       "created": 1646116895611,
+       "text": "【趙城金藏】No.238《決定總持經》 卷數：1 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSq",
+       "created": 1646116895611,
+       "text": "【資福藏】No.255《決定總持經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSr",
+       "created": 1646116895611,
+       "text": "【磧砂藏】No.256《佛說決定總持經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：177 / 卷數：1 千字文：傷 6 (160)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSs",
+       "created": 1646116895611,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSt",
+       "created": 1646116895611,
+       "text": "【高麗藏】No.238《決定總持經》西晉月氏三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：491 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：毀"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSu",
+       "created": 1646116895611,
+       "text": "【普寧藏】No.250《佛說決定總持經》 卷數：1 千字文：傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSv",
+       "created": 1646116895611,
+       "text": "【至元錄】No.315《決定總經》西晉三藏竺法護譯 卷數：1 / 譯次：(第一譯) 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSw",
+       "created": 1646116895611,
+       "text": "【洪武南藏】No.223《佛說決定揔持經》西晉 三藏法師竺法護 譯 冊數：54 / 頁數：424 / 卷數：1 千字文：傷 6 (160)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSx",
+       "created": 1646116895611,
+       "text": "【永樂南藏】No.240《佛說決定總持經》 部別：大乘經-五大部外重譯經 千字文：男(165)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSy",
+       "created": 1646116895611,
+       "text": "【永樂北藏】No.266《佛說決定總持經》西晉竺法護譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：527 / 卷數：1 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYxBrCSz",
+       "created": 1646116895611,
+       "text": "【嘉興藏】No.237《決定總持經》西晉竺法護譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0237 千字文 / 函號：［正藏］ 男(165)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT0",
+       "created": 1646116895611,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT1",
+       "created": 1646116895611,
+       "text": "【乾隆藏】No.238《佛說決定總持經》西晉 竺法護譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：297 / 卷數：1 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT2",
+       "created": 1646116895611,
+       "text": "【縮刻藏】No.367《佛說決定總持經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT3",
+       "created": 1646116895611,
+       "text": "【卍正藏】No.242《佛說決定總持經》西晉 竺法護譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：20 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT4",
+       "created": 1646116895611,
+       "text": "【大正藏】No.811《佛說決定總持經》西晉 竺法護譯 部別：經集部四 / 冊數：17 / 頁數：770 / 卷數：1 相關經典：縮-宙8,卍-10.6,國-經15 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxBrCT5",
+       "created": 1646116895611,
+       "text": "【佛教大藏經】No.370《佛說決定總持經》西晉 竺法護譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：437 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT6",
+       "created": 1646116895611,
+       "text": "【中華藏】No.255《佛說決定總持經》西晉月氏三藏竺法護譯 冊數：19 / 頁數：174 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT7",
+       "created": 1646116895611,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT8",
+       "created": 1646116895611,
+       "text": "【南條文雄編號】 Nj. 0242"
+      }},
+      {"data": {
+       "id": "z5cYxBrCT9",
+       "created": 1646116895611,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：811"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxmjoo",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

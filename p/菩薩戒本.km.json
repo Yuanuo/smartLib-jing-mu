@@ -1,0 +1,646 @@
+{
+ "root": {
+  "data": {"text": "菩薩戒本"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxiSM5j",
+     "created": 1646116897632,
+     "text": "現藏錄（慈氏菩薩說　北涼 曇無讖譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxiSM4r",
+       "created": 1646116897632,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxiSM4s",
+         "created": 1646116897632,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiSM4t",
+         "created": 1646116897632,
+         "text": "菩薩戒本",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiSM4u",
+         "created": 1646116897632,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiSM4v",
+         "created": 1646116897632,
+         "text": "菩萨戒本",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiSM4w",
+         "created": 1646116897632,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiSM4x",
+         "created": 1646116897632,
+         "text": "pu sa jie ben"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiSM56",
+         "created": 1646116897632,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiSM57",
+         "created": 1646116897632,
+         "text": "P'u sa chieh pen"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYxiSM58",
+        "created": 1646116897632,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYxiSM59",
+         "created": 1646116897632,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiSM5A",
+         "created": 1646116897632,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiSM5B",
+         "created": 1646116897632,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiSM5C",
+         "created": 1646116897632,
+         "text": "보살계본",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxiSM4y",
+       "created": 1646116897632,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiSM4z",
+       "created": 1646116897632,
+       "text": "北涼",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiSM50",
+       "created": 1646116897632,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxiSM51",
+        "created": 1646116897632,
+        "text": "慈氏菩薩說　北涼 曇無讖譯"
+       }},
+       {"data": {
+        "id": "z5cYxiSM52",
+        "created": 1646116897632,
+        "text": "慈氏",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxiSM53",
+        "created": 1646116897632,
+        "text": "曇無讖",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxiSM54",
+       "created": 1646116897632,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiSM55",
+       "created": 1646116897632,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiSM5D",
+       "created": 1646116897632,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiSM5E",
+       "created": 1646116897632,
+       "text": "Translation by Dharmakṣema: between the 3rd and 10th (or 15th) years of Hsüan Shih (玄始), Northern Liang dynasty (北涼) (A.D. 414-421 or 426) in Ku-tsang (姑臧).T. 2151-360b:24; T. 2154-520c:7; T. 2154-606b:4."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxiSM5F",
+      "created": 1646116897632,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxiSM5G",
+       "created": 1646116897632,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiSM5H",
+       "created": 1646116897632,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiSM5I",
+       "created": 1646116897632,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxiSM5J",
+        "created": 1646116897632,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5K",
+        "created": 1646116897632,
+        "text": "【開寶藏】No.528《菩薩戒本》北涼 天竺三藏曇無讖 譯 部別：大乘律 菩薩調伏藏 / 卷數：1 千字文：克"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5L",
+        "created": 1646116897632,
+        "text": "【崇寧藏】No.533《菩薩戒本經》 卷數：1 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5M",
+        "created": 1646116897632,
+        "text": "【毘盧藏】No.531《菩薩戒本經》北涼曇無讖譯 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5N",
+        "created": 1646116897632,
+        "text": "【圓覺藏】No.543《菩薩戒本經》 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5O",
+        "created": 1646116897632,
+        "text": "【趙城金藏】No.532《菩薩戒本》 卷數：1 千字文：克"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5P",
+        "created": 1646116897632,
+        "text": "【資福藏】No.549《菩薩戒本經》 卷數：1 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5Q",
+        "created": 1646116897632,
+        "text": "【磧砂藏】No.550《菩薩戒本經》北涼 曇無讖譯 部別： / 冊數：14 / 頁數：78 / 卷數：1 千字文：念 4 (206)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5R",
+        "created": 1646116897632,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5S",
+        "created": 1646116897632,
+        "text": "【高麗藏】No.531《菩薩戒本》三藏沙門曇無讖譯 部別：大乘律 / 冊數：14(原版) 15(新文豐) 頁數：393(原版) 20(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：尅"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5T",
+        "created": 1646116897632,
+        "text": "【普寧藏】No.543《菩薩戒本經》 卷數：1 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5U",
+        "created": 1646116897632,
+        "text": "【至元錄】No.1187《菩薩戒本》北涼天竺三藏曇無讖譯 卷數：1 千字文：母(343)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5V",
+        "created": 1646116897632,
+        "text": "【洪武南藏】No.485《菩薩戒本經》北涼 天竺三藏法師曇無懺 第二譯 冊數：70 / 頁數：48 / 卷數：1 千字文：念 4 (206)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5W",
+        "created": 1646116897632,
+        "text": "【永樂南藏】No.1231《菩薩戒本經》 部別：大乘律 千字文：職(310)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5X",
+        "created": 1646116897632,
+        "text": "【永樂北藏】No.1128《菩薩戒本經》北涼曇無讖譯 部別：大乘律 / 冊數：77 / 頁數：203 / 卷數：1 千字文：篤"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5Y",
+        "created": 1646116897632,
+        "text": "【嘉興藏】No.1090《菩薩戒本經》北涼曇無讖譯 部別：大乘律 / 法寶總目錄經號：1089 千字文 / 函號：［正藏］ 篤(289)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5Z",
+        "created": 1646116897632,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5a",
+        "created": 1646116897632,
+        "text": "【乾隆藏】No.1091《菩薩戒本經》慈氏說　(北涼)曇無讖第二譯 部別：大乘律 / 冊數：64 / 頁數：751 / 卷數：1 千字文：篤"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5b",
+        "created": 1646116897632,
+        "text": "【縮刻藏】No.797《菩薩戒本》慈氏菩薩說　北凉曇無讖譯 部別：大乘律 / 卷數：1 千字文：列 2 (15)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5c",
+        "created": 1646116897632,
+        "text": "【卍正藏】No.1101《菩薩戒本》北涼 曇無讖譯 部別：大乘律 / 冊數：31 / 頁數：425 / 卷數：1 原版套數：第 17 套"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5d",
+        "created": 1646116897632,
+        "text": "【大正藏】No.1500《菩薩戒本》慈氏菩薩說 北涼 曇無讖譯 部別：律部三 / 冊數：24 / 頁數：1107 / 卷數：1 相關經典：縮-列2,卍-17.2 參考資料：cf.No.1583"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5e",
+        "created": 1646116897632,
+        "text": "【佛教大藏經】No.831《菩薩戒本》北涼 曇無讖譯 部別：大乘律 律部一 / 冊數：29 / 頁數：382 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5f",
+        "created": 1646116897632,
+        "text": "【中華藏】No.579《菩薩戒本(慈氏菩薩說)》慈氏菩薩說，北涼天竺三藏曇無讖於姑臧譯 冊數：24 / 頁數：886 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5g",
+        "created": 1646116897632,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5h",
+        "created": 1646116897632,
+        "text": "【南條文雄編號】 Nj. 1096"
+       }},
+       {"data": {
+        "id": "z5cYxiSM5i",
+        "created": 1646116897632,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1500"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxiVM6c",
+     "created": 1646116897635,
+     "text": "現藏錄（彌勒菩薩說　唐 玄奘譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxiVM5k",
+       "created": 1646116897635,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxiVM5l",
+         "created": 1646116897635,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiVM5m",
+         "created": 1646116897635,
+         "text": "菩薩戒本"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiVM5n",
+         "created": 1646116897635,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiVM5o",
+         "created": 1646116897635,
+         "text": "菩萨戒本"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiVM5p",
+         "created": 1646116897635,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiVM5q",
+         "created": 1646116897635,
+         "text": "pu sa jie ben"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiVM5z",
+         "created": 1646116897635,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiVM60",
+         "created": 1646116897635,
+         "text": "P'u sa chieh pen"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYxiVM61",
+        "created": 1646116897635,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYxiVM62",
+         "created": 1646116897635,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiVM63",
+         "created": 1646116897635,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiVM64",
+         "created": 1646116897635,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiVM65",
+         "created": 1646116897635,
+         "text": "보살계본"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxiVM5r",
+       "created": 1646116897635,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiVM5s",
+       "created": 1646116897635,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiVM5t",
+       "created": 1646116897635,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxiVM5u",
+        "created": 1646116897635,
+        "text": "彌勒菩薩說　唐 玄奘譯"
+       }},
+       {"data": {
+        "id": "z5cYxiVM5v",
+        "created": 1646116897635,
+        "text": "慈氏"
+       }},
+       {"data": {
+        "id": "z5cYxiVM5w",
+        "created": 1646116897635,
+        "text": "玄奘",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxiVM5x",
+       "created": 1646116897635,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiVM5y",
+       "created": 1646116897635,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiVM66",
+       "created": 1646116897635,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiVM67",
+       "created": 1646116897635,
+       "text": "Translation by Hsüan-tsang: 21st day, 7th month, 23rd year of Chen Kuan (貞觀), T'ang dynasty (唐) (September 3rd, A.D. 649) in Ta-tz'u-en Monastery (大慈恩寺)T. 2154-556b:1. or the 21st year of Chen Kuan (貞觀), T'ang dynasty (唐) (A.D. 647) in Ts'ui-wei Palace (翠微宮).T. 2149-294b:8."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxiVM68",
+      "created": 1646116897635,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxiVM69",
+       "created": 1646116897635,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiVM6A",
+       "created": 1646116897635,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiVM6B",
+       "created": 1646116897635,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxiVM6C",
+        "created": 1646116897635,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6D",
+        "created": 1646116897635,
+        "text": "【開寶藏】No.529《菩薩戒本》唐 三藏玄奘 譯 部別：大乘律 菩薩調伏藏 / 卷數：1 千字文：克"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6E",
+        "created": 1646116897635,
+        "text": "【崇寧藏】No.534《菩薩戒經》 卷數：1 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6F",
+        "created": 1646116897635,
+        "text": "【毘盧藏】No.532《菩薩戒經》唐玄奘譯 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6G",
+        "created": 1646116897635,
+        "text": "【圓覺藏】No.542《菩薩戒經》 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6H",
+        "created": 1646116897635,
+        "text": "【趙城金藏】No.534《菩薩戒本》 卷數：1 千字文：克"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6I",
+        "created": 1646116897635,
+        "text": "【資福藏】No.548《菩薩戒經》 卷數：1 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6J",
+        "created": 1646116897635,
+        "text": "【磧砂藏】No.549《菩薩戒本》唐 玄奘譯 部別： / 冊數：14 / 頁數：72 / 卷數：1 千字文：念 3 (206)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6K",
+        "created": 1646116897635,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6L",
+        "created": 1646116897635,
+        "text": "【高麗藏】No.533《菩薩戒本》三藏法師玄奘譯 部別：大乘律 / 冊數：14(原版) 15(新文豐) 頁數：405(原版) 32(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：尅"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6M",
+        "created": 1646116897635,
+        "text": "【普寧藏】No.542《菩薩戒本》 卷數：1 千字文：念(206)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6N",
+        "created": 1646116897635,
+        "text": "【至元錄】No.1188《菩薩戒本》唐三藏玄奘譯 卷數：1 / 出處：(出內典錄) 千字文：母(343)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6O",
+        "created": 1646116897635,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6P",
+        "created": 1646116897635,
+        "text": "【永樂南藏】No.1230《菩薩戒本》 部別：大乘律 千字文：職(310)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6Q",
+        "created": 1646116897635,
+        "text": "【永樂北藏】No.1130《菩薩戒本》唐玄奘譯 部別：大乘律 / 冊數：77 / 頁數：227 / 卷數：1 千字文：篤"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6R",
+        "created": 1646116897635,
+        "text": "【嘉興藏】No.1092《菩薩戒本》唐玄奘譯 部別：大乘律 / 法寶總目錄經號：1091 千字文 / 函號：［正藏］ 篤(289)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6S",
+        "created": 1646116897635,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6T",
+        "created": 1646116897635,
+        "text": "【乾隆藏】No.1093《菩薩戒本》彌勒說　(唐)玄奘譯 部別：大乘律 / 冊數：64 / 頁數：769 / 卷數：1 千字文：篤"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6U",
+        "created": 1646116897635,
+        "text": "【縮刻藏】No.799《菩薩戒本》彌勒菩薩說　唐玄奘譯 部別：大乘律 / 卷數：1 千字文：列 2 (15)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6V",
+        "created": 1646116897635,
+        "text": "【卍正藏】No.1103《菩薩戒本》玄奘譯 部別：大乘律 / 冊數：31 / 頁數：435 / 卷數：1 原版套數：第 17 套"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6W",
+        "created": 1646116897635,
+        "text": "【大正藏】No.1501《菩薩戒本》彌勒菩薩說 唐 玄奘譯 部別：律部三 / 冊數：24 / 頁數：1110 / 卷數：1 相關經典：縮-列2,卍-17.2 參考資料：cf.No.1583"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6X",
+        "created": 1646116897635,
+        "text": "【佛教大藏經】No.833《菩薩戒本》唐 玄奘譯 部別：大乘律 律部一 / 冊數：29 / 頁數：397 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6Y",
+        "created": 1646116897635,
+        "text": "【中華藏】No.581《菩薩戒本(彌勒菩薩說)》彌勒菩薩說，沙門玄奘奉詔譯 冊數：24 / 頁數：902 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6Z",
+        "created": 1646116897635,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6a",
+        "created": 1646116897635,
+        "text": "【南條文雄編號】 Nj. 1098"
+       }},
+       {"data": {
+        "id": "z5cYxiVM6b",
+        "created": 1646116897635,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1501"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz6o199",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "真朗上人法語"},
+  "children": [{
+   "data": {
+    "id": "z5cYyJpXo0",
+    "created": 1646116899949,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyJpXnO",
+      "created": 1646116899949,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyJpXnP",
+        "created": 1646116899949,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJpXnQ",
+        "created": 1646116899949,
+        "text": "真朗上人法語",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJpXnR",
+        "created": 1646116899949,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJpXnS",
+        "created": 1646116899949,
+        "text": "真朗上人法语",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJpXnT",
+        "created": 1646116899949,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJpXnU",
+        "created": 1646116899949,
+        "text": "zhen lang shang ren fa yu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJpXnV",
+      "created": 1646116899949,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJpXnW",
+      "created": 1646116899949,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJpXnX",
+      "created": 1646116899949,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJpXnY",
+      "created": 1646116899949,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJpXnZ",
+      "created": 1646116899949,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJpXna",
+       "created": 1646116899949,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnb",
+       "created": 1646116899949,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnc",
+       "created": 1646116899949,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnd",
+       "created": 1646116899949,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXne",
+       "created": 1646116899949,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnf",
+       "created": 1646116899949,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXng",
+       "created": 1646116899949,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnh",
+       "created": 1646116899949,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXni",
+       "created": 1646116899949,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnj",
+       "created": 1646116899949,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnk",
+       "created": 1646116899949,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnl",
+       "created": 1646116899949,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnm",
+       "created": 1646116899949,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnn",
+       "created": 1646116899949,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXno",
+       "created": 1646116899949,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnp",
+       "created": 1646116899949,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnq",
+       "created": 1646116899949,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnr",
+       "created": 1646116899949,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXns",
+       "created": 1646116899949,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnt",
+       "created": 1646116899949,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnu",
+       "created": 1646116899949,
+       "text": "【大正藏】No.2424《真朗上人法語》 部別：續諸宗部八 / 冊數：77 / 頁數：301 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyJpXnv",
+       "created": 1646116899949,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnw",
+       "created": 1646116899949,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnx",
+       "created": 1646116899949,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXny",
+       "created": 1646116899949,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJpXnz",
+       "created": 1646116899949,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2424"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0z120n",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

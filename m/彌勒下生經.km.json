@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "佛說彌勒下生經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwt47HP",
+    "created": 1646116894446,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwt37GX",
+      "created": 1646116894445,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwt37GY",
+        "created": 1646116894445,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt37GZ",
+        "created": 1646116894445,
+        "text": "佛說彌勒下生經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt37Ga",
+        "created": 1646116894445,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt37Gb",
+        "created": 1646116894445,
+        "text": "佛说弥勒下生经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt37Gc",
+        "created": 1646116894445,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt37Gd",
+        "created": 1646116894445,
+        "text": "fo shuo mi le xia sheng jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt37Gm",
+        "created": 1646116894445,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt37Gn",
+        "created": 1646116894445,
+        "text": "Mi lei ch'eng fo ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwt37Go",
+       "created": 1646116894445,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwt37Gp",
+        "created": 1646116894445,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt37Gq",
+        "created": 1646116894445,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwt37Gr",
+        "created": 1646116894445,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwt37Gs",
+        "created": 1646116894445,
+        "text": "미륵하생경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwt37Ge",
+      "created": 1646116894445,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt37Gf",
+      "created": 1646116894445,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwt37Gg",
+      "created": 1646116894445,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwt37Gh",
+       "created": 1646116894445,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwt37Gi",
+       "created": 1646116894445,
+       "text": "法護",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwt37Gj",
+       "created": 1646116894445,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwt37Gk",
+      "created": 1646116894445,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt37Gl",
+      "created": 1646116894445,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwt37Gt",
+      "created": 1646116894445,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt37Gu",
+      "created": 1646116894445,
+      "text": "Mi lei ch'eng fo ching (彌勒成佛經) in this reference."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwt37Gv",
+     "created": 1646116894445,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwt37Gw",
+      "created": 1646116894445,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwt37Gx",
+      "created": 1646116894445,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwt37Gy",
+      "created": 1646116894445,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwt37Gz",
+       "created": 1646116894445,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt37H0",
+       "created": 1646116894445,
+       "text": "【開寶藏】No.198《彌勒下生經》西晉 月支三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwt37H1",
+       "created": 1646116894445,
+       "text": "【崇寧藏】No.199《觀彌勒菩薩下生經》 卷數：1 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt37H2",
+       "created": 1646116894445,
+       "text": "【毘盧藏】No.195《觀彌勒菩薩下生經》闕譯人 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt37H3",
+       "created": 1646116894445,
+       "text": "【圓覺藏】No.205《彌勒下生經》 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt37H4",
+       "created": 1646116894445,
+       "text": "【趙城金藏】No.197《彌勒下生經》 卷數：1 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwt37H5",
+       "created": 1646116894445,
+       "text": "【資福藏】No.211《觀彌勒菩薩下生經》 卷數：1 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt37H6",
+       "created": 1646116894445,
+       "text": "【磧砂藏】No.212《觀彌勒菩薩下生經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：6 / 卷數：1 千字文：豈 2 (157)"
+      }},
+      {"data": {
+       "id": "z5cYwt37H7",
+       "created": 1646116894445,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt37H8",
+       "created": 1646116894445,
+       "text": "【高麗藏】No.197《彌勒下生經》西晉月氏三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：209 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwt37H9",
+       "created": 1646116894445,
+       "text": "【普寧藏】No.204《彌勒下生經》 卷數：1 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HA",
+       "created": 1646116894445,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HB",
+       "created": 1646116894445,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HC",
+       "created": 1646116894445,
+       "text": "【永樂南藏】No.202《觀彌勒菩薩下生經》 部別：大乘經-五大部外重譯經 千字文：貞(163)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HD",
+       "created": 1646116894445,
+       "text": "【永樂北藏】No.232《佛說觀彌勒菩薩下生經》西晉竺法護譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：96 / 卷數：1 千字文：貞"
+      }},
+      {"data": {
+       "id": "z5cYwt37HE",
+       "created": 1646116894445,
+       "text": "【嘉興藏】No.203《觀彌勒菩薩下生經》西晉竺法護譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0203 千字文 / 函號：［正藏］ 貞(163)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HF",
+       "created": 1646116894445,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HG",
+       "created": 1646116894445,
+       "text": "【乾隆藏】No.201《佛說彌勒下生經》姚秦 鳩摩羅什 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：820 / 卷數：1 千字文：貞"
+      }},
+      {"data": {
+       "id": "z5cYwt37HH",
+       "created": 1646116894445,
+       "text": "【縮刻藏】No.141《佛說彌勒下生經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 5 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HI",
+       "created": 1646116894445,
+       "text": "【卍正藏】No.207《佛說彌勒下生經》西晉 竺法護譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：825 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwt37HJ",
+       "created": 1646116894445,
+       "text": "【大正藏】No.453《佛說彌勒下生經》西晉 竺法護譯 部別：經集部一 / 冊數：14 / 頁數：421 / 卷數：1 相關經典：縮-黃5,卍-10.5 參考資料：Nos.454,455"
+      }},
+      {"data": {
+       "id": "z5cYwt37HK",
+       "created": 1646116894445,
+       "text": "【佛教大藏經】No.143《佛說彌勒下生經》西晉 竺法護譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：861 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwt37HL",
+       "created": 1646116894445,
+       "text": "【中華藏】No.208《佛說彌勒下生經》西晉月氏三藏竺法護譯 冊數：18 / 頁數：726 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwt37HM",
+       "created": 1646116894445,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwt37HN",
+       "created": 1646116894445,
+       "text": "【南條文雄編號】 Nj. 0208"
+      }},
+      {"data": {
+       "id": "z5cYwt37HO",
+       "created": 1646116894445,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：453"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwq4ei",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

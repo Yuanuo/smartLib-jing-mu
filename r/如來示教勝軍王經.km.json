@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "如來示教勝軍王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwwH8BH",
+    "created": 1646116894645,
+    "text": "現藏錄（唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwwH8AK",
+      "created": 1646116894645,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwwH8AL",
+        "created": 1646116894645,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwH8AM",
+        "created": 1646116894645,
+        "text": "如來示教勝軍王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwH8AN",
+        "created": 1646116894645,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwH8AO",
+        "created": 1646116894645,
+        "text": "如来示教胜军王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwH8AP",
+        "created": 1646116894645,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwH8AQ",
+        "created": 1646116894645,
+        "text": "ru lai shi jiao sheng jun wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwH8AY",
+        "created": 1646116894645,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwH8AZ",
+        "created": 1646116894645,
+        "text": "Ju lai shih chiao sheng chün wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwH8Aa",
+        "created": 1646116894645,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwH8Ab",
+        "created": 1646116894645,
+        "text": "Rājāvavādaka(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwH8Ac",
+        "created": 1646116894645,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwH8Ad",
+        "created": 1646116894645,
+        "text": "Rgyal-po-la gdams-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwH8Ae",
+        "created": 1646116894645,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwH8Af",
+        "created": 1646116894645,
+        "text": "여래시교승군왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwwH8AR",
+      "created": 1646116894645,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwH8AS",
+      "created": 1646116894645,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwwH8AT",
+      "created": 1646116894645,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwwH8AU",
+       "created": 1646116894645,
+       "text": "唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYwwH8AV",
+       "created": 1646116894645,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwwH8AW",
+      "created": 1646116894645,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwH8AX",
+      "created": 1646116894645,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwwH8Ag",
+      "created": 1646116894645,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwH8Ah",
+      "created": 1646116894645,
+      "text": "Translation by Hsüan-tsang: 6th day, 2nd month, 23rd year of Chen Kuan (貞觀), T'ang dynasty (唐) (March 24th, A.D. 649) in Ta-tz'u-en Monastery (大慈恩寺).T.2154-555c:27."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwwH8Ai",
+      "created": 1646116894645,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwwH8Aj",
+       "created": 1646116894645,
+       "text": "【北京版】Mdo-sna-tshogs (tshu)81b-88b"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Ak",
+       "created": 1646116894645,
+       "text": "【奈塘版】Mdo (tsa)131b-142b"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Al",
+       "created": 1646116894645,
+       "text": "【德格版】Mdo-sde (dsa)78a-84b"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Am",
+       "created": 1646116894645,
+       "text": "【拉薩版】Mdo(tsa)130b-141a"
+      }},
+      {"data": {
+       "id": "z5cYwwH8An",
+       "created": 1646116894645,
+       "text": "【卓尼版】Mdo-maṅ (dsa)109a-117b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwwH8Ao",
+      "created": 1646116894645,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwH8Ap",
+      "created": 1646116894645,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwwH8Aq",
+      "created": 1646116894645,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwwH8Ar",
+       "created": 1646116894645,
+       "text": "【房山石經】No.272《如來示教勝軍王經》三藏法師玄奘奉詔譯 冊數：3 / 頁數：582 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYwwH8As",
+       "created": 1646116894645,
+       "text": "【開寶藏】No.259《如來示教勝軍王經》唐 三藏玄奘 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwwH8At",
+       "created": 1646116894645,
+       "text": "【崇寧藏】No.260《如來示教勝軍王經》 卷數：1 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Au",
+       "created": 1646116894645,
+       "text": "【毘盧藏】No.256《如來示教勝軍王經》唐太宗序　唐玄奘譯 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Av",
+       "created": 1646116894645,
+       "text": "【圓覺藏】No.280《如來示教勝軍王經》 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Aw",
+       "created": 1646116894645,
+       "text": "【趙城金藏】No.258《如來示教勝軍王經》 卷數：1 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Ax",
+       "created": 1646116894645,
+       "text": "【資福藏】No.284《如來示教勝軍王經》 卷數：1 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Ay",
+       "created": 1646116894645,
+       "text": "【磧砂藏】No.285《如來示教勝軍王經》唐 玄奘譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：224 / 卷數：1 千字文：女 5 (161)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8Az",
+       "created": 1646116894645,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B0",
+       "created": 1646116894645,
+       "text": "【高麗藏】No.258《如來示教勝軍王經》大唐三藏法師玄奘譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：565 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B1",
+       "created": 1646116894645,
+       "text": "【普寧藏】No.279《如來示教勝軍王經》 卷數：1 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B2",
+       "created": 1646116894645,
+       "text": "【至元錄】No.336《如來示教勝軍王經》唐三藏玄奘譯 卷數：1 / 出處：(出內典錄) / 譯次：(第二譯) 千字文：得(173)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B3",
+       "created": 1646116894645,
+       "text": "【洪武南藏】No.251《如來示教勝軍王經》唐 三藏法師玄奘 譯 冊數：55 / 頁數：30 / 卷數：1 千字文：女 5 (161)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B4",
+       "created": 1646116894645,
+       "text": "【永樂南藏】No.274《如來示教勝軍王經》 部別：大乘經-五大部外重譯經 千字文：才(167)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B5",
+       "created": 1646116894645,
+       "text": "【永樂北藏】No.273《如來示教勝軍王經》唐玄奘譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：936 / 卷數：1 千字文：才"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B6",
+       "created": 1646116894645,
+       "text": "【嘉興藏】No.244《如來示教勝軍王經》唐玄奘譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0244 千字文 / 函號：［正藏］ 才(167)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B7",
+       "created": 1646116894645,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B8",
+       "created": 1646116894645,
+       "text": "【乾隆藏】No.245《如來示教勝軍王經》唐 玄奘譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：578 / 卷數：1 千字文：才"
+      }},
+      {"data": {
+       "id": "z5cYwwH8B9",
+       "created": 1646116894645,
+       "text": "【縮刻藏】No.300《如來示教勝軍王經》唐玄奘譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 6 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8BA",
+       "created": 1646116894645,
+       "text": "【卍正藏】No.249《如來示教勝軍王經》大唐 玄奘譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：176 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwwH8BB",
+       "created": 1646116894645,
+       "text": "【大正藏】No.515《如來示教勝軍王經》唐 玄奘譯 部別：經集部一 / 冊數：14 / 頁數：786 / 卷數：1 相關經典：縮-宙6,卍-10.6,國-經2 參考資料：Nos.514,516"
+      }},
+      {"data": {
+       "id": "z5cYwwH8BC",
+       "created": 1646116894645,
+       "text": "【佛教大藏經】No.303《如來示教勝軍王經》唐 玄奘譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：156 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwwH8BD",
+       "created": 1646116894645,
+       "text": "【中華藏】No.273《如來示教勝軍王經》大唐三藏法師玄奘奉詔譯 冊數：19 / 頁數：249 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwwH8BE",
+       "created": 1646116894645,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwH8BF",
+       "created": 1646116894645,
+       "text": "【南條文雄編號】 Nj. 0249"
+      }},
+      {"data": {
+       "id": "z5cYwwH8BG",
+       "created": 1646116894645,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：515"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwvpg9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

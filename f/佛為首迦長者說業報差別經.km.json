@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "佛為首迦長者說業報差別經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwR9185",
+    "created": 1646116892715,
+    "text": "現藏錄（隋 瞿曇法智譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwR7177",
+      "created": 1646116892713,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwR7178",
+        "created": 1646116892713,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR7179",
+        "created": 1646116892713,
+        "text": "佛為首迦長者說業報差別經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR717A",
+        "created": 1646116892713,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR717B",
+        "created": 1646116892713,
+        "text": "佛为首迦长者说业报差别经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR717C",
+        "created": 1646116892713,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR717D",
+        "created": 1646116892713,
+        "text": "fo wei shou jia chang zhe shuo ye bao cha bie jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR717M",
+        "created": 1646116892713,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR717N",
+        "created": 1646116892713,
+        "text": "Fo wei shou chia chang che shuo yeh pao ch'a pieh ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR717O",
+        "created": 1646116892713,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR717P",
+        "created": 1646116892713,
+        "text": "Śukasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR817Q",
+        "created": 1646116892714,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR817R",
+        "created": 1646116892714,
+        "text": "Las rnam-par-ḥbyed-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR817S",
+        "created": 1646116892714,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR817T",
+        "created": 1646116892714,
+        "text": "불위수가장자설업보차별경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwR717E",
+      "created": 1646116892713,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR717F",
+      "created": 1646116892713,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR717G",
+      "created": 1646116892713,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwR717H",
+       "created": 1646116892713,
+       "text": "隋 瞿曇法智譯"
+      }},
+      {"data": {
+       "id": "z5cYwR717I",
+       "created": 1646116892713,
+       "text": "法智",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwR717J",
+       "created": 1646116892713,
+       "text": "瞿曇法智",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwR717K",
+      "created": 1646116892713,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR717L",
+      "created": 1646116892713,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR817U",
+      "created": 1646116892714,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR817V",
+      "created": 1646116892714,
+      "text": "Translation by Gautama Dharmaprajña: 3rd month, 2nd year of K'ai Huang (開皇), Sui dynasty (隋) (April, A.D. 582).T. 2154-547b:17."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR817W",
+      "created": 1646116892714,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwR817X",
+       "created": 1646116892714,
+       "text": "【北京版】Mdo-sna-tshogs (śu)287a-310b"
+      }},
+      {"data": {
+       "id": "z5cYwR817Y",
+       "created": 1646116892714,
+       "text": "【奈塘版】Mdo (la)434a-464a"
+      }},
+      {"data": {
+       "id": "z5cYwR817Z",
+       "created": 1646116892714,
+       "text": "【德格版】Mdo-sde (sa)277a-298b"
+      }},
+      {"data": {
+       "id": "z5cYwR817a",
+       "created": 1646116892714,
+       "text": "【拉薩版】Mdo-sde (la)425b-455a"
+      }},
+      {"data": {
+       "id": "z5cYwR817b",
+       "created": 1646116892714,
+       "text": "【卓尼版】Mdo-maṅ (sa)331b-358a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwR817c",
+      "created": 1646116892714,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR817d",
+      "created": 1646116892714,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR817e",
+      "created": 1646116892714,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwR817f",
+       "created": 1646116892714,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR817g",
+       "created": 1646116892714,
+       "text": "【開寶藏】No.801《業報差別經》隋 洋川群守瞿曇法智 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYwR817h",
+       "created": 1646116892714,
+       "text": "【崇寧藏】No.803《佛說業報差別經》 卷數：1 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYwR817i",
+       "created": 1646116892714,
+       "text": "【毘盧藏】No.804《佛說業報差別經》隋瞿曇法智譯 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYwR817j",
+       "created": 1646116892714,
+       "text": "【圓覺藏】No.811《業報差別經》 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYwR817k",
+       "created": 1646116892714,
+       "text": "【趙城金藏】No.808《首迦長者業報差別經》 卷數：1 千字文：籍"
+      }},
+      {"data": {
+       "id": "z5cYwR817l",
+       "created": 1646116892714,
+       "text": "【資福藏】No.817《業報差別經》 卷數：1 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYwR817m",
+       "created": 1646116892714,
+       "text": "【磧砂藏】No.824《佛為首迦長者說業報差別經》隋 法智譯 部別：小乘單譯經 / 冊數：20 / 頁數：43 / 卷數：1 千字文：甚 10 (302)"
+      }},
+      {"data": {
+       "id": "z5cYwR817n",
+       "created": 1646116892714,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR817o",
+       "created": 1646116892714,
+       "text": "【高麗藏】No.805《佛爲首迦長者說業報差別經》隋洋川郡守瞿曇法智譯 部別：小乘經 單譯 / 冊數：20 頁數：1056(原版) 471(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：籍"
+      }},
+      {"data": {
+       "id": "z5cYwR817p",
+       "created": 1646116892714,
+       "text": "【普寧藏】No.816《佛說業報差別經》 卷數：1 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYwR817q",
+       "created": 1646116892714,
+       "text": "【至元錄】No.1044《業報差別經》隋洋川郡守瞿曇法智譯 卷數：1 千字文：尊(327)"
+      }},
+      {"data": {
+       "id": "z5cYwR817r",
+       "created": 1646116892714,
+       "text": "【洪武南藏】No.733《業報差別經》隋 洋川郡守瞿曇法智 譯 冊數：106 / 頁數：59 / 卷數：1 千字文：甚 10 (302)"
+      }},
+      {"data": {
+       "id": "z5cYwR817s",
+       "created": 1646116892714,
+       "text": "【永樂南藏】No.692《佛說業報差別經》 部別：小乘經-單譯經 千字文：與(247)"
+      }},
+      {"data": {
+       "id": "z5cYwR817t",
+       "created": 1646116892714,
+       "text": "【永樂北藏】No.771《佛說業報差別經》隋法智譯 部別：小乘經單譯經 / 冊數：66 / 頁數：589 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYwR817u",
+       "created": 1646116892714,
+       "text": "【嘉興藏】No.734《佛說業報差別經》隋法智譯 部別：小乘經-單譯經 / 法寶總目錄經號：0734 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYwR817v",
+       "created": 1646116892714,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR917w",
+       "created": 1646116892715,
+       "text": "【乾隆藏】No.735《佛說業報差別經》隋 法智譯 部別：小乘單譯經 / 冊數：56 / 頁數：66 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYwR917x",
+       "created": 1646116892715,
+       "text": "【縮刻藏】No.628《佛為首迦長者說業報差別經》隋瞿曇法智譯 部別：小乘經 / 卷數：1 千字文：宿 6 (14)"
+      }},
+      {"data": {
+       "id": "z5cYwR917y",
+       "created": 1646116892715,
+       "text": "【卍正藏】No.743《佛為首迦長者說業報差別經》隋 瞿曇法智譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：85 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwR917z",
+       "created": 1646116892715,
+       "text": "【大正藏】No.80《佛為首迦長者說業報差別經》隋 瞿曇法智譯 部別：阿含部上 / 冊數：1 / 頁數：891 / 卷數：1 相關經典：縮-宿6.卍-15.1,南-11下.135 參考資料：Nos.26(170),78,79,81"
+      }},
+      {"data": {
+       "id": "z5cYwR9180",
+       "created": 1646116892715,
+       "text": "【佛教大藏經】No.646《佛為首迦長者說業報差別經》隋 瞿曇法智譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：125 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwR9181",
+       "created": 1646116892715,
+       "text": "【中華藏】No.868《佛為首迦長者說業報差別經》隋洋川郡守瞿曇法智譯 冊數：36 / 頁數：95 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwR9182",
+       "created": 1646116892715,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR9183",
+       "created": 1646116892715,
+       "text": "【南條文雄編號】 Nj. 0739"
+      }},
+      {"data": {
+       "id": "z5cYwR9184",
+       "created": 1646116892715,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：80"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvdz27",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

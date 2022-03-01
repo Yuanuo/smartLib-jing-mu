@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "三時繫念儀範"},
+  "children": [{
+   "data": {
+    "id": "z5cYzHYpLc",
+    "created": 1646116903652,
+    "text": "現藏錄（宋 延壽 述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzHYpKx",
+      "created": 1646116903652,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzHYpKy",
+        "created": 1646116903652,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzHYpKz",
+        "created": 1646116903652,
+        "text": "三時繫念儀範",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzHYpL0",
+        "created": 1646116903652,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzHYpL1",
+        "created": 1646116903652,
+        "text": "三时系念仪范",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzHYpL2",
+        "created": 1646116903652,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzHYpL3",
+        "created": 1646116903652,
+        "text": "san shi xi nian yi fan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzHYpL4",
+      "created": 1646116903652,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzHYpL5",
+      "created": 1646116903652,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzHYpL6",
+      "created": 1646116903652,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzHYpL7",
+       "created": 1646116903652,
+       "text": "宋 延壽 述"
+      }},
+      {"data": {
+       "id": "z5cYzHYpL8",
+       "created": 1646116903652,
+       "text": "永明",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzHYpL9",
+      "created": 1646116903652,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzHYpLA",
+      "created": 1646116903652,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzHYpLB",
+      "created": 1646116903652,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzHYpLC",
+       "created": 1646116903652,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLD",
+       "created": 1646116903652,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLE",
+       "created": 1646116903652,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLF",
+       "created": 1646116903652,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLG",
+       "created": 1646116903652,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLH",
+       "created": 1646116903652,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLI",
+       "created": 1646116903652,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLJ",
+       "created": 1646116903652,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLK",
+       "created": 1646116903652,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLL",
+       "created": 1646116903652,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLM",
+       "created": 1646116903652,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLN",
+       "created": 1646116903652,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLO",
+       "created": 1646116903652,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLP",
+       "created": 1646116903652,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLQ",
+       "created": 1646116903652,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLR",
+       "created": 1646116903652,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLS",
+       "created": 1646116903652,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLT",
+       "created": 1646116903652,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLU",
+       "created": 1646116903652,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLV",
+       "created": 1646116903652,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLW",
+       "created": 1646116903652,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLX",
+       "created": 1646116903652,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLY",
+       "created": 1646116903652,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLZ",
+       "created": 1646116903652,
+       "text": "【新纂卍續藏】No.1465《三時繫念儀範》宋 延壽 述 部別：中國撰述 禮懺部一 / 冊數：74 / 頁數：61 / 卷數：1 《卍大日本續藏經》套數：第二編乙．第 1 套 《卍續藏經》(新文豐版)冊數：第 128 冊"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLa",
+       "created": 1646116903652,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzHYpLb",
+       "created": 1646116903652,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1573"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3tw3ae",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

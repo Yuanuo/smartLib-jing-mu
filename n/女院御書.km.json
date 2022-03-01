@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "女院御書"},
+  "children": [{
+   "data": {
+    "id": "z5cYySta3b",
+    "created": 1646116900511,
+    "text": "現藏錄（日本 證空撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYySta2w",
+      "created": 1646116900511,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYySta2x",
+        "created": 1646116900511,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYySta2y",
+        "created": 1646116900511,
+        "text": "女院御書",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYySta2z",
+        "created": 1646116900511,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYySta30",
+        "created": 1646116900511,
+        "text": "女院御书",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYySta31",
+        "created": 1646116900511,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYySta32",
+        "created": 1646116900511,
+        "text": "nv yuan yu shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYySta33",
+      "created": 1646116900511,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYySta34",
+      "created": 1646116900511,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYySta35",
+      "created": 1646116900511,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYySta36",
+       "created": 1646116900511,
+       "text": "日本 證空撰"
+      }},
+      {"data": {
+       "id": "z5cYySta37",
+       "created": 1646116900511,
+       "text": "證空",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYySta38",
+      "created": 1646116900511,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYySta39",
+      "created": 1646116900511,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYySta3A",
+      "created": 1646116900511,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYySta3B",
+       "created": 1646116900511,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3C",
+       "created": 1646116900511,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3D",
+       "created": 1646116900511,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3E",
+       "created": 1646116900511,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3F",
+       "created": 1646116900511,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3G",
+       "created": 1646116900511,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3H",
+       "created": 1646116900511,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3I",
+       "created": 1646116900511,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3J",
+       "created": 1646116900511,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3K",
+       "created": 1646116900511,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3L",
+       "created": 1646116900511,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3M",
+       "created": 1646116900511,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3N",
+       "created": 1646116900511,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3O",
+       "created": 1646116900511,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3P",
+       "created": 1646116900511,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3Q",
+       "created": 1646116900511,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3R",
+       "created": 1646116900511,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3S",
+       "created": 1646116900511,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3T",
+       "created": 1646116900511,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3U",
+       "created": 1646116900511,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3V",
+       "created": 1646116900511,
+       "text": "【大正藏】No.2624《女院御書》日本 證空撰 部別：續諸宗部十四 / 冊數：83 / 頁數：395 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYySta3W",
+       "created": 1646116900511,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3X",
+       "created": 1646116900511,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3Y",
+       "created": 1646116900511,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3Z",
+       "created": 1646116900511,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySta3a",
+       "created": 1646116900511,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2624"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1en26d",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "大清三藏聖教目錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYzeMwMG",
+    "created": 1646116905066,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzeMwLe",
+      "created": 1646116905066,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzeMwLf",
+        "created": 1646116905066,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzeMwLg",
+        "created": 1646116905066,
+        "text": "大清三藏聖教目錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzeMwLh",
+        "created": 1646116905066,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzeMwLi",
+        "created": 1646116905066,
+        "text": "大清三藏圣教目录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzeMwLj",
+        "created": 1646116905066,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzeMwLk",
+        "created": 1646116905066,
+        "text": "da qing san zang sheng jiao mu lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzeMwLl",
+      "created": 1646116905066,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzeMwLm",
+      "created": 1646116905066,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzeMwLn",
+      "created": 1646116905066,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzeMwLo",
+      "created": 1646116905066,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzeMwLp",
+      "created": 1646116905066,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzeMwLq",
+       "created": 1646116905066,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLr",
+       "created": 1646116905066,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLs",
+       "created": 1646116905066,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLt",
+       "created": 1646116905066,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLu",
+       "created": 1646116905066,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLv",
+       "created": 1646116905066,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLw",
+       "created": 1646116905066,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLx",
+       "created": 1646116905066,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLy",
+       "created": 1646116905066,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwLz",
+       "created": 1646116905066,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM0",
+       "created": 1646116905066,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM1",
+       "created": 1646116905066,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM2",
+       "created": 1646116905066,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM3",
+       "created": 1646116905066,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM4",
+       "created": 1646116905066,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM5",
+       "created": 1646116905066,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM6",
+       "created": 1646116905066,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM7",
+       "created": 1646116905066,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM8",
+       "created": 1646116905066,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwM9",
+       "created": 1646116905066,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwMA",
+       "created": 1646116905066,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwMB",
+       "created": 1646116905066,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwMC",
+       "created": 1646116905066,
+       "text": "【中華藏】No.1938《大清三藏聖教目錄》 冊數：106 / 頁數：784 / 卷數：5 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYzeMwMD",
+       "created": 1646116905066,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwME",
+       "created": 1646116905066,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzeMwMF",
+       "created": 1646116905066,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：660"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4x63sp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

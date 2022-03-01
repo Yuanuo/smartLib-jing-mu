@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "唯識論聞書"},
+  "children": [{
+   "data": {
+    "id": "z5cYyEOW2B",
+    "created": 1646116899612,
+    "text": "現藏錄（日本 光胤記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyEOW1W",
+      "created": 1646116899612,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyEOW1X",
+        "created": 1646116899612,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEOW1Y",
+        "created": 1646116899612,
+        "text": "唯識論聞書",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEOW1Z",
+        "created": 1646116899612,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEOW1a",
+        "created": 1646116899612,
+        "text": "唯识论闻书",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEOW1b",
+        "created": 1646116899612,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEOW1c",
+        "created": 1646116899612,
+        "text": "wei shi lun wen shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEOW1d",
+      "created": 1646116899612,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEOW1e",
+      "created": 1646116899612,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEOW1f",
+      "created": 1646116899612,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEOW1g",
+       "created": 1646116899612,
+       "text": "日本 光胤記"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1h",
+       "created": 1646116899612,
+       "text": "光胤",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEOW1i",
+      "created": 1646116899612,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEOW1j",
+      "created": 1646116899612,
+      "text": "27"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEOW1k",
+      "created": 1646116899612,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEOW1l",
+       "created": 1646116899612,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1m",
+       "created": 1646116899612,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1n",
+       "created": 1646116899612,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1o",
+       "created": 1646116899612,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1p",
+       "created": 1646116899612,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1q",
+       "created": 1646116899612,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1r",
+       "created": 1646116899612,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1s",
+       "created": 1646116899612,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1t",
+       "created": 1646116899612,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1u",
+       "created": 1646116899612,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1v",
+       "created": 1646116899612,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1w",
+       "created": 1646116899612,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1x",
+       "created": 1646116899612,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1y",
+       "created": 1646116899612,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW1z",
+       "created": 1646116899612,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW20",
+       "created": 1646116899612,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW21",
+       "created": 1646116899612,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW22",
+       "created": 1646116899612,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW23",
+       "created": 1646116899612,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW24",
+       "created": 1646116899612,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW25",
+       "created": 1646116899612,
+       "text": "【大正藏】No.2264《唯識論聞書》日本 光胤記 部別：續論疏部四 / 冊數：66 / 頁數：597 / 卷數：27 相關經典： 參考資料：cf.Nos.1585,2261,2262,2265,2267"
+      }},
+      {"data": {
+       "id": "z5cYyEOW26",
+       "created": 1646116899612,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW27",
+       "created": 1646116899612,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW28",
+       "created": 1646116899612,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW29",
+       "created": 1646116899612,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEOW2A",
+       "created": 1646116899612,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2264"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0po1w4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

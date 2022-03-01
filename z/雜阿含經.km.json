@@ -1,0 +1,659 @@
+{
+ "root": {
+  "data": {"text": "雜阿含經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwSv1Oh",
+     "created": 1646116892825,
+     "text": "現藏錄（劉宋 求那跋陀羅譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwSu1Nk",
+       "created": 1646116892824,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwSu1Nl",
+         "created": 1646116892824,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwSu1Nm",
+         "created": 1646116892824,
+         "text": "雜阿含經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwSu1Nn",
+         "created": 1646116892824,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwSu1No",
+         "created": 1646116892824,
+         "text": "杂阿含经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwSu1Np",
+         "created": 1646116892824,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwSu1Nq",
+         "created": 1646116892824,
+         "text": "za a han jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwSu1Ny",
+         "created": 1646116892824,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwSu1Nz",
+         "created": 1646116892824,
+         "text": "Tsa a han ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwSu1O0",
+         "created": 1646116892824,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwSu1O1",
+         "created": 1646116892824,
+         "text": "Saṁyuktāgamasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwSu1O2",
+         "created": 1646116892824,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwSu1O3",
+         "created": 1646116892824,
+         "text": "Lhaḥi mdo ñuṅ-ṅu"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwSu1O4",
+         "created": 1646116892824,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwSu1O5",
+         "created": 1646116892824,
+         "text": "잡아함경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwSu1Nr",
+       "created": 1646116892824,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwSu1Ns",
+       "created": 1646116892824,
+       "text": "劉宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwSu1Nt",
+       "created": 1646116892824,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwSu1Nu",
+        "created": 1646116892824,
+        "text": "劉宋 求那跋陀羅譯"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Nv",
+        "created": 1646116892824,
+        "text": "求那跋陀羅",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwSu1Nw",
+       "created": 1646116892824,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwSu1Nx",
+       "created": 1646116892824,
+       "text": "50"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwSu1O6",
+       "created": 1646116892824,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwSu1O7",
+       "created": 1646116892824,
+       "text": "Translation by Guṇabhadra: between the 12th and 20th years of Yüan Chia (元嘉) , Liu Sung dynasty (劉宋) (A.D. 435-443) at Wa-kuan Monastery (瓦官寺), Yang-tu (楊都). T. 2151-362b:4."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwSu1O8",
+       "created": 1646116892824,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwSu1O9",
+        "created": 1646116892824,
+        "text": "【北京版】Mdo-sna-tshogs (lu)287b-291aMdo-sna-tshogs (lu)291b-293aMdo-sna-tshogs (lu)224a-225bMdo-sna-tshogs (śu)267a-268a"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OA",
+        "created": 1646116892824,
+        "text": "【奈塘版】Mdo (ra)403a-409aMdo (ra)409a-411bMdo (ra)458a-460bMdo (la)408a-409a"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OB",
+        "created": 1646116892824,
+        "text": "【德格版】Mdo-sde (śa)262a-265bMdo-sde (śa)265b-267aMdo-sde (śa)295b-297aMdo-sde (sa)258b-259b"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OC",
+        "created": 1646116892824,
+        "text": "【拉薩版】Mdo (ra)495a-501aMdo (ra)501a-503bMdo (ra)594b-551bMdo (la)395b-396b"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OD",
+        "created": 1646116892824,
+        "text": "【卓尼版】Mdo-maṅ (śa)309b-314aMdo-maṅ (śa)314a-315bMdo-maṅ (śa)350b-352aMdo-maṅ (śa)311a-312a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwSu1OE",
+       "created": 1646116892824,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwSu1OF",
+       "created": 1646116892824,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwSu1OG",
+       "created": 1646116892824,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwSu1OH",
+        "created": 1646116892824,
+        "text": "【房山石經】No.741《雜阿含經》(劉宋)天竺三藏求那跋陀羅譯 冊數：23 / 頁數：1 / 刻經年代：大定四年刻石 / 瀏覽：目錄圖檔 千字文：盛-息"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OI",
+        "created": 1646116892824,
+        "text": "【開寶藏】No.646《雜阿含經》劉宋 天竺三藏求那跋陀羅 譯 部別：小乘經 小乘經重單合譯 / 卷數：50 千字文：松-流"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OJ",
+        "created": 1646116892824,
+        "text": "【崇寧藏】No.648《雜阿含經》 卷數：50 千字文：之(271)-不(275)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OK",
+        "created": 1646116892824,
+        "text": "【毘盧藏】No.649《雜阿含經》宋求那跋陀羅譯 千字文：之(271)-不(275)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OL",
+        "created": 1646116892824,
+        "text": "【圓覺藏】No.657《雜阿含經》 卷數：50 千字文：之(271)-不(275)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OM",
+        "created": 1646116892824,
+        "text": "【趙城金藏】No.651《雜阿含經》 卷數：50 千字文：松-流"
+       }},
+       {"data": {
+        "id": "z5cYwSu1ON",
+        "created": 1646116892824,
+        "text": "【資福藏】No.662《雜阿含經》 卷數：50 (五十卷) 千字文：之(271)-不(275)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OO",
+        "created": 1646116892824,
+        "text": "【磧砂藏】No.668《雜阿含經》宋 求那跋陀羅譯 部別：阿含部 / 冊數：18 / 頁數：105 / 卷數：50 千字文：之 1 (271)-不 10 (275)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OP",
+        "created": 1646116892824,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OQ",
+        "created": 1646116892824,
+        "text": "【高麗藏】No.650《雜阿含經》宋天竺三藏求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：18 頁數：707 / 卷數：50 / 連結：高麗大藏經 (圖檔) 千字文：松-流"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OR",
+        "created": 1646116892824,
+        "text": "【普寧藏】No.660《雜阿含經》 卷數：50 千字文：之(271)-不(275)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OS",
+        "created": 1646116892824,
+        "text": "【至元錄】No.890《雜阿含經》宋天竺三藏求那拔陀羅譯 梵名：散瑜乞(二合)怛迦　阿甘 / 卷數：50 / 譯次：(重單合譯) 千字文：令(296)-基(300)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OT",
+        "created": 1646116892824,
+        "text": "【洪武南藏】No.588《雜阿含經》宋 天竺三藏求那跋陀羅 譯 冊數：94-96 / 頁數：426 / 卷數：50 千字文：之 1 (271)-不 10 (275)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OU",
+        "created": 1646116892824,
+        "text": "【永樂南藏】No.538《雜阿含經》 部別：小乘經-阿含部 千字文：谷(218)-堂(222)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OV",
+        "created": 1646116892824,
+        "text": "【永樂北藏】No.572《雜阿含經》劉宋求那跋陀羅譯 部別：小乘經阿含部 / 冊數：58-59 / 頁數：1 / 卷數：50 千字文：谷-堂"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OW",
+        "created": 1646116892824,
+        "text": "【嘉興藏】No.539《雜阿含經》劉宋求那跋陀羅譯 部別：小乘經-阿含部 / 法寶總目錄經號：0539 千字文 / 函號：［正藏］ 谷(218)-堂(222)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OX",
+        "created": 1646116892824,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OY",
+        "created": 1646116892824,
+        "text": "【乾隆藏】No.540《雜阿含經》宋 求那跋陀羅譯 部別：小乘阿含部 / 冊數：48-50 / 頁數：739 / 卷數：50 千字文：穀-堂"
+       }},
+       {"data": {
+        "id": "z5cYwSu1OZ",
+        "created": 1646116892824,
+        "text": "【縮刻藏】No.572《雜阿含經》宋求那跋陀羅譯 部別：小乘經 / 卷數：50 千字文：辰 2 (13)-辰 4 (13)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Oa",
+        "created": 1646116892824,
+        "text": "【卍正藏】No.547《雜阿含經》宋 求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：23-24 / 頁數：653 / 卷數：50 原版套數：第 13 套"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Ob",
+        "created": 1646116892824,
+        "text": "【大正藏】No.99《雜阿含經》劉宋 求那跋陀羅譯 部別：阿含部下 / 冊數：2 / 頁數：1 / 卷數：50 相關經典：縮-辰2-4,卍-13.5-7,南-12-16,國-阿1-3 參考資料：一三六二經cf.Nos.19,38,51,61-63,100,102-124"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Oc",
+        "created": 1646116892824,
+        "text": "【佛教大藏經】No.580《雜阿含經》劉宋 求那跋陀羅譯 部別：小乘經 阿含部三 / 冊數：25 / 頁數：233 / 卷數：50"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Od",
+        "created": 1646116892824,
+        "text": "【中華藏】No.700《雜阿含經》宋天竺三藏求那跋陀羅譯 冊數：32-33 / 頁數：614 / 卷數：50 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Oe",
+        "created": 1646116892824,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Of",
+        "created": 1646116892824,
+        "text": "【南條文雄編號】 Nj. 0544"
+       }},
+       {"data": {
+        "id": "z5cYwSu1Og",
+        "created": 1646116892824,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：99"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwT71QN",
+     "created": 1646116892837,
+     "text": "現藏錄（失譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwT51PY",
+       "created": 1646116892835,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwT51PZ",
+         "created": 1646116892835,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwT51Pa",
+         "created": 1646116892835,
+         "text": "雜阿含經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwT51Pb",
+         "created": 1646116892835,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwT51Pc",
+         "created": 1646116892835,
+         "text": "杂阿含经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwT51Pd",
+         "created": 1646116892835,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwT51Pe",
+         "created": 1646116892835,
+         "text": "za a han jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwT51Pj",
+         "created": 1646116892835,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwT51Pk",
+         "created": 1646116892835,
+         "text": "Tsa a han ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwT51Pl",
+         "created": 1646116892835,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwT51Pm",
+         "created": 1646116892835,
+         "text": "Saṁyuktāgamasūtra"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwT51Pn",
+         "created": 1646116892835,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwT51Po",
+         "created": 1646116892835,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwT51Pp",
+         "created": 1646116892835,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwT51Pq",
+         "created": 1646116892835,
+         "text": "잡아함경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwT51Pf",
+       "created": 1646116892835,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYwT51Pg",
+       "created": 1646116892835,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwT51Ph",
+       "created": 1646116892835,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwT51Pi",
+       "created": 1646116892835,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwT51Pr",
+       "created": 1646116892835,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwT51Ps",
+       "created": 1646116892835,
+       "text": "Translator unknown: Wu or Wei dynasties (呉一魏代) (A.D. 222-280).T. 2155-739a:2."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwT51Pt",
+      "created": 1646116892835,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwT61Pu",
+       "created": 1646116892836,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwT61Pv",
+       "created": 1646116892836,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwT61Pw",
+       "created": 1646116892836,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwT61Px",
+        "created": 1646116892836,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Py",
+        "created": 1646116892836,
+        "text": "【開寶藏】No.742《雜阿含經》曹魏、吳 失譯者 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：言"
+       }},
+       {"data": {
+        "id": "z5cYwT61Pz",
+        "created": 1646116892836,
+        "text": "【崇寧藏】No.743《雜阿含經》 卷數：1 千字文：思(284)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q0",
+        "created": 1646116892836,
+        "text": "【毘盧藏】No.744《雜阿含經》失譯 千字文：思(284)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q1",
+        "created": 1646116892836,
+        "text": "【圓覺藏】No.751《雜阿含經》 千字文：思(284)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q2",
+        "created": 1646116892836,
+        "text": "【趙城金藏】No.747《雜阿含經》 卷數：1 千字文：若"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q3",
+        "created": 1646116892836,
+        "text": "【資福藏】No.757《雜阿含經》 卷數：1 千字文：思(284)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q4",
+        "created": 1646116892836,
+        "text": "【磧砂藏】No.763《雜阿含經》失譯 部別：阿含部 / 冊數：19 / 頁數：26 / 卷數：1 千字文：思 6 (284)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q5",
+        "created": 1646116892836,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q6",
+        "created": 1646116892836,
+        "text": "【高麗藏】No.745《雜阿含經》附吳魏二錄 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：700(原版) 726(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：若"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q7",
+        "created": 1646116892836,
+        "text": "【普寧藏】No.755《雜阿含經》 卷數：1 千字文：思(284)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q8",
+        "created": 1646116892836,
+        "text": "【至元錄】No.985《雜阿含經》失譯人名 卷數：1 / 出處：(在魏吳錄) 千字文：攝(309)"
+       }},
+       {"data": {
+        "id": "z5cYwT61Q9",
+        "created": 1646116892836,
+        "text": "【洪武南藏】No.683《雜阿含經》失譯人名附吴魏二錄 冊數：99 / 頁數：571 / 卷數：1 千字文：思 6 (284)"
+       }},
+       {"data": {
+        "id": "z5cYwT61QA",
+        "created": 1646116892836,
+        "text": "【永樂南藏】No.537《別譯雜阿含經》 部別：小乘經-阿含部 千字文：習(223)-聽(224)"
+       }},
+       {"data": {
+        "id": "z5cYwT61QB",
+        "created": 1646116892836,
+        "text": "【永樂北藏】No.577《雜阿含經》失譯人名附吳魏二錄 部別：小乘經阿含部 / 冊數：60 / 頁數：675 / 卷數：1 千字文：因"
+       }},
+       {"data": {
+        "id": "z5cYwT61QC",
+        "created": 1646116892836,
+        "text": "【嘉興藏】No.542《雜阿含經》失譯人名附吳魏二錄 部別：小乘經-阿含部 / 法寶總目錄經號：0542 千字文 / 函號：［正藏］ 因(226)"
+       }},
+       {"data": {
+        "id": "z5cYwT61QD",
+        "created": 1646116892836,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwT61QE",
+        "created": 1646116892836,
+        "text": "【乾隆藏】No.543《雜阿含經》失譯人名附吳魏二錄 部別：小乘阿含部 / 冊數：51 / 頁數：49 / 卷數：1 千字文：因"
+       }},
+       {"data": {
+        "id": "z5cYwT61QF",
+        "created": 1646116892836,
+        "text": "【縮刻藏】No.574《雜阿含經》失譯 部別：小乘經 / 卷數：1 千字文：辰 6 (13)"
+       }},
+       {"data": {
+        "id": "z5cYwT61QG",
+        "created": 1646116892836,
+        "text": "【卍正藏】No.550《雜阿含經》附吳魏二錄 部別：小乘經 阿含部 / 冊數：24 / 頁數：863 / 卷數：1 原版套數：第 13 套"
+       }},
+       {"data": {
+        "id": "z5cYwT61QH",
+        "created": 1646116892836,
+        "text": "【大正藏】No.101《雜阿含經》失譯 部別：阿含部下 / 冊數：2 / 頁數：493 / 卷數：1 相關經典：縮-辰6,卍-13.10 參考資料：二七經cf.No.111"
+       }},
+       {"data": {
+        "id": "z5cYwT61QI",
+        "created": 1646116892836,
+        "text": "【佛教大藏經】No.582《雜阿含經》失譯 部別：小乘經 阿含部四 / 冊數：26 / 頁數：1 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwT61QJ",
+        "created": 1646116892836,
+        "text": "【中華藏】No.811《雜阿含經》失譯 冊數：34 / 頁數：345 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwT61QK",
+        "created": 1646116892836,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwT61QL",
+        "created": 1646116892836,
+        "text": "【南條文雄編號】 Nj. 0547"
+       }},
+       {"data": {
+        "id": "z5cYwT61QM",
+        "created": 1646116892836,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：101"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvh32q",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

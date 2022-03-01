@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大明高僧傳"},
+  "children": [{
+   "data": {
+    "id": "z5cYy5vTOM",
+    "created": 1646116899087,
+    "text": "現藏錄（明 如惺撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy5vTNh",
+      "created": 1646116899087,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy5vTNi",
+        "created": 1646116899087,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5vTNj",
+        "created": 1646116899087,
+        "text": "大明高僧傳",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy5vTNk",
+        "created": 1646116899087,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5vTNl",
+        "created": 1646116899087,
+        "text": "大明高僧传",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy5vTNm",
+        "created": 1646116899087,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy5vTNn",
+        "created": 1646116899087,
+        "text": "da ming gao seng chuan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy5vTNo",
+      "created": 1646116899087,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy5vTNp",
+      "created": 1646116899087,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy5vTNq",
+      "created": 1646116899087,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy5vTNr",
+       "created": 1646116899087,
+       "text": "明 如惺撰"
+      }},
+      {"data": {
+       "id": "z5cYy5vTNs",
+       "created": 1646116899087,
+       "text": "如惺",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy5vTNt",
+      "created": 1646116899087,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy5vTNu",
+      "created": 1646116899087,
+      "text": "8"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy5vTNv",
+      "created": 1646116899087,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy5vTNw",
+       "created": 1646116899087,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTNx",
+       "created": 1646116899087,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTNy",
+       "created": 1646116899087,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTNz",
+       "created": 1646116899087,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO0",
+       "created": 1646116899087,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO1",
+       "created": 1646116899087,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO2",
+       "created": 1646116899087,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO3",
+       "created": 1646116899087,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO4",
+       "created": 1646116899087,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO5",
+       "created": 1646116899087,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO6",
+       "created": 1646116899087,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO7",
+       "created": 1646116899087,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO8",
+       "created": 1646116899087,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTO9",
+       "created": 1646116899087,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOA",
+       "created": 1646116899087,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOB",
+       "created": 1646116899087,
+       "text": "【嘉興藏】No.1758《明高僧傳》明釋如惺撰 部別：續藏 / 法寶總目錄經號：1757 千字文 / 函號：［續藏］ 44 函"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOC",
+       "created": 1646116899087,
+       "text": "【嘉興藏新文豐版】［續藏］No.102《大明高僧傳》明 如惺撰 冊數：20 / 頁數：623 / 卷數：8"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOD",
+       "created": 1646116899087,
+       "text": "【乾隆藏】No.1471《明高僧傳》明 釋如惺撰 部別：此土著述 / 冊數：113 / 頁數：213 / 卷數：6 千字文：千"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOE",
+       "created": 1646116899087,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOF",
+       "created": 1646116899087,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOG",
+       "created": 1646116899087,
+       "text": "【大正藏】No.2062《大明高僧傳》明 如惺撰 部別：史傳部二 / 冊數：50 / 頁數：901 / 卷數：8 相關經典：續-2.乙.7.3,國-史傳20 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy5vTOH",
+       "created": 1646116899087,
+       "text": "【佛教大藏經】No.2102《大明高僧傳》明 如惺撰 部別：撰述部 密宗 / 冊數：84 / 頁數：897 / 卷數：8"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOI",
+       "created": 1646116899087,
+       "text": "【中華藏】No.1184《明高僧傳》明天台山慈雲禪寺沙門釋如惺撰 冊數：62 / 頁數：307 / 卷數：6 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOJ",
+       "created": 1646116899087,
+       "text": "【新纂卍續藏】No.1525《大明高僧傳》明 如惺撰 部別：中國撰述 史傳部三 諸宗通傳 / 冊數：77 / 頁數：544 / 卷數：8 《卍大日本續藏經》套數：第二編乙．第 7 套 《卍續藏經》(新文豐版)冊數：第 134 冊"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOK",
+       "created": 1646116899087,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy5vTOL",
+       "created": 1646116899087,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2062"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0b31pn",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

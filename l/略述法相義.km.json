@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "略述法相義"},
+  "children": [{
+   "data": {
+    "id": "z5cYyG8WbJ",
+    "created": 1646116899720,
+    "text": "現藏錄（日本 聞證撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyG8Wae",
+      "created": 1646116899720,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyG8Waf",
+        "created": 1646116899720,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyG8Wag",
+        "created": 1646116899720,
+        "text": "略述法相義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyG8Wah",
+        "created": 1646116899720,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyG8Wai",
+        "created": 1646116899720,
+        "text": "略述法相义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyG8Waj",
+        "created": 1646116899720,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyG8Wak",
+        "created": 1646116899720,
+        "text": "lve shu fa xiang yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyG8Wal",
+      "created": 1646116899720,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyG8Wam",
+      "created": 1646116899720,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyG8Wan",
+      "created": 1646116899720,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyG8Wao",
+       "created": 1646116899720,
+       "text": "日本 聞證撰"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wap",
+       "created": 1646116899720,
+       "text": "聞證",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyG8Waq",
+      "created": 1646116899720,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyG8War",
+      "created": 1646116899720,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyG8Was",
+      "created": 1646116899720,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyG8Wat",
+       "created": 1646116899720,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wau",
+       "created": 1646116899720,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wav",
+       "created": 1646116899720,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Waw",
+       "created": 1646116899720,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wax",
+       "created": 1646116899720,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Way",
+       "created": 1646116899720,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Waz",
+       "created": 1646116899720,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb0",
+       "created": 1646116899720,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb1",
+       "created": 1646116899720,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb2",
+       "created": 1646116899720,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb3",
+       "created": 1646116899720,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb4",
+       "created": 1646116899720,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb5",
+       "created": 1646116899720,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb6",
+       "created": 1646116899720,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb7",
+       "created": 1646116899720,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb8",
+       "created": 1646116899720,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8Wb9",
+       "created": 1646116899720,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbA",
+       "created": 1646116899720,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbB",
+       "created": 1646116899720,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbC",
+       "created": 1646116899720,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbD",
+       "created": 1646116899720,
+       "text": "【大正藏】No.2315《略述法相義》日本 聞證撰 部別：續諸宗部二 / 冊數：71 / 頁數：121 / 卷數：3 相關經典：國-諸宗15 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyG8WbE",
+       "created": 1646116899720,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbF",
+       "created": 1646116899720,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbG",
+       "created": 1646116899720,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbH",
+       "created": 1646116899720,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyG8WbI",
+       "created": 1646116899720,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2315"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0sn1xk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

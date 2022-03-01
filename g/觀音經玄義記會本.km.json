@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "觀音經玄義記會本"},
+  "children": [{
+   "data": {
+    "id": "z5cYzePwNY",
+    "created": 1646116905069,
+    "text": "現藏錄（隋 智顗說　宋 知禮述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzePwMu",
+      "created": 1646116905069,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzePwMv",
+        "created": 1646116905069,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzePwMw",
+        "created": 1646116905069,
+        "text": "觀音經玄義記會本",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzePwMx",
+        "created": 1646116905069,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzePwMy",
+        "created": 1646116905069,
+        "text": "观音经玄义记会本",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzePwMz",
+        "created": 1646116905069,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzePwN0",
+        "created": 1646116905069,
+        "text": "guan yin jing xuan yi ji hui ben"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzePwN1",
+      "created": 1646116905069,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzePwN2",
+      "created": 1646116905069,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzePwN3",
+      "created": 1646116905069,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzePwN4",
+      "created": 1646116905069,
+      "text": "隋 智顗說　宋 知禮述"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzePwN5",
+      "created": 1646116905069,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzePwN6",
+      "created": 1646116905069,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzePwN7",
+      "created": 1646116905069,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzePwN8",
+       "created": 1646116905069,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwN9",
+       "created": 1646116905069,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNA",
+       "created": 1646116905069,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNB",
+       "created": 1646116905069,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNC",
+       "created": 1646116905069,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwND",
+       "created": 1646116905069,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNE",
+       "created": 1646116905069,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNF",
+       "created": 1646116905069,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNG",
+       "created": 1646116905069,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNH",
+       "created": 1646116905069,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNI",
+       "created": 1646116905069,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNJ",
+       "created": 1646116905069,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNK",
+       "created": 1646116905069,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNL",
+       "created": 1646116905069,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNM",
+       "created": 1646116905069,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNN",
+       "created": 1646116905069,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNO",
+       "created": 1646116905069,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNP",
+       "created": 1646116905069,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNQ",
+       "created": 1646116905069,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNR",
+       "created": 1646116905069,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNS",
+       "created": 1646116905069,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNT",
+       "created": 1646116905069,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNU",
+       "created": 1646116905069,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNV",
+       "created": 1646116905069,
+       "text": "【新纂卍續藏】No.642《觀音經玄義記會本》隋 智顗說　宋 知禮述　日本 實乘分會 部別：中國撰述 大小乘釋經部三十三 法華部疏 / 冊數：35 / 頁數：27 / 卷數：4 《卍大日本續藏經》套數：第一編．第 55 套 《卍續藏經》(新文豐版)冊數：第 55 冊"
+      }},
+      {"data": {
+       "id": "z5cYzePwNW",
+       "created": 1646116905069,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzePwNX",
+       "created": 1646116905069,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：960"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4x93sr",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

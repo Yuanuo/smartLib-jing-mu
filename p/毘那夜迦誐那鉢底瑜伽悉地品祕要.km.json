@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "毘那夜迦誐那鉢底瑜伽悉地品祕要"},
+  "children": [{
+   "data": {
+    "id": "z5cYxXLIv1",
+    "created": 1646116896943,
+    "text": "現藏錄（唐 含光記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxXLIuM",
+      "created": 1646116896943,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxXLIuN",
+        "created": 1646116896943,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxXLIuO",
+        "created": 1646116896943,
+        "text": "毘那夜迦誐那鉢底瑜伽悉地品祕要",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxXLIuP",
+        "created": 1646116896943,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxXLIuQ",
+        "created": 1646116896943,
+        "text": "毘那夜迦誐那钵底瑜伽悉地品秘要",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxXLIuR",
+        "created": 1646116896943,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxXLIuS",
+        "created": 1646116896943,
+        "text": "pi na ye jia e na bo di yu jia xi di pin mi yao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxXLIuT",
+      "created": 1646116896943,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxXLIuU",
+      "created": 1646116896943,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxXLIuV",
+      "created": 1646116896943,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxXLIuW",
+       "created": 1646116896943,
+       "text": "唐 含光記"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuX",
+       "created": 1646116896943,
+       "text": "含光",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxXLIuY",
+      "created": 1646116896943,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxXLIuZ",
+      "created": 1646116896943,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxXLIua",
+      "created": 1646116896943,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxXLIub",
+       "created": 1646116896943,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuc",
+       "created": 1646116896943,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIud",
+       "created": 1646116896943,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIue",
+       "created": 1646116896943,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuf",
+       "created": 1646116896943,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIug",
+       "created": 1646116896943,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuh",
+       "created": 1646116896943,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIui",
+       "created": 1646116896943,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuj",
+       "created": 1646116896943,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuk",
+       "created": 1646116896943,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIul",
+       "created": 1646116896943,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIum",
+       "created": 1646116896943,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIun",
+       "created": 1646116896943,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuo",
+       "created": 1646116896943,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIup",
+       "created": 1646116896943,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuq",
+       "created": 1646116896943,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIur",
+       "created": 1646116896943,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIus",
+       "created": 1646116896943,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIut",
+       "created": 1646116896943,
+       "text": "【縮刻藏】No.1399《毘那夜迦誐那鉢底瑜伽悉地品祕要》含光記 部別：祕密部 / 卷數：1 千字文：餘 4 (26)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuu",
+       "created": 1646116896943,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuv",
+       "created": 1646116896943,
+       "text": "【大正藏】No.1273《毘那夜迦誐那鉢底瑜伽悉地品祕要》唐 含光記 部別：密教部四 / 冊數：21 / 頁數：321 / 卷數：1 相關經典：縮-餘4,續-2.9.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxXLIuw",
+       "created": 1646116896943,
+       "text": "【佛教大藏經】No.1472《毘那夜迦誐那鉢底瑜伽悉地品秘要》唐 含光記 部別：密教部三 / 冊數：54 / 頁數：579 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxXLIux",
+       "created": 1646116896943,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuy",
+       "created": 1646116896943,
+       "text": "【新纂卍續藏】No.1058《毗那夜迦誐那鉢底瑜伽悉地品秘要》唐 含光記 部別：中國撰述 諸宗著述部六 真言宗 / 冊數：59 / 頁數：104 / 卷數：1 《卍大日本續藏經》套數：第二編．第 9 套 《卍續藏經》(新文豐版)冊數：第 104 冊"
+      }},
+      {"data": {
+       "id": "z5cYxXLIuz",
+       "created": 1646116896943,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxXLIv0",
+       "created": 1646116896943,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1273"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhynj12o",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

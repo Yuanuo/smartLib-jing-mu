@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "淨土疑端"},
+  "children": [{
+   "data": {
+    "id": "z5cYyC0VJJ",
+    "created": 1646116899464,
+    "text": "現藏錄（日本 顯意述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyC0VIe",
+      "created": 1646116899464,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyC0VIf",
+        "created": 1646116899464,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyC0VIg",
+        "created": 1646116899464,
+        "text": "淨土疑端",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyC0VIh",
+        "created": 1646116899464,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyC0VIi",
+        "created": 1646116899464,
+        "text": "净土疑端",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyC0VIj",
+        "created": 1646116899464,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyC0VIk",
+        "created": 1646116899464,
+        "text": "jing tu yi duan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyC0VIl",
+      "created": 1646116899464,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyC0VIm",
+      "created": 1646116899464,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyC0VIn",
+      "created": 1646116899464,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyC0VIo",
+       "created": 1646116899464,
+       "text": "日本 顯意述"
+      }},
+      {"data": {
+       "id": "z5cYyC0VIp",
+       "created": 1646116899464,
+       "text": "顯意",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyC0VIq",
+      "created": 1646116899464,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyC0VIr",
+      "created": 1646116899464,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyC0VIs",
+      "created": 1646116899464,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyC0VIt",
+       "created": 1646116899464,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VIu",
+       "created": 1646116899464,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VIv",
+       "created": 1646116899464,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VIw",
+       "created": 1646116899464,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VIx",
+       "created": 1646116899464,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VIy",
+       "created": 1646116899464,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VIz",
+       "created": 1646116899464,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ0",
+       "created": 1646116899464,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ1",
+       "created": 1646116899464,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ2",
+       "created": 1646116899464,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ3",
+       "created": 1646116899464,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ4",
+       "created": 1646116899464,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ5",
+       "created": 1646116899464,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ6",
+       "created": 1646116899464,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ7",
+       "created": 1646116899464,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ8",
+       "created": 1646116899464,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJ9",
+       "created": 1646116899464,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJA",
+       "created": 1646116899464,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJB",
+       "created": 1646116899464,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJC",
+       "created": 1646116899464,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJD",
+       "created": 1646116899464,
+       "text": "【大正藏】No.2208A《淨土疑端》日本 顯意述 部別：續經疏部二 / 冊數：57 / 頁數：439 / 卷數：4 相關經典： 參考資料：cf.No.1753"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJE",
+       "created": 1646116899464,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJF",
+       "created": 1646116899464,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJG",
+       "created": 1646116899464,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJH",
+       "created": 1646116899464,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyC0VJI",
+       "created": 1646116899464,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2208"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0lk1u9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

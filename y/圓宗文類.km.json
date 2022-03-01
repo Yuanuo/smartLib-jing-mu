@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "圓宗文類"},
+  "children": [{
+   "data": {
+    "id": "z5cYzXfuJA",
+    "created": 1646116904651,
+    "text": "現藏錄（高麗 義天集）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzXfuIV",
+      "created": 1646116904651,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzXfuIW",
+        "created": 1646116904651,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXfuIX",
+        "created": 1646116904651,
+        "text": "圓宗文類",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzXfuIY",
+        "created": 1646116904651,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXfuIZ",
+        "created": 1646116904651,
+        "text": "圆宗文类",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzXfuIa",
+        "created": 1646116904651,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzXfuIb",
+        "created": 1646116904651,
+        "text": "yuan zong wen lei"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzXfuIc",
+      "created": 1646116904651,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzXfuId",
+      "created": 1646116904651,
+      "text": "高麗",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzXfuIe",
+      "created": 1646116904651,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzXfuIf",
+       "created": 1646116904651,
+       "text": "高麗 義天集"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIg",
+       "created": 1646116904651,
+       "text": "義天",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzXfuIh",
+      "created": 1646116904651,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzXfuIi",
+      "created": 1646116904651,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzXfuIj",
+      "created": 1646116904651,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzXfuIk",
+       "created": 1646116904651,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIl",
+       "created": 1646116904651,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIm",
+       "created": 1646116904651,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIn",
+       "created": 1646116904651,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIo",
+       "created": 1646116904651,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIp",
+       "created": 1646116904651,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIq",
+       "created": 1646116904651,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIr",
+       "created": 1646116904651,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIs",
+       "created": 1646116904651,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIt",
+       "created": 1646116904651,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIu",
+       "created": 1646116904651,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIv",
+       "created": 1646116904651,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIw",
+       "created": 1646116904651,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIx",
+       "created": 1646116904651,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIy",
+       "created": 1646116904651,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuIz",
+       "created": 1646116904651,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ0",
+       "created": 1646116904651,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ1",
+       "created": 1646116904651,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ2",
+       "created": 1646116904651,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ3",
+       "created": 1646116904651,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ4",
+       "created": 1646116904651,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ5",
+       "created": 1646116904651,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ6",
+       "created": 1646116904651,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ7",
+       "created": 1646116904651,
+       "text": "【新纂卍續藏】No.1015《圓宗文類》高麗 義天集 部別：中國撰述 諸宗著述部五 華嚴宗 / 冊數：58 / 頁數：530 / 卷數：0 《卍大日本續藏經》套數：第二編．第 8 套 《卍續藏經》(新文豐版)冊數：第 103 冊"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ8",
+       "created": 1646116904651,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzXfuJ9",
+       "created": 1646116904651,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1301"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4lm3nc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

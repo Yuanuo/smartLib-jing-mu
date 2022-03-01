@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "多羅葉記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyWEb0g",
+    "created": 1646116900718,
+    "text": "現藏錄（日本 心覺撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyWEb01",
+      "created": 1646116900718,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyWEb02",
+        "created": 1646116900718,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWEb03",
+        "created": 1646116900718,
+        "text": "多羅葉記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyWEb04",
+        "created": 1646116900718,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWEb05",
+        "created": 1646116900718,
+        "text": "多罗叶记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyWEb06",
+        "created": 1646116900718,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWEb07",
+        "created": 1646116900718,
+        "text": "duo luo ye ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyWEb08",
+      "created": 1646116900718,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyWEb09",
+      "created": 1646116900718,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyWEb0A",
+      "created": 1646116900718,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyWEb0B",
+       "created": 1646116900718,
+       "text": "日本 心覺撰"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0C",
+       "created": 1646116900718,
+       "text": "心覺",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyWEb0D",
+      "created": 1646116900718,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyWEb0E",
+      "created": 1646116900718,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyWEb0F",
+      "created": 1646116900718,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyWEb0G",
+       "created": 1646116900718,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0H",
+       "created": 1646116900718,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0I",
+       "created": 1646116900718,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0J",
+       "created": 1646116900718,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0K",
+       "created": 1646116900718,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0L",
+       "created": 1646116900718,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0M",
+       "created": 1646116900718,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0N",
+       "created": 1646116900718,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0O",
+       "created": 1646116900718,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0P",
+       "created": 1646116900718,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0Q",
+       "created": 1646116900718,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0R",
+       "created": 1646116900718,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0S",
+       "created": 1646116900718,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0T",
+       "created": 1646116900718,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0U",
+       "created": 1646116900718,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0V",
+       "created": 1646116900718,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0W",
+       "created": 1646116900718,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0X",
+       "created": 1646116900718,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0Y",
+       "created": 1646116900718,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0Z",
+       "created": 1646116900718,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0a",
+       "created": 1646116900718,
+       "text": "【大正藏】No.2707《多羅葉記》日本 心覺撰 部別：悉曇部全 / 冊數：84 / 頁數：569 / 卷數：3 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyWEb0b",
+       "created": 1646116900718,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0c",
+       "created": 1646116900718,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0d",
+       "created": 1646116900718,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0e",
+       "created": 1646116900718,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWEb0f",
+       "created": 1646116900718,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2707"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1ke28t",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

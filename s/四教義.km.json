@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "四教義"},
+  "children": [{
+   "data": {
+    "id": "z5cYy0dRgI",
+    "created": 1646116898759,
+    "text": "現藏錄（隋 智顗撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy0dRfd",
+      "created": 1646116898759,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy0dRfe",
+        "created": 1646116898759,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0dRff",
+        "created": 1646116898759,
+        "text": "四教義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0dRfg",
+        "created": 1646116898759,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0dRfh",
+        "created": 1646116898759,
+        "text": "四教义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0dRfi",
+        "created": 1646116898759,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0dRfj",
+        "created": 1646116898759,
+        "text": "si jiao yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0dRfk",
+      "created": 1646116898759,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0dRfl",
+      "created": 1646116898759,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0dRfm",
+      "created": 1646116898759,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0dRfn",
+       "created": 1646116898759,
+       "text": "隋 智顗撰"
+      }},
+      {"data": {
+       "id": "z5cYy0dRfo",
+       "created": 1646116898759,
+       "text": "智顗",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0dRfp",
+      "created": 1646116898759,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0dRfq",
+      "created": 1646116898759,
+      "text": "12"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0dRfr",
+      "created": 1646116898759,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0dRfs",
+       "created": 1646116898759,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRft",
+       "created": 1646116898759,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRfu",
+       "created": 1646116898759,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRfv",
+       "created": 1646116898759,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRfw",
+       "created": 1646116898759,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRfx",
+       "created": 1646116898759,
+       "text": "【趙城金藏】No.1533《四教義》 卷數：4 千字文：穡"
+      }},
+      {"data": {
+       "id": "z5cYy0dRfy",
+       "created": 1646116898759,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRfz",
+       "created": 1646116898759,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg0",
+       "created": 1646116898759,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg1",
+       "created": 1646116898759,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg2",
+       "created": 1646116898759,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg3",
+       "created": 1646116898759,
+       "text": "【至元錄】No.1617《四教義》天台智者大師撰 卷數：4 千字文：中(683)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg4",
+       "created": 1646116898759,
+       "text": "【洪武南藏】No.1410《四教義》天台山修禪寺沙門智顗 撰 冊數：221 / 頁數：405 / 卷數：6 千字文：昆 5 (633)-昆 10 (633)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg5",
+       "created": 1646116898759,
+       "text": "【永樂南藏】No.1545《四教義》 部別：此方撰述 千字文：弊(590)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg6",
+       "created": 1646116898759,
+       "text": "【永樂北藏】No.1651《四教義》隋智顗撰 部別：此土著述 / 冊數：166 / 頁數：717 / 卷數：6 千字文：弊"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg7",
+       "created": 1646116898759,
+       "text": "【嘉興藏】No.1561《四教義》隋智顗撰 部別：此土著述 / 法寶總目錄經號：1560 千字文 / 函號：［正藏］ 弊(590)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg8",
+       "created": 1646116898759,
+       "text": "【嘉興藏新文豐版】［正藏］No.78《四教義》隋 智顗撰 冊數：3 / 頁數：661 / 卷數：6"
+      }},
+      {"data": {
+       "id": "z5cYy0dRg9",
+       "created": 1646116898759,
+       "text": "【乾隆藏】No.1511《四教義》隋 智顗撰 部別：此土著述 / 冊數：120 / 頁數：175 / 卷數：6 千字文：伊"
+      }},
+      {"data": {
+       "id": "z5cYy0dRgA",
+       "created": 1646116898759,
+       "text": "【縮刻藏】No.1766《四教義》隋智顗撰 部別：支那撰述-諸宗部-天台宗 / 卷數：6 千字文：陽 8 (32)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRgB",
+       "created": 1646116898759,
+       "text": "【卍正藏】No.1576《四教義》隋 智顗撰 部別：此土著述 / 冊數：63 / 頁數：829 / 卷數：6 原版套數：第 33 套"
+      }},
+      {"data": {
+       "id": "z5cYy0dRgC",
+       "created": 1646116898759,
+       "text": "【大正藏】No.1929《四教義》隋 智顗撰 部別：諸宗部三 / 冊數：46 / 頁數：721 / 卷數：12 相關經典：縮-陽8,卍-33.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy0dRgD",
+       "created": 1646116898759,
+       "text": "【佛教大藏經】No.1965《四教義》隋 智顗撰 部別：諸宗部二 天台宗 / 冊數：69 / 頁數：391 / 卷數：12"
+      }},
+      {"data": {
+       "id": "z5cYy0dRgE",
+       "created": 1646116898759,
+       "text": "【中華藏】No.1835《四教義》天台山修禪寺沙門智顗撰 冊數：97 / 頁數：455 / 卷數：4 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy0dRgF",
+       "created": 1646116898759,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0dRgG",
+       "created": 1646116898759,
+       "text": "【南條文雄編號】 Nj. 1569"
+      }},
+      {"data": {
+       "id": "z5cYy0dRgH",
+       "created": 1646116898759,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1929"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri01z1lk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

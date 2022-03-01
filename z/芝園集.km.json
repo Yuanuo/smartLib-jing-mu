@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "芝園集"},
+  "children": [{
+   "data": {
+    "id": "z5cYzaRvD6",
+    "created": 1646116904823,
+    "text": "現藏錄（宋 元照作）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzaRvCR",
+      "created": 1646116904823,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzaRvCS",
+        "created": 1646116904823,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzaRvCT",
+        "created": 1646116904823,
+        "text": "芝園集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzaRvCU",
+        "created": 1646116904823,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzaRvCV",
+        "created": 1646116904823,
+        "text": "芝园集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzaRvCW",
+        "created": 1646116904823,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzaRvCX",
+        "created": 1646116904823,
+        "text": "zhi yuan ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzaRvCY",
+      "created": 1646116904823,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzaRvCZ",
+      "created": 1646116904823,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzaRvCa",
+      "created": 1646116904823,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzaRvCb",
+       "created": 1646116904823,
+       "text": "宋 元照作"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCc",
+       "created": 1646116904823,
+       "text": "元照",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzaRvCd",
+      "created": 1646116904823,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzaRvCe",
+      "created": 1646116904823,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzaRvCf",
+      "created": 1646116904823,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzaRvCg",
+       "created": 1646116904823,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCh",
+       "created": 1646116904823,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCi",
+       "created": 1646116904823,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCj",
+       "created": 1646116904823,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCk",
+       "created": 1646116904823,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCl",
+       "created": 1646116904823,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCm",
+       "created": 1646116904823,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCn",
+       "created": 1646116904823,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCo",
+       "created": 1646116904823,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCp",
+       "created": 1646116904823,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCq",
+       "created": 1646116904823,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCr",
+       "created": 1646116904823,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCs",
+       "created": 1646116904823,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCt",
+       "created": 1646116904823,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCu",
+       "created": 1646116904823,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCv",
+       "created": 1646116904823,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCw",
+       "created": 1646116904823,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCx",
+       "created": 1646116904823,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCy",
+       "created": 1646116904823,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvCz",
+       "created": 1646116904823,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvD0",
+       "created": 1646116904823,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvD1",
+       "created": 1646116904823,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvD2",
+       "created": 1646116904823,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvD3",
+       "created": 1646116904823,
+       "text": "【新纂卍續藏】No.1105《芝園集》宋 元照作 部別：中國撰述 諸宗著述部六 戒律宗 / 冊數：59 / 頁數：652 / 卷數：2 《卍大日本續藏經》套數：第二編．第 10 套 《卍續藏經》(新文豐版)冊數：第 105 冊"
+      }},
+      {"data": {
+       "id": "z5cYzaRvD4",
+       "created": 1646116904823,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzaRvD5",
+       "created": 1646116904823,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1341"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4qe3pp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

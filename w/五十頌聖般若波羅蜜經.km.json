@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "五十頌聖般若波羅蜜經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwe43de",
+    "created": 1646116893516,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwe33ch",
+      "created": 1646116893515,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwe33ci",
+        "created": 1646116893515,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwe33cj",
+        "created": 1646116893515,
+        "text": "五十頌聖般若波羅蜜經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwe33ck",
+        "created": 1646116893515,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwe33cl",
+        "created": 1646116893515,
+        "text": "五十颂圣般若波罗蜜经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwe33cm",
+        "created": 1646116893515,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwe33cn",
+        "created": 1646116893515,
+        "text": "wu shi song sheng bo re bo luo mi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwe33cv",
+        "created": 1646116893515,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwe33cw",
+        "created": 1646116893515,
+        "text": "Wu shih sung sheng p'an jo po lo mi ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwe33cx",
+        "created": 1646116893515,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwe33cy",
+        "created": 1646116893515,
+        "text": "Bhagavatīprajñāpāramitāpañcaśatikasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwe33cz",
+        "created": 1646116893515,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwe33d0",
+        "created": 1646116893515,
+        "text": "Bcom-ldan-ḥdas-ma śes-rab-kyi-pha-rol-tu-phyin-pa lṅa-bcu-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwe43d1",
+        "created": 1646116893516,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwe43d2",
+        "created": 1646116893516,
+        "text": "오십송성반야바라밀경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwe33co",
+      "created": 1646116893515,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwe33cp",
+      "created": 1646116893515,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwe33cq",
+      "created": 1646116893515,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwe33cr",
+       "created": 1646116893515,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYwe33cs",
+       "created": 1646116893515,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwe33ct",
+      "created": 1646116893515,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwe33cu",
+      "created": 1646116893515,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwe43d3",
+      "created": 1646116893516,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwe43d4",
+      "created": 1646116893516,
+      "text": "Translation by Dānapāla: (see K.1187)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwe43d5",
+      "created": 1646116893516,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwe43d6",
+       "created": 1646116893516,
+       "text": "【北京版】Śer-phyin (tsi)176a-178b"
+      }},
+      {"data": {
+       "id": "z5cYwe43d7",
+       "created": 1646116893516,
+       "text": "【奈塘版】Śer-phyin sna-tshogs (ka)252a-255b"
+      }},
+      {"data": {
+       "id": "z5cYwe43d8",
+       "created": 1646116893516,
+       "text": "【德格版】Śes-phyīn (ka)139b-142a"
+      }},
+      {"data": {
+       "id": "z5cYwe43d9",
+       "created": 1646116893516,
+       "text": "【拉薩版】Śer-phyin sna-tshogs (ka)248b-252b"
+      }},
+      {"data": {
+       "id": "z5cYwe43dA",
+       "created": 1646116893516,
+       "text": "【卓尼版】Śer-phyin sna-tshogs (ka)186a-189a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwe43dB",
+      "created": 1646116893516,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwe43dC",
+      "created": 1646116893516,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwe43dD",
+      "created": 1646116893516,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwe43dE",
+       "created": 1646116893516,
+       "text": "【房山石經】No.959《佛說五十頌聖般若波羅蜜經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：26 / 頁數：543 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：桓"
+      }},
+      {"data": {
+       "id": "z5cYwe43dF",
+       "created": 1646116893516,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dG",
+       "created": 1646116893516,
+       "text": "【崇寧藏】No.1190《五十頌聖般若波羅蜜經》 卷數：1 千字文：兵(504)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dH",
+       "created": 1646116893516,
+       "text": "【毘盧藏】No.1196《佛說五十頌聖般若波羅蜜經》宋施護譯 參考年代：(紹興一八．閏八) 千字文：兵(504) 【毘盧藏】No.1465《五十頌聖般若波羅蜜經》宋施護譯 千字文：旦(542)-營(544)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dI",
+       "created": 1646116893516,
+       "text": "【圓覺藏】No.1206《五千頌聖般若波羅蜜經》 千字文：兵(504)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dJ",
+       "created": 1646116893516,
+       "text": "【趙城金藏】No.1193《五十頌聖般若波羅蜜經》 卷數：1 千字文：八"
+      }},
+      {"data": {
+       "id": "z5cYwe43dK",
+       "created": 1646116893516,
+       "text": "【資福藏】No.1211《五十頌聖般若波羅蜜經》 卷數：1 千字文：兵(504)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dL",
+       "created": 1646116893516,
+       "text": "【磧砂藏】No.1220《佛說五十頌聖般若波羅蜜經》宋 施護譯 部別： / 冊數：33 / 頁數：48 / 卷數：1 千字文：兵 9 (504)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dM",
+       "created": 1646116893516,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dN",
+       "created": 1646116893516,
+       "text": "【高麗藏】No.1192《五十頌聖般若波羅蜜經》西天譯經三藏傳法大師施護譯 部別：宋續入藏經 / 冊數：34 頁數：221 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：八"
+      }},
+      {"data": {
+       "id": "z5cYwe43dO",
+       "created": 1646116893516,
+       "text": "【普寧藏】No.1211《佛說五千頌聖般若波羅蜜經》 卷數：1 千字文：兵(504)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dP",
+       "created": 1646116893516,
+       "text": "【至元錄】No.32《五十頌聖般若波羅蜜多經》宋天竺三藏施護譯 卷數：1 千字文：帝(76)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dQ",
+       "created": 1646116893516,
+       "text": "【洪武南藏】No.1070《佛說五千頌聖般若波羅密經》三藏大師施護 奉詔譯 冊數：181 / 頁數：421 / 卷數：1 千字文：兵 9 (504)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dR",
+       "created": 1646116893516,
+       "text": "【永樂南藏】No.877《佛說五十頌聖般若波羅蜜經》 部別：宋元入藏諸大小乘經 千字文：履(259)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dS",
+       "created": 1646116893516,
+       "text": "【永樂北藏】No.910《佛說五十頌聖般若波羅蜜經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：550 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYwe43dT",
+       "created": 1646116893516,
+       "text": "【嘉興藏】No.873《佛說五十頌聖般若波羅蜜經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0873 千字文 / 函號：［正藏］ 臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dU",
+       "created": 1646116893516,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dV",
+       "created": 1646116893516,
+       "text": "【乾隆藏】No.874《佛說五十頌聖般若波羅蜜經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：698 / 卷數：1 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYwe43dW",
+       "created": 1646116893516,
+       "text": "【縮刻藏】No.414《佛說五十頌聖般若波羅蜜經》宋施護譯 部別：大乘經-般若部 / 卷數：1 千字文：月 9 (10)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dX",
+       "created": 1646116893516,
+       "text": "【卍正藏】No.883《佛說五十頌聖般若波羅蜜經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：905 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwe43dY",
+       "created": 1646116893516,
+       "text": "【大正藏】No.248《佛說五十頌聖般若波羅蜜經》宋 施護譯 部別：般若部四 / 冊數：8 / 頁數：845 / 卷數：1 相關經典：縮-月9,卍-15.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwe43dZ",
+       "created": 1646116893516,
+       "text": "【佛教大藏經】No.417《佛說五十頌聖般若波羅蜜經》宋 施護譯 部別：大乘經 般若部八 / 冊數：20 / 頁數：612 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwe43da",
+       "created": 1646116893516,
+       "text": "【中華藏】No.1304《佛說五十頌聖般若波羅蜜經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：64 / 頁數：485 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwe43db",
+       "created": 1646116893516,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwe43dc",
+       "created": 1646116893516,
+       "text": "【南條文雄編號】 Nj. 0879"
+      }},
+      {"data": {
+       "id": "z5cYwe43dd",
+       "created": 1646116893516,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：248　卷中：47"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw0b75",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

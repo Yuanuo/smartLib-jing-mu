@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "龍王兄弟經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx119N7",
+    "created": 1646116894939,
+    "text": "現藏錄（吳 支謙譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx109MA",
+      "created": 1646116894938,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx109MB",
+        "created": 1646116894938,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx109MC",
+        "created": 1646116894938,
+        "text": "龍王兄弟經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx109MD",
+        "created": 1646116894938,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx109ME",
+        "created": 1646116894938,
+        "text": "龙王兄弟经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx109MF",
+        "created": 1646116894938,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx109MG",
+        "created": 1646116894938,
+        "text": "long wang xiong di jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx109MO",
+        "created": 1646116894938,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx109MP",
+        "created": 1646116894938,
+        "text": "Lung wang hsiung ti ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx109MQ",
+        "created": 1646116894938,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx109MR",
+        "created": 1646116894938,
+        "text": "Nandopanandanāgarājadamanasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx109MS",
+        "created": 1646116894938,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx109MT",
+        "created": 1646116894938,
+        "text": "Kluḥi rgyal-po dgaḥ-bo ñer-dgaḥ ḥdul-baḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx109MU",
+        "created": 1646116894938,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx109MV",
+        "created": 1646116894938,
+        "text": "용왕형제경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx109MH",
+      "created": 1646116894938,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx109MI",
+      "created": 1646116894938,
+      "text": "吳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx109MJ",
+      "created": 1646116894938,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx109MK",
+       "created": 1646116894938,
+       "text": "吳 支謙譯"
+      }},
+      {"data": {
+       "id": "z5cYx109ML",
+       "created": 1646116894938,
+       "text": "支謙",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx109MM",
+      "created": 1646116894938,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx109MN",
+      "created": 1646116894938,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx109MW",
+      "created": 1646116894938,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx109MX",
+      "created": 1646116894938,
+      "text": "Translation by Chih-ch'ien: between the 2nd year of Huang Wu (黃武) and the 2nd year of Chien Hsing (建興), Wu dynasty (呉) (A.D. 223-253).T. 2151-351b:21."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx109MY",
+      "created": 1646116894938,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx109MZ",
+       "created": 1646116894938,
+       "text": "【北京版】Śer-phyin (ka)295b-298a"
+      }},
+      {"data": {
+       "id": "z5cYx109Ma",
+       "created": 1646116894938,
+       "text": "【奈塘版】Śer-phyin (A)589a-592b"
+      }},
+      {"data": {
+       "id": "z5cYx109Mb",
+       "created": 1646116894938,
+       "text": "【德格版】Śes-phyin (ka)279a-281b"
+      }},
+      {"data": {
+       "id": "z5cYx109Mc",
+       "created": 1646116894938,
+       "text": "【拉薩版】Śer-phyin sna-tshogs (ka)434b-438b"
+      }},
+      {"data": {
+       "id": "z5cYx109Md",
+       "created": 1646116894938,
+       "text": "【卓尼版】Śer-phyin sna-tshogs (ka)311b-314a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx109Me",
+      "created": 1646116894938,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx109Mf",
+      "created": 1646116894938,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx109Mg",
+      "created": 1646116894938,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx119Mh",
+       "created": 1646116894939,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mi",
+       "created": 1646116894939,
+       "text": "【開寶藏】No.778《龍王兄弟經》吳 月支優婆塞支謙 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：安"
+      }},
+      {"data": {
+       "id": "z5cYx119Mj",
+       "created": 1646116894939,
+       "text": "【崇寧藏】No.779《龍王兄弟經》 卷數：1 千字文：辭(286)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mk",
+       "created": 1646116894939,
+       "text": "【毘盧藏】No.780《龍王兄弟經》吳支謙譯 千字文：辭(286)"
+      }},
+      {"data": {
+       "id": "z5cYx119Ml",
+       "created": 1646116894939,
+       "text": "【圓覺藏】No.787《龍王兄弟經》 千字文：辭(286)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mm",
+       "created": 1646116894939,
+       "text": "【趙城金藏】No.783《龍王兄弟經》 卷數：1 千字文：言"
+      }},
+      {"data": {
+       "id": "z5cYx119Mn",
+       "created": 1646116894939,
+       "text": "【資福藏】No.793《龍王兄弟經》 卷數：1 千字文：辭(286)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mo",
+       "created": 1646116894939,
+       "text": "【磧砂藏】No.799《佛說龍王兄弟經》吳 支謙譯 部別：阿含部 / 冊數：19 / 頁數：145 / 卷數：1 千字文：辭 9 (286)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mp",
+       "created": 1646116894939,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mq",
+       "created": 1646116894939,
+       "text": "【高麗藏】No.780《龍王兄弟經》吳月氏國居士支謙譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：869(原版) 895(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：言"
+      }},
+      {"data": {
+       "id": "z5cYx119Mr",
+       "created": 1646116894939,
+       "text": "【普寧藏】No.791《佛說龍王兄弟經》 卷數：1 千字文：辭(286)"
+      }},
+      {"data": {
+       "id": "z5cYx119Ms",
+       "created": 1646116894939,
+       "text": "【至元錄】No.1021《龍王兄弟經》吳月氏優婆塞支謙譯 卷數：1 千字文：從(311)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mt",
+       "created": 1646116894939,
+       "text": "【洪武南藏】No.716《佛說龍王兄弟經》吴 月支優婆塞支謙 譯 冊數：100 / 頁數：439 / 卷數：1 千字文：辭 9 (286)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mu",
+       "created": 1646116894939,
+       "text": "【永樂南藏】No.668《佛說龍王兄弟經》 部別：小乘經-阿含部 千字文：尺(233)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mv",
+       "created": 1646116894939,
+       "text": "【永樂北藏】No.739《佛說龍王兄弟經》吳支謙譯 部別：小乘經單譯經 / 冊數：66 / 頁數：204 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYx119Mw",
+       "created": 1646116894939,
+       "text": "【嘉興藏】No.702《佛說龍王兄弟經》吳支謙譯 部別：小乘經-單譯經 / 法寶總目錄經號：0702 千字文 / 函號：［正藏］ 敬(248)"
+      }},
+      {"data": {
+       "id": "z5cYx119Mx",
+       "created": 1646116894939,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx119My",
+       "created": 1646116894939,
+       "text": "【乾隆藏】No.703《佛說龍王兄弟經》吳 支謙譯 部別：小乘單譯經 / 冊數：55 / 頁數：498 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYx119Mz",
+       "created": 1646116894939,
+       "text": "【縮刻藏】No.649《龍王兄弟經》吳支謙譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx119N0",
+       "created": 1646116894939,
+       "text": "【卍正藏】No.711《龍王兄弟經》吳 支謙譯 部別：小乘經 單譯經 / 冊數：26 / 頁數：918 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYx119N1",
+       "created": 1646116894939,
+       "text": "【大正藏】No.597《龍王兄弟經》吳 支謙譯 部別：經集部二 / 冊數：15 / 頁數：131 / 卷數：1 相關經典：縮-宿7,卍-14.10 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx119N2",
+       "created": 1646116894939,
+       "text": "【佛教大藏經】No.669《龍王兄弟經》吳 支謙譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：205 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx119N3",
+       "created": 1646116894939,
+       "text": "【中華藏】No.841《龍王兄弟經》吳月支優婆塞支謙譯 冊數：34 / 頁數：586 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx119N4",
+       "created": 1646116894939,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx119N5",
+       "created": 1646116894939,
+       "text": "【南條文雄編號】 Nj. 0707"
+      }},
+      {"data": {
+       "id": "z5cYx119N6",
+       "created": 1646116894939,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：597"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx3uil",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

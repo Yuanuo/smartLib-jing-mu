@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "洛陽伽藍記"},
+  "children": [{
+   "data": {
+    "id": "z5cYy75Tmu",
+    "created": 1646116899159,
+    "text": "現藏錄（元魏 楊衒之撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy75TmF",
+      "created": 1646116899159,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy75TmG",
+        "created": 1646116899159,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy75TmH",
+        "created": 1646116899159,
+        "text": "洛陽伽藍記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy75TmI",
+        "created": 1646116899159,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy75TmJ",
+        "created": 1646116899159,
+        "text": "洛阳伽蓝记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy75TmK",
+        "created": 1646116899159,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy75TmL",
+        "created": 1646116899159,
+        "text": "luo yang jia lan ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy75TmM",
+      "created": 1646116899159,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy75TmN",
+      "created": 1646116899159,
+      "text": "元魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy75TmO",
+      "created": 1646116899159,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy75TmP",
+       "created": 1646116899159,
+       "text": "元魏 楊衒之撰"
+      }},
+      {"data": {
+       "id": "z5cYy75TmQ",
+       "created": 1646116899159,
+       "text": "楊衒之",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy75TmR",
+      "created": 1646116899159,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy75TmS",
+      "created": 1646116899159,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy75TmT",
+      "created": 1646116899159,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy75TmU",
+       "created": 1646116899159,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75TmV",
+       "created": 1646116899159,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75TmW",
+       "created": 1646116899159,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75TmX",
+       "created": 1646116899159,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75TmY",
+       "created": 1646116899159,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75TmZ",
+       "created": 1646116899159,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tma",
+       "created": 1646116899159,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmb",
+       "created": 1646116899159,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmc",
+       "created": 1646116899159,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmd",
+       "created": 1646116899159,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tme",
+       "created": 1646116899159,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmf",
+       "created": 1646116899159,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmg",
+       "created": 1646116899159,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmh",
+       "created": 1646116899159,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmi",
+       "created": 1646116899159,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmj",
+       "created": 1646116899159,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmk",
+       "created": 1646116899159,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tml",
+       "created": 1646116899159,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmm",
+       "created": 1646116899159,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmn",
+       "created": 1646116899159,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmo",
+       "created": 1646116899159,
+       "text": "【大正藏】No.2092《洛陽伽藍記》元魏 楊衒之撰 部別：史傳部三 / 冊數：51 / 頁數：999 / 卷數：5 相關經典：國-史傳17 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy75Tmp",
+       "created": 1646116899159,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmq",
+       "created": 1646116899159,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmr",
+       "created": 1646116899159,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tms",
+       "created": 1646116899159,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy75Tmt",
+       "created": 1646116899159,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2092"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0d31qm",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

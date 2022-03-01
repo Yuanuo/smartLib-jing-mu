@@ -1,0 +1,305 @@
+{
+ "root": {
+  "data": {"text": "佛說栴檀樹經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxBbCNr",
+    "created": 1646116895595,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxBbCN3",
+      "created": 1646116895595,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxBbCN4",
+        "created": 1646116895595,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBbCN5",
+        "created": 1646116895595,
+        "text": "佛說栴檀樹經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBbCN6",
+        "created": 1646116895595,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBbCN7",
+        "created": 1646116895595,
+        "text": "佛说栴檀树经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBbCN8",
+        "created": 1646116895595,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBbCN9",
+        "created": 1646116895595,
+        "text": "fo shuo zhan tan shu jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBbCNE",
+        "created": 1646116895595,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBbCNF",
+        "created": 1646116895595,
+        "text": "Chan t'an shu ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxBbCNG",
+       "created": 1646116895595,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxBbCNH",
+        "created": 1646116895595,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBbCNI",
+        "created": 1646116895595,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBbCNJ",
+        "created": 1646116895595,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBbCNK",
+        "created": 1646116895595,
+        "text": "전단수경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBbCNA",
+      "created": 1646116895595,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBbCNB",
+      "created": 1646116895595,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBbCNC",
+      "created": 1646116895595,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBbCND",
+      "created": 1646116895595,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBbCNL",
+      "created": 1646116895595,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBbCNM",
+      "created": 1646116895595,
+      "text": "Translator unknown: listed in Han lu (漢錄) (A.D. 25-220).T. 2154-718:27."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxBbCNN",
+     "created": 1646116895595,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxBbCNO",
+      "created": 1646116895595,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBbCNP",
+      "created": 1646116895595,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBbCNQ",
+      "created": 1646116895595,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBbCNR",
+       "created": 1646116895595,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNS",
+       "created": 1646116895595,
+       "text": "【開寶藏】No.863《旃檀樹經》後漢 失譯者 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNT",
+       "created": 1646116895595,
+       "text": "【崇寧藏】No.865《佛說栴檀樹經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNU",
+       "created": 1646116895595,
+       "text": "【毘盧藏】No.866《栴檀樹經》失譯 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNV",
+       "created": 1646116895595,
+       "text": "【圓覺藏】No.873《栴檀樹經》 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNW",
+       "created": 1646116895595,
+       "text": "【趙城金藏】No.882《栴檀樹經》 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNX",
+       "created": 1646116895595,
+       "text": "【資福藏】No.879《栴檀樹經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNY",
+       "created": 1646116895595,
+       "text": "【磧砂藏】No.888《佛說栴檀樹經》失譯 部別：小乘單譯經 / 冊數：20 / 頁數：154 / 卷數：1 千字文：學 4 (305)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNZ",
+       "created": 1646116895595,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNa",
+       "created": 1646116895595,
+       "text": "【高麗藏】No.880《栴檀樹經》失譯人名今附漢錄 部別：小乘經 單譯 / 冊數：20 頁數：1254(原版) 670(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNb",
+       "created": 1646116895595,
+       "text": "【普寧藏】No.880《佛說旃檀樹經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNc",
+       "created": 1646116895595,
+       "text": "【至元錄】No.1106《栴檀樹經》僧祐云。安公失譯人名 卷數：1 / 出處：(今附漢錄) 千字文：和(330)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNd",
+       "created": 1646116895595,
+       "text": "【洪武南藏】No.791《佛說栴檀樹經》失譯人名今附漢錄 冊數：106 / 頁數：450 / 卷數：1 千字文：斈 4 (305)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNe",
+       "created": 1646116895595,
+       "text": "【永樂南藏】No.755《佛說栴檀樹經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNf",
+       "created": 1646116895595,
+       "text": "【永樂北藏】No.808《佛說栴檀樹經》失譯人名附後漢錄 部別：小乘經單譯經 / 冊數：66 / 頁數：766 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNg",
+       "created": 1646116895595,
+       "text": "【嘉興藏】No.771《佛說栴檀樹經》失譯人名附後漢錄 部別：小乘經-單譯經 / 法寶總目錄經號：0771 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNh",
+       "created": 1646116895595,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNi",
+       "created": 1646116895595,
+       "text": "【乾隆藏】No.772《佛說栴檀樹經》失譯人名今附漢錄 部別：小乘單譯經 / 冊數：56 / 頁數：205 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNj",
+       "created": 1646116895595,
+       "text": "【縮刻藏】No.702《佛說栴檀樹經》失譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNk",
+       "created": 1646116895595,
+       "text": "【卍正藏】No.781《佛說栴檀樹經》失譯人名今附漢錄 部別：小乘經 單譯經 / 冊數：27 / 頁數：165 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNl",
+       "created": 1646116895595,
+       "text": "【大正藏】No.805《佛說栴檀樹經》失譯 部別：經集部四 / 冊數：17 / 頁數：750 / 卷數：1 相關經典：縮-宿7,卍-15.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxBbCNm",
+       "created": 1646116895595,
+       "text": "【佛教大藏經】No.723《佛說栴檀樹經》失譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：386 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNn",
+       "created": 1646116895595,
+       "text": "【中華藏】No.940《佛說栴檀樹經》失譯人名今附漢錄 冊數：36 / 頁數：418 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNo",
+       "created": 1646116895595,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNp",
+       "created": 1646116895595,
+       "text": "【南條文雄編號】 Nj. 0777"
+      }},
+      {"data": {
+       "id": "z5cYxBbCNq",
+       "created": 1646116895595,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：805"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxm3oi",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

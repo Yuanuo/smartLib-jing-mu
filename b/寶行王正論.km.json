@@ -1,0 +1,357 @@
+{
+ "root": {
+  "data": {"text": "寶行王正論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxqHOOg",
+    "created": 1646116898117,
+    "text": "現藏錄（陳 真諦譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxqGONk",
+      "created": 1646116898116,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxqGONl",
+        "created": 1646116898116,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqGONm",
+        "created": 1646116898116,
+        "text": "寶行王正論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqGONn",
+        "created": 1646116898116,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqGONo",
+        "created": 1646116898116,
+        "text": "宝行王正论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqGONp",
+        "created": 1646116898116,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqGONq",
+        "created": 1646116898116,
+        "text": "bao xing wang zheng lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqGONy",
+        "created": 1646116898116,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqGONz",
+        "created": 1646116898116,
+        "text": "Pao hsing wang cheng lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqGOO0",
+        "created": 1646116898116,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqGOO1",
+        "created": 1646116898116,
+        "text": "Rājaparikathāratnamālī",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqGOO2",
+        "created": 1646116898116,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqGOO3",
+        "created": 1646116898116,
+        "text": "Rgyal-po-la gtam-bya-ba rin-po-cheḥi phreṅ-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqGOO4",
+        "created": 1646116898116,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqGOO5",
+        "created": 1646116898116,
+        "text": "보행왕정론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqGONr",
+      "created": 1646116898116,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqGONs",
+      "created": 1646116898116,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqGONt",
+      "created": 1646116898116,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqGONu",
+       "created": 1646116898116,
+       "text": "陳 真諦譯"
+      }},
+      {"data": {
+       "id": "z5cYxqGONv",
+       "created": 1646116898116,
+       "text": "真諦",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqGONw",
+      "created": 1646116898116,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqGONx",
+      "created": 1646116898116,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqGOO6",
+      "created": 1646116898116,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqGOO7",
+      "created": 1646116898116,
+      "text": "Translation by Paramārtha: between the 1st year of Yung Ting (永定) and the 1st year of T'ai Chien (太建), Ch'en dynasty (陳) (A.D. 557-569) at Chih-chih Monastery (制旨寺).T. 2151-364c:21."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqGOO8",
+      "created": 1646116898116,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqGOO9",
+       "created": 1646116898116,
+       "text": "【北京版】Mdo-ḥgrel (Spriṅ-yig) (ṅe)129a-152bMdo-ḥgrel (Ṅo-tshar) (mo)299b-300b"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOA",
+       "created": 1646116898116,
+       "text": "【奈塘版】Mdo-ḥgrel (ṅe)124a-146bMdo-ḥgrel (mo)292b-293b"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOB",
+       "created": 1646116898116,
+       "text": "【德格版】Spriṅ-yig (ge)107a-126aSna-tshogs (ño)318a-319a"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOC",
+       "created": 1646116898116,
+       "text": "【卓尼版】Spriṅ-yig (ge)116a-135aSna-tshogs (ño)321a-322a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqGOOD",
+      "created": 1646116898116,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqGOOE",
+      "created": 1646116898116,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqGOOF",
+      "created": 1646116898116,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqGOOG",
+       "created": 1646116898116,
+       "text": "【房山石經】No.736《寶行王正論》(陳)天竺三藏真諦譯 冊數：20 / 頁數：251 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：命"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOH",
+       "created": 1646116898116,
+       "text": "【開寶藏】No.617《寶行王正論》陳 天竺三藏真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOI",
+       "created": 1646116898116,
+       "text": "【崇寧藏】No.619《寶行王正論》 卷數：1 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOJ",
+       "created": 1646116898116,
+       "text": "【毘盧藏】No.620《實行王正論》陳真諦譯 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOK",
+       "created": 1646116898116,
+       "text": "【圓覺藏】No.628《寶行王正論》 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOL",
+       "created": 1646116898116,
+       "text": "【趙城金藏】No.618《寶行王正論》 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOM",
+       "created": 1646116898116,
+       "text": "【資福藏】No.633《寶行王正論》 卷數：1 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOON",
+       "created": 1646116898116,
+       "text": "【磧砂藏】No.639《寶行王正論》陳 真諦譯 部別：集義論 / 冊數：17 / 頁數：204 / 卷數：1 千字文：盡 8 (255)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOO",
+       "created": 1646116898116,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOP",
+       "created": 1646116898116,
+       "text": "【高麗藏】No.617《寶行王正論》陳天竺三藏真諦譯 部別：大乘論 集義論 / 冊數：17 頁數：626(原版) 610(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOQ",
+       "created": 1646116898116,
+       "text": "【普寧藏】No.631《寶行王正論》 卷數：1 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOR",
+       "created": 1646116898116,
+       "text": "【至元錄】No.1347《寶行王正論》陳天竺三藏真諦譯 卷數：1 / 譯次：(單本) 千字文：傍(443)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOS",
+       "created": 1646116898116,
+       "text": "【洪武南藏】No.566《寶行王正論》陳 天竺三藏法師真諦 譯 冊數：89 / 頁數：142 / 卷數：1 千字文：盡 8 (255)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOT",
+       "created": 1646116898116,
+       "text": "【永樂南藏】No.1373《寶行王正論》 部別：大乘論 千字文：邑(410)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOU",
+       "created": 1646116898116,
+       "text": "【永樂北藏】No.1299《寶行王正論》陳真諦譯 部別：大乘論 / 冊數：105 / 頁數：839 / 卷數：1 千字文：逸"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOV",
+       "created": 1646116898116,
+       "text": "【嘉興藏】No.1245《寶行王正論》陳真諦譯 部別：大乘論 / 法寶總目錄經號：1244 千字文 / 函號：［正藏］ 逸(388)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOW",
+       "created": 1646116898116,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOX",
+       "created": 1646116898116,
+       "text": "【乾隆藏】No.1246《寶行王正論》陳 真諦譯 部別：大乘論 / 冊數：87 / 頁數：55 / 卷數：1 千字文：逸"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOY",
+       "created": 1646116898116,
+       "text": "【縮刻藏】No.948《寶行王正論》陳真諦譯 部別：印度大乘宗經論 / 卷數：1 千字文：暑 5 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOZ",
+       "created": 1646116898116,
+       "text": "【卍正藏】No.1260《寶行王正論》陳 真諦譯 部別：大乘論 / 冊數：41 / 頁數：826 / 卷數：1 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOa",
+       "created": 1646116898116,
+       "text": "【大正藏】No.1656《寶行王正論》陳 真諦譯 部別：論集部全 / 冊數：32 / 頁數：493 / 卷數：1 相關經典：縮-藏5,卍-22.5,國-論6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxqGOOb",
+       "created": 1646116898116,
+       "text": "【佛教大藏經】No.990《寶行王正論》陳 真諦譯 部別：大乘宗經論 論部四 / 冊數：38 / 頁數：150 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOc",
+       "created": 1646116898116,
+       "text": "【中華藏】No.667《寶行王正論》陳天竺三藏真諦譯 冊數：30 / 頁數：823 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOd",
+       "created": 1646116898116,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOe",
+       "created": 1646116898116,
+       "text": "【南條文雄編號】 Nj. 1253"
+      }},
+      {"data": {
+       "id": "z5cYxqGOOf",
+       "created": 1646116898116,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1656"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzk41dn",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

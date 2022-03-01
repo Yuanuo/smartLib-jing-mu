@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說開覺自性般若波羅蜜多經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwfT3nw",
+    "created": 1646116893603,
+    "text": "現藏錄（宋 惟淨等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwfQ3mz",
+      "created": 1646116893600,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwfQ3n0",
+        "created": 1646116893600,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfQ3n1",
+        "created": 1646116893600,
+        "text": "佛說開覺自性般若波羅蜜多經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfQ3n2",
+        "created": 1646116893600,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfR3n3",
+        "created": 1646116893601,
+        "text": "佛说开觉自性般若波罗蜜多经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfR3n4",
+        "created": 1646116893601,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfR3n5",
+        "created": 1646116893601,
+        "text": "fo shuo kai jue zi xing bo re bo luo mi duo jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfR3nD",
+        "created": 1646116893601,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfR3nE",
+        "created": 1646116893601,
+        "text": "K'ai chüeh tzu hsing po jo po lo mi to ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfR3nF",
+        "created": 1646116893601,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfR3nG",
+        "created": 1646116893601,
+        "text": "Pañcaśatikāprajñāpāramitā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfR3nH",
+        "created": 1646116893601,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfR3nI",
+        "created": 1646116893601,
+        "text": "Śes-rab-kyi-pha-rol-tu-phyin-pa lṅa-brgya-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwfR3nJ",
+        "created": 1646116893601,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwfR3nK",
+        "created": 1646116893601,
+        "text": "개각자성반야바라밀다경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwfR3n6",
+      "created": 1646116893601,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfR3n7",
+      "created": 1646116893601,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfR3n8",
+      "created": 1646116893601,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwfR3n9",
+       "created": 1646116893601,
+       "text": "宋 惟淨等譯"
+      }},
+      {"data": {
+       "id": "z5cYwfR3nA",
+       "created": 1646116893601,
+       "text": "惟淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwfR3nB",
+      "created": 1646116893601,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfR3nC",
+      "created": 1646116893601,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfR3nL",
+      "created": 1646116893601,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfR3nM",
+      "created": 1646116893601,
+      "text": "Ching yu lu tsung lu p.7a."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfR3nN",
+      "created": 1646116893601,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwfR3nO",
+       "created": 1646116893601,
+       "text": "【北京版】Śer-phyin (tsi)143a-161b"
+      }},
+      {"data": {
+       "id": "z5cYwfR3nP",
+       "created": 1646116893601,
+       "text": "【奈塘版】Śer-phyin-sna-tshogs (ka)169b-196b"
+      }},
+      {"data": {
+       "id": "z5cYwfR3nQ",
+       "created": 1646116893601,
+       "text": "【德格版】Śes-phyin (ka)104a-120b"
+      }},
+      {"data": {
+       "id": "z5cYwfR3nR",
+       "created": 1646116893601,
+       "text": "【拉薩版】Śer-phyin-sna-tshogs (ka)163a-189a"
+      }},
+      {"data": {
+       "id": "z5cYwfR3nS",
+       "created": 1646116893601,
+       "text": "【卓尼版】Śer-phyin sna-tshogs (ka)147b-169a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwfR3nT",
+      "created": 1646116893601,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwfS3nU",
+      "created": 1646116893602,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwfS3nV",
+      "created": 1646116893602,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwfS3nW",
+       "created": 1646116893602,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nX",
+       "created": 1646116893602,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nY",
+       "created": 1646116893602,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nZ",
+       "created": 1646116893602,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3na",
+       "created": 1646116893602,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nb",
+       "created": 1646116893602,
+       "text": "【趙城金藏】No.1483《佛說開覺自性般若波羅蜜多經》 卷數：4 千字文：寔"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nc",
+       "created": 1646116893602,
+       "text": "【資福藏】No.1450《佛說開學自性般若波羅蜜多經》 卷數：4 (四卷) 千字文：約(587)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nd",
+       "created": 1646116893602,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3ne",
+       "created": 1646116893602,
+       "text": "【宋藏遺珍】No.13《佛說開覺自性般若波羅蜜多經》宋 惟淨等 譯 六冊版冊數：1 / 頁數：359 / 卷數：4 四冊版冊數：37 / 頁數：667"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nf",
+       "created": 1646116893602,
+       "text": "【高麗藏】No.1485《開覺自性般若波羅蜜多經》西晉月氏三藏竺法護譯 部別：宋續入藏經 / 冊數：41 頁數：241 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：秦"
+      }},
+      {"data": {
+       "id": "z5cYwfS3ng",
+       "created": 1646116893602,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nh",
+       "created": 1646116893602,
+       "text": "【至元錄】No.40《佛說開覺自性般若波羅蜜多經》宋三藏惟淨法護等譯 卷數：4 千字文：帝(76)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3ni",
+       "created": 1646116893602,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nj",
+       "created": 1646116893602,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nk",
+       "created": 1646116893602,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nl",
+       "created": 1646116893602,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nm",
+       "created": 1646116893602,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nn",
+       "created": 1646116893602,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3no",
+       "created": 1646116893602,
+       "text": "【縮刻藏】No.420《佛說開覺自性般若波羅蜜多經》宋惟淨等譯 部別：大乘經-般若部 / 卷數：4 千字文：月 9 (10)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3np",
+       "created": 1646116893602,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nq",
+       "created": 1646116893602,
+       "text": "【大正藏】No.260《佛說開覺自性般若波羅蜜多經》宋 惟淨等譯 部別：般若部四 / 冊數：8 / 頁數：854 / 卷數：4 相關經典：縮-月9,續-1.1.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwfS3nr",
+       "created": 1646116893602,
+       "text": "【佛教大藏經】No.423《佛說開覺自性般若波羅蜜多經》宋 惟淨等譯 部別：大乘經 般若部八 / 冊數：20 / 頁數：620 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYwfS3ns",
+       "created": 1646116893602,
+       "text": "【中華藏】No.1627《佛說開覺自性般若波羅蜜多經》譯經三藏朝散大夫試鴻臚卿光梵大師賜紫沙門惟淨等奉詔譯 冊數：69 / 頁數：104 / 卷數：4 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nt",
+       "created": 1646116893602,
+       "text": "【新纂卍續藏】No.31《佛說開覺自性般若波羅蜜多經》宋 惟淨等譯 部別：印度撰述 經部三 般若部 / 冊數：1 / 頁數：457 / 卷數：4 《卍大日本續藏經》套數：第一編．第 1 套 《卍續藏經》(新文豐版)冊數：第 1 冊"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nu",
+       "created": 1646116893602,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwfS3nv",
+       "created": 1646116893602,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：260"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw2m7h",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

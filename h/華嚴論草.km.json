@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "華嚴論草"},
+  "children": [{
+   "data": {
+    "id": "z5cYyGaWkk",
+    "created": 1646116899748,
+    "text": "現藏錄（日本 景雅撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyGZWk5",
+      "created": 1646116899747,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyGZWk6",
+        "created": 1646116899747,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGZWk7",
+        "created": 1646116899747,
+        "text": "華嚴論草",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGZWk8",
+        "created": 1646116899747,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGZWk9",
+        "created": 1646116899747,
+        "text": "华严论草",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGZWkA",
+        "created": 1646116899747,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGZWkB",
+        "created": 1646116899747,
+        "text": "hua yan lun cao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGZWkC",
+      "created": 1646116899747,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGZWkD",
+      "created": 1646116899747,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGZWkE",
+      "created": 1646116899747,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGZWkF",
+       "created": 1646116899747,
+       "text": "日本 景雅撰"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkG",
+       "created": 1646116899747,
+       "text": "景雅",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGZWkH",
+      "created": 1646116899747,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGZWkI",
+      "created": 1646116899747,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGZWkJ",
+      "created": 1646116899747,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGZWkK",
+       "created": 1646116899747,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkL",
+       "created": 1646116899747,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkM",
+       "created": 1646116899747,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkN",
+       "created": 1646116899747,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkO",
+       "created": 1646116899747,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkP",
+       "created": 1646116899747,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkQ",
+       "created": 1646116899747,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkR",
+       "created": 1646116899747,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkS",
+       "created": 1646116899747,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkT",
+       "created": 1646116899747,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkU",
+       "created": 1646116899747,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkV",
+       "created": 1646116899747,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkW",
+       "created": 1646116899747,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkX",
+       "created": 1646116899747,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkY",
+       "created": 1646116899747,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkZ",
+       "created": 1646116899747,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWka",
+       "created": 1646116899747,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkb",
+       "created": 1646116899747,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkc",
+       "created": 1646116899747,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkd",
+       "created": 1646116899747,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWke",
+       "created": 1646116899747,
+       "text": "【大正藏】No.2329《華嚴論草》日本 景雅撰 部別：續諸宗部三 / 冊數：72 / 頁數：62 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyGZWkf",
+       "created": 1646116899747,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkg",
+       "created": 1646116899747,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkh",
+       "created": 1646116899747,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWki",
+       "created": 1646116899747,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGZWkj",
+       "created": 1646116899747,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2329"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0tf1xy",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

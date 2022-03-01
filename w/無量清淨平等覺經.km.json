@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說無量清淨平等覺經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwn85mS",
+    "created": 1646116894078,
+    "text": "現藏錄（後漢 支婁迦讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwn75lV",
+      "created": 1646116894077,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwn75lW",
+        "created": 1646116894077,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwn75lX",
+        "created": 1646116894077,
+        "text": "佛說無量清淨平等覺經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwn75lY",
+        "created": 1646116894077,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwn75lZ",
+        "created": 1646116894077,
+        "text": "佛说无量清净平等觉经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwn75la",
+        "created": 1646116894077,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwn75lb",
+        "created": 1646116894077,
+        "text": "fo shuo wu liang qing jing ping deng jue jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwn75lj",
+        "created": 1646116894077,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwn75lk",
+        "created": 1646116894077,
+        "text": "Wu liang ch'ing ching p'ing teng chiao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwn75ll",
+        "created": 1646116894077,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwn75lm",
+        "created": 1646116894077,
+        "text": "Sukhāvatīvyūhasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwn75ln",
+        "created": 1646116894077,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwn75lo",
+        "created": 1646116894077,
+        "text": "Ḥod-dpag-med-kyi bkod-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwn75lp",
+        "created": 1646116894077,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwn75lq",
+        "created": 1646116894077,
+        "text": "무량청정평등각경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwn75lc",
+      "created": 1646116894077,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwn75ld",
+      "created": 1646116894077,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwn75le",
+      "created": 1646116894077,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwn75lf",
+       "created": 1646116894077,
+       "text": "後漢 支婁迦讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwn75lg",
+       "created": 1646116894077,
+       "text": "支婁迦讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwn75lh",
+      "created": 1646116894077,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwn75li",
+      "created": 1646116894077,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwn75lr",
+      "created": 1646116894077,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwn75ls",
+      "created": 1646116894077,
+      "text": "Translation by Lokakṣema: between the first year of Chien Ho (建和) (A.D. 147) and the 3rd year of Chung P'ing (中平) (A.D. 186), Later Han (後漢) in Lo-yang (落陽). T. 2153-389a:18."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwn75lt",
+      "created": 1646116894077,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwn75lu",
+       "created": 1646116894077,
+       "text": "【北京版】Dkon-brtsegs (tshi)270b-308a"
+      }},
+      {"data": {
+       "id": "z5cYwn75lv",
+       "created": 1646116894077,
+       "text": "【奈塘版】Dkon-brtsegs (ka)394a-448a"
+      }},
+      {"data": {
+       "id": "z5cYwn75lw",
+       "created": 1646116894077,
+       "text": "【德格版】Dkon-brtsegs (ka)237b-270a"
+      }},
+      {"data": {
+       "id": "z5cYwn75lx",
+       "created": 1646116894077,
+       "text": "【拉薩版】Dkon-brtsegs (ka)3G7a-418a"
+      }},
+      {"data": {
+       "id": "z5cYwn75ly",
+       "created": 1646116894077,
+       "text": "【卓尼版】Dkon-brtsegs (ka)271b-311a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwn75lz",
+      "created": 1646116894077,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwn75m0",
+      "created": 1646116894077,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwn75m1",
+      "created": 1646116894077,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwn75m2",
+       "created": 1646116894077,
+       "text": "【房山石經】No.349《佛說無量清淨平等覺經》(后漢)月支三藏支婁迦讖譯 冊數：9 / 頁數：1 / 卷數：2 / 刻經年代：清寧四年刻石 / 瀏覽：目錄圖檔 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwn75m3",
+       "created": 1646116894077,
+       "text": "【開寶藏】No.25《無量清淨平等覺經》後漢 月支三藏支婁迦讖 譯 部別：大乘經 寶積部 / 卷數：4 千字文：字"
+      }},
+      {"data": {
+       "id": "z5cYwn75m4",
+       "created": 1646116894077,
+       "text": "【崇寧藏】No.25《佛說無量清淨平等覺經》 卷數：2 千字文：乃(85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75m5",
+       "created": 1646116894077,
+       "text": "【毘盧藏】No.21《佛說無量清淨平等覺經》後漢支婁迦讖譯 參考年代：(宣和六) 千字文：乃(85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75m6",
+       "created": 1646116894077,
+       "text": "【圓覺藏】No.23《無量清淨平等覺經》 卷數：2 千字文：乃(85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75m7",
+       "created": 1646116894077,
+       "text": "【趙城金藏】No.24《無量清淨平等覺經》 卷數：4 千字文：字"
+      }},
+      {"data": {
+       "id": "z5cYwn75m8",
+       "created": 1646116894077,
+       "text": "【資福藏】No.26《佛說無量清淨平等覺經》 卷數：2 (上下二卷) 千字文：乃(85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75m9",
+       "created": 1646116894077,
+       "text": "【磧砂藏】No.25《佛說無量清淨平等覺經》後漢 支婁迦讖譯 部別：寶積部 / 冊數：6 / 頁數：219 / 卷數：2 千字文：乃 4 (85)-乃 5 (85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mA",
+       "created": 1646116894077,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mB",
+       "created": 1646116894077,
+       "text": "【高麗藏】No.24《無量淸淨平等覺經》後漢月支國三藏支婁迦讖譯 部別：大乘經 寶積部 / 冊數：6 頁數：979 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：字"
+      }},
+      {"data": {
+       "id": "z5cYwn75mC",
+       "created": 1646116894077,
+       "text": "【普寧藏】No.22《佛說無量清淨平等覺經》 卷數：2 千字文：乃(85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mD",
+       "created": 1646116894077,
+       "text": "【至元錄】No.92《無量清淨平等覺經》後漢月支三藏支婁迦讖譯 卷數：2 千字文：推(89)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mE",
+       "created": 1646116894077,
+       "text": "【洪武南藏】No.21《無量清淨平等覺經》後漢 月支三藏支婁迦識 譯 冊數：30-31 / 頁數：523 / 卷數：2 千字文：乃 4 (85)-乃 5 (85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mF",
+       "created": 1646116894077,
+       "text": "【永樂南藏】No.22《佛說無量清淨平等覺經》 部別：大乘經-寶積部 千字文：乃(85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mG",
+       "created": 1646116894077,
+       "text": "【永樂北藏】No.40《佛說無量清淨平等覺經》後漢支婁迦讖譯 部別：大乘經寶積部 / 冊數：22 / 頁數：71 / 卷數：3 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwn75mH",
+       "created": 1646116894077,
+       "text": "【嘉興藏】No.22《無量清淨平等覺經》後漢支婁迦讖譯 部別：大乘經-寶積部 / 法寶總目錄經號：0022 千字文 / 函號：［正藏］ 乃(85)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mI",
+       "created": 1646116894077,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mJ",
+       "created": 1646116894077,
+       "text": "【乾隆藏】No.22《佛說無量清淨平等覺經》後漢 支婁迦讖譯 部別：大乘寶積部 / 冊數：19 / 頁數：455 / 卷數：3 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwn75mK",
+       "created": 1646116894077,
+       "text": "【縮刻藏】No.32《佛說無量清淨平等覺經》後漢支婁迦讖譯 部別：大乘經-方等部 / 卷數：4 千字文：地 8 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwn75mL",
+       "created": 1646116894077,
+       "text": "【卍正藏】No.25《佛說無量清淨平等覺經》後漢 支婁迦讖譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：391 / 卷數：4 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwn85mM",
+       "created": 1646116894078,
+       "text": "【大正藏】No.361《佛說無量清淨平等覺經》後漢 支婁迦讖譯 部別：寶積部下 / 冊數：12 / 頁數：279 / 卷數：4 相關經典：縮-地8,卍-6.3 參考資料：Nos.310(5),360,362-364"
+      }},
+      {"data": {
+       "id": "z5cYwn85mN",
+       "created": 1646116894078,
+       "text": "【佛教大藏經】No.32《佛說無量清淨平等覺經》後漢 支婁迦讖譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：111 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYwn85mO",
+       "created": 1646116894078,
+       "text": "【中華藏】No.26《佛說無量清淨平等覺經》後漢月支國三藏支樓迦讖譯 冊數：9 / 頁數：510 / 卷數：4 / 底本：麗藏本 金藏大寶集寺本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwn85mP",
+       "created": 1646116894078,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwn85mQ",
+       "created": 1646116894078,
+       "text": "【南條文雄編號】 Nj. 0025"
+      }},
+      {"data": {
+       "id": "z5cYwn85mR",
+       "created": 1646116894078,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：361"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwfwbi",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

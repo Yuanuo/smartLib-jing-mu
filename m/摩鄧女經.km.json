@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說摩鄧女經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwxp8hP",
+    "created": 1646116894741,
+    "text": "現藏錄（後漢 安世高譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwxp8gX",
+      "created": 1646116894741,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwxp8gY",
+        "created": 1646116894741,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxp8gZ",
+        "created": 1646116894741,
+        "text": "佛說摩鄧女經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxp8ga",
+        "created": 1646116894741,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxp8gb",
+        "created": 1646116894741,
+        "text": "佛说摩邓女经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxp8gc",
+        "created": 1646116894741,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxp8gd",
+        "created": 1646116894741,
+        "text": "fo shuo mo deng nv jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxp8gl",
+        "created": 1646116894741,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxp8gm",
+        "created": 1646116894741,
+        "text": "Mo teng nü ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxp8gn",
+        "created": 1646116894741,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxp8go",
+        "created": 1646116894741,
+        "text": "Mātangīsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxp8gp",
+        "created": 1646116894741,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxp8gq",
+        "created": 1646116894741,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwxp8gr",
+        "created": 1646116894741,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwxp8gs",
+        "created": 1646116894741,
+        "text": "마등녀경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwxp8ge",
+      "created": 1646116894741,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxp8gf",
+      "created": 1646116894741,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwxp8gg",
+      "created": 1646116894741,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwxp8gh",
+       "created": 1646116894741,
+       "text": "後漢 安世高譯"
+      }},
+      {"data": {
+       "id": "z5cYwxp8gi",
+       "created": 1646116894741,
+       "text": "安世高",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwxp8gj",
+      "created": 1646116894741,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxp8gk",
+      "created": 1646116894741,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwxp8gt",
+      "created": 1646116894741,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxp8gu",
+      "created": 1646116894741,
+      "text": "Translation by An Shih-kao: (see K.738)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwxp8gv",
+     "created": 1646116894741,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwxp8gw",
+      "created": 1646116894741,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwxp8gx",
+      "created": 1646116894741,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwxp8gy",
+      "created": 1646116894741,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwxp8gz",
+       "created": 1646116894741,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h0",
+       "created": 1646116894741,
+       "text": "【開寶藏】No.755《摩登女經》失譯者 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：辭"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h1",
+       "created": 1646116894741,
+       "text": "【崇寧藏】No.756《摩鄧女經》 卷數：1 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h2",
+       "created": 1646116894741,
+       "text": "【毘盧藏】No.757《摩鄧女經》後漢安世高譯 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h3",
+       "created": 1646116894741,
+       "text": "【圓覺藏】No.765《摩鄧女經》 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h4",
+       "created": 1646116894741,
+       "text": "【趙城金藏】No.762《摩鄧女經》 卷數：1 千字文：思"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h5",
+       "created": 1646116894741,
+       "text": "【資福藏】No.771《摩鄧女經》 卷數：1 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h6",
+       "created": 1646116894741,
+       "text": "【磧砂藏】No.776《摩鄧女經》後漢 安世高譯 部別：阿含部 / 冊數：19 / 頁數：48 / 卷數：1 千字文：言 1 (285)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h7",
+       "created": 1646116894741,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h8",
+       "created": 1646116894741,
+       "text": "【高麗藏】No.759《摩鄧女經》後漢安息三藏安世高譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：732(原版) 758(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：思"
+      }},
+      {"data": {
+       "id": "z5cYwxp8h9",
+       "created": 1646116894741,
+       "text": "【普寧藏】No.768《摩鄧女經》 卷數：1 千字文：言(285)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hA",
+       "created": 1646116894741,
+       "text": "【至元錄】No.998《摩鄧女經》後漢安息三藏安世高譯 卷數：1 / 譯次：(第一譯) 千字文：職(310)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hB",
+       "created": 1646116894741,
+       "text": "【洪武南藏】No.696《摩鄧女經》後漢 三藏法師安世高 譯 冊數：100 / 頁數：69 / 卷數：1 千字文：言 1 (285)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hC",
+       "created": 1646116894741,
+       "text": "【永樂南藏】No.658《摩鄧女經》 部別：小乘經-阿含部 千字文：慶(232)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hD",
+       "created": 1646116894741,
+       "text": "【永樂北藏】No.673《摩登女經》後漢安世高譯 部別：小乘經阿含部 / 冊數：62 / 頁數：206 / 卷數：1 千字文：慶"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hE",
+       "created": 1646116894741,
+       "text": "【嘉興藏】No.638《摩鄧女經》後漢安世高譯 部別：小乘經-阿含部 / 法寶總目錄經號：0638 千字文 / 函號：［正藏］ 慶(232)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hF",
+       "created": 1646116894741,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hG",
+       "created": 1646116894741,
+       "text": "【乾隆藏】No.639《摩鄧女經》後漢 安世高譯 部別：小乘阿含部 / 冊數：52 / 頁數：236 / 卷數：1 千字文：慶"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hH",
+       "created": 1646116894741,
+       "text": "【縮刻藏】No.623《佛說摩鄧女經》後漢安世高譯 部別：小乘經 / 卷數：1 千字文：宿 6 (14)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hI",
+       "created": 1646116894741,
+       "text": "【卍正藏】No.647《佛說摩鄧女經》後漢 安世高譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：362 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hJ",
+       "created": 1646116894741,
+       "text": "【大正藏】No.551《佛說摩鄧女經》後漢 安世高譯 部別：經集部一 / 冊數：14 / 頁數：895 / 卷數：1 相關經典：縮-宿6,卍-14.2 參考資料：No.552;cf.Nos.1300,1301"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hK",
+       "created": 1646116894741,
+       "text": "【佛教大藏經】No.641《佛說摩鄧女經》後漢 安世高譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：92 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hL",
+       "created": 1646116894741,
+       "text": "【中華藏】No.818《佛說摩鄧女經》後漢安息國三藏安世高譯 冊數：34 / 頁數：376 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hM",
+       "created": 1646116894741,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hN",
+       "created": 1646116894741,
+       "text": "【南條文雄編號】 Nj. 0643"
+      }},
+      {"data": {
+       "id": "z5cYwxp8hO",
+       "created": 1646116894741,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：551"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwydha",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

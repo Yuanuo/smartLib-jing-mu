@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "冥報記"},
+  "children": [{
+   "data": {
+    "id": "z5cYy6fTdf",
+    "created": 1646116899133,
+    "text": "現藏錄（唐 唐臨撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy6eTd0",
+      "created": 1646116899132,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy6eTd1",
+        "created": 1646116899132,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6eTd2",
+        "created": 1646116899132,
+        "text": "冥報記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6eTd3",
+        "created": 1646116899132,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6eTd4",
+        "created": 1646116899132,
+        "text": "冥报记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy6eTd5",
+        "created": 1646116899132,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy6eTd6",
+        "created": 1646116899132,
+        "text": "ming bao ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy6eTd7",
+      "created": 1646116899132,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6eTd8",
+      "created": 1646116899132,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6eTd9",
+      "created": 1646116899132,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy6eTdA",
+       "created": 1646116899132,
+       "text": "唐 唐臨撰"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdB",
+       "created": 1646116899132,
+       "text": "唐臨",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy6eTdC",
+      "created": 1646116899132,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy6eTdD",
+      "created": 1646116899132,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy6eTdE",
+      "created": 1646116899132,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy6eTdF",
+       "created": 1646116899132,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdG",
+       "created": 1646116899132,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdH",
+       "created": 1646116899132,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdI",
+       "created": 1646116899132,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdJ",
+       "created": 1646116899132,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdK",
+       "created": 1646116899132,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdL",
+       "created": 1646116899132,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdM",
+       "created": 1646116899132,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdN",
+       "created": 1646116899132,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdO",
+       "created": 1646116899132,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdP",
+       "created": 1646116899132,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdQ",
+       "created": 1646116899132,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdR",
+       "created": 1646116899132,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdS",
+       "created": 1646116899132,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdT",
+       "created": 1646116899132,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdU",
+       "created": 1646116899132,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdV",
+       "created": 1646116899132,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdW",
+       "created": 1646116899132,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdX",
+       "created": 1646116899132,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdY",
+       "created": 1646116899132,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6eTdZ",
+       "created": 1646116899132,
+       "text": "【大正藏】No.2082《冥報記》唐 唐臨撰 部別：史傳部三 / 冊數：51 / 頁數：787 / 卷數：3 相關經典：續-2.乙.23.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy6eTda",
+       "created": 1646116899133,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6fTdb",
+       "created": 1646116899133,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6fTdc",
+       "created": 1646116899133,
+       "text": "【新纂卍續藏】No.1647《冥報記》唐 唐臨撰 部別：中國撰述 史傳部十四 雜傳二 / 冊數：88 / 頁數：292 / 卷數：3 《卍大日本續藏經》套數：第二編乙．第 23 套 《卍續藏經》(新文豐版)冊數：第 150 冊"
+      }},
+      {"data": {
+       "id": "z5cYy6fTdd",
+       "created": 1646116899133,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy6fTde",
+       "created": 1646116899133,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2082"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0cc1q9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

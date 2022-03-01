@@ -1,0 +1,678 @@
+{
+ "root": {
+  "data": {"text": "大乘密嚴經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx4eAa1",
+     "created": 1646116895164,
+     "text": "現藏錄（唐 地婆訶羅譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx4dAZ4",
+       "created": 1646116895163,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx4dAZ5",
+         "created": 1646116895163,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4dAZ6",
+         "created": 1646116895163,
+         "text": "大乘密嚴經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4dAZ7",
+         "created": 1646116895163,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4dAZ8",
+         "created": 1646116895163,
+         "text": "大乘密严经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4dAZ9",
+         "created": 1646116895163,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4dAZA",
+         "created": 1646116895163,
+         "text": "da cheng mi yan jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4dAZI",
+         "created": 1646116895163,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4dAZJ",
+         "created": 1646116895163,
+         "text": "Ta ch'eng mi yen ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4dAZK",
+         "created": 1646116895163,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4dAZL",
+         "created": 1646116895163,
+         "text": "Ghanavyūhasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4dAZM",
+         "created": 1646116895163,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4dAZN",
+         "created": 1646116895163,
+         "text": "Rgyan stug-po bkod-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4dAZO",
+         "created": 1646116895163,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4dAZP",
+         "created": 1646116895163,
+         "text": "대승밀엄경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4dAZB",
+       "created": 1646116895163,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4dAZC",
+       "created": 1646116895163,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4dAZD",
+       "created": 1646116895163,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4dAZE",
+        "created": 1646116895163,
+        "text": "唐 地婆訶羅譯"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZF",
+        "created": 1646116895163,
+        "text": "地婆訶羅",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4dAZG",
+       "created": 1646116895163,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4dAZH",
+       "created": 1646116895163,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4dAZQ",
+       "created": 1646116895163,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4dAZR",
+       "created": 1646116895163,
+       "text": "Translation by Divākara: between the 1st year of I Feng (儀鳳) and the 4th year of Ch'ui Kung (垂拱), T'ang dynasty (唐) (A.D. 676-688).T. 2152-368c:1."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4dAZS",
+       "created": 1646116895163,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4dAZT",
+        "created": 1646116895163,
+        "text": "【北京版】Mdo-sna tshogs (cu)1-62b"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZU",
+        "created": 1646116895163,
+        "text": "【奈塘版】Mdo (cha)1-76a"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZV",
+        "created": 1646116895163,
+        "text": "【德格版】Mdo-sde (cha)1b-55b"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZW",
+        "created": 1646116895163,
+        "text": "【拉薩版】Mdo (cha)l b-86a"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZX",
+        "created": 1646116895163,
+        "text": "【卓尼版】Mdo-maṅ (cha)1b-66a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4dAZY",
+       "created": 1646116895163,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4dAZZ",
+       "created": 1646116895163,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4dAZa",
+       "created": 1646116895163,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4dAZb",
+        "created": 1646116895163,
+        "text": "【房山石經】No.563《大乘密嚴經》(大唐)中天竺三藏地婆訶羅奉制譯 冊數：13 / 頁數：1 / 卷數：3 / 刻經年代：天慶五年刻石 / 瀏覽：目錄圖檔 千字文：絲"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZc",
+        "created": 1646116895163,
+        "text": "【開寶藏】No.416《密嚴經》唐 中天竺三藏地婆訶羅 譯 部別：大乘經 大乘經單譯 / 卷數：3 千字文：墨"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZd",
+        "created": 1646116895163,
+        "text": "【崇寧藏】No.415《大乘密嚴經》 卷數：3 千字文：悲(194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZe",
+        "created": 1646116895163,
+        "text": "【毘盧藏】No.413《大乘密嚴經》唐地婆訶羅譯 參考年代：(建炎元．六) 千字文：悲(194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZf",
+        "created": 1646116895163,
+        "text": "【圓覺藏】No.426《大乘密嚴經》 千字文：悲(194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZg",
+        "created": 1646116895163,
+        "text": "【趙城金藏】No.418《大乘密嚴經》 卷數：3 千字文：墨"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZh",
+        "created": 1646116895163,
+        "text": "【資福藏】No.430《大乘密嚴經》 卷數：3 (上中下) 千字文：悲(194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZi",
+        "created": 1646116895163,
+        "text": "【磧砂藏】No.431《大乘密嚴經》唐 地婆訶羅譯 部別：五大部外單譯經 / 冊數：13 / 頁數：340 / 卷數：3 千字文：悲 1 (194)-悲 3 (194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZj",
+        "created": 1646116895163,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZk",
+        "created": 1646116895163,
+        "text": "【高麗藏】No.417《大乘密嚴經》唐天竺三藏地婆訶羅譯 部別：大乘經 單譯 / 冊數：13 頁數：598 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：墨"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZl",
+        "created": 1646116895163,
+        "text": "【普寧藏】No.424《大乘密嚴經》 卷數：3 千字文：悲(194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZm",
+        "created": 1646116895163,
+        "text": "【至元錄】No.422《大乘密嚴經》 梵名：阿唎(二合)亞　迦拏尾喻訶　拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：3 千字文：悲(194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZn",
+        "created": 1646116895163,
+        "text": "【洪武南藏】No.377《大乘密嚴經》唐 中天竺國沙門地婆訶羅 奉詔譯 冊數：65-66 / 頁數：528 / 卷數：3 千字文：悲 1 (194)-悲 3 (194)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZo",
+        "created": 1646116895163,
+        "text": "【永樂南藏】No.422《大乘密嚴經》 部別：大乘經-單譯經 千字文：染(196)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZp",
+        "created": 1646116895163,
+        "text": "【永樂北藏】No.470《大乘密嚴經》唐地波訶羅譯 部別：大乘經單經譯 / 冊數：52 / 頁數：145 / 卷數：3 千字文：染"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZq",
+        "created": 1646116895163,
+        "text": "【嘉興藏】No.439《大乘密嚴經》唐地波訶羅譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0439 千字文 / 函號：［正藏］ 染(196)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZr",
+        "created": 1646116895163,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZs",
+        "created": 1646116895163,
+        "text": "【乾隆藏】No.440《大乘密嚴經》唐 地婆訶羅譯 部別：大乘單譯經 / 冊數：44 / 頁數：201 / 卷數：3 千字文：染"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZt",
+        "created": 1646116895163,
+        "text": "【縮刻藏】No.165《大乘密嚴經》唐地婆訶羅譯 部別：大乘經-方等部 / 卷數：3 千字文：黃 8 (4)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZu",
+        "created": 1646116895163,
+        "text": "【卍正藏】No.445《大乘密嚴經》唐 地婆訶羅譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：370 / 卷數：3 原版套數：第 12 套"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZv",
+        "created": 1646116895163,
+        "text": "【大正藏】No.681《大乘密嚴經》唐 地婆訶羅譯 部別：經集部三 / 冊數：16 / 頁數：723 / 卷數：3 相關經典：縮-黃8,卍-12.2 參考資料：No.682"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZw",
+        "created": 1646116895163,
+        "text": "【佛教大藏經】No.167《大乘密嚴經》唐 地婆訶羅譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：438 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZx",
+        "created": 1646116895163,
+        "text": "【中華藏】No.447《大乘密嚴經》唐天竺三藏地婆訶羅奉制譯 冊數：23 / 頁數：215 / 卷數：3 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZy",
+        "created": 1646116895163,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4dAZz",
+        "created": 1646116895163,
+        "text": "【南條文雄編號】 Nj. 0444"
+       }},
+       {"data": {
+        "id": "z5cYx4dAa0",
+        "created": 1646116895163,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：681"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYx4hAau",
+     "created": 1646116895167,
+     "text": "現藏錄（唐 不空譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx4gAa2",
+       "created": 1646116895166,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx4gAa3",
+         "created": 1646116895166,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4gAa4",
+         "created": 1646116895166,
+         "text": "大乘密嚴經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4gAa5",
+         "created": 1646116895166,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4gAa6",
+         "created": 1646116895166,
+         "text": "大乘密严经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4gAa7",
+         "created": 1646116895166,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4gAa8",
+         "created": 1646116895166,
+         "text": "da cheng mi yan jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4gAaG",
+         "created": 1646116895166,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4gAaH",
+         "created": 1646116895166,
+         "text": "Ta ch'eng mi yen ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4gAaI",
+         "created": 1646116895166,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4gAaJ",
+         "created": 1646116895166,
+         "text": "Ghanavyūhasūtra"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4gAaK",
+         "created": 1646116895166,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4gAaL",
+         "created": 1646116895166,
+         "text": "Rgyan stug-po bkod-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4gAaM",
+         "created": 1646116895166,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4gAaN",
+         "created": 1646116895166,
+         "text": "대승밀엄경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4gAa9",
+       "created": 1646116895166,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4gAaA",
+       "created": 1646116895166,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4gAaB",
+       "created": 1646116895166,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4gAaC",
+        "created": 1646116895166,
+        "text": "唐 不空譯"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaD",
+        "created": 1646116895166,
+        "text": "不空",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4gAaE",
+       "created": 1646116895166,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4gAaF",
+       "created": 1646116895166,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4gAaO",
+       "created": 1646116895166,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4gAaP",
+       "created": 1646116895166,
+       "text": "Translation by Amoghavajra: (see K.1272)."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYx4gAaQ",
+      "created": 1646116895166,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYx4gAaR",
+       "created": 1646116895166,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4gAaS",
+       "created": 1646116895166,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4gAaT",
+       "created": 1646116895166,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4gAaU",
+        "created": 1646116895166,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaV",
+        "created": 1646116895166,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaW",
+        "created": 1646116895166,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaX",
+        "created": 1646116895166,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaY",
+        "created": 1646116895166,
+        "text": "【圓覺藏】No.1383《大乘密嚴經》 卷數：3 千字文：衡(536)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaZ",
+        "created": 1646116895166,
+        "text": "【趙城金藏】No.1357《密嚴經》 卷數：3 千字文：實"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaa",
+        "created": 1646116895166,
+        "text": "【資福藏】No.1388《密嚴經》 卷數：3 (三卷) 千字文：衡(536)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAab",
+        "created": 1646116895166,
+        "text": "【磧砂藏】No.1392《大乘密嚴經》唐 不空譯 部別： / 冊數：34 / 頁數：552 / 卷數：3 千字文：衡 1 (536)-衡 3 (536)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAac",
+        "created": 1646116895166,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAad",
+        "created": 1646116895166,
+        "text": "【高麗藏】No.1344《大乘密嚴經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：37 頁數：112 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：阜"
+       }},
+       {"data": {
+        "id": "z5cYx4gAae",
+        "created": 1646116895166,
+        "text": "【普寧藏】No.1383《大乘密嚴經》 卷數：3 千字文：衡(536)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaf",
+        "created": 1646116895166,
+        "text": "【至元錄】No.483《大乘密嚴經》唐三藏大廣智不空譯 梵名：阿唎(二合)亞　迦拏尾喻訶拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：3 千字文：詩(197)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAag",
+        "created": 1646116895166,
+        "text": "【洪武南藏】No.1239《大乘密嚴經》三藏沙門大廣智不空 奉詔譯 冊數：190 / 頁數：1 / 卷數：3 千字文：衡 1 (536)-衡 3 (536)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAah",
+        "created": 1646116895166,
+        "text": "【永樂南藏】No.1013《大乘密嚴經》 部別：宋元入藏諸大小乘經 千字文：不(275)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAai",
+        "created": 1646116895166,
+        "text": "【永樂北藏】No.1003《大乘密嚴經》唐不空譯 部別：宋元入藏諸大小乘經 / 冊數：70 / 頁數：305 / 卷數：3 千字文：清"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaj",
+        "created": 1646116895166,
+        "text": "【嘉興藏】No.969《大乘密嚴經》唐不空譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0969 千字文 / 函號：［正藏］ 清(264)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAak",
+        "created": 1646116895166,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAal",
+        "created": 1646116895166,
+        "text": "【乾隆藏】No.966《大乘密嚴經》唐 不空譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：301 / 卷數：3 千字文：清"
+       }},
+       {"data": {
+        "id": "z5cYx4gAam",
+        "created": 1646116895166,
+        "text": "【縮刻藏】No.1293《大乘密嚴經》唐不空譯 部別：祕密部 / 卷數：3 千字文： 15 (25)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAan",
+        "created": 1646116895166,
+        "text": "【卍正藏】No.975《大乘密嚴經》不空譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：621 / 卷數：3 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYx4gAao",
+        "created": 1646116895166,
+        "text": "【大正藏】No.682《大乘密嚴經》唐 不空譯 部別：經集部三 / 冊數：16 / 頁數：747 / 卷數：3 相關經典：縮-閏15,卍-15.9,國-經16 參考資料：No.681"
+       }},
+       {"data": {
+        "id": "z5cYx4gAap",
+        "created": 1646116895166,
+        "text": "【佛教大藏經】No.1366《大乘密嚴經》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：1379 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYx4gAaq",
+        "created": 1646116895166,
+        "text": "【中華藏】No.1474《大乘密嚴經》大興善寺三藏沙門不空奉詔譯 冊數：66 / 頁數：16 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx4gAar",
+        "created": 1646116895166,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4gAas",
+        "created": 1646116895166,
+        "text": "【南條文雄編號】 Nj. 0971"
+       }},
+       {"data": {
+        "id": "z5cYx4gAat",
+        "created": 1646116895166,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：682"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxa3kx",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "五事毘婆沙論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxl6Mty",
+    "created": 1646116897796,
+    "text": "現藏錄（尊者法救造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxl4Mt5",
+      "created": 1646116897794,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxl4Mt6",
+        "created": 1646116897794,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxl4Mt7",
+        "created": 1646116897794,
+        "text": "五事毘婆沙論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxl4Mt8",
+        "created": 1646116897794,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxl4Mt9",
+        "created": 1646116897794,
+        "text": "五事毘婆沙论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxl4MtA",
+        "created": 1646116897794,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxl5MtB",
+        "created": 1646116897795,
+        "text": "wu shi pi po sha lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxl5MtK",
+        "created": 1646116897795,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxl5MtL",
+        "created": 1646116897795,
+        "text": "Wu shih p'i p'o sha lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxl5MtM",
+        "created": 1646116897795,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxl5MtN",
+        "created": 1646116897795,
+        "text": "Pañcavastukavibhāṣa",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxl5MtO",
+        "created": 1646116897795,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxl5MtP",
+        "created": 1646116897795,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxl5MtQ",
+        "created": 1646116897795,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxl5MtR",
+        "created": 1646116897795,
+        "text": "오사비바사론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxl5MtC",
+      "created": 1646116897795,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxl5MtD",
+      "created": 1646116897795,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxl5MtE",
+      "created": 1646116897795,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxl5MtF",
+       "created": 1646116897795,
+       "text": "尊者法救造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxl5MtG",
+       "created": 1646116897795,
+       "text": "法救",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxl5MtH",
+       "created": 1646116897795,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxl5MtI",
+      "created": 1646116897795,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxl5MtJ",
+      "created": 1646116897795,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxl5MtS",
+      "created": 1646116897795,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxl5MtT",
+      "created": 1646116897795,
+      "text": "Translated by Hsüan-tsang: 13th day, 10th month, 3rd year of Lung Shuo (龍朔), T'ang dynasty (唐) (Nov. 18th, A.D. 663) in Ta-tz'u-en Monastery (大慈恩寺).T.2154-557b:3"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxl5MtU",
+     "created": 1646116897795,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxl5MtV",
+      "created": 1646116897795,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxl5MtW",
+      "created": 1646116897795,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxl5MtX",
+      "created": 1646116897795,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxl5MtY",
+       "created": 1646116897795,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxl5MtZ",
+       "created": 1646116897795,
+       "text": "【開寶藏】No.965《五事毗婆沙論》唐 法救 造 三藏玄奘 譯 部別：小乘論 聲聞對法藏 / 卷數：2 千字文：洛"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mta",
+       "created": 1646116897795,
+       "text": "【崇寧藏】No.968《五事毘婆沙論》 卷數：2 千字文：面(419)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mtb",
+       "created": 1646116897795,
+       "text": "【毘盧藏】No.968《五事毘婆沙論》尊者法救造　序唐太宗御製　唐玄奘譯 參考年代：(紹興一八．閏八) 千字文：面(419)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mtc",
+       "created": 1646116897795,
+       "text": "【圓覺藏】No.977《五事毘婆沙論》 千字文：面(419)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mtd",
+       "created": 1646116897795,
+       "text": "【趙城金藏】No.972《五事毗婆沙論》 卷數：2 千字文：面"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mte",
+       "created": 1646116897795,
+       "text": "【資福藏】No.983《五事毘婆沙論》 卷數：2 (上下) 千字文：面(419)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mtf",
+       "created": 1646116897795,
+       "text": "【磧砂藏】No.993《五事毗婆沙論》唐 玄奘譯 部別： / 冊數：27 / 頁數：301 / 卷數：2 千字文：面 11 (419)-面 12 (419)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mtg",
+       "created": 1646116897795,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mth",
+       "created": 1646116897795,
+       "text": "【高麗藏】No.970《五事毘婆沙論》三藏法師玄奘奉詔譯 部別：小乘論 / 冊數：29 頁數：294 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：面"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mti",
+       "created": 1646116897795,
+       "text": "【普寧藏】No.984《五事毘婆沙論》 卷數：2 千字文：面(419)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mtj",
+       "created": 1646116897795,
+       "text": "【至元錄】No.1420《五事毘婆沙論》尊者法救造　唐三藏玄奘譯 卷數：2 千字文：碑(526)"
+      }},
+      {"data": {
+       "id": "z5cYxl5Mtk",
+       "created": 1646116897795,
+       "text": "【洪武南藏】No.877《五事毗婆沙論》尊者法救 造　三藏法師玄奘 奉詔譯　 冊數：149 / 頁數：149 / 卷數：2 千字文：面 11 (419)-面 12 (419)"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtl",
+       "created": 1646116897796,
+       "text": "【永樂南藏】No.1425《五事毘婆沙論》 部別：小乘論 千字文：群(479)-杜(481)"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtm",
+       "created": 1646116897796,
+       "text": "【永樂北藏】No.1339《五事毗婆沙論》唐玄奘譯 部別：小乘論 / 冊數：122 / 頁數：875 / 卷數：0 千字文：席"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtn",
+       "created": 1646116897796,
+       "text": "【嘉興藏】No.1275《五事毘婆沙論》唐玄奘譯 部別：小乘論 / 法寶總目錄經號：1274 千字文 / 函號：［正藏］ 席(452)"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mto",
+       "created": 1646116897796,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtp",
+       "created": 1646116897796,
+       "text": "【乾隆藏】No.1276《五事毗婆沙論》法救造　(唐)玄奘譯 部別：小乘論 / 冊數：101 / 頁數：183 / 卷數：2 千字文：席"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtq",
+       "created": 1646116897796,
+       "text": "【縮刻藏】No.1025《五事毘婆沙論》尊者法救造　唐玄奘譯 部別：印度小乘論 / 卷數：2 千字文：藏 1 (24)"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtr",
+       "created": 1646116897796,
+       "text": "【卍正藏】No.1290《五事毗婆沙論》唐 玄奘譯 部別：小乘論 / 冊數：47 / 頁數：671 / 卷數：2 原版套數：第 25 套"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mts",
+       "created": 1646116897796,
+       "text": "【大正藏】No.1555《五事毘婆沙論》尊者法救造 唐 玄奘譯 部別：毘曇部三 / 冊數：28 / 頁數：989 / 卷數：2 相關經典：縮-藏1,卍-25.4 參考資料：No.1556"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtt",
+       "created": 1646116897796,
+       "text": "【佛教大藏經】No.1069《五事毘婆沙論》唐 玄奘譯 部別：小乘論 論部十三 / 冊數：47 / 頁數：42 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtu",
+       "created": 1646116897796,
+       "text": "【中華藏】No.1055《五事毗婆沙論》尊者法救造，三藏法師玄奘奉詔譯 冊數：49 / 頁數：858 / 卷數：2 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtv",
+       "created": 1646116897796,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtw",
+       "created": 1646116897796,
+       "text": "【南條文雄編號】 Nj. 1283"
+      }},
+      {"data": {
+       "id": "z5cYxl6Mtx",
+       "created": 1646116897796,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1555"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzb41at",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

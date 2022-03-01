@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "大乘破有論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxm1NBE",
+    "created": 1646116897853,
+    "text": "現藏錄（龍樹菩薩造　宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxm1NAH",
+      "created": 1646116897853,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxm1NAI",
+        "created": 1646116897853,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxm1NAJ",
+        "created": 1646116897853,
+        "text": "大乘破有論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxm1NAK",
+        "created": 1646116897853,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxm1NAL",
+        "created": 1646116897853,
+        "text": "大乘破有论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxm1NAM",
+        "created": 1646116897853,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxm1NAN",
+        "created": 1646116897853,
+        "text": "da cheng po you lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxm1NAW",
+        "created": 1646116897853,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxm1NAX",
+        "created": 1646116897853,
+        "text": "Ta ch'eng p'o yu lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxm1NAY",
+        "created": 1646116897853,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxm1NAZ",
+        "created": 1646116897853,
+        "text": "Bhavasaṅkrantiśāstra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxm1NAa",
+        "created": 1646116897853,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxm1NAb",
+        "created": 1646116897853,
+        "text": "Srid-pa-las ḥdas-paḥi gtam"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxm1NAc",
+        "created": 1646116897853,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxm1NAd",
+        "created": 1646116897853,
+        "text": "대승파유론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxm1NAO",
+      "created": 1646116897853,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxm1NAP",
+      "created": 1646116897853,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxm1NAQ",
+      "created": 1646116897853,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxm1NAR",
+       "created": 1646116897853,
+       "text": "龍樹菩薩造　宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAS",
+       "created": 1646116897853,
+       "text": "施護",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxm1NAT",
+       "created": 1646116897853,
+       "text": "龍樹",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxm1NAU",
+      "created": 1646116897853,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxm1NAV",
+      "created": 1646116897853,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxm1NAe",
+      "created": 1646116897853,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxm1NAf",
+      "created": 1646116897853,
+      "text": "Translation by Dānapāla: (see K.1429)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxm1NAg",
+      "created": 1646116897853,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxm1NAh",
+       "created": 1646116897853,
+       "text": "【北京版】Mdo-ḥgrel (Dbu-ma) (tsa)170b-171b(gi)227a-228a(ṅe)201a-202a"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAi",
+       "created": 1646116897853,
+       "text": "【奈塘版】Mdo-ḥgrel (tsa)161b-162a(gi)216a-217a(ṅe)196b-197b"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAj",
+       "created": 1646116897853,
+       "text": "【德格版】Dbu-ma (tsa)151a-151b(ge)167a-168a190a-b"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAk",
+       "created": 1646116897853,
+       "text": "【卓尼版】Dbu-ma (tsa)148a-149a(ge)176a-177a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxm1NAl",
+      "created": 1646116897853,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxm1NAm",
+      "created": 1646116897853,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxm1NAn",
+      "created": 1646116897853,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxm1NAo",
+       "created": 1646116897853,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAp",
+       "created": 1646116897853,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAq",
+       "created": 1646116897853,
+       "text": "【崇寧藏】No.1301《大乘破有論》 卷數：1 千字文：旦(542)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAr",
+       "created": 1646116897853,
+       "text": "【毘盧藏】No.1299《大乘破有論》宋施護譯 參考年代：(紹興一八．閏八) 千字文：旦(542)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAs",
+       "created": 1646116897853,
+       "text": "【圓覺藏】No.1300《大乘破有論》 千字文：肥(519)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAt",
+       "created": 1646116897853,
+       "text": "【趙城金藏】No.1431《大乘破有論》 卷數：1 千字文：桓"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAu",
+       "created": 1646116897853,
+       "text": "【資福藏】No.1305《大乘破有論》 卷數：1 千字文：肥(519)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAv",
+       "created": 1646116897853,
+       "text": "【磧砂藏】No.1308《大乘破有論》宋 施護譯 部別： / 冊數：33 / 頁數：707 / 卷數：1 千字文：肥 9 (519)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAw",
+       "created": 1646116897853,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAx",
+       "created": 1646116897853,
+       "text": "【高麗藏】No.1433《大乘破有論》天竺三藏施護譯 部別：宋續入藏經 / 冊數：40 頁數：386 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：起"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAy",
+       "created": 1646116897853,
+       "text": "【普寧藏】No.1301《大乘破有論》 卷數：1 千字文：肥(519)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NAz",
+       "created": 1646116897853,
+       "text": "【至元錄】No.1384《大乘破有論》大龍樹造　宋天竺三藏施護譯 卷數：1 千字文：楹(448)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB0",
+       "created": 1646116897853,
+       "text": "【洪武南藏】No.1160《大乘破有論》西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫臣施護 奉詔譯 冊數：186 / 頁數：89 / 卷數：1 千字文：肥 9 (519)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB1",
+       "created": 1646116897853,
+       "text": "【永樂南藏】No.1438《大乘破有論》 部別：續入藏諸論 千字文：書(486)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB2",
+       "created": 1646116897853,
+       "text": "【永樂北藏】No.1362《大乘破有論》宋施護譯 部別：宋元續入藏諸論 / 冊數：126 / 頁數：188 / 卷數：1 千字文：星"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB3",
+       "created": 1646116897853,
+       "text": "【嘉興藏】No.1297《大乘破有論》宋施護譯 部別：宋元續入藏諸論 / 法寶總目錄經號：1296 千字文 / 函號：［正藏］ 星(464)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB4",
+       "created": 1646116897853,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB5",
+       "created": 1646116897853,
+       "text": "【乾隆藏】No.1298《大乘破有論》龍樹造　(宋)施護譯 部別：宋元續入藏諸論 / 冊數：103 / 頁數：741 / 卷數：1 千字文：星"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB6",
+       "created": 1646116897853,
+       "text": "【縮刻藏】No.916《大乘破有論》龍樹菩薩造　宋施護譯 部別：印度大乘宗經論 / 卷數：1 千字文：暑 1 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB7",
+       "created": 1646116897853,
+       "text": "【卍正藏】No.1312《大乘破有論》施護譯 部別：宋元續入藏諸論 / 冊數：48 / 頁數：860 / 卷數：1 原版套數：第 25 套"
+      }},
+      {"data": {
+       "id": "z5cYxm1NB8",
+       "created": 1646116897853,
+       "text": "【大正藏】No.1574《大乘破有論》龍樹菩薩造 宋 施護譯 部別：中觀部全 / 冊數：30 / 頁數：254 / 卷數：1 相關經典：縮-暑1,卍-25.10,國-中3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxm1NB9",
+       "created": 1646116897853,
+       "text": "【佛教大藏經】No.958《大乘破有論》宋 施護譯 部別：大乘宗經論 論部三 / 冊數：37 / 頁數：15 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxm1NBA",
+       "created": 1646116897853,
+       "text": "【中華藏】No.1557《大乘破有論》龍樹菩薩造，西天譯經三藏朝奉大夫試光祿卿傳法大師施護奉詔譯 冊數：67 / 頁數：629 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxm1NBB",
+       "created": 1646116897853,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxm1NBC",
+       "created": 1646116897853,
+       "text": "【南條文雄編號】 Nj. 1305"
+      }},
+      {"data": {
+       "id": "z5cYxm1NBD",
+       "created": 1646116897853,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1574"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzct1bc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

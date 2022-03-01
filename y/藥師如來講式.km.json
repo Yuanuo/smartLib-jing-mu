@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "藥師如來講式"},
+  "children": [{
+   "data": {
+    "id": "z5cYyWjbAe",
+    "created": 1646116900749,
+    "text": "現藏錄（日本 最澄作）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyWjb9z",
+      "created": 1646116900749,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyWjbA0",
+        "created": 1646116900749,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWjbA1",
+        "created": 1646116900749,
+        "text": "藥師如來講式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyWjbA2",
+        "created": 1646116900749,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWjbA3",
+        "created": 1646116900749,
+        "text": "药师如来讲式",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyWjbA4",
+        "created": 1646116900749,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyWjbA5",
+        "created": 1646116900749,
+        "text": "yao shi ru lai jiang shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyWjbA6",
+      "created": 1646116900749,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyWjbA7",
+      "created": 1646116900749,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyWjbA8",
+      "created": 1646116900749,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyWjbA9",
+       "created": 1646116900749,
+       "text": "日本 最澄作"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAA",
+       "created": 1646116900749,
+       "text": "最澄",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyWjbAB",
+      "created": 1646116900749,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyWjbAC",
+      "created": 1646116900749,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyWjbAD",
+      "created": 1646116900749,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyWjbAE",
+       "created": 1646116900749,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAF",
+       "created": 1646116900749,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAG",
+       "created": 1646116900749,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAH",
+       "created": 1646116900749,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAI",
+       "created": 1646116900749,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAJ",
+       "created": 1646116900749,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAK",
+       "created": 1646116900749,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAL",
+       "created": 1646116900749,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAM",
+       "created": 1646116900749,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAN",
+       "created": 1646116900749,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAO",
+       "created": 1646116900749,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAP",
+       "created": 1646116900749,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAQ",
+       "created": 1646116900749,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAR",
+       "created": 1646116900749,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAS",
+       "created": 1646116900749,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAT",
+       "created": 1646116900749,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAU",
+       "created": 1646116900749,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAV",
+       "created": 1646116900749,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAW",
+       "created": 1646116900749,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAX",
+       "created": 1646116900749,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAY",
+       "created": 1646116900749,
+       "text": "【大正藏】No.2722《藥師如來講式》日本 最澄作 部別：悉曇部全 / 冊數：84 / 頁數：875 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyWjbAZ",
+       "created": 1646116900749,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAa",
+       "created": 1646116900749,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAb",
+       "created": 1646116900749,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAc",
+       "created": 1646116900749,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyWjbAd",
+       "created": 1646116900749,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2722"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1l8298",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

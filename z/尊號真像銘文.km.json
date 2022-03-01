@@ -1,0 +1,474 @@
+{
+ "root": {
+  "data": {"text": "尊號真像銘文"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyUOaRD",
+     "created": 1646116900604,
+     "text": "現藏錄（日本 親鸞撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyUOaQY",
+       "created": 1646116900604,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyUOaQZ",
+         "created": 1646116900604,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUOaQa",
+         "created": 1646116900604,
+         "text": "尊號真像銘文",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUOaQb",
+         "created": 1646116900604,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUOaQc",
+         "created": 1646116900604,
+         "text": "尊号真像铭文",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUOaQd",
+         "created": 1646116900604,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUOaQe",
+         "created": 1646116900604,
+         "text": "zun hao zhen xiang ming wen"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyUOaQf",
+       "created": 1646116900604,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUOaQg",
+       "created": 1646116900604,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUOaQh",
+       "created": 1646116900604,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyUOaQi",
+        "created": 1646116900604,
+        "text": "日本 親鸞撰"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQj",
+        "created": 1646116900604,
+        "text": "親鸞",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyUOaQk",
+       "created": 1646116900604,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUOaQl",
+       "created": 1646116900604,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUOaQm",
+       "created": 1646116900604,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyUOaQn",
+        "created": 1646116900604,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQo",
+        "created": 1646116900604,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQp",
+        "created": 1646116900604,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQq",
+        "created": 1646116900604,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQr",
+        "created": 1646116900604,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQs",
+        "created": 1646116900604,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQt",
+        "created": 1646116900604,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQu",
+        "created": 1646116900604,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQv",
+        "created": 1646116900604,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQw",
+        "created": 1646116900604,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQx",
+        "created": 1646116900604,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQy",
+        "created": 1646116900604,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaQz",
+        "created": 1646116900604,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR0",
+        "created": 1646116900604,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR1",
+        "created": 1646116900604,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR2",
+        "created": 1646116900604,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR3",
+        "created": 1646116900604,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR4",
+        "created": 1646116900604,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR5",
+        "created": 1646116900604,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR6",
+        "created": 1646116900604,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR7",
+        "created": 1646116900604,
+        "text": "【大正藏】No.2656a《尊號真像銘文》日本 親鸞撰 部別：續諸宗部十四 / 冊數：83 / 頁數：679 / 卷數：2 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYyUOaR8",
+        "created": 1646116900604,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaR9",
+        "created": 1646116900604,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaRA",
+        "created": 1646116900604,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaRB",
+        "created": 1646116900604,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUOaRC",
+        "created": 1646116900604,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2656"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyURaRq",
+     "created": 1646116900607,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyUQaRE",
+       "created": 1646116900606,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyUQaRF",
+         "created": 1646116900606,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUQaRG",
+         "created": 1646116900606,
+         "text": "尊號真像銘文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUQaRH",
+         "created": 1646116900606,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUQaRI",
+         "created": 1646116900606,
+         "text": "尊号真像铭文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUQaRJ",
+         "created": 1646116900606,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUQaRK",
+         "created": 1646116900606,
+         "text": "zun hao zhen xiang ming wen"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyUQaRL",
+       "created": 1646116900606,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUQaRM",
+       "created": 1646116900606,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUQaRN",
+       "created": 1646116900606,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUQaRO",
+       "created": 1646116900606,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUQaRP",
+       "created": 1646116900606,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyUQaRQ",
+        "created": 1646116900606,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRR",
+        "created": 1646116900606,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRS",
+        "created": 1646116900606,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRT",
+        "created": 1646116900606,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRU",
+        "created": 1646116900606,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRV",
+        "created": 1646116900606,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRW",
+        "created": 1646116900606,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRX",
+        "created": 1646116900606,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRY",
+        "created": 1646116900606,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRZ",
+        "created": 1646116900606,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRa",
+        "created": 1646116900606,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRb",
+        "created": 1646116900606,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRc",
+        "created": 1646116900606,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRd",
+        "created": 1646116900606,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRe",
+        "created": 1646116900606,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRf",
+        "created": 1646116900606,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRg",
+        "created": 1646116900606,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRh",
+        "created": 1646116900606,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRi",
+        "created": 1646116900606,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRj",
+        "created": 1646116900606,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRk",
+        "created": 1646116900606,
+        "text": "【大正藏】No.2656b《尊號真像銘文》 部別：續諸宗部十四 / 冊數：83 / 頁數：688 / 卷數：1 相關經典： 參考資料：異本"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRl",
+        "created": 1646116900606,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRm",
+        "created": 1646116900606,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRn",
+        "created": 1646116900606,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRo",
+        "created": 1646116900606,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUQaRp",
+        "created": 1646116900606,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2656"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1h727c",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

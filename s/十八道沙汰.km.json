@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "十八道沙汰"},
+  "children": [{
+   "data": {
+    "id": "z5cYyOAYsc",
+    "created": 1646116900218,
+    "text": "現藏錄（日本 覺鍐撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyOAYrx",
+      "created": 1646116900218,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyOAYry",
+        "created": 1646116900218,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOAYrz",
+        "created": 1646116900218,
+        "text": "十八道沙汰",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOAYs0",
+        "created": 1646116900218,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOAYs1",
+        "created": 1646116900218,
+        "text": "十八道沙汰"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOAYs2",
+        "created": 1646116900218,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOAYs3",
+        "created": 1646116900218,
+        "text": "shi ba dao sha tai"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOAYs4",
+      "created": 1646116900218,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOAYs5",
+      "created": 1646116900218,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOAYs6",
+      "created": 1646116900218,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOAYs7",
+       "created": 1646116900218,
+       "text": "日本 覺鍐撰"
+      }},
+      {"data": {
+       "id": "z5cYyOAYs8",
+       "created": 1646116900218,
+       "text": "覺鍐",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOAYs9",
+      "created": 1646116900218,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOAYsA",
+      "created": 1646116900218,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOAYsB",
+      "created": 1646116900218,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOAYsC",
+       "created": 1646116900218,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsD",
+       "created": 1646116900218,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsE",
+       "created": 1646116900218,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsF",
+       "created": 1646116900218,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsG",
+       "created": 1646116900218,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsH",
+       "created": 1646116900218,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsI",
+       "created": 1646116900218,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsJ",
+       "created": 1646116900218,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsK",
+       "created": 1646116900218,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsL",
+       "created": 1646116900218,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsM",
+       "created": 1646116900218,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsN",
+       "created": 1646116900218,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsO",
+       "created": 1646116900218,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsP",
+       "created": 1646116900218,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsQ",
+       "created": 1646116900218,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsR",
+       "created": 1646116900218,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsS",
+       "created": 1646116900218,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsT",
+       "created": 1646116900218,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsU",
+       "created": 1646116900218,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsV",
+       "created": 1646116900218,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsW",
+       "created": 1646116900218,
+       "text": "【大正藏】No.2517《十八道沙汰》日本 覺鍐撰 部別：續諸宗部十 / 冊數：79 / 頁數：25 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyOAYsX",
+       "created": 1646116900218,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsY",
+       "created": 1646116900218,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsZ",
+       "created": 1646116900218,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsa",
+       "created": 1646116900218,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOAYsb",
+       "created": 1646116900218,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2517"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri16i23e",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

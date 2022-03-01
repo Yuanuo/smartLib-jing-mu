@@ -1,0 +1,567 @@
+{
+ "root": {
+  "data": {"text": "佛說清淨心經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxBWCMA",
+     "created": 1646116895590,
+     "text": "現藏錄（宋 施護等譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxBWCLJ",
+       "created": 1646116895590,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxBWCLK",
+         "created": 1646116895590,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBWCLL",
+         "created": 1646116895590,
+         "text": "佛說清淨心經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBWCLM",
+         "created": 1646116895590,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBWCLN",
+         "created": 1646116895590,
+         "text": "佛说清净心经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBWCLO",
+         "created": 1646116895590,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBWCLP",
+         "created": 1646116895590,
+         "text": "fo shuo qing jing xin jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBWCLX",
+         "created": 1646116895590,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBWCLY",
+         "created": 1646116895590,
+         "text": "Ch'ing ching hsin ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYxBWCLZ",
+        "created": 1646116895590,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYxBWCLa",
+         "created": 1646116895590,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBWCLb",
+         "created": 1646116895590,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBWCLc",
+         "created": 1646116895590,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBWCLd",
+         "created": 1646116895590,
+         "text": "청정심경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxBWCLQ",
+       "created": 1646116895590,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBWCLR",
+       "created": 1646116895590,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBWCLS",
+       "created": 1646116895590,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxBWCLT",
+        "created": 1646116895590,
+        "text": "宋 施護等譯"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLU",
+        "created": 1646116895590,
+        "text": "施護",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxBWCLV",
+       "created": 1646116895590,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBWCLW",
+       "created": 1646116895590,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBWCLe",
+       "created": 1646116895590,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBWCLf",
+       "created": 1646116895590,
+       "text": "Translation by Dānapāla: (see K.1470)."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxBWCLg",
+      "created": 1646116895590,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxBWCLh",
+       "created": 1646116895590,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBWCLi",
+       "created": 1646116895590,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBWCLj",
+       "created": 1646116895590,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxBWCLk",
+        "created": 1646116895590,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLl",
+        "created": 1646116895590,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLm",
+        "created": 1646116895590,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLn",
+        "created": 1646116895590,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLo",
+        "created": 1646116895590,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLp",
+        "created": 1646116895590,
+        "text": "【趙城金藏】No.1472《佛說清淨心經》 卷數：1 千字文：說"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLq",
+        "created": 1646116895590,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLr",
+        "created": 1646116895590,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLs",
+        "created": 1646116895590,
+        "text": "【宋藏遺珍】No.9《佛說清淨心經》宋 施護等 譯 六冊版冊數：1 / 頁數：115 / 卷數：1 四冊版冊數：37 / 頁數：563"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLt",
+        "created": 1646116895590,
+        "text": "【高麗藏】No.1474《淸淨心經》施護譯 部別：宋續入藏經 / 冊數：40 頁數：848 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：馳"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLu",
+        "created": 1646116895590,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLv",
+        "created": 1646116895590,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLw",
+        "created": 1646116895590,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLx",
+        "created": 1646116895590,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLy",
+        "created": 1646116895590,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCLz",
+        "created": 1646116895590,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM0",
+        "created": 1646116895590,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM1",
+        "created": 1646116895590,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM2",
+        "created": 1646116895590,
+        "text": "【縮刻藏】No.677《佛說清淨心經》宋施護等譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM3",
+        "created": 1646116895590,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM4",
+        "created": 1646116895590,
+        "text": "【大正藏】No.803《佛說清淨心經》宋 施護等譯 部別：經集部四 / 冊數：17 / 頁數：749 / 卷數：1 相關經典：續-1.1.4 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxBWCM5",
+        "created": 1646116895590,
+        "text": "【佛教大藏經】No.697《佛說清淨心經》宋 施護等譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：273 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM6",
+        "created": 1646116895590,
+        "text": "【中華藏】No.1596《佛說清淨心經》西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫沙門施護等奉詔譯 冊數：68 / 頁數：225 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM7",
+        "created": 1646116895590,
+        "text": "【新纂卍續藏】No.43《佛說清淨心經》宋 施護等譯 部別：印度撰述 經部六 小乘部 / 冊數：1 / 頁數：486 / 卷數：1 《卍大日本續藏經》套數：第一編．第 1 套 《卍續藏經》(新文豐版)冊數：第 1 冊"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM8",
+        "created": 1646116895590,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBWCM9",
+        "created": 1646116895590,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：803"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzFwoso",
+     "created": 1646116903552,
+     "text": "現藏錄（唐 勿提提犀魚譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzFwos9",
+       "created": 1646116903552,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzFwosA",
+         "created": 1646116903552,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzFwosB",
+         "created": 1646116903552,
+         "text": "清淨心經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzFwosC",
+         "created": 1646116903552,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzFwosD",
+         "created": 1646116903552,
+         "text": "清净心经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzFwosE",
+         "created": 1646116903552,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzFwosF",
+         "created": 1646116903552,
+         "text": "qing jing xin jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzFwosG",
+       "created": 1646116903552,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzFwosH",
+       "created": 1646116903552,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzFwosI",
+       "created": 1646116903552,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzFwosJ",
+        "created": 1646116903552,
+        "text": "唐 勿提提犀魚譯"
+       }},
+       {"data": {
+        "id": "z5cYzFwosK",
+        "created": 1646116903552,
+        "text": "勿提提犀魚",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzFwosL",
+       "created": 1646116903552,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzFwosM",
+       "created": 1646116903552,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzFwosN",
+       "created": 1646116903552,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzFwosO",
+        "created": 1646116903552,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosP",
+        "created": 1646116903552,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosQ",
+        "created": 1646116903552,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosR",
+        "created": 1646116903552,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosS",
+        "created": 1646116903552,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosT",
+        "created": 1646116903552,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosU",
+        "created": 1646116903552,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosV",
+        "created": 1646116903552,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosW",
+        "created": 1646116903552,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosX",
+        "created": 1646116903552,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosY",
+        "created": 1646116903552,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosZ",
+        "created": 1646116903552,
+        "text": "【至元錄】No.1172《清淨心經》安西三藏勿提犀魚譯(於北庭譯) 卷數：1 千字文：受(338)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosa",
+        "created": 1646116903552,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosb",
+        "created": 1646116903552,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosc",
+        "created": 1646116903552,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosd",
+        "created": 1646116903552,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwose",
+        "created": 1646116903552,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosf",
+        "created": 1646116903552,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosg",
+        "created": 1646116903552,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosh",
+        "created": 1646116903552,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosi",
+        "created": 1646116903552,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosj",
+        "created": 1646116903552,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosk",
+        "created": 1646116903552,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosl",
+        "created": 1646116903552,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosm",
+        "created": 1646116903552,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzFwosn",
+        "created": 1646116903552,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】 (未收錄)"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxlyog",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

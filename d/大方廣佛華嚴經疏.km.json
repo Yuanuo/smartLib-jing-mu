@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "大方廣佛華嚴經疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYxtYPPl",
+    "created": 1646116898320,
+    "text": "現藏錄（唐 澄觀撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxtYPP5",
+      "created": 1646116898320,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxtYPP6",
+        "created": 1646116898320,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxtYPP7",
+        "created": 1646116898320,
+        "text": "大方廣佛華嚴經疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxtYPP8",
+        "created": 1646116898320,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxtYPP9",
+        "created": 1646116898320,
+        "text": "大方广佛华严经疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxtYPPA",
+        "created": 1646116898320,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxtYPPB",
+        "created": 1646116898320,
+        "text": "da fang guang fo hua yan jing shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxtYPPC",
+      "created": 1646116898320,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxtYPPD",
+      "created": 1646116898320,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxtYPPE",
+      "created": 1646116898320,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxtYPPF",
+       "created": 1646116898320,
+       "text": "唐 澄觀撰"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPG",
+       "created": 1646116898320,
+       "text": "實叉難陀",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxtYPPH",
+       "created": 1646116898320,
+       "text": "澄觀",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxtYPPI",
+      "created": 1646116898320,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxtYPPJ",
+      "created": 1646116898320,
+      "text": "60"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxtYPPK",
+      "created": 1646116898320,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxtYPPL",
+       "created": 1646116898320,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPM",
+       "created": 1646116898320,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPN",
+       "created": 1646116898320,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPO",
+       "created": 1646116898320,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPP",
+       "created": 1646116898320,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPQ",
+       "created": 1646116898320,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPR",
+       "created": 1646116898320,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPS",
+       "created": 1646116898320,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPT",
+       "created": 1646116898320,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPU",
+       "created": 1646116898320,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPV",
+       "created": 1646116898320,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPW",
+       "created": 1646116898320,
+       "text": "【至元錄】No.1583《大方廣佛華嚴經清涼疏》唐清涼國師澄觀造 卷數：40 千字文：洞(639)-遠(642)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPX",
+       "created": 1646116898320,
+       "text": "【洪武南藏】No.1420《大方廣佛華嚴經疏》清涼山大華嚴寺沙門澄觀 撰 冊數：229-231 / 頁數：89 / 卷數：32 千字文：本 1 (650)-務 8 (653)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPY",
+       "created": 1646116898320,
+       "text": "【永樂南藏】No.1573《大方廣佛華嚴經疏》 部別：此方撰述 千字文：頗(595)-最(599)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPZ",
+       "created": 1646116898320,
+       "text": "【永樂北藏】No.1671《大方廣佛華嚴經疏》唐澄觀述 部別：此土著述 / 冊數：169-171 / 頁數：1 / 卷數：60 千字文：用-威"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPa",
+       "created": 1646116898320,
+       "text": "【嘉興藏】No.1581《大方廣佛華嚴經疏》唐澄觀述 部別：此土著述 / 法寶總目錄經號：1580 千字文 / 函號：［正藏］ 用(597)-威(602)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPb",
+       "created": 1646116898320,
+       "text": "【嘉興藏新文豐版】［正藏］No.98《大方廣佛華嚴經疏》唐 澄觀撰 冊數：4 / 頁數：285 / 卷數：60"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPc",
+       "created": 1646116898320,
+       "text": "【乾隆藏】No.1557《大方廣佛華嚴經疏鈔會本》唐 實叉難陀譯　澄觀撰述 部別：此土著述 / 冊數：130-133 / 頁數：1 / 卷數：220 千字文：困-牧"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPd",
+       "created": 1646116898320,
+       "text": "【縮刻藏】No.1680《大方廣佛華嚴經疏》唐澄觀撰 部別：支那撰述-經疏部 / 卷數：60 千字文：歲 1 (28)-歲 4 (28)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPe",
+       "created": 1646116898320,
+       "text": "【卍正藏】No.1596《大方廣佛華嚴經疏》唐 澄觀撰 部別：此土著述 / 冊數：64-65 / 頁數：763 / 卷數：60 原版套數：第 33-34 套"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPf",
+       "created": 1646116898320,
+       "text": "【大正藏】No.1735《大方廣佛華嚴經疏》唐 澄觀撰 部別：經疏部三 / 冊數：35 / 頁數：503 / 卷數：60 相關經典：縮-歲1-4,卍-33.10-34.3 參考資料：cf.Nos.279,1736"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPg",
+       "created": 1646116898320,
+       "text": "【佛教大藏經】No.1842《大方廣佛華嚴經疏》唐 澄觀撰 部別：經疏部一 / 冊數：59 / 頁數：1 / 卷數：60"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPh",
+       "created": 1646116898320,
+       "text": "【中華藏】No.1765《大方廣佛華嚴經疏》唐清涼山大華嚴寺沙門澄觀撰 冊數：85 / 頁數：482 / 卷數：60 / 底本：明永樂北藏本 【中華藏】No.1771《大方廣佛華嚴經疏》清涼山沙門澄觀述，晉水沙門淨源錄疏注經 冊數：90-91 / 頁數：544 / 卷數：120 / 底本：明洪武南藏本 【中華藏】No.1768《大方廣佛華嚴經疏鈔會本》唐于闐國三藏沙門實叉難陀譯，唐清涼山大華嚴寺沙門澄觀撰述 冊數：88-89 / 頁數：1 / 卷數：80 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPi",
+       "created": 1646116898320,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPj",
+       "created": 1646116898320,
+       "text": "【南條文雄編號】 Nj. 1589"
+      }},
+      {"data": {
+       "id": "z5cYxtYPPk",
+       "created": 1646116898320,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1735"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzps1fw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

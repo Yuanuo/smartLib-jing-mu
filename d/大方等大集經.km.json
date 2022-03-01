@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "大方等大集經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwpM6IA",
+    "created": 1646116894216,
+    "text": "現藏錄（北涼 曇無讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwpL6HC",
+      "created": 1646116894215,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwpL6HD",
+        "created": 1646116894215,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpL6HE",
+        "created": 1646116894215,
+        "text": "大方等大集經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpL6HF",
+        "created": 1646116894215,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpL6HG",
+        "created": 1646116894215,
+        "text": "大方等大集经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpL6HH",
+        "created": 1646116894215,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpL6HI",
+        "created": 1646116894215,
+        "text": "da fang deng da ji jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpL6HR",
+        "created": 1646116894215,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpM6HS",
+        "created": 1646116894216,
+        "text": "Ta fang teng ta chi ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpM6HT",
+        "created": 1646116894216,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpM6HU",
+        "created": 1646116894216,
+        "text": "(Mahāvaipulyamahā)sannipātasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpM6HV",
+        "created": 1646116894216,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpM6HW",
+        "created": 1646116894216,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwpM6HX",
+        "created": 1646116894216,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwpM6HY",
+        "created": 1646116894216,
+        "text": "대방등대집경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpL6HJ",
+      "created": 1646116894215,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpL6HK",
+      "created": 1646116894215,
+      "text": "北涼",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpL6HL",
+      "created": 1646116894215,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpL6HM",
+       "created": 1646116894215,
+       "text": "北涼 曇無讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwpL6HN",
+       "created": 1646116894215,
+       "text": "曇無讖",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwpL6HO",
+       "created": 1646116894215,
+       "text": "那連提舍",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpL6HP",
+      "created": 1646116894215,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpL6HQ",
+      "created": 1646116894215,
+      "text": "60"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpM6HZ",
+      "created": 1646116894216,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpM6Ha",
+      "created": 1646116894216,
+      "text": "Translation by Dharmakṣema, Chih-yen, Pao-yün and Narendrayaśas: between the 3rd and the 15th years of Hsüan Shih (玄始), Northern Liang dynasty (北涼) (A.D. 414-426).T. 2157-817b:18f."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpM6Hb",
+      "created": 1646116894216,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpM6Hc",
+       "created": 1646116894216,
+       "text": "【北京版】Mdo-sna-tshogs (shu)98a-259b"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hd",
+       "created": 1646116894216,
+       "text": "【奈塘版】Mdo (wa)131b-350b"
+      }},
+      {"data": {
+       "id": "z5cYwpM6He",
+       "created": 1646116894216,
+       "text": "【德格版】Mdo-sde (za)91b-245b"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hf",
+       "created": 1646116894216,
+       "text": "【拉薩版】Mdo (wa)145a-385a"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hg",
+       "created": 1646116894216,
+       "text": "【卓尼版】Mdo-maṅ (za)104a-274a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwpM6Hh",
+      "created": 1646116894216,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwpM6Hi",
+      "created": 1646116894216,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwpM6Hj",
+      "created": 1646116894216,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwpM6Hk",
+       "created": 1646116894216,
+       "text": "【房山石經】No.97《大方等大集經》(北涼)天竺三藏曇無讖譯 冊數：3 / 頁數：244 / 卷數：30 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.382《大方等大集經》(北涼)天竺三藏曇無讖於姑臧譯 冊數：9 / 頁數：173 / 卷數：30 / 刻經年代：清寧九年刻石 / 瀏覽：目錄圖檔 千字文：讓國有"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hl",
+       "created": 1646116894216,
+       "text": "【開寶藏】No.58《大方等大集經》北涼 天竺三藏曇無讖 于姑藏 譯 部別：大乘經 大集部 / 卷數：60 千字文：推-虞"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hm",
+       "created": 1646116894216,
+       "text": "【崇寧藏】No.57《大方等大集經》 卷數：30 千字文：位(90)-有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hn",
+       "created": 1646116894216,
+       "text": "【毘盧藏】No.53《大方等大集經》北涼曇無讖譯 參考年代：(宣和六．八) 千字文：位(90)-有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Ho",
+       "created": 1646116894216,
+       "text": "【圓覺藏】No.54《大集經》 卷數：30 千字文：位(90)-有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hp",
+       "created": 1646116894216,
+       "text": "【趙城金藏】No.56《大集經》 卷數：60 千字文：推-虞"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hq",
+       "created": 1646116894216,
+       "text": "【資福藏】No.57《大方等大集經》 卷數：30 (三十卷) 千字文：位(90)-有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hr",
+       "created": 1646116894216,
+       "text": "【磧砂藏】No.57《大方等大集經》北涼 曇無讖譯 部別：大集部 / 冊數：6 / 頁數：463 / 卷數：30 千字文：位 1 (90)-有 8 (93)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hs",
+       "created": 1646116894216,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Ht",
+       "created": 1646116894216,
+       "text": "【高麗藏】No.56《大方等大集經》北涼天竺三藏曇無讖譯 部別：大乘經 大集部 / 冊數：7 頁數：1 / 卷數：60 / 連結：高麗大藏經 (圖檔) 千字文：推-虞"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hu",
+       "created": 1646116894216,
+       "text": "【普寧藏】No.54《大方等大集經》 卷數：30 千字文：位(90)-有(93)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hv",
+       "created": 1646116894216,
+       "text": "【至元錄】No.126《大方等大集經》北涼天竺三藏曇無讖譯 卷數：30 千字文：陶(95)-弔(97)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hw",
+       "created": 1646116894216,
+       "text": "【洪武南藏】No.53《大方等大集經》北凉 天竺三藏曇無讖 於姑臧譯 冊數：32-33 / 頁數：315 / 卷數：30 千字文：位 1 (90)-有 8 (93)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hx",
+       "created": 1646116894216,
+       "text": "【永樂南藏】No.54《大方等大集經》 部別：大乘經-大集部 千字文：位(90)-國(92)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hy",
+       "created": 1646116894216,
+       "text": "【永樂北藏】No.75《大方等大集經》北涼曇無讖譯 部別：大乘經大集部 / 冊數：23-24 / 頁數：255 / 卷數：30 千字文：位-國"
+      }},
+      {"data": {
+       "id": "z5cYwpM6Hz",
+       "created": 1646116894216,
+       "text": "【嘉興藏】No.57《大方等大集經》北涼曇無讖譯 部別：大乘經-大集部 / 法寶總目錄經號：0057 千字文 / 函號：［正藏］ 位(90)-國(92)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I0",
+       "created": 1646116894216,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I1",
+       "created": 1646116894216,
+       "text": "【乾隆藏】No.57《大方等大集經》北涼 曇無讖譯 部別：大乘大集部 / 冊數：20-21 / 頁數：571 / 卷數：30 千字文：位-國"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I2",
+       "created": 1646116894216,
+       "text": "【縮刻藏】No.88《大方等大集經》北涼曇無讖譯 部別：大乘經-方等部 / 卷數：60 千字文：玄 1 (3)-玄 4 (3)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I3",
+       "created": 1646116894216,
+       "text": "【卍正藏】No.61《大方等大集經》北涼 曇無讖，〈隋〉那連提耶舍譯 部別：大乘經 大集部 / 冊數：10 / 頁數：1 / 卷數：60 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I4",
+       "created": 1646116894216,
+       "text": "【大正藏】No.397《大方等大集經》北涼 曇無讖譯 部別：大集部全 / 冊數：13 / 頁數：1 / 卷數：60 相關經典：縮-玄1-4,卍-6.6-8,國-大1-4 參考資料：共一七品"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I5",
+       "created": 1646116894216,
+       "text": "【佛教大藏經】No.86《大方等大集經》隋 僧就集 部別：大乘經 方等部三 / 冊數：5 / 頁數：1 / 卷數：60"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I6",
+       "created": 1646116894216,
+       "text": "【中華藏】No.60《大方等大集經》北涼天竺三藏曇無讖譯 冊數：10 / 頁數：1 / 卷數：60 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I7",
+       "created": 1646116894216,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I8",
+       "created": 1646116894216,
+       "text": "【南條文雄編號】 Nj. 0061"
+      }},
+      {"data": {
+       "id": "z5cYwpM6I9",
+       "created": 1646116894216,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：397"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwjrcj",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

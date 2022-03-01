@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "佛說略教誡經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxBKCId",
+    "created": 1646116895578,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxBJCHm",
+      "created": 1646116895577,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxBJCHn",
+        "created": 1646116895577,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBJCHo",
+        "created": 1646116895577,
+        "text": "佛說略教誡經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBJCHp",
+        "created": 1646116895577,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBJCHq",
+        "created": 1646116895577,
+        "text": "佛说略教诫经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBJCHr",
+        "created": 1646116895577,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBJCHs",
+        "created": 1646116895577,
+        "text": "fo shuo lve jiao jie jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBKCI0",
+        "created": 1646116895578,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBKCI1",
+        "created": 1646116895578,
+        "text": "Lüeh chiao chieh ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxBKCI2",
+       "created": 1646116895578,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxBKCI3",
+        "created": 1646116895578,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBKCI4",
+        "created": 1646116895578,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBKCI5",
+        "created": 1646116895578,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBKCI6",
+        "created": 1646116895578,
+        "text": "약교계경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBJCHt",
+      "created": 1646116895577,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBJCHu",
+      "created": 1646116895577,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBJCHv",
+      "created": 1646116895577,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBJCHw",
+       "created": 1646116895577,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxBJCHx",
+       "created": 1646116895577,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBJCHy",
+      "created": 1646116895577,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBKCHz",
+      "created": 1646116895578,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBKCI7",
+      "created": 1646116895578,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBKCI8",
+      "created": 1646116895578,
+      "text": "Translation by I-ching: 23rd day, 6th intercalary month, 2nd year of Ching Yün (景雲), T'ang dynasty (唐) (July 13, A.D. 711) in Ta-chien-fu Monastery (大薦福寺)T. 2154-567c:24.or 23rd day, 6th intercalary month, 2nd year of Ching Lung (景龍), T'ang dynasty (唐) (A.D. 708)T. 2157-868b:10. However, there was no 6th intercalary month, but a 9th intercalary month, in the 2nd year of Ching Lung (景龍). Probably, the 2nd year of Ching Lung (景龍) is a mistake for Ching Yün (景雲)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxBKCI9",
+     "created": 1646116895578,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxBKCIA",
+      "created": 1646116895578,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBKCIB",
+      "created": 1646116895578,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBKCIC",
+      "created": 1646116895578,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBKCID",
+       "created": 1646116895578,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIE",
+       "created": 1646116895578,
+       "text": "【開寶藏】No.882《略教誡經》唐 三藏義淨 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIF",
+       "created": 1646116895578,
+       "text": "【崇寧藏】No.884《佛說略教誡經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIG",
+       "created": 1646116895578,
+       "text": "【毘盧藏】No.885《略教誡經》唐義淨譯 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIH",
+       "created": 1646116895578,
+       "text": "【圓覺藏】No.893《略教誡經》 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCII",
+       "created": 1646116895578,
+       "text": "【趙城金藏】No.870《略教誡經》 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIJ",
+       "created": 1646116895578,
+       "text": "【資福藏】No.899《略教誡經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIK",
+       "created": 1646116895578,
+       "text": "【磧砂藏】No.907《佛說略教誡經》唐 義淨譯 部別：小乘單譯經 / 冊數：20 / 頁數：169 / 卷數：1 千字文：學 8 (305)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIL",
+       "created": 1646116895578,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIM",
+       "created": 1646116895578,
+       "text": "【高麗藏】No.867《略教誡經》三藏法師義淨奉制譯 部別：小乘經 單譯 / 冊數：20 頁數：1235(原版) 651(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIN",
+       "created": 1646116895578,
+       "text": "【普寧藏】No.899《佛說略教誡經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIO",
+       "created": 1646116895578,
+       "text": "【至元錄】No.1125《略教誡經》唐天后代三藏義淨譯 卷數：1 千字文：和(330)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIP",
+       "created": 1646116895578,
+       "text": "【洪武南藏】No.810《佛說略教誡經》唐 三藏法師義淨 奉制譯 冊數：106 / 頁數：519 / 卷數：1 千字文：斈 8 (305)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIQ",
+       "created": 1646116895578,
+       "text": "【永樂南藏】No.774《佛說略教誡經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIR",
+       "created": 1646116895578,
+       "text": "【永樂北藏】No.769《佛說略教誡經》唐義淨譯 部別：小乘經單譯經 / 冊數：66 / 頁數：585 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIS",
+       "created": 1646116895578,
+       "text": "【嘉興藏】No.732《佛說略教誡經》唐義淨譯 部別：小乘經-單譯經 / 法寶總目錄經號：0732 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIT",
+       "created": 1646116895578,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIU",
+       "created": 1646116895578,
+       "text": "【乾隆藏】No.733《佛說略教誡經》唐 義淨譯 部別：小乘單譯經 / 冊數：56 / 頁數：63 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIV",
+       "created": 1646116895578,
+       "text": "【縮刻藏】No.749《佛說略教誡經》唐義淨譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIW",
+       "created": 1646116895578,
+       "text": "【卍正藏】No.741《佛說略教誡經》大唐 義淨譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：83 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIX",
+       "created": 1646116895578,
+       "text": "【大正藏】No.799《佛說略教誡經》唐 義淨譯 部別：經集部四 / 冊數：17 / 頁數：744 / 卷數：1 相關經典：縮-宿8,卍-15.1,國-經12 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxBKCIY",
+       "created": 1646116895578,
+       "text": "【佛教大藏經】No.770《佛說略教誡經》唐 義淨譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：476 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIZ",
+       "created": 1646116895578,
+       "text": "【中華藏】No.945《佛說略教誡經》大唐三藏義淨奉制譯 冊數：36 / 頁數：430 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIa",
+       "created": 1646116895578,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIb",
+       "created": 1646116895578,
+       "text": "【南條文雄編號】 Nj. 0737"
+      }},
+      {"data": {
+       "id": "z5cYxBKCIc",
+       "created": 1646116895578,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：799"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxlloc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

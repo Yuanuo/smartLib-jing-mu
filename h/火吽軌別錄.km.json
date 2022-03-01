@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "火吽軌別錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYxGTDrs",
+    "created": 1646116895897,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxGTDrG",
+      "created": 1646116895897,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxGTDrH",
+        "created": 1646116895897,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGTDrI",
+        "created": 1646116895897,
+        "text": "火吽軌別錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGTDrJ",
+        "created": 1646116895897,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGTDrK",
+        "created": 1646116895897,
+        "text": "火吽轨别录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxGTDrL",
+        "created": 1646116895897,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxGTDrM",
+        "created": 1646116895897,
+        "text": "huo hou gui bie lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxGTDrN",
+      "created": 1646116895897,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxGTDrO",
+      "created": 1646116895897,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxGTDrP",
+      "created": 1646116895897,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxGTDrQ",
+      "created": 1646116895897,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxGTDrR",
+      "created": 1646116895897,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxGTDrS",
+       "created": 1646116895897,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrT",
+       "created": 1646116895897,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrU",
+       "created": 1646116895897,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrV",
+       "created": 1646116895897,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrW",
+       "created": 1646116895897,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrX",
+       "created": 1646116895897,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrY",
+       "created": 1646116895897,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrZ",
+       "created": 1646116895897,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDra",
+       "created": 1646116895897,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrb",
+       "created": 1646116895897,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrc",
+       "created": 1646116895897,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrd",
+       "created": 1646116895897,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDre",
+       "created": 1646116895897,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrf",
+       "created": 1646116895897,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrg",
+       "created": 1646116895897,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrh",
+       "created": 1646116895897,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDri",
+       "created": 1646116895897,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrj",
+       "created": 1646116895897,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrk",
+       "created": 1646116895897,
+       "text": "【縮刻藏】No.1335《火吽軌別錄》 部別：祕密部 / 卷數：1 千字文：餘 2 (26)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrl",
+       "created": 1646116895897,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrm",
+       "created": 1646116895897,
+       "text": "【大正藏】No.914《火吽軌別錄》 部別：密教部一 / 冊數：18 / 頁數：936 / 卷數：1 相關經典：縮-餘2,續-2.9.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxGTDrn",
+       "created": 1646116895897,
+       "text": "【佛教大藏經】No.1407《火吽軌別錄》 部別：密教部三 / 冊數：54 / 頁數：233 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxGTDro",
+       "created": 1646116895897,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrp",
+       "created": 1646116895897,
+       "text": "【新纂卍續藏】No.1036《火》 部別：中國撰述 諸宗著述部六 真言宗 / 冊數：59 / 頁數：7 / 卷數：1 《卍大日本續藏經》套數：第二編．第 9 套 《卍續藏經》(新文豐版)冊數：第 104 冊"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrq",
+       "created": 1646116895897,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxGTDrr",
+       "created": 1646116895897,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：914"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxuhro",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

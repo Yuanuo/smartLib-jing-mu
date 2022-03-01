@@ -1,0 +1,1031 @@
+{
+ "root": {
+  "data": {"text": "攝大乘論釋"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxmsNUc",
+     "created": 1646116897906,
+     "text": "現藏錄（世親菩薩釋　陳 真諦譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxmsNTf",
+       "created": 1646116897906,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxmsNTg",
+         "created": 1646116897906,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmsNTh",
+         "created": 1646116897906,
+         "text": "攝大乘論釋",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmsNTi",
+         "created": 1646116897906,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmsNTj",
+         "created": 1646116897906,
+         "text": "摄大乘论释",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmsNTk",
+         "created": 1646116897906,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmsNTl",
+         "created": 1646116897906,
+         "text": "she da cheng lun shi"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmsNTu",
+         "created": 1646116897906,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmsNTv",
+         "created": 1646116897906,
+         "text": "She ta ch'eng lun shih"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmsNTw",
+         "created": 1646116897906,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmsNTx",
+         "created": 1646116897906,
+         "text": "Mahāyānasaṅgrāhabhāṣya",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmsNTy",
+         "created": 1646116897906,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmsNTz",
+         "created": 1646116897906,
+         "text": "Theg-pa chen-po bsdus-paḥi ḥgrel-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmsNU0",
+         "created": 1646116897906,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmsNU1",
+         "created": 1646116897906,
+         "text": "섭대승론석",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmsNTm",
+       "created": 1646116897906,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmsNTn",
+       "created": 1646116897906,
+       "text": "陳",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmsNTo",
+       "created": 1646116897906,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmsNTp",
+        "created": 1646116897906,
+        "text": "世親菩薩釋　陳 真諦譯"
+       }},
+       {"data": {
+        "id": "z5cYxmsNTq",
+        "created": 1646116897906,
+        "text": "世親",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxmsNTr",
+        "created": 1646116897906,
+        "text": "真諦",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmsNTs",
+       "created": 1646116897906,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmsNTt",
+       "created": 1646116897906,
+       "text": "15"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmsNU2",
+       "created": 1646116897906,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmsNU3",
+       "created": 1646116897906,
+       "text": "Translation by Paramārtha: 4th year of T'ien Chia (天嘉), Ch'en dynasty (陳) (A.D. 563) at Chih-chih Monastery (制旨寺), in Kuang-chou (廣州). T. 2153-405c:19."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmsNU4",
+       "created": 1646116897906,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmsNU5",
+        "created": 1646116897906,
+        "text": "【北京版】Mdo-ḥgrel (Sems-tsam) (li)141b-232b"
+       }},
+       {"data": {
+        "id": "z5cYxmsNU6",
+        "created": 1646116897906,
+        "text": "【奈塘版】Mdo-ḥgrel (li)129b-212b"
+       }},
+       {"data": {
+        "id": "z5cYxmsNU7",
+        "created": 1646116897906,
+        "text": "【德格版】Sems-tsam (ri)121b-190a"
+       }},
+       {"data": {
+        "id": "z5cYxmsNU8",
+        "created": 1646116897906,
+        "text": "【卓尼版】Sems-tsam (ri)121b-190a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmsNU9",
+       "created": 1646116897906,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmsNUA",
+       "created": 1646116897906,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmsNUB",
+       "created": 1646116897906,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmsNUC",
+        "created": 1646116897906,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUD",
+        "created": 1646116897906,
+        "text": "【開寶藏】No.589《攝大乘論釋》陳 真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：15 千字文：曰-嚴"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUE",
+        "created": 1646116897906,
+        "text": "【崇寧藏】No.591《攝大乘論釋》 卷數：15 千字文：嚴(246)-與(247)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUF",
+        "created": 1646116897906,
+        "text": "【毘盧藏】No.593《攝大乘論釋論》序慧愷述　陳真諦 千字文：嚴(246)-與(247)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUG",
+        "created": 1646116897906,
+        "text": "【圓覺藏】No.603《攝大乘論釋》 卷數：50 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUH",
+        "created": 1646116897906,
+        "text": "【趙城金藏】No.591《攝大乘論釋》 卷數：15 千字文：曰嚴"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUI",
+        "created": 1646116897906,
+        "text": "【資福藏】No.608《攝大乘論釋》 卷數：50 (五十卷) 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUJ",
+        "created": 1646116897906,
+        "text": "【磧砂藏】No.611《攝大乘論釋》陳 真諦譯 部別：集義論 / 冊數：16 / 頁數：569 / 卷數：15 千字文：嚴 6 (246)-與 9 (247)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUK",
+        "created": 1646116897906,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUL",
+        "created": 1646116897906,
+        "text": "【高麗藏】No.590《攝大乘論釋》陳天竺三藏真諦譯 部別：大乘論 集義論 / 冊數：16 頁數：1097(原版) 1149(新文豐) / 卷數：15 / 連結：高麗大藏經 (圖檔) 千字文：曰-嚴"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUM",
+        "created": 1646116897906,
+        "text": "【普寧藏】No.604《攝大乘論釋》 卷數：15 千字文：嚴(246)-與(247)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUN",
+        "created": 1646116897906,
+        "text": "【至元錄】No.1319《攝大乘論釋》世親釋　陳天竺三藏真諦譯 卷數：15 / 譯次：(第三譯) 千字文：寫(434)-禽(435)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUO",
+        "created": 1646116897906,
+        "text": "【洪武南藏】No.540《攝大乘論釋》天親菩薩 釋　陳 天竺三藏法師真諦 譯　 冊數：85-86 / 頁數：470 / 卷數：15 千字文：嚴 8 (246)-與 10 (247)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUP",
+        "created": 1646116897906,
+        "text": "【永樂南藏】No.1350《攝大乘論釋》 部別：大乘論 千字文：堅(401)-好(405)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUQ",
+        "created": 1646116897906,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUR",
+        "created": 1646116897906,
+        "text": "【嘉興藏】No.1164《攝大乘論釋》天親菩薩釋-陳天竺三藏法師真諦譯 部別：大乘論 / 法寶總目錄經號：1163b 千字文 / 函號：［正藏］ 連(359)-投(363)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUS",
+        "created": 1646116897906,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUT",
+        "created": 1646116897906,
+        "text": "【乾隆藏】No.1165d《攝大乘論釋》天親釋　(陳)真諦譯 部別：大乘論 / 冊數：80-81 / 頁數：152 / 卷數：48 千字文：枝,投"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUU",
+        "created": 1646116897906,
+        "text": "【縮刻藏】No.992《攝大乘論釋》世親菩薩釋　陳真諦譯 部別：印度大乘諸論釋 / 卷數：15 千字文：往 8 (20)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUV",
+        "created": 1646116897906,
+        "text": "【卍正藏】No.1177《攝大乘論釋》陳 真諦譯 部別：大乘論 / 冊數：38-39 / 頁數：917 / 卷數：15 原版套數：第 20-21 套"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUW",
+        "created": 1646116897906,
+        "text": "【大正藏】No.1595《攝大乘論釋》世親菩薩釋 陳 真諦譯 部別：瑜伽部下 / 冊數：31 / 頁數：152 / 卷數：15 相關經典：縮-往8,卍-20.10-21.1,國-瑜9 參考資料：Nos.1596-1598;cf.Nos.1592-1594,2269,2805"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUX",
+        "created": 1646116897906,
+        "text": "【佛教大藏經】No.1036《攝大乘論釋》陳 真諦譯 部別：大乘釋經論 論部六 / 冊數：40 / 頁數：281 / 卷數：15"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUY",
+        "created": 1646116897906,
+        "text": "【中華藏】No.640《攝大乘論釋》世親菩薩釋，陳天竺三藏真諦譯 冊數：29 / 頁數：809 / 卷數：15 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUZ",
+        "created": 1646116897906,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUa",
+        "created": 1646116897906,
+        "text": "【南條文雄編號】 Nj. 1171b"
+       }},
+       {"data": {
+        "id": "z5cYxmsNUb",
+        "created": 1646116897906,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1595"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxmyNWR",
+     "created": 1646116897912,
+     "text": "現藏錄（世親菩薩造　唐 玄奘譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxmxNVY",
+       "created": 1646116897911,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxmxNVZ",
+         "created": 1646116897911,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmxNVa",
+         "created": 1646116897911,
+         "text": "攝大乘論釋"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmxNVb",
+         "created": 1646116897911,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmxNVc",
+         "created": 1646116897911,
+         "text": "摄大乘论释"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmxNVd",
+         "created": 1646116897911,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmxNVe",
+         "created": 1646116897911,
+         "text": "she da cheng lun shi"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmxNVn",
+         "created": 1646116897911,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmxNVo",
+         "created": 1646116897911,
+         "text": "She ta ch'eng lun shih"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmxNVp",
+         "created": 1646116897911,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmxNVq",
+         "created": 1646116897911,
+         "text": "Mahāyānasaṅgrahabhāṣya",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmxNVr",
+         "created": 1646116897911,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmxNVs",
+         "created": 1646116897911,
+         "text": "Theg-pa chen-po bsdus-paḥi ḥgrel-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmxNVt",
+         "created": 1646116897911,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmxNVu",
+         "created": 1646116897911,
+         "text": "섭대승론석"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmxNVf",
+       "created": 1646116897911,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmxNVg",
+       "created": 1646116897911,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmxNVh",
+       "created": 1646116897911,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmxNVi",
+        "created": 1646116897911,
+        "text": "世親菩薩造　唐 玄奘譯"
+       }},
+       {"data": {
+        "id": "z5cYxmxNVj",
+        "created": 1646116897911,
+        "text": "世親"
+       }},
+       {"data": {
+        "id": "z5cYxmxNVk",
+        "created": 1646116897911,
+        "text": "玄奘",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmxNVl",
+       "created": 1646116897911,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmxNVm",
+       "created": 1646116897911,
+       "text": "10"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmxNVv",
+       "created": 1646116897911,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmxNVw",
+       "created": 1646116897911,
+       "text": "Translation by Hsüan-tsang: between the 22nd and 23rd years of Chen Kuan (貞觀), T'ang dynasty (唐), in the Northern Palace (北闕) and Tz'u-en Monastery (慈恩寺).T. 2154-556b:27f."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxmxNVx",
+      "created": 1646116897911,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxmxNVy",
+       "created": 1646116897911,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmxNVz",
+       "created": 1646116897911,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmxNW0",
+       "created": 1646116897911,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmxNW1",
+        "created": 1646116897911,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW2",
+        "created": 1646116897911,
+        "text": "【開寶藏】No.591《攝大乘論釋》唐 三藏玄奘 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：10 千字文：敬"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW3",
+        "created": 1646116897911,
+        "text": "【崇寧藏】No.593《攝大乘論釋》世親菩薩造 卷數：10 千字文：孝(249)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW4",
+        "created": 1646116897911,
+        "text": "【毘盧藏】No.595《攝大乘論釋》唐玄奘譯 千字文：孝(249)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW5",
+        "created": 1646116897911,
+        "text": "【圓覺藏】No.603《攝大乘論釋》 卷數：50 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW6",
+        "created": 1646116897911,
+        "text": "【趙城金藏】No.595《攝大乘論釋》 卷數：10 千字文：敬"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW7",
+        "created": 1646116897911,
+        "text": "【資福藏】No.608《攝大乘論釋》 卷數：50 (五十卷) 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW8",
+        "created": 1646116897911,
+        "text": "【磧砂藏】No.613《攝大乘論釋》唐 玄奘譯 部別：集義論 / 冊數：16 / 頁數：734 / 卷數：10 千字文：孝 1 (249)-孝 10 (249)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNW9",
+        "created": 1646116897911,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWA",
+        "created": 1646116897911,
+        "text": "【高麗藏】No.594《攝大乘論釋》世親菩薩造-大唐三藏法師玄奘譯 部別：大乘論 集義論 / 冊數：17 頁數：76 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：敬"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWB",
+        "created": 1646116897911,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWC",
+        "created": 1646116897911,
+        "text": "【至元錄】No.1321《攝大乘釋論》世親造　唐三藏玄奘譯 卷數：10 / 譯次：(第三譯) 千字文：畫(437)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWD",
+        "created": 1646116897911,
+        "text": "【洪武南藏】No.542《攝大乘論釋》世親菩薩 造　三藏法師玄奘 奉詔譯　 冊數：86-87 / 頁數：528 / 卷數：8 千字文：孝 3 (249)-孝 10 (249)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWE",
+        "created": 1646116897911,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWF",
+        "created": 1646116897911,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWG",
+        "created": 1646116897911,
+        "text": "【嘉興藏】No.1164《攝大乘論釋》世親菩薩造-唐三藏法師玄奘奉詔譯 部別：大乘論 / 法寶總目錄經號：1163a 千字文 / 函號：［正藏］ 連(359)-投(363)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWH",
+        "created": 1646116897911,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWI",
+        "created": 1646116897911,
+        "text": "【乾隆藏】No.1165b《攝大乘論釋》世親造　(唐)玄奘譯 部別：大乘論 / 冊數：80 / 頁數：633 / 卷數：48 千字文：友"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWJ",
+        "created": 1646116897911,
+        "text": "【縮刻藏】No.991《攝大乘論釋》世親菩薩造　唐玄奘譯 部別：印度大乘諸論釋 / 卷數：10 千字文：往 7 (20)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWK",
+        "created": 1646116897911,
+        "text": "【卍正藏】No.1179《攝大乘論釋》唐 玄奘譯 部別：大乘論 / 冊數：39 / 頁數：237 / 卷數：10 原版套數：第 21 套"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWL",
+        "created": 1646116897911,
+        "text": "【大正藏】No.1597《攝大乘論釋》世親菩薩造 唐 玄奘譯 部別：瑜伽部下 / 冊數：31 / 頁數：321 / 卷數：10 相關經典：縮-往7,卍-21.2,國-瑜8 參考資料：Nos.1595,1596;cf.Nos.1592-1594,1598"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWM",
+        "created": 1646116897911,
+        "text": "【佛教大藏經】No.1035《攝大乘論釋》唐 玄奘譯 部別：大乘釋經論 論部六 / 冊數：40 / 頁數：177 / 卷數：10"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWN",
+        "created": 1646116897911,
+        "text": "【中華藏】No.644《攝大乘論釋》世親菩薩造，三藏法師玄奘奉詔譯 冊數：30 / 頁數：155 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWO",
+        "created": 1646116897911,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWP",
+        "created": 1646116897911,
+        "text": "【南條文雄編號】 Nj. 1171a"
+       }},
+       {"data": {
+        "id": "z5cYxmxNWQ",
+        "created": 1646116897911,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1597"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxn1NXP",
+     "created": 1646116897915,
+     "text": "現藏錄（無性菩薩造　唐 玄奘譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxn0NWS",
+       "created": 1646116897914,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxn0NWT",
+         "created": 1646116897914,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxn0NWU",
+         "created": 1646116897914,
+         "text": "攝大乘論釋"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxn0NWV",
+         "created": 1646116897914,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxn0NWW",
+         "created": 1646116897914,
+         "text": "摄大乘论释"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxn0NWX",
+         "created": 1646116897914,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxn0NWY",
+         "created": 1646116897914,
+         "text": "she da cheng lun shi"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxn0NWh",
+         "created": 1646116897914,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxn0NWi",
+         "created": 1646116897914,
+         "text": "She ta ch'eng lun shih"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxn0NWj",
+         "created": 1646116897914,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxn0NWk",
+         "created": 1646116897914,
+         "text": "Mahāyānasaṅgrahopanibandhana",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxn0NWl",
+         "created": 1646116897914,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxn0NWm",
+         "created": 1646116897914,
+         "text": "Theg-pa chen-po bsdus-paḥi bśad-sbyar"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxn0NWn",
+         "created": 1646116897914,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxn0NWo",
+         "created": 1646116897914,
+         "text": "섭대승론석"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxn0NWZ",
+       "created": 1646116897914,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxn0NWa",
+       "created": 1646116897914,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxn0NWb",
+       "created": 1646116897914,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxn0NWc",
+        "created": 1646116897914,
+        "text": "無性菩薩造　唐 玄奘譯"
+       }},
+       {"data": {
+        "id": "z5cYxn0NWd",
+        "created": 1646116897914,
+        "text": "無性",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxn0NWe",
+        "created": 1646116897914,
+        "text": "玄奘"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxn0NWf",
+       "created": 1646116897914,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxn0NWg",
+       "created": 1646116897914,
+       "text": "10"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxn0NWp",
+       "created": 1646116897914,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxn0NWq",
+       "created": 1646116897914,
+       "text": "Translation by Hsüan-tsang: between the 1st day, 3rd month, 21st year and 17th day, 6th month, 23rd year of Chen Kuan (貞觀), Tang dynasty (唐), (Apr. 10th, A.D. 647-July 31st, A.D. 649) at Ta-tz'u-en Monastery (大慈恩寺).T. 2154-556c:2."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxn0NWr",
+       "created": 1646116897914,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxn0NWs",
+        "created": 1646116897914,
+        "text": "【北京版】Mdo-ḥgrel (Sems-tsam) (li)232b-356b"
+       }},
+       {"data": {
+        "id": "z5cYxn0NWt",
+        "created": 1646116897914,
+        "text": "【奈塘版】Mdo-ḥgrel (li)212b-342a"
+       }},
+       {"data": {
+        "id": "z5cYxn0NWu",
+        "created": 1646116897914,
+        "text": "【德格版】Sems-tsam (ri)190b-296a"
+       }},
+       {"data": {
+        "id": "z5cYxn0NWv",
+        "created": 1646116897914,
+        "text": "【卓尼版】Sems-tsam (ri)190b-297a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxn0NWw",
+       "created": 1646116897914,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxn0NWx",
+       "created": 1646116897914,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxn0NWy",
+       "created": 1646116897914,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxn0NWz",
+        "created": 1646116897914,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX0",
+        "created": 1646116897914,
+        "text": "【開寶藏】No.592《攝大乘論釋》唐 三藏玄奘 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：10 千字文：孝"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX1",
+        "created": 1646116897914,
+        "text": "【崇寧藏】No.594《攝大乘論釋》無性菩薩造 卷數：10 千字文：當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX2",
+        "created": 1646116897914,
+        "text": "【毘盧藏】No.596《攝大乘論釋》序唐太宗御製　唐玄奘譯 千字文：當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX3",
+        "created": 1646116897914,
+        "text": "【圓覺藏】No.603《攝大乘論釋》 卷數：50 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX4",
+        "created": 1646116897914,
+        "text": "【趙城金藏】No.596《攝大乘論釋》 卷數：10 千字文：孝"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX5",
+        "created": 1646116897914,
+        "text": "【資福藏】No.608《攝大乘論釋》 卷數：50 (五十卷) 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX6",
+        "created": 1646116897914,
+        "text": "【磧砂藏】No.614《攝大乘論釋》唐 玄奘譯 部別：集義論 / 冊數：16 / 頁數：789 / 卷數：10 千字文：當 1 (250)-當 10 (250)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX7",
+        "created": 1646116897914,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX8",
+        "created": 1646116897914,
+        "text": "【高麗藏】No.595《攝大乘論釋》無性菩薩造-三藏法師玄奘譯 部別：大乘論 集義論 / 冊數：17 頁數：161 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：孝"
+       }},
+       {"data": {
+        "id": "z5cYxn0NX9",
+        "created": 1646116897914,
+        "text": "【普寧藏】No.606《攝大乘論釋》 卷數：10 千字文：當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXA",
+        "created": 1646116897914,
+        "text": "【至元錄】No.1322《攝大乘論釋》無性菩薩造　唐三藏玄奘譯 卷數：10 千字文：綵(438)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXB",
+        "created": 1646116897914,
+        "text": "【洪武南藏】No.543《攝大乘論釋》無性菩薩 造　三藏法師玄奘 奉制譯　 冊數：87 / 頁數：91 / 卷數：10 千字文：當 1 (250)-當 10 (250)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXC",
+        "created": 1646116897914,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXD",
+        "created": 1646116897914,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXE",
+        "created": 1646116897914,
+        "text": "【嘉興藏】No.1164《攝大乘論釋》無性菩薩造-唐三藏法師玄奘奉制譯 部別：大乘論 / 法寶總目錄經號：1163d 千字文 / 函號：［正藏］ 連(359)-投(363)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXF",
+        "created": 1646116897914,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXG",
+        "created": 1646116897914,
+        "text": "【乾隆藏】No.1165a《攝大乘論釋》無性造　(唐)玄奘譯 部別：大乘論 / 冊數：80 / 頁數：427 / 卷數：48 千字文：連"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXH",
+        "created": 1646116897914,
+        "text": "【縮刻藏】No.994《攝大乘論釋》無性菩薩造　唐玄奘譯 部別：印度大乘諸論釋 / 卷數：10 千字文：往 9 (20)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXI",
+        "created": 1646116897914,
+        "text": "【卍正藏】No.1176《攝大乘論釋》唐 玄奘譯 部別：大乘論 / 冊數：38 / 頁數：795 / 卷數：10 原版套數：第 20 套"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXJ",
+        "created": 1646116897914,
+        "text": "【大正藏】No.1598《攝大乘論釋》無性菩薩造 唐 玄奘譯 部別：瑜伽部下 / 冊數：31 / 頁數：380 / 卷數：10 相關經典：縮-往9,卍-20.10,國-瑜8 參考資料：cf.Nos.1592-1597"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXK",
+        "created": 1646116897914,
+        "text": "【佛教大藏經】No.1038《攝大乘論釋》唐 玄奘譯 部別：大乘釋經論 論部六 / 冊數：40 / 頁數：603 / 卷數：10"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXL",
+        "created": 1646116897914,
+        "text": "【中華藏】No.645《攝大乘論釋》無性菩薩造，三藏法師玄奘奉詔譯 冊數：30 / 頁數：256 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXM",
+        "created": 1646116897914,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXN",
+        "created": 1646116897914,
+        "text": "【南條文雄編號】 Nj. 1171d"
+       }},
+       {"data": {
+        "id": "z5cYxn0NXO",
+        "created": 1646116897914,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1598"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhze91bx",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

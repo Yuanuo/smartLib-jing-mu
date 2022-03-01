@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "華嚴經疏卷第三"},
+  "children": [{
+   "data": {
+    "id": "z5cYyXrbXO",
+    "created": 1646116900819,
+    "text": "現藏錄（新羅 元曉撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyXrbWj",
+      "created": 1646116900819,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyXrbWk",
+        "created": 1646116900819,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXrbWl",
+        "created": 1646116900819,
+        "text": "華嚴經疏卷第三",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXrbWm",
+        "created": 1646116900819,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXrbWn",
+        "created": 1646116900819,
+        "text": "华严经疏卷第三",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXrbWo",
+        "created": 1646116900819,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXrbWp",
+        "created": 1646116900819,
+        "text": "hua yan jing shu juan di san"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyXrbWq",
+      "created": 1646116900819,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXrbWr",
+      "created": 1646116900819,
+      "text": "新羅",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXrbWs",
+      "created": 1646116900819,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyXrbWt",
+       "created": 1646116900819,
+       "text": "新羅 元曉撰"
+      }},
+      {"data": {
+       "id": "z5cYyXrbWu",
+       "created": 1646116900819,
+       "text": "元曉",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyXrbWv",
+      "created": 1646116900819,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXrbWw",
+      "created": 1646116900819,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXrbWx",
+      "created": 1646116900819,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyXrbWy",
+       "created": 1646116900819,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbWz",
+       "created": 1646116900819,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX0",
+       "created": 1646116900819,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX1",
+       "created": 1646116900819,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX2",
+       "created": 1646116900819,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX3",
+       "created": 1646116900819,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX4",
+       "created": 1646116900819,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX5",
+       "created": 1646116900819,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX6",
+       "created": 1646116900819,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX7",
+       "created": 1646116900819,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX8",
+       "created": 1646116900819,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbX9",
+       "created": 1646116900819,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXA",
+       "created": 1646116900819,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXB",
+       "created": 1646116900819,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXC",
+       "created": 1646116900819,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXD",
+       "created": 1646116900819,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXE",
+       "created": 1646116900819,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXF",
+       "created": 1646116900819,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXG",
+       "created": 1646116900819,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXH",
+       "created": 1646116900819,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXI",
+       "created": 1646116900819,
+       "text": "【大正藏】No.2757《華嚴經疏卷第三》新羅 元曉撰 部別：古逸部全 / 冊數：85 / 頁數：234 / 卷數：1 相關經典： 參考資料：cf.No.278"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXJ",
+       "created": 1646116900819,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXK",
+       "created": 1646116900819,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXL",
+       "created": 1646116900819,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXM",
+       "created": 1646116900819,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXrbXN",
+       "created": 1646116900819,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2757"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1n62a7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

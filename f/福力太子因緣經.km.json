@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "福力太子因緣經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwYq2Uc",
+    "created": 1646116893192,
+    "text": "現藏錄（宋 施護等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwYq2Tf",
+      "created": 1646116893192,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwYq2Tg",
+        "created": 1646116893192,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwYq2Th",
+        "created": 1646116893192,
+        "text": "福力太子因緣經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwYq2Ti",
+        "created": 1646116893192,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwYq2Tj",
+        "created": 1646116893192,
+        "text": "福力太子因缘经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwYq2Tk",
+        "created": 1646116893192,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwYq2Tl",
+        "created": 1646116893192,
+        "text": "fu li tai zi yin yuan jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwYq2Tt",
+        "created": 1646116893192,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwYq2Tu",
+        "created": 1646116893192,
+        "text": "Fu li t'ai tzu yin yüan ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwYq2Tv",
+        "created": 1646116893192,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwYq2Tw",
+        "created": 1646116893192,
+        "text": "Puṇyabalāvadāna",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwYq2Tx",
+        "created": 1646116893192,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwYq2Ty",
+        "created": 1646116893192,
+        "text": "Bsod-nams-kyi stobs-kyi rtogs-pa-brjod-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwYq2Tz",
+        "created": 1646116893192,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwYq2U0",
+        "created": 1646116893192,
+        "text": "복력태자인연경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwYq2Tm",
+      "created": 1646116893192,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwYq2Tn",
+      "created": 1646116893192,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwYq2To",
+      "created": 1646116893192,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwYq2Tp",
+       "created": 1646116893192,
+       "text": "宋 施護等譯"
+      }},
+      {"data": {
+       "id": "z5cYwYq2Tq",
+       "created": 1646116893192,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwYq2Tr",
+      "created": 1646116893192,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwYq2Ts",
+      "created": 1646116893192,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwYq2U1",
+      "created": 1646116893192,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwYq2U2",
+      "created": 1646116893192,
+      "text": "Ta chung lu vol.3, p.16b-18b; Ono. Vol. 12, p.183a:9."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwYq2U3",
+      "created": 1646116893192,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwYq2U4",
+       "created": 1646116893192,
+       "text": "【北京版】Mdo-sna-tshogs (ke)1-24a"
+      }},
+      {"data": {
+       "id": "z5cYwYq2U5",
+       "created": 1646116893192,
+       "text": "【奈塘版】Mdo (A)1-33b"
+      }},
+      {"data": {
+       "id": "z5cYwYq2U6",
+       "created": 1646116893192,
+       "text": "【德格版】Mdo-sde (Aḥ)1b-22a"
+      }},
+      {"data": {
+       "id": "z5cYwYq2U7",
+       "created": 1646116893192,
+       "text": "【拉薩版】Mdo (A)1b-34b"
+      }},
+      {"data": {
+       "id": "z5cYwYq2U8",
+       "created": 1646116893192,
+       "text": "【卓尼版】Mdo-maṅ (Aḥ)1b-26b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwYq2U9",
+      "created": 1646116893192,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwYq2UA",
+      "created": 1646116893192,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwYq2UB",
+      "created": 1646116893192,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwYq2UC",
+       "created": 1646116893192,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UD",
+       "created": 1646116893192,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UE",
+       "created": 1646116893192,
+       "text": "【崇寧藏】No.1321《佛說福力太子因緣經》 卷數：3 千字文：公(546)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UF",
+       "created": 1646116893192,
+       "text": "【毘盧藏】No.1319《佛說福力太子因緣經》宋施護等譯 千字文：公(546)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UG",
+       "created": 1646116893192,
+       "text": "【圓覺藏】No.1323《福力太子因緣經》 千字文：茂(523)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UH",
+       "created": 1646116893192,
+       "text": "【趙城金藏】No.1465《福力太子因緣經》 卷數：4 千字文：惠"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UI",
+       "created": 1646116893192,
+       "text": "【資福藏】No.1324《佛說福力太子因緣經》 卷數：1 ((自一至三)一卷) 千字文：茂(523)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UJ",
+       "created": 1646116893192,
+       "text": "【磧砂藏】No.1328《佛說福力太子因緣經》宋 施護等譯 部別： / 冊數：34 / 頁數：58 / 卷數：3 千字文：茂 5 (523)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UK",
+       "created": 1646116893192,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UL",
+       "created": 1646116893192,
+       "text": "【高麗藏】No.1467《福力太子因緣經》施護譯 部別：宋續入藏經 / 冊數：40 頁數：797 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：漠"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UM",
+       "created": 1646116893192,
+       "text": "【普寧藏】No.1320《佛說福力太子因緣經》 卷數：1 千字文：茂(523)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UN",
+       "created": 1646116893192,
+       "text": "【至元錄】No.521《福力太子因緣經》宋西域三藏施護等譯 卷數：4 千字文：克(205)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UO",
+       "created": 1646116893192,
+       "text": "【洪武南藏】No.1179《佛說福力太子因緣經》西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫沙門臣施護 等奉詔譯 冊數：186 / 頁數：459 / 卷數：3 千字文：茂 5 (523)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UP",
+       "created": 1646116893192,
+       "text": "【永樂南藏】No.978《佛說福力太子因緣經》 部別：宋元入藏諸大小乘經 千字文：馨(268)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UQ",
+       "created": 1646116893192,
+       "text": "【永樂北藏】No.985《佛說福力太子因緣經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：69 / 頁數：673 / 卷數：0 千字文：夙"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UR",
+       "created": 1646116893192,
+       "text": "【嘉興藏】No.947《福力太子因緣經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0947 千字文 / 函號：［正藏］ 夙(261)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2US",
+       "created": 1646116893192,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UT",
+       "created": 1646116893192,
+       "text": "【乾隆藏】No.948《佛說福力太子因緣經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：58 / 頁數：707 / 卷數：3 千字文：夙"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UU",
+       "created": 1646116893192,
+       "text": "【縮刻藏】No.627《佛說福力太子因緣經》宋施獲等譯 部別：小乘經 / 卷數：4 千字文：宿 6 (14)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UV",
+       "created": 1646116893192,
+       "text": "【卍正藏】No.957《佛說福力太子因緣經》施護等譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：369 / 卷數：4 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UW",
+       "created": 1646116893192,
+       "text": "【大正藏】No.173《福力太子因緣經》宋 施護等譯 部別：本緣部上 / 冊數：3 / 頁數：428 / 卷數：4 相關經典：縮-宿6,卍-15.7 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwYq2UX",
+       "created": 1646116893192,
+       "text": "【佛教大藏經】No.645《佛說福力太子因緣經》宋 施護譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：111 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UY",
+       "created": 1646116893192,
+       "text": "【中華藏】No.1592《佛說福力太子因緣經》西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫沙門施護等奉詔譯 冊數：68 / 頁數：170 / 卷數：4 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwYq2UZ",
+       "created": 1646116893192,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwYq2Ua",
+       "created": 1646116893192,
+       "text": "【南條文雄編號】 Nj. 0953"
+      }},
+      {"data": {
+       "id": "z5cYwYq2Ub",
+       "created": 1646116893192,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：173"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvrb4w",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

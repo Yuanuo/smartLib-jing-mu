@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "佛說處處經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx6fBHF",
+    "created": 1646116895289,
+    "text": "現藏錄（後漢 安世高譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx6fBGO",
+      "created": 1646116895289,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx6fBGP",
+        "created": 1646116895289,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6fBGQ",
+        "created": 1646116895289,
+        "text": "佛說處處經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6fBGR",
+        "created": 1646116895289,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6fBGS",
+        "created": 1646116895289,
+        "text": "佛说处处经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6fBGT",
+        "created": 1646116895289,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6fBGU",
+        "created": 1646116895289,
+        "text": "fo shuo chu chu jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6fBGc",
+        "created": 1646116895289,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6fBGd",
+        "created": 1646116895289,
+        "text": "Ch'u ch'u ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYx6fBGe",
+       "created": 1646116895289,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYx6fBGf",
+        "created": 1646116895289,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6fBGg",
+        "created": 1646116895289,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6fBGh",
+        "created": 1646116895289,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6fBGi",
+        "created": 1646116895289,
+        "text": "처처경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6fBGV",
+      "created": 1646116895289,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6fBGW",
+      "created": 1646116895289,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6fBGX",
+      "created": 1646116895289,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6fBGY",
+       "created": 1646116895289,
+       "text": "後漢 安世高譯"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGZ",
+       "created": 1646116895289,
+       "text": "安世高",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6fBGa",
+      "created": 1646116895289,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6fBGb",
+      "created": 1646116895289,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6fBGj",
+      "created": 1646116895289,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6fBGk",
+      "created": 1646116895289,
+      "text": "Translation by An Shih-kao: (see K.806)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx6fBGl",
+     "created": 1646116895289,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx6fBGm",
+      "created": 1646116895289,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6fBGn",
+      "created": 1646116895289,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6fBGo",
+      "created": 1646116895289,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6fBGp",
+       "created": 1646116895289,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGq",
+       "created": 1646116895289,
+       "text": "【開寶藏】No.804《處處經》後漢 安息三藏安世高 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGr",
+       "created": 1646116895289,
+       "text": "【崇寧藏】No.806《佛說處處經》 卷數：1 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGs",
+       "created": 1646116895289,
+       "text": "【毘盧藏】No.807《佛說處處經》後漢安世高譯 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGt",
+       "created": 1646116895289,
+       "text": "【圓覺藏】No.814《處處經》 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGu",
+       "created": 1646116895289,
+       "text": "【趙城金藏】No.811《處處經》 卷數：1 千字文：甚"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGv",
+       "created": 1646116895289,
+       "text": "【資福藏】No.820《處處經》 卷數：1 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGw",
+       "created": 1646116895289,
+       "text": "【磧砂藏】No.828《佛說處處經》後漢 安世高譯 部別：小乘單譯經 / 冊數：20 / 頁數：63 / 卷數：1 千字文：無 4 (303)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGx",
+       "created": 1646116895289,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGy",
+       "created": 1646116895289,
+       "text": "【高麗藏】No.808《處處經》後漢三藏安世高譯 部別：小乘經 單譯 / 冊數：20 頁數：1093(原版) 508(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：甚"
+      }},
+      {"data": {
+       "id": "z5cYx6fBGz",
+       "created": 1646116895289,
+       "text": "【普寧藏】No.820《佛說處處經》 卷數：1 千字文：無(303)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH0",
+       "created": 1646116895289,
+       "text": "【至元錄】No.1047《處處經》後漢安息三藏安世高譯 卷數：1 千字文：卑(328)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH1",
+       "created": 1646116895289,
+       "text": "【洪武南藏】No.737《處處經》後漢 沙門安世高 譯 冊數：106 / 頁數：137 / 卷數：1 千字文：無 4 (303)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH2",
+       "created": 1646116895289,
+       "text": "【永樂南藏】No.696《佛說處處經》 部別：小乘經-單譯經 千字文：敬(248)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH3",
+       "created": 1646116895289,
+       "text": "【永樂北藏】No.716《佛說處處經》後漢安世高譯 部別：小乘經單譯經 / 冊數：66 / 頁數：67 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH4",
+       "created": 1646116895289,
+       "text": "【嘉興藏】No.679《佛說處處經》後漢安世高譯 部別：小乘經-單譯經 / 法寶總目錄經號：0679 千字文 / 函號：［正藏］ 敬(248)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH5",
+       "created": 1646116895289,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH6",
+       "created": 1646116895289,
+       "text": "【乾隆藏】No.680《佛說處處經》後漢 安世高譯 部別：小乘單譯經 / 冊數：55 / 頁數：389 / 卷數：1 千字文：敬"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH7",
+       "created": 1646116895289,
+       "text": "【縮刻藏】No.643《佛說處處經》後漢安世高譯 部別：小乘經 / 卷數：1 千字文：宿 6 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH8",
+       "created": 1646116895289,
+       "text": "【卍正藏】No.688《佛說處處經》後漢 安世高譯 部別：小乘經 單譯經 / 冊數：26 / 頁數：858 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYx6fBH9",
+       "created": 1646116895289,
+       "text": "【大正藏】No.730《佛說處處經》後漢 安世高譯 部別：經集部四 / 冊數：17 / 頁數：523 / 卷數：1 相關經典：縮-宿6,卍-14.10 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx6fBHA",
+       "created": 1646116895289,
+       "text": "【佛教大藏經】No.663《佛說處處經》後漢 安世高譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：187 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx6fBHB",
+       "created": 1646116895289,
+       "text": "【中華藏】No.871《佛說處處經》後漢安息國三藏安世高譯 冊數：36 / 頁數：155 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx6fBHC",
+       "created": 1646116895289,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6fBHD",
+       "created": 1646116895289,
+       "text": "【南條文雄編號】 Nj. 0684"
+      }},
+      {"data": {
+       "id": "z5cYx6fBHE",
+       "created": 1646116895289,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：730"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxdlma",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

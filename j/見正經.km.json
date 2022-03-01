@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "佛說見正經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxB3CFL",
+    "created": 1646116895561,
+    "text": "現藏錄（東晉 竺曇無蘭譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxB1CEU",
+      "created": 1646116895559,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxB1CEV",
+        "created": 1646116895559,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxB1CEW",
+        "created": 1646116895559,
+        "text": "佛說見正經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxB1CEX",
+        "created": 1646116895559,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxB1CEY",
+        "created": 1646116895559,
+        "text": "佛说见正经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxB1CEZ",
+        "created": 1646116895559,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxB1CEa",
+        "created": 1646116895559,
+        "text": "fo shuo jian zheng jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxB2CEi",
+        "created": 1646116895560,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxB2CEj",
+        "created": 1646116895560,
+        "text": "Chien cheng ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxB2CEk",
+       "created": 1646116895560,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxB2CEl",
+        "created": 1646116895560,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxB2CEm",
+        "created": 1646116895560,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxB2CEn",
+        "created": 1646116895560,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxB2CEo",
+        "created": 1646116895560,
+        "text": "견정경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxB2CEb",
+      "created": 1646116895560,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxB2CEc",
+      "created": 1646116895560,
+      "text": "東晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxB2CEd",
+      "created": 1646116895560,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxB2CEe",
+       "created": 1646116895560,
+       "text": "東晉 竺曇無蘭譯"
+      }},
+      {"data": {
+       "id": "z5cYxB2CEf",
+       "created": 1646116895560,
+       "text": "曇無蘭",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxB2CEg",
+      "created": 1646116895560,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxB2CEh",
+      "created": 1646116895560,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxB2CEp",
+      "created": 1646116895560,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxB2CEq",
+      "created": 1646116895560,
+      "text": "Translation by (Chu) T'an-wu-lan: (see K.832)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxB2CEr",
+     "created": 1646116895560,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxB2CEs",
+      "created": 1646116895560,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxB2CEt",
+      "created": 1646116895560,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxB2CEu",
+      "created": 1646116895560,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxB2CEv",
+       "created": 1646116895560,
+       "text": "【房山石經】No.252《佛說見正經》(東晉)西域沙門曇無蘭譯 冊數：3 / 頁數：562 / 卷數：1 / 刻經年代： / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYxB2CEw",
+       "created": 1646116895560,
+       "text": "【開寶藏】No.833《見正經》東晉 西域沙門竺曇無蘭 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：學"
+      }},
+      {"data": {
+       "id": "z5cYxB2CEx",
+       "created": 1646116895560,
+       "text": "【崇寧藏】No.835《佛說見正經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CEy",
+       "created": 1646116895560,
+       "text": "【毘盧藏】No.836《佛說見正經》東晉竺曇無蘭譯 參考年代：(紹聖四．七) 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CEz",
+       "created": 1646116895560,
+       "text": "【圓覺藏】No.844《正見經》 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF0",
+       "created": 1646116895560,
+       "text": "【趙城金藏】No.838《見正經》 卷數：1 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF1",
+       "created": 1646116895560,
+       "text": "【資福藏】No.850《正見經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF2",
+       "created": 1646116895560,
+       "text": "【磧砂藏】No.857《佛說見正經》晉 竺曇無蘭譯 部別：小乘單譯經 / 冊數：20 / 頁數：114 / 卷數：1 千字文：竟 4 (304)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF3",
+       "created": 1646116895560,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF4",
+       "created": 1646116895560,
+       "text": "【高麗藏】No.835《見正經》東晉天竺三藏竺曇無蘭譯 部別：小乘經 單譯 / 冊數：20 頁數：1170(原版) 586(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF5",
+       "created": 1646116895560,
+       "text": "【普寧藏】No.849《佛說見正經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF6",
+       "created": 1646116895560,
+       "text": "【至元錄】No.1076《見正經》東晉西域三藏竺曇無蘭譯 卷數：1 千字文：上(329)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF7",
+       "created": 1646116895560,
+       "text": "【洪武南藏】No.762《佛說見正經》東晉 西域沙門竺曇無蘭 譯 冊數：106 / 頁數：299 / 卷數：1 千字文：竟 4 (304)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF8",
+       "created": 1646116895560,
+       "text": "【永樂南藏】No.725《佛說見正經》 部別：小乘經-單譯經 千字文：孝(249)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CF9",
+       "created": 1646116895560,
+       "text": "【永樂北藏】No.748《佛說見正經》東晉曇無蘭充譯 部別：小乘經單譯經 / 冊數：66 / 頁數：402 / 卷數：1 千字文：孝"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFA",
+       "created": 1646116895560,
+       "text": "【嘉興藏】No.711《佛說見正經》東晉曇無蘭充譯 部別：小乘經-單譯經 / 法寶總目錄經號：0711 千字文 / 函號：［正藏］ 孝(249)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFB",
+       "created": 1646116895560,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFC",
+       "created": 1646116895560,
+       "text": "【乾隆藏】No.712《佛說見正經》東晉 竺曇無蘭譯 部別：小乘單譯經 / 冊數：55 / 頁數：638 / 卷數：1 千字文：孝"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFD",
+       "created": 1646116895560,
+       "text": "【縮刻藏】No.748《佛說見正經》東晉曇無蘭譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFE",
+       "created": 1646116895560,
+       "text": "【卍正藏】No.720《佛說見正經》東晉 竺曇無蘭譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：4 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFF",
+       "created": 1646116895560,
+       "text": "【大正藏】No.796《佛說見正經》東晉 竺曇無蘭譯 部別：經集部四 / 冊數：17 / 頁數：740 / 卷數：1 相關經典：縮-宿8,卍-15.1,國-經15 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxB2CFG",
+       "created": 1646116895560,
+       "text": "【佛教大藏經】No.769《佛說見正經》東晉 竺曇無蘭譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：472 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFH",
+       "created": 1646116895560,
+       "text": "【中華藏】No.893《佛說見正經》東晉天竺三藏竺曇無蘭譯 冊數：36 / 頁數：242 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFI",
+       "created": 1646116895560,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFJ",
+       "created": 1646116895560,
+       "text": "【南條文雄編號】 Nj. 0716"
+      }},
+      {"data": {
+       "id": "z5cYxB2CFK",
+       "created": 1646116895560,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：796"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxl2o8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

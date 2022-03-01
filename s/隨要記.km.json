@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "隨要記"},
+  "children": [{
+   "data": {
+    "id": "z5cYyJFXci",
+    "created": 1646116899913,
+    "text": "現藏錄（日本 皇慶撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyJEXc3",
+      "created": 1646116899912,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyJEXc4",
+        "created": 1646116899912,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJEXc5",
+        "created": 1646116899912,
+        "text": "隨要記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJEXc6",
+        "created": 1646116899912,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJFXc7",
+        "created": 1646116899913,
+        "text": "随要记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJFXc8",
+        "created": 1646116899913,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJFXc9",
+        "created": 1646116899913,
+        "text": "sui yao ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJFXcA",
+      "created": 1646116899913,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJFXcB",
+      "created": 1646116899913,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJFXcC",
+      "created": 1646116899913,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJFXcD",
+       "created": 1646116899913,
+       "text": "日本 皇慶撰"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcE",
+       "created": 1646116899913,
+       "text": "皇慶",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJFXcF",
+      "created": 1646116899913,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJFXcG",
+      "created": 1646116899913,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJFXcH",
+      "created": 1646116899913,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJFXcI",
+       "created": 1646116899913,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcJ",
+       "created": 1646116899913,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcK",
+       "created": 1646116899913,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcL",
+       "created": 1646116899913,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcM",
+       "created": 1646116899913,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcN",
+       "created": 1646116899913,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcO",
+       "created": 1646116899913,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcP",
+       "created": 1646116899913,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcQ",
+       "created": 1646116899913,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcR",
+       "created": 1646116899913,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcS",
+       "created": 1646116899913,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcT",
+       "created": 1646116899913,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcU",
+       "created": 1646116899913,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcV",
+       "created": 1646116899913,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcW",
+       "created": 1646116899913,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcX",
+       "created": 1646116899913,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcY",
+       "created": 1646116899913,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcZ",
+       "created": 1646116899913,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXca",
+       "created": 1646116899913,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcb",
+       "created": 1646116899913,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcc",
+       "created": 1646116899913,
+       "text": "【大正藏】No.2407《隨要記》日本 皇慶撰 部別：續諸宗部六 / 冊數：75 / 頁數：812 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyJFXcd",
+       "created": 1646116899913,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXce",
+       "created": 1646116899913,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcf",
+       "created": 1646116899913,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXcg",
+       "created": 1646116899913,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJFXch",
+       "created": 1646116899913,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2407"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0y0206",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

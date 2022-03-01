@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "勸發頌"},
+  "children": [{
+   "data": {
+    "id": "z5cYyOUYyi",
+    "created": 1646116900238,
+    "text": "現藏錄（日本 覺鍐撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyOUYy3",
+      "created": 1646116900238,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyOUYy4",
+        "created": 1646116900238,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOUYy5",
+        "created": 1646116900238,
+        "text": "勸發頌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOUYy6",
+        "created": 1646116900238,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOUYy7",
+        "created": 1646116900238,
+        "text": "劝发颂",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOUYy8",
+        "created": 1646116900238,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOUYy9",
+        "created": 1646116900238,
+        "text": "quan fa song"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOUYyA",
+      "created": 1646116900238,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOUYyB",
+      "created": 1646116900238,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOUYyC",
+      "created": 1646116900238,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOUYyD",
+       "created": 1646116900238,
+       "text": "日本 覺鍐撰"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyE",
+       "created": 1646116900238,
+       "text": "覺鍐",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOUYyF",
+      "created": 1646116900238,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOUYyG",
+      "created": 1646116900238,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOUYyH",
+      "created": 1646116900238,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOUYyI",
+       "created": 1646116900238,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyJ",
+       "created": 1646116900238,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyK",
+       "created": 1646116900238,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyL",
+       "created": 1646116900238,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyM",
+       "created": 1646116900238,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyN",
+       "created": 1646116900238,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyO",
+       "created": 1646116900238,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyP",
+       "created": 1646116900238,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyQ",
+       "created": 1646116900238,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyR",
+       "created": 1646116900238,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyS",
+       "created": 1646116900238,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyT",
+       "created": 1646116900238,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyU",
+       "created": 1646116900238,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyV",
+       "created": 1646116900238,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyW",
+       "created": 1646116900238,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyX",
+       "created": 1646116900238,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyY",
+       "created": 1646116900238,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyZ",
+       "created": 1646116900238,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYya",
+       "created": 1646116900238,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyb",
+       "created": 1646116900238,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyc",
+       "created": 1646116900238,
+       "text": "【大正藏】No.2526《勸發頌》日本 覺鍐撰 部別：續諸宗部十 / 冊數：79 / 頁數：53 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyOUYyd",
+       "created": 1646116900238,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYye",
+       "created": 1646116900238,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyf",
+       "created": 1646116900238,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyg",
+       "created": 1646116900238,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOUYyh",
+       "created": 1646116900238,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2526"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri17123n",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

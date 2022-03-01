@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "大乘掌珍論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxmBNEy",
+    "created": 1646116897863,
+    "text": "現藏錄（清辯菩薩造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxmBNE5",
+      "created": 1646116897863,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxmBNE6",
+        "created": 1646116897863,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmBNE7",
+        "created": 1646116897863,
+        "text": "大乘掌珍論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmBNE8",
+        "created": 1646116897863,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmBNE9",
+        "created": 1646116897863,
+        "text": "大乘掌珍论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmBNEA",
+        "created": 1646116897863,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmBNEB",
+        "created": 1646116897863,
+        "text": "da cheng zhang zhen lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmBNEK",
+        "created": 1646116897863,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmBNEL",
+        "created": 1646116897863,
+        "text": "Ta ch'eng chang chen lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmBNEM",
+        "created": 1646116897863,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmBNEN",
+        "created": 1646116897863,
+        "text": "Karatalaratna",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmBNEO",
+        "created": 1646116897863,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmBNEP",
+        "created": 1646116897863,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxmBNEQ",
+        "created": 1646116897863,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxmBNER",
+        "created": 1646116897863,
+        "text": "대승장진론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxmBNEC",
+      "created": 1646116897863,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmBNED",
+      "created": 1646116897863,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmBNEE",
+      "created": 1646116897863,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxmBNEF",
+       "created": 1646116897863,
+       "text": "清辯菩薩造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEG",
+       "created": 1646116897863,
+       "text": "清辯",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxmBNEH",
+       "created": 1646116897863,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxmBNEI",
+      "created": 1646116897863,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmBNEJ",
+      "created": 1646116897863,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmBNES",
+      "created": 1646116897863,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmBNET",
+      "created": 1646116897863,
+      "text": "Translation by Hsüan-tsang: between the 8th and 13th days, 9th month, 23rd year of Chen Kuan (貞觀), T'ang dynasty (唐) (October 19th-24th, A.D. 649) in Ta-tz'u-en Monastery (大慈恩寺).T.2154-556c:20"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxmBNEU",
+     "created": 1646116897863,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxmBNEV",
+      "created": 1646116897863,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxmBNEW",
+      "created": 1646116897863,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxmBNEX",
+      "created": 1646116897863,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxmBNEY",
+       "created": 1646116897863,
+       "text": "【房山石經】No.733《大乘掌珍論》清辯菩薩造　(大唐)三藏法師玄奘奉詔譯 冊數：20 / 頁數：224 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：命"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEZ",
+       "created": 1646116897863,
+       "text": "【開寶藏】No.614《掌珍論》唐 三藏玄奘 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：2 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEa",
+       "created": 1646116897863,
+       "text": "【崇寧藏】No.616《大乘掌珍論》 卷數：2 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEb",
+       "created": 1646116897863,
+       "text": "【毘盧藏】No.617《大乘掌珍論》清辯菩薩造　唐玄奘譯 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEc",
+       "created": 1646116897863,
+       "text": "【圓覺藏】No.625《大乘掌珍論》 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEd",
+       "created": 1646116897863,
+       "text": "【趙城金藏】No.621《大乘掌珍論》 卷數：2 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEe",
+       "created": 1646116897863,
+       "text": "【資福藏】No.630《大乘掌珍論》 卷數：2 (上下) 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEf",
+       "created": 1646116897863,
+       "text": "【磧砂藏】No.636《大乘掌珍論》唐 玄奘譯 部別：集義論 / 冊數：17 / 頁數：187 / 卷數：2 千字文：盡 5 (255)-盡 6 (255)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEg",
+       "created": 1646116897863,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEh",
+       "created": 1646116897863,
+       "text": "【高麗藏】No.620《大乘掌珍論》三藏法師玄奘譯 部別：大乘論 集義論 / 冊數：17 頁數：649(原版) 652(新文豐) / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEi",
+       "created": 1646116897863,
+       "text": "【普寧藏】No.628《大乘掌珍論》 卷數：2 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEj",
+       "created": 1646116897863,
+       "text": "【至元錄】No.1344《大乘掌珍論》清辯菩薩造　唐三藏玄奘譯 卷數：2 / 譯次：(單本) 千字文：傍(443)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEk",
+       "created": 1646116897863,
+       "text": "【洪武南藏】No.563《大乘掌珍論》清辨菩薩 造 　唐 三藏法師玄奘 奉詔譯　 冊數：89 / 頁數：73 / 卷數：2 千字文：盡 5 (255)-盡 6 (255)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEl",
+       "created": 1646116897863,
+       "text": "【永樂南藏】No.1370《大乘掌珍論》 部別：大乘論 千字文：都(409)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEm",
+       "created": 1646116897863,
+       "text": "【永樂北藏】No.1284《大乘掌珍論》唐玄奘譯 部別：大乘論 / 冊數：105 / 頁數：215 / 卷數：2 千字文：性"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEn",
+       "created": 1646116897863,
+       "text": "【嘉興藏】No.1229《大乘掌珍論》唐玄奘譯 部別：大乘論 / 法寶總目錄經號：1228 千字文 / 函號：［正藏］ 性(385)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEo",
+       "created": 1646116897863,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEp",
+       "created": 1646116897863,
+       "text": "【乾隆藏】No.1231《大乘掌珍論》清辯造　(唐)玄奘譯 部別：大乘論 / 冊數：86 / 頁數：409 / 卷數：2 千字文：性"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEq",
+       "created": 1646116897863,
+       "text": "【縮刻藏】No.945《大乘掌珍論》清辯菩薩造　唐玄奘譯 部別：印度大乘宗經論 / 卷數：2 千字文：暑 5 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEr",
+       "created": 1646116897863,
+       "text": "【卍正藏】No.1245《大乘掌珍論》大唐 玄奘譯 部別：大乘論 / 冊數：41 / 頁數：573 / 卷數：2 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEs",
+       "created": 1646116897863,
+       "text": "【大正藏】No.1578《大乘掌珍論》清辯菩薩造 唐 玄奘譯 部別：中觀部全 / 冊數：30 / 頁數：268 / 卷數：2 相關經典：縮-暑5,卍-22.4,國-中3 參考資料：cf.No.2258"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEt",
+       "created": 1646116897863,
+       "text": "【佛教大藏經】No.987《大乘掌珍論》唐 玄奘譯 部別：大乘宗經論 論部四 / 冊數：38 / 頁數：117 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEu",
+       "created": 1646116897863,
+       "text": "【中華藏】No.670《大乘掌珍論》清辯菩薩造，三藏法師玄奘奉詔譯 冊數：30 / 頁數：852 / 卷數：2 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEv",
+       "created": 1646116897863,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEw",
+       "created": 1646116897863,
+       "text": "【南條文雄編號】 Nj. 1237"
+      }},
+      {"data": {
+       "id": "z5cYxmBNEx",
+       "created": 1646116897863,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1578"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzd31bg",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

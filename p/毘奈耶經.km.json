@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "佛說毘奈耶經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxFmDgS",
+    "created": 1646116895854,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxFlDfq",
+      "created": 1646116895853,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxFlDfr",
+        "created": 1646116895853,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFlDfs",
+        "created": 1646116895853,
+        "text": "佛說毘奈耶經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFlDft",
+        "created": 1646116895853,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFlDfu",
+        "created": 1646116895853,
+        "text": "佛说毘奈耶经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxFlDfv",
+        "created": 1646116895853,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxFmDfw",
+        "created": 1646116895854,
+        "text": "fo shuo pi nai ye jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxFmDfx",
+      "created": 1646116895854,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxFmDfy",
+      "created": 1646116895854,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxFmDfz",
+      "created": 1646116895854,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxFmDg0",
+      "created": 1646116895854,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxFmDg1",
+      "created": 1646116895854,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxFmDg2",
+       "created": 1646116895854,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDg3",
+       "created": 1646116895854,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDg4",
+       "created": 1646116895854,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDg5",
+       "created": 1646116895854,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDg6",
+       "created": 1646116895854,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDg7",
+       "created": 1646116895854,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDg8",
+       "created": 1646116895854,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDg9",
+       "created": 1646116895854,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgA",
+       "created": 1646116895854,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgB",
+       "created": 1646116895854,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgC",
+       "created": 1646116895854,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgD",
+       "created": 1646116895854,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgE",
+       "created": 1646116895854,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgF",
+       "created": 1646116895854,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgG",
+       "created": 1646116895854,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgH",
+       "created": 1646116895854,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgI",
+       "created": 1646116895854,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgJ",
+       "created": 1646116895854,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgK",
+       "created": 1646116895854,
+       "text": "【縮刻藏】No.1136《佛說毘奈耶經》 部別：祕密部 / 卷數：1 千字文： 4 (25)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgL",
+       "created": 1646116895854,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgM",
+       "created": 1646116895854,
+       "text": "【大正藏】No.898《佛說毘奈耶經》 部別：密教部一 / 冊數：18 / 頁數：773 / 卷數：1 相關經典：縮-閏4,續-1.2.4,國-密2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxFmDgN",
+       "created": 1646116895854,
+       "text": "【佛教大藏經】No.1206《佛說毗奈耶經》 部別：密教部一 / 冊數：52 / 頁數：586 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgO",
+       "created": 1646116895854,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgP",
+       "created": 1646116895854,
+       "text": "【新纂卍續藏】No.66《佛說毗奈耶經》 部別：印度撰述 密經儀軌部 / 冊數：2 / 頁數：292 / 卷數：1 《卍大日本續藏經》套數：第一編．第 2 套 《卍續藏經》(新文豐版)冊數：第 2 冊"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgQ",
+       "created": 1646116895854,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxFmDgR",
+       "created": 1646116895854,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：898"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxt9r8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

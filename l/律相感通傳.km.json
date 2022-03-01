@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "律相感通傳"},
+  "children": [{
+   "data": {
+    "id": "z5cYxzSRJo",
+    "created": 1646116898686,
+    "text": "現藏錄（唐 道宣撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxzSRJ9",
+      "created": 1646116898686,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxzSRJA",
+        "created": 1646116898686,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxzSRJB",
+        "created": 1646116898686,
+        "text": "律相感通傳",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxzSRJC",
+        "created": 1646116898686,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxzSRJD",
+        "created": 1646116898686,
+        "text": "律相感通传",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxzSRJE",
+        "created": 1646116898686,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxzSRJF",
+        "created": 1646116898686,
+        "text": "lv xiang gan tong chuan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxzSRJG",
+      "created": 1646116898686,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxzSRJH",
+      "created": 1646116898686,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxzSRJI",
+      "created": 1646116898686,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxzSRJJ",
+       "created": 1646116898686,
+       "text": "唐 道宣撰"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJK",
+       "created": 1646116898686,
+       "text": "道宣",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxzSRJL",
+      "created": 1646116898686,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxzSRJM",
+      "created": 1646116898686,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxzSRJN",
+      "created": 1646116898686,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxzSRJO",
+       "created": 1646116898686,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJP",
+       "created": 1646116898686,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJQ",
+       "created": 1646116898686,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJR",
+       "created": 1646116898686,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJS",
+       "created": 1646116898686,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJT",
+       "created": 1646116898686,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJU",
+       "created": 1646116898686,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJV",
+       "created": 1646116898686,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJW",
+       "created": 1646116898686,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJX",
+       "created": 1646116898686,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJY",
+       "created": 1646116898686,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJZ",
+       "created": 1646116898686,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJa",
+       "created": 1646116898686,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJb",
+       "created": 1646116898686,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJc",
+       "created": 1646116898686,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJd",
+       "created": 1646116898686,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJe",
+       "created": 1646116898686,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJf",
+       "created": 1646116898686,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJg",
+       "created": 1646116898686,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJh",
+       "created": 1646116898686,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJi",
+       "created": 1646116898686,
+       "text": "【大正藏】No.1898《律相感通傳》唐 道宣撰 部別：諸宗部二 / 冊數：45 / 頁數：874 / 卷數：1 相關經典：續-2.10.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxzSRJj",
+       "created": 1646116898686,
+       "text": "【佛教大藏經】No.1905《律相感通傳》唐 道宣撰 部別：律疏部 / 冊數：66 / 頁數：968 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJk",
+       "created": 1646116898686,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJl",
+       "created": 1646116898686,
+       "text": "【新纂卍續藏】No.1091《律相感通傳》唐 道宣撰 部別：中國撰述 諸宗著述部六 戒律宗 / 冊數：59 / 頁數：399 / 卷數：1 《卍大日本續藏經》套數：第二編．第 10 套 《卍續藏經》(新文豐版)冊數：第 105 冊"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJm",
+       "created": 1646116898686,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzSRJn",
+       "created": 1646116898686,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1898"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzzx1ko",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "釋門歸敬儀"},
+  "children": [{
+   "data": {
+    "id": "z5cYxzNRIS",
+    "created": 1646116898681,
+    "text": "現藏錄（唐 道宣述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxzNRHn",
+      "created": 1646116898681,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxzNRHo",
+        "created": 1646116898681,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxzNRHp",
+        "created": 1646116898681,
+        "text": "釋門歸敬儀",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxzNRHq",
+        "created": 1646116898681,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxzNRHr",
+        "created": 1646116898681,
+        "text": "释门归敬仪",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxzNRHs",
+        "created": 1646116898681,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxzNRHt",
+        "created": 1646116898681,
+        "text": "shi men gui jing yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxzNRHu",
+      "created": 1646116898681,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxzNRHv",
+      "created": 1646116898681,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxzNRHw",
+      "created": 1646116898681,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxzNRHx",
+       "created": 1646116898681,
+       "text": "唐 道宣述"
+      }},
+      {"data": {
+       "id": "z5cYxzNRHy",
+       "created": 1646116898681,
+       "text": "道宣",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxzNRHz",
+      "created": 1646116898681,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxzNRI0",
+      "created": 1646116898681,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxzNRI1",
+      "created": 1646116898681,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxzNRI2",
+       "created": 1646116898681,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRI3",
+       "created": 1646116898681,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRI4",
+       "created": 1646116898681,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRI5",
+       "created": 1646116898681,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRI6",
+       "created": 1646116898681,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRI7",
+       "created": 1646116898681,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRI8",
+       "created": 1646116898681,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRI9",
+       "created": 1646116898681,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIA",
+       "created": 1646116898681,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIB",
+       "created": 1646116898681,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIC",
+       "created": 1646116898681,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRID",
+       "created": 1646116898681,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIE",
+       "created": 1646116898681,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIF",
+       "created": 1646116898681,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIG",
+       "created": 1646116898681,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIH",
+       "created": 1646116898681,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRII",
+       "created": 1646116898681,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIJ",
+       "created": 1646116898681,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIK",
+       "created": 1646116898681,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIL",
+       "created": 1646116898681,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIM",
+       "created": 1646116898681,
+       "text": "【大正藏】No.1896《釋門歸敬儀》唐 道宣述 部別：諸宗部二 / 冊數：45 / 頁數：854 / 卷數：2 相關經典：續-2.10.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxzNRIN",
+       "created": 1646116898681,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIO",
+       "created": 1646116898681,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIP",
+       "created": 1646116898681,
+       "text": "【新纂卍續藏】No.1095《釋門歸敬儀通真記》宋 了然述　日本 慧光合 部別：中國撰述 諸宗著述部六 戒律宗 / 冊數：59 / 頁數：450 / 卷數：3 《卍大日本續藏經》套數：第二編．第 10 套 《卍續藏經》(新文豐版)冊數：第 105 冊"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIQ",
+       "created": 1646116898681,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxzNRIR",
+       "created": 1646116898681,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1896"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzzs1km",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

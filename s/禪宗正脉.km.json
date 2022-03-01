@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "禪宗正脉"},
+  "children": [{
+   "data": {
+    "id": "z5cYykff7E",
+    "created": 1646116901613,
+    "text": "現藏錄（明 如巹集）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYykef6Z",
+      "created": 1646116901612,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYykef6a",
+        "created": 1646116901612,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYykef6b",
+        "created": 1646116901612,
+        "text": "禪宗正脉",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYykef6c",
+        "created": 1646116901612,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYykef6d",
+        "created": 1646116901612,
+        "text": "禅宗正脉",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYykef6e",
+        "created": 1646116901612,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYykef6f",
+        "created": 1646116901612,
+        "text": "shan zong zheng mai"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYykef6g",
+      "created": 1646116901612,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYykef6h",
+      "created": 1646116901612,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYykef6i",
+      "created": 1646116901612,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYykef6j",
+       "created": 1646116901612,
+       "text": "明 如巹集"
+      }},
+      {"data": {
+       "id": "z5cYykef6k",
+       "created": 1646116901612,
+       "text": "如巹",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYykef6l",
+      "created": 1646116901612,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYykef6m",
+      "created": 1646116901612,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYykef6n",
+      "created": 1646116901612,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYykef6o",
+       "created": 1646116901612,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6p",
+       "created": 1646116901612,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6q",
+       "created": 1646116901612,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6r",
+       "created": 1646116901612,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6s",
+       "created": 1646116901612,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6t",
+       "created": 1646116901612,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6u",
+       "created": 1646116901612,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6v",
+       "created": 1646116901612,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6w",
+       "created": 1646116901612,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6x",
+       "created": 1646116901612,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6y",
+       "created": 1646116901612,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykef6z",
+       "created": 1646116901612,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykff70",
+       "created": 1646116901613,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykff71",
+       "created": 1646116901613,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykff72",
+       "created": 1646116901613,
+       "text": "【永樂北藏】No.1740《禪宗正脈》明如巹集 部別：大明續入藏諸集 / 冊數：193 / 頁數：1 / 卷數：20 千字文：勸-賞"
+      }},
+      {"data": {
+       "id": "z5cYykff73",
+       "created": 1646116901613,
+       "text": "【嘉興藏】No.1634《禪宗正脈》明如巹集 部別：大明續入藏諸集 / 法寶總目錄經號：1633 千字文 / 函號：［正藏］ 勸(669)-賞(670)"
+      }},
+      {"data": {
+       "id": "z5cYykff74",
+       "created": 1646116901613,
+       "text": "【嘉興藏新文豐版】［正藏］No.139《禪宗正脈》明 如巹撰 冊數：9 / 頁數：1 / 卷數：20"
+      }},
+      {"data": {
+       "id": "z5cYykff75",
+       "created": 1646116901613,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykff76",
+       "created": 1646116901613,
+       "text": "【縮刻藏】No.1796《敘古啟明讀禪宗正脈法》明如巹集 部別：支那撰述-諸宗部-禪宗 / 卷數：20 千字文：騰 1 (34)-騰 2 (34)"
+      }},
+      {"data": {
+       "id": "z5cYykff77",
+       "created": 1646116901613,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykff78",
+       "created": 1646116901613,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykff79",
+       "created": 1646116901613,
+       "text": "【佛教大藏經】No.1996《禪宗正脈》元明 如[(丞-ˍ)/巴]集 部別：諸宗部五 禪宗 / 冊數：72 / 頁數：1 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYykff7A",
+       "created": 1646116901613,
+       "text": "【中華藏】No.1725《禪宗正脉》明如巹著 冊數：79 / 頁數：263 / 卷數：20 / 底本：明永樂北藏本"
+      }},
+      {"data": {
+       "id": "z5cYykff7B",
+       "created": 1646116901613,
+       "text": "【新纂卍續藏】No.1593《禪宗正脉》明 如巹集 部別：中國撰述 史傳部十一 禪宗 / 冊數：85 / 頁數：372 / 卷數：10 《卍大日本續藏經》套數：第二編乙．第 19 套 《卍續藏經》(新文豐版)冊數：第 146 冊"
+      }},
+      {"data": {
+       "id": "z5cYykff7C",
+       "created": 1646116901613,
+       "text": "【南條文雄編號】 Nj. 1641"
+      }},
+      {"data": {
+       "id": "z5cYykff7D",
+       "created": 1646116901613,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：139"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2982jp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

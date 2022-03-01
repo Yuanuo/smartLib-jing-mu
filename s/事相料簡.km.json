@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "事相料簡"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLvYTa",
+    "created": 1646116900079,
+    "text": "現藏錄（日本 覺印記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLvYSv",
+      "created": 1646116900079,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLvYSw",
+        "created": 1646116900079,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLvYSx",
+        "created": 1646116900079,
+        "text": "事相料簡",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLvYSy",
+        "created": 1646116900079,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLvYSz",
+        "created": 1646116900079,
+        "text": "事相料简",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLvYT0",
+        "created": 1646116900079,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLvYT1",
+        "created": 1646116900079,
+        "text": "shi xiang liao jian"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLvYT2",
+      "created": 1646116900079,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLvYT3",
+      "created": 1646116900079,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLvYT4",
+      "created": 1646116900079,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLvYT5",
+       "created": 1646116900079,
+       "text": "日本 覺印記"
+      }},
+      {"data": {
+       "id": "z5cYyLvYT6",
+       "created": 1646116900079,
+       "text": "覺印",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLvYT7",
+      "created": 1646116900079,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLvYT8",
+      "created": 1646116900079,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLvYT9",
+      "created": 1646116900079,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLvYTA",
+       "created": 1646116900079,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTB",
+       "created": 1646116900079,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTC",
+       "created": 1646116900079,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTD",
+       "created": 1646116900079,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTE",
+       "created": 1646116900079,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTF",
+       "created": 1646116900079,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTG",
+       "created": 1646116900079,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTH",
+       "created": 1646116900079,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTI",
+       "created": 1646116900079,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTJ",
+       "created": 1646116900079,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTK",
+       "created": 1646116900079,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTL",
+       "created": 1646116900079,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTM",
+       "created": 1646116900079,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTN",
+       "created": 1646116900079,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTO",
+       "created": 1646116900079,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTP",
+       "created": 1646116900079,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTQ",
+       "created": 1646116900079,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTR",
+       "created": 1646116900079,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTS",
+       "created": 1646116900079,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTT",
+       "created": 1646116900079,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTU",
+       "created": 1646116900079,
+       "text": "【大正藏】No.2480《事相料簡》日本 覺印記 部別：續諸宗部九 / 冊數：78 / 頁數：220 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLvYTV",
+       "created": 1646116900079,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTW",
+       "created": 1646116900079,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTX",
+       "created": 1646116900079,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTY",
+       "created": 1646116900079,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLvYTZ",
+       "created": 1646116900079,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2480"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri12n22d",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

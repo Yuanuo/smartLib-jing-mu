@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "守護國界章"},
+  "children": [{
+   "data": {
+    "id": "z5cYyHfX7d",
+    "created": 1646116899815,
+    "text": "現藏錄（日本 最澄撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyHfX6y",
+      "created": 1646116899815,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyHfX6z",
+        "created": 1646116899815,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyHfX70",
+        "created": 1646116899815,
+        "text": "守護國界章",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyHfX71",
+        "created": 1646116899815,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyHfX72",
+        "created": 1646116899815,
+        "text": "守护国界章",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyHfX73",
+        "created": 1646116899815,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyHfX74",
+        "created": 1646116899815,
+        "text": "shou hu guo jie zhang"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyHfX75",
+      "created": 1646116899815,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyHfX76",
+      "created": 1646116899815,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyHfX77",
+      "created": 1646116899815,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyHfX78",
+       "created": 1646116899815,
+       "text": "日本 最澄撰"
+      }},
+      {"data": {
+       "id": "z5cYyHfX79",
+       "created": 1646116899815,
+       "text": "最澄",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyHfX7A",
+      "created": 1646116899815,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyHfX7B",
+      "created": 1646116899815,
+      "text": "9"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyHfX7C",
+      "created": 1646116899815,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyHfX7D",
+       "created": 1646116899815,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7E",
+       "created": 1646116899815,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7F",
+       "created": 1646116899815,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7G",
+       "created": 1646116899815,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7H",
+       "created": 1646116899815,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7I",
+       "created": 1646116899815,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7J",
+       "created": 1646116899815,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7K",
+       "created": 1646116899815,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7L",
+       "created": 1646116899815,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7M",
+       "created": 1646116899815,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7N",
+       "created": 1646116899815,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7O",
+       "created": 1646116899815,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7P",
+       "created": 1646116899815,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7Q",
+       "created": 1646116899815,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7R",
+       "created": 1646116899815,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7S",
+       "created": 1646116899815,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7T",
+       "created": 1646116899815,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7U",
+       "created": 1646116899815,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7V",
+       "created": 1646116899815,
+       "text": "【縮刻藏】No.1890《守護國界章》傳教大師最澄撰 部別：日本撰述部-天台宗 / 卷數：9 千字文：霜 6 (40)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7W",
+       "created": 1646116899815,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7X",
+       "created": 1646116899815,
+       "text": "【大正藏】No.2362《守護國界章》日本 最澄撰 部別：續諸宗部五 / 冊數：74 / 頁數：135 / 卷數：9 相關經典：國-諸宗17 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyHfX7Y",
+       "created": 1646116899815,
+       "text": "【佛教大藏經】No.2079《守護國界章》日本 最澄撰 部別：撰述部 天台宗 / 冊數：84 / 頁數：66 / 卷數：9"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7Z",
+       "created": 1646116899815,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7a",
+       "created": 1646116899815,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7b",
+       "created": 1646116899815,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyHfX7c",
+       "created": 1646116899815,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2362　卷中：679"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0vb1yw",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

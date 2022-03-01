@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "右繞佛塔功德經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx5VAqh",
+    "created": 1646116895217,
+    "text": "現藏錄（唐 實叉難陀譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx5TApk",
+      "created": 1646116895215,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx5TApl",
+        "created": 1646116895215,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5TApm",
+        "created": 1646116895215,
+        "text": "右繞佛塔功德經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5TApn",
+        "created": 1646116895215,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5TApo",
+        "created": 1646116895215,
+        "text": "右绕佛塔功德经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5TApp",
+        "created": 1646116895215,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5TApq",
+        "created": 1646116895215,
+        "text": "you rao fo ta gong de jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5TApy",
+        "created": 1646116895215,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5TApz",
+        "created": 1646116895215,
+        "text": "Yu jao fo t'a kung te ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5TAq0",
+        "created": 1646116895215,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5TAq1",
+        "created": 1646116895215,
+        "text": "Caityapradakṣiṇagātha(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5TAq2",
+        "created": 1646116895215,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5TAq3",
+        "created": 1646116895215,
+        "text": "Mchod-rten bskor-baḥi tshigs-su-bcad pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx5TAq4",
+        "created": 1646116895215,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx5TAq5",
+        "created": 1646116895215,
+        "text": "우요불탑공덕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx5TApr",
+      "created": 1646116895215,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5TAps",
+      "created": 1646116895215,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5TApt",
+      "created": 1646116895215,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx5TApu",
+       "created": 1646116895215,
+       "text": "唐 實叉難陀譯"
+      }},
+      {"data": {
+       "id": "z5cYx5TApv",
+       "created": 1646116895215,
+       "text": "實叉難陀",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx5TApw",
+      "created": 1646116895215,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5TApx",
+      "created": 1646116895215,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5TAq6",
+      "created": 1646116895215,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5TAq7",
+      "created": 1646116895215,
+      "text": "Translation by Śikṣānanda: (see K.485)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5TAq8",
+      "created": 1646116895215,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx5TAq9",
+       "created": 1646116895215,
+       "text": "【北京版】Mdo-sna-tshogs (su)208a-210b"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqA",
+       "created": 1646116895215,
+       "text": "【奈塘版】Mdo (la)311 b-315b"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqB",
+       "created": 1646116895215,
+       "text": "【德格版】Mdo-sde (sa)198b-201a"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqC",
+       "created": 1646116895215,
+       "text": "【拉薩版】Mdo (la)305a-308b"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqD",
+       "created": 1646116895215,
+       "text": "【卓尼版】Mdo-maṅ (sa)243a-246a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx5TAqE",
+      "created": 1646116895215,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx5TAqF",
+      "created": 1646116895215,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx5TAqG",
+      "created": 1646116895215,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx5TAqH",
+       "created": 1646116895215,
+       "text": "【房山石經】No.637《右繞佛塔功德經》(大周)于闐三藏實叉難陀譯 冊數：14 / 頁數：56 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：行 【房山石經】No.638《右繞佛塔功德經》(大周)于闐三藏實叉難陀譯 冊數：14 / 頁數：58 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqI",
+       "created": 1646116895215,
+       "text": "【開寶藏】No.488《右繞佛塔功德經》唐 于闐三藏實叉難陀 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqJ",
+       "created": 1646116895215,
+       "text": "【崇寧藏】No.493《右遶佛塔功德經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqK",
+       "created": 1646116895215,
+       "text": "【毘盧藏】No.488《右遶佛塔功德經》唐實叉難陀譯 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqL",
+       "created": 1646116895215,
+       "text": "【圓覺藏】No.499《右繞佛塔功德經》 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqM",
+       "created": 1646116895215,
+       "text": "【趙城金藏】No.487《右繞佛塔功德經》 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqN",
+       "created": 1646116895215,
+       "text": "【資福藏】No.505《右繞佛塔功德經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqO",
+       "created": 1646116895215,
+       "text": "【磧砂藏】No.509《右遶佛塔功德經》唐 實叉難陀譯 部別：五大部外單譯經 / 冊數：13 / 頁數：780 / 卷數：1 千字文：景 8 (201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqP",
+       "created": 1646116895215,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqQ",
+       "created": 1646116895215,
+       "text": "【高麗藏】No.486《右繞佛塔功德經》于闐國三藏實叉難陀譯 部別：大乘經 單譯 / 冊數：13 頁數：1300 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqR",
+       "created": 1646116895215,
+       "text": "【普寧藏】No.504《右繞佛塔功德經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqS",
+       "created": 1646116895215,
+       "text": "【至元錄】No.446《右繞佛塔功德經》唐于闐三藏實叉難陀譯 卷數：1 / 出處：(昇編入錄) 千字文：絲(195)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqT",
+       "created": 1646116895215,
+       "text": "【洪武南藏】No.448《右遶佛塔功德經》唐 于闐三藏實叉難陀 譯 冊數：68 / 頁數：304 / 卷數：1 千字文：景 8 (201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqU",
+       "created": 1646116895215,
+       "text": "【永樂南藏】No.503《右遶佛塔功德經》 部別：大乘經-單譯經 千字文：賢(204)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqV",
+       "created": 1646116895215,
+       "text": "【永樂北藏】No.484《佛說右繞佛塔功德經》唐實叉難陀譯 部別：大乘經單經譯 / 冊數：53 / 頁數：366 / 卷數：1 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqW",
+       "created": 1646116895215,
+       "text": "【嘉興藏】No.453《佛說右繞佛塔功說經》唐實叉難陀譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0453 千字文 / 函號：［正藏］ 景(201)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqX",
+       "created": 1646116895215,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqY",
+       "created": 1646116895215,
+       "text": "【乾隆藏】No.454《佛說右遶佛塔功德經》唐 實叉難陀譯 部別：大乘單譯經 / 冊數：45 / 頁數：190 / 卷數：1 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqZ",
+       "created": 1646116895215,
+       "text": "【縮刻藏】No.346《右遶佛塔功德經》唐實叉難陀等譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 7 (6)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqa",
+       "created": 1646116895215,
+       "text": "【卍正藏】No.459《右遶佛塔功德經》大周 實叉難陀等譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：833 / 卷數：1 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqb",
+       "created": 1646116895215,
+       "text": "【大正藏】No.700《右繞佛塔功德經》唐 實叉難陀譯 部別：經集部三 / 冊數：16 / 頁數：801 / 卷數：1 相關經典：縮-宙7,卍-12.5,國-經14 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx5TAqc",
+       "created": 1646116895215,
+       "text": "【佛教大藏經】No.349《右遶佛塔功德經》唐 實叉難陀譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：315 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqd",
+       "created": 1646116895215,
+       "text": "【中華藏】No.534《右繞佛塔功德經》于闐國三藏沙門實叉難陀等奉制譯 冊數：24 / 頁數：244 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqe",
+       "created": 1646116895215,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqf",
+       "created": 1646116895215,
+       "text": "【南條文雄編號】 Nj. 0458"
+      }},
+      {"data": {
+       "id": "z5cYx5TAqg",
+       "created": 1646116895215,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：700"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxbjlg",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

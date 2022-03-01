@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說妙吉祥最勝根本大教經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxUkIBC",
+    "created": 1646116896782,
+    "text": "現藏錄（宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxUkIAF",
+      "created": 1646116896782,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxUkIAG",
+        "created": 1646116896782,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUkIAH",
+        "created": 1646116896782,
+        "text": "佛說妙吉祥最勝根本大教經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUkIAI",
+        "created": 1646116896782,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUkIAJ",
+        "created": 1646116896782,
+        "text": "佛说妙吉祥最胜根本大教经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUkIAK",
+        "created": 1646116896782,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUkIAL",
+        "created": 1646116896782,
+        "text": "fo shuo miao ji xiang zui sheng gen ben da jiao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUkIAT",
+        "created": 1646116896782,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUkIAU",
+        "created": 1646116896782,
+        "text": "Miao chi hsiang tsui sheng ken pen ta chiao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUkIAV",
+        "created": 1646116896782,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUkIAW",
+        "created": 1646116896782,
+        "text": "Krodhavijayakalpaguhyatantra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUkIAX",
+        "created": 1646116896782,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUkIAY",
+        "created": 1646116896782,
+        "text": "Khro-bo rnam-par rgyal-baḥi rtog-pa gsaṅ-baḥi rgyud"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUkIAZ",
+        "created": 1646116896782,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUkIAa",
+        "created": 1646116896782,
+        "text": "묘길상최승근본대교경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxUkIAM",
+      "created": 1646116896782,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxUkIAN",
+      "created": 1646116896782,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxUkIAO",
+      "created": 1646116896782,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxUkIAP",
+       "created": 1646116896782,
+       "text": "宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAQ",
+       "created": 1646116896782,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxUkIAR",
+      "created": 1646116896782,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxUkIAS",
+      "created": 1646116896782,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxUkIAb",
+      "created": 1646116896782,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxUkIAc",
+      "created": 1646116896782,
+      "text": "Translation by Fa-hsien: (see K.1172)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxUkIAd",
+      "created": 1646116896782,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxUkIAe",
+       "created": 1646116896782,
+       "text": "【北京版】Rgyud (ba)4a-56a"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAf",
+       "created": 1646116896782,
+       "text": "【奈塘版】Rgyud (pa)304a-384b"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAg",
+       "created": 1646116896782,
+       "text": "【德格版】Rgyud-ḥbum (pha)269a-287a(ba)1b-35b"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAh",
+       "created": 1646116896782,
+       "text": "【拉薩版】Rgyud (na)332a-411b"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAi",
+       "created": 1646116896782,
+       "text": "【卓尼版】Rgyud (ba)5b-65b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxUkIAj",
+      "created": 1646116896782,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxUkIAk",
+      "created": 1646116896782,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxUkIAl",
+      "created": 1646116896782,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxUkIAm",
+       "created": 1646116896782,
+       "text": "【房山石經】No.975《佛說妙吉祥最勝根本大教經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：27 / 頁數：1 / 卷數：3 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：濟"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAn",
+       "created": 1646116896782,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAo",
+       "created": 1646116896782,
+       "text": "【崇寧藏】No.1206《佛說妙吉祥最勝根本大教經》 卷數：3 千字文：冠(506)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAp",
+       "created": 1646116896782,
+       "text": "【毘盧藏】No.1207《妙吉祥最勝根本大教經》宋法賢譯 參考年代：(紹興一八．閏八) 千字文：冠(506)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAq",
+       "created": 1646116896782,
+       "text": "【圓覺藏】No.1216《最勝根本教經》 千字文：冠(506)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAr",
+       "created": 1646116896782,
+       "text": "【趙城金藏】No.1209《佛說妙吉祥最勝根本大教經》 卷數：3 千字文：千"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAs",
+       "created": 1646116896782,
+       "text": "【資福藏】No.1221《最勝根本教經》 卷數：3 (上中下) 千字文：冠(506)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAt",
+       "created": 1646116896782,
+       "text": "【磧砂藏】No.1230《佛說妙吉祥最勝根本大教經》宋 法賢譯 部別： / 冊數：33 / 頁數：114 / 卷數：3 千字文：冠 6 (506)-冠 8 (506)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAu",
+       "created": 1646116896782,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAv",
+       "created": 1646116896782,
+       "text": "【高麗藏】No.1208《妙吉祥最勝根本大教經》西天三藏明教大師法賢譯 部別：宋續入藏經 / 冊數：34 頁數：330 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：千"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAw",
+       "created": 1646116896782,
+       "text": "【普寧藏】No.1221《佛說妙吉祥最勝根本大教經》 卷數：1 千字文：冠(506)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAx",
+       "created": 1646116896782,
+       "text": "【至元錄】No.700《妙吉祥最勝根本大教王經》宋三藏法賢譯 梵名：阿唎(二合)亞　曼殊室唎　薩怛畢哩怛孤忽(二合)牙　單特囉　阿囉叉爺瓦　尾應(二合)灑低迦　古嚕答　尾扎牙　案叉拏 / 卷數：3 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAy",
+       "created": 1646116896782,
+       "text": "【洪武南藏】No.1081《佛說妙吉祥最勝根本教經》西天譯經三藏朝散大夫試光祿卿明教大師臣法賢 奉詔譯 冊數：182 / 頁數：101 / 卷數：3 千字文：冠 6 (506)-冠 8 (506)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIAz",
+       "created": 1646116896782,
+       "text": "【永樂南藏】No.887《佛說妙吉祥最勝根本大教經》 部別：宋元入藏諸大小乘經 千字文：薄(260)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB0",
+       "created": 1646116896782,
+       "text": "【永樂北藏】No.1072《佛說妙吉祥最勝根本大教經》宋法賢譯 部別：宋元入藏諸大小乘經之餘 / 冊數：74 / 頁數：241 / 卷數：3 千字文：取"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB1",
+       "created": 1646116896782,
+       "text": "【嘉興藏】No.1034《妙吉祥最勝根本大教經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1033 千字文 / 函號：［正藏］ 取(279)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB2",
+       "created": 1646116896782,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB3",
+       "created": 1646116896782,
+       "text": "【乾隆藏】No.1035《佛說妙吉祥最勝根本大教經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：62 / 頁數：459 / 卷數：3 千字文：取"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB4",
+       "created": 1646116896782,
+       "text": "【縮刻藏】No.1647《佛說妙吉祥最勝根本大教經》宋法賢譯 部別：祕密部 / 卷數：3 千字文：成 13 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB5",
+       "created": 1646116896782,
+       "text": "【卍正藏】No.1044《佛說妙吉祥最勝根本大教經》法賢譯 部別：宋元入藏諸大小乘經之餘 / 冊數：30 / 頁數：207 / 卷數：3 原版套數：第 16 套"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB6",
+       "created": 1646116896782,
+       "text": "【大正藏】No.1217《佛說妙吉祥最勝根本大教經》宋 法賢譯 部別：密教部四 / 冊數：21 / 頁數：81 / 卷數：3 相關經典：縮-成13,卍-16.7 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxUkIB7",
+       "created": 1646116896782,
+       "text": "【佛教大藏經】No.1725《佛說妙吉詳最勝根本大教經》宋 法賢譯 部別：密教部七 / 冊數：58 / 頁數：207 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB8",
+       "created": 1646116896782,
+       "text": "【中華藏】No.1319《佛說妙吉祥最勝根本大教經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：654 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxUkIB9",
+       "created": 1646116896782,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUkIBA",
+       "created": 1646116896782,
+       "text": "【南條文雄編號】 Nj. 1040"
+      }},
+      {"data": {
+       "id": "z5cYxUkIBB",
+       "created": 1646116896782,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1217"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyj2110",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

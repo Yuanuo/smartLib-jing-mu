@@ -1,0 +1,342 @@
+{
+ "root": {
+  "data": {"text": "金剛三昧經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwgU40T",
+    "created": 1646116893666,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwgT3zZ",
+      "created": 1646116893665,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwgT3za",
+        "created": 1646116893665,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgT3zb",
+        "created": 1646116893665,
+        "text": "金剛三昧經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgT3zc",
+        "created": 1646116893665,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgT3zd",
+        "created": 1646116893665,
+        "text": "金刚三昧经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgT3ze",
+        "created": 1646116893665,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgT3zf",
+        "created": 1646116893665,
+        "text": "jin gang san mei jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgT3zk",
+        "created": 1646116893665,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgT3zl",
+        "created": 1646116893665,
+        "text": "Chin kang san mei ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgT3zm",
+        "created": 1646116893665,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgT3zn",
+        "created": 1646116893665,
+        "text": "Vajrasamādhi(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgT3zo",
+        "created": 1646116893665,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgT3zp",
+        "created": 1646116893665,
+        "text": "Rdo-rjeḥi tiṅ-ṅe-ḥdsin-gyi chos-kyi yi-ge"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwgT3zq",
+        "created": 1646116893665,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwgT3zr",
+        "created": 1646116893665,
+        "text": "김강삼매경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgT3zg",
+      "created": 1646116893665,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgT3zh",
+      "created": 1646116893665,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgT3zi",
+      "created": 1646116893665,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgT3zj",
+      "created": 1646116893665,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgT3zs",
+      "created": 1646116893665,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgT3zt",
+      "created": 1646116893665,
+      "text": "Translator unknown: Northern Liang dynasty (北涼) (A.D. 397-439).T.2157-938c:10."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgT3zu",
+      "created": 1646116893665,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgT3zv",
+       "created": 1646116893665,
+       "text": "【北京版】Mdo-sna-tshogs (du)127b-152a"
+      }},
+      {"data": {
+       "id": "z5cYwgT3zw",
+       "created": 1646116893665,
+       "text": "【奈塘版】Mdo (tha)254a-291a"
+      }},
+      {"data": {
+       "id": "z5cYwgT3zx",
+       "created": 1646116893665,
+       "text": "【德格版】Mdo-sde (na)122a-144b"
+      }},
+      {"data": {
+       "id": "z5cYwgT3zy",
+       "created": 1646116893665,
+       "text": "【拉薩版】Mdo (tha)241a-276a"
+      }},
+      {"data": {
+       "id": "z5cYwgT3zz",
+       "created": 1646116893665,
+       "text": "【卓尼版】Mdo-maṅ (ḥa)152a-178b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwgT400",
+      "created": 1646116893665,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwgT401",
+      "created": 1646116893665,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwgT402",
+      "created": 1646116893665,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwgT403",
+       "created": 1646116893665,
+       "text": "【房山石經】No.128《金剛三昧經》失譯人 冊數：3 / 頁數：383 / 刻經年代：大和二年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.655《金剛三昧經》北涼失譯 冊數：14 / 頁數：93 / 卷數：2 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：維"
+      }},
+      {"data": {
+       "id": "z5cYwgT404",
+       "created": 1646116893665,
+       "text": "【開寶藏】No.506《金剛三昧經》北涼 失譯者 部別：大乘經 大乘經單譯 / 卷數：1 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYwgT405",
+       "created": 1646116893665,
+       "text": "【崇寧藏】No.511《金剛三昧經》 卷數：1 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYwgT406",
+       "created": 1646116893665,
+       "text": "【毘盧藏】No.509《金剛三昧經》失譯 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYwgT407",
+       "created": 1646116893665,
+       "text": "【圓覺藏】No.521《金剛三昧經》 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYwgT408",
+       "created": 1646116893665,
+       "text": "【趙城金藏】No.522《金剛三昧經》 卷數：1 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYwgT409",
+       "created": 1646116893665,
+       "text": "【資福藏】No.527《金剛三昧經》 卷數：2 (上下) 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40A",
+       "created": 1646116893665,
+       "text": "【磧砂藏】No.527《金剛三昧經》 部別：五大部外單譯經 / 冊數：13 / 頁數：805 / 卷數：2 千字文：行 5 (202)-行 6 (202)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40B",
+       "created": 1646116893665,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40C",
+       "created": 1646116893665,
+       "text": "【高麗藏】No.521《金剛三昧經》北涼失譯人名 部別：大乘經 單譯 / 冊數：14 頁數：57 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYwgT40D",
+       "created": 1646116893665,
+       "text": "【普寧藏】No.521《金剛三昧經》 卷數：2 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40E",
+       "created": 1646116893665,
+       "text": "【至元錄】No.464《金剛三昧經》北京失譯人名 卷數：2 千字文：染(196)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40F",
+       "created": 1646116893665,
+       "text": "【洪武南藏】No.465《金剛三昧經》出北涼錄失譯師名 冊數：68 / 頁數：403 / 卷數：1 千字文：行 5 (202)-行 6 (202)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40G",
+       "created": 1646116893665,
+       "text": "【永樂南藏】No.520《金剛三昧經》 部別：大乘經-單譯經 千字文：賢(204)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40H",
+       "created": 1646116893665,
+       "text": "【永樂北藏】No.454《金剛三昧經》失譯人名附北涼錄 部別：大乘經單經譯 / 冊數：50 / 頁數：769 / 卷數：2 千字文：難"
+      }},
+      {"data": {
+       "id": "z5cYwgT40I",
+       "created": 1646116893665,
+       "text": "【嘉興藏】No.424《金剛三昧經》失譯人名附北涼錄 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0424 千字文 / 函號：［正藏］ 難(191)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40J",
+       "created": 1646116893665,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40K",
+       "created": 1646116893665,
+       "text": "【乾隆藏】No.425《金剛三昧經》出北涼錄失譯人名 部別：大乘單譯經 / 冊數：43 / 頁數：169 / 卷數：2 千字文：難"
+      }},
+      {"data": {
+       "id": "z5cYwgT40L",
+       "created": 1646116893665,
+       "text": "【縮刻藏】No.432《金剛三昧經》失譯 部別：大乘經-法華部 / 卷數：1 千字文：盈 4 (11)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40M",
+       "created": 1646116893665,
+       "text": "【卍正藏】No.430《金剛三昧經》北涼 失譯人名 部別：大乘經 單譯經 / 冊數：20 / 頁數：842 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYwgT40N",
+       "created": 1646116893665,
+       "text": "【大正藏】No.273《金剛三昧經》失譯 部別：法華部全 / 冊數：9 / 頁數：365 / 卷數：1 相關經典：縮-盈4,卍-11.10 參考資料：cf.No.1730"
+      }},
+      {"data": {
+       "id": "z5cYwgT40O",
+       "created": 1646116893665,
+       "text": "【佛教大藏經】No.440《金剛三昧經》失譯 部別：大乘經 法華部全 / 冊數：21 / 頁數：576 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwgT40P",
+       "created": 1646116893665,
+       "text": "【中華藏】No.570《金剛三昧經》北涼失譯人名 冊數：24 / 頁數：378 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwgT40Q",
+       "created": 1646116893665,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwgT40R",
+       "created": 1646116893665,
+       "text": "【南條文雄編號】 Nj. 0429"
+      }},
+      {"data": {
+       "id": "z5cYwgT40S",
+       "created": 1646116893665,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：273"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw4g7v",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

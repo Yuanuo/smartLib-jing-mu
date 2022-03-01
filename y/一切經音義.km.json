@@ -1,0 +1,620 @@
+{
+ "root": {
+  "data": {"text": "一切經音義"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYy8dUFl",
+     "created": 1646116899255,
+     "text": "現藏錄（唐 慧琳撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYy8cUEt",
+       "created": 1646116899254,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYy8cUEu",
+         "created": 1646116899254,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8cUEv",
+         "created": 1646116899254,
+         "text": "一切經音義",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8cUEw",
+         "created": 1646116899254,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8cUEx",
+         "created": 1646116899254,
+         "text": "一切经音义",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8cUEy",
+         "created": 1646116899254,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8cUEz",
+         "created": 1646116899254,
+         "text": "yi qie jing yin yi"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8cUF8",
+         "created": 1646116899254,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8cUF9",
+         "created": 1646116899254,
+         "text": "I ch'ieh ching yin i"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYy8cUFA",
+        "created": 1646116899254,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYy8cUFB",
+         "created": 1646116899254,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8cUFC",
+         "created": 1646116899254,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8cUFD",
+         "created": 1646116899254,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8cUFE",
+         "created": 1646116899254,
+         "text": "일체경음의",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYy8cUF0",
+       "created": 1646116899254,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8cUF1",
+       "created": 1646116899254,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYy8cUF2",
+       "created": 1646116899254,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYy8cUF3",
+        "created": 1646116899254,
+        "text": "唐 慧琳撰"
+       }},
+       {"data": {
+        "id": "z5cYy8cUF4",
+        "created": 1646116899254,
+        "text": "慧琳",
+        "resource": ["author"]
+       }},
+       {"data": {
+        "id": "z5cYy8cUF5",
+        "created": 1646116899254,
+        "text": "玄應",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYy8cUF6",
+       "created": 1646116899254,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8cUF7",
+       "created": 1646116899254,
+       "text": "100"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYy8cUFF",
+       "created": 1646116899254,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8cUFG",
+       "created": 1646116899254,
+       "text": "Compiled by Hui-lin: T'ang dynasty (唐) (A.D. 788-810).Hōbō. p.134a."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYy8cUFH",
+      "created": 1646116899254,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYy8cUFI",
+       "created": 1646116899254,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8cUFJ",
+       "created": 1646116899254,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYy8cUFK",
+       "created": 1646116899254,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYy8cUFL",
+        "created": 1646116899254,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFM",
+        "created": 1646116899254,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFN",
+        "created": 1646116899254,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFO",
+        "created": 1646116899254,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFP",
+        "created": 1646116899254,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFQ",
+        "created": 1646116899254,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFR",
+        "created": 1646116899254,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFS",
+        "created": 1646116899254,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFT",
+        "created": 1646116899254,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFU",
+        "created": 1646116899254,
+        "text": "【高麗藏】No.1498《一切經音義》翻經沙門慧琳撰 部別：宋續入藏經 / 冊數：42 頁數：1 / 卷數：100 / 連結：高麗大藏經 (圖檔) 千字文：田-洞"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFV",
+        "created": 1646116899254,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFW",
+        "created": 1646116899254,
+        "text": "【至元錄】No.1566《一切經音義》沙門慧林撰 卷數：100 千字文：翦(594)-沙(603)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFX",
+        "created": 1646116899254,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFY",
+        "created": 1646116899254,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFZ",
+        "created": 1646116899254,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFa",
+        "created": 1646116899254,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFb",
+        "created": 1646116899254,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFc",
+        "created": 1646116899254,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFd",
+        "created": 1646116899254,
+        "text": "【縮刻藏】No.1879《一切經音義》唐慧琳撰 部別：支那撰述-音義部 / 卷數：100 千字文：為 8 (39)-為 10 (39)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFe",
+        "created": 1646116899254,
+        "text": "【卍正藏】No.1612《一切經音義》唐 玄應撰 部別：此土著述 / 冊數：67 / 頁數：37 / 卷數：25 原版套數：第 35 套"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFf",
+        "created": 1646116899254,
+        "text": "【大正藏】No.2128《一切經音義》唐 慧琳撰 部別：事彙部下 / 冊數：54 / 頁數：311 / 卷數：100 相關經典：縮-為8-10 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYy8cUFg",
+        "created": 1646116899254,
+        "text": "【佛教大藏經】No.2070《一切經音義》唐 慧琳撰 部別：音義部 / 冊數：82 / 頁數：1 / 卷數：100"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFh",
+        "created": 1646116899254,
+        "text": "【中華藏】No.1165《一切經音義》翻經沙門慧琳撰 冊數：57-59 / 頁數：398 / 卷數：100 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFi",
+        "created": 1646116899254,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFj",
+        "created": 1646116899254,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8cUFk",
+        "created": 1646116899254,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2128"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyyfjb3",
+     "created": 1646116902481,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyyejaF",
+       "created": 1646116902480,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyyejaG",
+         "created": 1646116902480,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyyejaH",
+         "created": 1646116902480,
+         "text": "一切經音義"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyyejaI",
+         "created": 1646116902480,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyyejaJ",
+         "created": 1646116902480,
+         "text": "一切经音义"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyyejaK",
+         "created": 1646116902480,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyyejaL",
+         "created": 1646116902480,
+         "text": "yi qie jing yin yi"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyyfjaQ",
+         "created": 1646116902481,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYyyfjaR",
+         "created": 1646116902481,
+         "text": "I ch'ieh ching yin i"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYyyfjaS",
+        "created": 1646116902481,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYyyfjaT",
+         "created": 1646116902481,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYyyfjaU",
+         "created": 1646116902481,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyyfjaV",
+         "created": 1646116902481,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYyyfjaW",
+         "created": 1646116902481,
+         "text": "일체경음의"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyyejaM",
+       "created": 1646116902480,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyyejaN",
+       "created": 1646116902480,
+       "text": "玄應"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyyfjaO",
+       "created": 1646116902481,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyyfjaP",
+       "created": 1646116902481,
+       "text": "25"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyyfjaX",
+       "created": 1646116902481,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYyyfjaY",
+       "created": 1646116902481,
+       "text": "Compiled by Hsüan-ying: after the last year of Chen Kuan (貞觀), T'ang dynasty (唐) (A.D. 649) in Ta-tz'u-en Monastery (大慈恩寺).T. 2154-562a:24."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYyyfjaZ",
+      "created": 1646116902481,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYyyfjaa",
+       "created": 1646116902481,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYyyfjab",
+       "created": 1646116902481,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyyfjac",
+       "created": 1646116902481,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyyfjad",
+        "created": 1646116902481,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjae",
+        "created": 1646116902481,
+        "text": "【開寶藏】No.1058《一切經音義》唐 翻經沙門玄應 撰 部別：賢聖傳記錄 此方撰述集傳 / 卷數：25 千字文：納-轉"
+       }},
+       {"data": {
+        "id": "z5cYyyfjaf",
+        "created": 1646116902481,
+        "text": "【崇寧藏】No.1063《一切經音義》 卷數：25 千字文：階(458)-弁(461)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjag",
+        "created": 1646116902481,
+        "text": "【毘盧藏】No.1063《一切經音義》唐沙門玄應撰 千字文：階(458)-弁(461)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjah",
+        "created": 1646116902481,
+        "text": "【圓覺藏】No.1072《一切經音義》 卷數：25 千字文：階(458)-辨(461)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjai",
+        "created": 1646116902481,
+        "text": "【趙城金藏】No.1065《一切經音義》 卷數：25 千字文：納-轉"
+       }},
+       {"data": {
+        "id": "z5cYyyfjaj",
+        "created": 1646116902481,
+        "text": "【資福藏】No.1076《一切經音義》 卷數：25 (一部二十五卷) 千字文：階(458)-弁(461)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjak",
+        "created": 1646116902481,
+        "text": "【磧砂藏】No.1087《一切經音義》唐 玄應撰 部別： / 冊數：30 / 頁數：122 / 卷數：25 千字文：階 1 (458)-弁 5 (461)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjal",
+        "created": 1646116902481,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjam",
+        "created": 1646116902481,
+        "text": "【高麗藏】No.1063《一切經音義》翻經玄應撰 部別：賢聖傳記錄 此土撰述 / 冊數：32 頁數：1 / 卷數：25 / 連結：高麗大藏經 (圖檔) 千字文：納-轉"
+       }},
+       {"data": {
+        "id": "z5cYyyfjan",
+        "created": 1646116902481,
+        "text": "【普寧藏】No.1077《一切經音義》 卷數：25 千字文：階(458)-弁(461)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjao",
+        "created": 1646116902481,
+        "text": "【至元錄】No.1542《一切經音義》唐沙門玄應撰 卷數：25 / 出處：(出內典錄) 千字文：覇(572)-困(575)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjap",
+        "created": 1646116902481,
+        "text": "【洪武南藏】No.945《一切經音義》唐 大慈恩寺翻經沙門玄應 撰 冊數：164-165 / 頁數：537 / 卷數：24 千字文：階 1 (458)-弁 5 (461)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjaq",
+        "created": 1646116902481,
+        "text": "【永樂南藏】No.1601《一切經音義》 部別：此方撰述 千字文：云(623)-鴈(625)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjar",
+        "created": 1646116902481,
+        "text": "【永樂北藏】No.1692《一切經音義》唐玄應撰 部別：此土著述 / 冊數：175 / 頁數：205 / 卷數：26 千字文：郡-并"
+       }},
+       {"data": {
+        "id": "z5cYyyfjas",
+        "created": 1646116902481,
+        "text": "【嘉興藏】No.1597《一切經音義》唐玄應撰 部別：此土著述 / 法寶總目錄經號：1596 千字文 / 函號：［正藏］ 郡(614)-并(616)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjat",
+        "created": 1646116902481,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjau",
+        "created": 1646116902481,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjav",
+        "created": 1646116902481,
+        "text": "【縮刻藏】No.1877《一切經音義》唐玄應撰 部別：支那撰述-音義部 / 卷數：25 千字文：為 6 (39)-為 7 (39)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjaw",
+        "created": 1646116902481,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjax",
+        "created": 1646116902481,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjay",
+        "created": 1646116902481,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjaz",
+        "created": 1646116902481,
+        "text": "【中華藏】No.1163《一切經音義》翻經沙門玄應撰 冊數：56-57 / 頁數：813 / 卷數：25 / 底本：麗藏本 金藏廣勝寺本 【中華藏】No.1164《一切經音義》唐大慈恩寺翻經沙門玄應撰 冊數：57 / 頁數：135 / 卷數：25 / 底本：明永樂南藏本"
+       }},
+       {"data": {
+        "id": "z5cYyyfjb0",
+        "created": 1646116902481,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyyfjb1",
+        "created": 1646116902481,
+        "text": "【南條文雄編號】 Nj. 1605"
+       }},
+       {"data": {
+        "id": "z5cYyyfjb2",
+        "created": 1646116902481,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：8"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0fp1ro",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

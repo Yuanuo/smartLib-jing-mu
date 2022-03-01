@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說大乘大方廣佛冠經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwsF71j",
+    "created": 1646116894395,
+    "text": "現藏錄（宋 法護等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwsE70m",
+      "created": 1646116894394,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwsE70n",
+        "created": 1646116894394,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwsE70o",
+        "created": 1646116894394,
+        "text": "佛說大乘大方廣佛冠經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwsE70p",
+        "created": 1646116894394,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwsE70q",
+        "created": 1646116894394,
+        "text": "佛说大乘大方广佛冠经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwsE70r",
+        "created": 1646116894394,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwsE70s",
+        "created": 1646116894394,
+        "text": "fo shuo da cheng da fang guang fo guan jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwsE710",
+        "created": 1646116894394,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwsE711",
+        "created": 1646116894394,
+        "text": "Ta ch'eng ta fang kuang fo kuan ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwsE712",
+        "created": 1646116894394,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwsE713",
+        "created": 1646116894394,
+        "text": "Buddhamakuṭasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwsE714",
+        "created": 1646116894394,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwsE715",
+        "created": 1646116894394,
+        "text": "Saṅs-rgyas-kyi dbu-rgyan"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwsE716",
+        "created": 1646116894394,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwsE717",
+        "created": 1646116894394,
+        "text": "대승대방광불관경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwsE70t",
+      "created": 1646116894394,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwsE70u",
+      "created": 1646116894394,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwsE70v",
+      "created": 1646116894394,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwsE70w",
+       "created": 1646116894394,
+       "text": "宋 法護等譯"
+      }},
+      {"data": {
+       "id": "z5cYwsE70x",
+       "created": 1646116894394,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwsE70y",
+      "created": 1646116894394,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwsE70z",
+      "created": 1646116894394,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwsE718",
+      "created": 1646116894394,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwsE719",
+      "created": 1646116894394,
+      "text": "Translation by Dharmarakṣa and others: (see K.1475)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwsE71A",
+      "created": 1646116894394,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwsE71B",
+       "created": 1646116894394,
+       "text": "【北京版】Mdo-sna-tshogs (ḥu)31a-37b"
+      }},
+      {"data": {
+       "id": "z5cYwsE71C",
+       "created": 1646116894394,
+       "text": "【奈塘版】Mdo (za)42a-51a"
+      }},
+      {"data": {
+       "id": "z5cYwsE71D",
+       "created": 1646116894394,
+       "text": "【德格版】Mdo-sde (ya)29b-35b"
+      }},
+      {"data": {
+       "id": "z5cYwsE71E",
+       "created": 1646116894394,
+       "text": "【拉薩版】Mdo (za)93a-101b"
+      }},
+      {"data": {
+       "id": "z5cYwsF71F",
+       "created": 1646116894395,
+       "text": "【卓尼版】Mdo-maṅ (ya)35a-42a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwsF71G",
+      "created": 1646116894395,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwsF71H",
+      "created": 1646116894395,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwsF71I",
+      "created": 1646116894395,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwsF71J",
+       "created": 1646116894395,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71K",
+       "created": 1646116894395,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71L",
+       "created": 1646116894395,
+       "text": "【崇寧藏】No.1331《佛說大乘大方廣佛冠經》 卷數：2 千字文：綺(553)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71M",
+       "created": 1646116894395,
+       "text": "【毘盧藏】No.1330《佛說大乘大方廣佛冠經》宋法護等譯 參考年代：(紹興一八．閏八) 千字文：綺(553)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71N",
+       "created": 1646116894395,
+       "text": "【圓覺藏】No.1329《大乘廣佛冠經》 千字文：谿(530)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71O",
+       "created": 1646116894395,
+       "text": "【趙城金藏】No.1477《大乘大方廣佛冠經》 卷數：2 千字文：俊"
+      }},
+      {"data": {
+       "id": "z5cYwsF71P",
+       "created": 1646116894395,
+       "text": "【資福藏】No.1334《佛說大乘大方廣佛冠經》 卷數：1 (上下一卷) 千字文：溪(530)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71Q",
+       "created": 1646116894395,
+       "text": "【磧砂藏】No.1338《佛說大乘大方廣佛冠經》宋 法護等譯 部別： / 冊數：34 / 頁數：294 / 卷數：2 千字文：溪 6 (530)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71R",
+       "created": 1646116894395,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71S",
+       "created": 1646116894395,
+       "text": "【高麗藏】No.1479《大乘大方廣佛冠經》法護譯 部別：宋續入藏經 / 冊數：41 頁數：20 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：九"
+      }},
+      {"data": {
+       "id": "z5cYwsF71T",
+       "created": 1646116894395,
+       "text": "【普寧藏】No.1330《佛說大乘大方廣佛冠經》 卷數：1 千字文：溪(530)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71U",
+       "created": 1646116894395,
+       "text": "【至元錄】No.524《大乘大方廣佛冠經》宋西域三藏法護等譯 卷數：2 千字文：念(206)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71V",
+       "created": 1646116894395,
+       "text": "【洪武南藏】No.1189《佛說大乘大方廣佛冠經》西天譯經三藏朝散大夫試鴻臚卿傳梵大師賜紫沙門臣法護 等奉詔譯 冊數：188 / 頁數：237 / 卷數：2 千字文：溪 6 (530)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71W",
+       "created": 1646116894395,
+       "text": "【永樂南藏】No.985《大乘大方廣佛冠經》 部別：宋元入藏諸大小乘經 千字文：如(269)-松(270)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71X",
+       "created": 1646116894395,
+       "text": "【永樂北藏】No.1000《佛說大乘大方廣佛冠經》宋法護等譯 部別：宋元入藏諸大小乘經 / 冊數：70 / 頁數：260 / 卷數：0 千字文：清"
+      }},
+      {"data": {
+       "id": "z5cYwsF71Y",
+       "created": 1646116894395,
+       "text": "【嘉興藏】No.962《大乘大方廣佛冠經》宋法護等譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0962 千字文 / 函號：［正藏］ 清(264)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71Z",
+       "created": 1646116894395,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71a",
+       "created": 1646116894395,
+       "text": "【乾隆藏】No.963《佛說大乘大方廣佛冠經》宋 法護等譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：267 / 卷數：2 千字文：清"
+      }},
+      {"data": {
+       "id": "z5cYwsF71b",
+       "created": 1646116894395,
+       "text": "【縮刻藏】No.127《佛說大乘大方廣佛冠經》宋法護等譯 部別：大乘經-方等部 / 卷數：2 千字文：黃 4 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71c",
+       "created": 1646116894395,
+       "text": "【卍正藏】No.972《佛說大乘大方廣佛冠經》法護等譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：602 / 卷數：2 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwsF71d",
+       "created": 1646116894395,
+       "text": "【大正藏】No.438《佛說大乘大方廣佛冠經》宋 法護等譯 部別：經集部一 / 冊數：14 / 頁數：110 / 卷數：2 相關經典：縮-黃4,卍-15.9 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwsF71e",
+       "created": 1646116894395,
+       "text": "【佛教大藏經】No.129《佛說大乘大方廣佛冠經》宋 法護等譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：726 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwsF71f",
+       "created": 1646116894395,
+       "text": "【中華藏】No.1617《佛說大乘大方廣佛冠經》西天譯經三藏朝散大夫試鴻臚卿傳梵大師賜紫沙門法護等奉詔譯 冊數：68 / 頁數：491 / 卷數：2 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwsF71g",
+       "created": 1646116894395,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwsF71h",
+       "created": 1646116894395,
+       "text": "【南條文雄編號】 Nj. 0968"
+      }},
+      {"data": {
+       "id": "z5cYwsF71i",
+       "created": 1646116894395,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：438"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwoqdz",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

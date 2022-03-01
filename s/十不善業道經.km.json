@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "十不善業道經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx6YBEb",
+    "created": 1646116895282,
+    "text": "現藏錄（馬鳴菩薩集　宋 日稱等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx6XBDe",
+      "created": 1646116895281,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx6XBDf",
+        "created": 1646116895281,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6XBDg",
+        "created": 1646116895281,
+        "text": "十不善業道經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6XBDh",
+        "created": 1646116895281,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6YBDi",
+        "created": 1646116895282,
+        "text": "十不善业道经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6YBDj",
+        "created": 1646116895282,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6YBDk",
+        "created": 1646116895282,
+        "text": "shi bu shan ye dao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6YBDt",
+        "created": 1646116895282,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6YBDu",
+        "created": 1646116895282,
+        "text": "Shih pu shan yeh tao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6YBDv",
+        "created": 1646116895282,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6YBDw",
+        "created": 1646116895282,
+        "text": "Daśākuśalakarmapathanirdeśa",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6YBDx",
+        "created": 1646116895282,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6YBDy",
+        "created": 1646116895282,
+        "text": "Mi-dge-ba bcuḥi las-kyi lam bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx6YBDz",
+        "created": 1646116895282,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx6YBE0",
+        "created": 1646116895282,
+        "text": "십불선업도경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6YBDl",
+      "created": 1646116895282,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6YBDm",
+      "created": 1646116895282,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6YBDn",
+      "created": 1646116895282,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6YBDo",
+       "created": 1646116895282,
+       "text": "馬鳴菩薩集　宋 日稱等譯"
+      }},
+      {"data": {
+       "id": "z5cYx6YBDp",
+       "created": 1646116895282,
+       "text": "日稱",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYx6YBDq",
+       "created": 1646116895282,
+       "text": "馬鳴",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6YBDr",
+      "created": 1646116895282,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6YBDs",
+      "created": 1646116895282,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6YBE1",
+      "created": 1646116895282,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6YBE2",
+      "created": 1646116895282,
+      "text": "Translation by Jih-ch'eng and Dharmarakṣa: (see K.1488)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6YBE3",
+      "created": 1646116895282,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6YBE4",
+       "created": 1646116895282,
+       "text": "【北京版】Mdo-ḥgrel (Dbu-ma) (ki)356b-358a(gi)39b-41a105a-106a(Spriṅ-yig) (ṅe)275a-276b"
+      }},
+      {"data": {
+       "id": "z5cYx6YBE5",
+       "created": 1646116895282,
+       "text": "【奈塘版】Mdo-ḥgrel (ki)353a-354a(gi)33a-34a94a-95a(ṅe)271b-273a"
+      }},
+      {"data": {
+       "id": "z5cYx6YBE6",
+       "created": 1646116895282,
+       "text": "【德格版】Dbu-ma (khi)306b-307b(ṅe)34b-35b31b-32b86a-87a"
+      }},
+      {"data": {
+       "id": "z5cYx6YBE7",
+       "created": 1646116895282,
+       "text": "【卓尼版】Dbu-ma (khi)314a-315a(ṅe)34b-35b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx6YBE8",
+      "created": 1646116895282,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx6YBE9",
+      "created": 1646116895282,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx6YBEA",
+      "created": 1646116895282,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx6YBEB",
+       "created": 1646116895282,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEC",
+       "created": 1646116895282,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBED",
+       "created": 1646116895282,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEE",
+       "created": 1646116895282,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEF",
+       "created": 1646116895282,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEG",
+       "created": 1646116895282,
+       "text": "【趙城金藏】No.1489《十不善業道經》 卷數：1 千字文：橫"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEH",
+       "created": 1646116895282,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEI",
+       "created": 1646116895282,
+       "text": "【磧砂藏】No.1489《十不善業道經》宋 日稱等譯 部別： / 冊數：36 / 頁數：380 / 卷數：1 千字文：寧 5 (568)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEJ",
+       "created": 1646116895282,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEK",
+       "created": 1646116895282,
+       "text": "【高麗藏】No.1491《十不善業道經》日稱譯 部別：宋續入藏經 / 冊數：41 頁數：610 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：亭"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEL",
+       "created": 1646116895282,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEM",
+       "created": 1646116895282,
+       "text": "【至元錄】No.1524《十不善業道經》馬鳴菩薩造　宋三藏日稱等譯 卷數：1 千字文：弱(550)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEN",
+       "created": 1646116895282,
+       "text": "【洪武南藏】No.1331《十不善業道經》西天譯經三藏朝散大夫試鴻臚卿宣梵大師賜紫沙門臣日稱 等奉詔譯 冊數：200 / 頁數：254 / 卷數：1 千字文：寧 5 (568)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEO",
+       "created": 1646116895282,
+       "text": "【永樂南藏】No.1211《十不善業道經》 部別：西土聖賢撰集 千字文：優(306)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEP",
+       "created": 1646116895282,
+       "text": "【永樂北藏】No.1437《十不善業道經》宋日稱等譯 部別：西土聖賢撰集 / 冊數：131 / 頁數：303 / 卷數：1 千字文：英"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEQ",
+       "created": 1646116895282,
+       "text": "【嘉興藏】No.1371《十不善業道經》宋日稱等譯 部別：西土聖賢撰集 / 法寶總目錄經號：1370 千字文 / 函號：［正藏］ 英(480)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBER",
+       "created": 1646116895282,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBES",
+       "created": 1646116895282,
+       "text": "【乾隆藏】No.1372《十不善業道經》馬鳴集　(宋)日稱等譯 部別：西土聖賢撰集 / 冊數：107 / 頁數：725 / 卷數：1 千字文：英"
+      }},
+      {"data": {
+       "id": "z5cYx6YBET",
+       "created": 1646116895282,
+       "text": "【縮刻藏】No.1080《十不善業道經》馬鳴菩薩集　宋日稱等譯 部別：印度撰述雜部 / 卷數：1 千字文：藏 8 (24)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEU",
+       "created": 1646116895282,
+       "text": "【卍正藏】No.1386《十不善業道經》日稱等譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：775 / 卷數：1 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEV",
+       "created": 1646116895282,
+       "text": "【大正藏】No.727《十不善業道經》馬鳴菩薩集 宋 日稱等譯 部別：經集部四 / 冊數：17 / 頁數：457 / 卷數：1 相關經典：縮-藏8,卍-26.9 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx6YBEW",
+       "created": 1646116895282,
+       "text": "【佛教大藏經】No.1150《十不善業道經》宋 日稱等譯 部別：雜部二 / 冊數：51 / 頁數：193 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEX",
+       "created": 1646116895282,
+       "text": "【中華藏】No.1639《十不善業道經》觀鳴菩薩造，西天譯經三藏朝散大夫試鴻臚少卿宣梵大師賜紫沙門日稱等奉詔譯 冊數：69 / 頁數：758 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEY",
+       "created": 1646116895282,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEZ",
+       "created": 1646116895282,
+       "text": "【南條文雄編號】 Nj. 1379"
+      }},
+      {"data": {
+       "id": "z5cYx6YBEa",
+       "created": 1646116895282,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：727"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxddm7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

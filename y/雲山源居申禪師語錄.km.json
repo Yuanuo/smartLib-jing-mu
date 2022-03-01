@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "雲山源居申禪師語錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYzddwB3",
+    "created": 1646116905021,
+    "text": "現藏錄（清 申說、合喆等編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzddwAP",
+      "created": 1646116905021,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzddwAQ",
+        "created": 1646116905021,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzddwAR",
+        "created": 1646116905021,
+        "text": "雲山源居申禪師語錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzddwAS",
+        "created": 1646116905021,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzddwAT",
+        "created": 1646116905021,
+        "text": "云山源居申禅师语录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzddwAU",
+        "created": 1646116905021,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzddwAV",
+        "created": 1646116905021,
+        "text": "yun shan yuan ju shen shan shi yu lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzddwAW",
+      "created": 1646116905021,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzddwAX",
+      "created": 1646116905021,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzddwAY",
+      "created": 1646116905021,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzddwAZ",
+      "created": 1646116905021,
+      "text": "清 申說、合喆等編"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzddwAa",
+      "created": 1646116905021,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzddwAb",
+      "created": 1646116905021,
+      "text": "8"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzddwAc",
+      "created": 1646116905021,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzddwAd",
+       "created": 1646116905021,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAe",
+       "created": 1646116905021,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAf",
+       "created": 1646116905021,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAg",
+       "created": 1646116905021,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAh",
+       "created": 1646116905021,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAi",
+       "created": 1646116905021,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAj",
+       "created": 1646116905021,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAk",
+       "created": 1646116905021,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAl",
+       "created": 1646116905021,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAm",
+       "created": 1646116905021,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAn",
+       "created": 1646116905021,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAo",
+       "created": 1646116905021,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAp",
+       "created": 1646116905021,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAq",
+       "created": 1646116905021,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAr",
+       "created": 1646116905021,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAs",
+       "created": 1646116905021,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAt",
+       "created": 1646116905021,
+       "text": "【嘉興藏新文豐版】［續藏］No.478《雲山燕居申禪師語錄》清 合喆等編 冊數：40 / 頁數：81 / 卷數：8"
+      }},
+      {"data": {
+       "id": "z5cYzddwAu",
+       "created": 1646116905021,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAv",
+       "created": 1646116905021,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAw",
+       "created": 1646116905021,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAx",
+       "created": 1646116905021,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAy",
+       "created": 1646116905021,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwAz",
+       "created": 1646116905021,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwB0",
+       "created": 1646116905021,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwB1",
+       "created": 1646116905021,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzddwB2",
+       "created": 1646116905021,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：626"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4vw3s8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

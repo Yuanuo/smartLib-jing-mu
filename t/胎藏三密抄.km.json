@@ -1,0 +1,253 @@
+{
+ "root": {
+  "data": {"text": "胎藏三密抄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyIwXWf",
+    "created": 1646116899894,
+    "text": "現藏錄（日本 覺超撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyIwXW0",
+      "created": 1646116899894,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyIwXW1",
+        "created": 1646116899894,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIwXW2",
+        "created": 1646116899894,
+        "text": "胎藏三密抄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyIwXW3",
+        "created": 1646116899894,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIwXW4",
+        "created": 1646116899894,
+        "text": "胎藏三密抄"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyIwXW5",
+        "created": 1646116899894,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIwXW6",
+        "created": 1646116899894,
+        "text": "tai cang san mi chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyIwXW7",
+      "created": 1646116899894,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyIwXW8",
+      "created": 1646116899894,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyIwXW9",
+      "created": 1646116899894,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyIwXWA",
+       "created": 1646116899894,
+       "text": "日本 覺超撰"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWB",
+       "created": 1646116899894,
+       "text": "覺超",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyIwXWC",
+      "created": 1646116899894,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyIwXWD",
+      "created": 1646116899894,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyIwXWE",
+      "created": 1646116899894,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyIwXWF",
+       "created": 1646116899894,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWG",
+       "created": 1646116899894,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWH",
+       "created": 1646116899894,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWI",
+       "created": 1646116899894,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWJ",
+       "created": 1646116899894,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWK",
+       "created": 1646116899894,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWL",
+       "created": 1646116899894,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWM",
+       "created": 1646116899894,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWN",
+       "created": 1646116899894,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWO",
+       "created": 1646116899894,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWP",
+       "created": 1646116899894,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWQ",
+       "created": 1646116899894,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWR",
+       "created": 1646116899894,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWS",
+       "created": 1646116899894,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWT",
+       "created": 1646116899894,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWU",
+       "created": 1646116899894,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWV",
+       "created": 1646116899894,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWW",
+       "created": 1646116899894,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWX",
+       "created": 1646116899894,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWY",
+       "created": 1646116899894,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWZ",
+       "created": 1646116899894,
+       "text": "【大正藏】No.2398《胎藏三密抄》日本 覺超撰 部別：續諸宗部六 / 冊數：75 / 頁數：561 / 卷數：5 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyIwXWa",
+       "created": 1646116899894,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWb",
+       "created": 1646116899894,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWc",
+       "created": 1646116899894,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWd",
+       "created": 1646116899894,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIwXWe",
+       "created": 1646116899894,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2398"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0xi1zx",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

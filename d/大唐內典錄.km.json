@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "大唐內典錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYy9bUXL",
+    "created": 1646116899315,
+    "text": "現藏錄（唐 道宣撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy9bUWT",
+      "created": 1646116899315,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy9bUWU",
+        "created": 1646116899315,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9bUWV",
+        "created": 1646116899315,
+        "text": "大唐內典錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9bUWW",
+        "created": 1646116899315,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9bUWX",
+        "created": 1646116899315,
+        "text": "大唐内典录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9bUWY",
+        "created": 1646116899315,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9bUWZ",
+        "created": 1646116899315,
+        "text": "da tang nei dian lu"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9bUWi",
+        "created": 1646116899315,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9bUWj",
+        "created": 1646116899315,
+        "text": "Ta t'ang nei tien lu"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYy9bUWk",
+       "created": 1646116899315,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYy9bUWl",
+        "created": 1646116899315,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9bUWm",
+        "created": 1646116899315,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9bUWn",
+        "created": 1646116899315,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9bUWo",
+        "created": 1646116899315,
+        "text": "대당내전록",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy9bUWa",
+      "created": 1646116899315,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9bUWb",
+      "created": 1646116899315,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9bUWc",
+      "created": 1646116899315,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy9bUWd",
+       "created": 1646116899315,
+       "text": "唐 道宣撰"
+      }},
+      {"data": {
+       "id": "z5cYy9bUWe",
+       "created": 1646116899315,
+       "text": "道宣",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy9bUWf",
+       "created": 1646116899315,
+       "text": "釋氏",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy9bUWg",
+      "created": 1646116899315,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9bUWh",
+      "created": 1646116899315,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9bUWp",
+      "created": 1646116899315,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9bUWq",
+      "created": 1646116899315,
+      "text": "Compiled by Tao-hsüan: 1st year of Lin Te (麟德), T'ang dynasty (唐) (A.D. 664) in Hsi-ming Monastery (西明寺).T. 2154-561c:29."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYy9bUWr",
+     "created": 1646116899315,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYy9bUWs",
+      "created": 1646116899315,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9bUWt",
+      "created": 1646116899315,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9bUWu",
+      "created": 1646116899315,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy9bUWv",
+       "created": 1646116899315,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUWw",
+       "created": 1646116899315,
+       "text": "【開寶藏】No.1052《大唐內典錄》唐 西明寺沙門釋道宣 撰 部別：賢聖傳記錄 此方撰述集傳 / 卷數：10 千字文：瑟"
+      }},
+      {"data": {
+       "id": "z5cYy9bUWx",
+       "created": 1646116899315,
+       "text": "【崇寧藏】No.1055《大唐內典錄》 卷數：10 千字文：鼓(453)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUWy",
+       "created": 1646116899315,
+       "text": "【毘盧藏】No.1055《大唐內典錄》唐道宣撰 參考年代：(紹興一八．閏八) 千字文：鼓(453)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUWz",
+       "created": 1646116899315,
+       "text": "【圓覺藏】No.1064《大唐內典錄》 卷數：10 千字文：鼓(453)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX0",
+       "created": 1646116899315,
+       "text": "【趙城金藏】No.1059《大唐內典錄》 卷數：10 千字文：席鼓"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX1",
+       "created": 1646116899315,
+       "text": "【資福藏】No.1069《大唐內典錄》 卷數：10 (十卷) 千字文：鼓(453)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX2",
+       "created": 1646116899315,
+       "text": "【磧砂藏】No.1080《大唐內典錄》唐 道宣撰 部別： / 冊數：29 / 頁數：528 / 卷數：10 千字文：鼓 1 (453)-鼓 10 (453)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX3",
+       "created": 1646116899315,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX4",
+       "created": 1646116899315,
+       "text": "【高麗藏】No.1057《大唐內典錄》麟德元年甲子京師西明寺釋氏譯 部別：賢聖傳記錄 此土撰述 / 冊數：31 頁數：658 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：席-鼓"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX5",
+       "created": 1646116899315,
+       "text": "【普寧藏】No.1070《大唐內典錄》 卷數：10 千字文：鼓(453)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX6",
+       "created": 1646116899315,
+       "text": "【至元錄】No.1536《大唐內典錄》唐西明寺沙門道宣撰 卷數：10 千字文：實(567)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX7",
+       "created": 1646116899315,
+       "text": "【洪武南藏】No.938《大唐內典錄》麟德元年甲子歲 京師西明寺釋道宣 撰 冊數：161-162 / 頁數：460 / 卷數：10 千字文：鼓 1 (453)-鼓 10 (453)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX8",
+       "created": 1646116899315,
+       "text": "【永樂南藏】No.1594《大唐內典錄》 部別：此方撰述 千字文：并(616)-嶽(617)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUX9",
+       "created": 1646116899315,
+       "text": "【永樂北藏】No.1549《大唐內典錄》唐道宣撰 部別：此土著述 / 冊數：142-143 / 頁數：721 / 卷數：16 千字文：侈-富"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXA",
+       "created": 1646116899315,
+       "text": "【嘉興藏】No.1475《大唐內典錄》唐道宣撰 部別：此土著述 / 法寶總目錄經號：1474 千字文 / 函號：［正藏］ 侈(515)-富(516)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXB",
+       "created": 1646116899315,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXC",
+       "created": 1646116899315,
+       "text": "【乾隆藏】No.1528《大唐內典錄》唐 釋道宣撰 部別：此土著述 / 冊數：122 / 頁數：31 / 卷數：15 千字文：阜微"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXD",
+       "created": 1646116899315,
+       "text": "【縮刻藏】No.1860《大唐內典錄》唐道宣撰 部別：支那撰述-目錄部 / 卷數：10 千字文：結 2 (38)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXE",
+       "created": 1646116899315,
+       "text": "【卍正藏】No.1488《大唐內典錄》西明寺釋氏撰 部別：此土著述 / 冊數：55 / 頁數：1 / 卷數：10 原版套數：第 29 套"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXF",
+       "created": 1646116899315,
+       "text": "【大正藏】No.2149《大唐內典錄》唐 道宣撰 部別：目錄部全 / 冊數：55 / 頁數：219 / 卷數：10 相關經典：縮-結2,卍-29.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy9bUXG",
+       "created": 1646116899315,
+       "text": "【佛教大藏經】No.2054《大唐內典錄》唐 道宣撰 部別：目錄部一 / 冊數：80 / 頁數：304 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXH",
+       "created": 1646116899315,
+       "text": "【中華藏】No.1149《大唐內典錄》京師西明寺釋氏撰 冊數：54 / 頁數：460 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本 凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXI",
+       "created": 1646116899315,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXJ",
+       "created": 1646116899315,
+       "text": "【南條文雄編號】 Nj. 1483"
+      }},
+      {"data": {
+       "id": "z5cYy9bUXK",
+       "created": 1646116899315,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2149"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0he1sc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

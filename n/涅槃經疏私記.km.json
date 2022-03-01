@@ -1,0 +1,477 @@
+{
+ "root": {
+  "data": {"text": "涅槃經疏私記"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYzDKo4O",
+     "created": 1646116903390,
+     "text": "現藏錄（唐 行滿集）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzDKo3k",
+       "created": 1646116903390,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzDKo3l",
+         "created": 1646116903390,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzDKo3m",
+         "created": 1646116903390,
+         "text": "涅槃經疏私記",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzDKo3n",
+         "created": 1646116903390,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzDKo3o",
+         "created": 1646116903390,
+         "text": "涅槃经疏私记",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzDKo3p",
+         "created": 1646116903390,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzDKo3q",
+         "created": 1646116903390,
+         "text": "nie pan jing shu si ji"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzDKo3r",
+       "created": 1646116903390,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzDKo3s",
+       "created": 1646116903390,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzDKo3t",
+       "created": 1646116903390,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYzDKo3u",
+       "created": 1646116903390,
+       "text": "唐 行滿集"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzDKo3v",
+       "created": 1646116903390,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzDKo3w",
+       "created": 1646116903390,
+       "text": "12"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzDKo3x",
+       "created": 1646116903390,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzDKo3y",
+        "created": 1646116903390,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo3z",
+        "created": 1646116903390,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo40",
+        "created": 1646116903390,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo41",
+        "created": 1646116903390,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo42",
+        "created": 1646116903390,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo43",
+        "created": 1646116903390,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo44",
+        "created": 1646116903390,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo45",
+        "created": 1646116903390,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo46",
+        "created": 1646116903390,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo47",
+        "created": 1646116903390,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo48",
+        "created": 1646116903390,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo49",
+        "created": 1646116903390,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4A",
+        "created": 1646116903390,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4B",
+        "created": 1646116903390,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4C",
+        "created": 1646116903390,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4D",
+        "created": 1646116903390,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4E",
+        "created": 1646116903390,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4F",
+        "created": 1646116903390,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4G",
+        "created": 1646116903390,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4H",
+        "created": 1646116903390,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4I",
+        "created": 1646116903390,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4J",
+        "created": 1646116903390,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4K",
+        "created": 1646116903390,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4L",
+        "created": 1646116903390,
+        "text": "【新纂卍續藏】No.660《涅槃經疏私記》唐 行滿集 部別：中國撰述 大小乘釋經部三十五 涅槃部疏 / 冊數：37 / 頁數：1 / 卷數：12 《卍大日本續藏經》套數：第一編．第 57 套 《卍續藏經》(新文豐版)冊數：第 57 冊"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4M",
+        "created": 1646116903390,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDKo4N",
+        "created": 1646116903390,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：972"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzDNo53",
+     "created": 1646116903393,
+     "text": "現藏錄（唐 道暹述）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzDNo4P",
+       "created": 1646116903393,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzDNo4Q",
+         "created": 1646116903393,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzDNo4R",
+         "created": 1646116903393,
+         "text": "涅槃經疏私記"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzDNo4S",
+         "created": 1646116903393,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzDNo4T",
+         "created": 1646116903393,
+         "text": "涅槃经疏私记"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzDNo4U",
+         "created": 1646116903393,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzDNo4V",
+         "created": 1646116903393,
+         "text": "nie pan jing shu si ji"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzDNo4W",
+       "created": 1646116903393,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzDNo4X",
+       "created": 1646116903393,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzDNo4Y",
+       "created": 1646116903393,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYzDNo4Z",
+       "created": 1646116903393,
+       "text": "唐 道暹述"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzDNo4a",
+       "created": 1646116903393,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzDNo4b",
+       "created": 1646116903393,
+       "text": "9"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzDNo4c",
+       "created": 1646116903393,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzDNo4d",
+        "created": 1646116903393,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4e",
+        "created": 1646116903393,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4f",
+        "created": 1646116903393,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4g",
+        "created": 1646116903393,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4h",
+        "created": 1646116903393,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4i",
+        "created": 1646116903393,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4j",
+        "created": 1646116903393,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4k",
+        "created": 1646116903393,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4l",
+        "created": 1646116903393,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4m",
+        "created": 1646116903393,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4n",
+        "created": 1646116903393,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4o",
+        "created": 1646116903393,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4p",
+        "created": 1646116903393,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4q",
+        "created": 1646116903393,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4r",
+        "created": 1646116903393,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4s",
+        "created": 1646116903393,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4t",
+        "created": 1646116903393,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4u",
+        "created": 1646116903393,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4v",
+        "created": 1646116903393,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4w",
+        "created": 1646116903393,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4x",
+        "created": 1646116903393,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4y",
+        "created": 1646116903393,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo4z",
+        "created": 1646116903393,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo50",
+        "created": 1646116903393,
+        "text": "【新纂卍續藏】No.661《涅槃經疏私記》唐 道暹述 部別：中國撰述 大小乘釋經部三十五 涅槃部疏 / 冊數：37 / 頁數：134 / 卷數：9 《卍大日本續藏經》套數：第一編．第 58 套 《卍續藏經》(新文豐版)冊數：第 58 冊"
+       }},
+       {"data": {
+        "id": "z5cYzDNo51",
+        "created": 1646116903393,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzDNo52",
+        "created": 1646116903393,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：973"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3mm371",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

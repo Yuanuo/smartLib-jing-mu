@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說寶網經"},
+  "children": [{
+   "data": {
+    "id": "z5cYws16wy",
+    "created": 1646116894381,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYws16w1",
+      "created": 1646116894381,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYws16w2",
+        "created": 1646116894381,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYws16w3",
+        "created": 1646116894381,
+        "text": "佛說寶網經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws16w4",
+        "created": 1646116894381,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYws16w5",
+        "created": 1646116894381,
+        "text": "佛说宝网经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws16w6",
+        "created": 1646116894381,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYws16w7",
+        "created": 1646116894381,
+        "text": "fo shuo bao wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws16wF",
+        "created": 1646116894381,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYws16wG",
+        "created": 1646116894381,
+        "text": "Pao wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws16wH",
+        "created": 1646116894381,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYws16wI",
+        "created": 1646116894381,
+        "text": "Ratnajālīparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws16wJ",
+        "created": 1646116894381,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYws16wK",
+        "created": 1646116894381,
+        "text": "Rin-chen-dra-ba-can-gyis shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYws16wL",
+        "created": 1646116894381,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYws16wM",
+        "created": 1646116894381,
+        "text": "보망경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYws16w8",
+      "created": 1646116894381,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYws16w9",
+      "created": 1646116894381,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws16wA",
+      "created": 1646116894381,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYws16wB",
+       "created": 1646116894381,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYws16wC",
+       "created": 1646116894381,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYws16wD",
+      "created": 1646116894381,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYws16wE",
+      "created": 1646116894381,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws16wN",
+      "created": 1646116894381,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYws16wO",
+      "created": 1646116894381,
+      "text": "Translation by Dharmarakṣa: between the 2nd year of T'ai Shih (泰始) and the 1st year of Chien Hsing (建興), Western Chin dynasty (西晉) (A.D. 266-313).T. 2154-496c:20."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws16wP",
+      "created": 1646116894381,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYws16wQ",
+       "created": 1646116894381,
+       "text": "【北京版】Mdo-sna-tshogs (phu)151b-168b"
+      }},
+      {"data": {
+       "id": "z5cYws16wR",
+       "created": 1646116894381,
+       "text": "【奈塘版】Mdo (pa)232b-258a"
+      }},
+      {"data": {
+       "id": "z5cYws16wS",
+       "created": 1646116894381,
+       "text": "【德格版】Mdo-sde (ba)144a-159b"
+      }},
+      {"data": {
+       "id": "z5cYws16wT",
+       "created": 1646116894381,
+       "text": "【拉薩版】Mdo (pa)227-252b"
+      }},
+      {"data": {
+       "id": "z5cYws16wU",
+       "created": 1646116894381,
+       "text": "【卓尼版】Mdo-maṅ (ba)170a-188a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYws16wV",
+      "created": 1646116894381,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYws16wW",
+      "created": 1646116894381,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYws16wX",
+      "created": 1646116894381,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYws16wY",
+       "created": 1646116894381,
+       "text": "【房山石經】No.508《佛說寶網經》(西晉)月支三藏竺法護譯 冊數：11 / 頁數：106 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYws16wZ",
+       "created": 1646116894381,
+       "text": "【開寶藏】No.363《寶網經》西晉 三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYws16wa",
+       "created": 1646116894381,
+       "text": "【崇寧藏】No.361《佛說寶網經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYws16wb",
+       "created": 1646116894381,
+       "text": "【毘盧藏】No.359《佛說寶網經》西晉竺法護譯 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYws16wc",
+       "created": 1646116894381,
+       "text": "【圓覺藏】No.370《寶網經》 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYws16wd",
+       "created": 1646116894381,
+       "text": "【趙城金藏】No.355《寶網經》 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYws16we",
+       "created": 1646116894381,
+       "text": "【資福藏】No.374《寶綱經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYws16wf",
+       "created": 1646116894381,
+       "text": "【磧砂藏】No.377《佛說寶網經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：766 / 卷數：1 千字文：必 6 (171)"
+      }},
+      {"data": {
+       "id": "z5cYws16wg",
+       "created": 1646116894381,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYws16wh",
+       "created": 1646116894381,
+       "text": "【高麗藏】No.354《寶網經》西晉月氏三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：89 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYws16wi",
+       "created": 1646116894381,
+       "text": "【普寧藏】No.371《佛說寶綱經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYws16wj",
+       "created": 1646116894381,
+       "text": "【至元錄】No.372《寶綱經》西晉三藏竺法護譯 梵名：阿囉忒(三合)拏　扎哩　八哩(二合)巴哩赤(三合) / 卷數：1 / 譯次：(第一譯兩譯一闕) 千字文：能(174)"
+      }},
+      {"data": {
+       "id": "z5cYws16wk",
+       "created": 1646116894381,
+       "text": "【洪武南藏】No.327《佛說寶網經》西晉 三藏竺法護 譯 冊數：58 / 頁數：153 / 卷數：1 千字文：必 6 (171)"
+      }},
+      {"data": {
+       "id": "z5cYws16wl",
+       "created": 1646116894381,
+       "text": "【永樂南藏】No.364《佛說寶綱經》 部別：大乘經-五大部外重譯經 千字文：忘(176)"
+      }},
+      {"data": {
+       "id": "z5cYws16wm",
+       "created": 1646116894381,
+       "text": "【永樂北藏】No.409《佛說寶網經》西晉竺法護譯 部別：大乘經單經譯 / 冊數：47 / 頁數：523 / 卷數：1 千字文：彼"
+      }},
+      {"data": {
+       "id": "z5cYws16wn",
+       "created": 1646116894381,
+       "text": "【嘉興藏】No.380《佛說寶網經》西晉竺法護譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0380 千字文 / 函號：［正藏］ 彼(179)"
+      }},
+      {"data": {
+       "id": "z5cYws16wo",
+       "created": 1646116894381,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYws16wp",
+       "created": 1646116894381,
+       "text": "【乾隆藏】No.381《佛說寶網經》西晉 竺法護譯 部別：大乘單譯經 / 冊數：40 / 頁數：553 / 卷數：1 千字文：彼"
+      }},
+      {"data": {
+       "id": "z5cYws16wq",
+       "created": 1646116894381,
+       "text": "【縮刻藏】No.137《佛說寶綱經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 4 (4)"
+      }},
+      {"data": {
+       "id": "z5cYws16wr",
+       "created": 1646116894381,
+       "text": "【卍正藏】No.386《佛說寶網經》西晉 竺法護譯 部別：大乘經 單譯經 / 冊數：19 / 頁數：592 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYws16ws",
+       "created": 1646116894381,
+       "text": "【大正藏】No.433《佛說寶網經》西晉 竺法護譯 部別：經集部一 / 冊數：14 / 頁數：78 / 卷數：1 相關經典：縮-黃4,卍-11.4,國-經12 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYws16wt",
+       "created": 1646116894381,
+       "text": "【佛教大藏經】No.139《佛說寶網經》西晉 竺法護譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：747 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYws16wu",
+       "created": 1646116894381,
+       "text": "【中華藏】No.378《佛說寶網經》西晉月氏三藏竺法護譯 冊數：20 / 頁數：496 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYws16wv",
+       "created": 1646116894381,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYws16ww",
+       "created": 1646116894381,
+       "text": "【南條文雄編號】 Nj. 0385"
+      }},
+      {"data": {
+       "id": "z5cYws16wx",
+       "created": 1646116894381,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：433"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwocdu",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

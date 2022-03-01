@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "阿閦佛國經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwkf53B",
+    "created": 1646116893925,
+    "text": "現藏錄（後漢 支婁迦讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwke52E",
+      "created": 1646116893924,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwke52F",
+        "created": 1646116893924,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwke52G",
+        "created": 1646116893924,
+        "text": "阿閦佛國經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwke52H",
+        "created": 1646116893924,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwke52I",
+        "created": 1646116893924,
+        "text": "阿閦佛国经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwke52J",
+        "created": 1646116893924,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwke52K",
+        "created": 1646116893924,
+        "text": "a chu fo guo jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkf52S",
+        "created": 1646116893925,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkf52T",
+        "created": 1646116893925,
+        "text": "K'ai-yüan"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkf52U",
+        "created": 1646116893925,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkf52V",
+        "created": 1646116893925,
+        "text": "Akṣobhyatathāgatasyavyūhasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkf52W",
+        "created": 1646116893925,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkf52X",
+        "created": 1646116893925,
+        "text": "De-bshin-gśegs-pa mi-ḥkhrugs-paḥi bkod-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwkf52Y",
+        "created": 1646116893925,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwkf52Z",
+        "created": 1646116893925,
+        "text": "아축불국경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwke52L",
+      "created": 1646116893924,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkf52M",
+      "created": 1646116893925,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkf52N",
+      "created": 1646116893925,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwkf52O",
+       "created": 1646116893925,
+       "text": "後漢 支婁迦讖譯"
+      }},
+      {"data": {
+       "id": "z5cYwkf52P",
+       "created": 1646116893925,
+       "text": "支婁迦讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwkf52Q",
+      "created": 1646116893925,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkf52R",
+      "created": 1646116893925,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkf52a",
+      "created": 1646116893925,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkf52b",
+      "created": 1646116893925,
+      "text": "K'ai-yüan gives A.D. 147 for the date of translation. See T. 2154-478c:5."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkf52c",
+      "created": 1646116893925,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwkf52d",
+       "created": 1646116893925,
+       "text": "【北京版】Dkon-brtsegs (dsi)1-80a"
+      }},
+      {"data": {
+       "id": "z5cYwkf52e",
+       "created": 1646116893925,
+       "text": "【奈塘版】Dkon-brtsegs (kha)1-112a"
+      }},
+      {"data": {
+       "id": "z5cYwkf52f",
+       "created": 1646116893925,
+       "text": "【德格版】Dkon-brtsegs (kha)1b-70a"
+      }},
+      {"data": {
+       "id": "z5cYwkf52g",
+       "created": 1646116893925,
+       "text": "【拉薩版】Dkon-brtsegs (kha)1b-11Sa"
+      }},
+      {"data": {
+       "id": "z5cYwkf52h",
+       "created": 1646116893925,
+       "text": "【卓尼版】Dkon-brtsegs (kha)1b-79a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwkf52i",
+      "created": 1646116893925,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwkf52j",
+      "created": 1646116893925,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwkf52k",
+      "created": 1646116893925,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwkf52l",
+       "created": 1646116893925,
+       "text": "【房山石經】No.355《阿閦佛國經》(后漢)月支三藏支婁迦讖譯 冊數：9 / 頁數：51 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwkf52m",
+       "created": 1646116893925,
+       "text": "【開寶藏】No.28《阿閦佛國經》後漢 月支三藏支婁迦讖 譯 部別：大乘經 寶積部 / 卷數：2 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwkf52n",
+       "created": 1646116893925,
+       "text": "【崇寧藏】No.28《佛說阿閦佛國經》 卷數：2 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52o",
+       "created": 1646116893925,
+       "text": "【毘盧藏】No.24《阿閦佛國經》後漢支婁迦讖譯 參考年代：(元豊八．五) 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52p",
+       "created": 1646116893925,
+       "text": "【圓覺藏】No.25《阿閦佛國經》 卷數：2 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52q",
+       "created": 1646116893925,
+       "text": "【趙城金藏】No.27《阿閦佛國經》 卷數：2 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwkf52r",
+       "created": 1646116893925,
+       "text": "【資福藏】No.33《佛說阿閦佛國經》 卷數：2 (上下二卷) 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52s",
+       "created": 1646116893925,
+       "text": "【磧砂藏】No.28《佛說阿閦佛國經》後漢 支婁迦讖譯 部別：寶積部 / 冊數：6 / 頁數：268 / 卷數：2 千字文：服 1 (86)-服 2 (86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52t",
+       "created": 1646116893925,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52u",
+       "created": 1646116893925,
+       "text": "【高麗藏】No.27《阿閦佛國經》後漢月支國三藏支婁迦讖譯 部別：大乘經 寶積部 / 冊數：6 頁數：1059 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwkf52v",
+       "created": 1646116893925,
+       "text": "【普寧藏】No.25《佛說阿閦佛國經》 卷數：2 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52w",
+       "created": 1646116893925,
+       "text": "【至元錄】No.95《阿閦佛國經》後漢月支三藏支婁迦讖譯 卷數：2 / 出處：(拾遺編入第一) 千字文：位(90)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52x",
+       "created": 1646116893925,
+       "text": "【洪武南藏】No.24《佛說阿閦佛國經》後漢 月支三藏支樓迦讖 譯 冊數：31 / 頁數：147 / 卷數：2 千字文：服 1 (86)-服 2 (86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52y",
+       "created": 1646116893925,
+       "text": "【永樂南藏】No.25《佛說阿閦佛國經》 部別：大乘經-寶積部 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf52z",
+       "created": 1646116893925,
+       "text": "【永樂北藏】No.43《佛說阿閦佛國經》後漢支婁迦讖譯 部別：大乘經寶積部 / 冊數：22 / 頁數：291 / 卷數：3 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwkf530",
+       "created": 1646116893925,
+       "text": "【嘉興藏】No.25《阿閦佛國經》後漢支婁迦讖譯 部別：大乘經-寶積部 / 法寶總目錄經號：0025 千字文 / 函號：［正藏］ 服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwkf531",
+       "created": 1646116893925,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkf532",
+       "created": 1646116893925,
+       "text": "【乾隆藏】No.25《佛說阿閦佛國經》後漢 支婁迦讖譯 部別：大乘寶積部 / 冊數：19 / 頁數：609 / 卷數：3 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwkf533",
+       "created": 1646116893925,
+       "text": "【縮刻藏】No.37《阿閦佛國經》後漢支婁迦讖譯 部別：大乘經-方等部 / 卷數：2 千字文：地 8 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwkf534",
+       "created": 1646116893925,
+       "text": "【卍正藏】No.28《阿閦佛國經》後漢 支婁迦讖譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：475 / 卷數：2 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwkf535",
+       "created": 1646116893925,
+       "text": "【大正藏】No.313《阿閦佛國經》後漢 支婁迦讖譯 部別：寶積部上 / 冊數：11 / 頁數：751 / 卷數：2 相關經典：縮-地8,卍-6.3,國-寶7 參考資料：No.310(6)"
+      }},
+      {"data": {
+       "id": "z5cYwkf536",
+       "created": 1646116893925,
+       "text": "【佛教大藏經】No.37《佛說阿閦佛國經》後漢 支婁迦讖譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：233 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwkf537",
+       "created": 1646116893925,
+       "text": "【中華藏】No.29《阿閦佛國經》後漢月支國三藏支樓迦讖譯 冊數：9 / 頁數：616 / 卷數：2 / 底本：麗藏本 金藏大寶集寺本"
+      }},
+      {"data": {
+       "id": "z5cYwkf538",
+       "created": 1646116893925,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwkf539",
+       "created": 1646116893925,
+       "text": "【南條文雄編號】 Nj. 0028"
+      }},
+      {"data": {
+       "id": "z5cYwkf53A",
+       "created": 1646116893925,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：313"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwboa5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

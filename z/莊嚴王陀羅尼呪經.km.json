@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說莊嚴王陀羅尼呪經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxbqKGX",
+    "created": 1646116897222,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxbqKFa",
+      "created": 1646116897222,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxbqKFb",
+        "created": 1646116897222,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbqKFc",
+        "created": 1646116897222,
+        "text": "佛說莊嚴王陀羅尼呪經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbqKFd",
+        "created": 1646116897222,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbqKFe",
+        "created": 1646116897222,
+        "text": "佛说庄严王陀罗尼呪经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbqKFf",
+        "created": 1646116897222,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbqKFg",
+        "created": 1646116897222,
+        "text": "fo shuo zhuang yan wang tuo luo ni zhou jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbqKFo",
+        "created": 1646116897222,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbqKFp",
+        "created": 1646116897222,
+        "text": "Chuang yen wang t'o lo ni chou ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbqKFq",
+        "created": 1646116897222,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbqKFr",
+        "created": 1646116897222,
+        "text": "Sarvatathāgatādhiṣṭhānasattvāvalokanabuddhakṣetrasandarśanavyūharāja(dhāraṇī)sūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbqKFs",
+        "created": 1646116897222,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbqKFt",
+        "created": 1646116897222,
+        "text": "De-bshin-gśegs-pa thams-cad-kyi byin-gyi-rlabs sems-can-la gzigs śiṅ saṅs-rgyas-kyi shiṅ-gi bkod-pa kun-tu-ston-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbqKFu",
+        "created": 1646116897222,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbqKFv",
+        "created": 1646116897222,
+        "text": "장엄왕타라니주경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbqKFh",
+      "created": 1646116897222,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbqKFi",
+      "created": 1646116897222,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbqKFj",
+      "created": 1646116897222,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbqKFk",
+       "created": 1646116897222,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxbqKFl",
+       "created": 1646116897222,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbqKFm",
+      "created": 1646116897222,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbqKFn",
+      "created": 1646116897222,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbqKFw",
+      "created": 1646116897222,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbqKFx",
+      "created": 1646116897222,
+      "text": "Translation by I-ching: 23rd day, 9th month, 1st year of Ta Tsu (大足), T'ang dynasty (唐) (October 28th, A.D. 701) in Ta-fu-hsien Monastery (大福先寺), Tung-tu (東都).T. 2154-567b:18."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbqKFy",
+      "created": 1646116897222,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbqKFz",
+       "created": 1646116897222,
+       "text": "【北京版】Mdo-sna-tshogs (ku)291b-313a"
+      }},
+      {"data": {
+       "id": "z5cYxbqKG0",
+       "created": 1646116897222,
+       "text": "【奈塘版】Mdo (kha)395a-426a"
+      }},
+      {"data": {
+       "id": "z5cYxbqKG1",
+       "created": 1646116897222,
+       "text": "【德格版】Mdo-sde (kha)258a-278aRgyud-ḥbum (tsa)180b-199b"
+      }},
+      {"data": {
+       "id": "z5cYxbqKG2",
+       "created": 1646116897222,
+       "text": "【拉薩版】Mdo (kha)416a-446a"
+      }},
+      {"data": {
+       "id": "z5cYxbqKG3",
+       "created": 1646116897222,
+       "text": "【卓尼版】Mdo-maṅ (kha)316a-339a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbqKG4",
+      "created": 1646116897222,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbqKG5",
+      "created": 1646116897222,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbqKG6",
+      "created": 1646116897222,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbqKG7",
+       "created": 1646116897222,
+       "text": "【房山石經】No.603《莊嚴王陀羅尼咒經》三藏法師義淨奉制譯 冊數：13 / 頁數：565 / 卷數：1 / 刻經年代：保大元年刻石 / 瀏覽：目錄圖檔 千字文：景"
+      }},
+      {"data": {
+       "id": "z5cYxbqKG8",
+       "created": 1646116897222,
+       "text": "【開寶藏】No.454《莊嚴王陀羅尼經》唐 三藏義淨 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYxbqKG9",
+       "created": 1646116897222,
+       "text": "【崇寧藏】No.459《莊嚴王陀羅尼經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGA",
+       "created": 1646116897222,
+       "text": "【毘盧藏】No.457《莊嚴王陀羅尼經》唐義淨譯 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGB",
+       "created": 1646116897222,
+       "text": "【圓覺藏】No.469《莊嚴王陀羅尼經》 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGC",
+       "created": 1646116897222,
+       "text": "【趙城金藏】No.459《莊嚴王陀羅尼咒經》 卷數：1 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGD",
+       "created": 1646116897222,
+       "text": "【資福藏】No.473《莊嚴王陀羅尼經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGE",
+       "created": 1646116897222,
+       "text": "【磧砂藏】No.475《莊嚴王陀羅尼呪經》唐 義淨譯 部別：五大部外單譯經 / 冊數：13 / 頁數：694 / 卷數：1 千字文：羊 2 (200)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGF",
+       "created": 1646116897222,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGG",
+       "created": 1646116897222,
+       "text": "【高麗藏】No.458《莊嚴王陀羅尼咒經》三藏法師義淨譯 部別：大乘經 單譯 / 冊數：13 頁數：1198 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羔"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGH",
+       "created": 1646116897222,
+       "text": "【普寧藏】No.469《莊嚴王陀羅尼呪經》 卷數：1 千字文：羊(200)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGI",
+       "created": 1646116897222,
+       "text": "【至元錄】No.650《莊嚴王陀羅尼呪經》唐天后代三藏義淨譯 梵名：阿唎(二合)亞　薩哩瓦　怛答迦達阿地瑟(二合)怛拏薩埵瓦(二合)阿瓦路扎迦拏　晡怛乞濕特囉(二合)散怛羅(二合)沙拏　尾喻訶阿羅扎　拏麻麻訶衍拏蘇怛囉(二合) / 卷數：1 / 出處：(今編入錄) 千字文：父(242)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGJ",
+       "created": 1646116897222,
+       "text": "【洪武南藏】No.413《莊嚴王陀羅尼咒經》唐 三藏法師義淨 奉制譯 冊數：67 / 頁數：552 / 卷數：1 千字文：羊 2 (200)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGK",
+       "created": 1646116897222,
+       "text": "【永樂南藏】No.467《莊嚴王陀羅尼經》 部別：大乘經-單譯經 千字文：行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGL",
+       "created": 1646116897222,
+       "text": "【永樂北藏】No.530《莊嚴王陀羅尼咒經》唐義淨譯 部別：大乘經單經譯 / 冊數：53 / 頁數：722 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGM",
+       "created": 1646116897222,
+       "text": "【嘉興藏】No.499《莊嚴王陀羅尼經》唐義淨譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0499 千字文 / 函號：［正藏］ 行(202)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGN",
+       "created": 1646116897222,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGO",
+       "created": 1646116897222,
+       "text": "【乾隆藏】No.500《莊嚴王陀羅尼咒經》唐 義淨譯 部別：大乘單譯經 / 冊數：45 / 頁數：456 / 卷數：1 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGP",
+       "created": 1646116897222,
+       "text": "【縮刻藏】No.1555《佛說莊嚴王陀羅尼呪經》唐義淨譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGQ",
+       "created": 1646116897222,
+       "text": "【卍正藏】No.506《佛說莊嚴王陀羅尼呪經》唐 義淨譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：11 / 卷數：1 原版套數：第 12 套"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGR",
+       "created": 1646116897222,
+       "text": "【大正藏】No.1375《佛說莊嚴王陀羅尼呪經》唐 義淨譯 部別：密教部四 / 冊數：21 / 頁數：894 / 卷數：1 相關經典：縮-成8,卍-12.6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxbqKGS",
+       "created": 1646116897222,
+       "text": "【佛教大藏經】No.1632《佛說莊嚴王陀羅尼咒經》唐 義淨譯 部別：密教部六 / 冊數：57 / 頁數：439 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGT",
+       "created": 1646116897222,
+       "text": "【中華藏】No.496《佛說莊嚴王陀羅尼咒經》三藏法師義淨奉制譯 冊數：24 / 頁數：56 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGU",
+       "created": 1646116897222,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGV",
+       "created": 1646116897222,
+       "text": "【南條文雄編號】 Nj. 0504"
+      }},
+      {"data": {
+       "id": "z5cYxbqKGW",
+       "created": 1646116897222,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1375"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyva15k",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

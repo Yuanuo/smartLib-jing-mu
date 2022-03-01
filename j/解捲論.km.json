@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "解捲論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxoGNrm",
+    "created": 1646116897992,
+    "text": "現藏錄（陳那菩薩造　陳 真諦譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxoFNqt",
+      "created": 1646116897991,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxoFNqu",
+        "created": 1646116897991,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoFNqv",
+        "created": 1646116897991,
+        "text": "解捲論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoFNqw",
+        "created": 1646116897991,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoFNqx",
+        "created": 1646116897991,
+        "text": "解卷论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoFNqy",
+        "created": 1646116897991,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoFNqz",
+        "created": 1646116897991,
+        "text": "jie juan lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoFNr8",
+        "created": 1646116897991,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoFNr9",
+        "created": 1646116897991,
+        "text": "Chieh chüan lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoFNrA",
+        "created": 1646116897991,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoFNrB",
+        "created": 1646116897991,
+        "text": "Hastavālaprakaraṇa",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoFNrC",
+        "created": 1646116897991,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoFNrD",
+        "created": 1646116897991,
+        "text": "Cha-śas-kyi yan-lag ces-bya-baḥi rab-tu-byed-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoFNrE",
+        "created": 1646116897991,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoFNrF",
+        "created": 1646116897991,
+        "text": "해권론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoFNr0",
+      "created": 1646116897991,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoFNr1",
+      "created": 1646116897991,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoFNr2",
+      "created": 1646116897991,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoFNr3",
+       "created": 1646116897991,
+       "text": "陳那菩薩造　陳 真諦譯"
+      }},
+      {"data": {
+       "id": "z5cYxoFNr4",
+       "created": 1646116897991,
+       "text": "真諦",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxoFNr5",
+       "created": 1646116897991,
+       "text": "陳那",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoFNr6",
+      "created": 1646116897991,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoFNr7",
+      "created": 1646116897991,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoFNrG",
+      "created": 1646116897991,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoFNrH",
+      "created": 1646116897991,
+      "text": "Translation by Paramārtha: between the 2nd year of Yung Ting (永定) and the 1st year of T'ai Chien (太建), Ch'en dynasty (陳) (A.D. 558-569) in Chih-chih Monastery (制旨寺).T. 2151-364c:21."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxoGNrI",
+     "created": 1646116897992,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxoGNrJ",
+      "created": 1646116897992,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoGNrK",
+      "created": 1646116897992,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoGNrL",
+      "created": 1646116897992,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoGNrM",
+       "created": 1646116897992,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrN",
+       "created": 1646116897992,
+       "text": "【開寶藏】No.633《解卷論》陳 天竺三藏真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：命"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrO",
+       "created": 1646116897992,
+       "text": "【崇寧藏】No.635《解拳論》 卷數：1 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrP",
+       "created": 1646116897992,
+       "text": "【毘盧藏】No.636《解拳論》陳三藏真諦譯 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrQ",
+       "created": 1646116897992,
+       "text": "【圓覺藏】No.644《解捲論》 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrR",
+       "created": 1646116897992,
+       "text": "【趙城金藏】No.644《解捲論》 卷數：1 千字文：命"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrS",
+       "created": 1646116897992,
+       "text": "【資福藏】No.649《解捲論》 卷數：1 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrT",
+       "created": 1646116897992,
+       "text": "【磧砂藏】No.655《解拳論》陳 真諦譯 部別：集義論 / 冊數：17 / 頁數：285 / 卷數：1 千字文：臨 4 (257)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrU",
+       "created": 1646116897992,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrV",
+       "created": 1646116897992,
+       "text": "【高麗藏】No.643《解捲論》陳西印度三藏真諦譯 部別：大乘論 集義論 / 冊數：17 頁數：807(原版) 780(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：命"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrW",
+       "created": 1646116897992,
+       "text": "【普寧藏】No.647《解拳論》 卷數：1 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrX",
+       "created": 1646116897992,
+       "text": "【至元錄】No.1370《解捲論》陳那菩薩造　陳天竺三藏真諦譯 卷數：1 / 譯次：(第一譯) 千字文：甲(445)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrY",
+       "created": 1646116897992,
+       "text": "【洪武南藏】No.576《解拳論》陳郍菩薩 造　陳 三藏法師真諦 譯　 冊數：89 / 頁數：351 / 卷數：1 千字文：臨 4 (257)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrZ",
+       "created": 1646116897992,
+       "text": "【永樂南藏】No.1388《解拳論》 部別：大乘論 千字文：華(411)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNra",
+       "created": 1646116897992,
+       "text": "【永樂北藏】No.1301《解拳論》陳真諦譯 部別：大乘論 / 冊數：105 / 頁數：886 / 卷數：1 千字文：逸"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrb",
+       "created": 1646116897992,
+       "text": "【嘉興藏】No.1247《解拳論》陳真諦譯 部別：大乘論 / 法寶總目錄經號：1246 千字文 / 函號：［正藏］ 逸(388)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrc",
+       "created": 1646116897992,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrd",
+       "created": 1646116897992,
+       "text": "【乾隆藏】No.1248《解拳論》陳那造　(陳)真諦譯 部別：大乘論 / 冊數：87 / 頁數：90 / 卷數：1 千字文：逸"
+      }},
+      {"data": {
+       "id": "z5cYxoGNre",
+       "created": 1646116897992,
+       "text": "【縮刻藏】No.930《解捲論》陳那菩薩造　陳真諦譯 部別：印度大乘宗經論 / 卷數：1 千字文：暑 2 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrf",
+       "created": 1646116897992,
+       "text": "【卍正藏】No.1262《解捲論》陳 真諦譯 部別：大乘論 / 冊數：41 / 頁數：849 / 卷數：1 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrg",
+       "created": 1646116897992,
+       "text": "【大正藏】No.1620《解捲論》陳那菩薩造 陳 真諦譯 部別：瑜伽部下 / 冊數：31 / 頁數：883 / 卷數：1 相關經典：縮-暑2,卍-22.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxoGNrh",
+       "created": 1646116897992,
+       "text": "【佛教大藏經】No.972《解捲論》陳 真諦譯 部別：大乘宗經論 論部三 / 冊數：37 / 頁數：399 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxoGNri",
+       "created": 1646116897992,
+       "text": "【中華藏】No.693《解捲論》陳那菩薩造，陳西印度三藏真諦譯 冊數：30 / 頁數：1049 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrj",
+       "created": 1646116897992,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrk",
+       "created": 1646116897992,
+       "text": "【南條文雄編號】 Nj. 1255"
+      }},
+      {"data": {
+       "id": "z5cYxoGNrl",
+       "created": 1646116897992,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1620"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzgn1cm",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

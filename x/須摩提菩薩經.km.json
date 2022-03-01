@@ -1,0 +1,573 @@
+{
+ "root": {
+  "data": {"text": "佛說須摩提菩薩經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwlo5NS",
+     "created": 1646116893996,
+     "text": "現藏錄（西晉 竺法護譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwln5Ma",
+       "created": 1646116893995,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwln5Mb",
+         "created": 1646116893995,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwln5Mc",
+         "created": 1646116893995,
+         "text": "佛說須摩提菩薩經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwln5Md",
+         "created": 1646116893995,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlo5Me",
+         "created": 1646116893996,
+         "text": "佛说须摩提菩萨经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlo5Mf",
+         "created": 1646116893996,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlo5Mg",
+         "created": 1646116893996,
+         "text": "fo shuo xu mo ti pu sa jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlo5Mo",
+         "created": 1646116893996,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlo5Mp",
+         "created": 1646116893996,
+         "text": "Hsü mo t'i p'u sa ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlo5Mq",
+         "created": 1646116893996,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlo5Mr",
+         "created": 1646116893996,
+         "text": "Sumatidārikāparipṛcchā(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlo5Ms",
+         "created": 1646116893996,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlo5Mt",
+         "created": 1646116893996,
+         "text": "Bu-mo blo-gros-bzaṅ-mos shus-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlo5Mu",
+         "created": 1646116893996,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlo5Mv",
+         "created": 1646116893996,
+         "text": "수마제보살경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlo5Mh",
+       "created": 1646116893996,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlo5Mi",
+       "created": 1646116893996,
+       "text": "西晉",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlo5Mj",
+       "created": 1646116893996,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlo5Mk",
+        "created": 1646116893996,
+        "text": "西晉 竺法護譯"
+       }},
+       {"data": {
+        "id": "z5cYwlo5Ml",
+        "created": 1646116893996,
+        "text": "法護",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlo5Mm",
+       "created": 1646116893996,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlo5Mn",
+       "created": 1646116893996,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlo5Mw",
+       "created": 1646116893996,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlo5Mx",
+       "created": 1646116893996,
+       "text": "Translation by Dharmarakṣa: between the beginning of T'ai Shih (太始) (A.D.265) and the beginning of Chien Hsing (建興 (A.D.313), Western Chin dynasty (西晉 ).T. 2151-353a:26. Ono. = A.D. 265-308."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwlo5My",
+      "created": 1646116893996,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwlo5Mz",
+       "created": 1646116893996,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlo5N0",
+       "created": 1646116893996,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlo5N1",
+       "created": 1646116893996,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlo5N2",
+        "created": 1646116893996,
+        "text": "【房山石經】No.363《佛說須摩提經》(西晉)三藏竺法護譯 冊數：9 / 頁數：96 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwlo5N3",
+        "created": 1646116893996,
+        "text": "【開寶藏】No.39《須摩提經》西晉 月支三藏竺法護 譯 部別：大乘經 寶積部 / 卷數：1 千字文：服"
+       }},
+       {"data": {
+        "id": "z5cYwlo5N4",
+        "created": 1646116893996,
+        "text": "【崇寧藏】No.39《佛說須摩提經》 卷數：1 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5N5",
+        "created": 1646116893996,
+        "text": "【毘盧藏】No.35《佛說須摩提經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5N6",
+        "created": 1646116893996,
+        "text": "【圓覺藏】No.36《須摩提經》 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5N7",
+        "created": 1646116893996,
+        "text": "【趙城金藏】No.39《須摩提菩薩經》 卷數：1 千字文：服"
+       }},
+       {"data": {
+        "id": "z5cYwlo5N8",
+        "created": 1646116893996,
+        "text": "【資福藏】No.35《佛說須摩提經》 卷數：1 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5N9",
+        "created": 1646116893996,
+        "text": "【磧砂藏】No.39《佛說須摩提經》晉 竺法護譯 部別：寶積部 / 冊數：6 / 頁數：342 / 卷數：1 千字文：衣 7 (87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NA",
+        "created": 1646116893996,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NB",
+        "created": 1646116893996,
+        "text": "【高麗藏】No.39《須摩提菩薩經》西晉三藏竺法護譯 部別：大乘經 寶積部 / 冊數：6 頁數：1193 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：服"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NC",
+        "created": 1646116893996,
+        "text": "【普寧藏】No.36《佛說須摩提經》 卷數：1 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5ND",
+        "created": 1646116893996,
+        "text": "【至元錄】No.106《須摩提經》西晉三藏竺法護譯 梵名：阿唎(二合)　亞　須麻提答哩葛巴哩赤(三合)拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：1 / 譯次：(第一譯) 千字文：讓(91)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NE",
+        "created": 1646116893996,
+        "text": "【洪武南藏】No.35《佛說湏摩提經》西晉 三藏竺法護 譯 冊數：31 / 頁數：418 / 卷數：1 千字文：衣 6 (87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NF",
+        "created": 1646116893996,
+        "text": "【永樂南藏】No.36《佛說須摩提經》 部別：大乘經-寶積部 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NG",
+        "created": 1646116893996,
+        "text": "【永樂北藏】No.54《佛說須摩提經》西晉竺法護譯 部別：大乘經寶積部 / 冊數：22 / 頁數：628 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NH",
+        "created": 1646116893996,
+        "text": "【嘉興藏】No.36《須摩提經》西晉竺法護譯 部別：大乘經-寶積部 / 法寶總目錄經號：0036 千字文 / 函號：［正藏］ 衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NI",
+        "created": 1646116893996,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NJ",
+        "created": 1646116893996,
+        "text": "【乾隆藏】No.36《佛說須摩提經》西晉 竺法護譯 部別：大乘寶積部 / 冊數：20 / 頁數：101 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NK",
+        "created": 1646116893996,
+        "text": "【縮刻藏】No.57《佛說須摩提菩薩經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NL",
+        "created": 1646116893996,
+        "text": "【卍正藏】No.39《佛說須摩提菩薩經》西晉 竺法護譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：609 / 卷數：1 原版套數：第 6 套"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NM",
+        "created": 1646116893996,
+        "text": "【大正藏】No.334《佛說須摩提菩薩經》西晉 竺法護譯 部別：寶積部下 / 冊數：12 / 頁數：76 / 卷數：1 相關經典：縮-地11,卍-6.4,國-寶7 參考資料：Nos.310(30),335,336"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NN",
+        "created": 1646116893996,
+        "text": "【佛教大藏經】No.57《佛說須摩提菩薩經》西晉 竺法護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：720 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NO",
+        "created": 1646116893996,
+        "text": "【中華藏】No.43《佛說須摩提菩薩經》姚秦三藏鳩摩羅什譯 冊數：9 / 頁數：797 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NP",
+        "created": 1646116893996,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NQ",
+        "created": 1646116893996,
+        "text": "【南條文雄編號】 Nj. 0039"
+       }},
+       {"data": {
+        "id": "z5cYwlo5NR",
+        "created": 1646116893996,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：334"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwlr5O8",
+     "created": 1646116893999,
+     "text": "現藏錄（姚秦 鳩摩羅什譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwlq5NT",
+       "created": 1646116893998,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwlq5NU",
+         "created": 1646116893998,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlq5NV",
+         "created": 1646116893998,
+         "text": "佛說須摩提菩薩經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlq5NW",
+         "created": 1646116893998,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlq5NX",
+         "created": 1646116893998,
+         "text": "佛说须摩提菩萨经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwlq5NY",
+         "created": 1646116893998,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwlq5NZ",
+         "created": 1646116893998,
+         "text": "fo shuo xu mo ti pu sa jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlq5Na",
+       "created": 1646116893998,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlq5Nb",
+       "created": 1646116893998,
+       "text": "姚秦",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlq5Nc",
+       "created": 1646116893998,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlq5Nd",
+        "created": 1646116893998,
+        "text": "姚秦 鳩摩羅什譯"
+       }},
+       {"data": {
+        "id": "z5cYwlq5Ne",
+        "created": 1646116893998,
+        "text": "鳩摩羅什",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwlq5Nf",
+       "created": 1646116893998,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwlq5Ng",
+       "created": 1646116893998,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwlq5Nh",
+       "created": 1646116893998,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwlr5Ni",
+        "created": 1646116893999,
+        "text": "【房山石經】No.365《佛說須摩提菩薩經》(姚秦)三藏鳩摩羅什譯 冊數：9 / 頁數：99 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nj",
+        "created": 1646116893999,
+        "text": "【開寶藏】No.41《須摩提菩薩經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘經 寶積部 / 卷數：1 千字文：服"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nk",
+        "created": 1646116893999,
+        "text": "【崇寧藏】No.40《佛說須摩提菩薩經》 卷數：1 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nl",
+        "created": 1646116893999,
+        "text": "【毘盧藏】No.36《佛說須摩提菩薩經》姚秦鳩摩羅什譯 參考年代：(宣和六．八) 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nm",
+        "created": 1646116893999,
+        "text": "【圓覺藏】No.37《須摩提菩薩經》 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nn",
+        "created": 1646116893999,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5No",
+        "created": 1646116893999,
+        "text": "【資福藏】No.36《佛說須摩提菩薩經》 卷數：1 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Np",
+        "created": 1646116893999,
+        "text": "【磧砂藏】No.40《佛說須摩提菩薩經》姚秦 鳩摩羅什譯 部別：寶積部 / 冊數：6 / 頁數：344 / 卷數：1 千字文：衣 8 (87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nq",
+        "created": 1646116893999,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nr",
+        "created": 1646116893999,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Ns",
+        "created": 1646116893999,
+        "text": "【普寧藏】No.37《佛說須摩提菩薩經》 卷數：1 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nt",
+        "created": 1646116893999,
+        "text": "【至元錄】No.107《須摩提菩薩經》姚秦三藏鳩摩羅什譯 卷數：1 / 譯次：(第二譯) 千字文：讓(91)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nu",
+        "created": 1646116893999,
+        "text": "【洪武南藏】No.36《佛說湏摩提菩薩經》姚秦 三藏鳩摩羅什 譯 冊數：31 / 頁數：428 / 卷數：1 千字文：衣 6 (87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nv",
+        "created": 1646116893999,
+        "text": "【永樂南藏】No.37《佛說須摩提菩薩經》 部別：大乘經-寶積部 千字文：衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nw",
+        "created": 1646116893999,
+        "text": "【永樂北藏】No.55《佛說須摩提菩薩經》姚秦鳩摩羅什譯 部別：大乘經寶積部 / 冊數：22 / 頁數：638 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nx",
+        "created": 1646116893999,
+        "text": "【嘉興藏】No.37《須摩提菩薩經》姚秦鳩摩羅什譯 部別：大乘經-寶積部 / 法寶總目錄經號：0037 千字文 / 函號：［正藏］ 衣(87)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Ny",
+        "created": 1646116893999,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5Nz",
+        "created": 1646116893999,
+        "text": "【乾隆藏】No.37《佛說須摩提菩薩經》姚秦 鳩摩羅什譯 部別：大乘寶積部 / 冊數：20 / 頁數：111 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O0",
+        "created": 1646116893999,
+        "text": "【縮刻藏】No.58《佛說須摩提菩薩經》姚秦鳩摩羅什譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O1",
+        "created": 1646116893999,
+        "text": "【卍正藏】No.40《佛說須摩提菩薩經》姚秦 鳩摩羅什譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：613 / 卷數：1 原版套數：第 6 套"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O2",
+        "created": 1646116893999,
+        "text": "【大正藏】No.335《佛說須摩提菩薩經》姚秦 鳩摩羅什譯 部別：寶積部下 / 冊數：12 / 頁數：78 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：Nos.310(30),334,336"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O3",
+        "created": 1646116893999,
+        "text": "【佛教大藏經】No.58《佛說須摩提菩薩經》姚秦 鳩摩羅什譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：725 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O4",
+        "created": 1646116893999,
+        "text": "【中華藏】No.42《佛說須摩提菩薩經》西晉三藏竺法護譯 冊數：9 / 頁數：792 / 卷數：1 / 底本：凊藏本"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O5",
+        "created": 1646116893999,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O6",
+        "created": 1646116893999,
+        "text": "【南條文雄編號】 Nj. 0040"
+       }},
+       {"data": {
+        "id": "z5cYwlr5O7",
+        "created": 1646116893999,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：335"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwdnar",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

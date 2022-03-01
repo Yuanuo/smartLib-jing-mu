@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "大乘入楞伽經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx4IARz",
+    "created": 1646116895142,
+    "text": "現藏錄（唐 實叉難陀譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx4IAR7",
+      "created": 1646116895142,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx4IAR8",
+        "created": 1646116895142,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4IAR9",
+        "created": 1646116895142,
+        "text": "大乘入楞伽經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4IARA",
+        "created": 1646116895142,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4IARB",
+        "created": 1646116895142,
+        "text": "大乘入楞伽经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4IARC",
+        "created": 1646116895142,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4IARD",
+        "created": 1646116895142,
+        "text": "da cheng ru leng jia jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4IARL",
+        "created": 1646116895142,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4IARM",
+        "created": 1646116895142,
+        "text": "Ta ch'eng ju leng ch'ieh ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4IARN",
+        "created": 1646116895142,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4IARO",
+        "created": 1646116895142,
+        "text": "Laṅkāvatārasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4IARP",
+        "created": 1646116895142,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4IARQ",
+        "created": 1646116895142,
+        "text": "Laṅ-kar-gśegs-paḥi theg-pa chen-poḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4IARR",
+        "created": 1646116895142,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4IARS",
+        "created": 1646116895142,
+        "text": "대승입능가경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx4IARE",
+      "created": 1646116895142,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4IARF",
+      "created": 1646116895142,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx4IARG",
+      "created": 1646116895142,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx4IARH",
+       "created": 1646116895142,
+       "text": "唐 實叉難陀譯"
+      }},
+      {"data": {
+       "id": "z5cYx4IARI",
+       "created": 1646116895142,
+       "text": "實叉難陀",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx4IARJ",
+      "created": 1646116895142,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4IARK",
+      "created": 1646116895142,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx4IART",
+      "created": 1646116895142,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4IARU",
+      "created": 1646116895142,
+      "text": "Translation by Śikṣānanda: begun on the 5th day, 5th month, 1st year of Chiu Shih (久視) (27th May, A.D. 700) and completed on the 5th day, 1st month, 4th year of Ch'ang-an (長安), T'ang dynasty (唐) (14th February, A.D. 704) in San-yang Palace (三陽宮), Tung-tu (東都).T. 2154-565c:24."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx4IARV",
+     "created": 1646116895142,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx4IARW",
+      "created": 1646116895142,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4IARX",
+      "created": 1646116895142,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx4IARY",
+      "created": 1646116895142,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx4IARZ",
+       "created": 1646116895142,
+       "text": "【房山石經】No.423《大乘入楞伽經》(大唐天后代)于闐三藏實叉難陀奉制譯 冊數：10 / 頁數：195 / 卷數：7 / 刻經年代：大安三年刻石 / 瀏覽：目錄圖檔 千字文：大"
+      }},
+      {"data": {
+       "id": "z5cYx4IARa",
+       "created": 1646116895142,
+       "text": "【開寶藏】No.162《大乘入楞伽經》唐 于闐三藏實叉難陀 譯 部別：大乘經 五大部外諸重譯經 / 卷數：7 千字文：髮"
+      }},
+      {"data": {
+       "id": "z5cYx4IARb",
+       "created": 1646116895142,
+       "text": "【崇寧藏】No.163《大乘入楞伽經》 卷數：7 千字文：四(149)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARc",
+       "created": 1646116895142,
+       "text": "【毘盧藏】No.159《大乘入楞伽經》序御製　唐實叉難陀譯 參考年代：(靖康元．六) 千字文：四(149)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARd",
+       "created": 1646116895142,
+       "text": "【圓覺藏】No.160《入楞伽經》 卷數：7 千字文：四(149)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARe",
+       "created": 1646116895142,
+       "text": "【趙城金藏】No.161《大乘入楞伽經》 卷數：7 千字文：髮"
+      }},
+      {"data": {
+       "id": "z5cYx4IARf",
+       "created": 1646116895142,
+       "text": "【資福藏】No.164《入楞伽經》 卷數：7 (七卷) 千字文：四(149)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARg",
+       "created": 1646116895142,
+       "text": "【磧砂藏】No.164《大乘入楞伽經》唐 實叉難陀譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：441 / 卷數：7 千字文：四 1 (149)-四 7 (149)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARh",
+       "created": 1646116895142,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARi",
+       "created": 1646116895142,
+       "text": "【高麗藏】No.161《大乘入楞伽經》大周于闐國三藏法師實叉難陀譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：919 / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：髮"
+      }},
+      {"data": {
+       "id": "z5cYx4IARj",
+       "created": 1646116895142,
+       "text": "【普寧藏】No.159《大乘入楞伽經》 卷數：7 千字文：四(149)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARk",
+       "created": 1646116895142,
+       "text": "【至元錄】No.240《大乘入楞伽經》唐于闐三藏實叉難陀譯 梵名：阿唎(二合)亞　摩訶阿琅迦　阿哇怛羅(二合)拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：7 / 出處：(昇編入錄) / 譯次：(第四譯) 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARl",
+       "created": 1646116895142,
+       "text": "【洪武南藏】No.147《大乘入楞伽經》唐 于闐國三藏法師實叉難陀 奉制譯 冊數：50-51 / 頁數：511 / 卷數：7 千字文：四 1 (149)-四 7 (149)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARm",
+       "created": 1646116895142,
+       "text": "【永樂南藏】No.163《大乘入楞伽經》 部別：大乘經-五大部外重譯經 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARn",
+       "created": 1646116895142,
+       "text": "【永樂北藏】No.201《大乘入楞伽經》唐實叉難陀譯 部別：大乘經五大部外重譯經 / 冊數：41 / 頁數：1 / 卷數：7 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYx4IARo",
+       "created": 1646116895142,
+       "text": "【嘉興藏】No.172《大乘入楞伽經》唐實叉難陀譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0172 千字文 / 函號：［正藏］ 養(156)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARp",
+       "created": 1646116895142,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARq",
+       "created": 1646116895142,
+       "text": "【乾隆藏】No.173《大乘入楞伽經》唐 實叉難陀譯 部別：大乘五大部外重譯經 / 冊數：35 / 頁數：273 / 卷數：7 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYx4IARr",
+       "created": 1646116895142,
+       "text": "【縮刻藏】No.156《大乘入楞伽經》唐實叉難陀譯 部別：大乘經-方等部 / 卷數：7 千字文：黃 6 (4)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARs",
+       "created": 1646116895142,
+       "text": "【卍正藏】No.175《大乘入楞伽經》大周 實叉難陀譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：1 / 卷數：7 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYx4IARt",
+       "created": 1646116895142,
+       "text": "【大正藏】No.672《大乘入楞伽經》唐 實叉難陀譯 部別：經集部三 / 冊數：16 / 頁數：587 / 卷數：7 相關經典：縮-黃6,卍-10.1 參考資料：Nos.670,671,;cf.Nos.1790,1791"
+      }},
+      {"data": {
+       "id": "z5cYx4IARu",
+       "created": 1646116895142,
+       "text": "【佛教大藏經】No.158《大乘入楞伽經》唐 實叉難陀譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：163 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYx4IARv",
+       "created": 1646116895142,
+       "text": "【中華藏】No.170《大乘入楞伽經》大周于闐國三藏法師實叉難陀奉敕譯 冊數：17 / 頁數：733 / 卷數：7 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx4IARw",
+       "created": 1646116895142,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx4IARx",
+       "created": 1646116895142,
+       "text": "【南條文雄編號】 Nj. 0177"
+      }},
+      {"data": {
+       "id": "z5cYx4IARy",
+       "created": 1646116895142,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：672"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx9hko",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

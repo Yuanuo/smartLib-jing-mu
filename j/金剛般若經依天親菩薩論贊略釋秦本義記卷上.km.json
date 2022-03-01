@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "金剛般若經依天親菩薩論贊略釋秦本義記卷上"},
+  "children": [{
+   "data": {
+    "id": "z5cYyXAbK5",
+    "created": 1646116900776,
+    "text": "現藏錄（唐 知恩撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyXAbJQ",
+      "created": 1646116900776,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyXAbJR",
+        "created": 1646116900776,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXAbJS",
+        "created": 1646116900776,
+        "text": "金剛般若經依天親菩薩論贊略釋秦本義記卷上",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXAbJT",
+        "created": 1646116900776,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXAbJU",
+        "created": 1646116900776,
+        "text": "金刚般若经依天亲菩萨论赞略释秦本义记卷上",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXAbJV",
+        "created": 1646116900776,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXAbJW",
+        "created": 1646116900776,
+        "text": "jin gang bo re jing yi tian qin pu sa lun zan lve shi qin ben yi ji juan shang"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyXAbJX",
+      "created": 1646116900776,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXAbJY",
+      "created": 1646116900776,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXAbJZ",
+      "created": 1646116900776,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyXAbJa",
+       "created": 1646116900776,
+       "text": "唐 知恩撰"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJb",
+       "created": 1646116900776,
+       "text": "知恩",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyXAbJc",
+      "created": 1646116900776,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXAbJd",
+      "created": 1646116900776,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXAbJe",
+      "created": 1646116900776,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyXAbJf",
+       "created": 1646116900776,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJg",
+       "created": 1646116900776,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJh",
+       "created": 1646116900776,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJi",
+       "created": 1646116900776,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJj",
+       "created": 1646116900776,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJk",
+       "created": 1646116900776,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJl",
+       "created": 1646116900776,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJm",
+       "created": 1646116900776,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJn",
+       "created": 1646116900776,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJo",
+       "created": 1646116900776,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJp",
+       "created": 1646116900776,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJq",
+       "created": 1646116900776,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJr",
+       "created": 1646116900776,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJs",
+       "created": 1646116900776,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJt",
+       "created": 1646116900776,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJu",
+       "created": 1646116900776,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJv",
+       "created": 1646116900776,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJw",
+       "created": 1646116900776,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJx",
+       "created": 1646116900776,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJy",
+       "created": 1646116900776,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbJz",
+       "created": 1646116900776,
+       "text": "【大正藏】No.2736《金剛般若經依天親菩薩論贊略釋秦本義記卷上》唐 知恩撰 部別：古逸部全 / 冊數：85 / 頁數：109 / 卷數：1 相關經典： 參考資料：cf.No.235"
+      }},
+      {"data": {
+       "id": "z5cYyXAbK0",
+       "created": 1646116900776,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbK1",
+       "created": 1646116900776,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbK2",
+       "created": 1646116900776,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbK3",
+       "created": 1646116900776,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXAbK4",
+       "created": 1646116900776,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2736"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1m029m",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

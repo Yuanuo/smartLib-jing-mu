@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "淨土口決集"},
+  "children": [{
+   "data": {
+    "id": "z5cYyTRaER",
+    "created": 1646116900545,
+    "text": "現藏錄（日本 行觀覺融撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyTRaDm",
+      "created": 1646116900545,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyTRaDn",
+        "created": 1646116900545,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTRaDo",
+        "created": 1646116900545,
+        "text": "淨土口決集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTRaDp",
+        "created": 1646116900545,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTRaDq",
+        "created": 1646116900545,
+        "text": "净土口决集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTRaDr",
+        "created": 1646116900545,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTRaDs",
+        "created": 1646116900545,
+        "text": "jing tu kou jue ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTRaDt",
+      "created": 1646116900545,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTRaDu",
+      "created": 1646116900545,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTRaDv",
+      "created": 1646116900545,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTRaDw",
+       "created": 1646116900545,
+       "text": "日本 行觀覺融撰"
+      }},
+      {"data": {
+       "id": "z5cYyTRaDx",
+       "created": 1646116900545,
+       "text": "行觀覺融",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTRaDy",
+      "created": 1646116900545,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTRaDz",
+      "created": 1646116900545,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTRaE0",
+      "created": 1646116900545,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTRaE1",
+       "created": 1646116900545,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE2",
+       "created": 1646116900545,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE3",
+       "created": 1646116900545,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE4",
+       "created": 1646116900545,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE5",
+       "created": 1646116900545,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE6",
+       "created": 1646116900545,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE7",
+       "created": 1646116900545,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE8",
+       "created": 1646116900545,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaE9",
+       "created": 1646116900545,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEA",
+       "created": 1646116900545,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEB",
+       "created": 1646116900545,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEC",
+       "created": 1646116900545,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaED",
+       "created": 1646116900545,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEE",
+       "created": 1646116900545,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEF",
+       "created": 1646116900545,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEG",
+       "created": 1646116900545,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEH",
+       "created": 1646116900545,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEI",
+       "created": 1646116900545,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEJ",
+       "created": 1646116900545,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEK",
+       "created": 1646116900545,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEL",
+       "created": 1646116900545,
+       "text": "【大正藏】No.2640《淨土口決集》日本 行觀覺融撰 部別：續諸宗部十四 / 冊數：83 / 頁數：520 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyTRaEM",
+       "created": 1646116900545,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEN",
+       "created": 1646116900545,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEO",
+       "created": 1646116900545,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEP",
+       "created": 1646116900545,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTRaEQ",
+       "created": 1646116900545,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2640"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1fl26t",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

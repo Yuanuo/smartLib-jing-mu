@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大日經疏鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyCiVVq",
+    "created": 1646116899508,
+    "text": "現藏錄（日本 宥快撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyCiVVB",
+      "created": 1646116899508,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyCiVVC",
+        "created": 1646116899508,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCiVVD",
+        "created": 1646116899508,
+        "text": "大日經疏鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCiVVE",
+        "created": 1646116899508,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCiVVF",
+        "created": 1646116899508,
+        "text": "大日经疏钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCiVVG",
+        "created": 1646116899508,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCiVVH",
+        "created": 1646116899508,
+        "text": "da ri jing shu chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCiVVI",
+      "created": 1646116899508,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCiVVJ",
+      "created": 1646116899508,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCiVVK",
+      "created": 1646116899508,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCiVVL",
+       "created": 1646116899508,
+       "text": "日本 宥快撰"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVM",
+       "created": 1646116899508,
+       "text": "宥快",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCiVVN",
+      "created": 1646116899508,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCiVVO",
+      "created": 1646116899508,
+      "text": "85"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCiVVP",
+      "created": 1646116899508,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCiVVQ",
+       "created": 1646116899508,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVR",
+       "created": 1646116899508,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVS",
+       "created": 1646116899508,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVT",
+       "created": 1646116899508,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVU",
+       "created": 1646116899508,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVV",
+       "created": 1646116899508,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVW",
+       "created": 1646116899508,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVX",
+       "created": 1646116899508,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVY",
+       "created": 1646116899508,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVZ",
+       "created": 1646116899508,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVa",
+       "created": 1646116899508,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVb",
+       "created": 1646116899508,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVc",
+       "created": 1646116899508,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVd",
+       "created": 1646116899508,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVe",
+       "created": 1646116899508,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVf",
+       "created": 1646116899508,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVg",
+       "created": 1646116899508,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVh",
+       "created": 1646116899508,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVi",
+       "created": 1646116899508,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVj",
+       "created": 1646116899508,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVk",
+       "created": 1646116899508,
+       "text": "【大正藏】No.2218《大日經疏鈔》日本 宥快撰 部別：續經疏部五 / 冊數：60 / 頁數：1 / 卷數：85 相關經典： 參考資料：cf.No.1796"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVl",
+       "created": 1646116899508,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVm",
+       "created": 1646116899508,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVn",
+       "created": 1646116899508,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVo",
+       "created": 1646116899508,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCiVVp",
+       "created": 1646116899508,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2218"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0ms1us",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

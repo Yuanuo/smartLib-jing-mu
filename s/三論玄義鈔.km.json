@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "三論玄義鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyFdWRC",
+    "created": 1646116899689,
+    "text": "現藏錄（日本 貞海撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyFdWQX",
+      "created": 1646116899689,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyFdWQY",
+        "created": 1646116899689,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFdWQZ",
+        "created": 1646116899689,
+        "text": "三論玄義鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyFdWQa",
+        "created": 1646116899689,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFdWQb",
+        "created": 1646116899689,
+        "text": "三论玄义钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyFdWQc",
+        "created": 1646116899689,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyFdWQd",
+        "created": 1646116899689,
+        "text": "san lun xuan yi chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyFdWQe",
+      "created": 1646116899689,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyFdWQf",
+      "created": 1646116899689,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyFdWQg",
+      "created": 1646116899689,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyFdWQh",
+       "created": 1646116899689,
+       "text": "日本 貞海撰"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQi",
+       "created": 1646116899689,
+       "text": "貞海",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyFdWQj",
+      "created": 1646116899689,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyFdWQk",
+      "created": 1646116899689,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyFdWQl",
+      "created": 1646116899689,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyFdWQm",
+       "created": 1646116899689,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQn",
+       "created": 1646116899689,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQo",
+       "created": 1646116899689,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQp",
+       "created": 1646116899689,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQq",
+       "created": 1646116899689,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQr",
+       "created": 1646116899689,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQs",
+       "created": 1646116899689,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQt",
+       "created": 1646116899689,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQu",
+       "created": 1646116899689,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQv",
+       "created": 1646116899689,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQw",
+       "created": 1646116899689,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQx",
+       "created": 1646116899689,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQy",
+       "created": 1646116899689,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWQz",
+       "created": 1646116899689,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR0",
+       "created": 1646116899689,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR1",
+       "created": 1646116899689,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR2",
+       "created": 1646116899689,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR3",
+       "created": 1646116899689,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR4",
+       "created": 1646116899689,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR5",
+       "created": 1646116899689,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR6",
+       "created": 1646116899689,
+       "text": "【大正藏】No.2301《三論玄義鈔》日本 貞海撰 部別：續諸宗部一 / 冊數：70 / 頁數：499 / 卷數：3 相關經典： 參考資料：cf.Nos.1852,2300,2302"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR7",
+       "created": 1646116899689,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR8",
+       "created": 1646116899689,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWR9",
+       "created": 1646116899689,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWRA",
+       "created": 1646116899689,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyFdWRB",
+       "created": 1646116899689,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2301"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0rt1x5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

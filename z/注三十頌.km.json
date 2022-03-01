@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "注三十頌"},
+  "children": [{
+   "data": {
+    "id": "z5cYyEVW4t",
+    "created": 1646116899619,
+    "text": "現藏錄（日本 貞慶撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyEVW4E",
+      "created": 1646116899619,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyEVW4F",
+        "created": 1646116899619,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEVW4G",
+        "created": 1646116899619,
+        "text": "注三十頌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEVW4H",
+        "created": 1646116899619,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEVW4I",
+        "created": 1646116899619,
+        "text": "注三十颂",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyEVW4J",
+        "created": 1646116899619,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyEVW4K",
+        "created": 1646116899619,
+        "text": "zhu san shi song"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEVW4L",
+      "created": 1646116899619,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEVW4M",
+      "created": 1646116899619,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEVW4N",
+      "created": 1646116899619,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEVW4O",
+       "created": 1646116899619,
+       "text": "日本 貞慶撰"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4P",
+       "created": 1646116899619,
+       "text": "貞慶",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyEVW4Q",
+      "created": 1646116899619,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyEVW4R",
+      "created": 1646116899619,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyEVW4S",
+      "created": 1646116899619,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyEVW4T",
+       "created": 1646116899619,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4U",
+       "created": 1646116899619,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4V",
+       "created": 1646116899619,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4W",
+       "created": 1646116899619,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4X",
+       "created": 1646116899619,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4Y",
+       "created": 1646116899619,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4Z",
+       "created": 1646116899619,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4a",
+       "created": 1646116899619,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4b",
+       "created": 1646116899619,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4c",
+       "created": 1646116899619,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4d",
+       "created": 1646116899619,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4e",
+       "created": 1646116899619,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4f",
+       "created": 1646116899619,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4g",
+       "created": 1646116899619,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4h",
+       "created": 1646116899619,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4i",
+       "created": 1646116899619,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4j",
+       "created": 1646116899619,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4k",
+       "created": 1646116899619,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4l",
+       "created": 1646116899619,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4m",
+       "created": 1646116899619,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4n",
+       "created": 1646116899619,
+       "text": "【大正藏】No.2268《注三十頌》日本 貞慶撰 部別：續論疏部六 / 冊數：68 / 頁數：114 / 卷數：1 相關經典：佛全-78 參考資料：cf.No.1586"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4o",
+       "created": 1646116899619,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4p",
+       "created": 1646116899619,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4q",
+       "created": 1646116899619,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4r",
+       "created": 1646116899619,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyEVW4s",
+       "created": 1646116899619,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2268"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0pu1w8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

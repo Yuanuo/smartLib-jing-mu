@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "摩訶僧祇律大比丘戒本"},
+  "children": [{
+   "data": {
+    "id": "z5cYxeIKy4",
+    "created": 1646116897374,
+    "text": "現藏錄（東晉 佛陀跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxeIKxC",
+      "created": 1646116897374,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxeIKxD",
+        "created": 1646116897374,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxeIKxE",
+        "created": 1646116897374,
+        "text": "摩訶僧祇律大比丘戒本",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxeIKxF",
+        "created": 1646116897374,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxeIKxG",
+        "created": 1646116897374,
+        "text": "摩诃僧祇律大比丘戒本",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxeIKxH",
+        "created": 1646116897374,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxeIKxI",
+        "created": 1646116897374,
+        "text": "mo he seng zhi lv da bi qiu jie ben"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxeIKxR",
+        "created": 1646116897374,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxeIKxS",
+        "created": 1646116897374,
+        "text": "Mo ho seng ch'i lü ta pi ch'iu chieh pen"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxeIKxT",
+       "created": 1646116897374,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxeIKxU",
+        "created": 1646116897374,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxeIKxV",
+        "created": 1646116897374,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxeIKxW",
+        "created": 1646116897374,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxeIKxX",
+        "created": 1646116897374,
+        "text": "마하승기율대비구계본",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxeIKxJ",
+      "created": 1646116897374,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxeIKxK",
+      "created": 1646116897374,
+      "text": "東晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxeIKxL",
+      "created": 1646116897374,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxeIKxM",
+       "created": 1646116897374,
+       "text": "東晉 佛陀跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxN",
+       "created": 1646116897374,
+       "text": "佛陀跋陀羅",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxeIKxO",
+       "created": 1646116897374,
+       "text": "跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxeIKxP",
+      "created": 1646116897374,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxeIKxQ",
+      "created": 1646116897374,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxeIKxY",
+      "created": 1646116897374,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxeIKxZ",
+      "created": 1646116897374,
+      "text": "Translation by Buddhabhadra: between the 2nd year of Lung An (隆安), Eastern Chin dynasty (東晉) and the 2nd year of Yung Ch'u (永初), Liu Sung dynasty (劉宋) (A.D. 398-421).T. 2151-357a:13."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxeIKxa",
+     "created": 1646116897374,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxeIKxb",
+      "created": 1646116897374,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxeIKxc",
+      "created": 1646116897374,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxeIKxd",
+      "created": 1646116897374,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxeIKxe",
+       "created": 1646116897374,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxf",
+       "created": 1646116897374,
+       "text": "【開寶藏】No.892《僧祇比丘戒本》東晉 天竺三藏佛陀跋陀羅 譯 部別：小乘律 聲聞調伏藏 / 卷數：1 千字文：受"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxg",
+       "created": 1646116897374,
+       "text": "【崇寧藏】No.895《波羅提木叉僧祇戒本》 卷數：1 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxh",
+       "created": 1646116897374,
+       "text": "【毘盧藏】No.896《波羅提木叉僧祇戒本》東晉佛陀跋陀羅譯 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxi",
+       "created": 1646116897374,
+       "text": "【圓覺藏】No.904《波羅提木叉僧祇戒本》 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxj",
+       "created": 1646116897374,
+       "text": "【趙城金藏】No.905《摩訶僧祇律大比丘戒本》 卷數：1 千字文：隨"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxk",
+       "created": 1646116897374,
+       "text": "【資福藏】No.910《波羅提木叉僧祇戒本》 卷數：1 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxl",
+       "created": 1646116897374,
+       "text": "【磧砂藏】No.919《波羅提木叉僧祇戒本》晋 佛陀跋陀羅譯 部別： / 冊數：22 / 頁數：356 / 卷數：1 千字文：外 1 (337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxm",
+       "created": 1646116897374,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxn",
+       "created": 1646116897374,
+       "text": "【高麗藏】No.903《摩訶僧祗律大比丘戒本》東晉天竺三藏佛陀跋陀羅譯 部別：小乘律 / 冊數：23 頁數：715 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：隨"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxo",
+       "created": 1646116897374,
+       "text": "【普寧藏】No.911《波羅提木叉僧祇戒本》 卷數：1 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxp",
+       "created": 1646116897374,
+       "text": "【至元錄】No.1215《僧祇比丘戒本》東晉天竺三藏佛陀跋陀羅訶譯 卷數：1 千字文：離(376)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxq",
+       "created": 1646116897374,
+       "text": "【洪武南藏】No.821《波羅提木叉僧祗戒本》東晉 天竺三藏佛陀跋陀羅 譯 冊數：120 / 頁數：75 / 卷數：1 千字文：外 1 (337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxr",
+       "created": 1646116897374,
+       "text": "【永樂南藏】No.1254《波羅提木叉僧祇戒本》 部別：小乘律 千字文：貴(323)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxs",
+       "created": 1646116897374,
+       "text": "【永樂北藏】No.1200《波羅提木叉僧祇戒本》東晉佛陀跋陀羅譯 部別：小乘律 / 冊數：91 / 頁數：639 / 卷數：1 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxt",
+       "created": 1646116897374,
+       "text": "【嘉興藏】No.1152《波羅提木叉僧祇戒本》東晉佛陀跋陀羅譯 部別：小乘律 / 法寶總目錄經號：1151 千字文 / 函號：［正藏］ 外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxu",
+       "created": 1646116897374,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxv",
+       "created": 1646116897374,
+       "text": "【乾隆藏】No.1153《波羅提木叉僧祇戒本一卷》東晉 佛陀跋羅譯 部別：小乘律 / 冊數：75 / 頁數：539 / 卷數：1 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxw",
+       "created": 1646116897374,
+       "text": "【縮刻藏】No.813《摩訶僧祇律大比丘戒本》東晉佛陀跋陀羅譯 部別：小乘律 / 卷數：1 千字文：列 10 (15)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxx",
+       "created": 1646116897374,
+       "text": "【卍正藏】No.1164《摩訶僧祇律大比丘戒本》東晉 跋陀羅譯 部別：小乘律 / 冊數：36 / 頁數：517 / 卷數：1 原版套數：第 19 套"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxy",
+       "created": 1646116897374,
+       "text": "【大正藏】No.1426《摩訶僧祇律大比丘戒本》東晉 佛陀跋陀羅譯 部別：律部一 / 冊數：22 / 頁數：549 / 卷數：1 相關經典：縮-列10,卍-19.8 參考資料：cf.No.1425"
+      }},
+      {"data": {
+       "id": "z5cYxeIKxz",
+       "created": 1646116897374,
+       "text": "【佛教大藏經】No.847《摩訶僧祇律大比丘戒本》東晉 佛陀跋陀羅譯 部別：小乘律 律部二 / 冊數：30 / 頁數：977 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxeIKy0",
+       "created": 1646116897374,
+       "text": "【中華藏】No.984《摩訶僧祇律大比丘戒本》東晉天竺三藏佛陀跋陀羅譯 冊數：41 / 頁數：274 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxeIKy1",
+       "created": 1646116897374,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxeIKy2",
+       "created": 1646116897374,
+       "text": "【南條文雄編號】 Nj. 1159"
+      }},
+      {"data": {
+       "id": "z5cYxeIKy3",
+       "created": 1646116897374,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1426"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyzh172",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

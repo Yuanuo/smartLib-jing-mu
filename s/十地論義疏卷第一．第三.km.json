@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "十地論義疏卷第一．第三"},
+  "children": [{
+   "data": {
+    "id": "z5cYyZXbyp",
+    "created": 1646116900923,
+    "text": "現藏錄（北周 法上撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyZXbyA",
+      "created": 1646116900923,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyZXbyB",
+        "created": 1646116900923,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZXbyC",
+        "created": 1646116900923,
+        "text": "十地論義疏卷第一．第三",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyZXbyD",
+        "created": 1646116900923,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZXbyE",
+        "created": 1646116900923,
+        "text": "十地论义疏卷第一．第三",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyZXbyF",
+        "created": 1646116900923,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyZXbyG",
+        "created": 1646116900923,
+        "text": "shi di lun yi shu juan di yi ． di san"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyZXbyH",
+      "created": 1646116900923,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyZXbyI",
+      "created": 1646116900923,
+      "text": "北周",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyZXbyJ",
+      "created": 1646116900923,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyZXbyK",
+       "created": 1646116900923,
+       "text": "北周 法上撰"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyL",
+       "created": 1646116900923,
+       "text": "法上",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyZXbyM",
+      "created": 1646116900923,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyZXbyN",
+      "created": 1646116900923,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyZXbyO",
+      "created": 1646116900923,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyZXbyP",
+       "created": 1646116900923,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyQ",
+       "created": 1646116900923,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyR",
+       "created": 1646116900923,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyS",
+       "created": 1646116900923,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyT",
+       "created": 1646116900923,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyU",
+       "created": 1646116900923,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyV",
+       "created": 1646116900923,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyW",
+       "created": 1646116900923,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyX",
+       "created": 1646116900923,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyY",
+       "created": 1646116900923,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyZ",
+       "created": 1646116900923,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbya",
+       "created": 1646116900923,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyb",
+       "created": 1646116900923,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyc",
+       "created": 1646116900923,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyd",
+       "created": 1646116900923,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbye",
+       "created": 1646116900923,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyf",
+       "created": 1646116900923,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyg",
+       "created": 1646116900923,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyh",
+       "created": 1646116900923,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyi",
+       "created": 1646116900923,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyj",
+       "created": 1646116900923,
+       "text": "【大正藏】No.2799《十地論義疏卷第一．第三》北周 法上撰 部別：古逸部全 / 冊數：85 / 頁數：761 / 卷數：2 相關經典： 參考資料：cf.No.1522"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyk",
+       "created": 1646116900923,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyl",
+       "created": 1646116900923,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbym",
+       "created": 1646116900923,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyn",
+       "created": 1646116900923,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyZXbyo",
+       "created": 1646116900923,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2799"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1q32be",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

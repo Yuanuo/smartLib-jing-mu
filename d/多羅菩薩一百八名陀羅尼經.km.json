@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "聖多羅菩薩一百八名陀羅尼經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxPBGcA",
+    "created": 1646116896437,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxPBGbD",
+      "created": 1646116896437,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxPBGbE",
+        "created": 1646116896437,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPBGbF",
+        "created": 1646116896437,
+        "text": "聖多羅菩薩一百八名陀羅尼經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPBGbG",
+        "created": 1646116896437,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPBGbH",
+        "created": 1646116896437,
+        "text": "圣多罗菩萨一百八名陀罗尼经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPBGbI",
+        "created": 1646116896437,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPBGbJ",
+        "created": 1646116896437,
+        "text": "sheng duo luo pu sa yi bai ba ming tuo luo ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPBGbR",
+        "created": 1646116896437,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPBGbS",
+        "created": 1646116896437,
+        "text": "Sheng to lo p'u sa i pai pa ming t'o lo ni ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPBGbT",
+        "created": 1646116896437,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPBGbU",
+        "created": 1646116896437,
+        "text": "Tārādevīnāmāṣṭaśataka(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPBGbV",
+        "created": 1646116896437,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPBGbW",
+        "created": 1646116896437,
+        "text": "Lha-mo sgrol-maḥi mtshan brgya-rtsa-brgyad-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPBGbX",
+        "created": 1646116896437,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPBGbY",
+        "created": 1646116896437,
+        "text": "성다라보살일백팔명다라니경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPBGbK",
+      "created": 1646116896437,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPBGbL",
+      "created": 1646116896437,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPBGbM",
+      "created": 1646116896437,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPBGbN",
+       "created": 1646116896437,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbO",
+       "created": 1646116896437,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPBGbP",
+      "created": 1646116896437,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPBGbQ",
+      "created": 1646116896437,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPBGbZ",
+      "created": 1646116896437,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPBGba",
+      "created": 1646116896437,
+      "text": "Translation by Fa-t'ien: (see K.1091)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPBGbb",
+      "created": 1646116896437,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPBGbc",
+       "created": 1646116896437,
+       "text": "【北京版】Rgyud (tsa)76b-79b"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbd",
+       "created": 1646116896437,
+       "text": "【奈塘版】Rgyud (pha)483a-487b"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbe",
+       "created": 1646116896437,
+       "text": "【德格版】Rgyud-ḥbum (tsha)219a-222a"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbf",
+       "created": 1646116896437,
+       "text": "【拉薩版】Rgyud (pha)79a-83b"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbg",
+       "created": 1646116896437,
+       "text": "【卓尼版】Rgyud (tsa)86a-89a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPBGbh",
+      "created": 1646116896437,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPBGbi",
+      "created": 1646116896437,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPBGbj",
+      "created": 1646116896437,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPBGbk",
+       "created": 1646116896437,
+       "text": "【房山石經】No.896《聖多羅菩薩一百八名陀羅尼經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：26 / 頁數：126 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：時"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbl",
+       "created": 1646116896437,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbm",
+       "created": 1646116896437,
+       "text": "【崇寧藏】No.1129《聖多羅菩薩一百八名陀羅尼經》 卷數：1 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbn",
+       "created": 1646116896437,
+       "text": "【毘盧藏】No.1129《聖多羅菩薩一百八名陀羅尼經》三藏法天譯 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbo",
+       "created": 1646116896437,
+       "text": "【圓覺藏】No.1137《多羅菩薩一百八名陀羅尼經》 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbp",
+       "created": 1646116896437,
+       "text": "【趙城金藏】No.1132《聖多羅菩薩一百八名陀羅尼經》 卷數：1 千字文：經"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbq",
+       "created": 1646116896437,
+       "text": "【資福藏】No.1141《多羅菩薩一百八名陀羅尼經》 卷數：1 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbr",
+       "created": 1646116896437,
+       "text": "【磧砂藏】No.1152《聖多羅菩薩一百八名陀羅尼經》宋 法天譯 部別： / 冊數：32 / 頁數：664 / 卷數：1 千字文：卿 7 (496)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbs",
+       "created": 1646116896437,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbt",
+       "created": 1646116896437,
+       "text": "【高麗藏】No.1131《聖多羅菩薩一百八名陀羅尼經》西天譯經三藏法天譯 部別：宋續入藏經 / 冊數：33 頁數：1057 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：經"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbu",
+       "created": 1646116896437,
+       "text": "【普寧藏】No.1142《聖多羅菩薩一百八名陀羅尼經》 卷數：1 千字文：卿(496)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbv",
+       "created": 1646116896437,
+       "text": "【至元錄】No.710《聖多羅菩薩一百八名名陀羅尼經》宋西域三藏施護譯 卷數：1 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbw",
+       "created": 1646116896437,
+       "text": "【洪武南藏】No.1007《聖多羅菩薩一百八名陀羅尼經》三藏傳教大師臣法天 奉詔譯 冊數：179 / 頁數：482 / 卷數：1 千字文：卿 7 (496)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbx",
+       "created": 1646116896437,
+       "text": "【永樂南藏】No.808《多羅菩薩一百八名陀羅尼經》 部別：宋元入藏諸大小乘經 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGby",
+       "created": 1646116896437,
+       "text": "【永樂北藏】No.844《聖多羅菩薩一百八名陀羅尼經》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：631 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxPBGbz",
+       "created": 1646116896437,
+       "text": "【嘉興藏】No.807《聖多羅菩薩一百八名陀羅尼經》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0807 千字文 / 函號：［正藏］ 則(254)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc0",
+       "created": 1646116896437,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc1",
+       "created": 1646116896437,
+       "text": "【乾隆藏】No.808《聖多羅菩薩一百八名陀羅尼經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：26 / 卷數：1 千字文：則"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc2",
+       "created": 1646116896437,
+       "text": "【縮刻藏】No.1594《聖多羅菩薩一百八名陀羅尼經》宋法天譯 部別：祕密部 / 卷數：1 千字文：成 11 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc3",
+       "created": 1646116896437,
+       "text": "【卍正藏】No.817《聖多羅菩薩一百八名陀羅尼經》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：514 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc4",
+       "created": 1646116896437,
+       "text": "【大正藏】No.1105《聖多羅菩薩一百八名陀羅尼經》宋 法天譯 部別：密教部三 / 冊數：20 / 頁數：472 / 卷數：1 相關經典：縮-成11,卍-15.3 參考資料：cf.Nos.1106,1107"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc5",
+       "created": 1646116896437,
+       "text": "【佛教大藏經】No.1671《聖多羅菩薩一百八名陀羅尼經》宋 法天譯 部別：密教部六 / 冊數：57 / 頁數：847 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc6",
+       "created": 1646116896437,
+       "text": "【中華藏】No.1243《聖多羅菩薩一百八名陀羅尼經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師法天奉詔譯 冊數：63 / 頁數：1000 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc7",
+       "created": 1646116896437,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc8",
+       "created": 1646116896437,
+       "text": "【南條文雄編號】 Nj. 0813"
+      }},
+      {"data": {
+       "id": "z5cYxPBGc9",
+       "created": 1646116896437,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1105"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy9hxk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

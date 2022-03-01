@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "孔雀經音義"},
+  "children": [{
+   "data": {
+    "id": "z5cYyDjVog",
+    "created": 1646116899571,
+    "text": "現藏錄（日本 觀靜撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyDjVo1",
+      "created": 1646116899571,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyDjVo2",
+        "created": 1646116899571,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDjVo3",
+        "created": 1646116899571,
+        "text": "孔雀經音義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyDjVo4",
+        "created": 1646116899571,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDjVo5",
+        "created": 1646116899571,
+        "text": "孔雀经音义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyDjVo6",
+        "created": 1646116899571,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyDjVo7",
+        "created": 1646116899571,
+        "text": "kong que jing yin yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyDjVo8",
+      "created": 1646116899571,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyDjVo9",
+      "created": 1646116899571,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyDjVoA",
+      "created": 1646116899571,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyDjVoB",
+       "created": 1646116899571,
+       "text": "日本 觀靜撰"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoC",
+       "created": 1646116899571,
+       "text": "觀靜",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyDjVoD",
+      "created": 1646116899571,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyDjVoE",
+      "created": 1646116899571,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyDjVoF",
+      "created": 1646116899571,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyDjVoG",
+       "created": 1646116899571,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoH",
+       "created": 1646116899571,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoI",
+       "created": 1646116899571,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoJ",
+       "created": 1646116899571,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoK",
+       "created": 1646116899571,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoL",
+       "created": 1646116899571,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoM",
+       "created": 1646116899571,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoN",
+       "created": 1646116899571,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoO",
+       "created": 1646116899571,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoP",
+       "created": 1646116899571,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoQ",
+       "created": 1646116899571,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoR",
+       "created": 1646116899571,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoS",
+       "created": 1646116899571,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoT",
+       "created": 1646116899571,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoU",
+       "created": 1646116899571,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoV",
+       "created": 1646116899571,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoW",
+       "created": 1646116899571,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoX",
+       "created": 1646116899571,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoY",
+       "created": 1646116899571,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoZ",
+       "created": 1646116899571,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoa",
+       "created": 1646116899571,
+       "text": "【大正藏】No.2244《孔雀經音義》日本 觀靜撰 部別：續經疏部六 / 冊數：61 / 頁數：755 / 卷數：3 相關經典： 參考資料：cf.No.982"
+      }},
+      {"data": {
+       "id": "z5cYyDjVob",
+       "created": 1646116899571,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoc",
+       "created": 1646116899571,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVod",
+       "created": 1646116899571,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVoe",
+       "created": 1646116899571,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyDjVof",
+       "created": 1646116899571,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2244"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0oi1vk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

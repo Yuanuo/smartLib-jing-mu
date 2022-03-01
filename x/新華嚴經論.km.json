@@ -1,0 +1,337 @@
+{
+ "root": {
+  "data": {"text": "新華嚴經論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxthPSi",
+    "created": 1646116898329,
+    "text": "現藏錄（唐 李通玄撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxthPRp",
+      "created": 1646116898329,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxthPRq",
+        "created": 1646116898329,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxthPRr",
+        "created": 1646116898329,
+        "text": "新華嚴經論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxthPRs",
+        "created": 1646116898329,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxthPRt",
+        "created": 1646116898329,
+        "text": "新华严经论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxthPRu",
+        "created": 1646116898329,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxthPRv",
+        "created": 1646116898329,
+        "text": "xin hua yan jing lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxthPS5",
+        "created": 1646116898329,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxthPS6",
+        "created": 1646116898329,
+        "text": "Hsin hua yen ching lun"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxthPS7",
+       "created": 1646116898329,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxthPS8",
+        "created": 1646116898329,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxthPS9",
+        "created": 1646116898329,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxthPSA",
+        "created": 1646116898329,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxthPSB",
+        "created": 1646116898329,
+        "text": "신화엄경론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxthPRw",
+      "created": 1646116898329,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxthPRx",
+      "created": 1646116898329,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxthPRy",
+      "created": 1646116898329,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxthPRz",
+       "created": 1646116898329,
+       "text": "唐 李通玄撰"
+      }},
+      {"data": {
+       "id": "z5cYxthPS0",
+       "created": 1646116898329,
+       "text": "實叉難陀",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxthPS1",
+       "created": 1646116898329,
+       "text": "志寧釐經",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxthPS2",
+       "created": 1646116898329,
+       "text": "李通玄",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxthPS3",
+      "created": 1646116898329,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxthPS4",
+      "created": 1646116898329,
+      "text": "40"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxthPSC",
+      "created": 1646116898329,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxthPSD",
+      "created": 1646116898329,
+      "text": "Hōbōgirin p. 146b."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxthPSE",
+     "created": 1646116898329,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxthPSF",
+      "created": 1646116898329,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxthPSG",
+      "created": 1646116898329,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxthPSH",
+      "created": 1646116898329,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxthPSI",
+       "created": 1646116898329,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSJ",
+       "created": 1646116898329,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSK",
+       "created": 1646116898329,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSL",
+       "created": 1646116898329,
+       "text": "【毘盧藏】No.1440《大方廣佛華嚴經合論》于闐三藏實叉難陀譯　李通玄論　僧志寧插 參考年代：(紹聖二．六) 千字文：會(583)-翦(594)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSM",
+       "created": 1646116898329,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSN",
+       "created": 1646116898329,
+       "text": "【趙城金藏】No.1495《大方廣佛華嚴經合論》 卷數：120 千字文：踐-刑"
+      }},
+      {"data": {
+       "id": "z5cYxthPSO",
+       "created": 1646116898329,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSP",
+       "created": 1646116898329,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSQ",
+       "created": 1646116898329,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSR",
+       "created": 1646116898329,
+       "text": "【高麗藏】No.1263《新華嚴經論》長者李通玄撰 部別：宋續入藏經 / 冊數：36 頁數：230 / 卷數：40 / 連結：高麗大藏經 (圖檔) 千字文：勒-銘"
+      }},
+      {"data": {
+       "id": "z5cYxthPSS",
+       "created": 1646116898329,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPST",
+       "created": 1646116898329,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSU",
+       "created": 1646116898329,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSV",
+       "created": 1646116898329,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSW",
+       "created": 1646116898329,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSX",
+       "created": 1646116898329,
+       "text": "【嘉興藏】No.1657《華嚴經合論》唐釋實叉難陀譯經-李通玄造論-釋志寧合論 部別：續藏 / 法寶總目錄經號：1656 千字文 / 函號：［續藏］ 9-11 函"
+      }},
+      {"data": {
+       "id": "z5cYxthPSY",
+       "created": 1646116898329,
+       "text": "【嘉興藏新文豐版】［續藏］No.2《大方廣佛新華嚴經合論》志寧釐經合論 冊數：13 / 頁數：1 / 卷數：120"
+      }},
+      {"data": {
+       "id": "z5cYxthPSZ",
+       "created": 1646116898329,
+       "text": "【乾隆藏】No.1545《大方廣佛華嚴經論》唐 李通玄造 部別：此土著述 / 冊數：127-128 / 頁數：227 / 卷數：49 千字文：乂-士"
+      }},
+      {"data": {
+       "id": "z5cYxthPSa",
+       "created": 1646116898329,
+       "text": "【縮刻藏】No.1684《新華嚴經論》唐李通玄撰 部別：支那撰述-經疏部 / 卷數：40 千字文：律 6 (29)-律 8 (29)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSb",
+       "created": 1646116898329,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSc",
+       "created": 1646116898329,
+       "text": "【大正藏】No.1739《新華嚴經論》唐 李通玄撰 部別：經疏部四 / 冊數：36 / 頁數：721 / 卷數：40 相關經典：縮-律6-8,續-1.5.5 參考資料：cf.No.279"
+      }},
+      {"data": {
+       "id": "z5cYxthPSd",
+       "created": 1646116898329,
+       "text": "【佛教大藏經】No.1853《新華嚴經論》唐 李通玄撰 部別：經疏部四 / 冊數：62 / 頁數：1 / 卷數：40"
+      }},
+      {"data": {
+       "id": "z5cYxthPSe",
+       "created": 1646116898329,
+       "text": "【中華藏】No.1650《大方廣佛華嚴經合論》唐于闐國三藏沙門實叉難陀譯經，唐太原方山長者李通玄造論，唐福州開元寺沙門志寧釐經合論 冊數：70 / 頁數：1 / 卷數：120 / 底本：金藏廣勝寺本 徑山藏本"
+      }},
+      {"data": {
+       "id": "z5cYxthPSf",
+       "created": 1646116898329,
+       "text": "【新纂卍續藏】No.223《華嚴經合論》唐 李通玄造論　志寧釐經合論 部別：中國撰述 大小乘釋經部二 華嚴部疏 / 冊數：4 / 頁數：4 / 卷數：120 《卍大日本續藏經》套數：第一編．第 7 套 《卍續藏經》(新文豐版)冊數：第 7 冊"
+      }},
+      {"data": {
+       "id": "z5cYxthPSg",
+       "created": 1646116898329,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxthPSh",
+       "created": 1646116898329,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1739"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzq11g0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "淨名玄論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxvDPwf",
+    "created": 1646116898423,
+    "text": "現藏錄（隋 吉藏造）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxvCPw0",
+      "created": 1646116898422,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxvCPw1",
+        "created": 1646116898422,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvCPw2",
+        "created": 1646116898422,
+        "text": "淨名玄論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxvCPw3",
+        "created": 1646116898422,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvCPw4",
+        "created": 1646116898422,
+        "text": "净名玄论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxvCPw5",
+        "created": 1646116898422,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxvCPw6",
+        "created": 1646116898422,
+        "text": "jing ming xuan lun"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxvCPw7",
+      "created": 1646116898422,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxvCPw8",
+      "created": 1646116898422,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxvCPw9",
+      "created": 1646116898422,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxvCPwA",
+       "created": 1646116898422,
+       "text": "隋 吉藏造"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwB",
+       "created": 1646116898422,
+       "text": "吉藏",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxvCPwC",
+      "created": 1646116898422,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxvCPwD",
+      "created": 1646116898422,
+      "text": "8"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxvCPwE",
+      "created": 1646116898422,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxvCPwF",
+       "created": 1646116898422,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwG",
+       "created": 1646116898422,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwH",
+       "created": 1646116898422,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwI",
+       "created": 1646116898422,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwJ",
+       "created": 1646116898422,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwK",
+       "created": 1646116898422,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwL",
+       "created": 1646116898422,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwM",
+       "created": 1646116898422,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwN",
+       "created": 1646116898422,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwO",
+       "created": 1646116898422,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwP",
+       "created": 1646116898422,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwQ",
+       "created": 1646116898422,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwR",
+       "created": 1646116898422,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwS",
+       "created": 1646116898422,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwT",
+       "created": 1646116898422,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwU",
+       "created": 1646116898422,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwV",
+       "created": 1646116898422,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwW",
+       "created": 1646116898422,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwX",
+       "created": 1646116898422,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwY",
+       "created": 1646116898422,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwZ",
+       "created": 1646116898422,
+       "text": "【大正藏】No.1780《淨名玄論》隋 吉藏造 部別：經疏部六 / 冊數：38 / 頁數：853 / 卷數：8 相關經典：續-1.28.5 參考資料：cf.Nos.475,1781"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwa",
+       "created": 1646116898422,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwb",
+       "created": 1646116898422,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwc",
+       "created": 1646116898422,
+       "text": "【新纂卍續藏】No.341《淨名玄論》隋 吉藏造 部別：中國撰述 大小乘釋經部十七 方等部疏 / 冊數：19 / 頁數：1 / 卷數：8 《卍大日本續藏經》套數：第一編．第 28 套 《卍續藏經》(新文豐版)冊數：第 28 冊"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwd",
+       "created": 1646116898422,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxvCPwe",
+       "created": 1646116898422,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1780"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzsm1h8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

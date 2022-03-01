@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說老母女六英經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwz48po",
+    "created": 1646116894818,
+    "text": "現藏錄（劉宋 求那跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwz38ow",
+      "created": 1646116894817,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwz38ox",
+        "created": 1646116894817,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwz38oy",
+        "created": 1646116894817,
+        "text": "佛說老母女六英經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwz38oz",
+        "created": 1646116894817,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwz38p0",
+        "created": 1646116894817,
+        "text": "佛说老母女六英经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwz38p1",
+        "created": 1646116894817,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwz38p2",
+        "created": 1646116894817,
+        "text": "fo shuo lao mu nv liu ying jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwz38pA",
+        "created": 1646116894817,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwz38pB",
+        "created": 1646116894817,
+        "text": "Lao mu ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwz48pC",
+        "created": 1646116894818,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwz48pD",
+        "created": 1646116894818,
+        "text": "Mahālalikāparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwz48pE",
+        "created": 1646116894818,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwz48pF",
+        "created": 1646116894818,
+        "text": "Bgres-mos shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwz48pG",
+        "created": 1646116894818,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwz48pH",
+        "created": 1646116894818,
+        "text": "노모녀육영경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwz38p3",
+      "created": 1646116894817,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwz38p4",
+      "created": 1646116894817,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwz38p5",
+      "created": 1646116894817,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwz38p6",
+       "created": 1646116894817,
+       "text": "劉宋 求那跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwz38p7",
+       "created": 1646116894817,
+       "text": "求那跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwz38p8",
+      "created": 1646116894817,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwz38p9",
+      "created": 1646116894817,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwz48pI",
+      "created": 1646116894818,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwz48pJ",
+      "created": 1646116894818,
+      "text": "Lao mu ching (老母經) in this reference."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwz48pK",
+     "created": 1646116894818,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwz48pL",
+      "created": 1646116894818,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwz48pM",
+      "created": 1646116894818,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwz48pN",
+      "created": 1646116894818,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwz48pO",
+       "created": 1646116894818,
+       "text": "【房山石經】No.447《佛說老母女六英經》(劉宋)天竺三藏求那跋陀羅譯 冊數：10 / 頁數：421 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwz48pP",
+       "created": 1646116894818,
+       "text": "【開寶藏】No.219《老母女六英經》劉宋 天竺三藏求那跋陀羅 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwz48pQ",
+       "created": 1646116894818,
+       "text": "【崇寧藏】No.220《佛說老母女六英經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pR",
+       "created": 1646116894818,
+       "text": "【毘盧藏】No.216《老母女六英經》宋求那跋陀羅譯 參考年代：(靖康元．七) 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pS",
+       "created": 1646116894818,
+       "text": "【圓覺藏】No.229《老母女六英經》 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pT",
+       "created": 1646116894818,
+       "text": "【趙城金藏】No.218《老母六英經》 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwz48pU",
+       "created": 1646116894818,
+       "text": "【資福藏】No.233《老母女六英經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pV",
+       "created": 1646116894818,
+       "text": "【磧砂藏】No.234《佛說老母女六英經》宋 求那跋陀羅譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：119 / 卷數：1 千字文：毀 2 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pW",
+       "created": 1646116894818,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pX",
+       "created": 1646116894818,
+       "text": "【高麗藏】No.218《老母女六英經》宋天竺三藏求那跋陀羅譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：397 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwz48pY",
+       "created": 1646116894818,
+       "text": "【普寧藏】No.228《佛說老母女六英經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pZ",
+       "created": 1646116894818,
+       "text": "【至元錄】No.296《老母女六英經》宋天竺三藏求那跋陀羅譯 卷數：1 / 譯次：(第三譯) 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pa",
+       "created": 1646116894818,
+       "text": "【洪武南藏】No.201《佛說老母女六英經》劉宋 天竺三藏法師求那跋陀羅 第三譯 冊數：54 / 頁數：190 / 卷數：1 千字文：毀 2 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pb",
+       "created": 1646116894818,
+       "text": "【永樂南藏】No.230《老母女六英經》 部別：大乘經-五大部外重譯經 千字文：男(165)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pc",
+       "created": 1646116894818,
+       "text": "【永樂北藏】No.250《佛說老母女六英經》劉宋求那跋陀羅譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：357 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYwz48pd",
+       "created": 1646116894818,
+       "text": "【嘉興藏】No.221《老母女六英經》劉宋求那跋陀羅譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0221 千字文 / 函號：［正藏］ 潔(164)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pe",
+       "created": 1646116894818,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pf",
+       "created": 1646116894818,
+       "text": "【乾隆藏】No.222《佛說老母女六英經》劉宋 求那跋陀羅譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：170 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYwz48pg",
+       "created": 1646116894818,
+       "text": "【縮刻藏】No.153《佛說老母女六英經》宋求那跋陀羅譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 5 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwz48ph",
+       "created": 1646116894818,
+       "text": "【卍正藏】No.225《佛說老母女六英經》宋 求那跋陀羅譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：931 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwz48pi",
+       "created": 1646116894818,
+       "text": "【大正藏】No.560《佛說老母女六英經》劉宋 求那跋陀羅譯 部別：經集部一 / 冊數：14 / 頁數：912 / 卷數：1 相關經典：縮-黃5,卍-10.5 參考資料：Nos.559,561"
+      }},
+      {"data": {
+       "id": "z5cYwz48pj",
+       "created": 1646116894818,
+       "text": "【佛教大藏經】No.155《佛說老母女六英經》劉宋 求那跋陀羅譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：889 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwz48pk",
+       "created": 1646116894818,
+       "text": "【中華藏】No.235《佛說母老六英經》宋天竺三藏求那跋陀羅譯 冊數：19 / 頁數：54 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwz48pl",
+       "created": 1646116894818,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwz48pm",
+       "created": 1646116894818,
+       "text": "【南條文雄編號】 Nj. 0226"
+      }},
+      {"data": {
+       "id": "z5cYwz48pn",
+       "created": 1646116894818,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：560"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx0ghk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

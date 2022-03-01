@@ -1,0 +1,980 @@
+{
+ "root": {
+  "data": {"text": "月燈三昧經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx2W9yI",
+     "created": 1646116895032,
+     "text": "現藏錄（高齊 那連提耶舍譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx2V9xL",
+       "created": 1646116895031,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx2V9xM",
+         "created": 1646116895031,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2V9xN",
+         "created": 1646116895031,
+         "text": "月燈三昧經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2V9xO",
+         "created": 1646116895031,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2V9xP",
+         "created": 1646116895031,
+         "text": "月灯三昧经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2V9xQ",
+         "created": 1646116895031,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2V9xR",
+         "created": 1646116895031,
+         "text": "yue deng san mei jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2W9xZ",
+         "created": 1646116895032,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2W9xa",
+         "created": 1646116895032,
+         "text": "Yüeh teng san mei ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2W9xb",
+         "created": 1646116895032,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2W9xc",
+         "created": 1646116895032,
+         "text": "Samādhirāja(candrapradīpa)sūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2W9xd",
+         "created": 1646116895032,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2W9xe",
+         "created": 1646116895032,
+         "text": "Chos thams-cad-kyi raṅ-bshiṅ mñam-pa-ñid rnam-par-spros pa tiṅ-ṅe-ḥdsin-gyi rgyal-po"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2W9xf",
+         "created": 1646116895032,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2W9xg",
+         "created": 1646116895032,
+         "text": "월등삼매경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx2V9xS",
+       "created": 1646116895031,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2V9xT",
+       "created": 1646116895031,
+       "text": "高齊",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2V9xU",
+       "created": 1646116895031,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx2V9xV",
+        "created": 1646116895031,
+        "text": "高齊 那連提耶舍譯"
+       }},
+       {"data": {
+        "id": "z5cYx2V9xW",
+        "created": 1646116895031,
+        "text": "那連提舍",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx2V9xX",
+       "created": 1646116895031,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2W9xY",
+       "created": 1646116895032,
+       "text": "10"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2W9xh",
+       "created": 1646116895032,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2W9xi",
+       "created": 1646116895032,
+       "text": "Translation by Narendrayaśas: 8th year of T'ien Pao (天保), Kao Ch'i dynasty (高齊) (A.D. 557) in T'ien-p'ing Monastery (天平寺), Shang-chou (相州).T.2153-399a:10; T. 2149-270c:7."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2W9xj",
+       "created": 1646116895032,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx2W9xk",
+        "created": 1646116895032,
+        "text": "【北京版】Mdo-sna-tshogs (thu)1-185a"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xl",
+        "created": 1646116895032,
+        "text": "【奈塘版】Mdo (ta)1b-273b"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xm",
+        "created": 1646116895032,
+        "text": "【德格版】Mdo-sde (da)1b-170b"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xn",
+        "created": 1646116895032,
+        "text": "【拉薩版】Mdo (to)1b-269b"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xo",
+        "created": 1646116895032,
+        "text": "【卓尼版】Mdo-maṅ (da)1b-200a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx2W9xp",
+       "created": 1646116895032,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2W9xq",
+       "created": 1646116895032,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2W9xr",
+       "created": 1646116895032,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx2W9xs",
+        "created": 1646116895032,
+        "text": "【房山石經】No.432《月燈三昧經》(高齊)天竺三藏那連提耶舍譯 冊數：10 / 頁數：320 / 卷數：11 / 刻經年代：大安四年刻石 / 瀏覽：目錄圖檔 千字文：養"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xt",
+        "created": 1646116895032,
+        "text": "【開寶藏】No.182《月燈三昧經》高齊 天竺三藏那連提耶舍 譯 部別：大乘經 五大部外諸重譯經 / 卷數：10 千字文：惟"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xu",
+        "created": 1646116895032,
+        "text": "【崇寧藏】No.183《月燈三昧經》 卷數：11 千字文：鞠(155)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xv",
+        "created": 1646116895032,
+        "text": "【毘盧藏】No.179《月燈三昧經》高齊那連提耶舍譯 參考年代：(元豊八．五)(靖康元．九、十) 千字文：鞠(155)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xw",
+        "created": 1646116895032,
+        "text": "【圓覺藏】No.191《月燈三昧經》 卷數：10 千字文：鞠(155)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xx",
+        "created": 1646116895032,
+        "text": "【趙城金藏】No.181《月燈三昧經》 卷數：10 千字文：惟"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xy",
+        "created": 1646116895032,
+        "text": "【資福藏】No.195《月燈三昧經》 卷數：11 (十一卷) 千字文：鞠(155)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9xz",
+        "created": 1646116895032,
+        "text": "【磧砂藏】No.195《月燈三昧經》高齊 那連提耶舍譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：752 / 卷數：11 千字文：鞠 1 (155)-鞠 11 (155)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y0",
+        "created": 1646116895032,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y1",
+        "created": 1646116895032,
+        "text": "【高麗藏】No.181《月燈三昧經》高齊天竺三藏那連提耶舍譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：1 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：惟"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y2",
+        "created": 1646116895032,
+        "text": "【普寧藏】No.190《月燈三昧經》 卷數：11 千字文：鞠(155)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y3",
+        "created": 1646116895032,
+        "text": "【至元錄】No.261《月燈三昧經》高齊天竺三藏那連提耶舍譯 卷數：10 千字文：才(167)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y4",
+        "created": 1646116895032,
+        "text": "【洪武南藏】No.176《月燈三昧經》高齊 天竺三藏法師那連提黎那捨 譯 冊數：52-53 / 頁數：518 / 卷數：11 千字文：鞠 1 (155)-鞠 11 (155)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y5",
+        "created": 1646116895032,
+        "text": "【永樂南藏】No.184《月登三昧經》 部別：大乘經-五大部外重譯經 千字文：女(161)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y6",
+        "created": 1646116895032,
+        "text": "【永樂北藏】No.215《月燈三昧經》高齊那連提黎耶舍譯 部別：大乘經五大部外重譯經 / 冊數：42 / 頁數：325 / 卷數：11 千字文：女"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y7",
+        "created": 1646116895032,
+        "text": "【嘉興藏】No.186《月燈三昧經》高齊那連提黎耶舍譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0186 千字文 / 函號：［正藏］ 女(161)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y8",
+        "created": 1646116895032,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9y9",
+        "created": 1646116895032,
+        "text": "【乾隆藏】No.187《月燈三昧經》高齊 那連提黎耶舍譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：329 / 卷數：11 千字文：女"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yA",
+        "created": 1646116895032,
+        "text": "【縮刻藏】No.112《月燈三昧經》高齊那連提耶舍譯 部別：大乘經-方等部 / 卷數：10 千字文：玄 10 (3)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yB",
+        "created": 1646116895032,
+        "text": "【卍正藏】No.189《月燈三昧經》高齊 那連提耶舍譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：507 / 卷數：10 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yC",
+        "created": 1646116895032,
+        "text": "【大正藏】No.639《月燈三昧經》高齊 那連提耶舍譯 部別：經集部二 / 冊數：15 / 頁數：549 / 卷數：10 相關經典：縮-玄10,卍-10.3,國-經1 參考資料：cf.No.640"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yD",
+        "created": 1646116895032,
+        "text": "【佛教大藏經】No.113《月燈三昧經》高齊 那連提耶舍譯 部別：大乘經 方等部四 / 冊數：6 / 頁數：723 / 卷數：10"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yE",
+        "created": 1646116895032,
+        "text": "【中華藏】No.191《月燈三昧經》高齊天竺三藏那連提耶舍譯 冊數：18 / 頁數：443 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yF",
+        "created": 1646116895032,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yG",
+        "created": 1646116895032,
+        "text": "【南條文雄編號】 Nj. 0191"
+       }},
+       {"data": {
+        "id": "z5cYx2W9yH",
+        "created": 1646116895032,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：639"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYx2Z9zA",
+     "created": 1646116895035,
+     "text": "現藏錄（劉宋 先公譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx2Y9yJ",
+       "created": 1646116895034,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx2Y9yK",
+         "created": 1646116895034,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2Y9yL",
+         "created": 1646116895034,
+         "text": "佛說月燈三昧經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2Y9yM",
+         "created": 1646116895034,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2Y9yN",
+         "created": 1646116895034,
+         "text": "佛说月灯三昧经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2Y9yO",
+         "created": 1646116895034,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2Y9yP",
+         "created": 1646116895034,
+         "text": "fo shuo yue deng san mei jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2Y9yX",
+         "created": 1646116895034,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2Y9yY",
+         "created": 1646116895034,
+         "text": "Yüeh teng san mei ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYx2Y9yZ",
+        "created": 1646116895034,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYx2Y9ya",
+         "created": 1646116895034,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2Y9yb",
+         "created": 1646116895034,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2Y9yc",
+         "created": 1646116895034,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2Y9yd",
+         "created": 1646116895034,
+         "text": "월등삼매경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx2Y9yQ",
+       "created": 1646116895034,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2Y9yR",
+       "created": 1646116895034,
+       "text": "劉宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2Y9yS",
+       "created": 1646116895034,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx2Y9yT",
+        "created": 1646116895034,
+        "text": "劉宋 先公譯"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yU",
+        "created": 1646116895034,
+        "text": "先公",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx2Y9yV",
+       "created": 1646116895034,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2Y9yW",
+       "created": 1646116895034,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2Y9ye",
+       "created": 1646116895034,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2Y9yf",
+       "created": 1646116895034,
+       "text": "Translation by Hsien-kung: Liu Sung dynasty (劉宋) (A.D. 320-479).T. 2154-532c:2."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYx2Y9yg",
+      "created": 1646116895034,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYx2Y9yh",
+       "created": 1646116895034,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2Y9yi",
+       "created": 1646116895034,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2Y9yj",
+       "created": 1646116895034,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx2Y9yk",
+        "created": 1646116895034,
+        "text": "【房山石經】No.244《佛說月燈三昧經》(宋)沙門先公譯 冊數：3 / 頁數：554 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yl",
+        "created": 1646116895034,
+        "text": "【開寶藏】No.183《月燈三昧經》劉宋 沙門釋先公 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9ym",
+        "created": 1646116895034,
+        "text": "【崇寧藏】No.184《月燈三昧經》 卷數：1 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yn",
+        "created": 1646116895034,
+        "text": "【毘盧藏】No.180《月燈三昧經》宋釋先公譯 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yo",
+        "created": 1646116895034,
+        "text": "【圓覺藏】No.192《月燈三昧經》 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yp",
+        "created": 1646116895034,
+        "text": "【趙城金藏】No.182《月燈三昧經》 卷數：1 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yq",
+        "created": 1646116895034,
+        "text": "【資福藏】No.196《月燈三昧經》 卷數：1 (一) 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yr",
+        "created": 1646116895034,
+        "text": "【磧砂藏】No.196《月燈三昧經》宋 先公譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：817 / 卷數：1 千字文：養 1 (156)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9ys",
+        "created": 1646116895034,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yt",
+        "created": 1646116895034,
+        "text": "【高麗藏】No.183《月燈三昧經》宋沙門釋先公譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：101 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yu",
+        "created": 1646116895034,
+        "text": "【普寧藏】No.191《月燈三昧經》 卷數：1 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yv",
+        "created": 1646116895034,
+        "text": "【至元錄】No.262《月燈三昧經》宋沙門先公譯 卷數：1 / 出處：(第二別譯) 千字文：良(168)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yw",
+        "created": 1646116895034,
+        "text": "【洪武南藏】No.177《月燈三昧經》劉宋 沙門釋先公 譯 冊數：53 / 頁數：188 / 卷數：1 千字文：養 1 (156)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yx",
+        "created": 1646116895034,
+        "text": "【永樂南藏】No.185《月登三昧經》 部別：大乘經-五大部外重譯經 千字文：慕(162)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yy",
+        "created": 1646116895034,
+        "text": "【永樂北藏】No.216《月燈三昧經》劉宋先公譯 部別：大乘經五大部外重譯經 / 冊數：42 / 頁數：623 / 卷數：1 千字文：慕"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9yz",
+        "created": 1646116895034,
+        "text": "【嘉興藏】No.187《月燈三昧經》劉宋先公譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0187 千字文 / 函號：［正藏］ 慕(162)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z0",
+        "created": 1646116895034,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z1",
+        "created": 1646116895034,
+        "text": "【乾隆藏】No.188《月燈三昧經》劉宋 釋先公譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：523 / 卷數：1 千字文：慕"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z2",
+        "created": 1646116895034,
+        "text": "【縮刻藏】No.113《佛說月燈三昧經》宋先公譯 部別：大乘經-方等部 / 卷數：1 千字文：玄 10 (3)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z3",
+        "created": 1646116895034,
+        "text": "【卍正藏】No.191《佛說月燈三昧經》宋 先公譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：649 / 卷數：1 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z4",
+        "created": 1646116895034,
+        "text": "【大正藏】No.640《佛說月燈三昧經》劉宋 先公譯 部別：經集部二 / 冊數：15 / 頁數：620 / 卷數：1 相關經典：縮-玄10,卍-10.4 參考資料：No.639(Fasc.6)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z5",
+        "created": 1646116895034,
+        "text": "【佛教大藏經】No.114《佛說月燈三昧經》宋 先公譯 部別：大乘經 方等部四 / 冊數：6 / 頁數：838 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z6",
+        "created": 1646116895034,
+        "text": "【中華藏】No.192《佛說月燈三昧經》宋沙門先公譯 冊數：18 / 頁數：560 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z7",
+        "created": 1646116895034,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z8",
+        "created": 1646116895034,
+        "text": "【南條文雄編號】 Nj. 0192"
+       }},
+       {"data": {
+        "id": "z5cYx2Y9z9",
+        "created": 1646116895034,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：640"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYx2cA02",
+     "created": 1646116895038,
+     "text": "現藏錄（劉宋 先公譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx2b9zB",
+       "created": 1646116895037,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx2b9zC",
+         "created": 1646116895037,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2b9zD",
+         "created": 1646116895037,
+         "text": "佛說月燈三昧經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2b9zE",
+         "created": 1646116895037,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2b9zF",
+         "created": 1646116895037,
+         "text": "佛说月灯三昧经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2b9zG",
+         "created": 1646116895037,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2b9zH",
+         "created": 1646116895037,
+         "text": "fo shuo yue deng san mei jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2b9zP",
+         "created": 1646116895037,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2b9zQ",
+         "created": 1646116895037,
+         "text": "Yüeh teng san mei ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYx2b9zR",
+        "created": 1646116895037,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYx2b9zS",
+         "created": 1646116895037,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2b9zT",
+         "created": 1646116895037,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx2b9zU",
+         "created": 1646116895037,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx2b9zV",
+         "created": 1646116895037,
+         "text": "월등삼매경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx2b9zI",
+       "created": 1646116895037,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2b9zJ",
+       "created": 1646116895037,
+       "text": "劉宋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2b9zK",
+       "created": 1646116895037,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx2b9zL",
+        "created": 1646116895037,
+        "text": "劉宋 先公譯"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zM",
+        "created": 1646116895037,
+        "text": "先公"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx2b9zN",
+       "created": 1646116895037,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2b9zO",
+       "created": 1646116895037,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2b9zW",
+       "created": 1646116895037,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2b9zX",
+       "created": 1646116895037,
+       "text": "Translation by Hsien-kung: Liu Sung dynasty (A.D. 420-479).T. 2154-532c:2."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYx2b9zY",
+      "created": 1646116895037,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYx2b9zZ",
+       "created": 1646116895037,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx2b9za",
+       "created": 1646116895037,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx2b9zb",
+       "created": 1646116895037,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx2b9zc",
+        "created": 1646116895037,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zd",
+        "created": 1646116895037,
+        "text": "【開寶藏】No.184《月燈三昧經》劉宋 沙門釋先公 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx2b9ze",
+        "created": 1646116895037,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zf",
+        "created": 1646116895037,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zg",
+        "created": 1646116895037,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zh",
+        "created": 1646116895037,
+        "text": "【趙城金藏】No.183《月燈三昧經》 卷數：1 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zi",
+        "created": 1646116895037,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zj",
+        "created": 1646116895037,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zk",
+        "created": 1646116895037,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zl",
+        "created": 1646116895037,
+        "text": "【高麗藏】No.182《月燈三昧經》宋沙門釋先公譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：91 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zm",
+        "created": 1646116895037,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zn",
+        "created": 1646116895037,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zo",
+        "created": 1646116895037,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zp",
+        "created": 1646116895037,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zq",
+        "created": 1646116895037,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zr",
+        "created": 1646116895037,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zs",
+        "created": 1646116895037,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zt",
+        "created": 1646116895037,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zu",
+        "created": 1646116895037,
+        "text": "【縮刻藏】No.114《佛說月燈三昧經》宋先公譯 部別：大乘經-方等部 / 卷數：1 千字文：玄 10 (3)"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zv",
+        "created": 1646116895037,
+        "text": "【卍正藏】No.190《佛說月燈三昧經》宋 釋先公譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：640 / 卷數：1 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zw",
+        "created": 1646116895037,
+        "text": "【大正藏】No.641《佛說月燈三昧經》劉宋 先公譯 部別：經集部二 / 冊數：15 / 頁數：623 / 卷數：1 相關經典：縮-玄10,卍-10.4 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYx2b9zx",
+        "created": 1646116895037,
+        "text": "【佛教大藏經】No.115《佛說月燈三昧經》宋 先公譯 部別：大乘經 方等部四 / 冊數：6 / 頁數：847 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zy",
+        "created": 1646116895037,
+        "text": "【中華藏】No.193《佛說月燈三昧經》宋沙門釋先公譯 冊數：18 / 頁數：566 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYx2b9zz",
+        "created": 1646116895037,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2bA00",
+        "created": 1646116895037,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx2bA01",
+        "created": 1646116895037,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：641"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx6fjr",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

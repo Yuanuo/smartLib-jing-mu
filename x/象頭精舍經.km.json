@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說象頭精舍經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwte7T8",
+    "created": 1646116894482,
+    "text": "現藏錄（隋 毘尼多流支譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwtd7SG",
+      "created": 1646116894481,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwtd7SH",
+        "created": 1646116894481,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtd7SI",
+        "created": 1646116894481,
+        "text": "佛說象頭精舍經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtd7SJ",
+        "created": 1646116894481,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtd7SK",
+        "created": 1646116894481,
+        "text": "佛说象头精舍经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtd7SL",
+        "created": 1646116894481,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtd7SM",
+        "created": 1646116894481,
+        "text": "fo shuo xiang tou jing she jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwte7SU",
+        "created": 1646116894482,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwte7SV",
+        "created": 1646116894482,
+        "text": "Hsiang t'ou ching she ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwte7SW",
+        "created": 1646116894482,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwte7SX",
+        "created": 1646116894482,
+        "text": "Gayāśīrṣasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwte7SY",
+        "created": 1646116894482,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwte7SZ",
+        "created": 1646116894482,
+        "text": "Ga-ya mgoḥi ri"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwte7Sa",
+        "created": 1646116894482,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwte7Sb",
+        "created": 1646116894482,
+        "text": "상두정사경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwte7SN",
+      "created": 1646116894482,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwte7SO",
+      "created": 1646116894482,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwte7SP",
+      "created": 1646116894482,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwte7SQ",
+       "created": 1646116894482,
+       "text": "隋 毘尼多流支譯"
+      }},
+      {"data": {
+       "id": "z5cYwte7SR",
+       "created": 1646116894482,
+       "text": "毗尼多流支",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwte7SS",
+      "created": 1646116894482,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwte7ST",
+      "created": 1646116894482,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwte7Sc",
+      "created": 1646116894482,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwte7Sd",
+      "created": 1646116894482,
+      "text": "Translation by Vinītaruci: 2nd month, 2nd year of K'ai Huang (開皇), Sui dynasty (隋) (A.D. 582) in Ta-hsing-shan Monastery (大興善寺).T.2149-275a:12; T.2151-366b:3."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwte7Se",
+     "created": 1646116894482,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwte7Sf",
+      "created": 1646116894482,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwte7Sg",
+      "created": 1646116894482,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwte7Sh",
+      "created": 1646116894482,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwte7Si",
+       "created": 1646116894482,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sj",
+       "created": 1646116894482,
+       "text": "【開寶藏】No.225《象頭精舍經》隋 天竺沙門毗尼多流支 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sk",
+       "created": 1646116894482,
+       "text": "【崇寧藏】No.226《佛說象頭精舍經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sl",
+       "created": 1646116894482,
+       "text": "【毘盧藏】No.222《象頭精舍經》元魏菩提流支譯 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sm",
+       "created": 1646116894482,
+       "text": "【圓覺藏】No.240《象頭精舍經》 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sn",
+       "created": 1646116894482,
+       "text": "【趙城金藏】No.224《象頭精舍經》 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwte7So",
+       "created": 1646116894482,
+       "text": "【資福藏】No.244《象頭精舍經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sp",
+       "created": 1646116894482,
+       "text": "【磧砂藏】No.245《象頭精舍經》隋 毗尼多流支譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：134 / 卷數：1 千字文：毀 6 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sq",
+       "created": 1646116894482,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sr",
+       "created": 1646116894482,
+       "text": "【高麗藏】No.224《象頭精舍經》隋天竺三藏毘尼多流支譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：429 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwte7Ss",
+       "created": 1646116894482,
+       "text": "【普寧藏】No.239《佛說象頭精舍經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYwte7St",
+       "created": 1646116894482,
+       "text": "【至元錄】No.302《象頭精舍經》隋天竺沙門毘尼多流支譯 卷數：1 / 譯次：(第三譯) 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Su",
+       "created": 1646116894482,
+       "text": "【洪武南藏】No.212《象頭精捨經》隋 天竺沙門毗尼多流支 第二譯 冊數：54 / 頁數：255 / 卷數：1 千字文：毀 6 (159)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sv",
+       "created": 1646116894482,
+       "text": "【永樂南藏】No.234《佛說象頭精舍經》 部別：大乘經-五大部外重譯經 千字文：男(165)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sw",
+       "created": 1646116894482,
+       "text": "【永樂北藏】No.264《佛說象頭精舍經》隋毗尼多流支譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：503 / 卷數：1 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sx",
+       "created": 1646116894482,
+       "text": "【嘉興藏】No.235《象頭精舍經》隋毗尼多流支譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0235 千字文 / 函號：［正藏］ 男(165)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sy",
+       "created": 1646116894482,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwte7Sz",
+       "created": 1646116894482,
+       "text": "【乾隆藏】No.236《佛說象頭精舍經》隋 毗尼多流支譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：279 / 卷數：1 千字文：男"
+      }},
+      {"data": {
+       "id": "z5cYwte7T0",
+       "created": 1646116894482,
+       "text": "【縮刻藏】No.252《佛說象頭精舍經》隋毘尼多流支譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 2 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwte7T1",
+       "created": 1646116894482,
+       "text": "【卍正藏】No.240《佛說象頭精舍經》隋 毗尼多流支譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：10 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwte7T2",
+       "created": 1646116894482,
+       "text": "【大正藏】No.466《佛說象頭精舍經》隋 毘尼多流支譯 部別：經集部一 / 冊數：14 / 頁數：487 / 卷數：1 相關經典：縮-宙2,卍-10.6 參考資料：Nos.464,465,467"
+      }},
+      {"data": {
+       "id": "z5cYwte7T3",
+       "created": 1646116894482,
+       "text": "【佛教大藏經】No.255《佛說象頭精舍經》隋 毘尼多流支譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：206 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwte7T4",
+       "created": 1646116894482,
+       "text": "【中華藏】No.242《佛說象頭精舍經》隋天竺三藏毗尼多流支譯 冊數：19 / 頁數：101 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwte7T5",
+       "created": 1646116894482,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwte7T6",
+       "created": 1646116894482,
+       "text": "【南條文雄編號】 Nj. 0240"
+      }},
+      {"data": {
+       "id": "z5cYwte7T7",
+       "created": 1646116894482,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：466"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwr5ev",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "大三摩惹經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwKLGi",
+    "created": 1646116892293,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwKHFl",
+      "created": 1646116892289,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwKIFm",
+        "created": 1646116892290,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwKIFn",
+        "created": 1646116892290,
+        "text": "大三摩惹經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwKIFo",
+        "created": 1646116892290,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwKIFp",
+        "created": 1646116892290,
+        "text": "大三摩惹经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwKIFq",
+        "created": 1646116892290,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwKIFr",
+        "created": 1646116892290,
+        "text": "da san mo re jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwKIFz",
+        "created": 1646116892290,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwKIG0",
+        "created": 1646116892290,
+        "text": "Ta san mo jo ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwKIG1",
+        "created": 1646116892290,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwKIG2",
+        "created": 1646116892290,
+        "text": "Mahāsamāja(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwKIG3",
+        "created": 1646116892290,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwKIG4",
+        "created": 1646116892290,
+        "text": "Ḥdus-pa chen-poḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwKIG5",
+        "created": 1646116892290,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwKIG6",
+        "created": 1646116892290,
+        "text": "대삼마야경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwKIFs",
+      "created": 1646116892290,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwKIFt",
+      "created": 1646116892290,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwKIFu",
+      "created": 1646116892290,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwKIFv",
+       "created": 1646116892290,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYwKIFw",
+       "created": 1646116892290,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwKIFx",
+      "created": 1646116892290,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwKIFy",
+      "created": 1646116892290,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwKIG7",
+      "created": 1646116892290,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwKIG8",
+      "created": 1646116892290,
+      "text": "Translation by Fa-t'ien: (See K.1177)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwKIG9",
+      "created": 1646116892290,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwKJGA",
+       "created": 1646116892291,
+       "text": "【北京版】Śer-phyin (tsi)275a-278b"
+      }},
+      {"data": {
+       "id": "z5cYwKJGB",
+       "created": 1646116892291,
+       "text": "【奈塘版】Mdo (A)558b-564b"
+      }},
+      {"data": {
+       "id": "z5cYwKJGC",
+       "created": 1646116892291,
+       "text": "【德格版】Śes-phyin (ka)259b-263a"
+      }},
+      {"data": {
+       "id": "z5cYwKJGD",
+       "created": 1646116892291,
+       "text": "【拉薩版】Śer-phyin sna-tshogs (ka)403b-409a"
+      }},
+      {"data": {
+       "id": "z5cYwKJGE",
+       "created": 1646116892291,
+       "text": "【卓尼版】Śer-phyin sna-tshogs (ka)289b-293b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwKJGF",
+      "created": 1646116892291,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwKJGG",
+      "created": 1646116892291,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwKJGH",
+      "created": 1646116892291,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwKJGI",
+       "created": 1646116892291,
+       "text": "【房山石經】No.948《佛說大三摩惹經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：26 / 頁數：523 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：營"
+      }},
+      {"data": {
+       "id": "z5cYwKKGJ",
+       "created": 1646116892292,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGK",
+       "created": 1646116892292,
+       "text": "【崇寧藏】No.1174《大三摩惹經》 卷數：1 千字文：千(503)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGL",
+       "created": 1646116892292,
+       "text": "【毘盧藏】No.1175《佛說大三摩惹經》宋法天譯 千字文：千(503)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGM",
+       "created": 1646116892292,
+       "text": "【圓覺藏】No.1184《大三摩惹經》 千字文：千(503)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGN",
+       "created": 1646116892292,
+       "text": "【趙城金藏】No.1180《大三摩惹經》 卷數：1 千字文：封"
+      }},
+      {"data": {
+       "id": "z5cYwKKGO",
+       "created": 1646116892292,
+       "text": "【資福藏】No.1189《大三摩惹經》 卷數：1 千字文：千(503)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGP",
+       "created": 1646116892292,
+       "text": "【磧砂藏】No.1198《佛說大三摩惹經》宋 法天譯 部別： / 冊數：33 / 頁數：11 / 卷數：1 千字文：千 4 (503)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGQ",
+       "created": 1646116892292,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGR",
+       "created": 1646116892292,
+       "text": "【高麗藏】No.1179《大三摩惹經》西天譯經三藏傳教大師法天譯 部別：宋續入藏經 / 冊數：34 頁數：185 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：封"
+      }},
+      {"data": {
+       "id": "z5cYwKKGS",
+       "created": 1646116892292,
+       "text": "【普寧藏】No.1189《佛說大三摩惹經》 卷數：1 千字文：千(503)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGT",
+       "created": 1646116892292,
+       "text": "【至元錄】No.1132《大三摩惹經》宋西域三藏法天譯 卷數：1 千字文：睦(332)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGU",
+       "created": 1646116892292,
+       "text": "【洪武南藏】No.1048《佛說大三摩惹經》西天譯經三藏朝散大夫試鴻臚卿明教大師臣法天 奉詔譯 冊數：181 / 頁數：264 / 卷數：1 千字文：千 4 (503)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGV",
+       "created": 1646116892292,
+       "text": "【永樂南藏】No.857《佛說大三摩惹經》 部別：宋元入藏諸大小乘經 千字文：臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGW",
+       "created": 1646116892292,
+       "text": "【永樂北藏】No.882《佛說大三摩惹經》宋法天譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：65 / 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYwKKGX",
+       "created": 1646116892292,
+       "text": "【嘉興藏】No.845《佛說大三摩惹經》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0845 千字文 / 函號：［正藏］ 盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGY",
+       "created": 1646116892292,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGZ",
+       "created": 1646116892292,
+       "text": "【乾隆藏】No.846《佛說大三摩惹經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：345 / 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYwKKGa",
+       "created": 1646116892292,
+       "text": "【縮刻藏】No.565《佛說大三摩惹經》宋法天譯 部別：小乘經 / 卷數：1 千字文：昃 10 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGb",
+       "created": 1646116892292,
+       "text": "【卍正藏】No.855《佛說大三摩惹經》法天譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：696 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwKKGc",
+       "created": 1646116892292,
+       "text": "【大正藏】No.19《大三摩惹經》宋 法天譯 部別：阿含部上 / 冊數：1 / 頁數：258 / 卷數：1 相關經典：縮-昃10,卍-15.4,南7.20,12.1.37 參考資料：Nos.1(19),99(1192),100(105)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGd",
+       "created": 1646116892292,
+       "text": "【佛教大藏經】No.573《佛說大三摩惹經》宋 法天譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：791 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwKKGe",
+       "created": 1646116892292,
+       "text": "【中華藏】No.1291《佛說大三摩惹經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：64 / 頁數：433 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwKKGf",
+       "created": 1646116892292,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwKKGg",
+       "created": 1646116892292,
+       "text": "【南條文雄編號】 Nj. 0851"
+      }},
+      {"data": {
+       "id": "z5cYwKKGh",
+       "created": 1646116892292,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：19"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhv28i",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

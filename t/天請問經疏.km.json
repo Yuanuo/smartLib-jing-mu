@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "天請問經疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYyYxbqb",
+    "created": 1646116900887,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyYxbpz",
+      "created": 1646116900887,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyYxbq0",
+        "created": 1646116900887,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYxbq1",
+        "created": 1646116900887,
+        "text": "天請問經疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyYxbq2",
+        "created": 1646116900887,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYxbq3",
+        "created": 1646116900887,
+        "text": "天请问经疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyYxbq4",
+        "created": 1646116900887,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYxbq5",
+        "created": 1646116900887,
+        "text": "tian qing wen jing shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyYxbq6",
+      "created": 1646116900887,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyYxbq7",
+      "created": 1646116900887,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyYxbq8",
+      "created": 1646116900887,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyYxbq9",
+      "created": 1646116900887,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyYxbqA",
+      "created": 1646116900887,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyYxbqB",
+       "created": 1646116900887,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqC",
+       "created": 1646116900887,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqD",
+       "created": 1646116900887,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqE",
+       "created": 1646116900887,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqF",
+       "created": 1646116900887,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqG",
+       "created": 1646116900887,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqH",
+       "created": 1646116900887,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqI",
+       "created": 1646116900887,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqJ",
+       "created": 1646116900887,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqK",
+       "created": 1646116900887,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqL",
+       "created": 1646116900887,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqM",
+       "created": 1646116900887,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqN",
+       "created": 1646116900887,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqO",
+       "created": 1646116900887,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqP",
+       "created": 1646116900887,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqQ",
+       "created": 1646116900887,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqR",
+       "created": 1646116900887,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqS",
+       "created": 1646116900887,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqT",
+       "created": 1646116900887,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqU",
+       "created": 1646116900887,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqV",
+       "created": 1646116900887,
+       "text": "【大正藏】No.2786《天請問經疏》 部別：古逸部全 / 冊數：85 / 頁數：562 / 卷數：1 相關經典： 參考資料：cf.No.592"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqW",
+       "created": 1646116900887,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqX",
+       "created": 1646116900887,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqY",
+       "created": 1646116900887,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqZ",
+       "created": 1646116900887,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYxbqa",
+       "created": 1646116900887,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2786"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1p32b1",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

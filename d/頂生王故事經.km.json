@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "頂生王故事經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwMdYK",
+    "created": 1646116892435,
+    "text": "現藏錄（西晉 法炬譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwMcXT",
+      "created": 1646116892434,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwMcXU",
+        "created": 1646116892434,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMcXV",
+        "created": 1646116892434,
+        "text": "頂生王故事經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMcXW",
+        "created": 1646116892434,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMcXX",
+        "created": 1646116892434,
+        "text": "顶生王故事经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMcXY",
+        "created": 1646116892434,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMcXZ",
+        "created": 1646116892434,
+        "text": "ding sheng wang gu shi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMcXh",
+        "created": 1646116892434,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMcXi",
+        "created": 1646116892434,
+        "text": "Ting sheng wang ku shih ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwMcXj",
+       "created": 1646116892434,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwMcXk",
+        "created": 1646116892434,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMcXl",
+        "created": 1646116892434,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwMcXm",
+        "created": 1646116892434,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwMcXn",
+        "created": 1646116892434,
+        "text": "정생왕고사경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwMcXa",
+      "created": 1646116892434,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMcXb",
+      "created": 1646116892434,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwMcXc",
+      "created": 1646116892434,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwMcXd",
+       "created": 1646116892434,
+       "text": "西晉 法炬譯"
+      }},
+      {"data": {
+       "id": "z5cYwMcXe",
+       "created": 1646116892434,
+       "text": "法炬",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwMcXf",
+      "created": 1646116892434,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMcXg",
+      "created": 1646116892434,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwMcXo",
+      "created": 1646116892434,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMcXp",
+      "created": 1646116892434,
+      "text": "Translation by Fa-chü: (see K.675)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwMcXq",
+     "created": 1646116892434,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwMdXr",
+      "created": 1646116892435,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwMdXs",
+      "created": 1646116892435,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwMdXt",
+      "created": 1646116892435,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwMdXu",
+       "created": 1646116892435,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMdXv",
+       "created": 1646116892435,
+       "text": "【開寶藏】No.668《頂生王故事經》西晉 沙門釋法炬 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwMdXw",
+       "created": 1646116892435,
+       "text": "【崇寧藏】No.670《佛說頂生王故事經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwMdXx",
+       "created": 1646116892435,
+       "text": "【毘盧藏】No.671《佛說頂生王故事經》西晉法炬譯 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwMdXy",
+       "created": 1646116892435,
+       "text": "【圓覺藏】No.679《頂生王故事經》 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwMdXz",
+       "created": 1646116892435,
+       "text": "【趙城金藏】No.677《頂生王故事經》 卷數：1 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwMdY0",
+       "created": 1646116892435,
+       "text": "【資福藏】No.684《頂生王故事經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwMdY1",
+       "created": 1646116892435,
+       "text": "【磧砂藏】No.690《佛說頂生王故事經》晉 法炬譯 部別：阿含部 / 冊數：18 / 頁數：783 / 卷數：1 千字文：止 3 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwMdY2",
+       "created": 1646116892435,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMdY3",
+       "created": 1646116892435,
+       "text": "【高麗藏】No.676《頂生王故事經》西晉沙門釋法炬譯 部別：小乘經 阿含部 / 冊數：19 頁數：529 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwMdY4",
+       "created": 1646116892435,
+       "text": "【普寧藏】No.682《佛說頂生王故事經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwMdY5",
+       "created": 1646116892435,
+       "text": "【至元錄】No.912《頂生王故事經》西晉三藏法炬譯 卷數：1 千字文：登(307)"
+      }},
+      {"data": {
+       "id": "z5cYwMdY6",
+       "created": 1646116892435,
+       "text": "【洪武南藏】No.610《佛說頂生王故事經》西晉 沙門法炬 譯 冊數：99 / 頁數：127 / 卷數：1 千字文：止 3 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwMdY7",
+       "created": 1646116892435,
+       "text": "【永樂南藏】No.559《佛說頂生王故事經》 部別：小乘經-阿含部 千字文：福(229)"
+      }},
+      {"data": {
+       "id": "z5cYwMdY8",
+       "created": 1646116892435,
+       "text": "【永樂北藏】No.633《佛說頂生王故事經》西晉法炬譯 部別：小乘經阿含部 / 冊數：61 / 頁數：894 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwMdY9",
+       "created": 1646116892435,
+       "text": "【嘉興藏】No.598《佛說頂生王故事經》西晉法炬譯 部別：小乘經-阿含部 / 法寶總目錄經號：0598 千字文 / 函號：［正藏］ 善(231)"
+      }},
+      {"data": {
+       "id": "z5cYwMdYA",
+       "created": 1646116892435,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMdYB",
+       "created": 1646116892435,
+       "text": "【乾隆藏】No.599《佛說頂生王故事經》西晉 法炬譯 部別：小乘阿含部 / 冊數：52 / 頁數：68 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwMdYC",
+       "created": 1646116892435,
+       "text": "【縮刻藏】No.493《佛說頂生王故事經》西晉法炬譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwMdYD",
+       "created": 1646116892435,
+       "text": "【卍正藏】No.606《佛說頂生王故事經》西晉 法炬譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：269 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwMdYE",
+       "created": 1646116892435,
+       "text": "【大正藏】No.39《頂生王故事經》西晉 法炬譯 部別：阿含部上 / 冊數：1 / 頁數：822 / 卷數：1 相關經典：縮-昃8,卍-14.2,*南-31.258 參考資料：Nos.26(60),40"
+      }},
+      {"data": {
+       "id": "z5cYwMdYF",
+       "created": 1646116892435,
+       "text": "【佛教大藏經】No.501《佛說頂生王故事經》西晉 法炬譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：221 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwMdYG",
+       "created": 1646116892435,
+       "text": "【中華藏】No.730《佛說頂生王故事經》西晉三藏法炬譯 冊數：34 / 頁數：40 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwMdYH",
+       "created": 1646116892435,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwMdYI",
+       "created": 1646116892435,
+       "text": "【南條文雄編號】 Nj. 0603"
+      }},
+      {"data": {
+       "id": "z5cYwMdYJ",
+       "created": 1646116892435,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：39"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhv6812",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "顯識論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxoBNpy",
+    "created": 1646116897987,
+    "text": "現藏錄（陳 真諦譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxoBNp7",
+      "created": 1646116897987,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxoBNp8",
+        "created": 1646116897987,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoBNp9",
+        "created": 1646116897987,
+        "text": "顯識論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoBNpA",
+        "created": 1646116897987,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoBNpB",
+        "created": 1646116897987,
+        "text": "显识论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoBNpC",
+        "created": 1646116897987,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoBNpD",
+        "created": 1646116897987,
+        "text": "xian shi lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoBNpL",
+        "created": 1646116897987,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoBNpM",
+        "created": 1646116897987,
+        "text": "Hsien shih lun"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxoBNpN",
+       "created": 1646116897987,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxoBNpO",
+        "created": 1646116897987,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoBNpP",
+        "created": 1646116897987,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoBNpQ",
+        "created": 1646116897987,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoBNpR",
+        "created": 1646116897987,
+        "text": "현식론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoBNpE",
+      "created": 1646116897987,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoBNpF",
+      "created": 1646116897987,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoBNpG",
+      "created": 1646116897987,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoBNpH",
+       "created": 1646116897987,
+       "text": "陳 真諦譯"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpI",
+       "created": 1646116897987,
+       "text": "真諦",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoBNpJ",
+      "created": 1646116897987,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoBNpK",
+      "created": 1646116897987,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoBNpS",
+      "created": 1646116897987,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoBNpT",
+      "created": 1646116897987,
+      "text": "Translation by Paramārtha: Ch'en dynasty (陳) (A.D. 557-569).T.2154-545c:3; T. 2151-364c:21."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxoBNpU",
+     "created": 1646116897987,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxoBNpV",
+      "created": 1646116897987,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoBNpW",
+      "created": 1646116897987,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoBNpX",
+      "created": 1646116897987,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoBNpY",
+       "created": 1646116897987,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpZ",
+       "created": 1646116897987,
+       "text": "【開寶藏】No.604《顯識論》陳 天竺三藏真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：力"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpa",
+       "created": 1646116897987,
+       "text": "【崇寧藏】No.606《顯識論》 卷數：1 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpb",
+       "created": 1646116897987,
+       "text": "【毘盧藏】No.608《顯識論》陳真諦譯 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpc",
+       "created": 1646116897987,
+       "text": "【圓覺藏】No.616《顯識論》 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpd",
+       "created": 1646116897987,
+       "text": "【趙城金藏】No.612《顯識論》 卷數：1 千字文：力"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpe",
+       "created": 1646116897987,
+       "text": "【資福藏】No.621《顯識論》 卷數：1 千字文：忠(253) 【資福藏】No.1462《顯識論》 卷數：1 千字文：阜(540)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpf",
+       "created": 1646116897987,
+       "text": "【磧砂藏】No.626《顯識論》陳 真諦譯 部別：集義論 / 冊數：17 / 頁數：66 / 卷數：1 千字文：忠 2 (253)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpg",
+       "created": 1646116897987,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNph",
+       "created": 1646116897987,
+       "text": "【高麗藏】No.611《顯識論》陳世真諦三藏譯 部別：大乘論 集義論 / 冊數：17 頁數：491(原版) 488(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：力"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpi",
+       "created": 1646116897987,
+       "text": "【普寧藏】No.618《顯識論》 卷數：1 千字文：忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpj",
+       "created": 1646116897987,
+       "text": "【至元錄】No.1334《顯識論》天竺三藏真諦譯(附陳代錄) 卷數：1 千字文：丙(441)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpk",
+       "created": 1646116897987,
+       "text": "【洪武南藏】No.555《顯識論》陳 天竺三藏法師真諦 譯 冊數：88 / 頁數：220 / 卷數：1 千字文：忠 2 (253)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpl",
+       "created": 1646116897987,
+       "text": "【永樂南藏】No.1363《顯識論》 部別：大乘論 千字文：自(407)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpm",
+       "created": 1646116897987,
+       "text": "【永樂北藏】No.1263《顯識論》陳真諦譯 部別：大乘論 / 冊數：104 / 頁數：395 / 卷數：1 千字文：沛"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpn",
+       "created": 1646116897987,
+       "text": "【嘉興藏】No.1209《顯識論》陳真諦譯 部別：大乘論 / 法寶總目錄經號：1208 千字文 / 函號：［正藏］ 沛(382)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpo",
+       "created": 1646116897987,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpp",
+       "created": 1646116897987,
+       "text": "【乾隆藏】No.1210《顯識論》陳 真諦譯 部別：大乘論 / 冊數：85 / 頁數：609 / 卷數：1 千字文：沛"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpq",
+       "created": 1646116897987,
+       "text": "【縮刻藏】No.901《顯識論》陳真諦譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 10 (18)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpr",
+       "created": 1646116897987,
+       "text": "【卍正藏】No.1225《顯識論》真諦譯 部別：大乘論 / 冊數：41 / 頁數：239 / 卷數：1 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxoBNps",
+       "created": 1646116897987,
+       "text": "【大正藏】No.1618《顯識論》陳 真諦譯 部別：瑜伽部下 / 冊數：31 / 頁數：878 / 卷數：1 相關經典：縮-來10,卍-22.2,國-瑜12 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxoBNpt",
+       "created": 1646116897987,
+       "text": "【佛教大藏經】No.943《顯識論》陳 真諦譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：770 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpu",
+       "created": 1646116897987,
+       "text": "【中華藏】No.661《顯識論》真諦三藏譯 冊數：30 / 頁數：656 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpv",
+       "created": 1646116897987,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpw",
+       "created": 1646116897987,
+       "text": "【南條文雄編號】 Nj. 1217"
+      }},
+      {"data": {
+       "id": "z5cYxoBNpx",
+       "created": 1646116897987,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1618　卷中：71"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzgi1ck",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

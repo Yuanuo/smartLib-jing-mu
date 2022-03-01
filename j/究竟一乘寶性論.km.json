@@ -1,0 +1,357 @@
+{
+ "root": {
+  "data": {"text": "究竟一乘寶性論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxntNjX",
+    "created": 1646116897969,
+    "text": "現藏錄（後魏 勒那摩提譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxntNib",
+      "created": 1646116897969,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxntNic",
+        "created": 1646116897969,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxntNid",
+        "created": 1646116897969,
+        "text": "究竟一乘寶性論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxntNie",
+        "created": 1646116897969,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxntNif",
+        "created": 1646116897969,
+        "text": "究竟一乘宝性论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxntNig",
+        "created": 1646116897969,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxntNih",
+        "created": 1646116897969,
+        "text": "jiu jing yi cheng bao xing lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxntNip",
+        "created": 1646116897969,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxntNiq",
+        "created": 1646116897969,
+        "text": "Chiu ching i ch'eng pao hsing lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxntNir",
+        "created": 1646116897969,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxntNis",
+        "created": 1646116897969,
+        "text": "(Ratnagotravibhāga)Mahāyānottaratantraśāstra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxntNit",
+        "created": 1646116897969,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxntNiu",
+        "created": 1646116897969,
+        "text": "Theg-pa chen-po rgyud bla-maḥi bstan-bcos rnam-par bśad-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxntNiv",
+        "created": 1646116897969,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxntNiw",
+        "created": 1646116897969,
+        "text": "구경일승보성론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxntNii",
+      "created": 1646116897969,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxntNij",
+      "created": 1646116897969,
+      "text": "後魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxntNik",
+      "created": 1646116897969,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxntNil",
+       "created": 1646116897969,
+       "text": "後魏 勒那摩提譯"
+      }},
+      {"data": {
+       "id": "z5cYxntNim",
+       "created": 1646116897969,
+       "text": "勒那摩提",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxntNin",
+      "created": 1646116897969,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxntNio",
+      "created": 1646116897969,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxntNix",
+      "created": 1646116897969,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxntNiy",
+      "created": 1646116897969,
+      "text": "Translation by Ratnamati: 5th year of Cheng Shih (正始), Later Wei dynasty (後魏) (A.D. 508) in Lo-yang Hall (洛陽殿).T.2151-364a:22."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxntNiz",
+      "created": 1646116897969,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxntNj0",
+       "created": 1646116897969,
+       "text": "【北京版】Mdo-ḥgrel (Sems-tsam) (phi)54b-74b74b-135b"
+      }},
+      {"data": {
+       "id": "z5cYxntNj1",
+       "created": 1646116897969,
+       "text": "【奈塘版】Mdo (phi)48b-69a69a-129b"
+      }},
+      {"data": {
+       "id": "z5cYxntNj2",
+       "created": 1646116897969,
+       "text": "【德格版】Sems-tsam (phi)54b-73a74b-129a"
+      }},
+      {"data": {
+       "id": "z5cYxntNj3",
+       "created": 1646116897969,
+       "text": "【卓尼版】Sems-tsam (phi)51a-68a69a-124b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxntNj4",
+      "created": 1646116897969,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxntNj5",
+      "created": 1646116897969,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxntNj6",
+      "created": 1646116897969,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxntNj7",
+       "created": 1646116897969,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxntNj8",
+       "created": 1646116897969,
+       "text": "【開寶藏】No.598《究竟一乘寶性論》元魏 天竺三藏勒那摩提 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：4 千字文：竭"
+      }},
+      {"data": {
+       "id": "z5cYxntNj9",
+       "created": 1646116897969,
+       "text": "【崇寧藏】No.600《究竟一乘寶性論》 卷數：5 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjA",
+       "created": 1646116897969,
+       "text": "【毘盧藏】No.602《究竟一乘寶性論》元魏勒那摩提譯 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjB",
+       "created": 1646116897969,
+       "text": "【圓覺藏】No.610《究竟一乘寶性論》 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjC",
+       "created": 1646116897969,
+       "text": "【趙城金藏】No.601《寶性論》 卷數：4 千字文：竭"
+      }},
+      {"data": {
+       "id": "z5cYxntNjD",
+       "created": 1646116897969,
+       "text": "【資福藏】No.615《究竟一乘寶性論》 卷數：5 (五卷) 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjE",
+       "created": 1646116897969,
+       "text": "【磧砂藏】No.620《究竟一乘寶性論》元魏 勒那摩提譯 部別：集義論 / 冊數：17 / 頁數：14 / 卷數：5 千字文：力 4 (252)-力 8 (252)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjF",
+       "created": 1646116897969,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjG",
+       "created": 1646116897969,
+       "text": "【高麗藏】No.600《究竟一乘寶性論》後魏中印度三藏勒那摩提譯 部別：大乘論 集義論 / 冊數：17 頁數：354(原版) 353(新文豐) / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：竭"
+      }},
+      {"data": {
+       "id": "z5cYxntNjH",
+       "created": 1646116897969,
+       "text": "【普寧藏】No.612《究竟一乘寶性論》 卷數：5 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjI",
+       "created": 1646116897969,
+       "text": "【至元錄】No.1328《究竟一乘寶性論》元魏天竺三藏勒那摩提譯 梵名：麻訶衍拏　烏怛囉　單特囉(二合)沙　悉特囉(二合) / 卷數：4 千字文：靈(440)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjJ",
+       "created": 1646116897969,
+       "text": "【洪武南藏】No.549《究竟一乘寶性論》元魏 天竺三藏勒那摩提 譯 冊數：88 / 頁數：18 / 卷數：5 千字文：力 4 (252)-力 8 (252)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjK",
+       "created": 1646116897969,
+       "text": "【永樂南藏】No.1359《究竟一乘寶性論》 部別：大乘論 千字文：自(407)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjL",
+       "created": 1646116897969,
+       "text": "【永樂北藏】No.1283《究竟一乘寶性論》元魏勒那摩提譯 部別：大乘論 / 冊數：105 / 頁數：77 / 卷數：5 千字文：性"
+      }},
+      {"data": {
+       "id": "z5cYxntNjM",
+       "created": 1646116897969,
+       "text": "【嘉興藏】No.1230《究竟一乘寶性論》元魏勒那摩提譯 部別：大乘論 / 法寶總目錄經號：1229 千字文 / 函號：［正藏］ 性(385)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjN",
+       "created": 1646116897969,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjO",
+       "created": 1646116897969,
+       "text": "【乾隆藏】No.1230《究竟一乘寶性論》元魏 勒那摩提譯 部別：大乘論 / 冊數：86 / 頁數：317 / 卷數：5 千字文：性"
+      }},
+      {"data": {
+       "id": "z5cYxntNjP",
+       "created": 1646116897969,
+       "text": "【縮刻藏】No.933《究竟一乘寶性論》後魏勒那摩提譯 部別：印度大乘宗經論 / 卷數：4 千字文：暑 2 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjQ",
+       "created": 1646116897969,
+       "text": "【卍正藏】No.1244《究竟一乘寶性論》後魏 勒那摩提譯 部別：大乘論 / 冊數：41 / 頁數：515 / 卷數：4 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxntNjR",
+       "created": 1646116897969,
+       "text": "【大正藏】No.1611《究竟一乘寶性論》後魏 勒那摩提譯 部別：瑜伽部下 / 冊數：31 / 頁數：813 / 卷數：4 相關經典：縮-暑2,卍-22.4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxntNjS",
+       "created": 1646116897969,
+       "text": "【佛教大藏經】No.975《究竟一乘寶性論》後魏 勒那摩提譯 部別：大乘宗經論 論部三 / 冊數：37 / 頁數：468 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYxntNjT",
+       "created": 1646116897969,
+       "text": "【中華藏】No.649《究竟一乘寶性論》後魏中印度三藏勒那摩提譯 冊數：30 / 頁數：478 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxntNjU",
+       "created": 1646116897969,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxntNjV",
+       "created": 1646116897969,
+       "text": "【南條文雄編號】 Nj. 1236"
+      }},
+      {"data": {
+       "id": "z5cYxntNjW",
+       "created": 1646116897969,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1611"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzg01cd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

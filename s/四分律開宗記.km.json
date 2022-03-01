@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "四分律開宗記"},
+  "children": [{
+   "data": {
+    "id": "z5cYzIEpaD",
+    "created": 1646116903694,
+    "text": "現藏錄（唐 懷素撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzIEpZY",
+      "created": 1646116903694,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzIEpZZ",
+        "created": 1646116903694,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzIEpZa",
+        "created": 1646116903694,
+        "text": "四分律開宗記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzIEpZb",
+        "created": 1646116903694,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzIEpZc",
+        "created": 1646116903694,
+        "text": "四分律开宗记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzIEpZd",
+        "created": 1646116903694,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzIEpZe",
+        "created": 1646116903694,
+        "text": "si fen lv kai zong ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzIEpZf",
+      "created": 1646116903694,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzIEpZg",
+      "created": 1646116903694,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzIEpZh",
+      "created": 1646116903694,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzIEpZi",
+       "created": 1646116903694,
+       "text": "唐 懷素撰"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZj",
+       "created": 1646116903694,
+       "text": "懷素",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzIEpZk",
+      "created": 1646116903694,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzIEpZl",
+      "created": 1646116903694,
+      "text": "20"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzIEpZm",
+      "created": 1646116903694,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzIEpZn",
+       "created": 1646116903694,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZo",
+       "created": 1646116903694,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZp",
+       "created": 1646116903694,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZq",
+       "created": 1646116903694,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZr",
+       "created": 1646116903694,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZs",
+       "created": 1646116903694,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZt",
+       "created": 1646116903694,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZu",
+       "created": 1646116903694,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZv",
+       "created": 1646116903694,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZw",
+       "created": 1646116903694,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZx",
+       "created": 1646116903694,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZy",
+       "created": 1646116903694,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpZz",
+       "created": 1646116903694,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa0",
+       "created": 1646116903694,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa1",
+       "created": 1646116903694,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa2",
+       "created": 1646116903694,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa3",
+       "created": 1646116903694,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa4",
+       "created": 1646116903694,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa5",
+       "created": 1646116903694,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa6",
+       "created": 1646116903694,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa7",
+       "created": 1646116903694,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa8",
+       "created": 1646116903694,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpa9",
+       "created": 1646116903694,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpaA",
+       "created": 1646116903694,
+       "text": "【新纂卍續藏】No.735《四分律開宗記》唐 懷素撰 部別：中國撰述 大小乘釋律部五 小乘律疏 / 冊數：42 / 頁數：333 / 卷數：20 《卍大日本續藏經》套數：第一編．第 66 套 《卍續藏經》(新文豐版)冊數：第 66 冊"
+      }},
+      {"data": {
+       "id": "z5cYzIEpaB",
+       "created": 1646116903694,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzIEpaC",
+       "created": 1646116903694,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1009"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3v23b0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

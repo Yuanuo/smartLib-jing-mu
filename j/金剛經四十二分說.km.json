@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "金剛經四十二分說"},
+  "children": [{
+   "data": {
+    "id": "z5cYz3Hku6",
+    "created": 1646116902767,
+    "text": "現藏錄（宋 張無盡述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYz3HktS",
+      "created": 1646116902767,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYz3HktT",
+        "created": 1646116902767,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz3HktU",
+        "created": 1646116902767,
+        "text": "金剛經四十二分說",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz3HktV",
+        "created": 1646116902767,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz3HktW",
+        "created": 1646116902767,
+        "text": "金刚经四十二分说",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz3HktX",
+        "created": 1646116902767,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYz3HktY",
+        "created": 1646116902767,
+        "text": "jin gang jing si shi er fen shuo"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYz3HktZ",
+      "created": 1646116902767,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYz3Hkta",
+      "created": 1646116902767,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz3Hktb",
+      "created": 1646116902767,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYz3Hktc",
+      "created": 1646116902767,
+      "text": "宋 張無盡述"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz3Hktd",
+      "created": 1646116902767,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYz3Hkte",
+      "created": 1646116902767,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz3Hktf",
+      "created": 1646116902767,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYz3Hktg",
+       "created": 1646116902767,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hkth",
+       "created": 1646116902767,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hkti",
+       "created": 1646116902767,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktj",
+       "created": 1646116902767,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktk",
+       "created": 1646116902767,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktl",
+       "created": 1646116902767,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktm",
+       "created": 1646116902767,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktn",
+       "created": 1646116902767,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hkto",
+       "created": 1646116902767,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktp",
+       "created": 1646116902767,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktq",
+       "created": 1646116902767,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktr",
+       "created": 1646116902767,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hkts",
+       "created": 1646116902767,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktt",
+       "created": 1646116902767,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktu",
+       "created": 1646116902767,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktv",
+       "created": 1646116902767,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktw",
+       "created": 1646116902767,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktx",
+       "created": 1646116902767,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hkty",
+       "created": 1646116902767,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hktz",
+       "created": 1646116902767,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hku0",
+       "created": 1646116902767,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hku1",
+       "created": 1646116902767,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hku2",
+       "created": 1646116902767,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hku3",
+       "created": 1646116902767,
+       "text": "【新纂卍續藏】No.1559《嘉泰普燈錄》宋 正受編 部別：中國撰述 史傳部五 禪宗 / 冊數：79 / 頁數：288 / 卷數：30 《卍大日本續藏經》套數：第二編乙．第 10 套 《卍續藏經》(新文豐版)冊數：第 137 冊"
+      }},
+      {"data": {
+       "id": "z5cYz3Hku4",
+       "created": 1646116902767,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz3Hku5",
+       "created": 1646116902767,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1626-in"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri35b2ys",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

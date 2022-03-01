@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說文殊師利現寶藏經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwtQ7Oc",
+    "created": 1646116894468,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwtQ7Nf",
+      "created": 1646116894468,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwtQ7Ng",
+        "created": 1646116894468,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtQ7Nh",
+        "created": 1646116894468,
+        "text": "佛說文殊師利現寶藏經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtQ7Ni",
+        "created": 1646116894468,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtQ7Nj",
+        "created": 1646116894468,
+        "text": "佛说文殊师利现宝藏经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtQ7Nk",
+        "created": 1646116894468,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtQ7Nl",
+        "created": 1646116894468,
+        "text": "fo shuo wen shu shi li xian bao cang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtQ7Nt",
+        "created": 1646116894468,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtQ7Nu",
+        "created": 1646116894468,
+        "text": "Wen shu shih li hsien pao tsang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtQ7Nv",
+        "created": 1646116894468,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtQ7Nw",
+        "created": 1646116894468,
+        "text": "Ratnakāraṇḍa(ka)(vyūha)sūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtQ7Nx",
+        "created": 1646116894468,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtQ7Ny",
+        "created": 1646116894468,
+        "text": "Dkon-mchog-gi za-ma-tog"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwtQ7Nz",
+        "created": 1646116894468,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwtQ7O0",
+        "created": 1646116894468,
+        "text": "문수사리현보장경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwtQ7Nm",
+      "created": 1646116894468,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtQ7Nn",
+      "created": 1646116894468,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtQ7No",
+      "created": 1646116894468,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwtQ7Np",
+       "created": 1646116894468,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7Nq",
+       "created": 1646116894468,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwtQ7Nr",
+      "created": 1646116894468,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtQ7Ns",
+      "created": 1646116894468,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtQ7O1",
+      "created": 1646116894468,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtQ7O2",
+      "created": 1646116894468,
+      "text": "Translation by Dharmarakṣa: 10th month, 6th year of Tai Shih (泰始) Western Chin dynasty (西晉) (A.D. 270).T. 2145-7c:7."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtQ7O3",
+      "created": 1646116894468,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwtQ7O4",
+       "created": 1646116894468,
+       "text": "【北京版】Mdo-sna-tshogs(chu)274b-316b"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7O5",
+       "created": 1646116894468,
+       "text": "【奈塘版】Mdo (ja)392a-460b"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7O6",
+       "created": 1646116894468,
+       "text": "【德格版】Mdo-sde (ja)248a-290a"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7O7",
+       "created": 1646116894468,
+       "text": "【拉薩版】Mdo (ja)388a-451b"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7O8",
+       "created": 1646116894468,
+       "text": "【卓尼版】Mdo-maṅ (ja)285b-333b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwtQ7O9",
+      "created": 1646116894468,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwtQ7OA",
+      "created": 1646116894468,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwtQ7OB",
+      "created": 1646116894468,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwtQ7OC",
+       "created": 1646116894468,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OD",
+       "created": 1646116894468,
+       "text": "【開寶藏】No.150《文殊師利現寶藏經》西晉 月支三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：2 千字文：方"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OE",
+       "created": 1646116894468,
+       "text": "【崇寧藏】No.151《文殊師利現寶藏經》 卷數：2 千字文：蓋(145)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OF",
+       "created": 1646116894468,
+       "text": "【毘盧藏】No.147《文殊師利現寶藏經》西晉竺法護譯 參考年代：(靖康元．十二) 千字文：蓋(145)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OG",
+       "created": 1646116894468,
+       "text": "【圓覺藏】No.148《文殊師利現寶藏經》 卷數：2 千字文：蓋(145)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OH",
+       "created": 1646116894468,
+       "text": "【趙城金藏】No.149《文殊師利現寶藏經》 卷數：2 千字文：方"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OI",
+       "created": 1646116894468,
+       "text": "【資福藏】No.152《文殊師利現寶藏經》 卷數：2 (二卷) 千字文：蓋(145)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OJ",
+       "created": 1646116894468,
+       "text": "【磧砂藏】No.151《佛說文殊師利現寶藏經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：233 / 卷數：2 千字文：蓋 1 (145)-蓋 2 (145)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OK",
+       "created": 1646116894468,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OL",
+       "created": 1646116894468,
+       "text": "【高麗藏】No.149《文殊師利現寶藏經》西晉月氏三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：595 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：方"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OM",
+       "created": 1646116894468,
+       "text": "【普寧藏】No.147《佛說文殊師利現寶藏經》 卷數：2 千字文：蓋(145)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7ON",
+       "created": 1646116894468,
+       "text": "【至元錄】No.228《文殊師利現寶藏經》西晉三藏竺法護譯 卷數：3 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OO",
+       "created": 1646116894468,
+       "text": "【洪武南藏】No.136《佛說文殊師利現寶藏經》西晉 三藏法師竺法護 譯 冊數：49 / 頁數：301 / 卷數：2 千字文：蓋 1 (145)-蓋 2 (145)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OP",
+       "created": 1646116894468,
+       "text": "【永樂南藏】No.171《佛說文珠師利現寶藏經》 部別：大乘經-五大部外重譯經 千字文：敢(158)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OQ",
+       "created": 1646116894468,
+       "text": "【永樂北藏】No.193《佛說文殊師利現寶藏經》西晉竺法護譯 部別：大乘經五大部外重譯經 / 冊數：40 / 頁數：281 / 卷數：2 千字文：恭"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OR",
+       "created": 1646116894468,
+       "text": "【嘉興藏】No.163《佛說文殊現寶藏經》西晉竺法護譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0163 千字文 / 函號：［正藏］ 恭(153)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OS",
+       "created": 1646116894468,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OT",
+       "created": 1646116894468,
+       "text": "【乾隆藏】No.164《佛說文殊師利現寶藏經》西晉 竺法護 部別：大乘五大部外重譯經 / 冊數：34 / 頁數：573 / 卷數：2 千字文：恭"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OU",
+       "created": 1646116894468,
+       "text": "【縮刻藏】No.222《佛說文殊師利現寶藏經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：2 千字文：宇 10 (5)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OV",
+       "created": 1646116894468,
+       "text": "【卍正藏】No.167《佛說文殊師利現寶藏經》西晉 竺法護譯 部別：大乘經 五大部外重譯經 / 冊數：16 / 頁數：722 / 卷數：2 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OW",
+       "created": 1646116894468,
+       "text": "【大正藏】No.461《佛說文殊師利現寶藏經》西晉 竺法護譯 部別：經集部一 / 冊數：14 / 頁數：452 / 卷數：2 相關經典：縮-宇10,卍-9.9,國-經12 參考資料：No.462"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OX",
+       "created": 1646116894468,
+       "text": "【佛教大藏經】No.225《佛說文殊師利現寶藏經》西晉 竺法護譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：743 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OY",
+       "created": 1646116894468,
+       "text": "【中華藏】No.158《佛說文殊師利現寶藏經》西晉月氏三藏竺法護譯 冊數：17 / 頁數：334 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7OZ",
+       "created": 1646116894468,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7Oa",
+       "created": 1646116894468,
+       "text": "【南條文雄編號】 Nj. 0168"
+      }},
+      {"data": {
+       "id": "z5cYwtQ7Ob",
+       "created": 1646116894468,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：461"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwqreq",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

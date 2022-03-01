@@ -1,0 +1,660 @@
+{
+ "root": {
+  "data": {"text": "出生無邊門陀羅尼經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxKnFE1",
+     "created": 1646116896165,
+     "text": "現藏錄（唐 不空譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxKmFD8",
+       "created": 1646116896164,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxKmFD9",
+         "created": 1646116896164,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxKmFDA",
+         "created": 1646116896164,
+         "text": "出生無邊門陀羅尼經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxKmFDB",
+         "created": 1646116896164,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxKmFDC",
+         "created": 1646116896164,
+         "text": "出生无边门陀罗尼经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxKmFDD",
+         "created": 1646116896164,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxKmFDE",
+         "created": 1646116896164,
+         "text": "chu sheng wu bian men tuo luo ni jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxKmFDN",
+         "created": 1646116896164,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxKmFDO",
+         "created": 1646116896164,
+         "text": "Ch'u sheng wu pien men t'o lo ni ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxKmFDP",
+         "created": 1646116896164,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxKmFDQ",
+         "created": 1646116896164,
+         "text": "Anantamukhasādhakadhāraṇī(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxKmFDR",
+         "created": 1646116896164,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxKmFDS",
+         "created": 1646116896164,
+         "text": "Sgo mthaḥ-yas-pa sgrub-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxKmFDT",
+         "created": 1646116896164,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxKmFDU",
+         "created": 1646116896164,
+         "text": "출생무변문다라니경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxKmFDF",
+       "created": 1646116896164,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxKmFDG",
+       "created": 1646116896164,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxKmFDH",
+       "created": 1646116896164,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxKmFDI",
+        "created": 1646116896164,
+        "text": "唐 不空譯"
+       }},
+       {"data": {
+        "id": "z5cYxKmFDJ",
+        "created": 1646116896164,
+        "text": "不空",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxKmFDK",
+        "created": 1646116896164,
+        "text": "智嚴",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxKmFDL",
+       "created": 1646116896164,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxKmFDM",
+       "created": 1646116896164,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxKmFDV",
+       "created": 1646116896164,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxKmFDW",
+       "created": 1646116896164,
+       "text": ""
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxKmFDX",
+      "created": 1646116896164,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxKmFDY",
+       "created": 1646116896164,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxKmFDZ",
+       "created": 1646116896164,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxKnFDa",
+       "created": 1646116896165,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxKnFDb",
+        "created": 1646116896165,
+        "text": "【房山石經】No.775《佛說出生無邊門陀羅尼經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：57 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：相"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDc",
+        "created": 1646116896165,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDd",
+        "created": 1646116896165,
+        "text": "【崇寧藏】No.1357《佛說出生無邊門陀羅尼經》 卷數：1 千字文：惠(556)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDe",
+        "created": 1646116896165,
+        "text": "【毘盧藏】No.1355《佛說出生無邊門陀羅尼經》唐不空譯 千字文：惠(556)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDf",
+        "created": 1646116896165,
+        "text": "【圓覺藏】No.1353《出生無邊門陀羅尼經》 千字文：佐(533)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDg",
+        "created": 1646116896165,
+        "text": "【趙城金藏】No.1292《出生無邊門陀羅尼經》 卷數：1 千字文：富"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDh",
+        "created": 1646116896165,
+        "text": "【資福藏】No.1358《佛說出生無邊門陀羅尼》 卷數：1 千字文：佐(533)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDi",
+        "created": 1646116896165,
+        "text": "【磧砂藏】No.1362《佛說出生無邊門陀羅尼經》唐 不空譯 部別： / 冊數：34 / 頁數：437 / 卷數：1 千字文：佐 7 (533)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDj",
+        "created": 1646116896165,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDk",
+        "created": 1646116896165,
+        "text": "【高麗藏】No.1279《出生無邊門陀羅尼經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：36 頁數：783 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：尹"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDl",
+        "created": 1646116896165,
+        "text": "【普寧藏】No.1353《佛說出生無邊門陀羅尼經》 卷數：1 千字文：佐(533)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDm",
+        "created": 1646116896165,
+        "text": "【至元錄】No.595《出生無邊門陀羅尼經》唐三藏大廣智不空譯 卷數：1 / 出處：(今編入錄) / 譯次：(第十二譯) 千字文：善(231)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDn",
+        "created": 1646116896165,
+        "text": "【洪武南藏】No.1210《佛說出生無邊門陀羅尼經》三藏沙門大廣智不空 譯 冊數：189 / 頁數：206 / 卷數：1 千字文：佐 7 (533)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDo",
+        "created": 1646116896165,
+        "text": "【永樂南藏】No.998《佛說出生無邊門陀羅尼經》 部別：宋元入藏諸大小乘經 千字文：流(274)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDp",
+        "created": 1646116896165,
+        "text": "【永樂北藏】No.988《佛說出生無邊門陀羅尼經》唐不空譯 部別：宋元入藏諸大小乘經 / 冊數：69 / 頁數：915 / 卷數：1 千字文：興"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDq",
+        "created": 1646116896165,
+        "text": "【嘉興藏】No.950《佛說出生無邊門陀羅尼》唐不空譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0950 千字文 / 函號：［正藏］ 興(262)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDr",
+        "created": 1646116896165,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDs",
+        "created": 1646116896165,
+        "text": "【乾隆藏】No.951《佛說出生無邊門陀羅尼經》唐 不空譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：41 / 卷數：1 千字文：興"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDt",
+        "created": 1646116896165,
+        "text": "【縮刻藏】No.1179《出生無邊門陀羅尼經》唐不空譯 部別：祕密部 / 卷數：1 千字文： 8 (25)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDu",
+        "created": 1646116896165,
+        "text": "【卍正藏】No.960《出生無邊門陀羅尼經》不空譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：472 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDv",
+        "created": 1646116896165,
+        "text": "【大正藏】No.1009《出生無邊門陀羅尼經》唐 不空譯 部別：密教部二 / 冊數：19 / 頁數：675 / 卷數：1 相關經典：縮-閏8,卍-15.8 參考資料：Nos.1011-1018"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDw",
+        "created": 1646116896165,
+        "text": "【佛教大藏經】No.1249《出生無邊門陀羅尼經》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：46 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDx",
+        "created": 1646116896165,
+        "text": "【中華藏】No.1401《佛說出生無邊門陀羅尼經》大興善寺三藏沙門不空奉詔譯 冊數：65 / 頁數：385 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDy",
+        "created": 1646116896165,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxKnFDz",
+        "created": 1646116896165,
+        "text": "【南條文雄編號】 Nj. 0956"
+       }},
+       {"data": {
+        "id": "z5cYxKnFE0",
+        "created": 1646116896165,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1009"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxLAFLx",
+     "created": 1646116896188,
+     "text": "現藏錄（唐 智嚴譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxL9FL4",
+       "created": 1646116896187,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxL9FL5",
+         "created": 1646116896187,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxL9FL6",
+         "created": 1646116896187,
+         "text": "出生無邊門陀羅尼經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxL9FL7",
+         "created": 1646116896187,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxL9FL8",
+         "created": 1646116896187,
+         "text": "出生无边门陀罗尼经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxL9FL9",
+         "created": 1646116896187,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxL9FLA",
+         "created": 1646116896187,
+         "text": "chu sheng wu bian men tuo luo ni jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxL9FLJ",
+         "created": 1646116896187,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxL9FLK",
+         "created": 1646116896187,
+         "text": "Ch'u sheng wu pien men t'o lo ni ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxL9FLL",
+         "created": 1646116896187,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxL9FLM",
+         "created": 1646116896187,
+         "text": "Anantamukhasādhakadhāraṇī(sūtra)"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxL9FLN",
+         "created": 1646116896187,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxL9FLO",
+         "created": 1646116896187,
+         "text": "Sgo mthaḥ-yas-pa sgrub pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxL9FLP",
+         "created": 1646116896187,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxL9FLQ",
+         "created": 1646116896187,
+         "text": "출생무변문타라니경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxL9FLB",
+       "created": 1646116896187,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxL9FLC",
+       "created": 1646116896187,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxL9FLD",
+       "created": 1646116896187,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxL9FLE",
+        "created": 1646116896187,
+        "text": "唐 智嚴譯"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLF",
+        "created": 1646116896187,
+        "text": "不空"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLG",
+        "created": 1646116896187,
+        "text": "智嚴"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxL9FLH",
+       "created": 1646116896187,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxL9FLI",
+       "created": 1646116896187,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxL9FLR",
+       "created": 1646116896187,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxL9FLS",
+       "created": 1646116896187,
+       "text": "Translation by Chih-yen: 9th year of K'ai Yüan (開元), T'ang dynasty (唐) (A.D. 721) in Feng-en Monastery (奉恩寺).T. 2154-571a:21."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxL9FLT",
+      "created": 1646116896187,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxL9FLU",
+       "created": 1646116896187,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxL9FLV",
+       "created": 1646116896187,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxL9FLW",
+       "created": 1646116896187,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxL9FLX",
+        "created": 1646116896187,
+        "text": "【房山石經】No.282《出生無邊門陀羅尼經》智嚴重譯 冊數：3 / 頁數：594 / 卷數：1 / 刻經年代： / 瀏覽：目錄圖檔 千字文： 【房山石經】No.489《出生無邊門陀羅尼經》(唐)沙門智嚴譯 冊數：11 / 頁數：72 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：過"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLY",
+        "created": 1646116896187,
+        "text": "【開寶藏】No.332《出生無邊門陀羅尼經》唐 至相寺沙門智嚴 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：良"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLZ",
+        "created": 1646116896187,
+        "text": "【崇寧藏】No.331《出生無邊門陀羅尼經》 卷數：1 千字文：知(169)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLa",
+        "created": 1646116896187,
+        "text": "【毘盧藏】No.329《出生無邊門陀羅尼經》唐智嚴重譯 千字文：知(169)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLb",
+        "created": 1646116896187,
+        "text": "【圓覺藏】No.340《出生無邊門陀羅尼經》 千字文：知(169)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLc",
+        "created": 1646116896187,
+        "text": "【趙城金藏】No.332《出生無邊門陀羅尼經》 卷數：1 千字文：良"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLd",
+        "created": 1646116896187,
+        "text": "【資福藏】No.344《出生無邊門陀羅尼經》 卷數：1 千字文：知(169)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLe",
+        "created": 1646116896187,
+        "text": "【磧砂藏】No.347《出生無邊門陀羅尼經》唐 智嚴譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：684 / 卷數：1 千字文：知 10 (169)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLf",
+        "created": 1646116896187,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLg",
+        "created": 1646116896187,
+        "text": "【高麗藏】No.331《出生無邊門陀羅尼經》終南山至相寺上座將軍師智嚴譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：1331 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：良"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLh",
+        "created": 1646116896187,
+        "text": "【普寧藏】No.341《出生無邊門陀羅尼經》 卷數：1 千字文：知(169)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLi",
+        "created": 1646116896187,
+        "text": "【至元錄】No.594《出生無邊門陀羅尼經》唐至相寺沙門智嚴譯 卷數：1 / 譯次：(第十一譯) 千字文：善(231)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLj",
+        "created": 1646116896187,
+        "text": "【洪武南藏】No.297《出生無邊門陀羅尼經》唐 終南山至相寺上虛將軍師智嚴 重譯 冊數：57 / 頁數：415 / 卷數：1 千字文：知 10 (169)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLk",
+        "created": 1646116896187,
+        "text": "【永樂南藏】No.335《出生無邊門陀羅尼經》 部別：大乘經-五大部外重譯經 千字文：得(173)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLl",
+        "created": 1646116896187,
+        "text": "【永樂北藏】No.384《出生無邊門陀羅尼經》唐智嚴譯 部別：大乘經五大部外重譯經 / 冊數：46 / 頁數：305 / 卷數：1 千字文：莫"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLm",
+        "created": 1646116896187,
+        "text": "【嘉興藏】No.355《出生無邊門陀羅尼經》唐智嚴譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0355 千字文 / 函號：［正藏］ 莫(175)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLn",
+        "created": 1646116896187,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLo",
+        "created": 1646116896187,
+        "text": "【乾隆藏】No.356《出生無邊門陀羅尼經》唐 釋智嚴譯 部別：大乘五大部外重譯經 / 冊數：39 / 頁數：571 / 卷數：1 千字文：莫"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLp",
+        "created": 1646116896187,
+        "text": "【縮刻藏】No.1566《出生無邊門陀羅尼經》唐智嚴重譯 部別：祕密部 / 卷數：1 千字文：成 9 (27)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLq",
+        "created": 1646116896187,
+        "text": "【卍正藏】No.360《出生無邊門陀羅尼經》智嚴重翻譯 部別：大乘經 五大部外重譯經 / 冊數：19 / 頁數：121 / 卷數：1 原版套數：第 11 套"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLr",
+        "created": 1646116896187,
+        "text": "【大正藏】No.1018《出生無邊門陀羅尼經》唐 智嚴譯 部別：密教部二 / 冊數：19 / 頁數：702 / 卷數：1 相關經典：縮-成9,卍-11.1 參考資料：Nos.1009,1011-1017"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLs",
+        "created": 1646116896187,
+        "text": "【佛教大藏經】No.1643《出生無邊門陀羅尼經》唐 智嚴譯 部別：密教部六 / 冊數：57 / 頁數：480 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLt",
+        "created": 1646116896187,
+        "text": "【中華藏】No.356《出生無邊門陀羅尼經》終南山至相寺上座將軍師智嚴重翻譯 冊數：20 / 頁數：377 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLu",
+        "created": 1646116896187,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLv",
+        "created": 1646116896187,
+        "text": "【南條文雄編號】 Nj. 0360"
+       }},
+       {"data": {
+        "id": "z5cYxL9FLw",
+        "created": 1646116896187,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1018"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy1wun",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,350 @@
+{
+ "root": {
+  "data": {"text": "大乘悲分陀利經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwXw2HK",
+    "created": 1646116893136,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwXw2GP",
+      "created": 1646116893136,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwXw2GQ",
+        "created": 1646116893136,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXw2GR",
+        "created": 1646116893136,
+        "text": "大乘悲分陀利經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXw2GS",
+        "created": 1646116893136,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXw2GT",
+        "created": 1646116893136,
+        "text": "大乘悲分陀利经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXw2GU",
+        "created": 1646116893136,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXw2GV",
+        "created": 1646116893136,
+        "text": "da cheng bei fen tuo li jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXw2Gb",
+        "created": 1646116893136,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXw2Gc",
+        "created": 1646116893136,
+        "text": "Ta ch'eng pei fen t'o li ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXw2Gd",
+        "created": 1646116893136,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXw2Ge",
+        "created": 1646116893136,
+        "text": "Karuṇāpuṇḍarīkasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXw2Gf",
+        "created": 1646116893136,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXw2Gg",
+        "created": 1646116893136,
+        "text": "Sñiṅ-rje pad-ma dkar-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwXw2Gh",
+        "created": 1646116893136,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwXw2Gi",
+        "created": 1646116893136,
+        "text": "대승비분타리경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwXw2GW",
+      "created": 1646116893136,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwXw2GX",
+       "created": 1646116893136,
+       "text": "失譯",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwXw2GY",
+       "created": 1646116893136,
+       "text": "闍那崛多",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwXw2GZ",
+      "created": 1646116893136,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwXw2Ga",
+      "created": 1646116893136,
+      "text": "8"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwXw2Gj",
+      "created": 1646116893136,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwXw2Gk",
+      "created": 1646116893136,
+      "text": "Translator unknown: Ch'in dynasty (奏) (A.D. 350-431).T. 2157-815b:15."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwXw2Gl",
+      "created": 1646116893136,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwXw2Gm",
+       "created": 1646116893136,
+       "text": "【北京版】Mdo-sna-tshogs (cu)149a-296b"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gn",
+       "created": 1646116893136,
+       "text": "【奈塘版】Mdo(cha)187b-443"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Go",
+       "created": 1646116893136,
+       "text": "【德格版】Mdo-sde (cha)129a-297a"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gp",
+       "created": 1646116893136,
+       "text": "【拉薩版】Mdo-sde (cha)209b-474a"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gq",
+       "created": 1646116893136,
+       "text": "【卓尼版】Mdo-maṅ (cha)159a-350a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwXw2Gr",
+      "created": 1646116893136,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwXw2Gs",
+      "created": 1646116893136,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwXw2Gt",
+      "created": 1646116893136,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwXw2Gu",
+       "created": 1646116893136,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gv",
+       "created": 1646116893136,
+       "text": "【開寶藏】No.126《大悲芬陀利經》失譯者 （附三秦錄） 部別：大乘經 五大部外諸重譯經 / 卷數：8 千字文：白"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gw",
+       "created": 1646116893136,
+       "text": "【崇寧藏】No.127《大乘大悲分陀利經》 卷數：8 千字文：駒(134)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gx",
+       "created": 1646116893136,
+       "text": "【毘盧藏】No.123《大乘大悲分陀利經》失譯 參考年代：(宣和七．十二) 千字文：駒(134)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gy",
+       "created": 1646116893136,
+       "text": "【圓覺藏】No.124《大悲芬陀利經》 卷數：8 千字文：駒(134)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2Gz",
+       "created": 1646116893136,
+       "text": "【趙城金藏】No.125《大乘悲分陀利經》 卷數：8 千字文：白"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H0",
+       "created": 1646116893136,
+       "text": "【資福藏】No.128《大乘大悲分陀利經》 卷數：8 (八卷) 千字文：駒(134)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H1",
+       "created": 1646116893136,
+       "text": "【磧砂藏】No.127《大乘大悲分陀利經》 部別：五大部外諸重譯經 / 冊數：9 / 頁數：392 / 卷數：8 千字文：駒 3 (134)-駒 10 (134)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H2",
+       "created": 1646116893136,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H3",
+       "created": 1646116893136,
+       "text": "【高麗藏】No.125《大乘悲分陀利經》失譯三藏名今附秦錄 部別：大乘經 五大部外諸重譯經 / 冊數：9 頁數：1113 / 卷數：8 / 連結：高麗大藏經 (圖檔) 千字文：白"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H4",
+       "created": 1646116893136,
+       "text": "【普寧藏】No.123《大乘大悲分陀利經》 卷數：8 千字文：駒(134)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H5",
+       "created": 1646116893136,
+       "text": "【至元錄】No.204《大悲分陀利經》失譯人名 梵名：麻訶迦嚕拏　奔怛哩(二合)蘇怛囉(二合) / 卷數：8 / 出處：(今附秦錄) / 譯次：(第三譯) 千字文：此(146)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H6",
+       "created": 1646116893136,
+       "text": "【洪武南藏】No.112《大乘大悲分陀利經》失譯師名附秦錄 冊數：45 / 頁數：355 / 卷數：8 千字文：駒 3 (134)-駒 10 (134)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H7",
+       "created": 1646116893136,
+       "text": "【永樂南藏】No.123《大乘大悲分陀利經》 部別：大乘經-五大部外重譯經 千字文：賴(141)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H8",
+       "created": 1646116893136,
+       "text": "【永樂北藏】No.204《大乘大悲分陀利經》失譯人名附秦錄 部別：大乘經五大部外重譯經 / 冊數：41 / 頁數：477 / 卷數：8 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwXw2H9",
+       "created": 1646116893136,
+       "text": "【嘉興藏】No.175《大乘大悲分陀利經》失譯人名附秦錄 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0175 千字文 / 函號：［正藏］ 敢(158)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HA",
+       "created": 1646116893136,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HB",
+       "created": 1646116893136,
+       "text": "【乾隆藏】No.176《大乘大悲分陀利經》隋 闍那崛多譯 部別：大乘五大部外重譯經 / 冊數：35 / 頁數：593 / 卷數：8 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HC",
+       "created": 1646116893136,
+       "text": "【縮刻藏】No.264《大乘悲分陀利經》失譯 部別：大乘經-方等部 / 卷數：8 千字文：宙 3 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HD",
+       "created": 1646116893136,
+       "text": "【卍正藏】No.178《大乘悲分陀利經》失三藏名今附秦錄 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：193 / 卷數：8 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HE",
+       "created": 1646116893136,
+       "text": "【大正藏】No.158《大乘悲分陀利經》失譯 部別：本緣部上 / 冊數：3 / 頁數：233 / 卷數：8 相關經典：縮-宙3,卍-10.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwXw2HF",
+       "created": 1646116893136,
+       "text": "【佛教大藏經】No.267《大乘悲分陀利經》失譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：430 / 卷數：8"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HG",
+       "created": 1646116893136,
+       "text": "【中華藏】No.133《大乘悲分陀利經》失譯（附秦錄） 冊數：16 / 頁數：14 / 卷數：8 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HH",
+       "created": 1646116893136,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HI",
+       "created": 1646116893136,
+       "text": "【南條文雄編號】 Nj. 0180"
+      }},
+      {"data": {
+       "id": "z5cYwXw2HJ",
+       "created": 1646116893136,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：158"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvpr4h",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

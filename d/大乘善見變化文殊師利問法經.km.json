@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說大乘善見變化文殊師利問法經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwu07Yb",
+    "created": 1646116894504,
+    "text": "現藏錄（宋 天息災譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwu07Xe",
+      "created": 1646116894504,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwu07Xf",
+        "created": 1646116894504,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu07Xg",
+        "created": 1646116894504,
+        "text": "佛說大乘善見變化文殊師利問法經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu07Xh",
+        "created": 1646116894504,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu07Xi",
+        "created": 1646116894504,
+        "text": "佛说大乘善见变化文殊师利问法经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu07Xj",
+        "created": 1646116894504,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu07Xk",
+        "created": 1646116894504,
+        "text": "fo shuo da cheng shan jian bian hua wen shu shi li wen fa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu07Xs",
+        "created": 1646116894504,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu07Xt",
+        "created": 1646116894504,
+        "text": "Ta ch'eng shan chien pien hua wen shu shih li wen fa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu07Xu",
+        "created": 1646116894504,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu07Xv",
+        "created": 1646116894504,
+        "text": "Bodhipakṣanirdeśa(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu07Xw",
+        "created": 1646116894504,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu07Xx",
+        "created": 1646116894504,
+        "text": "Byaṅ-chub-kyi phyogs bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwu07Xy",
+        "created": 1646116894504,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwu07Xz",
+        "created": 1646116894504,
+        "text": "대승선견변화문수사리문법경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwu07Xl",
+      "created": 1646116894504,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu07Xm",
+      "created": 1646116894504,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu07Xn",
+      "created": 1646116894504,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwu07Xo",
+       "created": 1646116894504,
+       "text": "宋 天息災譯"
+      }},
+      {"data": {
+       "id": "z5cYwu07Xp",
+       "created": 1646116894504,
+       "text": "天息災",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwu07Xq",
+      "created": 1646116894504,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu07Xr",
+      "created": 1646116894504,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu07Y0",
+      "created": 1646116894504,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu07Y1",
+      "created": 1646116894504,
+      "text": "Ta-chung-lu vol.3 p.21a-23a."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu07Y2",
+      "created": 1646116894504,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwu07Y3",
+       "created": 1646116894504,
+       "text": "【北京版】Mdo-sna-tshogs (bu)251a-255a"
+      }},
+      {"data": {
+       "id": "z5cYwu07Y4",
+       "created": 1646116894504,
+       "text": "【奈塘版】Mdo (pha)383a-390a"
+      }},
+      {"data": {
+       "id": "z5cYwu07Y5",
+       "created": 1646116894504,
+       "text": "【德格版】Mdo-sde (ma)240b-244b"
+      }},
+      {"data": {
+       "id": "z5cYwu07Y6",
+       "created": 1646116894504,
+       "text": "【拉薩版】Mdo (pha)377b-384a"
+      }},
+      {"data": {
+       "id": "z5cYwu07Y7",
+       "created": 1646116894504,
+       "text": "【卓尼版】Mdo-maṅ (ma)296b-301b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwu07Y8",
+      "created": 1646116894504,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwu07Y9",
+      "created": 1646116894504,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwu07YA",
+      "created": 1646116894504,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwu07YB",
+       "created": 1646116894504,
+       "text": "【房山石經】No.868《佛說大乘善見變化文殊師利問法經》西天中印度惹爛馱羅國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：25 / 頁數：583 / 卷數：1 / 刻經年代：皇統元年刻石 / 瀏覽：目錄圖檔 千字文：磻"
+      }},
+      {"data": {
+       "id": "z5cYwu07YC",
+       "created": 1646116894504,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YD",
+       "created": 1646116894504,
+       "text": "【崇寧藏】No.1101《佛說大乘善見變化文殊師利問法經》 卷數：1 千字文：相(492)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YE",
+       "created": 1646116894504,
+       "text": "【毘盧藏】No.1100《佛說大乘善見變化文殊師利問法經》宋天息災譯 千字文：相(492)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YF",
+       "created": 1646116894504,
+       "text": "【圓覺藏】No.1110《文殊師利問法經》 千字文：相(492)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YG",
+       "created": 1646116894504,
+       "text": "【趙城金藏】No.1100《大乘善見變化文殊師利問法經》 卷數：1 千字文：鍾"
+      }},
+      {"data": {
+       "id": "z5cYwu07YH",
+       "created": 1646116894504,
+       "text": "【資福藏】No.1114《文殊師利問法經》 卷數：1 千字文：相(492)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YI",
+       "created": 1646116894504,
+       "text": "【磧砂藏】No.1125《佛說大乘善見變化文殊師利問法經》宋 天息災譯 部別： / 冊數：32 / 頁數：542 / 卷數：1 千字文：相 10 (492)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YJ",
+       "created": 1646116894504,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YK",
+       "created": 1646116894504,
+       "text": "【高麗藏】No.1099《大乘善見變化文殊師利問法經》密林寺沙門天息災譯 部別：宋續入藏經 / 冊數：33 頁數：877 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鍾"
+      }},
+      {"data": {
+       "id": "z5cYwu07YL",
+       "created": 1646116894504,
+       "text": "【普寧藏】No.1115《佛說大乘善見變化文殊師利問法經》 卷數：1 千字文：相(492)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YM",
+       "created": 1646116894504,
+       "text": "【至元錄】No.503《大乘善見變化文殊師利問法經》宋西域三藏天息災譯 梵名：阿唎(二合)亞菩提拔乞(二合)灑　曼殊室利　儞哩(二合)底沙　拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：維(203)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YN",
+       "created": 1646116894504,
+       "text": "【洪武南藏】No.980《佛說文殊師利問法經》西天中印度惹爛䭾囉國密林寺三藏明教大師賜紫沙門臣天息災 奉詔譯 冊數：178 / 頁數：582 / 卷數：1 千字文：相 10 (492)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YO",
+       "created": 1646116894504,
+       "text": "【永樂南藏】No.787《佛說大乘善見變化文殊師利問法經》 部別：宋元入藏諸大小乘經 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YP",
+       "created": 1646116894504,
+       "text": "【永樂北藏】No.823《佛說大乘善見變化文殊師利問法經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：340 / 卷數：1 千字文：忠"
+      }},
+      {"data": {
+       "id": "z5cYwu07YQ",
+       "created": 1646116894504,
+       "text": "【嘉興藏】No.786《佛說大乘善見變化文殊問法經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0786 千字文 / 函號：［正藏］ 忠(253)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YR",
+       "created": 1646116894504,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YS",
+       "created": 1646116894504,
+       "text": "【乾隆藏】No.787《佛說大乘善見變化文殊師利問法經》宋 天息災譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：573 / 卷數：1 千字文：忠"
+      }},
+      {"data": {
+       "id": "z5cYwu07YT",
+       "created": 1646116894504,
+       "text": "【縮刻藏】No.256《佛說大乘善見變化文殊師利問法經》宋天息災譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 2 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YU",
+       "created": 1646116894504,
+       "text": "【卍正藏】No.796《佛說大乘善見變化文殊師利問法經》天息災譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：380 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwu07YV",
+       "created": 1646116894504,
+       "text": "【大正藏】No.472《佛說大乘善見變化文殊師利問法經》宋 天息災譯 部別：經集部一 / 冊數：14 / 頁數：514 / 卷數：1 相關經典：縮-宙2,卍-15.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwu07YW",
+       "created": 1646116894504,
+       "text": "【佛教大藏經】No.259《佛說大乘善見變化文殊師利問法經》宋 天息災譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：222 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwu07YX",
+       "created": 1646116894504,
+       "text": "【中華藏】No.1209《佛說大乘善見變化文殊師利問法經》西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：63 / 頁數：752 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwu07YY",
+       "created": 1646116894504,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwu07YZ",
+       "created": 1646116894504,
+       "text": "【南條文雄編號】 Nj. 0792"
+      }},
+      {"data": {
+       "id": "z5cYwu07Ya",
+       "created": 1646116894504,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：472"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwrrf1",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

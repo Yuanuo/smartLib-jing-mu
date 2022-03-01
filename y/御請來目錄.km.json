@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "御請來目錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyA2Uh8",
+    "created": 1646116899342,
+    "text": "現藏錄（日本 空海撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyA1UgT",
+      "created": 1646116899341,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyA1UgU",
+        "created": 1646116899341,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyA1UgV",
+        "created": 1646116899341,
+        "text": "御請來目錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyA1UgW",
+        "created": 1646116899341,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyA1UgX",
+        "created": 1646116899341,
+        "text": "御请来目录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyA1UgY",
+        "created": 1646116899341,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyA1UgZ",
+        "created": 1646116899341,
+        "text": "yu qing lai mu lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyA1Uga",
+      "created": 1646116899341,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyA1Ugb",
+      "created": 1646116899341,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyA1Ugc",
+      "created": 1646116899341,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyA1Ugd",
+       "created": 1646116899341,
+       "text": "日本 空海撰"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uge",
+       "created": 1646116899341,
+       "text": "空海",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyA1Ugf",
+      "created": 1646116899341,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyA1Ugg",
+      "created": 1646116899341,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyA1Ugh",
+      "created": 1646116899341,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyA1Ugi",
+       "created": 1646116899341,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugj",
+       "created": 1646116899341,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugk",
+       "created": 1646116899341,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugl",
+       "created": 1646116899341,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugm",
+       "created": 1646116899341,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugn",
+       "created": 1646116899341,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugo",
+       "created": 1646116899341,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugp",
+       "created": 1646116899341,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugq",
+       "created": 1646116899341,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugr",
+       "created": 1646116899341,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugs",
+       "created": 1646116899341,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugt",
+       "created": 1646116899341,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugu",
+       "created": 1646116899341,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugv",
+       "created": 1646116899341,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugw",
+       "created": 1646116899341,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugx",
+       "created": 1646116899341,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugy",
+       "created": 1646116899341,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Ugz",
+       "created": 1646116899341,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh0",
+       "created": 1646116899341,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh1",
+       "created": 1646116899341,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh2",
+       "created": 1646116899341,
+       "text": "【大正藏】No.2161《御請來目錄》日本 空海撰 部別：目錄部全 / 冊數：55 / 頁數：1060 / 卷數：1 相關經典：佛全-2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh3",
+       "created": 1646116899341,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh4",
+       "created": 1646116899341,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh5",
+       "created": 1646116899341,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh6",
+       "created": 1646116899341,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyA1Uh7",
+       "created": 1646116899341,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2161"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0i51so",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

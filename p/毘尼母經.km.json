@@ -1,0 +1,305 @@
+{
+ "root": {
+  "data": {"text": "毘尼母經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxgOLY9",
+    "created": 1646116897504,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxgOLXL",
+      "created": 1646116897504,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxgOLXM",
+        "created": 1646116897504,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxgOLXN",
+        "created": 1646116897504,
+        "text": "毘尼母經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxgOLXO",
+        "created": 1646116897504,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxgOLXP",
+        "created": 1646116897504,
+        "text": "毘尼母经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxgOLXQ",
+        "created": 1646116897504,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxgOLXR",
+        "created": 1646116897504,
+        "text": "pi ni mu jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxgOLXW",
+        "created": 1646116897504,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxgOLXX",
+        "created": 1646116897504,
+        "text": "P'i ni mu ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxgOLXY",
+       "created": 1646116897504,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxgOLXZ",
+        "created": 1646116897504,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxgOLXa",
+        "created": 1646116897504,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxgOLXb",
+        "created": 1646116897504,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxgOLXc",
+        "created": 1646116897504,
+        "text": "비니모경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxgOLXS",
+      "created": 1646116897504,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxgOLXT",
+      "created": 1646116897504,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxgOLXU",
+      "created": 1646116897504,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxgOLXV",
+      "created": 1646116897504,
+      "text": "8"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxgOLXd",
+      "created": 1646116897504,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxgOLXe",
+      "created": 1646116897504,
+      "text": "Ch'in lu (秦錄) (A.D. 350-431).T. 2154-620a:3."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxgOLXf",
+     "created": 1646116897504,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxgOLXg",
+      "created": 1646116897504,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxgOLXh",
+      "created": 1646116897504,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxgOLXi",
+      "created": 1646116897504,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxgOLXj",
+       "created": 1646116897504,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXk",
+       "created": 1646116897504,
+       "text": "【開寶藏】No.934《毗尼母經》三秦 失譯者 部別：小乘律 聲聞調伏藏 / 卷數：8 千字文：子"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXl",
+       "created": 1646116897504,
+       "text": "【崇寧藏】No.937《毘尼母論》 卷數：8 千字文：猶(349)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXm",
+       "created": 1646116897504,
+       "text": "【毘盧藏】No.938《毘尼母論》失譯 參考年代：(紹興一八．閏八) 千字文：猶(349)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXn",
+       "created": 1646116897504,
+       "text": "【圓覺藏】No.947《毘尼母論》 卷數：8 千字文：猶(349)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXo",
+       "created": 1646116897504,
+       "text": "【趙城金藏】No.941《毗尼母經》 卷數：8 千字文：叔"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXp",
+       "created": 1646116897504,
+       "text": "【資福藏】No.953《毘尼母論》 卷數：8 (八卷) 千字文：猶(349)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXq",
+       "created": 1646116897504,
+       "text": "【磧砂藏】No.961《毗尼母經》失譯 部別： / 冊數：23 / 頁數：132 / 卷數：8 千字文：猶 1 (349)-猶 8 (349)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXr",
+       "created": 1646116897504,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXs",
+       "created": 1646116897504,
+       "text": "【高麗藏】No.939《毘尼母經》失譯人名今附秦錄 部別：小乘律 / 冊數：24 頁數：495 / 卷數：8 / 連結：高麗大藏經 (圖檔) 千字文：叔"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXt",
+       "created": 1646116897504,
+       "text": "【普寧藏】No.953《毘尼母經》 卷數：8 千字文：猶(349)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXu",
+       "created": 1646116897504,
+       "text": "【至元錄】No.1257《毘尼母經》失譯人名 卷數：8 / 出處：(今附秦錄) 千字文：逸(388)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXv",
+       "created": 1646116897504,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXw",
+       "created": 1646116897504,
+       "text": "【永樂南藏】No.1305《毘尼母論》 部別：小乘律 千字文：交(361)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXx",
+       "created": 1646116897504,
+       "text": "【永樂北藏】No.1180《毗尼母論》失譯人名附秦錄 部別：小乘律 / 冊數：90 / 頁數：497 / 卷數：8 千字文：唱"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXy",
+       "created": 1646116897504,
+       "text": "【嘉興藏】No.1132《毘尼母論》失譯人名附秦錄 部別：小乘律 / 法寶總目錄經號：1131 千字文 / 函號：［正藏］ 唱(334)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLXz",
+       "created": 1646116897504,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY0",
+       "created": 1646116897504,
+       "text": "【乾隆藏】No.1133《毗尼母論》失譯人名今附秦錄 部別：小乘律 / 冊數：74 / 頁數：595 / 卷數：8 千字文：唱"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY1",
+       "created": 1646116897504,
+       "text": "【縮刻藏】No.850《毘尼母經》失譯 部別：小乘律 / 卷數：8 千字文：寒 9 (17)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY2",
+       "created": 1646116897504,
+       "text": "【卍正藏】No.1143《毗尼母經》失譯人名今附秦錄 部別：小乘律 / 冊數：36 / 頁數：120 / 卷數：8 原版套數：第 19 套"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY3",
+       "created": 1646116897504,
+       "text": "【大正藏】No.1463《毘尼母經》失譯 部別：律部三 / 冊數：24 / 頁數：801 / 卷數：8 相關經典：縮-寒9,卍-19.6,國-律15 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxgOLY4",
+       "created": 1646116897504,
+       "text": "【佛教大藏經】No.887《毘尼母經》失譯 部別：小乘律 律部六 / 冊數：34 / 頁數：653 / 卷數：8"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY5",
+       "created": 1646116897504,
+       "text": "【中華藏】No.1024《毗尼母經》失譯人名今附秦 冊數：42 / 頁數：693 / 卷數：8 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY6",
+       "created": 1646116897504,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY7",
+       "created": 1646116897504,
+       "text": "【南條文雄編號】 Nj. 1138"
+      }},
+      {"data": {
+       "id": "z5cYxgOLY8",
+       "created": 1646116897504,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1463"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz34186",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

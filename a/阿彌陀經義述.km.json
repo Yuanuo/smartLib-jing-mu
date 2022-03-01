@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "阿彌陀經義述"},
+  "children": [{
+   "data": {
+    "id": "z5cYxuGPeH",
+    "created": 1646116898364,
+    "text": "現藏錄（唐 慧淨述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxuGPdc",
+      "created": 1646116898364,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxuGPdd",
+        "created": 1646116898364,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxuGPde",
+        "created": 1646116898364,
+        "text": "阿彌陀經義述",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxuGPdf",
+        "created": 1646116898364,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxuGPdg",
+        "created": 1646116898364,
+        "text": "阿弥陀经义述",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxuGPdh",
+        "created": 1646116898364,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxuGPdi",
+        "created": 1646116898364,
+        "text": "a mi tuo jing yi shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxuGPdj",
+      "created": 1646116898364,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxuGPdk",
+      "created": 1646116898364,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxuGPdl",
+      "created": 1646116898364,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxuGPdm",
+       "created": 1646116898364,
+       "text": "唐 慧淨述"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdn",
+       "created": 1646116898364,
+       "text": "慧淨",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxuGPdo",
+      "created": 1646116898364,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxuGPdp",
+      "created": 1646116898364,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxuGPdq",
+      "created": 1646116898364,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxuGPdr",
+       "created": 1646116898364,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPds",
+       "created": 1646116898364,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdt",
+       "created": 1646116898364,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdu",
+       "created": 1646116898364,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdv",
+       "created": 1646116898364,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdw",
+       "created": 1646116898364,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdx",
+       "created": 1646116898364,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdy",
+       "created": 1646116898364,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPdz",
+       "created": 1646116898364,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe0",
+       "created": 1646116898364,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe1",
+       "created": 1646116898364,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe2",
+       "created": 1646116898364,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe3",
+       "created": 1646116898364,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe4",
+       "created": 1646116898364,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe5",
+       "created": 1646116898364,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe6",
+       "created": 1646116898364,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe7",
+       "created": 1646116898364,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe8",
+       "created": 1646116898364,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPe9",
+       "created": 1646116898364,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPeA",
+       "created": 1646116898364,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPeB",
+       "created": 1646116898364,
+       "text": "【大正藏】No.1756《阿彌陀經義述》唐 慧淨述 部別：經疏部五 / 冊數：37 / 頁數：307 / 卷數：1 相關經典：續-1.33.2 參考資料：cf.No.366"
+      }},
+      {"data": {
+       "id": "z5cYxuGPeC",
+       "created": 1646116898364,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPeD",
+       "created": 1646116898364,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPeE",
+       "created": 1646116898364,
+       "text": "【新纂卍續藏】No.416《阿彌陀經義述》唐 慧淨述 部別：中國撰述 大小乘釋經部二十 方等部疏 / 冊數：22 / 頁數：456 / 卷數：1 《卍大日本續藏經》套數：第一編．第 33 套 《卍續藏經》(新文豐版)冊數：第 33 冊"
+      }},
+      {"data": {
+       "id": "z5cYxuGPeF",
+       "created": 1646116898364,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxuGPeG",
+       "created": 1646116898364,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1756"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzr01gh",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

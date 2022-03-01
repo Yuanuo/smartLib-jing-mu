@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "觀所緣緣論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxoQNvU",
+    "created": 1646116898002,
+    "text": "現藏錄（陳那菩薩造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxoPNuX",
+      "created": 1646116898001,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxoPNuY",
+        "created": 1646116898001,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoPNuZ",
+        "created": 1646116898001,
+        "text": "觀所緣緣論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoPNua",
+        "created": 1646116898001,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoPNub",
+        "created": 1646116898001,
+        "text": "观所缘缘论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoPNuc",
+        "created": 1646116898001,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoPNud",
+        "created": 1646116898001,
+        "text": "guan suo yuan yuan lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoPNum",
+        "created": 1646116898001,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoPNun",
+        "created": 1646116898001,
+        "text": "Kuan so yüan yüan lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoPNuo",
+        "created": 1646116898001,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoPNup",
+        "created": 1646116898001,
+        "text": "Ālambanaparīkṣā",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoPNuq",
+        "created": 1646116898001,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoPNur",
+        "created": 1646116898001,
+        "text": "Dmigs-pa brtag-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoPNus",
+        "created": 1646116898001,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoPNut",
+        "created": 1646116898001,
+        "text": "관소연연론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoPNue",
+      "created": 1646116898001,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoPNuf",
+      "created": 1646116898001,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoPNug",
+      "created": 1646116898001,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoPNuh",
+       "created": 1646116898001,
+       "text": "陳那菩薩造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxoPNui",
+       "created": 1646116898001,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxoPNuj",
+       "created": 1646116898001,
+       "text": "陳那",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoPNuk",
+      "created": 1646116898001,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoPNul",
+      "created": 1646116898001,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoPNuu",
+      "created": 1646116898001,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoPNuv",
+      "created": 1646116898001,
+      "text": "Translation by Hsüan-tsang: 29th day, 12th month, 2nd year of Hsien Ch'ing (顯慶), T'ang dynasty (唐) (A.D. 657) in Ta-nei-li-jih Hall (大內麗日殿), Tung-tu (東都).T. 2154-556c:24."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoPNuw",
+      "created": 1646116898001,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoPNux",
+       "created": 1646116898001,
+       "text": "【北京版】Mdo-ḥgrel (Tshad-ma) (ce)177a-b, 177b-179a"
+      }},
+      {"data": {
+       "id": "z5cYxoPNuy",
+       "created": 1646116898001,
+       "text": "【奈塘版】Mdo-ḥgrel (ce)180a-b; 180b-182a"
+      }},
+      {"data": {
+       "id": "z5cYxoPNuz",
+       "created": 1646116898001,
+       "text": "【德格版】Tshad-ma (ce)86a; 86a-87b"
+      }},
+      {"data": {
+       "id": "z5cYxoPNv0",
+       "created": 1646116898001,
+       "text": "【卓尼版】Tshad-ma (ce)85b-86a, 86a-87a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoPNv1",
+      "created": 1646116898001,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoPNv2",
+      "created": 1646116898001,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoPNv3",
+      "created": 1646116898001,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoQNv4",
+       "created": 1646116898002,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNv5",
+       "created": 1646116898002,
+       "text": "【開寶藏】No.625《觀所緣緣論》唐 三藏玄奘 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYxoQNv6",
+       "created": 1646116898002,
+       "text": "【崇寧藏】No.627《觀所緣緣論》 卷數：1 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNv7",
+       "created": 1646116898002,
+       "text": "【毘盧藏】No.628《觀所緣緣論》陳那菩薩造　唐玄奘譯 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNv8",
+       "created": 1646116898002,
+       "text": "【圓覺藏】No.636《觀所緣緣論》 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNv9",
+       "created": 1646116898002,
+       "text": "【趙城金藏】No.629《觀所緣論》 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvA",
+       "created": 1646116898002,
+       "text": "【資福藏】No.641《觀所緣緣論》 卷數：1 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvB",
+       "created": 1646116898002,
+       "text": "【磧砂藏】No.647《觀所緣緣論》唐 玄奘譯 部別：集義論 / 冊數：17 / 頁數：261 / 卷數：1 千字文：命 9 (256)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvC",
+       "created": 1646116898002,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvD",
+       "created": 1646116898002,
+       "text": "【高麗藏】No.628《觀所緣緣論》三藏法師玄奘譯 部別：大乘論 集義論 / 冊數：17 頁數：753(原版) 743(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvE",
+       "created": 1646116898002,
+       "text": "【普寧藏】No.639《觀所緣緣論》 卷數：1 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvF",
+       "created": 1646116898002,
+       "text": "【至元錄】No.1355《觀所緣論》陳那菩薩造　唐三藏玄奘譯 卷數：1 / 譯次：(第二譯) 千字文：啟(444)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvG",
+       "created": 1646116898002,
+       "text": "【洪武南藏】No.572《觀所緣緣論》陳那菩薩 造　三藏法師玄奘 奉詔譯　 冊數：89 / 頁數：305 / 卷數：1 千字文：命 10 (256)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvH",
+       "created": 1646116898002,
+       "text": "【永樂南藏】No.1379《觀所緣緣論》 部別：大乘論 千字文：華(411)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvI",
+       "created": 1646116898002,
+       "text": "【永樂北藏】No.1220《觀所緣緣論》唐玄奘譯 部別：大乘論 / 冊數：99 / 頁數：421 / 卷數：1 千字文：投"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvJ",
+       "created": 1646116898002,
+       "text": "【嘉興藏】No.1166《觀所緣緣論》唐玄奘譯 部別：大乘論 / 法寶總目錄經號：1165 千字文 / 函號：［正藏］ 投(363)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvK",
+       "created": 1646116898002,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvL",
+       "created": 1646116898002,
+       "text": "【乾隆藏】No.1167《觀所緣緣論》陳那造　(唐)玄奘譯 部別：大乘論 / 冊數：81 / 頁數：516 / 卷數：1 千字文：投"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvM",
+       "created": 1646116898002,
+       "text": "【縮刻藏】No.898《觀所緣緣論》陳那菩薩造　唐玄奘譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 10 (18)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvN",
+       "created": 1646116898002,
+       "text": "【卍正藏】No.1181《觀所緣緣論》唐 玄奘譯 部別：大乘論 / 冊數：39 / 頁數：339 / 卷數：1 原版套數：第 21 套"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvO",
+       "created": 1646116898002,
+       "text": "【大正藏】No.1624《觀所緣緣論》陳那菩薩造 唐 玄奘譯 部別：瑜伽部下 / 冊數：31 / 頁數：888 / 卷數：1 相關經典：縮-來10,卍-21.2 參考資料：cf.No.1625"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvP",
+       "created": 1646116898002,
+       "text": "【佛教大藏經】No.940《觀所緣緣論》唐 玄奘譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：748 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvQ",
+       "created": 1646116898002,
+       "text": "【中華藏】No.677《觀所緣緣論》陳那菩薩造，三藏法師玄奘奉詔譯 冊數：30 / 頁數：977 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvR",
+       "created": 1646116898002,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvS",
+       "created": 1646116898002,
+       "text": "【南條文雄編號】 Nj. 1173"
+      }},
+      {"data": {
+       "id": "z5cYxoQNvT",
+       "created": 1646116898002,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1624"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzgx1cq",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

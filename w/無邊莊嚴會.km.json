@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "無邊莊嚴會"},
+  "children": [{
+   "data": {
+    "id": "z5cYwim4ZB",
+    "created": 1646116893808,
+    "text": "現藏錄（唐 菩提流志譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwil4YW",
+      "created": 1646116893807,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwil4YX",
+        "created": 1646116893807,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwil4YY",
+        "created": 1646116893807,
+        "text": "無邊莊嚴會",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwil4YZ",
+        "created": 1646116893807,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwil4Ya",
+        "created": 1646116893807,
+        "text": "无边庄严会",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwil4Yb",
+        "created": 1646116893807,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwil4Yc",
+        "created": 1646116893807,
+        "text": "wu bian zhuang yan hui"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwil4Yd",
+      "created": 1646116893807,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwil4Ye",
+      "created": 1646116893807,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwil4Yf",
+      "created": 1646116893807,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwil4Yg",
+       "created": 1646116893807,
+       "text": "唐 菩提流志譯"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yh",
+       "created": 1646116893807,
+       "text": "菩提流志",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwil4Yi",
+      "created": 1646116893807,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwil4Yj",
+      "created": 1646116893807,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwil4Yk",
+      "created": 1646116893807,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwil4Yl",
+       "created": 1646116893807,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Ym",
+       "created": 1646116893807,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yn",
+       "created": 1646116893807,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yo",
+       "created": 1646116893807,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yp",
+       "created": 1646116893807,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yq",
+       "created": 1646116893807,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yr",
+       "created": 1646116893807,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Ys",
+       "created": 1646116893807,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yt",
+       "created": 1646116893807,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yu",
+       "created": 1646116893807,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yv",
+       "created": 1646116893807,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yw",
+       "created": 1646116893807,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yx",
+       "created": 1646116893807,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yy",
+       "created": 1646116893807,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Yz",
+       "created": 1646116893807,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z0",
+       "created": 1646116893807,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z1",
+       "created": 1646116893807,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z2",
+       "created": 1646116893807,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z3",
+       "created": 1646116893807,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z4",
+       "created": 1646116893807,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z5",
+       "created": 1646116893807,
+       "text": "【大正藏】No.310《大寶積經》唐 菩提流志譯 部別：寶積部上 / 冊數：11 / 頁數：1 / 卷數：120 相關經典：縮-地1-6,卍-5.7-6.3,國-寶1-6 參考資料：共四九會"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z6",
+       "created": 1646116893807,
+       "text": "【佛教大藏經】No.29《大寶積經》唐 菩提流志等譯 部別：大乘經 方等部一 / 冊數：3 / 頁數：1 / 卷數：120"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z7",
+       "created": 1646116893807,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z8",
+       "created": 1646116893807,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4Z9",
+       "created": 1646116893807,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwil4ZA",
+       "created": 1646116893807,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：310"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw8f8y",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

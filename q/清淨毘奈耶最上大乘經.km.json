@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "清淨毘奈耶最上大乘經"},
+  "children": [{
+   "data": {
+    "id": "z5cYzFuos8",
+    "created": 1646116903550,
+    "text": "現藏錄（宋 西夏三藏智吉祥等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzFuorT",
+      "created": 1646116903550,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzFuorU",
+        "created": 1646116903550,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzFuorV",
+        "created": 1646116903550,
+        "text": "清淨毘奈耶最上大乘經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzFuorW",
+        "created": 1646116903550,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzFuorX",
+        "created": 1646116903550,
+        "text": "清净毘奈耶最上大乘经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzFuorY",
+        "created": 1646116903550,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzFuorZ",
+        "created": 1646116903550,
+        "text": "qing jing pi nai ye zui shang da cheng jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzFuora",
+      "created": 1646116903550,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzFuorb",
+      "created": 1646116903550,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzFuorc",
+      "created": 1646116903550,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzFuord",
+       "created": 1646116903550,
+       "text": "宋 西夏三藏智吉祥等譯"
+      }},
+      {"data": {
+       "id": "z5cYzFuore",
+       "created": 1646116903550,
+       "text": "智吉祥",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzFuorf",
+      "created": 1646116903550,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzFuorg",
+      "created": 1646116903550,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzFuorh",
+      "created": 1646116903550,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzFuori",
+       "created": 1646116903550,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorj",
+       "created": 1646116903550,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuork",
+       "created": 1646116903550,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorl",
+       "created": 1646116903550,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorm",
+       "created": 1646116903550,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorn",
+       "created": 1646116903550,
+       "text": "【趙城金藏】No.1511《佛說清淨毗奈耶最上大乘經》 卷數：3 千字文：門"
+      }},
+      {"data": {
+       "id": "z5cYzFuoro",
+       "created": 1646116903550,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorp",
+       "created": 1646116903550,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorq",
+       "created": 1646116903550,
+       "text": "【宋藏遺珍】No.17《佛說清淨毗奈耶最上大乘經》宋 智吉祥等 譯 六冊版冊數：2 / 頁數：699 / 卷數：3 四冊版冊數：38 / 頁數：82"
+      }},
+      {"data": {
+       "id": "z5cYzFuorr",
+       "created": 1646116903550,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuors",
+       "created": 1646116903550,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuort",
+       "created": 1646116903550,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuoru",
+       "created": 1646116903550,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorv",
+       "created": 1646116903550,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorw",
+       "created": 1646116903550,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorx",
+       "created": 1646116903550,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuory",
+       "created": 1646116903550,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuorz",
+       "created": 1646116903550,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuos0",
+       "created": 1646116903550,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuos1",
+       "created": 1646116903550,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuos2",
+       "created": 1646116903550,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuos3",
+       "created": 1646116903550,
+       "text": "【佛教大藏經】No.797《佛說清淨毗奈耶最上大乘經》宋 智吉祥等譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：909 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYzFuos4",
+       "created": 1646116903550,
+       "text": "【中華藏】No.1692《佛說清淨毗奈耶最上大乘經》同譯經西天寶法大師賜紫沙門智吉祥等奉詔譯 冊數：76 / 頁數：43 / 卷數：3 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYzFuos5",
+       "created": 1646116903550,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuos6",
+       "created": 1646116903550,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzFuos7",
+       "created": 1646116903550,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：102"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3r1395",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

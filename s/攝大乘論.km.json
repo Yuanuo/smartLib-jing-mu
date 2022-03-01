@@ -1,0 +1,685 @@
+{
+ "root": {
+  "data": {"text": "攝大乘論"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxmkNRm",
+     "created": 1646116897898,
+     "text": "現藏錄（阿僧伽作　後魏 佛陀扇多譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxmkNQt",
+       "created": 1646116897898,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxmkNQu",
+         "created": 1646116897898,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmkNQv",
+         "created": 1646116897898,
+         "text": "攝大乘論",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmkNQw",
+         "created": 1646116897898,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmkNQx",
+         "created": 1646116897898,
+         "text": "摄大乘论",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmkNQy",
+         "created": 1646116897898,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmkNQz",
+         "created": 1646116897898,
+         "text": "she da cheng lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmkNR8",
+         "created": 1646116897898,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmkNR9",
+         "created": 1646116897898,
+         "text": "She to ch'eng lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmkNRA",
+         "created": 1646116897898,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmkNRB",
+         "created": 1646116897898,
+         "text": "Mahāyānasaṅgraha",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmkNRC",
+         "created": 1646116897898,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmkNRD",
+         "created": 1646116897898,
+         "text": "Theg-pa chen-po bsdus-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmkNRE",
+         "created": 1646116897898,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmkNRF",
+         "created": 1646116897898,
+         "text": "섭대승론",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmkNR0",
+       "created": 1646116897898,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmkNR1",
+       "created": 1646116897898,
+       "text": "後魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmkNR2",
+       "created": 1646116897898,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmkNR3",
+        "created": 1646116897898,
+        "text": "阿僧伽作　後魏 佛陀扇多譯"
+       }},
+       {"data": {
+        "id": "z5cYxmkNR4",
+        "created": 1646116897898,
+        "text": "佛陀扇多",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxmkNR5",
+        "created": 1646116897898,
+        "text": "無著",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmkNR6",
+       "created": 1646116897898,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmkNR7",
+       "created": 1646116897898,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmkNRG",
+       "created": 1646116897898,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmkNRH",
+       "created": 1646116897898,
+       "text": "Translation by Buddhaśanta: 1st year of P'u-t'ai (普泰), Yüan Wei dynasty (元魏) (A.D. 531) at Lo yang (洛陽).T. 2149-269c:17; T. 2154-542b:11."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxmkNRI",
+      "created": 1646116897898,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxmkNRJ",
+       "created": 1646116897898,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmkNRK",
+       "created": 1646116897898,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmkNRL",
+       "created": 1646116897898,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmkNRM",
+        "created": 1646116897898,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRN",
+        "created": 1646116897898,
+        "text": "【開寶藏】No.587《攝大乘論》元魏 天竺三藏佛陀扇多 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：2 千字文：曰"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRO",
+        "created": 1646116897898,
+        "text": "【崇寧藏】No.589《攝大乘論》扇多譯 卷數：2 千字文：嚴(246)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRP",
+        "created": 1646116897898,
+        "text": "【毘盧藏】No.591《攝大乘論》元魏佛陀扇多譯 千字文：嚴(246)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRQ",
+        "created": 1646116897898,
+        "text": "【圓覺藏】No.603《攝大乘論釋》 卷數：50 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRR",
+        "created": 1646116897898,
+        "text": "【趙城金藏】No.592《攝大乘論》 卷數：2 千字文：嚴"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRS",
+        "created": 1646116897898,
+        "text": "【資福藏】No.608《攝大乘論釋》 卷數：50 (五十卷) 千字文：嚴(246)-當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRT",
+        "created": 1646116897898,
+        "text": "【磧砂藏】No.609《攝大乘論》元魏 佛陀扇多譯 部別：集義論 / 冊數：16 / 頁數：535 / 卷數：2 千字文：嚴 1 (246)-嚴 2 (246)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRU",
+        "created": 1646116897898,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRV",
+        "created": 1646116897898,
+        "text": "【高麗藏】No.591《攝大乘論》後魏世佛陀扇多於洛陽譯 部別：大乘論 集義論 / 冊數：16 頁數：1262(原版) 1314(新文豐) / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：嚴"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRW",
+        "created": 1646116897898,
+        "text": "【普寧藏】No.602《攝大乘論》 卷數：2 千字文：嚴(246)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRX",
+        "created": 1646116897898,
+        "text": "【至元錄】No.1317《攝大乘論》無著菩薩造　元魏天竺三藏佛馱扇多譯 卷數：2 / 譯次：(第一譯) 千字文：寫(434)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRY",
+        "created": 1646116897898,
+        "text": "【洪武南藏】No.538《攝大乘論》無著菩薩 造　元魏 天竺沙門佛陀扇多 譯　 冊數：85 / 頁數：338 / 卷數：2 千字文：嚴 1 (246)-嚴 2 (246)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRZ",
+        "created": 1646116897898,
+        "text": "【永樂南藏】No.1345《攝大乘論》 部別：大乘論 千字文：物(398)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRa",
+        "created": 1646116897898,
+        "text": "【永樂北藏】No.1230《攝大乘論》佛陀扇多 部別：大乘論 / 冊數：101 / 頁數：533 / 卷數：2 千字文：隱"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRb",
+        "created": 1646116897898,
+        "text": "【嘉興藏】No.1176《攝大乘論》無著菩薩造-元魏天竺沙門佛陀扇多譯 部別：大乘論 / 法寶總目錄經號：1175b 千字文 / 函號：［正藏］ 隱(371)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRc",
+        "created": 1646116897898,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRd",
+        "created": 1646116897898,
+        "text": "【乾隆藏】No.1177b《攝大乘論》無著造　(元魏)佛陀扇多譯 部別：大乘論 / 冊數：83 / 頁數：283 / 卷數：2 千字文：隱"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRe",
+        "created": 1646116897898,
+        "text": "【縮刻藏】No.886《攝大乘論》阿僧伽作　後魏佛陀扇多譯 部別：印度大乘宗經論 / 卷數：2 千字文：來 9 (18)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRf",
+        "created": 1646116897898,
+        "text": "【卍正藏】No.1192《攝大乘論》後魏 佛陀扇多譯 部別：大乘論 / 冊數：40 / 頁數：181 / 卷數：2 原版套數：第 21 套"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRg",
+        "created": 1646116897898,
+        "text": "【大正藏】No.1592《攝大乘論》阿僧伽作 後魏 佛陀扇多譯 部別：瑜伽部下 / 冊數：31 / 頁數：97 / 卷數：2 相關經典：縮-來9,卍-21.6 參考資料：Nos.1593,1594;cf.Nos.1595-1598"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRh",
+        "created": 1646116897898,
+        "text": "【佛教大藏經】No.928《攝大乘論》後魏 佛陀扇多譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：651 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRi",
+        "created": 1646116897898,
+        "text": "【中華藏】No.641《攝大乘論》阿僧伽作，後魏世佛陀扇多於洛陽譯 冊數：30 / 頁數：1 / 卷數：2 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRj",
+        "created": 1646116897898,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRk",
+        "created": 1646116897898,
+        "text": "【南條文雄編號】 Nj. 1184"
+       }},
+       {"data": {
+        "id": "z5cYxmkNRl",
+        "created": 1646116897898,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1592"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxmnNSk",
+     "created": 1646116897901,
+     "text": "現藏錄（無著菩薩造　陳 真諦譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxmnNRn",
+       "created": 1646116897901,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxmnNRo",
+         "created": 1646116897901,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmnNRp",
+         "created": 1646116897901,
+         "text": "攝大乘論"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmnNRq",
+         "created": 1646116897901,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmnNRr",
+         "created": 1646116897901,
+         "text": "摄大乘论"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmnNRs",
+         "created": 1646116897901,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmnNRt",
+         "created": 1646116897901,
+         "text": "she da cheng lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmnNS2",
+         "created": 1646116897901,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmnNS3",
+         "created": 1646116897901,
+         "text": "She ta ch'eng lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmnNS4",
+         "created": 1646116897901,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmnNS5",
+         "created": 1646116897901,
+         "text": "Mahāyānasaṅgraha"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmnNS6",
+         "created": 1646116897901,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmnNS7",
+         "created": 1646116897901,
+         "text": "Theg-pa chen-po bsdus-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxmnNS8",
+         "created": 1646116897901,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxmnNS9",
+         "created": 1646116897901,
+         "text": "섭대승론"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmnNRu",
+       "created": 1646116897901,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmnNRv",
+       "created": 1646116897901,
+       "text": "陳",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmnNRw",
+       "created": 1646116897901,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmnNRx",
+        "created": 1646116897901,
+        "text": "無著菩薩造　陳 真諦譯"
+       }},
+       {"data": {
+        "id": "z5cYxmnNRy",
+        "created": 1646116897901,
+        "text": "無著"
+       }},
+       {"data": {
+        "id": "z5cYxmnNRz",
+        "created": 1646116897901,
+        "text": "真諦",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmnNS0",
+       "created": 1646116897901,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmnNS1",
+       "created": 1646116897901,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmnNSA",
+       "created": 1646116897901,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmnNSB",
+       "created": 1646116897901,
+       "text": "Translation by Paramārtha: 4th year of T'ien Chia (天嘉), Ch'en dynasty (陳) (A.D. 563).T. 2154-545b:24."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmnNSC",
+       "created": 1646116897901,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmnNSD",
+        "created": 1646116897901,
+        "text": "【北京版】Mdo-ḥgrel (Sems-tsam) (ri)1-51a"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSE",
+        "created": 1646116897901,
+        "text": "【奈塘版】Mdo-ḥgrel (li)1-47a"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSF",
+        "created": 1646116897901,
+        "text": "【德格版】Sems-tsam (ri)1b-43a"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSG",
+        "created": 1646116897901,
+        "text": "【卓尼版】Sems-tsam (ri)1b-44a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxmnNSH",
+       "created": 1646116897901,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxmnNSI",
+       "created": 1646116897901,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxmnNSJ",
+       "created": 1646116897901,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxmnNSK",
+        "created": 1646116897901,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSL",
+        "created": 1646116897901,
+        "text": "【開寶藏】No.586《攝大乘論》陳 天竺三藏真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：3 千字文：君"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSM",
+        "created": 1646116897901,
+        "text": "【崇寧藏】No.588《攝大乘論》真諦譯 卷數：3 千字文：曰(245)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSN",
+        "created": 1646116897901,
+        "text": "【毘盧藏】No.590《攝大乘論》序陳慧愷撰　陳真諦譯 千字文：曰(245)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSO",
+        "created": 1646116897901,
+        "text": "【圓覺藏】No.602《攝大乘論》 千字文：曰(245)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSP",
+        "created": 1646116897901,
+        "text": "【趙城金藏】No.589《攝大乘論》 卷數：3 千字文：君"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSQ",
+        "created": 1646116897901,
+        "text": "【資福藏】No.607《攝大乘論》 卷數：3 (三卷) 千字文：曰(245)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSR",
+        "created": 1646116897901,
+        "text": "【磧砂藏】No.608《攝大乘論》陳 真諦譯 部別：集義論 / 冊數：16 / 頁數：515 / 卷數：3 千字文：曰 8 (245)-曰 10 (245)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSS",
+        "created": 1646116897901,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNST",
+        "created": 1646116897901,
+        "text": "【高麗藏】No.588《攝大乘論》無著菩薩造-真諦三藏譯 部別：大乘論 集義論 / 冊數：16 頁數：1052(原版) 1104(新文豐) / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：君"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSU",
+        "created": 1646116897901,
+        "text": "【普寧藏】No.601《攝大乘論》 卷數：3 千字文：曰(245)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSV",
+        "created": 1646116897901,
+        "text": "【至元錄】No.1316《攝大乘論》無著菩薩造　陳天竺三藏真諦譯 卷數：3 / 譯次：(第二譯) 千字文：圖(433)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSW",
+        "created": 1646116897901,
+        "text": "【洪武南藏】No.537《攝大乘論》陳 天竺三藏真諦 於廣州譯 冊數：85 / 頁數：262 / 卷數：3 千字文：曰 8 (245)-曰 10 (245)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSX",
+        "created": 1646116897901,
+        "text": "【永樂南藏】No.1345《攝大乘論》 部別：大乘論 千字文：物(398)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSY",
+        "created": 1646116897901,
+        "text": "【永樂北藏】No.1230《攝大乘論》陳真諦譯 部別：大乘論 / 冊數：101 / 頁數：447 / 卷數：3 千字文：隱"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSZ",
+        "created": 1646116897901,
+        "text": "【嘉興藏】No.1176《攝大乘論》陳天竺三藏真諦譯 部別：大乘論 / 法寶總目錄經號：1175a 千字文 / 函號：［正藏］ 隱(371)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSa",
+        "created": 1646116897901,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSb",
+        "created": 1646116897901,
+        "text": "【乾隆藏】No.1177a《攝大乘論》陳 真諦譯 部別：大乘論 / 冊數：83 / 頁數：223 / 卷數：3 千字文：隱"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSc",
+        "created": 1646116897901,
+        "text": "【縮刻藏】No.885《攝大乘論》無著菩薩造　陳真諦譯 部別：印度大乘宗經論 / 卷數：3 千字文：來 9 (18)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSd",
+        "created": 1646116897901,
+        "text": "【卍正藏】No.1191《攝大乘論》真諦譯 部別：大乘論 / 冊數：40 / 頁數：146 / 卷數：3 原版套數：第 21 套"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSe",
+        "created": 1646116897901,
+        "text": "【大正藏】No.1593《攝大乘論》無著菩薩造 陳 真諦譯 部別：瑜伽部下 / 冊數：31 / 頁數：113 / 卷數：3 相關經典：縮-來9,卍-21.6 參考資料：Nos.1592,1594;cf.Nos.1595-1598"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSf",
+        "created": 1646116897901,
+        "text": "【佛教大藏經】No.927《攝大乘論》陳 真諦譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：615 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSg",
+        "created": 1646116897901,
+        "text": "【中華藏】No.638《攝大乘論》無著菩薩造，真諦三藏譯 冊數：29 / 頁數：753 / 卷數：3 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSh",
+        "created": 1646116897901,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSi",
+        "created": 1646116897901,
+        "text": "【南條文雄編號】 Nj. 1183"
+       }},
+       {"data": {
+        "id": "z5cYxmnNSj",
+        "created": 1646116897901,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1593"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhze21bu",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

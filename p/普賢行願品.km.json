@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "普賢行願品"},
+  "children": [{
+   "data": {
+    "id": "z5cYzEroXq",
+    "created": 1646116903485,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzEroXE",
+      "created": 1646116903485,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzEroXF",
+        "created": 1646116903485,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzEroXG",
+        "created": 1646116903485,
+        "text": "普賢行願品",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzEroXH",
+        "created": 1646116903485,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzEroXI",
+        "created": 1646116903485,
+        "text": "普贤行愿品",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzEroXJ",
+        "created": 1646116903485,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzEroXK",
+        "created": 1646116903485,
+        "text": "pu xian xing yuan pin"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzEroXL",
+      "created": 1646116903485,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzEroXM",
+      "created": 1646116903485,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzEroXN",
+      "created": 1646116903485,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzEroXO",
+      "created": 1646116903485,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzEroXP",
+      "created": 1646116903485,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzEroXQ",
+       "created": 1646116903485,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXR",
+       "created": 1646116903485,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXS",
+       "created": 1646116903485,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXT",
+       "created": 1646116903485,
+       "text": "【毘盧藏】No.1446《普賢行願品》 參考年代：(紹聖三．正) 千字文：頗(595)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXU",
+       "created": 1646116903485,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXV",
+       "created": 1646116903485,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXW",
+       "created": 1646116903485,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXX",
+       "created": 1646116903485,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXY",
+       "created": 1646116903485,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXZ",
+       "created": 1646116903485,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXa",
+       "created": 1646116903485,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXb",
+       "created": 1646116903485,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXc",
+       "created": 1646116903485,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXd",
+       "created": 1646116903485,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXe",
+       "created": 1646116903485,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXf",
+       "created": 1646116903485,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXg",
+       "created": 1646116903485,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXh",
+       "created": 1646116903485,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXi",
+       "created": 1646116903485,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXj",
+       "created": 1646116903485,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXk",
+       "created": 1646116903485,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXl",
+       "created": 1646116903485,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXm",
+       "created": 1646116903485,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXn",
+       "created": 1646116903485,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXo",
+       "created": 1646116903485,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzEroXp",
+       "created": 1646116903485,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：34"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3p838a",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

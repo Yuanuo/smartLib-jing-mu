@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "華嚴經疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYyXnbW2",
+    "created": 1646116900815,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyXnbVQ",
+      "created": 1646116900815,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyXnbVR",
+        "created": 1646116900815,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXnbVS",
+        "created": 1646116900815,
+        "text": "華嚴經疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXnbVT",
+        "created": 1646116900815,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXnbVU",
+        "created": 1646116900815,
+        "text": "华严经疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyXnbVV",
+        "created": 1646116900815,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyXnbVW",
+        "created": 1646116900815,
+        "text": "hua yan jing shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyXnbVX",
+      "created": 1646116900815,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXnbVY",
+      "created": 1646116900815,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXnbVZ",
+      "created": 1646116900815,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyXnbVa",
+      "created": 1646116900815,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyXnbVb",
+      "created": 1646116900815,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyXnbVc",
+       "created": 1646116900815,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVd",
+       "created": 1646116900815,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVe",
+       "created": 1646116900815,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVf",
+       "created": 1646116900815,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVg",
+       "created": 1646116900815,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVh",
+       "created": 1646116900815,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVi",
+       "created": 1646116900815,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVj",
+       "created": 1646116900815,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVk",
+       "created": 1646116900815,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVl",
+       "created": 1646116900815,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVm",
+       "created": 1646116900815,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVn",
+       "created": 1646116900815,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVo",
+       "created": 1646116900815,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVp",
+       "created": 1646116900815,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVq",
+       "created": 1646116900815,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVr",
+       "created": 1646116900815,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVs",
+       "created": 1646116900815,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVt",
+       "created": 1646116900815,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVu",
+       "created": 1646116900815,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVv",
+       "created": 1646116900815,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVw",
+       "created": 1646116900815,
+       "text": "【大正藏】No.2755《華嚴經疏》 部別：古逸部全 / 冊數：85 / 頁數：217 / 卷數：1 相關經典： 參考資料：cf.No.279"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVx",
+       "created": 1646116900815,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVy",
+       "created": 1646116900815,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbVz",
+       "created": 1646116900815,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbW0",
+       "created": 1646116900815,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyXnbW1",
+       "created": 1646116900815,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2755"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1n32a5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

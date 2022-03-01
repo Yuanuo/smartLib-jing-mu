@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "楞嚴經證疏廣解"},
+  "children": [{
+   "data": {
+    "id": "z5cYz8bmcl",
+    "created": 1646116903097,
+    "text": "現藏錄（明 凌弘憲點釋）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYz8bmc7",
+      "created": 1646116903097,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYz8bmc8",
+        "created": 1646116903097,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz8bmc9",
+        "created": 1646116903097,
+        "text": "楞嚴經證疏廣解",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz8bmcA",
+        "created": 1646116903097,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz8bmcB",
+        "created": 1646116903097,
+        "text": "楞严经证疏广解",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz8bmcC",
+        "created": 1646116903097,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYz8bmcD",
+        "created": 1646116903097,
+        "text": "leng yan jing zheng shu guang jie"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYz8bmcE",
+      "created": 1646116903097,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYz8bmcF",
+      "created": 1646116903097,
+      "text": "明",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz8bmcG",
+      "created": 1646116903097,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYz8bmcH",
+      "created": 1646116903097,
+      "text": "明 凌弘憲點釋"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz8bmcI",
+      "created": 1646116903097,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYz8bmcJ",
+      "created": 1646116903097,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz8bmcK",
+      "created": 1646116903097,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYz8bmcL",
+       "created": 1646116903097,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcM",
+       "created": 1646116903097,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcN",
+       "created": 1646116903097,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcO",
+       "created": 1646116903097,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcP",
+       "created": 1646116903097,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcQ",
+       "created": 1646116903097,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcR",
+       "created": 1646116903097,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcS",
+       "created": 1646116903097,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcT",
+       "created": 1646116903097,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcU",
+       "created": 1646116903097,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcV",
+       "created": 1646116903097,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcW",
+       "created": 1646116903097,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcX",
+       "created": 1646116903097,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcY",
+       "created": 1646116903097,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcZ",
+       "created": 1646116903097,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmca",
+       "created": 1646116903097,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcb",
+       "created": 1646116903097,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcc",
+       "created": 1646116903097,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcd",
+       "created": 1646116903097,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmce",
+       "created": 1646116903097,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcf",
+       "created": 1646116903097,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcg",
+       "created": 1646116903097,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmch",
+       "created": 1646116903097,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmci",
+       "created": 1646116903097,
+       "text": "【新纂卍續藏】No.288《楞嚴經證疏廣解》明 凌弘憲點釋 部別：中國撰述 大小乘釋經部十二 方等部疏 / 冊數：14 / 頁數：1 / 卷數：10 《卍大日本續藏經》套數：第一編．第 22 套 《卍續藏經》(新文豐版)冊數：第 22 冊"
+      }},
+      {"data": {
+       "id": "z5cYz8bmcj",
+       "created": 1646116903097,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz8bmck",
+       "created": 1646116903097,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：777"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3eh339",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

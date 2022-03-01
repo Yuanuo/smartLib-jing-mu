@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "無相思塵論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxoENqs",
+    "created": 1646116897990,
+    "text": "現藏錄（陳那菩薩造　陳 真諦譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxoDNpz",
+      "created": 1646116897989,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxoDNq0",
+        "created": 1646116897989,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoDNq1",
+        "created": 1646116897989,
+        "text": "無相思塵論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoDNq2",
+        "created": 1646116897989,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoDNq3",
+        "created": 1646116897989,
+        "text": "无相思尘论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoDNq4",
+        "created": 1646116897989,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoDNq5",
+        "created": 1646116897989,
+        "text": "wu xiang si chen lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoDNqE",
+        "created": 1646116897989,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoDNqF",
+        "created": 1646116897989,
+        "text": "Wu hsiang ssu ch'en lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoDNqG",
+        "created": 1646116897989,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoDNqH",
+        "created": 1646116897989,
+        "text": "Ālambanaparīkṣā",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoDNqI",
+        "created": 1646116897989,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoDNqJ",
+        "created": 1646116897989,
+        "text": "Dmigs-pa brtag-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxoDNqK",
+        "created": 1646116897989,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxoDNqL",
+        "created": 1646116897989,
+        "text": "무상사진론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoDNq6",
+      "created": 1646116897989,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoDNq7",
+      "created": 1646116897989,
+      "text": "陳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoDNq8",
+      "created": 1646116897989,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoDNq9",
+       "created": 1646116897989,
+       "text": "陳那菩薩造　陳 真諦譯"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqA",
+       "created": 1646116897989,
+       "text": "真諦",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxoDNqB",
+       "created": 1646116897989,
+       "text": "陳那",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxoDNqC",
+      "created": 1646116897989,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoDNqD",
+      "created": 1646116897989,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoDNqM",
+      "created": 1646116897989,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoDNqN",
+      "created": 1646116897989,
+      "text": "Translation by Paramārtha: between the 2nd year of Yung Ting (永定) and the 1st year of T'ai Chien (泰建), Ch'en dynasty (陳) (A.D. 558-569).T. 2154-609c:12; T. 2154-546c:1."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxoDNqO",
+     "created": 1646116897989,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxoDNqP",
+      "created": 1646116897989,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxoDNqQ",
+      "created": 1646116897989,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxoDNqR",
+      "created": 1646116897989,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxoDNqS",
+       "created": 1646116897989,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqT",
+       "created": 1646116897989,
+       "text": "【開寶藏】No.624《無相思塵論》陳 天竺三藏真諦 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqU",
+       "created": 1646116897989,
+       "text": "【崇寧藏】No.626《無相思塵論》 卷數：1 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqV",
+       "created": 1646116897989,
+       "text": "【毘盧藏】No.627《無相思塵論》陳真諦譯 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqW",
+       "created": 1646116897989,
+       "text": "【圓覺藏】No.635《無相思塵論》 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqX",
+       "created": 1646116897989,
+       "text": "【趙城金藏】No.630《無相思塵論》 卷數：1 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqY",
+       "created": 1646116897989,
+       "text": "【資福藏】No.640《無相思塵論》 卷數：1 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqZ",
+       "created": 1646116897989,
+       "text": "【磧砂藏】No.646《無相思塵論》陳 真諦譯 部別：集義論 / 冊數：17 / 頁數：260 / 卷數：1 千字文：命 9 (256)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqa",
+       "created": 1646116897989,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqb",
+       "created": 1646116897989,
+       "text": "【高麗藏】No.629《無相思塵論》陳西印度三藏法師真諦譯 部別：大乘論 集義論 / 冊數：17 頁數：754(原版) 729(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：盡"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqc",
+       "created": 1646116897989,
+       "text": "【普寧藏】No.638《無相思塵論》 卷數：1 千字文：命(256)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqd",
+       "created": 1646116897989,
+       "text": "【至元錄】No.1354《無相思塵論》陳天竺三藏真諦譯 卷數：1 / 譯次：(第一譯) 千字文：啟(444)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqe",
+       "created": 1646116897989,
+       "text": "【洪武南藏】No.571《無相思塵論》陳郍菩薩 造　陳世 三藏真諦 譯　 冊數：89 / 頁數：301 / 卷數：1 千字文：命 10 (256)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqf",
+       "created": 1646116897989,
+       "text": "【永樂南藏】No.1378《無相思塵論》 部別：大乘論 千字文：華(411)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqg",
+       "created": 1646116897989,
+       "text": "【永樂北藏】No.1219《無相思塵論》陳真諦譯 部別：大乘論 / 冊數：99 / 頁數：417 / 卷數：1 千字文：投"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqh",
+       "created": 1646116897989,
+       "text": "【嘉興藏】No.1165《無相思塵論》陳真諦譯 部別：大乘論 / 法寶總目錄經號：1164 千字文 / 函號：［正藏］ 投(363)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqi",
+       "created": 1646116897989,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqj",
+       "created": 1646116897989,
+       "text": "【乾隆藏】No.1166《無相思塵論》陳那造　(陳)真諦譯 部別：大乘論 / 冊數：81 / 頁數：511 / 卷數：1 千字文：投"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqk",
+       "created": 1646116897989,
+       "text": "【縮刻藏】No.899《無相思塵論》陳那菩薩造　陳真諦譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 10 (18)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNql",
+       "created": 1646116897989,
+       "text": "【卍正藏】No.1180《無相思塵論》陳 真諦譯 部別：大乘論 / 冊數：39 / 頁數：337 / 卷數：1 原版套數：第 21 套"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqm",
+       "created": 1646116897989,
+       "text": "【大正藏】No.1619《無相思塵論》陳那菩薩造 陳 真諦譯 部別：瑜伽部下 / 冊數：31 / 頁數：882 / 卷數：1 相關經典：縮-來10,卍-21.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxoDNqn",
+       "created": 1646116897989,
+       "text": "【佛教大藏經】No.941《無相思塵論》陳 真諦譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：749 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqo",
+       "created": 1646116897989,
+       "text": "【中華藏】No.678《無相思塵論》陳那菩薩造，陳西印度三藏法師真諦譯 冊數：30 / 頁數：979 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqp",
+       "created": 1646116897989,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqq",
+       "created": 1646116897989,
+       "text": "【南條文雄編號】 Nj. 1172"
+      }},
+      {"data": {
+       "id": "z5cYxoDNqr",
+       "created": 1646116897989,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1619"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzgl1cl",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

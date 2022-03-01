@@ -1,0 +1,722 @@
+{
+ "root": {
+  "data": {"text": "南山祖師禮讚文"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYzCinrq",
+     "created": 1646116903352,
+     "text": "現藏錄（宋 智圓述）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzCinrB",
+       "created": 1646116903352,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzCinrC",
+         "created": 1646116903352,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCinrD",
+         "created": 1646116903352,
+         "text": "南山祖師禮讚文",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzCinrE",
+         "created": 1646116903352,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCinrF",
+         "created": 1646116903352,
+         "text": "南山祖师礼赞文",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzCinrG",
+         "created": 1646116903352,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCinrH",
+         "created": 1646116903352,
+         "text": "nan shan zu shi li zan wen"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzCinrI",
+       "created": 1646116903352,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzCinrJ",
+       "created": 1646116903352,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzCinrK",
+       "created": 1646116903352,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzCinrL",
+        "created": 1646116903352,
+        "text": "宋 智圓述"
+       }},
+       {"data": {
+        "id": "z5cYzCinrM",
+        "created": 1646116903352,
+        "text": "智圓",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzCinrN",
+       "created": 1646116903352,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzCinrO",
+       "created": 1646116903352,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzCinrP",
+       "created": 1646116903352,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzCinrQ",
+        "created": 1646116903352,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrR",
+        "created": 1646116903352,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrS",
+        "created": 1646116903352,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrT",
+        "created": 1646116903352,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrU",
+        "created": 1646116903352,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrV",
+        "created": 1646116903352,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrW",
+        "created": 1646116903352,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrX",
+        "created": 1646116903352,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrY",
+        "created": 1646116903352,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrZ",
+        "created": 1646116903352,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinra",
+        "created": 1646116903352,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrb",
+        "created": 1646116903352,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrc",
+        "created": 1646116903352,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrd",
+        "created": 1646116903352,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinre",
+        "created": 1646116903352,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrf",
+        "created": 1646116903352,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrg",
+        "created": 1646116903352,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrh",
+        "created": 1646116903352,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinri",
+        "created": 1646116903352,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrj",
+        "created": 1646116903352,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrk",
+        "created": 1646116903352,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrl",
+        "created": 1646116903352,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrm",
+        "created": 1646116903352,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrn",
+        "created": 1646116903352,
+        "text": "【新纂卍續藏】No.1504《南山祖師禮讚文》宋 智圓述 部別：中國撰述 禮懺部一 / 冊數：74 / 頁數：1078 / 卷數：1 《卍大日本續藏經》套數：第二編乙．第 3 套 《卍續藏經》(新文豐版)冊數：第 130 冊"
+       }},
+       {"data": {
+        "id": "z5cYzCinro",
+        "created": 1646116903352,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCinrp",
+        "created": 1646116903352,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1593"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzCknsW",
+     "created": 1646116903354,
+     "text": "現藏錄（宋 仁岳述）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzCknrr",
+       "created": 1646116903354,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzCknrs",
+         "created": 1646116903354,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCknrt",
+         "created": 1646116903354,
+         "text": "南山祖師禮讚文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzCknru",
+         "created": 1646116903354,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCknrv",
+         "created": 1646116903354,
+         "text": "南山祖师礼赞文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzCknrw",
+         "created": 1646116903354,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCknrx",
+         "created": 1646116903354,
+         "text": "nan shan zu shi li zan wen"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzCknry",
+       "created": 1646116903354,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzCknrz",
+       "created": 1646116903354,
+       "text": "宋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzCkns0",
+       "created": 1646116903354,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzCkns1",
+        "created": 1646116903354,
+        "text": "宋 仁岳述"
+       }},
+       {"data": {
+        "id": "z5cYzCkns2",
+        "created": 1646116903354,
+        "text": "仁岳",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzCkns3",
+       "created": 1646116903354,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzCkns4",
+       "created": 1646116903354,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzCkns5",
+       "created": 1646116903354,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzCkns6",
+        "created": 1646116903354,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCkns7",
+        "created": 1646116903354,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCkns8",
+        "created": 1646116903354,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCkns9",
+        "created": 1646116903354,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsA",
+        "created": 1646116903354,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsB",
+        "created": 1646116903354,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsC",
+        "created": 1646116903354,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsD",
+        "created": 1646116903354,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsE",
+        "created": 1646116903354,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsF",
+        "created": 1646116903354,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsG",
+        "created": 1646116903354,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsH",
+        "created": 1646116903354,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsI",
+        "created": 1646116903354,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsJ",
+        "created": 1646116903354,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsK",
+        "created": 1646116903354,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsL",
+        "created": 1646116903354,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsM",
+        "created": 1646116903354,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsN",
+        "created": 1646116903354,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsO",
+        "created": 1646116903354,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsP",
+        "created": 1646116903354,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsQ",
+        "created": 1646116903354,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsR",
+        "created": 1646116903354,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsS",
+        "created": 1646116903354,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsT",
+        "created": 1646116903354,
+        "text": "【新纂卍續藏】No.1505《南山祖師禮讚文》宋 仁岳述 部別：中國撰述 禮懺部一 / 冊數：74 / 頁數：1079 / 卷數：1 《卍大日本續藏經》套數：第二編乙．第 3 套 《卍續藏經》(新文豐版)冊數：第 130 冊"
+       }},
+       {"data": {
+        "id": "z5cYzCknsU",
+        "created": 1646116903354,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCknsV",
+        "created": 1646116903354,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1594"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzCnntB",
+     "created": 1646116903357,
+     "text": "現藏錄（宋 允堪述）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzCmnsX",
+       "created": 1646116903356,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzCmnsY",
+         "created": 1646116903356,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCmnsZ",
+         "created": 1646116903356,
+         "text": "南山祖師禮讚文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzCmnsa",
+         "created": 1646116903356,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCmnsb",
+         "created": 1646116903356,
+         "text": "南山祖师礼赞文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzCmnsc",
+         "created": 1646116903356,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzCmnsd",
+         "created": 1646116903356,
+         "text": "nan shan zu shi li zan wen"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzCmnse",
+       "created": 1646116903356,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzCmnsf",
+       "created": 1646116903356,
+       "text": "宋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzCmnsg",
+       "created": 1646116903356,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYzCmnsh",
+       "created": 1646116903356,
+       "text": "宋 允堪述"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzCmnsi",
+       "created": 1646116903356,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzCmnsj",
+       "created": 1646116903356,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzCmnsk",
+       "created": 1646116903356,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzCmnsl",
+        "created": 1646116903356,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsm",
+        "created": 1646116903356,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsn",
+        "created": 1646116903356,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnso",
+        "created": 1646116903356,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsp",
+        "created": 1646116903356,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsq",
+        "created": 1646116903356,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsr",
+        "created": 1646116903356,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnss",
+        "created": 1646116903356,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnst",
+        "created": 1646116903356,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsu",
+        "created": 1646116903356,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsv",
+        "created": 1646116903356,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsw",
+        "created": 1646116903356,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsx",
+        "created": 1646116903356,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsy",
+        "created": 1646116903356,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnsz",
+        "created": 1646116903356,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt0",
+        "created": 1646116903356,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt1",
+        "created": 1646116903356,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt2",
+        "created": 1646116903356,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt3",
+        "created": 1646116903356,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt4",
+        "created": 1646116903356,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt5",
+        "created": 1646116903356,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt6",
+        "created": 1646116903356,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt7",
+        "created": 1646116903356,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt8",
+        "created": 1646116903356,
+        "text": "【新纂卍續藏】No.1506《南山祖師禮讚文》宋 允堪述 部別：中國撰述 禮懺部一 / 冊數：74 / 頁數：1081 / 卷數：1 《卍大日本續藏經》套數：第二編乙．第 3 套 《卍續藏經》(新文豐版)冊數：第 130 冊"
+       }},
+       {"data": {
+        "id": "z5cYzCmnt9",
+        "created": 1646116903356,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzCmntA",
+        "created": 1646116903356,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1595"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3lk36i",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

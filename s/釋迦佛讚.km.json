@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "釋迦佛讚"},
+  "children": [{
+   "data": {
+    "id": "z5cYxHaEDx",
+    "created": 1646116895966,
+    "text": "現藏錄（清 達喇嘛薩穆丹達爾吉譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxHaEDI",
+      "created": 1646116895966,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxHaEDJ",
+        "created": 1646116895966,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxHaEDK",
+        "created": 1646116895966,
+        "text": "釋迦佛讚",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxHaEDL",
+        "created": 1646116895966,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxHaEDM",
+        "created": 1646116895966,
+        "text": "释迦佛赞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxHaEDN",
+        "created": 1646116895966,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxHaEDO",
+        "created": 1646116895966,
+        "text": "shi jia fo zan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxHaEDP",
+      "created": 1646116895966,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxHaEDQ",
+      "created": 1646116895966,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxHaEDR",
+      "created": 1646116895966,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxHaEDS",
+       "created": 1646116895966,
+       "text": "清 達喇嘛薩穆丹達爾吉譯"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDT",
+       "created": 1646116895966,
+       "text": "達喇嘛薩穆丹達爾吉",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxHaEDU",
+      "created": 1646116895966,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxHaEDV",
+      "created": 1646116895966,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxHaEDW",
+      "created": 1646116895966,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxHaEDX",
+       "created": 1646116895966,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDY",
+       "created": 1646116895966,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDZ",
+       "created": 1646116895966,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDa",
+       "created": 1646116895966,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDb",
+       "created": 1646116895966,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDc",
+       "created": 1646116895966,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDd",
+       "created": 1646116895966,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDe",
+       "created": 1646116895966,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDf",
+       "created": 1646116895966,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDg",
+       "created": 1646116895966,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDh",
+       "created": 1646116895966,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDi",
+       "created": 1646116895966,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDj",
+       "created": 1646116895966,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDk",
+       "created": 1646116895966,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDl",
+       "created": 1646116895966,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDm",
+       "created": 1646116895966,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDn",
+       "created": 1646116895966,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDo",
+       "created": 1646116895966,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDp",
+       "created": 1646116895966,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDq",
+       "created": 1646116895966,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDr",
+       "created": 1646116895966,
+       "text": "【大正藏】No.942《釋迦佛讚》清 達喇嘛薩穆丹達爾吉譯 部別：密教部二 / 冊數：19 / 頁數：97 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxHaEDs",
+       "created": 1646116895966,
+       "text": "【佛教大藏經】No.1815《釋迦佛讚》清 達喇嘛薩穆丹達爾吉譯 部別：密教部七 / 冊數：58 / 頁數：983 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDt",
+       "created": 1646116895966,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDu",
+       "created": 1646116895966,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDv",
+       "created": 1646116895966,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxHaEDw",
+       "created": 1646116895966,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：942"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxwesi",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

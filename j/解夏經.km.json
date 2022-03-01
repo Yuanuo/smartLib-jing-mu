@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "解夏經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwOxtF",
+    "created": 1646116892579,
+    "text": "現藏錄（宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwOwsN",
+      "created": 1646116892578,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwOwsO",
+        "created": 1646116892578,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOwsP",
+        "created": 1646116892578,
+        "text": "解夏經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOwsQ",
+        "created": 1646116892578,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOwsR",
+        "created": 1646116892578,
+        "text": "解夏经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOwsS",
+        "created": 1646116892578,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOwsT",
+        "created": 1646116892578,
+        "text": "jie xia jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOwsb",
+        "created": 1646116892578,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOwsc",
+        "created": 1646116892578,
+        "text": "Chieh hsia ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOwsd",
+        "created": 1646116892578,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOwse",
+        "created": 1646116892578,
+        "text": "Pravāraṇasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOwsf",
+        "created": 1646116892578,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOwsg",
+        "created": 1646116892578,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOwsh",
+        "created": 1646116892578,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOwsi",
+        "created": 1646116892578,
+        "text": "해하경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwOwsU",
+      "created": 1646116892578,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOwsV",
+      "created": 1646116892578,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOwsW",
+      "created": 1646116892578,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwOwsX",
+       "created": 1646116892578,
+       "text": "宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYwOwsY",
+       "created": 1646116892578,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwOwsZ",
+      "created": 1646116892578,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOwsa",
+      "created": 1646116892578,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOwsj",
+      "created": 1646116892578,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOwsk",
+      "created": 1646116892578,
+      "text": "Translation by Fa-hsien: (see K.1250)"
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwOwsl",
+     "created": 1646116892578,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwOwsm",
+      "created": 1646116892578,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOwsn",
+      "created": 1646116892578,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOwso",
+      "created": 1646116892578,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwOxsp",
+       "created": 1646116892579,
+       "text": "【房山石經】No.1035《佛說解夏經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：27 / 頁數：227 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：漢"
+      }},
+      {"data": {
+       "id": "z5cYwOxsq",
+       "created": 1646116892579,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOxsr",
+       "created": 1646116892579,
+       "text": "【崇寧藏】No.1266《佛說解夏經》 卷數：1 千字文：轂(510)"
+      }},
+      {"data": {
+       "id": "z5cYwOxss",
+       "created": 1646116892579,
+       "text": "【毘盧藏】No.1267《佛說解夏經》宋法賢譯 千字文：轂(510)"
+      }},
+      {"data": {
+       "id": "z5cYwOxst",
+       "created": 1646116892579,
+       "text": "【圓覺藏】No.1276《解夏經》 千字文：轂(510)"
+      }},
+      {"data": {
+       "id": "z5cYwOxsu",
+       "created": 1646116892579,
+       "text": "【趙城金藏】No.1272《解夏經》 卷數：1 千字文：驅"
+      }},
+      {"data": {
+       "id": "z5cYwOxsv",
+       "created": 1646116892579,
+       "text": "【資福藏】No.1281《解夏經》 卷數：1 千字文：轂(510)"
+      }},
+      {"data": {
+       "id": "z5cYwOxsw",
+       "created": 1646116892579,
+       "text": "【磧砂藏】No.1288《佛說解夏經》宋 法賢譯 部別： / 冊數：33 / 頁數：289 / 卷數：1 千字文：轂 9 (510)"
+      }},
+      {"data": {
+       "id": "z5cYwOxsx",
+       "created": 1646116892579,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOxsy",
+       "created": 1646116892579,
+       "text": "【高麗藏】No.1253《解夏經》譯經大師臣法賢奉詔譯 部別：宋續入藏經 / 冊數：34 頁數：569 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：驅"
+      }},
+      {"data": {
+       "id": "z5cYwOxsz",
+       "created": 1646116892579,
+       "text": "【普寧藏】No.1281《佛說解夏經》 卷數：1 千字文：轂(510)"
+      }},
+      {"data": {
+       "id": "z5cYwOxt0",
+       "created": 1646116892579,
+       "text": "【至元錄】No.1271《解夏經》宋天竺三藏法賢譯 卷數：1 千字文：志(395)"
+      }},
+      {"data": {
+       "id": "z5cYwOxt1",
+       "created": 1646116892579,
+       "text": "【洪武南藏】No.1140《佛說解夏經》西天譯經三藏朝散大夫試光祿卿明教大師臣法賢 奉詔譯 冊數：183 / 頁數：218 / 卷數：1 千字文：轂 9 (510)"
+      }},
+      {"data": {
+       "id": "z5cYwOxt2",
+       "created": 1646116892579,
+       "text": "【永樂南藏】No.945《佛說解夏經》 部別：宋元入藏諸大小乘經 千字文：溫(263)"
+      }},
+      {"data": {
+       "id": "z5cYwOxt3",
+       "created": 1646116892579,
+       "text": "【永樂北藏】No.954《佛說解夏經》宋法賢譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：747 / 卷數：1 千字文：深"
+      }},
+      {"data": {
+       "id": "z5cYwOxt4",
+       "created": 1646116892579,
+       "text": "【嘉興藏】No.917《佛說解夏經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0917 千字文 / 函號：［正藏］ 深(258)"
+      }},
+      {"data": {
+       "id": "z5cYwOxt5",
+       "created": 1646116892579,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOxt6",
+       "created": 1646116892579,
+       "text": "【乾隆藏】No.918《佛說解夏經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：58 / 頁數：61 / 卷數：1 千字文：深"
+      }},
+      {"data": {
+       "id": "z5cYwOxt7",
+       "created": 1646116892579,
+       "text": "【縮刻藏】No.715《佛說解夏經》宋法賢譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYwOxt8",
+       "created": 1646116892579,
+       "text": "【卍正藏】No.927《佛說解夏經》法賢譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：999 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwOxt9",
+       "created": 1646116892579,
+       "text": "【大正藏】No.63《解夏經》宋 法賢譯 部別：阿含部上 / 冊數：1 / 頁數：861 / 卷數：1 相關經典：縮-宿8,卍-15.5,南-12.8.7 參考資料：Nos.26(121),61,62,99(1212),100(228),125(32.5)"
+      }},
+      {"data": {
+       "id": "z5cYwOxtA",
+       "created": 1646116892579,
+       "text": "【佛教大藏經】No.736《佛說解夏經》宋 法賢譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：405 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwOxtB",
+       "created": 1646116892579,
+       "text": "【中華藏】No.1381《佛說解夏經》西天譯經三藏朝奉大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：938 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwOxtC",
+       "created": 1646116892579,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOxtD",
+       "created": 1646116892579,
+       "text": "【南條文雄編號】 Nj. 0923"
+      }},
+      {"data": {
+       "id": "z5cYwOxtE",
+       "created": 1646116892579,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：63"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhva81q",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

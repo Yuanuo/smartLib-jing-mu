@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "文殊師利耶曼德迦呪法"},
+  "children": [{
+   "data": {
+    "id": "z5cYxUnIBp",
+    "created": 1646116896785,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxUnIBD",
+      "created": 1646116896785,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxUnIBE",
+        "created": 1646116896785,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUnIBF",
+        "created": 1646116896785,
+        "text": "文殊師利耶曼德迦呪法",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUnIBG",
+        "created": 1646116896785,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUnIBH",
+        "created": 1646116896785,
+        "text": "文殊师利耶曼德迦呪法",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxUnIBI",
+        "created": 1646116896785,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxUnIBJ",
+        "created": 1646116896785,
+        "text": "wen shu shi li ye man de jia zhou fa"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxUnIBK",
+      "created": 1646116896785,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxUnIBL",
+      "created": 1646116896785,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxUnIBM",
+      "created": 1646116896785,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxUnIBN",
+      "created": 1646116896785,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxUnIBO",
+      "created": 1646116896785,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxUnIBP",
+       "created": 1646116896785,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBQ",
+       "created": 1646116896785,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBR",
+       "created": 1646116896785,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBS",
+       "created": 1646116896785,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBT",
+       "created": 1646116896785,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBU",
+       "created": 1646116896785,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBV",
+       "created": 1646116896785,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBW",
+       "created": 1646116896785,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBX",
+       "created": 1646116896785,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBY",
+       "created": 1646116896785,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBZ",
+       "created": 1646116896785,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBa",
+       "created": 1646116896785,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBb",
+       "created": 1646116896785,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBc",
+       "created": 1646116896785,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBd",
+       "created": 1646116896785,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBe",
+       "created": 1646116896785,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBf",
+       "created": 1646116896785,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBg",
+       "created": 1646116896785,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBh",
+       "created": 1646116896785,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBi",
+       "created": 1646116896785,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBj",
+       "created": 1646116896785,
+       "text": "【大正藏】No.1218《文殊師利耶曼德迦呪法》 部別：密教部四 / 冊數：21 / 頁數：93 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxUnIBk",
+       "created": 1646116896785,
+       "text": "【佛教大藏經】No.1806《文殊師利耶曼德迦咒法》 部別：密教部七 / 冊數：58 / 頁數：930 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBl",
+       "created": 1646116896785,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBm",
+       "created": 1646116896785,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBn",
+       "created": 1646116896785,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxUnIBo",
+       "created": 1646116896785,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1218"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyj5111",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

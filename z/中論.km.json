@@ -1,0 +1,369 @@
+{
+ "root": {
+  "data": {"text": "中論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxlgN1t",
+    "created": 1646116897832,
+    "text": "現藏錄（龍樹菩薩造　梵志青目釋　姚秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxlgN0v",
+      "created": 1646116897832,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxlgN0w",
+        "created": 1646116897832,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxlgN0x",
+        "created": 1646116897832,
+        "text": "中論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxlgN0y",
+        "created": 1646116897832,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxlgN0z",
+        "created": 1646116897832,
+        "text": "中论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxlgN10",
+        "created": 1646116897832,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxlgN11",
+        "created": 1646116897832,
+        "text": "zhong lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxlgN1B",
+        "created": 1646116897832,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxlgN1C",
+        "created": 1646116897832,
+        "text": "Chung lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxlgN1D",
+        "created": 1646116897832,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxlgN1E",
+        "created": 1646116897832,
+        "text": "(Mūla)madhyamakaśāstra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxlgN1F",
+        "created": 1646116897832,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxlgN1G",
+        "created": 1646116897832,
+        "text": "Dbu-ma rtsa-baḥi tshig-leḥur-byas-pa-śes-rab"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxlgN1H",
+        "created": 1646116897832,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxlgN1I",
+        "created": 1646116897832,
+        "text": "중론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxlgN12",
+      "created": 1646116897832,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxlgN13",
+      "created": 1646116897832,
+      "text": "姚秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxlgN14",
+      "created": 1646116897832,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxlgN15",
+       "created": 1646116897832,
+       "text": "龍樹菩薩造　梵志青目釋　姚秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYxlgN16",
+       "created": 1646116897832,
+       "text": "青目",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxlgN17",
+       "created": 1646116897832,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxlgN18",
+       "created": 1646116897832,
+       "text": "龍樹",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxlgN19",
+      "created": 1646116897832,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxlgN1A",
+      "created": 1646116897832,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxlgN1J",
+      "created": 1646116897832,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxlgN1K",
+      "created": 1646116897832,
+      "text": "Translation by Kumārajīva: 11th year of Hung Shih (弘始) Yao Ch'in Dynasty (姚秦) (A.D. 409) at Ta Monastery (大寺).T. 2154-513a:6."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxlgN1L",
+      "created": 1646116897832,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxlgN1M",
+       "created": 1646116897832,
+       "text": "【北京版】Mdo-ḥgrel (Dbu-ma)(tsa) 1-22b"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1N",
+       "created": 1646116897832,
+       "text": "【奈塘版】Mdo-ḥgrel (tsa)1-20a"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1O",
+       "created": 1646116897832,
+       "text": "【德格版】Dbu-ma (tsa)l b-19a"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1P",
+       "created": 1646116897832,
+       "text": "【卓尼版】Dbu-ma (tsa)l b-19a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxlgN1Q",
+      "created": 1646116897832,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxlgN1R",
+      "created": 1646116897832,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxlgN1S",
+      "created": 1646116897832,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxlgN1T",
+       "created": 1646116897832,
+       "text": "【房山石經】No.723《中論》龍樹菩薩本　梵志青目釋　(姚秦)三藏鳩摩羅什譯 冊數：19 / 頁數：370 / 卷數：4 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：寸陰"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1U",
+       "created": 1646116897832,
+       "text": "【開寶藏】No.574《中論》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：4 千字文：非-寶"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1V",
+       "created": 1646116897832,
+       "text": "【崇寧藏】No.576《中論》 卷數：4 千字文：寸(237)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1W",
+       "created": 1646116897832,
+       "text": "【毘盧藏】No.578《中論》序釋僧序散 千字文：寸(237)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1X",
+       "created": 1646116897832,
+       "text": "【圓覺藏】No.590《中論》 卷數：4 千字文：寸(237)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1Y",
+       "created": 1646116897832,
+       "text": "【趙城金藏】No.578《中論》 卷數：4 千字文：寶"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1Z",
+       "created": 1646116897832,
+       "text": "【資福藏】No.595《中論》 卷數：4 (四卷) 千字文：寸(237)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1a",
+       "created": 1646116897832,
+       "text": "【磧砂藏】No.596《中論》姚秦 鳩摩羅什譯 部別：集義論 / 冊數：16 / 頁數：31 / 卷數：4 千字文：寸 7 (237)-寸 10 (237)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1b",
+       "created": 1646116897832,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1c",
+       "created": 1646116897832,
+       "text": "【高麗藏】No.577《中論》龍樹菩薩造-姚秦三藏鳩摩羅什譯 部別：大乘論 集義論 / 冊數：16 頁數：350(原版) 402(新文豐) / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：寶"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1d",
+       "created": 1646116897832,
+       "text": "【普寧藏】No.589《中論》 卷數：4 千字文：寸(237)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1e",
+       "created": 1646116897832,
+       "text": "【至元錄】No.1304《中論》龍樹菩薩本　梵志青目釋　姚秦三藏鳩摩羅什譯 梵名：必囉儞(三合)亞　沒囉　沙悉特囉(二合)提迦 / 卷數：4 千字文：宮(425)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1f",
+       "created": 1646116897832,
+       "text": "【洪武南藏】No.525《中論》龍樹菩薩 造　姚秦 三藏法師鳩摩羅什 譯　 冊數：82 / 頁數：120 / 卷數：4 千字文：寸 7 (237)-寸 10 (237)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1g",
+       "created": 1646116897832,
+       "text": "【永樂南藏】No.1335《中論》 部別：大乘論 千字文：動(390)-神(391)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1h",
+       "created": 1646116897832,
+       "text": "【永樂北藏】No.1226《中論》姚秦鳩摩羅什譯 部別：大乘論 / 冊數：100 / 頁數：351 / 卷數：4 千字文：箴"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1i",
+       "created": 1646116897832,
+       "text": "【嘉興藏】No.1172《中論》姚秦鳩摩羅什譯 部別：大乘論 / 法寶總目錄經號：1171 千字文 / 函號：［正藏］ 箴(367)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1j",
+       "created": 1646116897832,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1k",
+       "created": 1646116897832,
+       "text": "【乾隆藏】No.1173《中論》龍樹造　(姚秦)鳩摩羅什譯 部別：大乘論 / 冊數：82 / 頁數：327 / 卷數：4 千字文：箴"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1l",
+       "created": 1646116897832,
+       "text": "【縮刻藏】No.919《中論》龍樹菩薩造　梵志青目釋　姚秦鳩摩羅什譯 部別：印度大乘宗經論 / 卷數：4 千字文：暑 1 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1m",
+       "created": 1646116897832,
+       "text": "【卍正藏】No.1187《中論》姚秦 鳩摩羅什譯 部別：大乘論 / 冊數：39 / 頁數：678 / 卷數：4 原版套數：第 21 套"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1n",
+       "created": 1646116897832,
+       "text": "【大正藏】No.1564《中論》龍樹菩薩造 梵志青目釋 姚秦 鳩摩羅什譯 部別：中觀部全 / 冊數：30 / 頁數：1 / 卷數：4 相關經典：縮-暑1,卍-21.4,國-中1 參考資料：cf.Nos.1565-1567,1824,2256"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1o",
+       "created": 1646116897832,
+       "text": "【佛教大藏經】No.961《中論》姚秦 鳩摩羅什譯 部別：大乘宗經論 論部三 / 冊數：37 / 頁數：44 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1p",
+       "created": 1646116897832,
+       "text": "【中華藏】No.627《中論》龍樹菩薩造，姚秦三藏鳩摩羅什譯 冊數：28 / 頁數：835 / 卷數：4 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1q",
+       "created": 1646116897832,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1r",
+       "created": 1646116897832,
+       "text": "【南條文雄編號】 Nj. 1179"
+      }},
+      {"data": {
+       "id": "z5cYxlgN1s",
+       "created": 1646116897832,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1564"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzc81b2",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

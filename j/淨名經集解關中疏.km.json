@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "淨名經集解關中疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYyYbbkk",
+    "created": 1646116900865,
+    "text": "現藏錄（唐 道掖撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyYbbk5",
+      "created": 1646116900865,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyYbbk6",
+        "created": 1646116900865,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYbbk7",
+        "created": 1646116900865,
+        "text": "淨名經集解關中疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyYbbk8",
+        "created": 1646116900865,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYbbk9",
+        "created": 1646116900865,
+        "text": "净名经集解关中疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyYbbkA",
+        "created": 1646116900865,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYbbkB",
+        "created": 1646116900865,
+        "text": "jing ming jing ji jie guan zhong shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyYbbkC",
+      "created": 1646116900865,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyYbbkD",
+      "created": 1646116900865,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyYbbkE",
+      "created": 1646116900865,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyYbbkF",
+       "created": 1646116900865,
+       "text": "唐 道掖撰"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkG",
+       "created": 1646116900865,
+       "text": "道掖",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyYbbkH",
+      "created": 1646116900865,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyYbbkI",
+      "created": 1646116900865,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyYbbkJ",
+      "created": 1646116900865,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyYbbkK",
+       "created": 1646116900865,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkL",
+       "created": 1646116900865,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkM",
+       "created": 1646116900865,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkN",
+       "created": 1646116900865,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkO",
+       "created": 1646116900865,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkP",
+       "created": 1646116900865,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkQ",
+       "created": 1646116900865,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkR",
+       "created": 1646116900865,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkS",
+       "created": 1646116900865,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkT",
+       "created": 1646116900865,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkU",
+       "created": 1646116900865,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkV",
+       "created": 1646116900865,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkW",
+       "created": 1646116900865,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkX",
+       "created": 1646116900865,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkY",
+       "created": 1646116900865,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkZ",
+       "created": 1646116900865,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbka",
+       "created": 1646116900865,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkb",
+       "created": 1646116900865,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkc",
+       "created": 1646116900865,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkd",
+       "created": 1646116900865,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbke",
+       "created": 1646116900865,
+       "text": "【大正藏】No.2777《淨名經集解關中疏》唐 道掖撰 部別：古逸部全 / 冊數：85 / 頁數：440 / 卷數：2 相關經典： 參考資料：cf.No.475,2775,2778"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkf",
+       "created": 1646116900865,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkg",
+       "created": 1646116900865,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkh",
+       "created": 1646116900865,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbki",
+       "created": 1646116900865,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYbbkj",
+       "created": 1646116900865,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2777"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1oh2as",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

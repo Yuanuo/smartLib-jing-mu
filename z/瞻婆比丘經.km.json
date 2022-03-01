@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "瞻婆比丘經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwP3u7",
+    "created": 1646116892585,
+    "text": "現藏錄（西晉 法炬譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwP1tG",
+      "created": 1646116892583,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwP2tH",
+        "created": 1646116892584,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwP2tI",
+        "created": 1646116892584,
+        "text": "瞻婆比丘經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwP2tJ",
+        "created": 1646116892584,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwP2tK",
+        "created": 1646116892584,
+        "text": "瞻婆比丘经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwP2tL",
+        "created": 1646116892584,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwP2tM",
+        "created": 1646116892584,
+        "text": "zhan po bi qiu jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwP2tU",
+        "created": 1646116892584,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwP2tV",
+        "created": 1646116892584,
+        "text": "Chan p'o pi ch'iu ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwP2tW",
+       "created": 1646116892584,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwP2tX",
+        "created": 1646116892584,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwP2tY",
+        "created": 1646116892584,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwP2tZ",
+        "created": 1646116892584,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwP2ta",
+        "created": 1646116892584,
+        "text": "첨파비구경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwP2tN",
+      "created": 1646116892584,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwP2tO",
+      "created": 1646116892584,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwP2tP",
+      "created": 1646116892584,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwP2tQ",
+       "created": 1646116892584,
+       "text": "西晉 法炬譯"
+      }},
+      {"data": {
+       "id": "z5cYwP2tR",
+       "created": 1646116892584,
+       "text": "法炬",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwP2tS",
+      "created": 1646116892584,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwP2tT",
+      "created": 1646116892584,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwP2tb",
+      "created": 1646116892584,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwP2tc",
+      "created": 1646116892584,
+      "text": "Translation by Fa-chü: see K.675."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwP2td",
+     "created": 1646116892584,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwP2te",
+      "created": 1646116892584,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwP2tf",
+      "created": 1646116892584,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwP2tg",
+      "created": 1646116892584,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwP2th",
+       "created": 1646116892584,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwP2ti",
+       "created": 1646116892584,
+       "text": "【開寶藏】No.687《瞻婆比丘經》西晉 沙門釋法炬 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwP2tj",
+       "created": 1646116892584,
+       "text": "【崇寧藏】No.689《佛說瞻婆比丘經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tk",
+       "created": 1646116892584,
+       "text": "【毘盧藏】No.690《佛說瞻婆比丘經》西晉法炬譯 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tl",
+       "created": 1646116892584,
+       "text": "【圓覺藏】No.698《瞻婆比丘經》 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tm",
+       "created": 1646116892584,
+       "text": "【趙城金藏】No.680《瞻婆比丘經》 卷數：1 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwP2tn",
+       "created": 1646116892584,
+       "text": "【資福藏】No.703《瞻婆比丘經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwP2to",
+       "created": 1646116892584,
+       "text": "【磧砂藏】No.709《佛說瞻婆比丘經》晉 法炬譯 部別：阿含部 / 冊數：18 / 頁數：808 / 卷數：1 千字文：止 9 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tp",
+       "created": 1646116892584,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tq",
+       "created": 1646116892584,
+       "text": "【高麗藏】No.679《瞻婆比丘經》西晉沙門釋法炬譯 部別：小乘經 阿含部 / 冊數：19 頁數：540 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwP2tr",
+       "created": 1646116892584,
+       "text": "【普寧藏】No.701《佛說瞻婆比丘經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwP2ts",
+       "created": 1646116892584,
+       "text": "【至元錄】No.931《瞻婆比丘經》西晉沙門法炬譯 卷數：1 千字文：登(307)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tt",
+       "created": 1646116892584,
+       "text": "【洪武南藏】No.629《佛說瞻婆比丘經》西晉 沙門釋法炬 譯 冊數：99 / 頁數：236 / 卷數：1 千字文：止 9 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tu",
+       "created": 1646116892584,
+       "text": "【永樂南藏】No.578《佛說瞻婆比丘經》 部別：小乘經-阿含部 千字文：福(229)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tv",
+       "created": 1646116892584,
+       "text": "【永樂北藏】No.630《佛說瞻婆比丘經》西晉法炬譯 部別：小乘經阿含部 / 冊數：61 / 頁數：885 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwP2tw",
+       "created": 1646116892584,
+       "text": "【嘉興藏】No.595《佛說瞻婆比丘經》西晉法炬譯 部別：小乘經-阿含部 / 法寶總目錄經號：0595 千字文 / 函號：［正藏］ 善(231)"
+      }},
+      {"data": {
+       "id": "z5cYwP2tx",
+       "created": 1646116892584,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwP2ty",
+       "created": 1646116892584,
+       "text": "【乾隆藏】No.596《佛說瞻婆比丘經》西晉 釋法炬譯 部別：小乘阿含部 / 冊數：52 / 頁數：62 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwP2tz",
+       "created": 1646116892584,
+       "text": "【縮刻藏】No.515《佛說瞻婆比丘經》西晉法炬譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwP2u0",
+       "created": 1646116892584,
+       "text": "【卍正藏】No.603《佛說瞻婆比丘經》西晉 法炬譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：265 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwP2u1",
+       "created": 1646116892584,
+       "text": "【大正藏】No.64《瞻婆比丘經》西晉 法炬譯 部別：阿含部上 / 冊數：1 / 頁數：862 / 卷數：1 相關經典：縮-昃8,卍-14.2,南-21.8.10 參考資料：No.26(122)"
+      }},
+      {"data": {
+       "id": "z5cYwP2u2",
+       "created": 1646116892584,
+       "text": "【佛教大藏經】No.523《佛說瞻婆比丘經》西晉 法炬譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：280 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwP2u3",
+       "created": 1646116892584,
+       "text": "【中華藏】No.732《佛說瞻婆比丘經》西晉三藏法師法炬譯 冊數：34 / 頁數：46 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwP2u4",
+       "created": 1646116892584,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwP2u5",
+       "created": 1646116892584,
+       "text": "【南條文雄編號】 Nj. 0600"
+      }},
+      {"data": {
+       "id": "z5cYwP2u6",
+       "created": 1646116892584,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：64　卷中：1710"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvae1r",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

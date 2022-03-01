@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "別行"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLnYQs",
+    "created": 1646116900071,
+    "text": "現藏錄（日本 寬助撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLnYQD",
+      "created": 1646116900071,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLnYQE",
+        "created": 1646116900071,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLnYQF",
+        "created": 1646116900071,
+        "text": "別行",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLnYQG",
+        "created": 1646116900071,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLnYQH",
+        "created": 1646116900071,
+        "text": "别行",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLnYQI",
+        "created": 1646116900071,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLnYQJ",
+        "created": 1646116900071,
+        "text": "bie xing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLnYQK",
+      "created": 1646116900071,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLnYQL",
+      "created": 1646116900071,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLnYQM",
+      "created": 1646116900071,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLnYQN",
+       "created": 1646116900071,
+       "text": "日本 寬助撰"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQO",
+       "created": 1646116900071,
+       "text": "寬助",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLnYQP",
+      "created": 1646116900071,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLnYQQ",
+      "created": 1646116900071,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLnYQR",
+      "created": 1646116900071,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLnYQS",
+       "created": 1646116900071,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQT",
+       "created": 1646116900071,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQU",
+       "created": 1646116900071,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQV",
+       "created": 1646116900071,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQW",
+       "created": 1646116900071,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQX",
+       "created": 1646116900071,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQY",
+       "created": 1646116900071,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQZ",
+       "created": 1646116900071,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQa",
+       "created": 1646116900071,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQb",
+       "created": 1646116900071,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQc",
+       "created": 1646116900071,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQd",
+       "created": 1646116900071,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQe",
+       "created": 1646116900071,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQf",
+       "created": 1646116900071,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQg",
+       "created": 1646116900071,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQh",
+       "created": 1646116900071,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQi",
+       "created": 1646116900071,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQj",
+       "created": 1646116900071,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQk",
+       "created": 1646116900071,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQl",
+       "created": 1646116900071,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQm",
+       "created": 1646116900071,
+       "text": "【大正藏】No.2476《別行》日本 寬助撰 部別：續諸宗部九 / 冊數：78 / 頁數：125 / 卷數：7 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLnYQn",
+       "created": 1646116900071,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQo",
+       "created": 1646116900071,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQp",
+       "created": 1646116900071,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQq",
+       "created": 1646116900071,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLnYQr",
+       "created": 1646116900071,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2476"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri12e229",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

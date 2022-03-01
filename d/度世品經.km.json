@@ -1,0 +1,339 @@
+{
+ "root": {
+  "data": {"text": "度世品經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwhZ4Hf",
+    "created": 1646116893733,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwhY4Gm",
+      "created": 1646116893732,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwhY4Gn",
+        "created": 1646116893732,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhY4Go",
+        "created": 1646116893732,
+        "text": "度世品經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhY4Gp",
+        "created": 1646116893732,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhY4Gq",
+        "created": 1646116893732,
+        "text": "度世品经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhY4Gr",
+        "created": 1646116893732,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhY4Gs",
+        "created": 1646116893732,
+        "text": "du shi pin jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhY4H0",
+        "created": 1646116893732,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhY4H1",
+        "created": 1646116893732,
+        "text": "Tu shih p'in ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwhY4H2",
+       "created": 1646116893732,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwhY4H3",
+        "created": 1646116893732,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhY4H4",
+        "created": 1646116893732,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwhY4H5",
+        "created": 1646116893732,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwhY4H6",
+        "created": 1646116893732,
+        "text": "Ḥjig-rten-las ḥdas-pa",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhY4Gt",
+      "created": 1646116893732,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhY4Gu",
+      "created": 1646116893732,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhY4Gv",
+      "created": 1646116893732,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhY4Gw",
+       "created": 1646116893732,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwhY4Gx",
+       "created": 1646116893732,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhY4Gy",
+      "created": 1646116893732,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhY4Gz",
+      "created": 1646116893732,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhY4H7",
+      "created": 1646116893732,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhY4H8",
+      "created": 1646116893732,
+      "text": "Translation by Dharmarakṣa: 13th day, 4th month, 1st year of Yüan K'ang (元康), Western Chin dynasty (西晉), (May 27th, A.D. 291).T.2145-7b.17."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhZ4H9",
+      "created": 1646116893733,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhZ4HA",
+       "created": 1646116893733,
+       "text": "【北京版】Phal-chen(śi)142a -(si)42a"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HB",
+       "created": 1646116893733,
+       "text": "【德格版】Phal-chen (ga)141b-260b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwhZ4HC",
+      "created": 1646116893733,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwhZ4HD",
+      "created": 1646116893733,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwhZ4HE",
+      "created": 1646116893733,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwhZ4HF",
+       "created": 1646116893733,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HG",
+       "created": 1646116893733,
+       "text": "【開寶藏】No.104《度世品經》西晉 月支三藏竺法護 譯 部別：大乘經 華嚴部 / 卷數：6 千字文：羌"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HH",
+       "created": 1646116893733,
+       "text": "【崇寧藏】No.105《度世品經》 卷數：6 千字文：遐(121)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HI",
+       "created": 1646116893733,
+       "text": "【毘盧藏】No.100《度世品經》西晉竺法護譯 參考年代：(元豊八．五) 千字文：遐(121)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HJ",
+       "created": 1646116893733,
+       "text": "【圓覺藏】No.101《廣世品經》 卷數：6 千字文：遐(121)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HK",
+       "created": 1646116893733,
+       "text": "【趙城金藏】No.103《度世品經》 卷數：6 千字文：羌"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HL",
+       "created": 1646116893733,
+       "text": "【資福藏】No.105《度世品經》 卷數：6 (六卷) 千字文：遐(121)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HM",
+       "created": 1646116893733,
+       "text": "【磧砂藏】No.102《度世品經》晉 竺法護譯 部別：華嚴部 / 冊數：8 / 頁數：457 / 卷數：6 千字文：遐 1 (121)-遐 6 (121)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HN",
+       "created": 1646116893733,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HO",
+       "created": 1646116893733,
+       "text": "【高麗藏】No.103《度世品經》西秦月氏三藏竺法護譯 部別：大乘經 華嚴部 / 冊數：8 頁數：1277 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：羌"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HP",
+       "created": 1646116893733,
+       "text": "【普寧藏】No.102《度世品經》 卷數：6 千字文：遐(121)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HQ",
+       "created": 1646116893733,
+       "text": "【至元錄】No.176《度世品經》西晉三藏竺法護譯 卷數：6 千字文：王(128)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HR",
+       "created": 1646116893733,
+       "text": "【洪武南藏】No.96《度世品經》西晉 三藏法師竺法護 初譯 冊數：41 / 頁數：192 / 卷數：6 千字文：遐 1 (121)-遐 6 (121)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HS",
+       "created": 1646116893733,
+       "text": "【永樂南藏】No.101《度世品經》 部別：大乘經-華嚴部 千字文：壹(123)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HT",
+       "created": 1646116893733,
+       "text": "【永樂北藏】No.124《度世品經》西晉竺法護譯 部別：大乘經華嚴部 / 冊數：31-32 / 頁數：889 / 卷數：6 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HU",
+       "created": 1646116893733,
+       "text": "【嘉興藏】No.100《度世品經》西晉竺法護譯 部別：大乘經-華嚴部 / 法寶總目錄經號：0100 千字文 / 函號：［正藏］ 壹(123)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HV",
+       "created": 1646116893733,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HW",
+       "created": 1646116893733,
+       "text": "【乾隆藏】No.100《度世品經》西晉 竺法護譯 部別：大乘華嚴部 / 冊數：28 / 頁數：1 / 卷數：6 千字文：壹"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HX",
+       "created": 1646116893733,
+       "text": "【縮刻藏】No.15《度世品經》西晉竺法護譯 部別：大乘經-華嚴部 / 卷數：6 千字文：天 10 (1)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HY",
+       "created": 1646116893733,
+       "text": "【卍正藏】No.103《度世品經》西晉 竺法護譯 部別：大乘經 華嚴部 / 冊數：13 / 頁數：320 / 卷數：6 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4HZ",
+       "created": 1646116893733,
+       "text": "【大正藏】No.292《度世品經》西晉 竺法護譯 部別：華嚴部下 / 冊數：10 / 頁數：617 / 卷數：6 相關經典：縮-天10,卍-8.3 參考資料：Nos.278(33),279(38)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4Ha",
+       "created": 1646116893733,
+       "text": "【佛教大藏經】No.15《度世品經》西晉 竺法護譯 部別：大乘經 華嚴部二 / 冊數：2 / 頁數：825 / 卷數：6"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4Hb",
+       "created": 1646116893733,
+       "text": "【中華藏】No.110《度世品經》西晉月支三藏竺法護譯 冊數：13 / 頁數：869 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4Hc",
+       "created": 1646116893733,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4Hd",
+       "created": 1646116893733,
+       "text": "【南條文雄編號】 Nj. 0104"
+      }},
+      {"data": {
+       "id": "z5cYwhZ4He",
+       "created": 1646116893733,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：292"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw6c8e",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

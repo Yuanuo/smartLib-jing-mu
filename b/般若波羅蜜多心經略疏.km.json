@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "般若波羅蜜多心經略疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYxsmP9P",
+    "created": 1646116898272,
+    "text": "現藏錄（唐 法藏述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxsmP8j",
+      "created": 1646116898272,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxsmP8k",
+        "created": 1646116898272,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxsmP8l",
+        "created": 1646116898272,
+        "text": "般若波羅蜜多心經略疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxsmP8m",
+        "created": 1646116898272,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxsmP8n",
+        "created": 1646116898272,
+        "text": "般若波罗蜜多心经略疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxsmP8o",
+        "created": 1646116898272,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxsmP8p",
+        "created": 1646116898272,
+        "text": "bo re bo luo mi duo xin jing lve shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxsmP8q",
+      "created": 1646116898272,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxsmP8r",
+      "created": 1646116898272,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxsmP8s",
+      "created": 1646116898272,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxsmP8t",
+       "created": 1646116898272,
+       "text": "唐 法藏述"
+      }},
+      {"data": {
+       "id": "z5cYxsmP8u",
+       "created": 1646116898272,
+       "text": "玄奘",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYxsmP8v",
+       "created": 1646116898272,
+       "text": "達摩笈多",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxsmP8w",
+      "created": 1646116898272,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxsmP8x",
+      "created": 1646116898272,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxsmP8y",
+      "created": 1646116898272,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxsmP8z",
+       "created": 1646116898272,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP90",
+       "created": 1646116898272,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP91",
+       "created": 1646116898272,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP92",
+       "created": 1646116898272,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP93",
+       "created": 1646116898272,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP94",
+       "created": 1646116898272,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP95",
+       "created": 1646116898272,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP96",
+       "created": 1646116898272,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP97",
+       "created": 1646116898272,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP98",
+       "created": 1646116898272,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP99",
+       "created": 1646116898272,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9A",
+       "created": 1646116898272,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9B",
+       "created": 1646116898272,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9C",
+       "created": 1646116898272,
+       "text": "【永樂南藏】No.1585《般若心經略疏》 部別：此方撰述 千字文：青(608)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9D",
+       "created": 1646116898272,
+       "text": "【永樂北藏】No.1686《般若波羅蜜多心經略疏》唐法藏述 部別：此土著述 / 冊數：174 / 頁數：859 / 卷數：1 千字文：百"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9E",
+       "created": 1646116898272,
+       "text": "【嘉興藏】No.1591《心經略疏》唐法藏述 部別：此土著述 / 法寶總目錄經號：1590 千字文 / 函號：［正藏］ 百(613)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9F",
+       "created": 1646116898272,
+       "text": "【嘉興藏新文豐版】［正藏］No.107《般若波羅蜜多心經略疏》唐 法藏述 冊數：5 / 頁數：627 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9G",
+       "created": 1646116898272,
+       "text": "【乾隆藏】No.1496《般若波羅密多心經略疏》唐 法藏述 部別：此土著述 / 冊數：118 / 頁數：655 / 卷數：1 千字文：勒"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9H",
+       "created": 1646116898272,
+       "text": "【縮刻藏】No.1707《般若波羅蜜多心經略疏》唐法藏述 部別：支那撰述-經疏部 / 卷數：1 千字文：呂 8 (30)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9I",
+       "created": 1646116898272,
+       "text": "【卍正藏】No.1606《般若波羅蜜多心經略疏》唐 法藏述 部別：此土著述 / 冊數：66 / 頁數：912 / 卷數：1 原版套數：第 34 套"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9J",
+       "created": 1646116898272,
+       "text": "【大正藏】No.1712《般若波羅蜜多心經略疏》唐 法藏述 部別：經疏部一 / 冊數：33 / 頁數：552 / 卷數：1 相關經典：縮-呂8,卍-34.10 參考資料：cf.Nos.251,1713"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9K",
+       "created": 1646116898272,
+       "text": "【佛教大藏經】No.1885《般若波羅蜜多心經略疏》唐 法藏述 部別：經疏部六 / 冊數：64 / 頁數：560 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9L",
+       "created": 1646116898272,
+       "text": "【中華藏】No.1824《般若波羅蜜多心經畧疏》唐三藏法師玄奘譯經，唐翻經沙門法藏述疏 冊數：97 / 頁數：249 / 卷數：1 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9M",
+       "created": 1646116898272,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9N",
+       "created": 1646116898272,
+       "text": "【南條文雄編號】 Nj. 1599"
+      }},
+      {"data": {
+       "id": "z5cYxsmP9O",
+       "created": 1646116898272,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1712"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzog1f9",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

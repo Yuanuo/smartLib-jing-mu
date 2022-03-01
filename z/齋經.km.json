@@ -1,0 +1,569 @@
+{
+ "root": {
+  "data": {"text": "齋經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwRn1EE",
+     "created": 1646116892755,
+     "text": "現藏錄（吳 支謙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwRl1DM",
+       "created": 1646116892753,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwRl1DN",
+         "created": 1646116892753,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRl1DO",
+         "created": 1646116892753,
+         "text": "齋經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRl1DP",
+         "created": 1646116892753,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRl1DQ",
+         "created": 1646116892753,
+         "text": "斋经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRl1DR",
+         "created": 1646116892753,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRl1DS",
+         "created": 1646116892753,
+         "text": "zhai jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRl1Db",
+         "created": 1646116892753,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRl1Dc",
+         "created": 1646116892753,
+         "text": "Chai ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYwRl1Dd",
+        "created": 1646116892753,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYwRl1De",
+         "created": 1646116892753,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRl1Df",
+         "created": 1646116892753,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRl1Dg",
+         "created": 1646116892753,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRl1Dh",
+         "created": 1646116892753,
+         "text": "재경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwRl1DT",
+       "created": 1646116892753,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRl1DU",
+       "created": 1646116892753,
+       "text": "吳",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwRl1DV",
+       "created": 1646116892753,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwRl1DW",
+        "created": 1646116892753,
+        "text": "吳 支謙譯"
+       }},
+       {"data": {
+        "id": "z5cYwRl1DX",
+        "created": 1646116892753,
+        "text": "支謙",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYwRl1DY",
+        "created": 1646116892753,
+        "text": "沮渠京聲",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwRl1DZ",
+       "created": 1646116892753,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRl1Da",
+       "created": 1646116892753,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwRl1Di",
+       "created": 1646116892753,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRl1Dj",
+       "created": 1646116892753,
+       "text": "Translation by Chih-ch'ien: (seeK.720)."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwRl1Dk",
+      "created": 1646116892753,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwRl1Dl",
+       "created": 1646116892753,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRm1Dm",
+       "created": 1646116892754,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwRm1Dn",
+       "created": 1646116892754,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwRm1Do",
+        "created": 1646116892754,
+        "text": "【房山石經】No.205《佛說齋經》(宋)居士沮渠京聲譯 冊數：3 / 頁數：497 / 卷數：1 / 刻經年代：咸通二年 / 瀏覽：目錄圖檔 千字文："
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dp",
+        "created": 1646116892754,
+        "text": "【開寶藏】No.706《齋經》吳 月支優婆塞支謙 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：止"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dq",
+        "created": 1646116892754,
+        "text": "【崇寧藏】No.708《佛說齋經》 卷數：1 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dr",
+        "created": 1646116892754,
+        "text": "【毘盧藏】No.709《佛說齋經》吳支謙譯 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Ds",
+        "created": 1646116892754,
+        "text": "【圓覺藏】No.715《佛說齋經》 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dt",
+        "created": 1646116892754,
+        "text": "【趙城金藏】No.723《齋經》 卷數：1 千字文：止"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Du",
+        "created": 1646116892754,
+        "text": "【資福藏】No.720《佛說齋經》 卷數：1 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dv",
+        "created": 1646116892754,
+        "text": "【磧砂藏】No.728《佛說齋經》吳 支謙譯 部別：阿含部 / 冊數：18 / 頁數：840 / 卷數：1 千字文：若 4 (283)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dw",
+        "created": 1646116892754,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dx",
+        "created": 1646116892754,
+        "text": "【高麗藏】No.721《齋經》吳月支國居士支謙譯 部別：小乘經 阿含部 / 冊數：19 頁數：636 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：止"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dy",
+        "created": 1646116892754,
+        "text": "【普寧藏】No.720《佛說齋經》 卷數：1 千字文：若(283)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1Dz",
+        "created": 1646116892754,
+        "text": "【至元錄】No.950《齋經》吳月支優婆塞支謙譯 卷數：1 千字文：仕(308)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E0",
+        "created": 1646116892754,
+        "text": "【洪武南藏】No.648《佛說齋經》吴黃武年 優婆塞支謙 譯 冊數：99 / 頁數：368 / 卷數：1 千字文：若 4 (283)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E1",
+        "created": 1646116892754,
+        "text": "【永樂南藏】No.584《佛說齋經》 部別：小乘經-阿含部 千字文：福(229)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E2",
+        "created": 1646116892754,
+        "text": "【永樂北藏】No.607《佛說齋經》吳支謙譯 部別：小乘經阿含部 / 冊數：61 / 頁數：697 / 卷數：1 千字文：緣"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E3",
+        "created": 1646116892754,
+        "text": "【嘉興藏】No.572《佛說齋經》吳支謙譯 部別：小乘經-阿含部 / 法寶總目錄經號：0572 千字文 / 函號：［正藏］ 緣(230)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E4",
+        "created": 1646116892754,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E5",
+        "created": 1646116892754,
+        "text": "【乾隆藏】No.573《佛說齋經》吳 支謙譯 部別：小乘阿含部 / 冊數：51 / 頁數：737 / 卷數：1 千字文：緣"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E6",
+        "created": 1646116892754,
+        "text": "【縮刻藏】No.539《佛說齋經》吳支謙譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E7",
+        "created": 1646116892754,
+        "text": "【卍正藏】No.580《佛說齋經》吳 支謙譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：187 / 卷數：1 原版套數：第 14 套"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E8",
+        "created": 1646116892754,
+        "text": "【大正藏】No.87《齋經》吳 支謙譯 部別：阿含部上 / 冊數：1 / 頁數：910 / 卷數：1 相關經典：縮-昃8,卍-14.1,南-21.8.43 參考資料：Nos.26(202),88,89"
+       }},
+       {"data": {
+        "id": "z5cYwRm1E9",
+        "created": 1646116892754,
+        "text": "【佛教大藏經】No.547《佛說齋經》吳 支謙譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：366 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwRm1EA",
+        "created": 1646116892754,
+        "text": "【中華藏】No.761《佛說齋經》吳月支國居士支謙譯 冊數：34 / 頁數：145 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwRm1EB",
+        "created": 1646116892754,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRm1EC",
+        "created": 1646116892754,
+        "text": "【南條文雄編號】 Nj. 0577"
+       }},
+       {"data": {
+        "id": "z5cYwRm1ED",
+        "created": 1646116892754,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：87"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYzg7wxM",
+     "created": 1646116905175,
+     "text": "現藏錄（吳 支謙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYzg7wwh",
+       "created": 1646116905175,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYzg7wwi",
+         "created": 1646116905175,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzg7wwj",
+         "created": 1646116905175,
+         "text": "齋經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzg7wwk",
+         "created": 1646116905175,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYzg7wwl",
+         "created": 1646116905175,
+         "text": "斋经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYzg7wwm",
+         "created": 1646116905175,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYzg7wwn",
+         "created": 1646116905175,
+         "text": "zhai jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzg7wwo",
+       "created": 1646116905175,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYzg7wwp",
+       "created": 1646116905175,
+       "text": "吳"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzg7wwq",
+       "created": 1646116905175,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzg7wwr",
+        "created": 1646116905175,
+        "text": "吳 支謙譯"
+       }},
+       {"data": {
+        "id": "z5cYzg7wws",
+        "created": 1646116905175,
+        "text": "支謙"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYzg7wwt",
+       "created": 1646116905175,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYzg7wwu",
+       "created": 1646116905175,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYzg7wwv",
+       "created": 1646116905175,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYzg7www",
+        "created": 1646116905175,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wwx",
+        "created": 1646116905175,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wwy",
+        "created": 1646116905175,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wwz",
+        "created": 1646116905175,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx0",
+        "created": 1646116905175,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx1",
+        "created": 1646116905175,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx2",
+        "created": 1646116905175,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx3",
+        "created": 1646116905175,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx4",
+        "created": 1646116905175,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx5",
+        "created": 1646116905175,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx6",
+        "created": 1646116905175,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx7",
+        "created": 1646116905175,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx8",
+        "created": 1646116905175,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wx9",
+        "created": 1646116905175,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxA",
+        "created": 1646116905175,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxB",
+        "created": 1646116905175,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxC",
+        "created": 1646116905175,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxD",
+        "created": 1646116905175,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxE",
+        "created": 1646116905175,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxF",
+        "created": 1646116905175,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxG",
+        "created": 1646116905175,
+        "text": "【大正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxH",
+        "created": 1646116905175,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxI",
+        "created": 1646116905175,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxJ",
+        "created": 1646116905175,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxK",
+        "created": 1646116905175,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYzg7wxL",
+        "created": 1646116905175,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1771"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvf32e",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說佛母寶德藏般若波羅蜜經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwcw3Lx",
+    "created": 1646116893446,
+    "text": "現藏錄（宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwcw3L0",
+      "created": 1646116893446,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwcw3L1",
+        "created": 1646116893446,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcw3L2",
+        "created": 1646116893446,
+        "text": "佛說佛母寶德藏般若波羅蜜經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcw3L3",
+        "created": 1646116893446,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcw3L4",
+        "created": 1646116893446,
+        "text": "佛说佛母宝德藏般若波罗蜜经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcw3L5",
+        "created": 1646116893446,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcw3L6",
+        "created": 1646116893446,
+        "text": "fo shuo fo mu bao de cang bo re bo luo mi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcw3LE",
+        "created": 1646116893446,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcw3LF",
+        "created": 1646116893446,
+        "text": "Fo mu pao te ts'ang pan jo po lo mi ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcw3LG",
+        "created": 1646116893446,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcw3LH",
+        "created": 1646116893446,
+        "text": "Ratnaguṇasañcayagāthā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcw3LI",
+        "created": 1646116893446,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcw3LJ",
+        "created": 1646116893446,
+        "text": "Śes-rab-kyi-pha-rol-tu-phyin-pa sdud-pa tshigs-su-bcad-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcw3LK",
+        "created": 1646116893446,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcw3LL",
+        "created": 1646116893446,
+        "text": "불모보덕장반야바라밀경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwcw3L7",
+      "created": 1646116893446,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcw3L8",
+      "created": 1646116893446,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcw3L9",
+      "created": 1646116893446,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwcw3LA",
+       "created": 1646116893446,
+       "text": "宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYwcw3LB",
+       "created": 1646116893446,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwcw3LC",
+      "created": 1646116893446,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcw3LD",
+      "created": 1646116893446,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcw3LM",
+      "created": 1646116893446,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcw3LN",
+      "created": 1646116893446,
+      "text": "Ta chung lu vol.8 p.10a:16a."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcw3LO",
+      "created": 1646116893446,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwcw3LP",
+       "created": 1646116893446,
+       "text": "【北京版】Śer-phyin (tsi)1-22a"
+      }},
+      {"data": {
+       "id": "z5cYwcw3LQ",
+       "created": 1646116893446,
+       "text": "【奈塘版】Śer-phyin (ka)196b-222a"
+      }},
+      {"data": {
+       "id": "z5cYwcw3LR",
+       "created": 1646116893446,
+       "text": "【德格版】Śes-phyin (ka)1b-19b"
+      }},
+      {"data": {
+       "id": "z5cYwcw3LS",
+       "created": 1646116893446,
+       "text": "【拉薩版】Śer-phyin-sna-tshogs (ka)189a-215a"
+      }},
+      {"data": {
+       "id": "z5cYwcw3LT",
+       "created": 1646116893446,
+       "text": "【卓尼版】Śer-phyin-sna-tshogs (ka)1b-21b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwcw3LU",
+      "created": 1646116893446,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcw3LV",
+      "created": 1646116893446,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcw3LW",
+      "created": 1646116893446,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwcw3LX",
+       "created": 1646116893446,
+       "text": "【房山石經】No.966《佛說佛母寶德藏般若波羅蜜經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：26 / 頁數：555 / 卷數：3 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：公"
+      }},
+      {"data": {
+       "id": "z5cYwcw3LY",
+       "created": 1646116893446,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3LZ",
+       "created": 1646116893446,
+       "text": "【崇寧藏】No.1202《佛說佛母寶德藏般若波羅蜜經》 卷數：3 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3La",
+       "created": 1646116893446,
+       "text": "【毘盧藏】No.1200《佛說佛母寶德藏般若波羅蜜經》宋法賢譯 參考年代：(紹興一八．閏八) 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lb",
+       "created": 1646116893446,
+       "text": "【圓覺藏】No.1212《佛母寶德藏般若波羅蜜經》 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lc",
+       "created": 1646116893446,
+       "text": "【趙城金藏】No.1201《佛母寶德藏般若波羅蜜經》 卷數：3 千字文：縣"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Ld",
+       "created": 1646116893446,
+       "text": "【資福藏】No.1217《佛母寶德藏般若波羅蜜經》 卷數：3 (上中下) 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Le",
+       "created": 1646116893446,
+       "text": "【磧砂藏】No.1226《佛說佛母寶德藏般若波羅蜜經》宋 法賢譯 部別： / 冊數：33 / 頁數：75 / 卷數：3 千字文：高 6 (505)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lf",
+       "created": 1646116893446,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lg",
+       "created": 1646116893446,
+       "text": "【高麗藏】No.1200《佛母寶德藏般若波羅蜜經》西天三藏法賢譯 部別：宋續入藏經 / 冊數：34 頁數：241 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：縣"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lh",
+       "created": 1646116893446,
+       "text": "【普寧藏】No.1217《佛說佛母寶德藏般若波羅蜜經》 卷數：3 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Li",
+       "created": 1646116893446,
+       "text": "【至元錄】No.27《佛母寶德藏般若波羅蜜多經》宋天竺三藏法賢譯 卷數：3 千字文：火(75)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lj",
+       "created": 1646116893446,
+       "text": "【洪武南藏】No.1077《佛母寶德藏般若波羅密經》西天譯經三藏朝散大夫試光祿卿明教大師臣法賢 奉詔譯 冊數：181 / 頁數：529 / 卷數：1 千字文：高 6 (505)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lk",
+       "created": 1646116893446,
+       "text": "【永樂南藏】No.883《佛母寶德藏般若波羅蜜經》 部別：宋元入藏諸大小乘經 千字文：履(259)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Ll",
+       "created": 1646116893446,
+       "text": "【永樂北藏】No.895《佛母寶德藏般若波羅蜜經》宋法賢譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：377 / 卷數：0 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lm",
+       "created": 1646116893446,
+       "text": "【嘉興藏】No.858《佛母寶德藏般若經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0858 千字文 / 函號：［正藏］ 臨(257)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Ln",
+       "created": 1646116893446,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lo",
+       "created": 1646116893446,
+       "text": "【乾隆藏】No.859《佛母寶德藏般若波羅蜜經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：567 / 卷數：3 千字文：臨"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lp",
+       "created": 1646116893446,
+       "text": "【縮刻藏】No.399《佛說佛母寶德藏般若波羅蜜經》宋法賢譯 部別：大乘經-般若部 / 卷數：3 千字文：月 8 (10)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lq",
+       "created": 1646116893446,
+       "text": "【卍正藏】No.868《佛說佛母寶德藏般若波羅蜜經》法賢譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：824 / 卷數：3 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lr",
+       "created": 1646116893446,
+       "text": "【大正藏】No.229《佛說佛母寶德藏般若波羅蜜經》宋 法賢譯 部別：般若部四 / 冊數：8 / 頁數：676 / 卷數：3 相關經典：縮-月8,卍-15.5,國-釋下 參考資料：cf.No.220(4or5),etc."
+      }},
+      {"data": {
+       "id": "z5cYwcw3Ls",
+       "created": 1646116893446,
+       "text": "【佛教大藏經】No.402《佛說佛母寶德藏般若波羅蜜經》宋 法賢譯 部別：大乘經 般若部八 / 冊數：20 / 頁數：323 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lt",
+       "created": 1646116893446,
+       "text": "【中華藏】No.1310《佛說佛母寶德藏般若波羅蜜經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：516 / 卷數：3 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lu",
+       "created": 1646116893446,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lv",
+       "created": 1646116893446,
+       "text": "【南條文雄編號】 Nj. 0864"
+      }},
+      {"data": {
+       "id": "z5cYwcw3Lw",
+       "created": 1646116893446,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：229"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvyd6l",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

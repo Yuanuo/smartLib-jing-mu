@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "五蘊觀"},
+  "children": [{
+   "data": {
+    "id": "z5cYzROsMw",
+    "created": 1646116904262,
+    "text": "現藏錄（唐 澄觀述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzROsMH",
+      "created": 1646116904262,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzROsMI",
+        "created": 1646116904262,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzROsMJ",
+        "created": 1646116904262,
+        "text": "五蘊觀",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzROsMK",
+        "created": 1646116904262,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzROsML",
+        "created": 1646116904262,
+        "text": "五蕴观",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzROsMM",
+        "created": 1646116904262,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzROsMN",
+        "created": 1646116904262,
+        "text": "wu yun guan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzROsMO",
+      "created": 1646116904262,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzROsMP",
+      "created": 1646116904262,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzROsMQ",
+      "created": 1646116904262,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzROsMR",
+       "created": 1646116904262,
+       "text": "唐 澄觀述"
+      }},
+      {"data": {
+       "id": "z5cYzROsMS",
+       "created": 1646116904262,
+       "text": "澄觀",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzROsMT",
+      "created": 1646116904262,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzROsMU",
+      "created": 1646116904262,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzROsMV",
+      "created": 1646116904262,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzROsMW",
+       "created": 1646116904262,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMX",
+       "created": 1646116904262,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMY",
+       "created": 1646116904262,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMZ",
+       "created": 1646116904262,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMa",
+       "created": 1646116904262,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMb",
+       "created": 1646116904262,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMc",
+       "created": 1646116904262,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMd",
+       "created": 1646116904262,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMe",
+       "created": 1646116904262,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMf",
+       "created": 1646116904262,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMg",
+       "created": 1646116904262,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMh",
+       "created": 1646116904262,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMi",
+       "created": 1646116904262,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMj",
+       "created": 1646116904262,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMk",
+       "created": 1646116904262,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMl",
+       "created": 1646116904262,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMm",
+       "created": 1646116904262,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMn",
+       "created": 1646116904262,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMo",
+       "created": 1646116904262,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMp",
+       "created": 1646116904262,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMq",
+       "created": 1646116904262,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMr",
+       "created": 1646116904262,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMs",
+       "created": 1646116904262,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMt",
+       "created": 1646116904262,
+       "text": "【新纂卍續藏】No.1004《五蘊觀》唐 澄觀述 部別：中國撰述 諸宗著述部五 華嚴宗 / 冊數：58 / 頁數：425 / 卷數：1 《卍大日本續藏經》套數：第二編．第 8 套 《卍續藏經》(新文豐版)冊數：第 103 冊"
+      }},
+      {"data": {
+       "id": "z5cYzROsMu",
+       "created": 1646116904262,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzROsMv",
+       "created": 1646116904262,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1295"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri4au3ia",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

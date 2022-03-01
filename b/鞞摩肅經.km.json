@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "鞞摩肅經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwS61Gn",
+    "created": 1646116892774,
+    "text": "現藏錄（劉宋 求那跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwS41Fw",
+      "created": 1646116892772,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwS41Fx",
+        "created": 1646116892772,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwS41Fy",
+        "created": 1646116892772,
+        "text": "鞞摩肅經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwS41Fz",
+        "created": 1646116892772,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwS41G0",
+        "created": 1646116892772,
+        "text": "鞞摩肃经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwS41G1",
+        "created": 1646116892772,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwS41G2",
+        "created": 1646116892772,
+        "text": "bing mo su jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwS41GA",
+        "created": 1646116892773,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwS51GB",
+        "created": 1646116892773,
+        "text": "Pi mo su ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwS51GC",
+       "created": 1646116892773,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwS51GD",
+        "created": 1646116892773,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwS51GE",
+        "created": 1646116892773,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwS51GF",
+        "created": 1646116892773,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwS51GG",
+        "created": 1646116892773,
+        "text": "비마숙경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwS41G3",
+      "created": 1646116892772,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwS41G4",
+      "created": 1646116892772,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwS41G5",
+      "created": 1646116892772,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwS41G6",
+       "created": 1646116892772,
+       "text": "劉宋 求那跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwS41G7",
+       "created": 1646116892772,
+       "text": "求那跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwS41G8",
+      "created": 1646116892772,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwS41G9",
+      "created": 1646116892772,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwS51GH",
+      "created": 1646116892773,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwS51GI",
+      "created": 1646116892773,
+      "text": "Translation by Guṇabhadra:(see K.695)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwS51GJ",
+     "created": 1646116892773,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwS51GK",
+      "created": 1646116892773,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwS51GL",
+      "created": 1646116892773,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwS51GM",
+      "created": 1646116892773,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwS51GN",
+       "created": 1646116892773,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GO",
+       "created": 1646116892773,
+       "text": "【開寶藏】No.707《鞞摩肅經》劉宋 天竺三藏求那跋陀羅 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：止"
+      }},
+      {"data": {
+       "id": "z5cYwS51GP",
+       "created": 1646116892773,
+       "text": "【崇寧藏】No.709《佛說鞞摩肅經》 卷數：1 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GQ",
+       "created": 1646116892773,
+       "text": "【毘盧藏】No.710《佛說鞞摩肅經》宋求那跋陀羅譯 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GR",
+       "created": 1646116892773,
+       "text": "【圓覺藏】No.719《鞞摩肅經》 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GS",
+       "created": 1646116892773,
+       "text": "【趙城金藏】No.699《鞞摩肅經》 卷數：1 千字文：止"
+      }},
+      {"data": {
+       "id": "z5cYwS51GT",
+       "created": 1646116892773,
+       "text": "【資福藏】No.724《鞞摩肅經》 卷數：1 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GU",
+       "created": 1646116892773,
+       "text": "【磧砂藏】No.729《佛說鞞摩肅經》宋 求那跋陀羅譯 部別：阿含部 / 冊數：18 / 頁數：842 / 卷數：1 千字文：若 5 (283)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GV",
+       "created": 1646116892773,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GW",
+       "created": 1646116892773,
+       "text": "【高麗藏】No.697《鞞摩肅經》宋天竺三藏求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：19 頁數：582 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：止"
+      }},
+      {"data": {
+       "id": "z5cYwS51GX",
+       "created": 1646116892773,
+       "text": "【普寧藏】No.721《佛說鞞摩肅經》 卷數：1 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GY",
+       "created": 1646116892773,
+       "text": "【至元錄】No.951《鞞摩肅經》宋天竺三藏求那跋陀羅譯 卷數：1 千字文：仕(308)"
+      }},
+      {"data": {
+       "id": "z5cYwS51GZ",
+       "created": 1646116892773,
+       "text": "【洪武南藏】No.649《佛說鞞摩肅經》宋 三藏求那跋陀羅 譯 冊數：99 / 頁數：374 / 卷數：1 千字文：若 5 (283)"
+      }},
+      {"data": {
+       "id": "z5cYwS51Ga",
+       "created": 1646116892773,
+       "text": "【永樂南藏】No.601《佛說鞞摩肅經》 部別：小乘經-阿含部 千字文：緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gb",
+       "created": 1646116892773,
+       "text": "【永樂北藏】No.611《佛說鞞摩肅經》劉宋求那跋陀羅譯 部別：小乘經阿含部 / 冊數：61 / 頁數：723 / 卷數：1 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gc",
+       "created": 1646116892773,
+       "text": "【嘉興藏】No.576《佛說鞞摩肅經》劉宋求那跋陀羅譯 部別：小乘經-阿含部 / 法寶總目錄經號：0576 千字文 / 函號：［正藏］ 緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gd",
+       "created": 1646116892773,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwS51Ge",
+       "created": 1646116892773,
+       "text": "【乾隆藏】No.577《佛說鞞摩肅經》宋 求那跋陀羅譯 部別：小乘阿含部 / 冊數：51 / 頁數：757 / 卷數：1 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gf",
+       "created": 1646116892773,
+       "text": "【縮刻藏】No.543《佛說鞞摩肅經》宋求那跋陀羅譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gg",
+       "created": 1646116892773,
+       "text": "【卍正藏】No.584《佛說鞞摩肅經》宋 求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：197 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gh",
+       "created": 1646116892773,
+       "text": "【大正藏】No.90《鞞摩肅經》劉宋 求那跋陀羅譯 部別：阿含部上 / 冊數：1 / 頁數：913 / 卷數：1 相關經典：縮-昃8,卍-14.1,南-11上.80 參考資料：No.26(209)"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gi",
+       "created": 1646116892773,
+       "text": "【佛教大藏經】No.551《佛說鞞摩肅經》劉宋 求那跋陀羅譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：371 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gj",
+       "created": 1646116892773,
+       "text": "【中華藏】No.757《佛說鞞摩肅經》宋天竺三藏求那跋陀羅譯 冊數：34 / 頁數：129 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gk",
+       "created": 1646116892773,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gl",
+       "created": 1646116892773,
+       "text": "【南條文雄編號】 Nj. 0581"
+      }},
+      {"data": {
+       "id": "z5cYwS51Gm",
+       "created": 1646116892773,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：90"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvfn2h",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

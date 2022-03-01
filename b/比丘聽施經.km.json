@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "比丘聽施經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwvm81a",
+    "created": 1646116894614,
+    "text": "現藏錄（東晉 曇無蘭譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwvl80j",
+      "created": 1646116894613,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwvl80k",
+        "created": 1646116894613,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwvl80l",
+        "created": 1646116894613,
+        "text": "比丘聽施經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwvl80m",
+        "created": 1646116894613,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwvl80n",
+        "created": 1646116894613,
+        "text": "比丘听施经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwvl80o",
+        "created": 1646116894613,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwvl80p",
+        "created": 1646116894613,
+        "text": "bi qiu ting shi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwvl80x",
+        "created": 1646116894613,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwvl80y",
+        "created": 1646116894613,
+        "text": "Pi ch'iu t'ing shih ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwvl80z",
+       "created": 1646116894613,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwvl810",
+        "created": 1646116894613,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwvl811",
+        "created": 1646116894613,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwvl812",
+        "created": 1646116894613,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwvl813",
+        "created": 1646116894613,
+        "text": "비구청시경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwvl80q",
+      "created": 1646116894613,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwvl80r",
+      "created": 1646116894613,
+      "text": "東晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwvl80s",
+      "created": 1646116894613,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwvl80t",
+       "created": 1646116894613,
+       "text": "東晉 曇無蘭譯"
+      }},
+      {"data": {
+       "id": "z5cYwvl80u",
+       "created": 1646116894613,
+       "text": "曇無蘭",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwvl80v",
+      "created": 1646116894613,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwvl80w",
+      "created": 1646116894613,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwvl814",
+      "created": 1646116894613,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwvl815",
+      "created": 1646116894613,
+      "text": "Translation by T'an-wu-lan: (see K.871)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwvl816",
+     "created": 1646116894613,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwvl817",
+      "created": 1646116894613,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwvl818",
+      "created": 1646116894613,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwvl819",
+      "created": 1646116894613,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwvl81A",
+       "created": 1646116894613,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81B",
+       "created": 1646116894613,
+       "text": "【開寶藏】No.876《比丘聽施經》東晉 西域沙門竺曇無蘭 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+      }},
+      {"data": {
+       "id": "z5cYwvl81C",
+       "created": 1646116894613,
+       "text": "【崇寧藏】No.883《佛說比丘聽施經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81D",
+       "created": 1646116894613,
+       "text": "【毘盧藏】No.884《比丘聽施經》東晉竺曇無蘭譯 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81E",
+       "created": 1646116894613,
+       "text": "【圓覺藏】No.892《比丘聽施經》 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81F",
+       "created": 1646116894613,
+       "text": "【趙城金藏】No.875《比丘聽施經》 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYwvl81G",
+       "created": 1646116894613,
+       "text": "【資福藏】No.898《比丘聽施經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81H",
+       "created": 1646116894613,
+       "text": "【磧砂藏】No.906《佛說比丘聽施經》晉 竺曇無蘭譯 部別：小乘單譯經 / 冊數：20 / 頁數：168 / 卷數：1 千字文：學 8 (305)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81I",
+       "created": 1646116894613,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81J",
+       "created": 1646116894613,
+       "text": "【高麗藏】No.873《比丘聽施經》東晉天竺三藏曇無蘭譯 部別：小乘經 單譯 / 冊數：20 頁數：1245(原版) 661(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYwvl81K",
+       "created": 1646116894613,
+       "text": "【普寧藏】No.898《佛說比丘聽施經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81L",
+       "created": 1646116894613,
+       "text": "【至元錄】No.1119《比丘聽施經》東晉西域三藏曇無蘭譯 卷數：1 千字文：和(330)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81M",
+       "created": 1646116894613,
+       "text": "【洪武南藏】No.809《佛說比丘聽施經》東晉 沙門竺曇無蘭 譯 冊數：106 / 頁數：515 / 卷數：1 千字文：斈 8 (305)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81N",
+       "created": 1646116894613,
+       "text": "【永樂南藏】No.773《佛說比丘聽施經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81O",
+       "created": 1646116894613,
+       "text": "【永樂北藏】No.768《佛說比丘聽施經》東晉曇無蘭譯 部別：小乘經單譯經 / 冊數：66 / 頁數：582 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYwvl81P",
+       "created": 1646116894613,
+       "text": "【嘉興藏】No.731《佛說比丘聽施經》東晉曇無蘭譯 部別：小乘經-單譯經 / 法寶總目錄經號：0731 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81Q",
+       "created": 1646116894613,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81R",
+       "created": 1646116894613,
+       "text": "【乾隆藏】No.732《佛說比丘聽施經》東晉 竺曇無蘭譯 部別：小乘單譯經 / 冊數：56 / 頁數：61 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYwvl81S",
+       "created": 1646116894613,
+       "text": "【縮刻藏】No.747《比丘聽施經》東晉曇無蘭譯 部別：小乘經 / 卷數：1 千字文：宿 8 (14)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81T",
+       "created": 1646116894613,
+       "text": "【卍正藏】No.740《比丘聽施經》東晉 曇無蘭譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：81 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwvl81U",
+       "created": 1646116894613,
+       "text": "【大正藏】No.504《比丘聽施經》東晉 曇無蘭譯 部別：經集部一 / 冊數：14 / 頁數：772 / 卷數：1 相關經典：縮-宿8,卍-15.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwvl81V",
+       "created": 1646116894613,
+       "text": "【佛教大藏經】No.768《比丘聽施經》東晉 竺曇無蘭譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：470 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwvl81W",
+       "created": 1646116894613,
+       "text": "【中華藏】No.951《比丘聽施經》東晉天竺三藏曇無蘭譯 冊數：36 / 頁數：444 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwvl81X",
+       "created": 1646116894613,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwvl81Y",
+       "created": 1646116894613,
+       "text": "【南條文雄編號】 Nj. 0736"
+      }},
+      {"data": {
+       "id": "z5cYwvl81Z",
+       "created": 1646116894613,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：504"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwutfy",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

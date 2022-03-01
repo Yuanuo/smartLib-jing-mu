@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "大乘稻芉經隨聽疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYyYobo5",
+    "created": 1646116900878,
+    "text": "現藏錄（唐 法成撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyYnbnQ",
+      "created": 1646116900877,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyYnbnR",
+        "created": 1646116900877,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYnbnS",
+        "created": 1646116900877,
+        "text": "大乘稻芉經隨聽疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyYnbnT",
+        "created": 1646116900877,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYnbnU",
+        "created": 1646116900877,
+        "text": "大乘稻芉经随听疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyYnbnV",
+        "created": 1646116900877,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyYnbnW",
+        "created": 1646116900877,
+        "text": "da cheng dao gan jing sui ting shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyYnbnX",
+      "created": 1646116900877,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyYnbnY",
+      "created": 1646116900877,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyYnbnZ",
+      "created": 1646116900877,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyYnbna",
+       "created": 1646116900877,
+       "text": "唐 法成撰"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnb",
+       "created": 1646116900877,
+       "text": "法成",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyYnbnc",
+      "created": 1646116900877,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyYnbnd",
+      "created": 1646116900877,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyYnbne",
+      "created": 1646116900877,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyYnbnf",
+       "created": 1646116900877,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbng",
+       "created": 1646116900877,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnh",
+       "created": 1646116900877,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbni",
+       "created": 1646116900877,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnj",
+       "created": 1646116900877,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnk",
+       "created": 1646116900877,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnl",
+       "created": 1646116900877,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnm",
+       "created": 1646116900877,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnn",
+       "created": 1646116900877,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbno",
+       "created": 1646116900877,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnp",
+       "created": 1646116900877,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnq",
+       "created": 1646116900877,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnr",
+       "created": 1646116900877,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbns",
+       "created": 1646116900877,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnt",
+       "created": 1646116900877,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYnbnu",
+       "created": 1646116900877,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobnv",
+       "created": 1646116900878,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobnw",
+       "created": 1646116900878,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobnx",
+       "created": 1646116900878,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobny",
+       "created": 1646116900878,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobnz",
+       "created": 1646116900878,
+       "text": "【大正藏】No.2782《大乘稻芉經隨聽疏》唐 法成撰 部別：古逸部全 / 冊數：85 / 頁數：543 / 卷數：1 相關經典： 參考資料：cf.Nos.712,2783"
+      }},
+      {"data": {
+       "id": "z5cYyYobo0",
+       "created": 1646116900878,
+       "text": "【佛教大藏經】No.1847《大乘稻芊經隨聽疏》唐 法成撰 部別：經疏部三 / 冊數：61 / 頁數：869 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYyYobo1",
+       "created": 1646116900878,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobo2",
+       "created": 1646116900878,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobo3",
+       "created": 1646116900878,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyYobo4",
+       "created": 1646116900878,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2782"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1ot2ax",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

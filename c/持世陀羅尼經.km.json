@@ -1,0 +1,711 @@
+{
+ "root": {
+  "data": {"text": "持世陀羅尼經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxS9HRg",
+     "created": 1646116896621,
+     "text": "現藏錄（唐 玄奘譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxS9HQj",
+       "created": 1646116896621,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxS9HQk",
+         "created": 1646116896621,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxS9HQl",
+         "created": 1646116896621,
+         "text": "持世陀羅尼經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxS9HQm",
+         "created": 1646116896621,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxS9HQn",
+         "created": 1646116896621,
+         "text": "持世陀罗尼经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxS9HQo",
+         "created": 1646116896621,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxS9HQp",
+         "created": 1646116896621,
+         "text": "chi shi tuo luo ni jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxS9HQx",
+         "created": 1646116896621,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxS9HQy",
+         "created": 1646116896621,
+         "text": "Ch'ih shih t'o lo ni ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxS9HQz",
+         "created": 1646116896621,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxS9HR0",
+         "created": 1646116896621,
+         "text": "Vasudhārādhāraṇī(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxS9HR1",
+         "created": 1646116896621,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxS9HR2",
+         "created": 1646116896621,
+         "text": "Nor-gyi rgyun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxS9HR3",
+         "created": 1646116896621,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxS9HR4",
+         "created": 1646116896621,
+         "text": "지세타라니경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxS9HQq",
+       "created": 1646116896621,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxS9HQr",
+       "created": 1646116896621,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxS9HQs",
+       "created": 1646116896621,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxS9HQt",
+        "created": 1646116896621,
+        "text": "唐 玄奘譯"
+       }},
+       {"data": {
+        "id": "z5cYxS9HQu",
+        "created": 1646116896621,
+        "text": "玄奘",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxS9HQv",
+       "created": 1646116896621,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxS9HQw",
+       "created": 1646116896621,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxS9HR5",
+       "created": 1646116896621,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxS9HR6",
+       "created": 1646116896621,
+       "text": "Translation by Hsüan-tsang: 10th day, 10th month, 5th year of Yung Hui (永徽), T'ang dynasty (唐) (November 24th, A.D. 654) in Ta-tz'u-en Monastery (大慈恩寺).T. 2154-556a:17."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxS9HR7",
+       "created": 1646116896621,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxS9HR8",
+        "created": 1646116896621,
+        "text": "【北京版】Rgyud (ba)212a-216a(ya)178b-182b"
+       }},
+       {"data": {
+        "id": "z5cYxS9HR9",
+        "created": 1646116896621,
+        "text": "【奈塘版】Rgyud (pha)157a-162b"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRA",
+        "created": 1646116896621,
+        "text": "【德格版】Rgyud-ḥbum (ba)186a-190aGzuṅs-ḥdus (wam)172b-176b"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRB",
+        "created": 1646116896621,
+        "text": "【拉薩版】Rgyud (pa)177a-184a"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRC",
+        "created": 1646116896621,
+        "text": "【卓尼版】Rgyud (ba)243a-247b(ya)183a-187b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxS9HRD",
+       "created": 1646116896621,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxS9HRE",
+       "created": 1646116896621,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxS9HRF",
+       "created": 1646116896621,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxS9HRG",
+        "created": 1646116896621,
+        "text": "【房山石經】No.594《持世陀羅尼經》(大唐)三藏沙門玄奘奉詔譯 冊數：13 / 頁數：546 / 卷數：1 / 刻經年代：保大元年刻石 / 瀏覽：目錄圖檔 千字文：羊"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRH",
+        "created": 1646116896621,
+        "text": "【開寶藏】No.446《持世陀羅尼經》唐 三藏玄奘 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：贊"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRI",
+        "created": 1646116896621,
+        "text": "【崇寧藏】No.438《持世陀羅尼經》 卷數：1 千字文：羔(199)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRJ",
+        "created": 1646116896621,
+        "text": "【毘盧藏】No.449《持世陀羅尼經》唐玄奘譯 千字文：羔(199)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRK",
+        "created": 1646116896621,
+        "text": "【圓覺藏】No.462《持世陀羅尼經》 千字文：羔(199)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRL",
+        "created": 1646116896621,
+        "text": "【趙城金藏】No.449《持世陀羅尼經》 卷數：1 千字文：讚"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRM",
+        "created": 1646116896621,
+        "text": "【資福藏】No.466《持世陀羅尼經》 卷數：1 千字文：羔(199)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRN",
+        "created": 1646116896621,
+        "text": "【磧砂藏】No.466《佛說持世陀羅尼經》唐 玄奘譯 部別：五大部外單譯經 / 冊數：13 / 頁數：683 / 卷數：1 千字文：羔 10 (199)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRO",
+        "created": 1646116896621,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRP",
+        "created": 1646116896621,
+        "text": "【高麗藏】No.448《持世陀羅尼經》大唐三藏法師玄奘譯 部別：大乘經 單譯 / 冊數：13 頁數：1165 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：讚"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRQ",
+        "created": 1646116896621,
+        "text": "【普寧藏】No.460《佛說持世陀羅尼經》 卷數：1 千字文：羔(199)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRR",
+        "created": 1646116896621,
+        "text": "【至元錄】No.641《持世陀羅尼經》唐三藏玄奘譯 梵名：阿唎(二合)亞　瓦蘇怛羅　拏麻陀羅尼 / 卷數：1 / 出處：(出內典錄) 千字文：資(241)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRS",
+        "created": 1646116896621,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRT",
+        "created": 1646116896621,
+        "text": "【永樂南藏】No.458《佛說持世陀羅尼經》 部別：大乘經-單譯經 千字文：行(202)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRU",
+        "created": 1646116896621,
+        "text": "【永樂北藏】No.518《佛說持世陀羅尼經》唐玄奘譯 部別：大乘經單經譯 / 冊數：53 / 頁數：633 / 卷數：1 千字文：行"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRV",
+        "created": 1646116896621,
+        "text": "【嘉興藏】No.487《佛說持世陀羅尼經》唐玄奘譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0487 千字文 / 函號：［正藏］ 行(202)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRW",
+        "created": 1646116896621,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRX",
+        "created": 1646116896621,
+        "text": "【乾隆藏】No.488《佛說持世陀羅尼經》唐 玄奘譯 部別：大乘單譯經 / 冊數：45 / 頁數：388 / 卷數：1 千字文：行"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRY",
+        "created": 1646116896621,
+        "text": "【縮刻藏】No.1530《持世陀羅尼經》唐玄奘譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRZ",
+        "created": 1646116896621,
+        "text": "【卍正藏】No.494《持世陀羅尼經》大唐 玄奘譯 部別：大乘經 單譯經 / 冊數：21 / 頁數：948 / 卷數：1 原版套數：第 12 套"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRa",
+        "created": 1646116896621,
+        "text": "【大正藏】No.1162《持世陀羅尼經》唐 玄奘譯 部別：密教部三 / 冊數：20 / 頁數：666 / 卷數：1 相關經典：縮-成8,卍-12.5 參考資料：Nos.1163-1165"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRb",
+        "created": 1646116896621,
+        "text": "【佛教大藏經】No.1607《持世陀羅尼經》唐 玄奘譯 部別：密教部六 / 冊數：57 / 頁數：399 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRc",
+        "created": 1646116896621,
+        "text": "【中華藏】No.492《持世陀羅尼經》大唐三藏法師玄奘奉詔譯 冊數：24 / 頁數：32 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRd",
+        "created": 1646116896621,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRe",
+        "created": 1646116896621,
+        "text": "【南條文雄編號】 Nj. 0492"
+       }},
+       {"data": {
+        "id": "z5cYxS9HRf",
+        "created": 1646116896621,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1162"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxSHHUQ",
+     "created": 1646116896629,
+     "text": "現藏錄（宋 施護譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxSGHTT",
+       "created": 1646116896628,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxSGHTU",
+         "created": 1646116896628,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxSGHTV",
+         "created": 1646116896628,
+         "text": "聖持世陀羅尼經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxSGHTW",
+         "created": 1646116896628,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxSGHTX",
+         "created": 1646116896628,
+         "text": "圣持世陀罗尼经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxSGHTY",
+         "created": 1646116896628,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxSGHTZ",
+         "created": 1646116896628,
+         "text": "sheng chi shi tuo luo ni jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxSGHTh",
+         "created": 1646116896628,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxSGHTi",
+         "created": 1646116896628,
+         "text": "Sheng ch'ih shih t'o lo ni ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxSGHTj",
+         "created": 1646116896628,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxSGHTk",
+         "created": 1646116896628,
+         "text": "Vasudhārādhāraṇī(sūtra)"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxSGHTl",
+         "created": 1646116896628,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxSGHTm",
+         "created": 1646116896628,
+         "text": "Bcom-ldan-ḥdas-ma nor rgyun-maḥi rtog-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxSGHTn",
+         "created": 1646116896628,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxSGHTo",
+         "created": 1646116896628,
+         "text": "성지세다라니경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxSGHTa",
+       "created": 1646116896628,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxSGHTb",
+       "created": 1646116896628,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxSGHTc",
+       "created": 1646116896628,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxSGHTd",
+        "created": 1646116896628,
+        "text": "宋 施護譯"
+       }},
+       {"data": {
+        "id": "z5cYxSGHTe",
+        "created": 1646116896628,
+        "text": "施護",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxSGHTf",
+       "created": 1646116896628,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxSGHTg",
+       "created": 1646116896628,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxSGHTp",
+       "created": 1646116896628,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxSGHTq",
+       "created": 1646116896628,
+       "text": "Translation by Dānapāla: (see K.1123)."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxSGHTr",
+       "created": 1646116896628,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxSGHTs",
+        "created": 1646116896628,
+        "text": "【北京版】Rgyud (ba)216a-217a217a-218b"
+       }},
+       {"data": {
+        "id": "z5cYxSGHTt",
+        "created": 1646116896628,
+        "text": "【奈塘版】Rgyud (pha)162b-164a164a-167b"
+       }},
+       {"data": {
+        "id": "z5cYxSGHTu",
+        "created": 1646116896628,
+        "text": "【德格版】Rgyud-ḥbum (ba)190a-191a191a-192b"
+       }},
+       {"data": {
+        "id": "z5cYxSGHTv",
+        "created": 1646116896628,
+        "text": "【拉薩版】Rgyud (pa)184a-185b195b-188b"
+       }},
+       {"data": {
+        "id": "z5cYxSGHTw",
+        "created": 1646116896628,
+        "text": "【卓尼版】Rgyud (ba)247b-249a249a-251a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxSGHTx",
+       "created": 1646116896628,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxSGHTy",
+       "created": 1646116896628,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxSGHTz",
+       "created": 1646116896628,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxSGHU0",
+        "created": 1646116896628,
+        "text": "【房山石經】No.894《聖持世陀羅尼經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：26 / 頁數：119 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：佐"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU1",
+        "created": 1646116896628,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU2",
+        "created": 1646116896628,
+        "text": "【崇寧藏】No.1127《聖持世陀羅尼經》 卷數：1 千字文：卿(496)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU3",
+        "created": 1646116896628,
+        "text": "【毘盧藏】No.1127《聖持世陀羅尼經》宋施護譯 千字文：卿(496)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU4",
+        "created": 1646116896628,
+        "text": "【圓覺藏】No.1135《聖持世陀羅尼經》 千字文：卿(496)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU5",
+        "created": 1646116896628,
+        "text": "【趙城金藏】No.1126《聖持世陀羅尼經》 卷數：1 千字文：璧"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU6",
+        "created": 1646116896628,
+        "text": "【資福藏】No.1139《聖持世陀羅尼經》 卷數：1 千字文：卿(496)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU7",
+        "created": 1646116896628,
+        "text": "【磧砂藏】No.1150《聖持世陀羅尼經》宋 施護譯 部別： / 冊數：32 / 頁數：659 / 卷數：1 千字文：卿 6 (496)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU8",
+        "created": 1646116896628,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHU9",
+        "created": 1646116896628,
+        "text": "【高麗藏】No.1125《聖持世陀羅尼經》西天譯經三藏施護譯 部別：宋續入藏經 / 冊數：33 頁數：1040 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：壁"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUA",
+        "created": 1646116896628,
+        "text": "【普寧藏】No.1140《聖持世陀羅尼經》 卷數：1 千字文：卿(496)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUB",
+        "created": 1646116896628,
+        "text": "【至元錄】No.726《聖持世陀羅尼經》宋北印土三藏施護譯 梵名：阿唎(二合)瓦蘇怛　拏麻陀羅尼 / 卷數：1 千字文：履(259)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUC",
+        "created": 1646116896628,
+        "text": "【洪武南藏】No.1005《聖持世陀羅尼經》三藏傳法大師臣施護 奉詔譯 冊數：179 / 頁數：462 / 卷數：1 千字文：卿 6 (496)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUD",
+        "created": 1646116896628,
+        "text": "【永樂南藏】No.806《聖持世陀羅尼經》 部別：宋元入藏諸大小乘經 千字文：忠(253)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUE",
+        "created": 1646116896628,
+        "text": "【永樂北藏】No.840《佛說聖持世陀羅尼經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：604 / 卷數：1 千字文：則"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUF",
+        "created": 1646116896628,
+        "text": "【嘉興藏】No.803《佛說聖持世陀羅尼經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0803 千字文 / 函號：［正藏］ 則(254)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUG",
+        "created": 1646116896628,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUH",
+        "created": 1646116896628,
+        "text": "【乾隆藏】No.804《佛說聖持世陀羅尼經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：6 / 卷數：1 千字文：則"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUI",
+        "created": 1646116896628,
+        "text": "【縮刻藏】No.1532《聖持世陀羅尼經》宋施護譯 部別：祕密部 / 卷數：1 千字文：成 8 (27)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUJ",
+        "created": 1646116896628,
+        "text": "【卍正藏】No.813《聖持世陀羅尼經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：501 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUK",
+        "created": 1646116896628,
+        "text": "【大正藏】No.1165《聖持世陀羅尼經》宋 施護譯 部別：密教部三 / 冊數：20 / 頁數：672 / 卷數：1 相關經典：縮-成8,卍-15.3 參考資料：Nos.1162-1164"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUL",
+        "created": 1646116896628,
+        "text": "【佛教大藏經】No.1609《聖持世陀羅尼經》宋 施護譯 部別：密教部六 / 冊數：57 / 頁數：405 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUM",
+        "created": 1646116896628,
+        "text": "【中華藏】No.1236《聖持世陀羅尼經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：63 / 頁數：969 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUN",
+        "created": 1646116896628,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUO",
+        "created": 1646116896628,
+        "text": "【南條文雄編號】 Nj. 0809"
+       }},
+       {"data": {
+        "id": "z5cYxSGHUP",
+        "created": 1646116896628,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1165"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyelze",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

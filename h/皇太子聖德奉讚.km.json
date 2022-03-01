@@ -1,0 +1,494 @@
+{
+ "root": {
+  "data": {"text": "皇太子聖德奉讚"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyTtaNF",
+     "created": 1646116900573,
+     "text": "現藏錄（日本 親鸞撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyTsaMa",
+       "created": 1646116900572,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyTsaMb",
+         "created": 1646116900572,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyTsaMc",
+         "created": 1646116900572,
+         "text": "皇太子聖德奉讚",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyTsaMd",
+         "created": 1646116900572,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyTsaMe",
+         "created": 1646116900572,
+         "text": "皇太子圣德奉赞",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyTsaMf",
+         "created": 1646116900572,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyTsaMg",
+         "created": 1646116900572,
+         "text": "huang tai zi sheng de feng zan"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyTsaMh",
+       "created": 1646116900572,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyTsaMi",
+       "created": 1646116900572,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyTsaMj",
+       "created": 1646116900572,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyTsaMk",
+        "created": 1646116900572,
+        "text": "日本 親鸞撰"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMl",
+        "created": 1646116900573,
+        "text": "親鸞",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyTtaMm",
+       "created": 1646116900573,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyTtaMn",
+       "created": 1646116900573,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyTtaMo",
+       "created": 1646116900573,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyTtaMp",
+        "created": 1646116900573,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMq",
+        "created": 1646116900573,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMr",
+        "created": 1646116900573,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMs",
+        "created": 1646116900573,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMt",
+        "created": 1646116900573,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMu",
+        "created": 1646116900573,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMv",
+        "created": 1646116900573,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMw",
+        "created": 1646116900573,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMx",
+        "created": 1646116900573,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMy",
+        "created": 1646116900573,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaMz",
+        "created": 1646116900573,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN0",
+        "created": 1646116900573,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN1",
+        "created": 1646116900573,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN2",
+        "created": 1646116900573,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN3",
+        "created": 1646116900573,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN4",
+        "created": 1646116900573,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN5",
+        "created": 1646116900573,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN6",
+        "created": 1646116900573,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN7",
+        "created": 1646116900573,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN8",
+        "created": 1646116900573,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaN9",
+        "created": 1646116900573,
+        "text": "【大正藏】No.2653a《皇太子聖德奉讚》日本 親鸞撰 部別：續諸宗部十四 / 冊數：83 / 頁數：669 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYyTtaNA",
+        "created": 1646116900573,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaNB",
+        "created": 1646116900573,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaNC",
+        "created": 1646116900573,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaND",
+        "created": 1646116900573,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyTtaNE",
+        "created": 1646116900573,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2653"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyU4aNv",
+     "created": 1646116900584,
+     "text": "現藏錄（愚禿親鸞作）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyU2aNG",
+       "created": 1646116900582,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyU2aNH",
+         "created": 1646116900582,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyU2aNI",
+         "created": 1646116900582,
+         "text": "皇太子聖德奉讚"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyU2aNJ",
+         "created": 1646116900582,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyU2aNK",
+         "created": 1646116900582,
+         "text": "皇太子圣德奉赞"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyU2aNL",
+         "created": 1646116900582,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyU2aNM",
+         "created": 1646116900582,
+         "text": "huang tai zi sheng de feng zan"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyU2aNN",
+       "created": 1646116900582,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyU2aNO",
+       "created": 1646116900582,
+       "text": "",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyU2aNP",
+       "created": 1646116900582,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyU2aNQ",
+        "created": 1646116900582,
+        "text": "愚禿親鸞作"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNR",
+        "created": 1646116900582,
+        "text": "愚禿親鸞",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyU2aNS",
+       "created": 1646116900582,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyU2aNT",
+       "created": 1646116900582,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyU2aNU",
+       "created": 1646116900582,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyU2aNV",
+        "created": 1646116900582,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNW",
+        "created": 1646116900582,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNX",
+        "created": 1646116900582,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNY",
+        "created": 1646116900582,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNZ",
+        "created": 1646116900582,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNa",
+        "created": 1646116900582,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNb",
+        "created": 1646116900582,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNc",
+        "created": 1646116900582,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU2aNd",
+        "created": 1646116900582,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNe",
+        "created": 1646116900583,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNf",
+        "created": 1646116900583,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNg",
+        "created": 1646116900583,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNh",
+        "created": 1646116900583,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNi",
+        "created": 1646116900583,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNj",
+        "created": 1646116900583,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNk",
+        "created": 1646116900583,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNl",
+        "created": 1646116900583,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNm",
+        "created": 1646116900583,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNn",
+        "created": 1646116900583,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNo",
+        "created": 1646116900583,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNp",
+        "created": 1646116900583,
+        "text": "【大正藏】No.2653b《皇太子聖德奉讚》愚禿親鸞作 部別：續諸宗部十四 / 冊數：83 / 頁數：669 / 卷數：1 相關經典： 參考資料：異本"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNq",
+        "created": 1646116900583,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNr",
+        "created": 1646116900583,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNs",
+        "created": 1646116900583,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNt",
+        "created": 1646116900583,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyU3aNu",
+        "created": 1646116900583,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2653"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1gc276",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

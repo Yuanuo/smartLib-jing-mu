@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說內藏百寶經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxBhCPS",
+    "created": 1646116895601,
+    "text": "現藏錄（後漢 支婁迦讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxBgCOV",
+      "created": 1646116895600,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxBgCOW",
+        "created": 1646116895600,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBgCOX",
+        "created": 1646116895600,
+        "text": "佛說內藏百寶經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBgCOY",
+        "created": 1646116895600,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBgCOZ",
+        "created": 1646116895600,
+        "text": "佛说内藏百宝经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBgCOa",
+        "created": 1646116895600,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBgCOb",
+        "created": 1646116895600,
+        "text": "fo shuo nei cang bai bao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBgCOj",
+        "created": 1646116895600,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBgCOk",
+        "created": 1646116895600,
+        "text": "Nei ts'ang pai pao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBgCOl",
+        "created": 1646116895600,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBgCOm",
+        "created": 1646116895600,
+        "text": "Lokānuvartanasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBgCOn",
+        "created": 1646116895600,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBgCOo",
+        "created": 1646116895600,
+        "text": "Ḥjig-rten-gyi rjes-su-ḥthum-par ḥjug-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBgCOp",
+        "created": 1646116895600,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBgCOq",
+        "created": 1646116895600,
+        "text": "내장백보경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBgCOc",
+      "created": 1646116895600,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBgCOd",
+      "created": 1646116895600,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBgCOe",
+      "created": 1646116895600,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBgCOf",
+       "created": 1646116895600,
+       "text": "後漢 支婁迦讖譯"
+      }},
+      {"data": {
+       "id": "z5cYxBgCOg",
+       "created": 1646116895600,
+       "text": "支婁迦讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBgCOh",
+      "created": 1646116895600,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBgCOi",
+      "created": 1646116895600,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBgCOr",
+      "created": 1646116895600,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBgCOs",
+      "created": 1646116895600,
+      "text": "Translation by Lokakṣema: during the reign of Ling Ti (靈帝) (A.D. 168-189).T.2148-183c:19. However, Lokakṣema's final date is A.D. 186.T 2151-348c:8.Thus, the translation was completed sometime between A.D. 168-186."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBgCOt",
+      "created": 1646116895600,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBgCOu",
+       "created": 1646116895600,
+       "text": "【北京版】Mdo-sna-tshogs (mu)304b-309a"
+      }},
+      {"data": {
+       "id": "z5cYxBgCOv",
+       "created": 1646116895600,
+       "text": "【奈塘版】Mdo (ba)475b-483"
+      }},
+      {"data": {
+       "id": "z5cYxBgCOw",
+       "created": 1646116895600,
+       "text": "【德格版】Mdo-sde (tsa)303a-308a"
+      }},
+      {"data": {
+       "id": "z5cYxBgCOx",
+       "created": 1646116895600,
+       "text": "【拉薩版】Mdo (ba)478b-486a"
+      }},
+      {"data": {
+       "id": "z5cYxBgCOy",
+       "created": 1646116895601,
+       "text": "【卓尼版】Mdo-maṅ (tsa)363b-369a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBhCOz",
+      "created": 1646116895601,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBhCP0",
+      "created": 1646116895601,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBhCP1",
+      "created": 1646116895601,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBhCP2",
+       "created": 1646116895601,
+       "text": "【房山石經】No.170《佛說內藏百寶經》(後漢)沙門支婁迦讖譯 冊數：3 / 頁數：464 / 卷數：1 / 刻經年代：大中十一年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.500《佛說內藏百寶經》(后漢)月支沙門支婁迦讖譯 冊數：11 / 頁數：92 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYxBhCP3",
+       "created": 1646116895601,
+       "text": "【開寶藏】No.354《內藏百寶經》後漢 月支三藏支婁迦讖 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYxBhCP4",
+       "created": 1646116895601,
+       "text": "【崇寧藏】No.353《內藏百寶經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCP5",
+       "created": 1646116895601,
+       "text": "【毘盧藏】No.351《內藏百寶經》後漢支婁伽讖譯 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCP6",
+       "created": 1646116895601,
+       "text": "【圓覺藏】No.362《內藏百寶經》 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCP7",
+       "created": 1646116895601,
+       "text": "【趙城金藏】No.362《內藏百寶經》 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYxBhCP8",
+       "created": 1646116895601,
+       "text": "【資福藏】No.366《內藏百寶經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCP9",
+       "created": 1646116895601,
+       "text": "【磧砂藏】No.369《內藏百寶經》後漢 支婁迦讖譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：742 / 卷數：1 千字文：必 1 (171)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPA",
+       "created": 1646116895601,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPB",
+       "created": 1646116895601,
+       "text": "【高麗藏】No.361《內藏百寶經》後漢月氏三藏支婁迦讖譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：123 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPC",
+       "created": 1646116895601,
+       "text": "【普寧藏】No.363《內藏百寶經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPD",
+       "created": 1646116895601,
+       "text": "【至元錄】No.364《內藏百寶經》後漢月支三藏支婁迦讖譯 梵名：螺迦阿耨　瓦囉(二合)丹蘇怛囉(二合) / 卷數：1 / 譯次：(第一譯闕第二) 千字文：能(174)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPE",
+       "created": 1646116895601,
+       "text": "【洪武南藏】No.319《內藏百寶經》後漢 月支三藏支婁迦懺 譯 冊數：58 / 頁數：58 / 卷數：1 千字文：必 1 (171)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPF",
+       "created": 1646116895601,
+       "text": "【永樂南藏】No.358《內藏百寶經》 部別：大乘經-五大部外重譯經 千字文：莫(175)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPG",
+       "created": 1646116895601,
+       "text": "【永樂北藏】No.410《佛說內藏百寶經》後漢支婁迦讖譯 部別：大乘經單經譯 / 冊數：47 / 頁數：559 / 卷數：1 千字文：短"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPH",
+       "created": 1646116895601,
+       "text": "【嘉興藏】No.381《佛說內藏百寶經》後漢支曜迦讖譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0381 千字文 / 函號：［正藏］ 短(180)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPI",
+       "created": 1646116895601,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPJ",
+       "created": 1646116895601,
+       "text": "【乾隆藏】No.382《佛說內藏百寶經》後漢 支婁迦讖譯 部別：大乘單譯經 / 冊數：40 / 頁數：579 / 卷數：1 千字文：短"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPK",
+       "created": 1646116895601,
+       "text": "【縮刻藏】No.360《佛說內藏百寶經》後漢支婁迦讖譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPL",
+       "created": 1646116895601,
+       "text": "【卍正藏】No.387《佛說內藏百寶經》後漢 支婁迦讖譯 部別：大乘經 單譯經 / 冊數：19 / 頁數：607 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPM",
+       "created": 1646116895601,
+       "text": "【大正藏】No.807《佛說內藏百寶經》後漢 支婁迦讖譯 部別：經集部四 / 冊數：17 / 頁數：751 / 卷數：1 相關經典：縮-宙8,卍-11.4,國-經15 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxBhCPN",
+       "created": 1646116895601,
+       "text": "【佛教大藏經】No.363《佛說內藏百寶經》後漢 支婁迦讖譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：393 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPO",
+       "created": 1646116895601,
+       "text": "【中華藏】No.381《佛說內藏百寶經》後漢月氏三藏支婁迦讖譯 冊數：20 / 頁數：526 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPP",
+       "created": 1646116895601,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPQ",
+       "created": 1646116895601,
+       "text": "【南條文雄編號】 Nj. 0386"
+      }},
+      {"data": {
+       "id": "z5cYxBhCPR",
+       "created": 1646116895601,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：807"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxm8ok",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "口傳鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyUkaX7",
+    "created": 1646116900626,
+    "text": "現藏錄（日本 覺如宗昭撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyUkaWS",
+      "created": 1646116900626,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyUkaWT",
+        "created": 1646116900626,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUkaWU",
+        "created": 1646116900626,
+        "text": "口傳鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUkaWV",
+        "created": 1646116900626,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUkaWW",
+        "created": 1646116900626,
+        "text": "口传钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUkaWX",
+        "created": 1646116900626,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUkaWY",
+        "created": 1646116900626,
+        "text": "kou chuan chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyUkaWZ",
+      "created": 1646116900626,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUkaWa",
+      "created": 1646116900626,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUkaWb",
+      "created": 1646116900626,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyUkaWc",
+       "created": 1646116900626,
+       "text": "日本 覺如宗昭撰"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWd",
+       "created": 1646116900626,
+       "text": "覺如宗昭",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyUkaWe",
+      "created": 1646116900626,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUkaWf",
+      "created": 1646116900626,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUkaWg",
+      "created": 1646116900626,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyUkaWh",
+       "created": 1646116900626,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWi",
+       "created": 1646116900626,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWj",
+       "created": 1646116900626,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWk",
+       "created": 1646116900626,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWl",
+       "created": 1646116900626,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWm",
+       "created": 1646116900626,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWn",
+       "created": 1646116900626,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWo",
+       "created": 1646116900626,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWp",
+       "created": 1646116900626,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWq",
+       "created": 1646116900626,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWr",
+       "created": 1646116900626,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWs",
+       "created": 1646116900626,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWt",
+       "created": 1646116900626,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWu",
+       "created": 1646116900626,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWv",
+       "created": 1646116900626,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWw",
+       "created": 1646116900626,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWx",
+       "created": 1646116900626,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWy",
+       "created": 1646116900626,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaWz",
+       "created": 1646116900626,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaX0",
+       "created": 1646116900626,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaX1",
+       "created": 1646116900626,
+       "text": "【大正藏】No.2663《口傳鈔》日本 覺如宗昭撰 部別：續諸宗部十四 / 冊數：83 / 頁數：738 / 卷數：3 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyUkaX2",
+       "created": 1646116900626,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaX3",
+       "created": 1646116900626,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaX4",
+       "created": 1646116900626,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaX5",
+       "created": 1646116900626,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUkaX6",
+       "created": 1646116900626,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2663"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1hu27l",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

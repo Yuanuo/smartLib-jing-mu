@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "無字寶篋經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxCWCiD",
+    "created": 1646116895652,
+    "text": "現藏錄（元魏 菩提流支譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxCWChG",
+      "created": 1646116895652,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxCWChH",
+        "created": 1646116895652,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCWChI",
+        "created": 1646116895652,
+        "text": "無字寶篋經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCWChJ",
+        "created": 1646116895652,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCWChK",
+        "created": 1646116895652,
+        "text": "无字宝箧经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCWChL",
+        "created": 1646116895652,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCWChM",
+        "created": 1646116895652,
+        "text": "wu zi bao qie jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCWChU",
+        "created": 1646116895652,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCWChV",
+        "created": 1646116895652,
+        "text": "Wu tzu pao ch'ieh ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCWChW",
+        "created": 1646116895652,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCWChX",
+        "created": 1646116895652,
+        "text": "Anakṣarakaraṇḍakavairocanagarbha(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCWChY",
+        "created": 1646116895652,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCWChZ",
+        "created": 1646116895652,
+        "text": "Yi-ge med-paḥi za-ma-tog rnam par-snaṅ-mdsad-kyi sñiṅ-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCWCha",
+        "created": 1646116895652,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCWChb",
+        "created": 1646116895652,
+        "text": "무자보협경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxCWChN",
+      "created": 1646116895652,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCWChO",
+      "created": 1646116895652,
+      "text": "元魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxCWChP",
+      "created": 1646116895652,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxCWChQ",
+       "created": 1646116895652,
+       "text": "元魏 菩提流支譯"
+      }},
+      {"data": {
+       "id": "z5cYxCWChR",
+       "created": 1646116895652,
+       "text": "菩提流支",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxCWChS",
+      "created": 1646116895652,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCWChT",
+      "created": 1646116895652,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxCWChc",
+      "created": 1646116895652,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCWChd",
+      "created": 1646116895652,
+      "text": "Translation by Bodhiruci: between the 1st year of Yung P'ing (永平) and the 2nd year of T'ien P'ing (天平), Yüan Wei dynasty (元魏) (A.D. 508-535).T. 2151-364a:5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxCWChe",
+      "created": 1646116895652,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxCWChf",
+       "created": 1646116895652,
+       "text": "【北京版】Mdo-sna-tshogs (shu)274a-278b"
+      }},
+      {"data": {
+       "id": "z5cYxCWChg",
+       "created": 1646116895652,
+       "text": "【奈塘版】Mdo (wa)371a-377a"
+      }},
+      {"data": {
+       "id": "z5cYxCWChh",
+       "created": 1646116895652,
+       "text": "【德格版】Mdo-sde (za)259b-2G4a"
+      }},
+      {"data": {
+       "id": "z5cYxCWChi",
+       "created": 1646116895652,
+       "text": "【拉薩版】Mdo (sha)24a-30b"
+      }},
+      {"data": {
+       "id": "z5cYxCWChj",
+       "created": 1646116895652,
+       "text": "【卓尼版】Mdo-maṅ (za)289a-294a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxCWChk",
+      "created": 1646116895652,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCWChl",
+      "created": 1646116895652,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxCWChm",
+      "created": 1646116895652,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxCWChn",
+       "created": 1646116895652,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCWCho",
+       "created": 1646116895652,
+       "text": "【開寶藏】No.214《無字寶篋經》元魏 天竺三藏菩提流支 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYxCWChp",
+       "created": 1646116895652,
+       "text": "【崇寧藏】No.215《無字寶篋經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChq",
+       "created": 1646116895652,
+       "text": "【毘盧藏】No.211《無字寶篋經》元魏菩提流支譯 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChr",
+       "created": 1646116895652,
+       "text": "【圓覺藏】No.223《無字寶篋經》 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChs",
+       "created": 1646116895652,
+       "text": "【趙城金藏】No.213《無字寶篋經》 卷數：1 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYxCWCht",
+       "created": 1646116895652,
+       "text": "【資福藏】No.227《無字寶篋經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChu",
+       "created": 1646116895652,
+       "text": "【磧砂藏】No.228《無字寶篋經》元魏 菩提留支譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：112 / 卷數：1 千字文：毀 1 (159)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChv",
+       "created": 1646116895652,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChw",
+       "created": 1646116895652,
+       "text": "【高麗藏】No.213《無字寶篋經》元魏天竺三藏菩提流支譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：381 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：敢"
+      }},
+      {"data": {
+       "id": "z5cYxCWChx",
+       "created": 1646116895652,
+       "text": "【普寧藏】No.222《無字寶篋經》 卷數：1 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChy",
+       "created": 1646116895652,
+       "text": "【至元錄】No.291《無字寶篋經》元魏天竺三藏菩提留支譯 卷數：1 / 譯次：(第一譯) 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYxCWChz",
+       "created": 1646116895652,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi0",
+       "created": 1646116895652,
+       "text": "【永樂南藏】No.217《無字寶篋經》 部別：大乘經-五大部外重譯經 千字文：絜(164)"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi1",
+       "created": 1646116895652,
+       "text": "【永樂北藏】No.245《無字寶篋經》元魏菩提留支譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：331 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi2",
+       "created": 1646116895652,
+       "text": "【嘉興藏】No.216《無字寶篋經》元魏菩提留支譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0216 千字文 / 函號：［正藏］ 潔(164)"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi3",
+       "created": 1646116895652,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi4",
+       "created": 1646116895652,
+       "text": "【乾隆藏】No.217《無字寶篋經》元魏 菩提留支譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：149 / 卷數：1 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi5",
+       "created": 1646116895652,
+       "text": "【縮刻藏】No.193《無字寶篋經》元魏菩提流支譯 部別：大乘經-方等部 / 卷數：1 千字文：宇 3 (5)"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi6",
+       "created": 1646116895652,
+       "text": "【卍正藏】No.220《無字寶篋經》元魏 菩提流支譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：918 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi7",
+       "created": 1646116895652,
+       "text": "【大正藏】No.828《無字寶篋經》元魏 菩提流支譯 部別：經集部四 / 冊數：17 / 頁數：870 / 卷數：1 相關經典：縮-宇3,卍-10.5 參考資料：Nos.829,830"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi8",
+       "created": 1646116895652,
+       "text": "【佛教大藏經】No.195《無字寶篋經》元魏 菩提流支譯 部別：大乘經 方等部七 / 冊數：9 / 頁數：319 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxCWCi9",
+       "created": 1646116895652,
+       "text": "【中華藏】No.229《無字寶篋經》元魏天竺三藏菩提流支譯 冊數：19 / 頁數：36 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxCWCiA",
+       "created": 1646116895652,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCWCiB",
+       "created": 1646116895652,
+       "text": "【南條文雄編號】 Nj. 0221"
+      }},
+      {"data": {
+       "id": "z5cYxCWCiC",
+       "created": 1646116895652,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：828"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxnnp5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

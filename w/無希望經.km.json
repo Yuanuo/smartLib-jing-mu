@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說無希望經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxBxCV0",
+    "created": 1646116895617,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxBxCU3",
+      "created": 1646116895617,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxBxCU4",
+        "created": 1646116895617,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBxCU5",
+        "created": 1646116895617,
+        "text": "佛說無希望經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBxCU6",
+        "created": 1646116895617,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBxCU7",
+        "created": 1646116895617,
+        "text": "佛说无希望经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBxCU8",
+        "created": 1646116895617,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBxCU9",
+        "created": 1646116895617,
+        "text": "fo shuo wu xi wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBxCUH",
+        "created": 1646116895617,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBxCUI",
+        "created": 1646116895617,
+        "text": "Wu hsi wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBxCUJ",
+        "created": 1646116895617,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBxCUK",
+        "created": 1646116895617,
+        "text": "Hastikakṣyā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBxCUL",
+        "created": 1646116895617,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBxCUM",
+        "created": 1646116895617,
+        "text": "Glaṅ-poḥi rtsal"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBxCUN",
+        "created": 1646116895617,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBxCUO",
+        "created": 1646116895617,
+        "text": "무희망경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBxCUA",
+      "created": 1646116895617,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBxCUB",
+      "created": 1646116895617,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBxCUC",
+      "created": 1646116895617,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBxCUD",
+       "created": 1646116895617,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUE",
+       "created": 1646116895617,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBxCUF",
+      "created": 1646116895617,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBxCUG",
+      "created": 1646116895617,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBxCUP",
+      "created": 1646116895617,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBxCUQ",
+      "created": 1646116895617,
+      "text": "Translation by Dharmarakṣa: between the 2nd year of Tai Shih (太始) and the 1st year of Chien Hsing (建興), Western Chin dynasty (西晉) (A.D. 266-313).T. 2151-353a:28."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBxCUR",
+      "created": 1646116895617,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBxCUS",
+       "created": 1646116895617,
+       "text": "【北京版】Mdo-sna-tshogs (tsu)99b-115b"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUT",
+       "created": 1646116895617,
+       "text": "【奈塘版】Mdo (ma)155b-179b"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUU",
+       "created": 1646116895617,
+       "text": "【德格版】Mdo-sde (tsha)95a-109a"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUV",
+       "created": 1646116895617,
+       "text": "【拉薩版】Mdo (ma)147a-169b"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUW",
+       "created": 1646116895617,
+       "text": "【卓尼版】Mdo-maṅ (tsha)109a-125b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBxCUX",
+      "created": 1646116895617,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBxCUY",
+      "created": 1646116895617,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBxCUZ",
+      "created": 1646116895617,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBxCUa",
+       "created": 1646116895617,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUb",
+       "created": 1646116895617,
+       "text": "【開寶藏】No.185《無所希望經》西晉 月支三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：鞠"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUc",
+       "created": 1646116895617,
+       "text": "【崇寧藏】No.185《佛說無所希望經》 卷數：1 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUd",
+       "created": 1646116895617,
+       "text": "【毘盧藏】No.181《無所希望經》西晉竺法護譯 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUe",
+       "created": 1646116895617,
+       "text": "【圓覺藏】No.193《無所希望經》 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUf",
+       "created": 1646116895617,
+       "text": "【趙城金藏】No.184《無希望經》 卷數：1 千字文：鞠"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUg",
+       "created": 1646116895617,
+       "text": "【資福藏】No.197《無所希望經》 卷數：1 (一) 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUh",
+       "created": 1646116895617,
+       "text": "【磧砂藏】No.197《佛說無所希望經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：820 / 卷數：1 千字文：養 2 (156)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUi",
+       "created": 1646116895617,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUj",
+       "created": 1646116895617,
+       "text": "【高麗藏】No.184《無希望經》西晉三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：107 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鞠"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUk",
+       "created": 1646116895617,
+       "text": "【普寧藏】No.192《佛說無所希望經》 卷數：1 千字文：養(156)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUl",
+       "created": 1646116895617,
+       "text": "【至元錄】No.263《無所希望經》西晉三藏竺法護譯 卷數：1 千字文：良(168)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUm",
+       "created": 1646116895617,
+       "text": "【洪武南藏】No.178《無所希望經》西晉 三藏法師竺法護 譯 冊數：53 / 頁數：201 / 卷數：1 千字文：養 2 (156)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUn",
+       "created": 1646116895617,
+       "text": "【永樂南藏】No.186《佛說無所希望經》 部別：大乘經-五大部外重譯經 千字文：慕(162)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUo",
+       "created": 1646116895617,
+       "text": "【永樂北藏】No.218《佛說無所希望經》西晉竺法護譯 部別：大乘經五大部外重譯經 / 冊數：42 / 頁數：661 / 卷數：1 千字文：慕"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUp",
+       "created": 1646116895617,
+       "text": "【嘉興藏】No.189《無所希望經》西晉竺法護譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0189 千字文 / 函號：［正藏］ 慕(162)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUq",
+       "created": 1646116895617,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUr",
+       "created": 1646116895617,
+       "text": "【乾隆藏】No.190《佛說無所希望經》西晉 竺法護譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：551 / 卷數：1 千字文：慕"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUs",
+       "created": 1646116895617,
+       "text": "【縮刻藏】No.369《佛說無希望經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUt",
+       "created": 1646116895617,
+       "text": "【卍正藏】No.193《佛說無希望經》西晉 竺法護譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：665 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUu",
+       "created": 1646116895617,
+       "text": "【大正藏】No.813《佛說無希望經》西晉 竺法護譯 部別：經集部四 / 冊數：17 / 頁數：775 / 卷數：1 相關經典：縮-宙8,卍-10.4 參考資料：No.814"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUv",
+       "created": 1646116895617,
+       "text": "【佛教大藏經】No.372《佛說無希望經》西晉 竺法護譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：451 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUw",
+       "created": 1646116895617,
+       "text": "【中華藏】No.194《佛說無希望經》西晉三藏竺法護譯 冊數：18 / 頁數：576 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUx",
+       "created": 1646116895617,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUy",
+       "created": 1646116895617,
+       "text": "【南條文雄編號】 Nj. 0194"
+      }},
+      {"data": {
+       "id": "z5cYxBxCUz",
+       "created": 1646116895617,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：813"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxmooq",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "初學記"},
+  "children": [{
+   "data": {
+    "id": "z5cYylofV2",
+    "created": 1646116901684,
+    "text": "現藏錄（元 清覺述　道安注）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYylnfUN",
+      "created": 1646116901683,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYylofUO",
+        "created": 1646116901684,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYylofUP",
+        "created": 1646116901684,
+        "text": "初學記",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYylofUQ",
+        "created": 1646116901684,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYylofUR",
+        "created": 1646116901684,
+        "text": "初学记",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYylofUS",
+        "created": 1646116901684,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYylofUT",
+        "created": 1646116901684,
+        "text": "chu xue ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYylofUU",
+      "created": 1646116901684,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYylofUV",
+      "created": 1646116901684,
+      "text": "元",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYylofUW",
+      "created": 1646116901684,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYylofUX",
+       "created": 1646116901684,
+       "text": "元 清覺述　道安注"
+      }},
+      {"data": {
+       "id": "z5cYylofUY",
+       "created": 1646116901684,
+       "text": "道安",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYylofUZ",
+      "created": 1646116901684,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYylofUa",
+      "created": 1646116901684,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYylofUb",
+      "created": 1646116901684,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYylofUc",
+       "created": 1646116901684,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUd",
+       "created": 1646116901684,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUe",
+       "created": 1646116901684,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUf",
+       "created": 1646116901684,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUg",
+       "created": 1646116901684,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUh",
+       "created": 1646116901684,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUi",
+       "created": 1646116901684,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUj",
+       "created": 1646116901684,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUk",
+       "created": 1646116901684,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUl",
+       "created": 1646116901684,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUm",
+       "created": 1646116901684,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUn",
+       "created": 1646116901684,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUo",
+       "created": 1646116901684,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUp",
+       "created": 1646116901684,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUq",
+       "created": 1646116901684,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUr",
+       "created": 1646116901684,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUs",
+       "created": 1646116901684,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUt",
+       "created": 1646116901684,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUu",
+       "created": 1646116901684,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUv",
+       "created": 1646116901684,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUw",
+       "created": 1646116901684,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUx",
+       "created": 1646116901684,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofUy",
+       "created": 1646116901684,
+       "text": "【中華藏】No.1656《初學記》西京寶應寺沙門釋清覺述，南山大普甯寺嗣孫道安注 冊數：71 / 頁數：30 / 卷數：1 / 底本：元普寧藏本"
+      }},
+      {"data": {
+       "id": "z5cYylofUz",
+       "created": 1646116901684,
+       "text": "【新纂卍續藏】No.1253《初學記》元 清覺述　道安注 部別：中國撰述 諸宗著述部十 禪宗雜著 / 冊數：63 / 頁數：725 / 卷數：1 《卍大日本續藏經》套數：第二編．第 17 套 《卍續藏經》(新文豐版)冊數：第 112 冊"
+      }},
+      {"data": {
+       "id": "z5cYylofV0",
+       "created": 1646116901684,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYylofV1",
+       "created": 1646116901684,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】 (未收錄)"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2b72kp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

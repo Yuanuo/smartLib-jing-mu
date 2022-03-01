@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "呪三首經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxZeJi5",
+    "created": 1646116897086,
+    "text": "現藏錄（唐 地婆訶羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxZdJhQ",
+      "created": 1646116897085,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxZdJhR",
+        "created": 1646116897085,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZdJhS",
+        "created": 1646116897085,
+        "text": "呪三首經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZdJhT",
+        "created": 1646116897085,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZdJhU",
+        "created": 1646116897085,
+        "text": "呪三首经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxZdJhV",
+        "created": 1646116897085,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxZdJhW",
+        "created": 1646116897085,
+        "text": "zhou san shou jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZdJhX",
+      "created": 1646116897085,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZdJhY",
+      "created": 1646116897085,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZdJhZ",
+      "created": 1646116897085,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZdJha",
+       "created": 1646116897085,
+       "text": "唐 地婆訶羅譯"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhb",
+       "created": 1646116897085,
+       "text": "地婆訶羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxZdJhc",
+      "created": 1646116897085,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxZdJhd",
+      "created": 1646116897085,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxZdJhe",
+      "created": 1646116897085,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxZdJhf",
+       "created": 1646116897085,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhg",
+       "created": 1646116897085,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhh",
+       "created": 1646116897085,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhi",
+       "created": 1646116897085,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhj",
+       "created": 1646116897085,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhk",
+       "created": 1646116897085,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhl",
+       "created": 1646116897085,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhm",
+       "created": 1646116897085,
+       "text": "【磧砂藏】No.332《呪三首經》 部別：五大部外諸重譯經 / 冊數：11 / 頁數：639 / 卷數：1 千字文：良 10 (168)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhn",
+       "created": 1646116897085,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJho",
+       "created": 1646116897085,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhp",
+       "created": 1646116897085,
+       "text": "【普寧藏】No.323《呪三首經》 卷數：1 千字文：良(168)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhq",
+       "created": 1646116897085,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhr",
+       "created": 1646116897085,
+       "text": "【洪武南藏】No.284《咒三首經》唐 三藏地婆訶羅 奉詔譯 冊數：57 / 頁數：256 / 卷數：1 千字文：良 7 (168)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhs",
+       "created": 1646116897085,
+       "text": "【永樂南藏】No.319《呪三首經》 部別：大乘經-五大部外重譯經 千字文：改(172)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJht",
+       "created": 1646116897085,
+       "text": "【永樂北藏】No.356《咒三首經》唐地婆訶羅譯 部別：大乘經五大部外重譯經 / 冊數：46 / 頁數：22 / 卷數：1 千字文：能"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhu",
+       "created": 1646116897085,
+       "text": "【嘉興藏】No.327《呪三首經》唐地婆訶羅譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0327 千字文 / 函號：［正藏］ 能(174)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhv",
+       "created": 1646116897085,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZdJhw",
+       "created": 1646116897085,
+       "text": "【乾隆藏】No.328《咒三首經》唐 地婆訶羅譯 部別：大乘五大部外重譯經 / 冊數：39 / 頁數：354 / 卷數：1 千字文：能"
+      }},
+      {"data": {
+       "id": "z5cYxZeJhx",
+       "created": 1646116897086,
+       "text": "【縮刻藏】No.1622《呪三首經》唐地婆訶羅譯 部別：祕密部 / 卷數：1 千字文：成 12 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxZeJhy",
+       "created": 1646116897086,
+       "text": "【卍正藏】No.332《呪三首經》唐 地婆訶羅譯 部別：大乘經 五大部外重譯經 / 冊數：19 / 頁數：5 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYxZeJhz",
+       "created": 1646116897086,
+       "text": "【大正藏】No.1338《呪三首經》唐 地婆訶羅譯 部別：密教部四 / 冊數：21 / 頁數：640 / 卷數：1 相關經典：縮-成12.卍-11.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxZeJi0",
+       "created": 1646116897086,
+       "text": "【佛教大藏經】No.1700《咒三首經》唐 地婆訶羅譯 部別：密教部七 / 冊數：58 / 頁數：61 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxZeJi1",
+       "created": 1646116897086,
+       "text": "【中華藏】No.357《咒三首經》唐三藏地婆訶羅奉詔譯 冊數：20 / 頁數：386 / 卷數：1 / 底本：凊藏本"
+      }},
+      {"data": {
+       "id": "z5cYxZeJi2",
+       "created": 1646116897086,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxZeJi3",
+       "created": 1646116897086,
+       "text": "【南條文雄編號】 Nj. 0332"
+      }},
+      {"data": {
+       "id": "z5cYxZeJi4",
+       "created": 1646116897086,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1338　卷中：708"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyrh14h",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

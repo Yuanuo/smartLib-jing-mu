@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "天台宗未決（問答十箇條）"},
+  "children": [{
+   "data": {
+    "id": "z5cYzOQrR4",
+    "created": 1646116904078,
+    "text": "現藏錄（日本 最澄疑問　唐 道邃決義）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzOQrQP",
+      "created": 1646116904078,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzOQrQQ",
+        "created": 1646116904078,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzOQrQR",
+        "created": 1646116904078,
+        "text": "天台宗未決（問答十箇條）",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzOQrQS",
+        "created": 1646116904078,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzOQrQT",
+        "created": 1646116904078,
+        "text": "天台宗未决（问答十个条）",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzOQrQU",
+        "created": 1646116904078,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzOQrQV",
+        "created": 1646116904078,
+        "text": "tian tai zong wei jue （ wen da shi ge tiao ）"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzOQrQW",
+      "created": 1646116904078,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYzOQrQX",
+      "created": 1646116904078,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzOQrQY",
+      "created": 1646116904078,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzOQrQZ",
+       "created": 1646116904078,
+       "text": "日本 最澄疑問　唐 道邃決義"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQa",
+       "created": 1646116904078,
+       "text": "最澄",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzOQrQb",
+      "created": 1646116904078,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzOQrQc",
+      "created": 1646116904078,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzOQrQd",
+      "created": 1646116904078,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzOQrQe",
+       "created": 1646116904078,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQf",
+       "created": 1646116904078,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQg",
+       "created": 1646116904078,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQh",
+       "created": 1646116904078,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQi",
+       "created": 1646116904078,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQj",
+       "created": 1646116904078,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQk",
+       "created": 1646116904078,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQl",
+       "created": 1646116904078,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQm",
+       "created": 1646116904078,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQn",
+       "created": 1646116904078,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQo",
+       "created": 1646116904078,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQp",
+       "created": 1646116904078,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQq",
+       "created": 1646116904078,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQr",
+       "created": 1646116904078,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQs",
+       "created": 1646116904078,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQt",
+       "created": 1646116904078,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQu",
+       "created": 1646116904078,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQv",
+       "created": 1646116904078,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQw",
+       "created": 1646116904078,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQx",
+       "created": 1646116904078,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQy",
+       "created": 1646116904078,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrQz",
+       "created": 1646116904078,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrR0",
+       "created": 1646116904078,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrR1",
+       "created": 1646116904078,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrR2",
+       "created": 1646116904078,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzOQrR3",
+       "created": 1646116904078,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1253"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri45q3fu",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

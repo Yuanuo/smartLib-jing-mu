@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "賢愚經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwb42x1",
+    "created": 1646116893330,
+    "text": "現藏錄（元魏 慧覺等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwb32w3",
+      "created": 1646116893329,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwb32w4",
+        "created": 1646116893329,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwb32w5",
+        "created": 1646116893329,
+        "text": "賢愚經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwb32w6",
+        "created": 1646116893329,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwb32w7",
+        "created": 1646116893329,
+        "text": "贤愚经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwb32w8",
+        "created": 1646116893329,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwb32w9",
+        "created": 1646116893329,
+        "text": "xian yu jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwb32wI",
+        "created": 1646116893329,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwb32wJ",
+        "created": 1646116893329,
+        "text": "Hsien yü ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwb32wK",
+        "created": 1646116893329,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwb32wL",
+        "created": 1646116893329,
+        "text": "Damamūka(nidānasūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwb32wM",
+        "created": 1646116893329,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwb32wN",
+        "created": 1646116893329,
+        "text": "Mdsaṅs blun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwb32wO",
+        "created": 1646116893329,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwb32wP",
+        "created": 1646116893329,
+        "text": "현우경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwb32wA",
+      "created": 1646116893329,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwb32wB",
+      "created": 1646116893329,
+      "text": "元魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwb32wC",
+      "created": 1646116893329,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwb32wD",
+       "created": 1646116893329,
+       "text": "元魏 慧覺等譯"
+      }},
+      {"data": {
+       "id": "z5cYwb32wE",
+       "created": 1646116893329,
+       "text": "威德",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwb32wF",
+       "created": 1646116893329,
+       "text": "慧覺",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwb32wG",
+      "created": 1646116893329,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwb32wH",
+      "created": 1646116893329,
+      "text": "13"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwb32wQ",
+      "created": 1646116893329,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwb32wR",
+      "created": 1646116893329,
+      "text": "Translated by Hui-chiao: 6th year of T'ai Ping Chen Chün (太平眞君), Northern Wei dynasty (北魏) (A.D.445) in T'ien-an Monastery (天安寺), Kao-ch'ang Kuo (高昌國).T. 2149-256b:29."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwb32wS",
+      "created": 1646116893329,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwb32wT",
+       "created": 1646116893329,
+       "text": "【北京版】Mdo-sna-tshogs (Hu)131b-302b"
+      }},
+      {"data": {
+       "id": "z5cYwb32wU",
+       "created": 1646116893329,
+       "text": "【奈塘版】Mdo (sa)196b-464b"
+      }},
+      {"data": {
+       "id": "z5cYwb32wV",
+       "created": 1646116893329,
+       "text": "【德格版】Mdo-sde (A)129a-298a"
+      }},
+      {"data": {
+       "id": "z5cYwb32wW",
+       "created": 1646116893329,
+       "text": "【拉薩版】Mdo (sa)207b-476b"
+      }},
+      {"data": {
+       "id": "z5cYwb32wX",
+       "created": 1646116893329,
+       "text": "【卓尼版】Mdo-maṅ (A)146a-334b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwb32wY",
+      "created": 1646116893329,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwb32wZ",
+      "created": 1646116893329,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwb32wa",
+      "created": 1646116893329,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwb32wb",
+       "created": 1646116893329,
+       "text": "【房山石經】No.26《佛說出家功德經》(元魏)涼州沙門惠覺等譯 冊數：1 / 頁數：229 / 卷數：1 / 刻經年代：貞觀五年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.52《佛說出家功德經》(元魏)慧覺等譯 冊數：2 / 頁數：408 / 卷數：1 / 刻經年代：長壽三年 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYwb32wc",
+       "created": 1646116893329,
+       "text": "【開寶藏】No.978《賢愚經》元魏 涼州沙門惠覺等在高昌群 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：13 千字文：郁-樓"
+      }},
+      {"data": {
+       "id": "z5cYwb32wd",
+       "created": 1646116893329,
+       "text": "【崇寧藏】No.981《賢愚經》 卷數：13 千字文：盤(427)-(428)"
+      }},
+      {"data": {
+       "id": "z5cYwb32we",
+       "created": 1646116893329,
+       "text": "【毘盧藏】No.981《賢愚因緣經》元魏沙門慧覺譯 參考年代：(紹興一八．閏八) 千字文：盤(427)-欝(428)"
+      }},
+      {"data": {
+       "id": "z5cYwb32wf",
+       "created": 1646116893329,
+       "text": "【圓覺藏】No.990《賢愚經》 卷數：13 千字文：盤(427)-鬱(428)"
+      }},
+      {"data": {
+       "id": "z5cYwb32wg",
+       "created": 1646116893329,
+       "text": "【趙城金藏】No.985《賢愚經》 卷數：13 千字文：鬱"
+      }},
+      {"data": {
+       "id": "z5cYwb32wh",
+       "created": 1646116893329,
+       "text": "【資福藏】No.996《賢愚經》 卷數：13 (十三卷) 千字文：盤(427)-(428)"
+      }},
+      {"data": {
+       "id": "z5cYwb32wi",
+       "created": 1646116893329,
+       "text": "【磧砂藏】No.1006《賢愚因緣經》元魏 慧覺譯 部別： / 冊數：27 / 頁數：773 / 卷數：13 千字文：盤 1 (427)-鬱 5 (428)"
+      }},
+      {"data": {
+       "id": "z5cYwb32wj",
+       "created": 1646116893329,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwb32wk",
+       "created": 1646116893329,
+       "text": "【高麗藏】No.983《賢愚經》宋沙門惠覺-共威德譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：29 頁數：1002 / 卷數：13 / 連結：高麗大藏經 (圖檔) 千字文：鬱"
+      }},
+      {"data": {
+       "id": "z5cYwb32wl",
+       "created": 1646116893329,
+       "text": "【普寧藏】No.997《賢愚因緣經》 卷數：13 千字文：盤(427)-(428)"
+      }},
+      {"data": {
+       "id": "z5cYwb32wm",
+       "created": 1646116893329,
+       "text": "【至元錄】No.1435《賢愚經》元魏涼州沙門惠覺等譯(在高昌郡) 卷數：13 千字文：佐(533)-衡(536)"
+      }},
+      {"data": {
+       "id": "z5cYwb42wn",
+       "created": 1646116893330,
+       "text": "【洪武南藏】No.890《賢愚因緣經》元魏 沙門慧覺 在高昌郡譯 冊數：152 / 頁數：218 / 卷數：13 千字文：盤 1 (427)-鬱 5 (428)"
+      }},
+      {"data": {
+       "id": "z5cYwb42wo",
+       "created": 1646116893330,
+       "text": "【永樂南藏】No.1077《賢愚因緣經》 部別：西土聖賢撰集 千字文：誠(291)-美(292)"
+      }},
+      {"data": {
+       "id": "z5cYwb42wp",
+       "created": 1646116893330,
+       "text": "【永樂北藏】No.1379《賢愚因緣經》元魏慧覺-共威德譯 部別：西土聖賢撰集 / 冊數：127-128 / 頁數：719 / 卷數：13 千字文：左-達"
+      }},
+      {"data": {
+       "id": "z5cYwb42wq",
+       "created": 1646116893330,
+       "text": "【嘉興藏】No.1314《賢愚因緣經》元魏慧覺-共威德譯 部別：西土聖賢撰集 / 法寶總目錄經號：1313 千字文 / 函號：［正藏］ 左(469)"
+      }},
+      {"data": {
+       "id": "z5cYwb42wr",
+       "created": 1646116893330,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwb42ws",
+       "created": 1646116893330,
+       "text": "【乾隆藏】No.1315《賢愚因緣經》元魏 慧覺譯 部別：西土聖賢撰集 / 冊數：105 / 頁數：211 / 卷數：13 千字文：左達"
+      }},
+      {"data": {
+       "id": "z5cYwb42wt",
+       "created": 1646116893330,
+       "text": "【縮刻藏】No.769《賢愚經》元魏慧覺等譯 部別：小乘經 / 卷數：13 千字文：宿 9 (14)"
+      }},
+      {"data": {
+       "id": "z5cYwb42wu",
+       "created": 1646116893330,
+       "text": "【卍正藏】No.1329《賢愚經》元魏 慧覺等譯 部別：西土聖賢撰集 / 冊數：49 / 頁數：496 / 卷數：13 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYwb42wv",
+       "created": 1646116893330,
+       "text": "【大正藏】No.202《賢愚經》元魏 慧覺等譯 部別：本緣部下 / 冊數：4 / 頁數：349 / 卷數：13 相關經典：縮-宿9,卍-26.3-4,*南-28-37,國-本7 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwb42ww",
+       "created": 1646116893330,
+       "text": "【佛教大藏經】No.790《賢愚經》元魏 慧覺等譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：551 / 卷數：13"
+      }},
+      {"data": {
+       "id": "z5cYwb42wx",
+       "created": 1646116893330,
+       "text": "【中華藏】No.1070《賢愚經》宋沙門慧覺共威德在高昌譯 冊數：51 / 頁數：1 / 卷數：13 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwb42wy",
+       "created": 1646116893330,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwb42wz",
+       "created": 1646116893330,
+       "text": "【南條文雄編號】 Nj. 1322"
+      }},
+      {"data": {
+       "id": "z5cYwb42x0",
+       "created": 1646116893330,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：202"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvv45t",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "幸心鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyNUYfq",
+    "created": 1646116900176,
+    "text": "現藏錄（日本 憲深口．親快記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyNTYfA",
+      "created": 1646116900175,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyNTYfB",
+        "created": 1646116900175,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyNTYfC",
+        "created": 1646116900175,
+        "text": "幸心鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyNTYfD",
+        "created": 1646116900175,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyNTYfE",
+        "created": 1646116900175,
+        "text": "幸心钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyNTYfF",
+        "created": 1646116900175,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyNTYfG",
+        "created": 1646116900175,
+        "text": "xing xin chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyNTYfH",
+      "created": 1646116900175,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyNTYfI",
+      "created": 1646116900175,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyNTYfJ",
+      "created": 1646116900175,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyNTYfK",
+       "created": 1646116900175,
+       "text": "日本 憲深口．親快記"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfL",
+       "created": 1646116900175,
+       "text": "憲深",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYyNTYfM",
+       "created": 1646116900175,
+       "text": "親快",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyNTYfN",
+      "created": 1646116900175,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyNTYfO",
+      "created": 1646116900175,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyNTYfP",
+      "created": 1646116900175,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyNTYfQ",
+       "created": 1646116900175,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfR",
+       "created": 1646116900175,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfS",
+       "created": 1646116900175,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfT",
+       "created": 1646116900175,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfU",
+       "created": 1646116900175,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfV",
+       "created": 1646116900175,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfW",
+       "created": 1646116900175,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfX",
+       "created": 1646116900175,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfY",
+       "created": 1646116900175,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfZ",
+       "created": 1646116900175,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfa",
+       "created": 1646116900175,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfb",
+       "created": 1646116900175,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfc",
+       "created": 1646116900175,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfd",
+       "created": 1646116900175,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfe",
+       "created": 1646116900175,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYff",
+       "created": 1646116900175,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfg",
+       "created": 1646116900175,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfh",
+       "created": 1646116900175,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfi",
+       "created": 1646116900175,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfj",
+       "created": 1646116900175,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfk",
+       "created": 1646116900175,
+       "text": "【大正藏】No.2498《幸心鈔》日本 憲深口．親快記 部別：續諸宗部九 / 冊數：78 / 頁數：717 / 卷數：5 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyNTYfl",
+       "created": 1646116900175,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNTYfm",
+       "created": 1646116900175,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNUYfn",
+       "created": 1646116900176,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNUYfo",
+       "created": 1646116900176,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyNUYfp",
+       "created": 1646116900176,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2498"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri15b22v",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

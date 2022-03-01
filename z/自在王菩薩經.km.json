@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "自在王菩薩經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwr16l3",
+    "created": 1646116894319,
+    "text": "現藏錄（姚秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwr06k6",
+      "created": 1646116894318,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwr06k7",
+        "created": 1646116894318,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwr06k8",
+        "created": 1646116894318,
+        "text": "自在王菩薩經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwr06k9",
+        "created": 1646116894318,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwr06kA",
+        "created": 1646116894318,
+        "text": "自在王菩萨经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwr06kB",
+        "created": 1646116894318,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwr06kC",
+        "created": 1646116894318,
+        "text": "zi zai wang pu sa jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwr06kK",
+        "created": 1646116894318,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwr06kL",
+        "created": 1646116894318,
+        "text": "Tzu tsai wang p'u sa ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwr06kM",
+        "created": 1646116894318,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwr06kN",
+        "created": 1646116894318,
+        "text": "Vikurvāṇarājaparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwr06kO",
+        "created": 1646116894318,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwr06kP",
+        "created": 1646116894318,
+        "text": "Rnam-par-ḥphrul-baḥi rgyal-pos shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwr06kQ",
+        "created": 1646116894318,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwr06kR",
+        "created": 1646116894318,
+        "text": "자재왕보살경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwr06kD",
+      "created": 1646116894318,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwr06kE",
+      "created": 1646116894318,
+      "text": "姚秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwr06kF",
+      "created": 1646116894318,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwr06kG",
+       "created": 1646116894318,
+       "text": "姚秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYwr06kH",
+       "created": 1646116894318,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwr06kI",
+      "created": 1646116894318,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwr06kJ",
+      "created": 1646116894318,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwr06kS",
+      "created": 1646116894318,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwr06kT",
+      "created": 1646116894318,
+      "text": "Translation by Kumārajīva: 9th year of Hung Shih (弘始), Yao Ch'in dynasty (姚奏) (A.D. 407) in the Hsiao-yao Garden (逍遙園), Ch'ang-an (長安).T. 2154-512b:19; T. 2154-589a:28; T. 2149-286b:3."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwr06kU",
+      "created": 1646116894318,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwr06kV",
+       "created": 1646116894318,
+       "text": "【北京版】Mdo-sna-tshogs (phu)184b-222a"
+      }},
+      {"data": {
+       "id": "z5cYwr06kW",
+       "created": 1646116894318,
+       "text": "【奈塘版】Mdo (pa)283a-339b"
+      }},
+      {"data": {
+       "id": "z5cYwr06kX",
+       "created": 1646116894318,
+       "text": "【德格版】Mdo-sde (ba)175b-210b"
+      }},
+      {"data": {
+       "id": "z5cYwr06kY",
+       "created": 1646116894318,
+       "text": "【拉薩版】Mdo-sde (pa)277a-333b"
+      }},
+      {"data": {
+       "id": "z5cYwr06kZ",
+       "created": 1646116894318,
+       "text": "【卓尼版】Mdo-maṅ (ba)206a-243b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwr06ka",
+      "created": 1646116894318,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwr06kb",
+      "created": 1646116894318,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwr06kc",
+      "created": 1646116894318,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwr06kd",
+       "created": 1646116894318,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwr06ke",
+       "created": 1646116894318,
+       "text": "【開寶藏】No.76《自在王菩薩經》姚秦 三藏鳩摩羅什于逍遙園 譯 部別：大乘經 大集部 / 卷數：2 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwr06kf",
+       "created": 1646116894318,
+       "text": "【崇寧藏】No.78《自在王菩薩經》 卷數：2 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kg",
+       "created": 1646116894318,
+       "text": "【毘盧藏】No.74《自在王菩薩經》姚秦鳩摩羅什譯 參考年代：(宣和六．八) 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kh",
+       "created": 1646116894318,
+       "text": "【圓覺藏】No.75《自在王菩薩經》 卷數：2 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwr06ki",
+       "created": 1646116894318,
+       "text": "【趙城金藏】No.75《自在王菩薩經》 卷數：2 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwr06kj",
+       "created": 1646116894318,
+       "text": "【資福藏】No.78《自在王菩薩經》 卷數：2 (二卷) 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kk",
+       "created": 1646116894318,
+       "text": "【磧砂藏】No.78《自在王菩薩經》姚秦 鳩摩羅什譯 部別：大集部 / 冊數：7 / 頁數：281 / 卷數：2 千字文：殷 7 (103)-殷 8 (103)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kl",
+       "created": 1646116894318,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwr06km",
+       "created": 1646116894318,
+       "text": "【高麗藏】No.75《自在王菩薩經》姚秦三藏鳩摩羅什譯 部別：大乘經 大集部 / 冊數：7 頁數：1161 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwr06kn",
+       "created": 1646116894318,
+       "text": "【普寧藏】No.75《自在王菩薩經》 卷數：2 千字文：殷(103)"
+      }},
+      {"data": {
+       "id": "z5cYwr06ko",
+       "created": 1646116894318,
+       "text": "【至元錄】No.147《自在王菩薩經》姚秦三藏鳩摩羅什譯(於逍遙園譯第一) 卷數：2 千字文：問(107)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kp",
+       "created": 1646116894318,
+       "text": "【洪武南藏】No.74《自在王菩薩經》姚秦 三藏法師鳩摩羅什 譯 冊數：37 / 頁數：169 / 卷數：2 千字文：殷 7 (103)-殷 8 (103)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kq",
+       "created": 1646116894318,
+       "text": "【永樂南藏】No.75《自在王菩薩經》 部別：大乘經-大集部 千字文：發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kr",
+       "created": 1646116894318,
+       "text": "【永樂北藏】No.98《自在王菩薩經》姚秦鳩摩羅什譯 部別：大乘經大集部 / 冊數：26 / 頁數：639 / 卷數：2 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwr06ks",
+       "created": 1646116894318,
+       "text": "【嘉興藏】No.77《自在王菩薩經》姚秦鳩摩羅什譯 部別：大乘經-大集部 / 法寶總目錄經號：0077 千字文 / 函號：［正藏］ 發(102)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kt",
+       "created": 1646116894318,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwr06ku",
+       "created": 1646116894318,
+       "text": "【乾隆藏】No.78《自在王菩薩經》姚秦 鳩摩羅什譯 部別：大乘大集部 / 冊數：23 / 頁數：353 / 卷數：2 千字文：發"
+      }},
+      {"data": {
+       "id": "z5cYwr06kv",
+       "created": 1646116894318,
+       "text": "【縮刻藏】No.107《自在王菩薩經》姚秦鳩摩羅什譯 部別：大乘經-方等部 / 卷數：2 千字文：玄 9 (3)"
+      }},
+      {"data": {
+       "id": "z5cYwr06kw",
+       "created": 1646116894318,
+       "text": "【卍正藏】No.81《自在王菩薩經》姚秦 鳩摩羅什譯 部別：大乘經 大集部 / 冊數：11 / 頁數：251 / 卷數：2 原版套數：第 7 套"
+      }},
+      {"data": {
+       "id": "z5cYwr06kx",
+       "created": 1646116894318,
+       "text": "【大正藏】No.420《自在王菩薩經》姚秦 鳩摩羅什譯 部別：大集部全 / 冊數：13 / 頁數：924 / 卷數：2 相關經典：縮-玄9,卍-7.2 參考資料：No.421"
+      }},
+      {"data": {
+       "id": "z5cYwr06ky",
+       "created": 1646116894318,
+       "text": "【佛教大藏經】No.108《自在王菩薩經》姚秦 鳩摩羅什譯 部別：大乘經 方等部四 / 冊數：6 / 頁數：604 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwr06kz",
+       "created": 1646116894318,
+       "text": "【中華藏】No.82《自在王菩薩經》姚秦三藏鳩摩羅什譯 冊數：11 / 頁數：751 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwr06l0",
+       "created": 1646116894318,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwr06l1",
+       "created": 1646116894318,
+       "text": "【南條文雄編號】 Nj. 0082"
+      }},
+      {"data": {
+       "id": "z5cYwr16l2",
+       "created": 1646116894319,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：420"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwmldh",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,492 @@
+{
+ "root": {
+  "data": {"text": "梵語千字文"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYy8xUK7",
+     "created": 1646116899275,
+     "text": "現藏錄（唐 義淨撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYy8wUJS",
+       "created": 1646116899274,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYy8wUJT",
+         "created": 1646116899274,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8wUJU",
+         "created": 1646116899274,
+         "text": "梵語千字文",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8wUJV",
+         "created": 1646116899274,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8wUJW",
+         "created": 1646116899274,
+         "text": "梵语千字文",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8wUJX",
+         "created": 1646116899274,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8wUJY",
+         "created": 1646116899274,
+         "text": "fan yu qian zi wen"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYy8wUJZ",
+       "created": 1646116899274,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8wUJa",
+       "created": 1646116899274,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYy8wUJb",
+       "created": 1646116899274,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYy8wUJc",
+        "created": 1646116899274,
+        "text": "唐 義淨撰"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJd",
+        "created": 1646116899274,
+        "text": "義淨",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYy8wUJe",
+       "created": 1646116899274,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8wUJf",
+       "created": 1646116899274,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYy8wUJg",
+       "created": 1646116899274,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYy8wUJh",
+        "created": 1646116899274,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJi",
+        "created": 1646116899274,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJj",
+        "created": 1646116899274,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJk",
+        "created": 1646116899274,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJl",
+        "created": 1646116899274,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJm",
+        "created": 1646116899274,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJn",
+        "created": 1646116899274,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJo",
+        "created": 1646116899274,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJp",
+        "created": 1646116899274,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJq",
+        "created": 1646116899274,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJr",
+        "created": 1646116899274,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJs",
+        "created": 1646116899274,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJt",
+        "created": 1646116899274,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJu",
+        "created": 1646116899274,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJv",
+        "created": 1646116899274,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJw",
+        "created": 1646116899274,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJx",
+        "created": 1646116899274,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJy",
+        "created": 1646116899274,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUJz",
+        "created": 1646116899274,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUK0",
+        "created": 1646116899274,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUK1",
+        "created": 1646116899274,
+        "text": "【大正藏】No.2133A《梵語千字文》唐 義淨撰 部別：事彙部下 / 冊數：54 / 頁數：1190 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYy8wUK2",
+        "created": 1646116899274,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUK3",
+        "created": 1646116899274,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUK4",
+        "created": 1646116899274,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUK5",
+        "created": 1646116899274,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8wUK6",
+        "created": 1646116899274,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2133"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYy8zUKn",
+     "created": 1646116899277,
+     "text": "現藏錄（唐 義淨撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYy8yUK8",
+       "created": 1646116899276,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYy8yUK9",
+         "created": 1646116899276,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8yUKA",
+         "created": 1646116899276,
+         "text": "梵語千字文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8yUKB",
+         "created": 1646116899276,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8yUKC",
+         "created": 1646116899276,
+         "text": "梵语千字文"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYy8yUKD",
+         "created": 1646116899276,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYy8yUKE",
+         "created": 1646116899276,
+         "text": "fan yu qian zi wen"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYy8yUKF",
+       "created": 1646116899276,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8yUKG",
+       "created": 1646116899276,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYy8yUKH",
+       "created": 1646116899276,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYy8yUKI",
+        "created": 1646116899276,
+        "text": "唐 義淨撰"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKJ",
+        "created": 1646116899276,
+        "text": "義淨"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYy8yUKK",
+       "created": 1646116899276,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYy8yUKL",
+       "created": 1646116899276,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYy8yUKM",
+       "created": 1646116899276,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYy8yUKN",
+        "created": 1646116899276,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKO",
+        "created": 1646116899276,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKP",
+        "created": 1646116899276,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKQ",
+        "created": 1646116899276,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKR",
+        "created": 1646116899276,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKS",
+        "created": 1646116899276,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKT",
+        "created": 1646116899276,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKU",
+        "created": 1646116899276,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKV",
+        "created": 1646116899276,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKW",
+        "created": 1646116899276,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKX",
+        "created": 1646116899276,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKY",
+        "created": 1646116899276,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKZ",
+        "created": 1646116899276,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKa",
+        "created": 1646116899276,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKb",
+        "created": 1646116899276,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKc",
+        "created": 1646116899276,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKd",
+        "created": 1646116899276,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKe",
+        "created": 1646116899276,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKf",
+        "created": 1646116899276,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKg",
+        "created": 1646116899276,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKh",
+        "created": 1646116899276,
+        "text": "【大正藏】No.2133B《梵語千字文》唐 義淨撰 部別：事彙部下 / 冊數：54 / 頁數：1197 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYy8yUKi",
+        "created": 1646116899276,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKj",
+        "created": 1646116899276,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKk",
+        "created": 1646116899276,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKl",
+        "created": 1646116899276,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYy8yUKm",
+        "created": 1646116899276,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2133"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0ga1ru",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

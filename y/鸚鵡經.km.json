@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "鸚鵡經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwR3176",
+    "created": 1646116892709,
+    "text": "現藏錄（劉宋 求那跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwR1169",
+      "created": 1646116892707,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwR116A",
+        "created": 1646116892707,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR116B",
+        "created": 1646116892707,
+        "text": "鸚鵡經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR116C",
+        "created": 1646116892707,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR116D",
+        "created": 1646116892707,
+        "text": "鹦鹉经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR116E",
+        "created": 1646116892707,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR116F",
+        "created": 1646116892707,
+        "text": "ying wu jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR116N",
+        "created": 1646116892707,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR116O",
+        "created": 1646116892707,
+        "text": "Ying wu ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR116P",
+        "created": 1646116892707,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR116Q",
+        "created": 1646116892707,
+        "text": "Karmavibhaṅgadharmagrantha",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR116R",
+        "created": 1646116892707,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR116S",
+        "created": 1646116892707,
+        "text": "Las-kyi rnam- par ḥgyur-ba shes-bya-baḥi chos-kyi-gshuṅ"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwR116T",
+        "created": 1646116892707,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwR116U",
+        "created": 1646116892707,
+        "text": "앵무경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwR116G",
+      "created": 1646116892707,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR116H",
+      "created": 1646116892707,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR116I",
+      "created": 1646116892707,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwR116J",
+       "created": 1646116892707,
+       "text": "劉宋 求那跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYwR116K",
+       "created": 1646116892707,
+       "text": "求那跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwR116L",
+      "created": 1646116892707,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR116M",
+      "created": 1646116892707,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR116V",
+      "created": 1646116892707,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR116W",
+      "created": 1646116892707,
+      "text": "Translation by Guṇabhadra: between the 12th and 20th years of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 435-443) in Wa-kuan Monastery (瓦官寺), Yang-tu (楊都).T. 2151-362b:4."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR116X",
+      "created": 1646116892707,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwR116Y",
+       "created": 1646116892707,
+       "text": "【北京版】Mdo-sna-tshogs (śu)301b-322"
+      }},
+      {"data": {
+       "id": "z5cYwR116Z",
+       "created": 1646116892707,
+       "text": "【奈塘版】Mdo-sna-tshogs (la)464a-481a"
+      }},
+      {"data": {
+       "id": "z5cYwR116a",
+       "created": 1646116892707,
+       "text": "【德格版】Mdo-sde (sa)298b-310a"
+      }},
+      {"data": {
+       "id": "z5cYwR216b",
+       "created": 1646116892708,
+       "text": "【拉薩版】Mdo (la)490b-510a"
+      }},
+      {"data": {
+       "id": "z5cYwR216c",
+       "created": 1646116892708,
+       "text": "【卓尼版】Mdo-maṅ (sa)358a-371b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwR216d",
+      "created": 1646116892708,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwR216e",
+      "created": 1646116892708,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwR216f",
+      "created": 1646116892708,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwR216g",
+       "created": 1646116892708,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR216h",
+       "created": 1646116892708,
+       "text": "【開寶藏】No.700《鸚鵡經》劉宋 天竺三藏求那跋陀羅 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：止"
+      }},
+      {"data": {
+       "id": "z5cYwR216i",
+       "created": 1646116892708,
+       "text": "【崇寧藏】No.702《佛說鸚鵡經》 卷數：1 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwR216j",
+       "created": 1646116892708,
+       "text": "【毘盧藏】No.703《佛說鸚鵡經》宋求那跋陀羅譯 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwR216k",
+       "created": 1646116892708,
+       "text": "【圓覺藏】No.711《鸚鵡經》 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwR216l",
+       "created": 1646116892708,
+       "text": "【趙城金藏】No.697《鸚鵡經》 卷數：1 千字文：止"
+      }},
+      {"data": {
+       "id": "z5cYwR216m",
+       "created": 1646116892708,
+       "text": "【資福藏】No.716《鸚鵡經》 卷數：1 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwR216n",
+       "created": 1646116892708,
+       "text": "【磧砂藏】No.722《佛說鸚鵡經》劉宋 求那跋陀羅譯 部別：阿含部 / 冊數：18 / 頁數：830 / 卷數：1 千字文：若 3 (283)"
+      }},
+      {"data": {
+       "id": "z5cYwR216o",
+       "created": 1646116892708,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR216p",
+       "created": 1646116892708,
+       "text": "【高麗藏】No.695《鸚鵡經》宋天竺三藏求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：19 頁數：576 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：止"
+      }},
+      {"data": {
+       "id": "z5cYwR216q",
+       "created": 1646116892708,
+       "text": "【普寧藏】No.714《佛說鸚鵡經》 卷數：1 千字文：若(283)"
+      }},
+      {"data": {
+       "id": "z5cYwR216r",
+       "created": 1646116892708,
+       "text": "【至元錄】No.944《鸚鵡經》宋天竺三藏求那跋陀羅譯 卷數：1 千字文：仕(308)"
+      }},
+      {"data": {
+       "id": "z5cYwR216s",
+       "created": 1646116892708,
+       "text": "【洪武南藏】No.642《佛說鸚鵡經》劉宋 三藏求那跋陁羅 譯 冊數：99 / 頁數：327 / 卷數：1 千字文：若 3 (283)"
+      }},
+      {"data": {
+       "id": "z5cYwR216t",
+       "created": 1646116892708,
+       "text": "【永樂南藏】No.597《佛說鸚鵡經》 部別：小乘經-阿含部 千字文：緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwR216u",
+       "created": 1646116892708,
+       "text": "【永樂北藏】No.640《佛說鸚鵡經》劉宋求那跋陀羅譯 部別：小乘經阿含部 / 冊數：62 / 頁數：30 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwR216v",
+       "created": 1646116892708,
+       "text": "【嘉興藏】No.605《佛說鸚鵡經》劉宋求那跋陀羅譯 部別：小乘經-阿含部 / 法寶總目錄經號：0605 千字文 / 函號：［正藏］ 善(231)"
+      }},
+      {"data": {
+       "id": "z5cYwR216w",
+       "created": 1646116892708,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR216x",
+       "created": 1646116892708,
+       "text": "【乾隆藏】No.606《佛說鸚鵡經》劉宋 求那跋陀羅譯 部別：小乘阿含部 / 冊數：52 / 頁數：100 / 卷數：1 千字文：善"
+      }},
+      {"data": {
+       "id": "z5cYwR216y",
+       "created": 1646116892708,
+       "text": "【縮刻藏】No.533《佛說鸚鵡經》宋求那跋陀羅譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwR216z",
+       "created": 1646116892708,
+       "text": "【卍正藏】No.613《佛說鸚鵡經》宋 求那跋陀羅譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：287 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwR2170",
+       "created": 1646116892708,
+       "text": "【大正藏】No.79《鸚鵡經》劉宋 求那跋陀羅譯 部別：阿含部上 / 冊數：1 / 頁數：888 / 卷數：1 相關經典：縮-昃8,卍-14.2,南-11.135 參考資料：Nos.26(170),78,80,81"
+      }},
+      {"data": {
+       "id": "z5cYwR2171",
+       "created": 1646116892708,
+       "text": "【佛教大藏經】No.541《佛說鸚鵡經》劉宋 求那跋陀羅譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：345 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwR2172",
+       "created": 1646116892708,
+       "text": "【中華藏】No.747《佛說鸚鵡經》宋天竺三藏求那跋陀羅譯 冊數：34 / 頁數：104 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwR2173",
+       "created": 1646116892708,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwR2174",
+       "created": 1646116892708,
+       "text": "【南條文雄編號】 Nj. 0610"
+      }},
+      {"data": {
+       "id": "z5cYwR2175",
+       "created": 1646116892708,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：79"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvdt26",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

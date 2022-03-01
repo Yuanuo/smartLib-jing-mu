@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "傳述一心戒文"},
+  "children": [{
+   "data": {
+    "id": "z5cYyIHXJ7",
+    "created": 1646116899853,
+    "text": "現藏錄（日本 光定撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyIGXIS",
+      "created": 1646116899852,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyIGXIT",
+        "created": 1646116899852,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIGXIU",
+        "created": 1646116899852,
+        "text": "傳述一心戒文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyIGXIV",
+        "created": 1646116899852,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIGXIW",
+        "created": 1646116899852,
+        "text": "传述一心戒文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyIGXIX",
+        "created": 1646116899852,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyIGXIY",
+        "created": 1646116899852,
+        "text": "chuan shu yi xin jie wen"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyIGXIZ",
+      "created": 1646116899852,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyIGXIa",
+      "created": 1646116899852,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyIGXIb",
+      "created": 1646116899852,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyIGXIc",
+       "created": 1646116899852,
+       "text": "日本 光定撰"
+      }},
+      {"data": {
+       "id": "z5cYyIGXId",
+       "created": 1646116899852,
+       "text": "光定",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyIGXIe",
+      "created": 1646116899852,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyIGXIf",
+      "created": 1646116899852,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyIGXIg",
+      "created": 1646116899852,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyIGXIh",
+       "created": 1646116899852,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIGXIi",
+       "created": 1646116899852,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIGXIj",
+       "created": 1646116899852,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIGXIk",
+       "created": 1646116899852,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIGXIl",
+       "created": 1646116899852,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIGXIm",
+       "created": 1646116899852,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIGXIn",
+       "created": 1646116899852,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIo",
+       "created": 1646116899853,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIp",
+       "created": 1646116899853,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIq",
+       "created": 1646116899853,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIr",
+       "created": 1646116899853,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIs",
+       "created": 1646116899853,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIt",
+       "created": 1646116899853,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIu",
+       "created": 1646116899853,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIv",
+       "created": 1646116899853,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIw",
+       "created": 1646116899853,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIx",
+       "created": 1646116899853,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIy",
+       "created": 1646116899853,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXIz",
+       "created": 1646116899853,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXJ0",
+       "created": 1646116899853,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXJ1",
+       "created": 1646116899853,
+       "text": "【大正藏】No.2379《傳述一心戒文》日本 光定撰 部別：續諸宗部五 / 冊數：74 / 頁數：634 / 卷數：3 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyIHXJ2",
+       "created": 1646116899853,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXJ3",
+       "created": 1646116899853,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXJ4",
+       "created": 1646116899853,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXJ5",
+       "created": 1646116899853,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyIHXJ6",
+       "created": 1646116899853,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2379"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0wc1zd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

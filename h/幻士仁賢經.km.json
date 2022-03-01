@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說幻士仁賢經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwlE5EN",
+    "created": 1646116893960,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwlE5DQ",
+      "created": 1646116893960,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwlE5DR",
+        "created": 1646116893960,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlE5DS",
+        "created": 1646116893960,
+        "text": "佛說幻士仁賢經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlE5DT",
+        "created": 1646116893960,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlE5DU",
+        "created": 1646116893960,
+        "text": "佛说幻士仁贤经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlE5DV",
+        "created": 1646116893960,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlE5DW",
+        "created": 1646116893960,
+        "text": "fo shuo huan shi ren xian jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlE5De",
+        "created": 1646116893960,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlE5Df",
+        "created": 1646116893960,
+        "text": "Huan shih jen hsien ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlE5Dg",
+        "created": 1646116893960,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlE5Dh",
+        "created": 1646116893960,
+        "text": "Bhadramāyākāraparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlE5Di",
+        "created": 1646116893960,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlE5Dj",
+        "created": 1646116893960,
+        "text": "Sgyu-ma-mkhan bzaṅ-po luṅ-bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlE5Dk",
+        "created": 1646116893960,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlE5Dl",
+        "created": 1646116893960,
+        "text": "환사인현경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlE5DX",
+      "created": 1646116893960,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlE5DY",
+      "created": 1646116893960,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlE5DZ",
+      "created": 1646116893960,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlE5Da",
+       "created": 1646116893960,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwlE5Db",
+       "created": 1646116893960,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlE5Dc",
+      "created": 1646116893960,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlE5Dd",
+      "created": 1646116893960,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlE5Dm",
+      "created": 1646116893960,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlE5Dn",
+      "created": 1646116893960,
+      "text": "Translation by Dharmarakṣa: (see K.33). T 2151-353a:26f."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlE5Do",
+      "created": 1646116893960,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlE5Dp",
+       "created": 1646116893960,
+       "text": "【北京版】Dkon-brtsegs (zi)1-22a"
+      }},
+      {"data": {
+       "id": "z5cYwlE5Dq",
+       "created": 1646116893960,
+       "text": "【奈塘版】Dkon-brtsegs (ca)74b-100a"
+      }},
+      {"data": {
+       "id": "z5cYwlE5Dr",
+       "created": 1646116893960,
+       "text": "【德格版】Dkon-brtsegs (ca)17b-3Ga"
+      }},
+      {"data": {
+       "id": "z5cYwlE5Ds",
+       "created": 1646116893960,
+       "text": "【拉薩版】Dkon-brtsegs (ca)75a-102a"
+      }},
+      {"data": {
+       "id": "z5cYwlE5Dt",
+       "created": 1646116893960,
+       "text": "【卓尼版】Dkon-brtsegs (ca)21b-42a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlE5Du",
+      "created": 1646116893960,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlE5Dv",
+      "created": 1646116893960,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlE5Dw",
+      "created": 1646116893960,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlE5Dx",
+       "created": 1646116893960,
+       "text": "【房山石經】No.360《佛說幻士仁賢經》(西晉)三藏竺法護譯 冊數：9 / 頁數：83 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwlE5Dy",
+       "created": 1646116893960,
+       "text": "【開寶藏】No.35《幻士仁賢經》西晉 月支三藏竺法護 譯 部別：大乘經 寶積部 / 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlE5Dz",
+       "created": 1646116893960,
+       "text": "【崇寧藏】No.35《幻士仁賢經》 卷數：1 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E0",
+       "created": 1646116893960,
+       "text": "【毘盧藏】No.31《幻士仁賢經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E1",
+       "created": 1646116893960,
+       "text": "【圓覺藏】No.32《幻士仁賢經》 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E2",
+       "created": 1646116893960,
+       "text": "【趙城金藏】No.34《幻士仁賢經》 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E3",
+       "created": 1646116893960,
+       "text": "【資福藏】No.38《幻士仁賢經》 卷數：1 (一卷) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E4",
+       "created": 1646116893960,
+       "text": "【磧砂藏】No.35《幻士仁賢經》晉 竺法護譯 部別：寶積部 / 冊數：6 / 頁數：321 / 卷數：1 千字文：衣 2 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E5",
+       "created": 1646116893960,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E6",
+       "created": 1646116893960,
+       "text": "【高麗藏】No.34《幻士仁賢經》西晉月氏國三藏竺法護譯 部別：大乘經 寶積部 / 冊數：6 頁數：1153 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E7",
+       "created": 1646116893960,
+       "text": "【普寧藏】No.32《幻士仁賢經》 卷數：1 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E8",
+       "created": 1646116893960,
+       "text": "【至元錄】No.102《幻士仁賢經》西晉三藏竺法護譯 梵名：阿唎(二合)亞拔怛囉(二合)麻牙迦哩八哩(二合)巴哩赤(三合) / 卷數：1 / 譯次：(第一譯) 千字文：讓(91)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5E9",
+       "created": 1646116893960,
+       "text": "【洪武南藏】No.31《幻士仁賢經》西晉 三藏竺法護 譯 冊數：31 / 頁數：336 / 卷數：1 千字文：衣 2 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EA",
+       "created": 1646116893960,
+       "text": "【永樂南藏】No.32《幻士仁賢經》 部別：大乘經-寶積部 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EB",
+       "created": 1646116893960,
+       "text": "【永樂北藏】No.50《幻士仁賢經》西晉竺法護譯 部別：大乘經寶積部 / 冊數：22 / 頁數：531 / 卷數：1 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EC",
+       "created": 1646116893960,
+       "text": "【嘉興藏】No.32《幻士仁賢經》西晉竺法護譯 部別：大乘經-寶積部 / 法寶總目錄經號：0032 千字文 / 函號：［正藏］ 衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5ED",
+       "created": 1646116893960,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EE",
+       "created": 1646116893960,
+       "text": "【乾隆藏】No.32《幻士仁賢經》西晉 竺法護譯 部別：大乘寶積部 / 冊數：20 / 頁數：27 / 卷數：1 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EF",
+       "created": 1646116893960,
+       "text": "【縮刻藏】No.47《佛說幻士仁賢經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EG",
+       "created": 1646116893960,
+       "text": "【卍正藏】No.35《佛說幻士仁賢經》西晉 竺法護譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：570 / 卷數：1 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EH",
+       "created": 1646116893960,
+       "text": "【大正藏】No.324《佛說幻士仁賢經》西晉 竺法護譯 部別：寶積部下 / 冊數：12 / 頁數：31 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：No.310(21)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EI",
+       "created": 1646116893960,
+       "text": "【佛教大藏經】No.47《佛說幻士仁賢經》西晉 竺法護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：644 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EJ",
+       "created": 1646116893960,
+       "text": "【中華藏】No.37《佛說幻士仁賢經》西晉月氏國三藏竺法護譯 冊數：9 / 頁數：744 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EK",
+       "created": 1646116893960,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EL",
+       "created": 1646116893960,
+       "text": "【南條文雄編號】 Nj. 0035"
+      }},
+      {"data": {
+       "id": "z5cYwlE5EM",
+       "created": 1646116893960,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：324"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwcnah",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "諸教決定名義論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxqKOQS",
+    "created": 1646116898120,
+    "text": "現藏錄（慈氏菩薩造　宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxqKOPa",
+      "created": 1646116898120,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxqKOPb",
+        "created": 1646116898120,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqKOPc",
+        "created": 1646116898120,
+        "text": "諸教決定名義論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqKOPd",
+        "created": 1646116898120,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqKOPe",
+        "created": 1646116898120,
+        "text": "诸教决定名义论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqKOPf",
+        "created": 1646116898120,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqKOPg",
+        "created": 1646116898120,
+        "text": "zhu jiao jue ding ming yi lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqKOPp",
+        "created": 1646116898120,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqKOPq",
+        "created": 1646116898120,
+        "text": "Chu chiao chüeh ting ming i lun"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxqKOPr",
+       "created": 1646116898120,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxqKOPs",
+        "created": 1646116898120,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqKOPt",
+        "created": 1646116898120,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqKOPu",
+        "created": 1646116898120,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqKOPv",
+        "created": 1646116898120,
+        "text": "제교결정명의론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqKOPh",
+      "created": 1646116898120,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqKOPi",
+      "created": 1646116898120,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqKOPj",
+      "created": 1646116898120,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqKOPk",
+       "created": 1646116898120,
+       "text": "慈氏菩薩造　宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYxqKOPl",
+       "created": 1646116898120,
+       "text": "慈氏",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxqKOPm",
+       "created": 1646116898120,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqKOPn",
+      "created": 1646116898120,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqKOPo",
+      "created": 1646116898120,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqKOPw",
+      "created": 1646116898120,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqKOPx",
+      "created": 1646116898120,
+      "text": "Ta-chung-lu vol. 12, p.11a-14a."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxqKOPy",
+     "created": 1646116898120,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxqKOPz",
+      "created": 1646116898120,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqKOQ0",
+      "created": 1646116898120,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqKOQ1",
+      "created": 1646116898120,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqKOQ2",
+       "created": 1646116898120,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQ3",
+       "created": 1646116898120,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQ4",
+       "created": 1646116898120,
+       "text": "【崇寧藏】No.1407《諸教決定名義論》 卷數：1 千字文：俊(561)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQ5",
+       "created": 1646116898120,
+       "text": "【毘盧藏】No.1403《諸教決定名義論》宋施護譯 千字文：俊(561)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQ6",
+       "created": 1646116898120,
+       "text": "【圓覺藏】No.1404《諸教決定名義論》 千字文：宅(538)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQ7",
+       "created": 1646116898120,
+       "text": "【趙城金藏】No.1418《諸教決定名義論》 卷數：1 千字文：阜"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQ8",
+       "created": 1646116898120,
+       "text": "【資福藏】No.1411《諸教決定名義論》 卷數：1 千字文：宅(538)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQ9",
+       "created": 1646116898120,
+       "text": "【磧砂藏】No.1414《諸教決定名義論》宋 施護譯 部別： / 冊數：34 / 頁數：678 / 卷數：1 千字文：宅 8 (538)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQA",
+       "created": 1646116898120,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQB",
+       "created": 1646116898120,
+       "text": "【高麗藏】No.1420《諸教決定名義論》天竺三藏施護譯 部別：宋續入藏經 / 冊數：40 頁數：149 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：法"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQC",
+       "created": 1646116898120,
+       "text": "【普寧藏】No.1405《諸教決定名義論》 卷數：1 千字文：宅(538)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQD",
+       "created": 1646116898120,
+       "text": "【至元錄】No.1385《諸教決定名義論》大彌勒菩薩造　宋天竺三藏施護譯 卷數：1 千字文：楹(448)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQE",
+       "created": 1646116898120,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQF",
+       "created": 1646116898120,
+       "text": "【永樂南藏】No.1447《諸教決定名義論》 部別：續入藏諸論 千字文：壁(487)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQG",
+       "created": 1646116898120,
+       "text": "【永樂北藏】No.1372《諸教決定名義論》宋施護譯 部別：宋元續入藏諸論 / 冊數：126 / 頁數：653 / 卷數：1 千字文：右"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQH",
+       "created": 1646116898120,
+       "text": "【嘉興藏】No.1307《諸教決定名義論》宋施護譯 部別：宋元續入藏諸論 / 法寶總目錄經號：1306 千字文 / 函號：［正藏］ 右(465)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQI",
+       "created": 1646116898120,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQJ",
+       "created": 1646116898120,
+       "text": "【乾隆藏】No.1308《諸教決定名義論》慈氏造　(宋)施護譯 部別：宋元續入藏諸論 / 冊數：104 / 頁數：321 / 卷數：1 千字文：右"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQK",
+       "created": 1646116898120,
+       "text": "【縮刻藏】No.1671《諸教決定名義論》聖慈氏菩薩造　宋施護譯 部別：祕密部 / 卷數：1 千字文：成 14 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQL",
+       "created": 1646116898120,
+       "text": "【卍正藏】No.1322《諸教決定名義論》施護譯 部別：宋元續入藏諸論 / 冊數：49 / 頁數：59 / 卷數：1 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQM",
+       "created": 1646116898120,
+       "text": "【大正藏】No.1658《諸教決定名義論》慈氏菩薩造 宋 施護譯 部別：論集部全 / 冊數：32 / 頁數：507 / 卷數：1 相關經典：縮-成14,卍-26.1,國-論4 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxqKOQN",
+       "created": 1646116898120,
+       "text": "【佛教大藏經】No.1750《諸教決定名義論》宋 施護譯 部別：密教部七 / 冊數：58 / 頁數：437 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQO",
+       "created": 1646116898120,
+       "text": "【中華藏】No.1544《諸教決定名義論》聖慈氏菩薩造，西天譯經三藏朝奉大夫試鴻臚卿傳法大師施護奉詔譯 冊數：67 / 頁數：350 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQP",
+       "created": 1646116898120,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQQ",
+       "created": 1646116898120,
+       "text": "【南條文雄編號】 Nj. 1315"
+      }},
+      {"data": {
+       "id": "z5cYxqKOQR",
+       "created": 1646116898120,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1658"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzk81dp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

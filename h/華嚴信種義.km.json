@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "華嚴信種義"},
+  "children": [{
+   "data": {
+    "id": "z5cYyGcWlQ",
+    "created": 1646116899750,
+    "text": "現藏錄（日本 高辨記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyGbWkl",
+      "created": 1646116899749,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyGbWkm",
+        "created": 1646116899749,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGbWkn",
+        "created": 1646116899749,
+        "text": "華嚴信種義",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGbWko",
+        "created": 1646116899749,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGbWkp",
+        "created": 1646116899749,
+        "text": "华严信种义",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyGbWkq",
+        "created": 1646116899749,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyGbWkr",
+        "created": 1646116899749,
+        "text": "hua yan xin zhong yi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGbWks",
+      "created": 1646116899749,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGbWkt",
+      "created": 1646116899749,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGbWku",
+      "created": 1646116899749,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGbWkv",
+       "created": 1646116899749,
+       "text": "日本 高辨記"
+      }},
+      {"data": {
+       "id": "z5cYyGbWkw",
+       "created": 1646116899749,
+       "text": "高辨",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyGbWkx",
+      "created": 1646116899749,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyGbWky",
+      "created": 1646116899749,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyGbWkz",
+      "created": 1646116899749,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyGbWl0",
+       "created": 1646116899749,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl1",
+       "created": 1646116899749,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl2",
+       "created": 1646116899749,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl3",
+       "created": 1646116899749,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl4",
+       "created": 1646116899749,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl5",
+       "created": 1646116899749,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl6",
+       "created": 1646116899749,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl7",
+       "created": 1646116899749,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl8",
+       "created": 1646116899749,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWl9",
+       "created": 1646116899749,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlA",
+       "created": 1646116899749,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlB",
+       "created": 1646116899749,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlC",
+       "created": 1646116899749,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlD",
+       "created": 1646116899749,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlE",
+       "created": 1646116899749,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlF",
+       "created": 1646116899749,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlG",
+       "created": 1646116899749,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlH",
+       "created": 1646116899749,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlI",
+       "created": 1646116899749,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlJ",
+       "created": 1646116899749,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlK",
+       "created": 1646116899749,
+       "text": "【大正藏】No.2330《華嚴信種義》日本 高辨記 部別：續諸宗部三 / 冊數：72 / 頁數：69 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyGbWlL",
+       "created": 1646116899749,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlM",
+       "created": 1646116899749,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlN",
+       "created": 1646116899749,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlO",
+       "created": 1646116899749,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyGbWlP",
+       "created": 1646116899749,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2330"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0th1xz",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

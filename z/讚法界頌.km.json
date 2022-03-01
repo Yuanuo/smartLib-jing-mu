@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "讚法界頌"},
+  "children": [{
+   "data": {
+    "id": "z5cYxr1Oga",
+    "created": 1646116898163,
+    "text": "現藏錄（龍樹菩薩造　宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxr1Ofd",
+      "created": 1646116898163,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxr1Ofe",
+        "created": 1646116898163,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxr1Off",
+        "created": 1646116898163,
+        "text": "讚法界頌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxr1Ofg",
+        "created": 1646116898163,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxr1Ofh",
+        "created": 1646116898163,
+        "text": "赞法界颂",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxr1Ofi",
+        "created": 1646116898163,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxr1Ofj",
+        "created": 1646116898163,
+        "text": "zan fa jie song"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxr1Ofs",
+        "created": 1646116898163,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxr1Oft",
+        "created": 1646116898163,
+        "text": "Tsan fa chieh sung"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxr1Ofu",
+        "created": 1646116898163,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxr1Ofv",
+        "created": 1646116898163,
+        "text": "Dharmadhātustotra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxr1Ofw",
+        "created": 1646116898163,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxr1Ofx",
+        "created": 1646116898163,
+        "text": "Chos-kyi dbyiṅs-su bstod-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxr1Ofy",
+        "created": 1646116898163,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxr1Ofz",
+        "created": 1646116898163,
+        "text": "찬법계송",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxr1Ofk",
+      "created": 1646116898163,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxr1Ofl",
+      "created": 1646116898163,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxr1Ofm",
+      "created": 1646116898163,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxr1Ofn",
+       "created": 1646116898163,
+       "text": "龍樹菩薩造　宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYxr1Ofo",
+       "created": 1646116898163,
+       "text": "施護",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxr1Ofp",
+       "created": 1646116898163,
+       "text": "龍樹",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxr1Ofq",
+      "created": 1646116898163,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxr1Ofr",
+      "created": 1646116898163,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxr1Og0",
+      "created": 1646116898163,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxr1Og1",
+      "created": 1646116898163,
+      "text": "Translation by Dānapāla:(see K.1114)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxr1Og2",
+      "created": 1646116898163,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxr1Og3",
+       "created": 1646116898163,
+       "text": "【北京版】Bstod-tshogs (ka)73a-77b"
+      }},
+      {"data": {
+       "id": "z5cYxr1Og4",
+       "created": 1646116898163,
+       "text": "【奈塘版】Bstod-tshogs (ka)70a-74b"
+      }},
+      {"data": {
+       "id": "z5cYxr1Og5",
+       "created": 1646116898163,
+       "text": "【德格版】Bstod-tshogs (ka)63b-67b"
+      }},
+      {"data": {
+       "id": "z5cYxr1Og6",
+       "created": 1646116898163,
+       "text": "【卓尼版】Bstod-tshogs (ka)72a-76b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxr1Og7",
+      "created": 1646116898163,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxr1Og8",
+      "created": 1646116898163,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxr1Og9",
+      "created": 1646116898163,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxr1OgA",
+       "created": 1646116898163,
+       "text": "【房山石經】No.880《讚法界頌》西天北印度烏填曩國帝釋宮寺三藏傳法大師賜紫沙門施護奉詔譯 冊數：25 / 頁數：623 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：溪"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgB",
+       "created": 1646116898163,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgC",
+       "created": 1646116898163,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgD",
+       "created": 1646116898163,
+       "text": "【毘盧藏】No.1107《讚法界頌》宋施護譯 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgE",
+       "created": 1646116898163,
+       "text": "【圓覺藏】No.1117《讚法界頌》 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgF",
+       "created": 1646116898163,
+       "text": "【趙城金藏】No.1116《讚法界頌》 卷數：1 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgG",
+       "created": 1646116898163,
+       "text": "【資福藏】No.1121《讚法界頌》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgH",
+       "created": 1646116898163,
+       "text": "【磧砂藏】No.1132《讚法界偈》宋 施護譯 部別： / 冊數：32 / 頁數：565 / 卷數：1 千字文：路 7 (493)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgI",
+       "created": 1646116898163,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgJ",
+       "created": 1646116898163,
+       "text": "【高麗藏】No.1115《讚法界頌》帝釋寺三藏沙門施護譯 部別：宋續入藏經 / 冊數：33 頁數：927 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：隸"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgK",
+       "created": 1646116898163,
+       "text": "【普寧藏】No.1122《讚法界頌》 卷數：1 千字文：路(493)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgL",
+       "created": 1646116898163,
+       "text": "【至元錄】No.1518《讚法界頌》龍樹菩薩造　宋西域三藏施護譯 卷數：1 千字文：合(548)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgM",
+       "created": 1646116898163,
+       "text": "【洪武南藏】No.987《讚法界頌》聖龍樹菩薩 造　三藏賜紫沙門臣施護 奉詔譯　 冊數：179 / 頁數：85 / 卷數：1 千字文：路 7 (493)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgN",
+       "created": 1646116898163,
+       "text": "【永樂南藏】No.794《讚法界頌》 部別：宋元入藏諸大小乘經 千字文：力(252)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgO",
+       "created": 1646116898163,
+       "text": "【永樂北藏】No.1102《贊法界頌》宋施護譯 部別：宋元入藏諸大小乘經之餘 / 冊數：75 / 頁數：889 / 卷數：1 千字文：言"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgP",
+       "created": 1646116898163,
+       "text": "【嘉興藏】No.1064《讚法界頌》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1063 千字文 / 函號：［正藏］ 言(285)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgQ",
+       "created": 1646116898163,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgR",
+       "created": 1646116898163,
+       "text": "【乾隆藏】No.1065《讚法界頌》聖龍樹造　(宋)施護譯 部別：宋元入藏諸大小乘經 / 冊數：63 / 頁數：771 / 卷數：1 千字文：言"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgS",
+       "created": 1646116898163,
+       "text": "【縮刻藏】No.1085《讚法界頌》龍樹菩薩造　宋施護譯 部別：印度撰述雜部 / 卷數：1 千字文：藏 9 (24)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgT",
+       "created": 1646116898163,
+       "text": "【卍正藏】No.1074《讚法界頌》施護譯 部別：宋元入藏諸大小乘經之餘 / 冊數：30 / 頁數：847 / 卷數：1 原版套數：第 16 套"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgU",
+       "created": 1646116898163,
+       "text": "【大正藏】No.1675《讚法界頌》龍樹菩薩造 宋 施護譯 部別：論集部全 / 冊數：32 / 頁數：754 / 卷數：1 相關經典：縮-藏9,卍-16.10,國-論5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxr1OgV",
+       "created": 1646116898163,
+       "text": "【佛教大藏經】No.1155《讚法界頌》宋 施護譯 部別：雜部二 / 冊數：51 / 頁數：327 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgW",
+       "created": 1646116898163,
+       "text": "【中華藏】No.1222《讚法界頌》聖龍樹菩薩造，西天北印度烏填曩國帝釋宮寺三藏傳法大師賜紫沙門施護奉詔譯 冊數：63 / 頁數：813 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgX",
+       "created": 1646116898163,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgY",
+       "created": 1646116898163,
+       "text": "【南條文雄編號】 Nj. 1070"
+      }},
+      {"data": {
+       "id": "z5cYxr1OgZ",
+       "created": 1646116898163,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1675"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzlf1e7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

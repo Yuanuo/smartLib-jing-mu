@@ -1,0 +1,836 @@
+{
+ "root": {
+  "data": {"text": "蘇悉地羯羅經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxF5DZg",
+     "created": 1646116895811,
+     "text": "現藏錄（唐 輸波迦羅譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxF5DYj",
+       "created": 1646116895811,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxF5DYk",
+         "created": 1646116895811,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF5DYl",
+         "created": 1646116895811,
+         "text": "蘇悉地羯羅經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF5DYm",
+         "created": 1646116895811,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF5DYn",
+         "created": 1646116895811,
+         "text": "苏悉地羯罗经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF5DYo",
+         "created": 1646116895811,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF5DYp",
+         "created": 1646116895811,
+         "text": "su xi di jie luo jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF5DYx",
+         "created": 1646116895811,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF5DYy",
+         "created": 1646116895811,
+         "text": "Su hsi ti chieh lo ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF5DYz",
+         "created": 1646116895811,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF5DZ0",
+         "created": 1646116895811,
+         "text": "Susiddhikaramahātantrasādhanopāyikapaṭala(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF5DZ1",
+         "created": 1646116895811,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF5DZ2",
+         "created": 1646116895811,
+         "text": "Dpal legs par grub par-byed-paḥi rgyud-las gsuṇs-paḥi smon-lam"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF5DZ3",
+         "created": 1646116895811,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF5DZ4",
+         "created": 1646116895811,
+         "text": "소실지갈라경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxF5DYq",
+       "created": 1646116895811,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxF5DYr",
+       "created": 1646116895811,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxF5DYs",
+       "created": 1646116895811,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxF5DYt",
+        "created": 1646116895811,
+        "text": "唐 輸波迦羅譯"
+       }},
+       {"data": {
+        "id": "z5cYxF5DYu",
+        "created": 1646116895811,
+        "text": "善無畏",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxF5DYv",
+       "created": 1646116895811,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxF5DYw",
+       "created": 1646116895811,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxF5DZ5",
+       "created": 1646116895811,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxF5DZ6",
+       "created": 1646116895811,
+       "text": "Translation by Śubhakarasiṃha: 14th year of K'ai Yüan (開元), T'ang dynasty (唐) (A.D. 726).T.2157-874c:6"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxF5DZ7",
+       "created": 1646116895811,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxF5DZ8",
+        "created": 1646116895811,
+        "text": "【北京版】Rgyud (tsha)230a-284bMdo-ḥgrel (ṅo-tshar) (mo)313b-315a"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZ9",
+        "created": 1646116895811,
+        "text": "【奈塘版】Rgyud (tsha)112b-187bMdo-ḥgrel (mo)305a-306a"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZA",
+        "created": 1646116895811,
+        "text": "【德格版】Rgyud-ḥbum (wa)168a-222bSna-tshogs (ño)324b-325b"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZB",
+        "created": 1646116895811,
+        "text": "【拉薩版】Rgyud (tsha)224b-306a"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZC",
+        "created": 1646116895811,
+        "text": "【卓尼版】Rgyud (tsha)262b-324aSna-tshogs (ño)327b-328b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxF5DZD",
+       "created": 1646116895811,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxF5DZE",
+       "created": 1646116895811,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxF5DZF",
+       "created": 1646116895811,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxF5DZG",
+        "created": 1646116895811,
+        "text": "【房山石經】No.574《蘇悉地羯羅經》(大唐)中天竺三藏輸波迦羅譯 冊數：13 / 頁數：332 / 卷數：3 / 刻經年代：天慶七年刻石 / 瀏覽：目錄圖檔 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZH",
+        "created": 1646116895811,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZI",
+        "created": 1646116895811,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZJ",
+        "created": 1646116895811,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZK",
+        "created": 1646116895811,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZL",
+        "created": 1646116895811,
+        "text": "【趙城金藏】No.433《蘇悉地羯囉經》 卷數：3 千字文：詩"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZM",
+        "created": 1646116895811,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZN",
+        "created": 1646116895811,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZO",
+        "created": 1646116895811,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZP",
+        "created": 1646116895811,
+        "text": "【高麗藏】No.432《蘇悉地羯羅經》唐天竺三藏輸波迦羅譯 部別：大乘經 單譯 / 冊數：13 頁數：1027 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：詩"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZQ",
+        "created": 1646116895811,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZR",
+        "created": 1646116895811,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZS",
+        "created": 1646116895811,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZT",
+        "created": 1646116895811,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZU",
+        "created": 1646116895811,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZV",
+        "created": 1646116895811,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZW",
+        "created": 1646116895811,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZX",
+        "created": 1646116895811,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZY",
+        "created": 1646116895811,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZZ",
+        "created": 1646116895811,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZa",
+        "created": 1646116895811,
+        "text": "【大正藏】No.893a《蘇悉地羯羅經》唐 輸波迦羅譯 部別：密教部一 / 冊數：18 / 頁數：603 / 卷數：3 相關經典：縮-閏3,卍-12.7-8,國-密5 參考資料：cf.No.2232"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZb",
+        "created": 1646116895811,
+        "text": "【佛教大藏經】No.1202《蘇悉地羯羅經》唐 輸波迦羅譯 部別：密教部一 / 冊數：52 / 頁數：415 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZc",
+        "created": 1646116895811,
+        "text": "【中華藏】No.463《蘇悉地羯囉經》大唐中天竺三藏輸波迦羅譯 冊數：23 / 頁數：782 / 卷數：3 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZd",
+        "created": 1646116895811,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZe",
+        "created": 1646116895811,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF5DZf",
+        "created": 1646116895811,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：893"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxF8DaM",
+     "created": 1646116895814,
+     "text": "現藏錄（唐 輸波迦羅譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxF7DZh",
+       "created": 1646116895813,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxF7DZi",
+         "created": 1646116895813,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF7DZj",
+         "created": 1646116895813,
+         "text": "蘇悉地羯羅經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF7DZk",
+         "created": 1646116895813,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF7DZl",
+         "created": 1646116895813,
+         "text": "苏悉地羯罗经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxF7DZm",
+         "created": 1646116895813,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxF7DZn",
+         "created": 1646116895813,
+         "text": "su xi di jie luo jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxF7DZo",
+       "created": 1646116895813,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxF7DZp",
+       "created": 1646116895813,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxF7DZq",
+       "created": 1646116895813,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxF7DZr",
+        "created": 1646116895813,
+        "text": "唐 輸波迦羅譯"
+       }},
+       {"data": {
+        "id": "z5cYxF7DZs",
+        "created": 1646116895813,
+        "text": "善無畏"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxF7DZt",
+       "created": 1646116895813,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxF7DZu",
+       "created": 1646116895813,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxF7DZv",
+       "created": 1646116895813,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxF7DZw",
+        "created": 1646116895813,
+        "text": "【房山石經】No.574《蘇悉地羯羅經》(大唐)中天竺三藏輸波迦羅譯 冊數：13 / 頁數：332 / 卷數：3 / 刻經年代：天慶七年刻石 / 瀏覽：目錄圖檔 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYxF7DZx",
+        "created": 1646116895813,
+        "text": "【開寶藏】No.427《蘇悉地羯羅經》唐 中天竺三藏輸波迦羅 譯 部別：大乘經 大乘經單譯 / 卷數：3 千字文：詩"
+       }},
+       {"data": {
+        "id": "z5cYxF7DZy",
+        "created": 1646116895813,
+        "text": "【崇寧藏】No.426《蘇悉地羯囉經》 卷數：3 千字文：讚(198)"
+       }},
+       {"data": {
+        "id": "z5cYxF7DZz",
+        "created": 1646116895813,
+        "text": "【毘盧藏】No.424《蘇悉地羯囉經》唐輸波迦羅譯 參考年代：(建炎元．十) 千字文：讚(198)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da0",
+        "created": 1646116895813,
+        "text": "【圓覺藏】No.437《蘇悉地羯羅經》 千字文：讚(198)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da1",
+        "created": 1646116895813,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da2",
+        "created": 1646116895813,
+        "text": "【資福藏】No.441《蘇悉地羯羅經》 卷數：3 (上中下) 千字文：讚(198)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da3",
+        "created": 1646116895813,
+        "text": "【磧砂藏】No.442《蘇悉地羯羅經》唐 輸波迦羅譯 部別：五大部外單譯經 / 冊數：13 / 頁數：553 / 卷數：3 千字文：讚 1 (198)-讚 3 (198)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da4",
+        "created": 1646116895813,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da5",
+        "created": 1646116895813,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da6",
+        "created": 1646116895813,
+        "text": "【普寧藏】No.435《蘇悉地羯羅經》 卷數：3 千字文：讚(198)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da7",
+        "created": 1646116895813,
+        "text": "【至元錄】No.624《蘇悉帝羯羅經》唐中天竺三藏輸波迦羅譯 梵名：蘇悉地迦羅　摩訶單特羅　薩怛拏　烏八夷迦　八怛囉 / 卷數：3 千字文：竸(240)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da8",
+        "created": 1646116895813,
+        "text": "【洪武南藏】No.387《蘇悉地羯羅經》唐 中天竺三藏法師輪迦波羅 譯 冊數：67 / 頁數：21 / 卷數：3 千字文：讚 1 (198)-讚 3 (198)"
+       }},
+       {"data": {
+        "id": "z5cYxF7Da9",
+        "created": 1646116895813,
+        "text": "【永樂南藏】No.435《蘇悉地羯羅經》 部別：大乘經-單譯經 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaA",
+        "created": 1646116895813,
+        "text": "【永樂北藏】No.559《蘇悉地羯羅經》唐輸波迦羅譯 部別：大乘經單經譯 / 冊數：54 / 頁數：559 / 卷數：3 千字文：克"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaB",
+        "created": 1646116895813,
+        "text": "【嘉興藏】No.528《蘇悉地羯羅經》唐輸波迦羅譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0528 千字文 / 函號：［正藏］ 克(205)"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaC",
+        "created": 1646116895813,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaD",
+        "created": 1646116895813,
+        "text": "【乾隆藏】No.529《蘇悉地羯羅經》唐 (中天竺)輸波迦羅譯 部別：大乘單譯經 / 冊數：46 / 頁數：243 / 卷數：4 千字文：克"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaE",
+        "created": 1646116895813,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaF",
+        "created": 1646116895813,
+        "text": "【卍正藏】No.535《蘇悉地羯羅經》唐 輸迦波羅譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：339 / 卷數：4 原版套數：第 12 套"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaG",
+        "created": 1646116895813,
+        "text": "【大正藏】No.893b《蘇悉地羯羅經》唐 輸波迦羅譯 部別：密教部一 / 冊數：18 / 頁數：633 / 卷數：3 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxF7DaH",
+        "created": 1646116895813,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaI",
+        "created": 1646116895813,
+        "text": "【中華藏】No.464《蘇悉地羯囉經(別本)》唐中天竺三藏法師輸迦波羅譯 冊數：23 / 頁數：830 / 卷數：4 / 底本：凊藏本"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaJ",
+        "created": 1646116895813,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaK",
+        "created": 1646116895813,
+        "text": "【南條文雄編號】 Nj. 0533"
+       }},
+       {"data": {
+        "id": "z5cYxF7DaL",
+        "created": 1646116895813,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：893"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxFBDb2",
+     "created": 1646116895817,
+     "text": "現藏錄（唐 輸波迦羅譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxFADaN",
+       "created": 1646116895816,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxFADaO",
+         "created": 1646116895816,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxFADaP",
+         "created": 1646116895816,
+         "text": "蘇悉地羯羅經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxFADaQ",
+         "created": 1646116895816,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxFADaR",
+         "created": 1646116895816,
+         "text": "苏悉地羯罗经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxFADaS",
+         "created": 1646116895816,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxFADaT",
+         "created": 1646116895816,
+         "text": "su xi di jie luo jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxFADaU",
+       "created": 1646116895816,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxFADaV",
+       "created": 1646116895816,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxFADaW",
+       "created": 1646116895816,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxFADaX",
+        "created": 1646116895816,
+        "text": "唐 輸波迦羅譯"
+       }},
+       {"data": {
+        "id": "z5cYxFADaY",
+        "created": 1646116895816,
+        "text": "善無畏"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxFADaZ",
+       "created": 1646116895816,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxFADaa",
+       "created": 1646116895816,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxFADab",
+       "created": 1646116895816,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxFADac",
+        "created": 1646116895816,
+        "text": "【房山石經】No.574《蘇悉地羯羅經》(大唐)中天竺三藏輸波迦羅譯 冊數：13 / 頁數：332 / 卷數：3 / 刻經年代：天慶七年刻石 / 瀏覽：目錄圖檔 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYxFADad",
+        "created": 1646116895816,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADae",
+        "created": 1646116895816,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADaf",
+        "created": 1646116895816,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADag",
+        "created": 1646116895816,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADah",
+        "created": 1646116895816,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADai",
+        "created": 1646116895816,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADaj",
+        "created": 1646116895816,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADak",
+        "created": 1646116895816,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADal",
+        "created": 1646116895816,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADam",
+        "created": 1646116895816,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADan",
+        "created": 1646116895816,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADao",
+        "created": 1646116895816,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADap",
+        "created": 1646116895816,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADaq",
+        "created": 1646116895816,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADar",
+        "created": 1646116895816,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADas",
+        "created": 1646116895816,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADat",
+        "created": 1646116895816,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADau",
+        "created": 1646116895816,
+        "text": "【縮刻藏】No.1132《蘇悉地羯羅經》唐輸婆迦羅譯 部別：祕密部 / 卷數：3 千字文： 3 (25)"
+       }},
+       {"data": {
+        "id": "z5cYxFADav",
+        "created": 1646116895816,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADaw",
+        "created": 1646116895816,
+        "text": "【大正藏】No.893c《蘇悉地羯羅經》唐 輸波迦羅譯 部別：密教部一 / 冊數：18 / 頁數：663 / 卷數：3 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxFADax",
+        "created": 1646116895816,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADay",
+        "created": 1646116895816,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADaz",
+        "created": 1646116895816,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADb0",
+        "created": 1646116895816,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxFADb1",
+        "created": 1646116895816,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：893"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxs3qz",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

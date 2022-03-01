@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "傳受集"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLzYUw",
+    "created": 1646116900083,
+    "text": "現藏錄（日本 寬信撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLzYUH",
+      "created": 1646116900083,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLzYUI",
+        "created": 1646116900083,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLzYUJ",
+        "created": 1646116900083,
+        "text": "傳受集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLzYUK",
+        "created": 1646116900083,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLzYUL",
+        "created": 1646116900083,
+        "text": "传受集",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLzYUM",
+        "created": 1646116900083,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLzYUN",
+        "created": 1646116900083,
+        "text": "chuan shou ji"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLzYUO",
+      "created": 1646116900083,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLzYUP",
+      "created": 1646116900083,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLzYUQ",
+      "created": 1646116900083,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLzYUR",
+       "created": 1646116900083,
+       "text": "日本 寬信撰"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUS",
+       "created": 1646116900083,
+       "text": "寬信",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLzYUT",
+      "created": 1646116900083,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLzYUU",
+      "created": 1646116900083,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLzYUV",
+      "created": 1646116900083,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLzYUW",
+       "created": 1646116900083,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUX",
+       "created": 1646116900083,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUY",
+       "created": 1646116900083,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUZ",
+       "created": 1646116900083,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUa",
+       "created": 1646116900083,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUb",
+       "created": 1646116900083,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUc",
+       "created": 1646116900083,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUd",
+       "created": 1646116900083,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUe",
+       "created": 1646116900083,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUf",
+       "created": 1646116900083,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUg",
+       "created": 1646116900083,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUh",
+       "created": 1646116900083,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUi",
+       "created": 1646116900083,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUj",
+       "created": 1646116900083,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUk",
+       "created": 1646116900083,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUl",
+       "created": 1646116900083,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUm",
+       "created": 1646116900083,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUn",
+       "created": 1646116900083,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUo",
+       "created": 1646116900083,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUp",
+       "created": 1646116900083,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUq",
+       "created": 1646116900083,
+       "text": "【大正藏】No.2482《傳受集》日本 寬信撰 部別：續諸宗部九 / 冊數：78 / 頁數：224 / 卷數：4 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLzYUr",
+       "created": 1646116900083,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUs",
+       "created": 1646116900083,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUt",
+       "created": 1646116900083,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUu",
+       "created": 1646116900083,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLzYUv",
+       "created": 1646116900083,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2482"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri12r22f",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

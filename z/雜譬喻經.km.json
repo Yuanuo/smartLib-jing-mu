@@ -1,0 +1,936 @@
+{
+ "root": {
+  "data": {"text": "雜譬喻經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwbB2ym",
+     "created": 1646116893337,
+     "text": "現藏錄（後漢 支婁迦讖譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwbB2xv",
+       "created": 1646116893337,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwbB2xw",
+         "created": 1646116893337,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbB2xx",
+         "created": 1646116893337,
+         "text": "雜譬喻經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbB2xy",
+         "created": 1646116893337,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbB2xz",
+         "created": 1646116893337,
+         "text": "杂譬喻经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbB2y0",
+         "created": 1646116893337,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbB2y1",
+         "created": 1646116893337,
+         "text": "za pi yu jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbB2y9",
+         "created": 1646116893337,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbB2yA",
+         "created": 1646116893337,
+         "text": "Tsa p'i yü ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYwbB2yB",
+        "created": 1646116893337,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYwbB2yC",
+         "created": 1646116893337,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbB2yD",
+         "created": 1646116893337,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbB2yE",
+         "created": 1646116893337,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbB2yF",
+         "created": 1646116893337,
+         "text": "잡비유경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbB2y2",
+       "created": 1646116893337,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbB2y3",
+       "created": 1646116893337,
+       "text": "後漢",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbB2y4",
+       "created": 1646116893337,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbB2y5",
+        "created": 1646116893337,
+        "text": "後漢 支婁迦讖譯"
+       }},
+       {"data": {
+        "id": "z5cYwbB2y6",
+        "created": 1646116893337,
+        "text": "支婁迦讖",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbB2y7",
+       "created": 1646116893337,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbB2y8",
+       "created": 1646116893337,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbB2yG",
+       "created": 1646116893337,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbB2yH",
+       "created": 1646116893337,
+       "text": "Translation by Lokakṣema: between the 1st year of Chien Ho (建和) and the 3rd year of Chung P'ing (中平), Later Han dynasty (後漢) (A.D. 147-186) in Lo-yang (洛陽).T.2151-348c:8"
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwbB2yI",
+      "created": 1646116893337,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwbB2yJ",
+       "created": 1646116893337,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbB2yK",
+       "created": 1646116893337,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbB2yL",
+       "created": 1646116893337,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbB2yM",
+        "created": 1646116893337,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yN",
+        "created": 1646116893337,
+        "text": "【開寶藏】No.1007《雜譬喻經》後漢 月支優婆塞支謙 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：1 千字文：寫"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yO",
+        "created": 1646116893337,
+        "text": "【崇寧藏】No.1010《雜譬喻經》 卷數：1 千字文：圖(433)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yP",
+        "created": 1646116893337,
+        "text": "【毘盧藏】No.1010《雜譬喻經》後漢支婁迦讖譯 千字文：圖(433)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yQ",
+        "created": 1646116893337,
+        "text": "【圓覺藏】No.1019《雜譬喻經》 千字文：圖(433)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yR",
+        "created": 1646116893337,
+        "text": "【趙城金藏】No.1009《雜譬喻經》 卷數：1 千字文：圖"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yS",
+        "created": 1646116893337,
+        "text": "【資福藏】No.1024《雜譬喻經》 卷數：1 千字文：圖(433)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yT",
+        "created": 1646116893337,
+        "text": "【磧砂藏】No.1035《雜譬喻經》後漢 支婁迦讖譯 部別： / 冊數：28 / 頁數：309 / 卷數：1 千字文：圖 10 (433)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yU",
+        "created": 1646116893337,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yV",
+        "created": 1646116893337,
+        "text": "【高麗藏】No.1007《雜譬喩經》後漢月支婁迦讖譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：330 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：圖"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yW",
+        "created": 1646116893337,
+        "text": "【普寧藏】No.1026《雜譬喻經》 卷數：1 千字文：圖(433)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yX",
+        "created": 1646116893337,
+        "text": "【至元錄】No.1464《雜譬喻經》後漢月支三藏支婁迦讖譯 卷數：1 千字文：微(541)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yY",
+        "created": 1646116893337,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yZ",
+        "created": 1646116893337,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2ya",
+        "created": 1646116893337,
+        "text": "【永樂北藏】No.1430《雜譬喻經》後漢支婁迦讖譯 部別：西土聖賢撰集 / 冊數：131 / 頁數：242 / 卷數：1 千字文：英"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yb",
+        "created": 1646116893337,
+        "text": "【嘉興藏】No.1364《雜譬喻經》後漢支婁迦讖譯 部別：西土聖賢撰集 / 法寶總目錄經號：1363 千字文 / 函號：［正藏］ 英(480)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yc",
+        "created": 1646116893337,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yd",
+        "created": 1646116893337,
+        "text": "【乾隆藏】No.1365《雜譬喻經》後漢 支婁迦讖譯 部別：西土聖賢撰集 / 冊數：107 / 頁數：681 / 卷數：1 千字文：英"
+       }},
+       {"data": {
+        "id": "z5cYwbB2ye",
+        "created": 1646116893337,
+        "text": "【縮刻藏】No.963《雜譬喻經》後漢支婁迦讖譯 部別：印度大乘宗經論 / 卷數：1 千字文：暑 7 (19)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yf",
+        "created": 1646116893337,
+        "text": "【卍正藏】No.1379《雜譬喻經》後漢 支婁迦讖譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：749 / 卷數：1 原版套數：第 26 套"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yg",
+        "created": 1646116893337,
+        "text": "【大正藏】No.204《雜譬喻經》後漢 支婁迦讖譯 部別：本緣部下 / 冊數：4 / 頁數：499 / 卷數：1 相關經典：縮-暑7,卍-26.9 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwbB2yh",
+        "created": 1646116893337,
+        "text": "【佛教大藏經】No.1006《雜譬喻經》後漢 支婁迦讖譯 部別：大乘宗經論 論部四 / 冊數：38 / 頁數：417 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yi",
+        "created": 1646116893337,
+        "text": "【中華藏】No.1095《雜譬喻經》後漢月支沙門支婁迦讖譯 冊數：51 / 頁數：892 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yj",
+        "created": 1646116893337,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yk",
+        "created": 1646116893337,
+        "text": "【南條文雄編號】 Nj. 1372"
+       }},
+       {"data": {
+        "id": "z5cYwbB2yl",
+        "created": 1646116893337,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：204"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwbF2zc",
+     "created": 1646116893341,
+     "text": "現藏錄（失譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwbD2yn",
+       "created": 1646116893339,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwbD2yo",
+         "created": 1646116893339,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbD2yp",
+         "created": 1646116893339,
+         "text": "雜譬喻經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbD2yq",
+         "created": 1646116893339,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbD2yr",
+         "created": 1646116893339,
+         "text": "杂譬喻经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbD2ys",
+         "created": 1646116893339,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbD2yt",
+         "created": 1646116893339,
+         "text": "za pi yu jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbD2yz",
+         "created": 1646116893339,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbD2z0",
+         "created": 1646116893339,
+         "text": "Tsa p'i yü ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYwbD2z1",
+        "created": 1646116893339,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYwbD2z2",
+         "created": 1646116893339,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbD2z3",
+         "created": 1646116893339,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbD2z4",
+         "created": 1646116893339,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbD2z5",
+         "created": 1646116893339,
+         "text": "잡비유경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbD2yu",
+       "created": 1646116893339,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbD2yv",
+        "created": 1646116893339,
+        "text": "失譯",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYwbD2yw",
+        "created": 1646116893339,
+        "text": "支婁迦讖"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbD2yx",
+       "created": 1646116893339,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbD2yy",
+       "created": 1646116893339,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbE2z6",
+       "created": 1646116893340,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbE2z7",
+       "created": 1646116893340,
+       "text": "Hou Han lu (後漢錄) (A.D. 25-220).T. 2157-956c:12."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwbE2z8",
+      "created": 1646116893340,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwbE2z9",
+       "created": 1646116893340,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbE2zA",
+       "created": 1646116893340,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbE2zB",
+       "created": 1646116893340,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbE2zC",
+        "created": 1646116893340,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zD",
+        "created": 1646116893340,
+        "text": "【開寶藏】No.1008《雜譬喻經》後漢 失譯者 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：2 千字文：禽"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zE",
+        "created": 1646116893340,
+        "text": "【崇寧藏】No.1011《雜譬喻經》 卷數：2 千字文：寫(434)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zF",
+        "created": 1646116893340,
+        "text": "【毘盧藏】No.1011《雜譬喻經》失譯 參考年代：(紹興一八．閏八) 千字文：寫(434)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zG",
+        "created": 1646116893340,
+        "text": "【圓覺藏】No.1020《雜譬喻經》 卷數：2 千字文：寫(434)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zH",
+        "created": 1646116893340,
+        "text": "【趙城金藏】No.1016《雜譬喻經》 卷數：2 千字文：寫"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zI",
+        "created": 1646116893340,
+        "text": "【資福藏】No.1025《雜譬喻經》 卷數：2 (二卷) 千字文：寫(434)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zJ",
+        "created": 1646116893340,
+        "text": "【磧砂藏】No.1036《雜譬喻經》失譯 部別： / 冊數：28 / 頁數：313 / 卷數：2 千字文：寫 1 (434)-寫 2 (434)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zK",
+        "created": 1646116893340,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zL",
+        "created": 1646116893340,
+        "text": "【高麗藏】No.1014《雜譬喩經》失譯人名附後漢錄 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：402 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：寫"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zM",
+        "created": 1646116893340,
+        "text": "【普寧藏】No.1027《雜譬喻經》 卷數：2 千字文：寫(434)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zN",
+        "created": 1646116893340,
+        "text": "【至元錄】No.1465《雜譬喻經》失譯人名 卷數：2 / 出處：(附後漢錄) 千字文：旦(542)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zO",
+        "created": 1646116893340,
+        "text": "【洪武南藏】No.910《雜譬喻經》失譯人名出後漢錄 冊數：154 / 頁數：484 / 卷數：2 千字文：寫 1 (434)-寫 2 (434)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zP",
+        "created": 1646116893340,
+        "text": "【永樂南藏】No.1108《雜譬喻經》 部別：西土聖賢撰集 千字文：所(299)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zQ",
+        "created": 1646116893340,
+        "text": "【永樂北藏】No.1426《雜譬喻經》失譯人名附後漢錄 部別：西土聖賢撰集 / 冊數：131 / 頁數：141 / 卷數：0 千字文：群"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zR",
+        "created": 1646116893340,
+        "text": "【嘉興藏】No.1360《雜譬喻經》失譯人名附後漢錄 部別：西土聖賢撰集 / 法寶總目錄經號：1359 千字文 / 函號：［正藏］ 群(479)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zS",
+        "created": 1646116893340,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zT",
+        "created": 1646116893340,
+        "text": "【乾隆藏】No.1361《雜譬喻經》失譯人名出後漢錄 部別：西土聖賢撰集 / 冊數：107 / 頁數：605 / 卷數：2 千字文：群"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zU",
+        "created": 1646116893340,
+        "text": "【縮刻藏】No.962《雜譬喻經》失譯 部別：印度大乘宗經論 / 卷數：2 千字文：暑 7 (19)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zV",
+        "created": 1646116893340,
+        "text": "【卍正藏】No.1375《雜譬喻經》失譯人名附後漢錄 部別：西土聖賢撰集 / 冊數：50 / 頁數：710 / 卷數：2 原版套數：第 26 套"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zW",
+        "created": 1646116893340,
+        "text": "【大正藏】No.205《雜譬喻經》失譯 部別：本緣部下 / 冊數：4 / 頁數：502 / 卷數：2 相關經典：縮-暑7,卍-26.9 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwbE2zX",
+        "created": 1646116893340,
+        "text": "【佛教大藏經】No.1005《雜譬喻經》失譯 部別：大乘宗經論 論部四 / 冊數：38 / 頁數：403 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zY",
+        "created": 1646116893340,
+        "text": "【中華藏】No.1102《雜譬喻經》失譯人名附後漢錄 冊數：52 / 頁數：1 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zZ",
+        "created": 1646116893340,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbE2za",
+        "created": 1646116893340,
+        "text": "【南條文雄編號】 Nj. 1368"
+       }},
+       {"data": {
+        "id": "z5cYwbE2zb",
+        "created": 1646116893340,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：205"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwbM31N",
+     "created": 1646116893348,
+     "text": "現藏錄（道略集）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwbK30V",
+       "created": 1646116893346,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwbK30W",
+         "created": 1646116893346,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbK30X",
+         "created": 1646116893346,
+         "text": "雜譬喻經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbK30Y",
+         "created": 1646116893346,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbK30Z",
+         "created": 1646116893346,
+         "text": "杂譬喻经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbK30a",
+         "created": 1646116893346,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbK30b",
+         "created": 1646116893346,
+         "text": "za pi yu jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbK30k",
+         "created": 1646116893346,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbK30l",
+         "created": 1646116893346,
+         "text": "Tsa p'i yü ching"
+        }}]
+       },
+       {"data": {
+        "id": "z5cYwbK30m",
+        "created": 1646116893346,
+        "text": "梵　　文"
+       }},
+       {
+        "data": {
+         "id": "z5cYwbK30n",
+         "created": 1646116893346,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbK30o",
+         "created": 1646116893346,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwbK30p",
+         "created": 1646116893346,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwbK30q",
+         "created": 1646116893346,
+         "text": "잡비유경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbK30c",
+       "created": 1646116893346,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbK30d",
+       "created": 1646116893346,
+       "text": "",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbK30e",
+       "created": 1646116893346,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbK30f",
+        "created": 1646116893346,
+        "text": "道略集"
+       }},
+       {"data": {
+        "id": "z5cYwbK30g",
+        "created": 1646116893346,
+        "text": "道安",
+        "resource": ["author"]
+       }},
+       {"data": {
+        "id": "z5cYwbK30h",
+        "created": 1646116893346,
+        "text": "道略",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwbK30i",
+       "created": 1646116893346,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbK30j",
+       "created": 1646116893346,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbL30r",
+       "created": 1646116893347,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbL30s",
+       "created": 1646116893347,
+       "text": "According to the colophon in the Korean version this book was compiled by Tao-liao of the T'ang dynasty (唐) (A.D. 618-907).T. 2155-744c:18. However, the other version of the text, Chung ching hsüan tsa p'i yü, was also compiled by Tao-liao and translated by Kumārajīva in the 10th month, 7th year of Hung Shih (弘始), Later Ch'in dynasty (後秦) (November, A.D. 405).T. 208, vol. 4, p. 531, line 8. Therefore the date of the compilation should be sometime in the Later Ch'in dynasty (後秦) or earlier."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwbL30t",
+      "created": 1646116893347,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwbL30u",
+       "created": 1646116893347,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwbL30v",
+       "created": 1646116893347,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwbL30w",
+       "created": 1646116893347,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwbL30x",
+        "created": 1646116893347,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL30y",
+        "created": 1646116893347,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL30z",
+        "created": 1646116893347,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL310",
+        "created": 1646116893347,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL311",
+        "created": 1646116893347,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL312",
+        "created": 1646116893347,
+        "text": "【趙城金藏】No.1018《雜譬喻經》 卷數：1 千字文：寫"
+       }},
+       {"data": {
+        "id": "z5cYwbL313",
+        "created": 1646116893347,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL314",
+        "created": 1646116893347,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL315",
+        "created": 1646116893347,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL316",
+        "created": 1646116893347,
+        "text": "【高麗藏】No.1016《雜譬喩經》比丘道毘集 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：417 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：寫"
+       }},
+       {"data": {
+        "id": "z5cYwbL317",
+        "created": 1646116893347,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL318",
+        "created": 1646116893347,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL319",
+        "created": 1646116893347,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31A",
+        "created": 1646116893347,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31B",
+        "created": 1646116893347,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31C",
+        "created": 1646116893347,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31D",
+        "created": 1646116893347,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31E",
+        "created": 1646116893347,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31F",
+        "created": 1646116893347,
+        "text": "【縮刻藏】No.960《雜譬喻經》比丘道略集 部別：印度大乘宗經論 / 卷數：1 千字文：暑 7 (19)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31G",
+        "created": 1646116893347,
+        "text": "【卍正藏】No.1373《雜譬喻經》比丘道略集 部別：西土聖賢撰集 / 冊數：50 / 頁數：676 / 卷數：1 原版套數：第 26 套"
+       }},
+       {"data": {
+        "id": "z5cYwbL31H",
+        "created": 1646116893347,
+        "text": "【大正藏】No.207《雜譬喻經》道略集 部別：本緣部下 / 冊數：4 / 頁數：522 / 卷數：1 相關經典：縮-暑7,卍-26.9 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYwbL31I",
+        "created": 1646116893347,
+        "text": "【佛教大藏經】No.1002《雜譬喻經》道略集 部別：大乘宗經論 論部四 / 冊數：38 / 頁數：349 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwbL31J",
+        "created": 1646116893347,
+        "text": "【中華藏】No.1104《雜譬喻經》比丘道略集 冊數：52 / 頁數：25 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwbL31K",
+        "created": 1646116893347,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31L",
+        "created": 1646116893347,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwbL31M",
+        "created": 1646116893347,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：207"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvvc5v",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

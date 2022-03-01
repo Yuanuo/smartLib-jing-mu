@@ -1,0 +1,581 @@
+{
+ "root": {
+  "data": {"text": "善住意天子所問經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwk04rT",
+     "created": 1646116893884,
+     "text": "現藏錄（隋 達磨笈多譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwjz4qo",
+       "created": 1646116893883,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwjz4qp",
+         "created": 1646116893883,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwjz4qq",
+         "created": 1646116893883,
+         "text": "善住意天子所問經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwjz4qr",
+         "created": 1646116893883,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwjz4qs",
+         "created": 1646116893883,
+         "text": "善住意天子所问经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwjz4qt",
+         "created": 1646116893883,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwjz4qu",
+         "created": 1646116893883,
+         "text": "shan zhu yi tian zi suo wen jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwjz4qv",
+       "created": 1646116893883,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwjz4qw",
+       "created": 1646116893883,
+       "text": "隋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwjz4qx",
+       "created": 1646116893883,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwjz4qy",
+        "created": 1646116893883,
+        "text": "隋 達磨笈多譯"
+       }},
+       {"data": {
+        "id": "z5cYwjz4qz",
+        "created": 1646116893883,
+        "text": "達摩笈多",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwjz4r0",
+       "created": 1646116893883,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwjz4r1",
+       "created": 1646116893883,
+       "text": "4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwjz4r2",
+       "created": 1646116893883,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwjz4r3",
+        "created": 1646116893883,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4r4",
+        "created": 1646116893883,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4r5",
+        "created": 1646116893883,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4r6",
+        "created": 1646116893883,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4r7",
+        "created": 1646116893883,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4r8",
+        "created": 1646116893883,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4r9",
+        "created": 1646116893883,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rA",
+        "created": 1646116893883,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rB",
+        "created": 1646116893883,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rC",
+        "created": 1646116893883,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rD",
+        "created": 1646116893883,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rE",
+        "created": 1646116893883,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rF",
+        "created": 1646116893883,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rG",
+        "created": 1646116893883,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rH",
+        "created": 1646116893883,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rI",
+        "created": 1646116893883,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rJ",
+        "created": 1646116893883,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rK",
+        "created": 1646116893883,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rL",
+        "created": 1646116893883,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rM",
+        "created": 1646116893883,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rN",
+        "created": 1646116893883,
+        "text": "【大正藏】No.310《大寶積經》唐 菩提流志譯 部別：寶積部上 / 冊數：11 / 頁數：1 / 卷數：120 相關經典：縮-地1-6,卍-5.7-6.3,國-寶1-6 參考資料：共四九會"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rO",
+        "created": 1646116893883,
+        "text": "【佛教大藏經】No.29《大寶積經》唐 菩提流志等譯 部別：大乘經 方等部一 / 冊數：3 / 頁數：1 / 卷數：120"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rP",
+        "created": 1646116893883,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rQ",
+        "created": 1646116893883,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rR",
+        "created": 1646116893883,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwjz4rS",
+        "created": 1646116893883,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：310"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYwmB5Tn",
+     "created": 1646116894019,
+     "text": "現藏錄（元魏 毘目智仙共般若流支譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwmA5Su",
+       "created": 1646116894018,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwmA5Sv",
+         "created": 1646116894018,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmA5Sw",
+         "created": 1646116894018,
+         "text": "聖善住意天子所問經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmA5Sx",
+         "created": 1646116894018,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmA5Sy",
+         "created": 1646116894018,
+         "text": "圣善住意天子所问经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmA5Sz",
+         "created": 1646116894018,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmA5T0",
+         "created": 1646116894018,
+         "text": "sheng shan zhu yi tian zi suo wen jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmA5T9",
+         "created": 1646116894018,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmA5TA",
+         "created": 1646116894018,
+         "text": "Sheng shan chu i t'ien tzu so wen ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmA5TB",
+         "created": 1646116894018,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmA5TC",
+         "created": 1646116894018,
+         "text": "Suṣṭhitamati(devaputra)paripṛcchā(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmA5TD",
+         "created": 1646116894018,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmA5TE",
+         "created": 1646116894018,
+         "text": "Lhaḥi-bu blo-gros-rab-gnas-kyis shus-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmA5TF",
+         "created": 1646116894018,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmA5TG",
+         "created": 1646116894018,
+         "text": "성선주의천자소문경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwmA5T1",
+       "created": 1646116894018,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmA5T2",
+       "created": 1646116894018,
+       "text": "元魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmA5T3",
+       "created": 1646116894018,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwmA5T4",
+        "created": 1646116894018,
+        "text": "元魏 毘目智仙共般若流支譯"
+       }},
+       {"data": {
+        "id": "z5cYwmA5T5",
+        "created": 1646116894018,
+        "text": "毗目智仙",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYwmA5T6",
+        "created": 1646116894018,
+        "text": "般若流支",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwmA5T7",
+       "created": 1646116894018,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmA5T8",
+       "created": 1646116894018,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmA5TH",
+       "created": 1646116894018,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmA5TI",
+       "created": 1646116894018,
+       "text": "Translation by Prajñāruci: (see K.42). T.2149-269c:24."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwmA5TJ",
+      "created": 1646116894018,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwmA5TK",
+       "created": 1646116894018,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmA5TL",
+       "created": 1646116894018,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmA5TM",
+       "created": 1646116894018,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwmA5TN",
+        "created": 1646116894018,
+        "text": "【房山石經】No.371《聖善住意天子所問經》(元魏)婆羅門瞿曇般若流支譯 冊數：9 / 頁數：129 / 卷數：3 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：推"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TO",
+        "created": 1646116894018,
+        "text": "【開寶藏】No.47《聖善住意天子所問經》元魏 三藏毗目智仙共般若流支 譯 部別：大乘經 寶積部 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TP",
+        "created": 1646116894018,
+        "text": "【崇寧藏】No.46《善住意天子所問經》 卷數：3 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TQ",
+        "created": 1646116894018,
+        "text": "【毘盧藏】No.42《善住意天子所問經》元魏毘目智仙共留志等譯 參考年代：(宣和六．八) 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TR",
+        "created": 1646116894018,
+        "text": "【圓覺藏】No.45《勝善住意天子所問經》 卷數：3 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TS",
+        "created": 1646116894018,
+        "text": "【趙城金藏】No.45《聖善住意天子所問經》 卷數：3 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TT",
+        "created": 1646116894018,
+        "text": "【資福藏】No.48《善住意天子所問經》 卷數：3 (三卷) 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TU",
+        "created": 1646116894018,
+        "text": "【磧砂藏】No.46《善住意天子所問經》元魏 毗目智仙．流支等譯 部別：寶積部 / 冊數：6 / 頁數：395 / 卷數：3 千字文：裳 7 (88)-裳 8 (88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TV",
+        "created": 1646116894018,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TW",
+        "created": 1646116894018,
+        "text": "【高麗藏】No.45《聖善住意天子所問經》元魏三藏毘目智仙-共般若流支譯 部別：大乘經 寶積部 / 冊數：6 頁數：1273 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TX",
+        "created": 1646116894018,
+        "text": "【普寧藏】No.43《善住意天子所問經》 卷數：3 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TY",
+        "created": 1646116894018,
+        "text": "【至元錄】No.113《聖善住意天子所問經》元魏婆羅門瞿曇菩提般若流支譯 卷數：3 / 譯次：(第五譯)(七譯四闕) 千字文：國(92)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5TZ",
+        "created": 1646116894018,
+        "text": "【洪武南藏】No.42《聖善住天子所問經》元魏 三藏毗目智仙共留支 等譯 冊數：32 / 頁數：44 / 卷數：3 千字文：裳 7 (88)-裳 9 (88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Ta",
+        "created": 1646116894018,
+        "text": "【永樂南藏】No.43《善住意天子所問經》 部別：大乘經-寶積部 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tb",
+        "created": 1646116894018,
+        "text": "【永樂北藏】No.62《善住意天子所問經》元魏毗目智仙-共流支等譯 部別：大乘經寶積部 / 冊數：22 / 頁數：917 / 卷數：3 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tc",
+        "created": 1646116894018,
+        "text": "【嘉興藏】No.44《善住意天子所問經》元魏毗目智仙-共流支等譯 部別：大乘經-寶積部 / 法寶總目錄經號：0044 千字文 / 函號：［正藏］ 裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Td",
+        "created": 1646116894018,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Te",
+        "created": 1646116894018,
+        "text": "【乾隆藏】No.44《善住意天子所問經》元魏 毗目智仙,流支等譯 部別：大乘寶積部 / 冊數：20 / 頁數：313 / 卷數：3 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tf",
+        "created": 1646116894018,
+        "text": "【縮刻藏】No.63《聖善住意天子所問經》元魏毘目智仙共般若流支譯 部別：大乘經-方等部 / 卷數：3 千字文：地 11 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tg",
+        "created": 1646116894018,
+        "text": "【卍正藏】No.48《聖善住意天子所問經》元魏 毗目智仙共流支譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：723 / 卷數：3 原版套數：第 6 套"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Th",
+        "created": 1646116894018,
+        "text": "【大正藏】No.341《聖善住意天子所問經》元魏 毘目智仙共般若流支譯 部別：寶積部下 / 冊數：12 / 頁數：115 / 卷數：3 相關經典：縮-地11,卍-6.5 參考資料：Nos.310(36),342"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Ti",
+        "created": 1646116894018,
+        "text": "【佛教大藏經】No.63《聖善住意天子所問經》元魏 毘目智仙共般若流支譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：780 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tj",
+        "created": 1646116894018,
+        "text": "【中華藏】No.49《聖善住意天子所問經》元魏三藏毗目智仙共般若流支譯 冊數：9 / 頁數：896 / 卷數：3 / 底本：金藏大寶集寺本"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tk",
+        "created": 1646116894018,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tl",
+        "created": 1646116894018,
+        "text": "【南條文雄編號】 Nj. 0048"
+       }},
+       {"data": {
+        "id": "z5cYwmA5Tm",
+        "created": 1646116894018,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：341"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwai9p",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

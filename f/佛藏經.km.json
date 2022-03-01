@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛藏經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx3YAAl",
+    "created": 1646116895096,
+    "text": "現藏錄（姚秦 鳩摩羅什譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx3XA9o",
+      "created": 1646116895095,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx3XA9p",
+        "created": 1646116895095,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3XA9q",
+        "created": 1646116895095,
+        "text": "佛藏經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3XA9r",
+        "created": 1646116895095,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3XA9s",
+        "created": 1646116895095,
+        "text": "佛藏经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3XA9t",
+        "created": 1646116895095,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3XA9u",
+        "created": 1646116895095,
+        "text": "fo cang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3YAA2",
+        "created": 1646116895096,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3YAA3",
+        "created": 1646116895096,
+        "text": "Fo ts'ang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3YAA4",
+        "created": 1646116895096,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3YAA5",
+        "created": 1646116895096,
+        "text": "Buddhapiṭakaduḥśīlanirgraha(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3YAA6",
+        "created": 1646116895096,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3YAA7",
+        "created": 1646116895096,
+        "text": "Saṅs-rgyas-kyi sde-snod tshul-khrims ḥchal-ba tshar-gcod-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3YAA8",
+        "created": 1646116895096,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3YAA9",
+        "created": 1646116895096,
+        "text": "불장경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3XA9v",
+      "created": 1646116895095,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3XA9w",
+      "created": 1646116895095,
+      "text": "姚秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3YA9x",
+      "created": 1646116895096,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3YA9y",
+       "created": 1646116895096,
+       "text": "姚秦 鳩摩羅什譯"
+      }},
+      {"data": {
+       "id": "z5cYx3YA9z",
+       "created": 1646116895096,
+       "text": "鳩摩羅什",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3YAA0",
+      "created": 1646116895096,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3YAA1",
+      "created": 1646116895096,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3YAAA",
+      "created": 1646116895096,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3YAAB",
+      "created": 1646116895096,
+      "text": "Translation by Kumārajīva: 12th day, 6th month, 7th year of Hungshih (弘始), Yao Ch'in dynasty (後秦) (July 24th, A.D. 405) in Ch'ang-an (長安).T.2149-252c:10."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3YAAC",
+      "created": 1646116895096,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3YAAD",
+       "created": 1646116895096,
+       "text": "【北京版】Mdo-sna-tshogs (tu)159b-222a(tshu)1-81b"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAE",
+       "created": 1646116895096,
+       "text": "【奈塘版】Mdo (ña)235b-333a(tsa)1b-131b"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAF",
+       "created": 1646116895096,
+       "text": "【德格版】Mdo-sde (tha)153b-212b(dsa)1b-77b"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAG",
+       "created": 1646116895096,
+       "text": "【拉薩版】Mdo (ña)226b-321b(tsa)1b-130b"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAH",
+       "created": 1646116895096,
+       "text": "【卓尼版】Mdo-maṅ (tha)171b-237a(dsa)1b-109a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3YAAI",
+      "created": 1646116895096,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3YAAJ",
+      "created": 1646116895096,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3YAAK",
+      "created": 1646116895096,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3YAAL",
+       "created": 1646116895096,
+       "text": "【房山石經】No.678《佛藏經》(姚秦)三藏鳩摩羅什譯 冊數：14 / 頁數：459 / 卷數：4 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：作"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAM",
+       "created": 1646116895096,
+       "text": "【開寶藏】No.527《佛藏經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘律 菩薩調伏藏 / 卷數：4 千字文：克"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAN",
+       "created": 1646116895096,
+       "text": "【崇寧藏】No.532《佛藏經》 卷數：4 千字文：念(206)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAO",
+       "created": 1646116895096,
+       "text": "【毘盧藏】No.530《佛藏經》姚秦鳩摩羅什譯 千字文：念(206)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAP",
+       "created": 1646116895096,
+       "text": "【圓覺藏】No.546《佛藏經》 千字文：念(206)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAQ",
+       "created": 1646116895096,
+       "text": "【趙城金藏】No.530《佛藏經》 卷數：3 千字文：克"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAR",
+       "created": 1646116895096,
+       "text": "【資福藏】No.551《佛藏經》 卷數：4 (四卷) 千字文：念(206)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAS",
+       "created": 1646116895096,
+       "text": "【磧砂藏】No.552《佛藏經》姚秦 鳩摩羅什譯 部別： / 冊數：14 / 頁數：84 / 卷數：4 千字文：念 6 (206)-念 9 (206)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAT",
+       "created": 1646116895096,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAU",
+       "created": 1646116895096,
+       "text": "【高麗藏】No.529《佛藏經》姚秦龜茲三藏鳩摩羅什譯 部別：大乘律 / 冊數：14 頁數：340 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：尅"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAV",
+       "created": 1646116895096,
+       "text": "【普寧藏】No.545《佛藏經》 卷數：1 千字文：念(206)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAW",
+       "created": 1646116895096,
+       "text": "【至元錄】No.1186《佛藏經》姚秦三藏鳩摩羅什譯 梵名：晡怛　必怛迦　匿吉羅訶　拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：4 千字文：母(343)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAX",
+       "created": 1646116895096,
+       "text": "【洪武南藏】No.486《佛藏經》姚秦 三藏法師鳩摩羅什 譯 冊數：70 / 頁數：61 / 卷數：4 千字文：念 6 (206)-念 9 (206)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAY",
+       "created": 1646116895096,
+       "text": "【永樂南藏】No.1234《佛藏經》 部別：大乘律 千字文：職(310)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAZ",
+       "created": 1646116895096,
+       "text": "【永樂北藏】No.1127《佛藏經》姚秦鳩摩羅什譯 部別：大乘律 / 冊數：77 / 頁數：103 / 卷數：4 千字文：篤"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAa",
+       "created": 1646116895096,
+       "text": "【嘉興藏】No.1089《佛藏經》姚秦鳩摩羅什譯 部別：大乘律 / 法寶總目錄經號：1088 千字文 / 函號：［正藏］ 篤(289)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAb",
+       "created": 1646116895096,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAc",
+       "created": 1646116895096,
+       "text": "【乾隆藏】No.1090《佛藏經》姚秦 鳩摩羅什譯 部別：大乘律 / 冊數：64 / 頁數：683 / 卷數：4 千字文：篤"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAd",
+       "created": 1646116895096,
+       "text": "【縮刻藏】No.781《佛藏經》姚秦鳩摩羅什譯 部別：大乘律 / 卷數：3 千字文：列 2 (15)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAe",
+       "created": 1646116895096,
+       "text": "【卍正藏】No.1100《佛藏經》姚秦 鳩摩羅什譯 部別：大乘律 / 冊數：31 / 頁數：387 / 卷數：3 原版套數：第 17 套"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAf",
+       "created": 1646116895096,
+       "text": "【大正藏】No.653《佛藏經》姚秦 鳩摩羅什譯 部別：經集部二 / 冊數：15 / 頁數：782 / 卷數：3 相關經典：縮-列1,卍-17.2,國-經3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx3YAAg",
+       "created": 1646116895096,
+       "text": "【佛教大藏經】No.815《佛藏經》姚秦 鳩摩羅什譯 部別：大乘律 律部一 / 冊數：29 / 頁數：199 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAh",
+       "created": 1646116895096,
+       "text": "【中華藏】No.577《佛藏經》姚秦龜茲三藏鳩摩羅什譯 冊數：24 / 頁數：809 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAi",
+       "created": 1646116895096,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAj",
+       "created": 1646116895096,
+       "text": "【南條文雄編號】 Nj. 1095"
+      }},
+      {"data": {
+       "id": "z5cYx3YAAk",
+       "created": 1646116895096,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：653"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx87k5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

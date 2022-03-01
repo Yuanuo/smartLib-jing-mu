@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說勝軍王所問經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwwK8CA",
+    "created": 1646116894648,
+    "text": "現藏錄（宋 施護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwwK8BI",
+      "created": 1646116894648,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwwK8BJ",
+        "created": 1646116894648,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwK8BK",
+        "created": 1646116894648,
+        "text": "佛說勝軍王所問經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwK8BL",
+        "created": 1646116894648,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwK8BM",
+        "created": 1646116894648,
+        "text": "佛说胜军王所问经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwK8BN",
+        "created": 1646116894648,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwK8BO",
+        "created": 1646116894648,
+        "text": "fo shuo sheng jun wang suo wen jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwK8BW",
+        "created": 1646116894648,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwK8BX",
+        "created": 1646116894648,
+        "text": "Sheng chün wang so wen ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwK8BY",
+        "created": 1646116894648,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwK8BZ",
+        "created": 1646116894648,
+        "text": "Rājāvavādakasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwK8Ba",
+        "created": 1646116894648,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwK8Bb",
+        "created": 1646116894648,
+        "text": "Rgyal-po-la gdams-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwwK8Bc",
+        "created": 1646116894648,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwwK8Bd",
+        "created": 1646116894648,
+        "text": "승군왕소문경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwwK8BP",
+      "created": 1646116894648,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwK8BQ",
+      "created": 1646116894648,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwwK8BR",
+      "created": 1646116894648,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwwK8BS",
+       "created": 1646116894648,
+       "text": "宋 施護譯"
+      }},
+      {"data": {
+       "id": "z5cYwwK8BT",
+       "created": 1646116894648,
+       "text": "施護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwwK8BU",
+      "created": 1646116894648,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwK8BV",
+      "created": 1646116894648,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwwK8Be",
+      "created": 1646116894648,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwK8Bf",
+      "created": 1646116894648,
+      "text": "Ta-chung-lu vol. 12, p.6b-9a."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwwK8Bg",
+     "created": 1646116894648,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwwK8Bh",
+      "created": 1646116894648,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwwK8Bi",
+      "created": 1646116894648,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwwK8Bj",
+      "created": 1646116894648,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwwK8Bk",
+       "created": 1646116894648,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bl",
+       "created": 1646116894648,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bm",
+       "created": 1646116894648,
+       "text": "【崇寧藏】No.1402《佛說勝軍王所問經》 卷數：1 千字文：丁(560)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bn",
+       "created": 1646116894648,
+       "text": "【毘盧藏】No.1398《佛說勝軍王所問經》宋施護譯 千字文：丁(560)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bo",
+       "created": 1646116894648,
+       "text": "【圓覺藏】No.1401《勝軍王所問經》 千字文：奄(537)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bp",
+       "created": 1646116894648,
+       "text": "【趙城金藏】No.1415《勝軍王所問經》 卷數：1 千字文：曲"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bq",
+       "created": 1646116894648,
+       "text": "【資福藏】No.1406《佛說勝軍王所問經》 卷數：1 千字文：奄(537)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Br",
+       "created": 1646116894648,
+       "text": "【磧砂藏】No.1407《佛說勝軍王所問經》宋 施護譯 部別： / 冊數：34 / 頁數：635 / 卷數：1 千字文：奄 7 (537)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bs",
+       "created": 1646116894648,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bt",
+       "created": 1646116894648,
+       "text": "【高麗藏】No.1417《勝軍王所問經》施護譯 部別：宋續入藏經 / 冊數：40 頁數：87 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：約"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bu",
+       "created": 1646116894648,
+       "text": "【普寧藏】No.1398《佛說勝軍王所問經》 卷數：1 千字文：奄(537)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bv",
+       "created": 1646116894648,
+       "text": "【至元錄】No.1139《勝軍王所問經》宋比印土三藏施護譯 梵名：阿唎亞阿羅扎　阿哇達哥　拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：夫(333)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bw",
+       "created": 1646116894648,
+       "text": "【洪武南藏】No.1252《勝軍王所問經》西天譯經三藏朝奉大夫試鴻臚卿傳法大師臣施護 奉詔譯 冊數：190 / 頁數：294 / 卷數：1 千字文：奄 7 (537)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bx",
+       "created": 1646116894648,
+       "text": "【永樂南藏】No.1027《佛說勝軍王所問經》 部別：宋元入藏諸大小乘經 千字文：淵(277)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8By",
+       "created": 1646116894648,
+       "text": "【永樂北藏】No.1020《佛說勝軍王所問經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：71 / 頁數：57 / 卷數：1 千字文：斯"
+      }},
+      {"data": {
+       "id": "z5cYwwK8Bz",
+       "created": 1646116894648,
+       "text": "【嘉興藏】No.982《勝軍王所問經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0982 千字文 / 函號：［正藏］ 斯(267)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C0",
+       "created": 1646116894648,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C1",
+       "created": 1646116894648,
+       "text": "【乾隆藏】No.983《佛說勝軍王所問經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：60 / 頁數：1 / 卷數：1 千字文：斯"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C2",
+       "created": 1646116894648,
+       "text": "【縮刻藏】No.298《佛說勝軍王所問經》宋施護譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 6 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C3",
+       "created": 1646116894648,
+       "text": "【卍正藏】No.992《佛說勝軍王所問經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：924 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C4",
+       "created": 1646116894648,
+       "text": "【大正藏】No.516《佛說勝軍王所問經》宋 施護譯 部別：經集部一 / 冊數：14 / 頁數：789 / 卷數：1 相關經典：縮-宙6,卍-15.10 參考資料：Nos.514,515"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C5",
+       "created": 1646116894648,
+       "text": "【佛教大藏經】No.301《佛說勝軍王所問經》宋 施護譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：150 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C6",
+       "created": 1646116894648,
+       "text": "【中華藏】No.1541《佛說勝軍王所問經》西天譯經三藏朝奉大夫試鴻臚卿傳法大師施護奉詔譯 冊數：67 / 頁數：278 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C7",
+       "created": 1646116894648,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C8",
+       "created": 1646116894648,
+       "text": "【南條文雄編號】 Nj. 0988"
+      }},
+      {"data": {
+       "id": "z5cYwwK8C9",
+       "created": 1646116894648,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：516"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwvsga",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

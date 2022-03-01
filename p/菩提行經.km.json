@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "菩提行經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxqTOU7",
+    "created": 1646116898129,
+    "text": "現藏錄（龍樹菩薩集頌　宋 天息災譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxqTOTA",
+      "created": 1646116898129,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxqTOTB",
+        "created": 1646116898129,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqTOTC",
+        "created": 1646116898129,
+        "text": "菩提行經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqTOTD",
+        "created": 1646116898129,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqTOTE",
+        "created": 1646116898129,
+        "text": "菩提行经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqTOTF",
+        "created": 1646116898129,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqTOTG",
+        "created": 1646116898129,
+        "text": "pu ti xing jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqTOTP",
+        "created": 1646116898129,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqTOTQ",
+        "created": 1646116898129,
+        "text": "P'u t'i hsing ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqTOTR",
+        "created": 1646116898129,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqTOTS",
+        "created": 1646116898129,
+        "text": "Bodhi(sattva)caryāvatāra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqTOTT",
+        "created": 1646116898129,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqTOTU",
+        "created": 1646116898129,
+        "text": "Byaṅ-chub-sems-dpaḥi spyod-pa-la ḥjug-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxqTOTV",
+        "created": 1646116898129,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxqTOTW",
+        "created": 1646116898129,
+        "text": "보리행경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqTOTH",
+      "created": 1646116898129,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqTOTI",
+      "created": 1646116898129,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqTOTJ",
+      "created": 1646116898129,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqTOTK",
+       "created": 1646116898129,
+       "text": "龍樹菩薩集頌　宋 天息災譯"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTL",
+       "created": 1646116898129,
+       "text": "天息災",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxqTOTM",
+       "created": 1646116898129,
+       "text": "龍樹",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqTOTN",
+      "created": 1646116898129,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqTOTO",
+      "created": 1646116898129,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqTOTX",
+      "created": 1646116898129,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqTOTY",
+      "created": 1646116898129,
+      "text": "Translation by T'ien Hsi-tsai: (see K.1118)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqTOTZ",
+      "created": 1646116898129,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqTOTa",
+       "created": 1646116898129,
+       "text": "【北京版】Mdo-ḥgrel (Dbu-ma) (la)1-45a(mo)300b-304a"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTb",
+       "created": 1646116898129,
+       "text": "【奈塘版】Mdo-ḥgrel (la)1-38b(mo)293b-297a"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTc",
+       "created": 1646116898129,
+       "text": "【德格版】Dbu-ma (la)1b-40a(ño)312a-315a"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTd",
+       "created": 1646116898129,
+       "text": "【卓尼版】Dbu-ma (la)1b-39a(ño)315b-318a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxqTOTe",
+      "created": 1646116898129,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxqTOTf",
+      "created": 1646116898129,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxqTOTg",
+      "created": 1646116898129,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxqTOTh",
+       "created": 1646116898129,
+       "text": "【房山石經】No.890《菩提行經》西天中印度惹爛馱羅國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：26 / 頁數：69 / 卷數：4 / 刻經年代：皇統二年刻石 / 瀏覽：目錄圖檔 千字文：尹"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTi",
+       "created": 1646116898129,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTj",
+       "created": 1646116898129,
+       "text": "【崇寧藏】No.1120《菩提行經》 卷數：4 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTk",
+       "created": 1646116898129,
+       "text": "【毘盧藏】No.1120《菩提行經》沙門天息災譯 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTl",
+       "created": 1646116898129,
+       "text": "【圓覺藏】No.1130《菩提行經》 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTm",
+       "created": 1646116898129,
+       "text": "【趙城金藏】No.1122《菩提行經》 卷數：4 千字文：書"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTn",
+       "created": 1646116898129,
+       "text": "【資福藏】No.1134《菩提行經》 卷數：4 (四卷) 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTo",
+       "created": 1646116898129,
+       "text": "【磧砂藏】No.1145《菩提行經》宋 天息災譯 部別： / 冊數：32 / 頁數：627 / 卷數：4 千字文：槐 6 (495)-槐 9 (495)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTp",
+       "created": 1646116898129,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTq",
+       "created": 1646116898129,
+       "text": "【高麗藏】No.1121《菩提行經》西天三藏沙門天息災譯 部別：宋續入藏經 / 冊數：33 頁數：996 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：書"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTr",
+       "created": 1646116898129,
+       "text": "【普寧藏】No.1135《菩提行經》 卷數：4 千字文：槐(495)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTs",
+       "created": 1646116898129,
+       "text": "【至元錄】No.1499《菩提行經》龍樹菩薩造　宋天竺三藏天息災譯 卷數：4 / 譯次：(單本) 千字文：公(546)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTt",
+       "created": 1646116898129,
+       "text": "【洪武南藏】No.1000《菩提行經》西天中印度惹爛䭾囉國密林寺三藏明教大師賜紫沙門天息災 奉詔譯 冊數：179 / 頁數：333 / 卷數：4 千字文：槐 6 (495)-槐 9 (495)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTu",
+       "created": 1646116898129,
+       "text": "【永樂南藏】No.1141《菩提行經》 部別：西土聖賢撰集 千字文：甚(302)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTv",
+       "created": 1646116898129,
+       "text": "【永樂北藏】No.1412《菩提行經》宋天息灾譯 部別：西土聖賢撰集 / 冊數：130 / 頁數：435 / 卷數：4 千字文：亦"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTw",
+       "created": 1646116898129,
+       "text": "【嘉興藏】No.1346《菩提行經》宋天息灾譯 部別：西土聖賢撰集 / 法寶總目錄經號：1345 千字文 / 函號：［正藏］ 亦(477)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTx",
+       "created": 1646116898129,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTy",
+       "created": 1646116898129,
+       "text": "【乾隆藏】No.1347《菩提行經》龍樹集頌　(宋)天息災譯 部別：西土聖賢撰集 / 冊數：107 / 頁數：183 / 卷數：4 千字文：亦"
+      }},
+      {"data": {
+       "id": "z5cYxqTOTz",
+       "created": 1646116898129,
+       "text": "【縮刻藏】No.964《菩提行經》聖龍樹菩薩集頌　宋天息災譯 部別：印度大乘宗經論 / 卷數：4 千字文：暑 7 (19)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOU0",
+       "created": 1646116898129,
+       "text": "【卍正藏】No.1361《菩提行經》天息災譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：474 / 卷數：4 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYxqTOU1",
+       "created": 1646116898129,
+       "text": "【大正藏】No.1662《菩提行經》龍樹菩薩集頌 宋 天息災譯 部別：論集部全 / 冊數：32 / 頁數：543 / 卷數：4 相關經典：縮-暑7,卍-26.8,國-論6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxqTOU2",
+       "created": 1646116898129,
+       "text": "【佛教大藏經】No.1007《菩提行經》宋 天息災譯 部別：大乘宗經論 論部四 / 冊數：38 / 頁數：422 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYxqTOU3",
+       "created": 1646116898129,
+       "text": "【中華藏】No.1232《菩提行經》聖龍樹菩薩集頌，西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：63 / 頁數：913 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxqTOU4",
+       "created": 1646116898129,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxqTOU5",
+       "created": 1646116898129,
+       "text": "【南條文雄編號】 Nj. 1354"
+      }},
+      {"data": {
+       "id": "z5cYxqTOU6",
+       "created": 1646116898129,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1662"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzkg1dt",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

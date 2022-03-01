@@ -1,0 +1,660 @@
+{
+ "root": {
+  "data": {"text": "大雲輪請雨經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxJxEvo",
+     "created": 1646116896113,
+     "text": "現藏錄（唐 不空譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxJxEuv",
+       "created": 1646116896113,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxJxEuw",
+         "created": 1646116896113,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxJxEux",
+         "created": 1646116896113,
+         "text": "大雲輪請雨經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxJxEuy",
+         "created": 1646116896113,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxJxEuz",
+         "created": 1646116896113,
+         "text": "大云轮请雨经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxJxEv0",
+         "created": 1646116896113,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxJxEv1",
+         "created": 1646116896113,
+         "text": "da yun lun qing yu jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxJxEvA",
+         "created": 1646116896113,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxJxEvB",
+         "created": 1646116896113,
+         "text": "Ta yün lun ch'ing yü ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxJxEvC",
+         "created": 1646116896113,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxJxEvD",
+         "created": 1646116896113,
+         "text": "Mahāmeghasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxJxEvE",
+         "created": 1646116896113,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxJxEvF",
+         "created": 1646116896113,
+         "text": "Sprin chen-po"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxJxEvG",
+         "created": 1646116896113,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxJxEvH",
+         "created": 1646116896113,
+         "text": "대운륜청우경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxJxEv2",
+       "created": 1646116896113,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxJxEv3",
+       "created": 1646116896113,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxJxEv4",
+       "created": 1646116896113,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxJxEv5",
+        "created": 1646116896113,
+        "text": "唐 不空譯"
+       }},
+       {"data": {
+        "id": "z5cYxJxEv6",
+        "created": 1646116896113,
+        "text": "不空",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxJxEv7",
+        "created": 1646116896113,
+        "text": "那連提舍",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxJxEv8",
+       "created": 1646116896113,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxJxEv9",
+       "created": 1646116896113,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxJxEvI",
+       "created": 1646116896113,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxJxEvJ",
+       "created": 1646116896113,
+       "text": "Translation by Amoghavajra: (see K.1273)."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxJxEvK",
+      "created": 1646116896113,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxJxEvL",
+       "created": 1646116896113,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxJxEvM",
+       "created": 1646116896113,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxJxEvN",
+       "created": 1646116896113,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxJxEvO",
+        "created": 1646116896113,
+        "text": "【房山石經】No.782《大雲輪請雨經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：106 / 卷數：2 / 刻經年代：天眷元年刻石 / 瀏覽：目錄圖檔 千字文：路"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvP",
+        "created": 1646116896113,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvQ",
+        "created": 1646116896113,
+        "text": "【崇寧藏】No.1363《大雲輪請雨經》 卷數：2 千字文：說(557)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvR",
+        "created": 1646116896113,
+        "text": "【毘盧藏】No.1361《大雲輪請雨經》唐不空譯 參考年代：(政和元．正) 千字文：說(557)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvS",
+        "created": 1646116896113,
+        "text": "【圓覺藏】No.1361《大雲輪請雨經》 千字文：時(534)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvT",
+        "created": 1646116896113,
+        "text": "【趙城金藏】No.1307《大雲輪請雨經》 卷數：2 千字文：駕"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvU",
+        "created": 1646116896113,
+        "text": "【資福藏】No.1365《大雲輪請雨經》 卷數：2 (二卷) 千字文：時(534)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvV",
+        "created": 1646116896113,
+        "text": "【磧砂藏】No.1369《大雲輪請雨經》唐 不空譯 部別： / 冊數：34 / 頁數：471 / 卷數：2 千字文：時 4 (534)-時 5 (534)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvW",
+        "created": 1646116896113,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvX",
+        "created": 1646116896113,
+        "text": "【高麗藏】No.1294《大雲輪請雨經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：36 頁數：910 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：時"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvY",
+        "created": 1646116896113,
+        "text": "【普寧藏】No.1360《大雲輪請雨經》 卷數：2 千字文：時(534)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvZ",
+        "created": 1646116896113,
+        "text": "【至元錄】No.247《大雲輪請雨經》宋天竺三藏大廣智不空譯 卷數：2 / 譯次：(第四譯) 千字文：貞(163)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEva",
+        "created": 1646116896113,
+        "text": "【洪武南藏】No.1217《大雲輪請雨經》特進試鴻臚卿大興善寺三藏沙門大廣智不空 奉詔譯 冊數：189 / 頁數：339 / 卷數：2 千字文：時 4 (534)-時 5 (534)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvb",
+        "created": 1646116896113,
+        "text": "【永樂南藏】No.1007《大雲輪請雨經》 部別：宋元入藏諸大小乘經 千字文：不(275)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvc",
+        "created": 1646116896113,
+        "text": "【永樂北藏】No.1002《大雲輪請雨經》唐不空譯 部別：宋元入藏諸大小乘經 / 冊數：70 / 頁數：273 / 卷數：0 千字文：清"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvd",
+        "created": 1646116896113,
+        "text": "【嘉興藏】No.964《大雲輪請雨經》唐不空譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0964 千字文 / 函號：［正藏］ 清(264)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEve",
+        "created": 1646116896113,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvf",
+        "created": 1646116896113,
+        "text": "【乾隆藏】No.965《大雲輪請雨經》唐 不空譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：277 / 卷數：2 千字文：清"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvg",
+        "created": 1646116896113,
+        "text": "【縮刻藏】No.1164《大雲輪請雨經》唐不空譯 部別：祕密部 / 卷數：2 千字文： 6 (25)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvh",
+        "created": 1646116896113,
+        "text": "【卍正藏】No.974《大雲輪請雨經》不空譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：608 / 卷數：2 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvi",
+        "created": 1646116896113,
+        "text": "【大正藏】No.989《大雲輪請雨經》唐 不空譯 部別：密教部二 / 冊數：19 / 頁數：484 / 卷數：2 相關經典：縮-閏6,卍-15.9 參考資料：Nos.991-993"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvj",
+        "created": 1646116896113,
+        "text": "【佛教大藏經】No.1234《大雲輪請雨經》唐 不空譯 部別：密教部一 / 冊數：52 / 頁數：1157 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvk",
+        "created": 1646116896113,
+        "text": "【中華藏】No.1419《大雲輪請雨經》大興善寺三藏沙門不空奉詔譯 冊數：65 / 頁數：576 / 卷數：2 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvl",
+        "created": 1646116896113,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvm",
+        "created": 1646116896113,
+        "text": "【南條文雄編號】 Nj. 0970"
+       }},
+       {"data": {
+        "id": "z5cYxJxEvn",
+        "created": 1646116896113,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：989"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxK2ExO",
+     "created": 1646116896118,
+     "text": "現藏錄（隋 那連提耶舍譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxK1EwV",
+       "created": 1646116896117,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxK1EwW",
+         "created": 1646116896117,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxK1EwX",
+         "created": 1646116896117,
+         "text": "大雲輪請雨經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxK1EwY",
+         "created": 1646116896117,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxK1EwZ",
+         "created": 1646116896117,
+         "text": "大云轮请雨经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxK1Ewa",
+         "created": 1646116896117,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxK1Ewb",
+         "created": 1646116896117,
+         "text": "da yun lun qing yu jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxK1Ewk",
+         "created": 1646116896117,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxK1Ewl",
+         "created": 1646116896117,
+         "text": "Ta yün lun ch'ing yü ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxK1Ewm",
+         "created": 1646116896117,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxK1Ewn",
+         "created": 1646116896117,
+         "text": "Mahāmeghasūtra"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxK1Ewo",
+         "created": 1646116896117,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxK1Ewp",
+         "created": 1646116896117,
+         "text": "Sprin chen-po"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxK1Ewq",
+         "created": 1646116896117,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxK1Ewr",
+         "created": 1646116896117,
+         "text": "대운륜청우경"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxK1Ewc",
+       "created": 1646116896117,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxK1Ewd",
+       "created": 1646116896117,
+       "text": "隋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxK1Ewe",
+       "created": 1646116896117,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxK1Ewf",
+        "created": 1646116896117,
+        "text": "隋 那連提耶舍譯"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ewg",
+        "created": 1646116896117,
+        "text": "不空"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ewh",
+        "created": 1646116896117,
+        "text": "那連提舍"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxK1Ewi",
+       "created": 1646116896117,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxK1Ewj",
+       "created": 1646116896117,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxK1Ews",
+       "created": 1646116896117,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxK1Ewt",
+       "created": 1646116896117,
+       "text": "Translation by Narendrayaśas: 1st month, 5th year of K'ai Huang (開皇), Sui dynasty (隋) (A.D. 585).T. 2154-547c:17."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxK1Ewu",
+      "created": 1646116896117,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxK1Ewv",
+       "created": 1646116896117,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxK1Eww",
+       "created": 1646116896117,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxK1Ewx",
+       "created": 1646116896117,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxK1Ewy",
+        "created": 1646116896117,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ewz",
+        "created": 1646116896117,
+        "text": "【開寶藏】No.167《大雲輪請雨經》隋 天竺三藏那連提耶舍 譯 部別：大乘經 五大部外諸重譯經 / 卷數：2 千字文：大"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex0",
+        "created": 1646116896117,
+        "text": "【崇寧藏】No.168《大雲輪請雨經》 卷數：2 千字文：五(151)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex1",
+        "created": 1646116896117,
+        "text": "【毘盧藏】No.163《大雲輪請雨經》隋那連提耶舍譯 參考年代：(靖康元．十一) 千字文：五(151)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex2",
+        "created": 1646116896117,
+        "text": "【圓覺藏】No.165《大雲輪請雨經》 卷數：1 千字文：五(151)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex3",
+        "created": 1646116896117,
+        "text": "【趙城金藏】No.166《大雲輪請雨經》 卷數：2 千字文：大"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex4",
+        "created": 1646116896117,
+        "text": "【資福藏】No.169《大雲輪請雨經》 卷數：2 (二卷) 千字文：五(151)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex5",
+        "created": 1646116896117,
+        "text": "【磧砂藏】No.169《大雲輪請雨經》隋 那連提耶舍譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：583 / 卷數：2 千字文：五 6 (151)-五 7 (151)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex6",
+        "created": 1646116896117,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex7",
+        "created": 1646116896117,
+        "text": "【高麗藏】No.166《大雲輪請雨經》隋天竺三藏那連提耶舍譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：1133 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：大"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex8",
+        "created": 1646116896117,
+        "text": "【普寧藏】No.164《大雲輪請雨經》 卷數：2 千字文：五(151)"
+       }},
+       {"data": {
+        "id": "z5cYxK1Ex9",
+        "created": 1646116896117,
+        "text": "【至元錄】No.245《大雲輪請雨經》隋天竺三藏那連提耶舍譯 卷數：2 / 譯次：(第二譯) 千字文：貞(163)"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExA",
+        "created": 1646116896117,
+        "text": "【洪武南藏】No.152《大雲輪請雨經》隋 天竺三藏法師那連提耶捨 冊數：51 / 頁數：484 / 卷數：2 千字文：五 6 (151)-五 7 (151)"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExB",
+        "created": 1646116896117,
+        "text": "【永樂南藏】No.177《大雲輪請雨經》 部別：大乘經-五大部外重譯經 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExC",
+        "created": 1646116896117,
+        "text": "【永樂北藏】No.212《大雲輪請雨經》隋那連提耶舍譯 部別：大乘經五大部外重譯經 / 冊數：42 / 頁數：31 / 卷數：2 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExD",
+        "created": 1646116896117,
+        "text": "【嘉興藏】No.183《大雲輪請雨經》隋那連提耶舍譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0183 千字文 / 函號：［正藏］ 毀(159)"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExE",
+        "created": 1646116896117,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExF",
+        "created": 1646116896117,
+        "text": "【乾隆藏】No.184《大雲輪請雨經》隋 那連提耶舍譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：129 / 卷數：2 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExG",
+        "created": 1646116896117,
+        "text": "【縮刻藏】No.1458《大雲輪請雨經》隋那連提耶舍譯 部別：祕密部 / 卷數：2 千字文：成 6 (27)"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExH",
+        "created": 1646116896117,
+        "text": "【卍正藏】No.186《大雲輪請雨經》隋 那連提耶舍譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：391 / 卷數：2 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYxK1ExI",
+        "created": 1646116896117,
+        "text": "【大正藏】No.991《大雲輪請雨經》隋 那連提耶舍譯 部別：密教部二 / 冊數：19 / 頁數：493 / 卷數：2 相關經典：縮-成6,卍-10.3 參考資料：Nos.989,992,993"
+       }},
+       {"data": {
+        "id": "z5cYxK2ExJ",
+        "created": 1646116896118,
+        "text": "【佛教大藏經】No.1533《大雲輪請雨經》隋 那連提耶舍譯 部別：密教部六 / 冊數：57 / 頁數：21 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYxK2ExK",
+        "created": 1646116896118,
+        "text": "【中華藏】No.175《大雲輪請雨經》隋天竺三藏那連提耶舍譯 冊數：18 / 頁數：70 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxK2ExL",
+        "created": 1646116896118,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxK2ExM",
+        "created": 1646116896118,
+        "text": "【南條文雄編號】 Nj. 0188"
+       }},
+       {"data": {
+        "id": "z5cYxK2ExN",
+        "created": 1646116896118,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：991"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhy0gu2",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

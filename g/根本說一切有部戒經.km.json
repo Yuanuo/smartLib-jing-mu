@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "根本說一切有部戒經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxg2LPy",
+    "created": 1646116897482,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxg2LP1",
+      "created": 1646116897482,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxg2LP2",
+        "created": 1646116897482,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxg2LP3",
+        "created": 1646116897482,
+        "text": "根本說一切有部戒經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxg2LP4",
+        "created": 1646116897482,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxg2LP5",
+        "created": 1646116897482,
+        "text": "根本说一切有部戒经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxg2LP6",
+        "created": 1646116897482,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxg2LP7",
+        "created": 1646116897482,
+        "text": "gen ben shuo yi qie you bu jie jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxg2LPF",
+        "created": 1646116897482,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxg2LPG",
+        "created": 1646116897482,
+        "text": "Ken pen shuo i ch'ieh yu pu chieh ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxg2LPH",
+        "created": 1646116897482,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxg2LPI",
+        "created": 1646116897482,
+        "text": "(Mūlasarvāstīvāda)Pratimokṣasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxg2LPJ",
+        "created": 1646116897482,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxg2LPK",
+        "created": 1646116897482,
+        "text": "So-sor than-baḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxg2LPL",
+        "created": 1646116897482,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxg2LPM",
+        "created": 1646116897482,
+        "text": "근본설일체유부계경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxg2LP8",
+      "created": 1646116897482,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxg2LP9",
+      "created": 1646116897482,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxg2LPA",
+      "created": 1646116897482,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxg2LPB",
+       "created": 1646116897482,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPC",
+       "created": 1646116897482,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxg2LPD",
+      "created": 1646116897482,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxg2LPE",
+      "created": 1646116897482,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxg2LPN",
+      "created": 1646116897482,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxg2LPO",
+      "created": 1646116897482,
+      "text": "Translation by I-ching: 4th year of Ching Lung (景龍), T'ang dynasty (唐) (A.D. 710) in the Sūtra Translation Hall (翻經院), Ta-chien-fu Monastery (大薦福寺).T. 2154-568a:8."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxg2LPP",
+      "created": 1646116897482,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxg2LPQ",
+       "created": 1646116897482,
+       "text": "【北京版】Ḥdul-ba (che)1-18b"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPR",
+       "created": 1646116897482,
+       "text": "【奈塘版】Ḥdul-ba (ca)1-30b"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPS",
+       "created": 1646116897482,
+       "text": "【德格版】Ḥdul-ba (ca)1b-20b"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPT",
+       "created": 1646116897482,
+       "text": "【拉薩版】Ḥdul-ba (ca)1b-30a"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPU",
+       "created": 1646116897482,
+       "text": "【卓尼版】Ḥdul-ba (ca)1b-30b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxg2LPV",
+      "created": 1646116897482,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxg2LPW",
+      "created": 1646116897482,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxg2LPX",
+      "created": 1646116897482,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxg2LPY",
+       "created": 1646116897482,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPZ",
+       "created": 1646116897482,
+       "text": "【開寶藏】No.896《根本說一切有部戒經》唐 三藏義淨 譯 部別：小乘律 聲聞調伏藏 / 卷數：1 千字文：受"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPa",
+       "created": 1646116897482,
+       "text": "【崇寧藏】No.899《根本說一切有部戒經》 卷數：1 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPb",
+       "created": 1646116897482,
+       "text": "【毘盧藏】No.900《根本說一切有部戒經》唐義淨譯 參考年代：(紹興八．三) 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPc",
+       "created": 1646116897482,
+       "text": "【圓覺藏】No.909《根本說一切有部戒經》 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPd",
+       "created": 1646116897482,
+       "text": "【趙城金藏】No.900《根本說一切有部戒經》 卷數：1 千字文：隨"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPe",
+       "created": 1646116897482,
+       "text": "【資福藏】No.915《根本說一切有部戒經》 卷數：1 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPf",
+       "created": 1646116897482,
+       "text": "【磧砂藏】No.923《根本說一切有部戒經》唐 義淨譯 部別： / 冊數：22 / 頁數：386 / 卷數：1 千字文：外 5 (337)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPg",
+       "created": 1646116897482,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPh",
+       "created": 1646116897482,
+       "text": "【高麗藏】No.898《根本說一切有部戒經》三藏法師義淨譯 部別：小乘律 / 冊數：23 頁數：654 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：隨"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPi",
+       "created": 1646116897482,
+       "text": "【普寧藏】No.915《根本說一切有部戒經》 卷數：1 千字文：外(337)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPj",
+       "created": 1646116897482,
+       "text": "【至元錄】No.1219《根本說一切有部戒經》唐天后代三藏義淨譯 卷數：1 千字文：離(376)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPk",
+       "created": 1646116897482,
+       "text": "【洪武南藏】No.825《根本說一切有部戒經》唐 三藏法師義淨 奉制譯 冊數：120 / 頁數：194 / 卷數：1 千字文：外 5 (337)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPl",
+       "created": 1646116897482,
+       "text": "【永樂南藏】No.1263《根本說一切有部戒經》 部別：小乘律 千字文：隨(336)-傅(339)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPm",
+       "created": 1646116897482,
+       "text": "【永樂北藏】No.1142《根本說一切有部戒經》唐義淨譯 部別：小乘律 / 冊數：77 / 頁數：461 / 卷數：1 千字文：初"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPn",
+       "created": 1646116897482,
+       "text": "【嘉興藏】No.1104《根本說一切有部戒經》唐義淨譯 部別：小乘律 / 法寶總目錄經號：1103 千字文 / 函號：［正藏］ 初(290)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPo",
+       "created": 1646116897482,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPp",
+       "created": 1646116897482,
+       "text": "【乾隆藏】No.1105《根本說一切有部戒經》唐 義淨譯 部別：小乘律 / 冊數：65 / 頁數：123 / 卷數：1 千字文：初"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPq",
+       "created": 1646116897482,
+       "text": "【縮刻藏】No.836《根本說一切有部戒經》唐義淨譯 部別：小乘律 / 卷數：1 千字文：寒 5 (17)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPr",
+       "created": 1646116897482,
+       "text": "【卍正藏】No.1115《根本說一切有部戒經》義淨譯 部別：小乘律 / 冊數：31 / 頁數：528 / 卷數：1 原版套數：第 17 套"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPs",
+       "created": 1646116897482,
+       "text": "【大正藏】No.1454《根本說一切有部戒經》唐 義淨譯 部別：律部三 / 冊數：24 / 頁數：500 / 卷數：1 相關經典：縮-寒5,卍-17.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxg2LPt",
+       "created": 1646116897482,
+       "text": "【佛教大藏經】No.872《根本說一切有部戒經》唐 義淨譯 部別：小乘律 律部五 / 冊數：33 / 頁數：938 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPu",
+       "created": 1646116897482,
+       "text": "【中華藏】No.975《根本說一切有部戒經》三藏法師義淨奉制譯 冊數：41 / 頁數：150 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPv",
+       "created": 1646116897482,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPw",
+       "created": 1646116897482,
+       "text": "【南條文雄編號】 Nj. 1110"
+      }},
+      {"data": {
+       "id": "z5cYxg2LPx",
+       "created": 1646116897482,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1454"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz2i17x",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "六門陀羅尼經論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxbGK2a",
+    "created": 1646116897186,
+    "text": "現藏錄（世親菩薩造）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxbFK1v",
+      "created": 1646116897185,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxbFK1w",
+        "created": 1646116897185,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbFK1x",
+        "created": 1646116897185,
+        "text": "六門陀羅尼經論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbFK1y",
+        "created": 1646116897185,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbFK1z",
+        "created": 1646116897185,
+        "text": "六门陀罗尼经论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxbFK20",
+        "created": 1646116897185,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxbFK21",
+        "created": 1646116897185,
+        "text": "liu men tuo luo ni jing lun"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbFK22",
+      "created": 1646116897185,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbFK23",
+      "created": 1646116897185,
+      "text": "",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbFK24",
+      "created": 1646116897185,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbGK25",
+       "created": 1646116897186,
+       "text": "世親菩薩造"
+      }},
+      {"data": {
+       "id": "z5cYxbGK26",
+       "created": 1646116897186,
+       "text": "世親",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxbGK27",
+      "created": 1646116897186,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxbGK28",
+      "created": 1646116897186,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxbGK29",
+      "created": 1646116897186,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxbGK2A",
+       "created": 1646116897186,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2B",
+       "created": 1646116897186,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2C",
+       "created": 1646116897186,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2D",
+       "created": 1646116897186,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2E",
+       "created": 1646116897186,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2F",
+       "created": 1646116897186,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2G",
+       "created": 1646116897186,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2H",
+       "created": 1646116897186,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2I",
+       "created": 1646116897186,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2J",
+       "created": 1646116897186,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2K",
+       "created": 1646116897186,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2L",
+       "created": 1646116897186,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2M",
+       "created": 1646116897186,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2N",
+       "created": 1646116897186,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2O",
+       "created": 1646116897186,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2P",
+       "created": 1646116897186,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2Q",
+       "created": 1646116897186,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2R",
+       "created": 1646116897186,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2S",
+       "created": 1646116897186,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2T",
+       "created": 1646116897186,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2U",
+       "created": 1646116897186,
+       "text": "【大正藏】No.1361《六門陀羅尼經論》世親菩薩造 部別：密教部四 / 冊數：21 / 頁數：878 / 卷數：1 相關經典： 參考資料：cf.No.1360"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2V",
+       "created": 1646116897186,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2W",
+       "created": 1646116897186,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2X",
+       "created": 1646116897186,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2Y",
+       "created": 1646116897186,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxbGK2Z",
+       "created": 1646116897186,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1361"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyu9154",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

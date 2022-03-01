@@ -1,0 +1,357 @@
+{
+ "root": {
+  "data": {"text": "施設論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxjvMeQ",
+    "created": 1646116897723,
+    "text": "現藏錄（宋 法護等譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxjvMdU",
+      "created": 1646116897723,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxjvMdV",
+        "created": 1646116897723,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjvMdW",
+        "created": 1646116897723,
+        "text": "施設論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjvMdX",
+        "created": 1646116897723,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjvMdY",
+        "created": 1646116897723,
+        "text": "施设论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjvMdZ",
+        "created": 1646116897723,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjvMda",
+        "created": 1646116897723,
+        "text": "shi she lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjvMdi",
+        "created": 1646116897723,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjvMdj",
+        "created": 1646116897723,
+        "text": "Shih she lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjvMdk",
+        "created": 1646116897723,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjvMdl",
+        "created": 1646116897723,
+        "text": "Prajñaptiśāstra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjvMdm",
+        "created": 1646116897723,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjvMdn",
+        "created": 1646116897723,
+        "text": "Rgyu gdags-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxjvMdo",
+        "created": 1646116897723,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxjvMdp",
+        "created": 1646116897723,
+        "text": "시설론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxjvMdb",
+      "created": 1646116897723,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjvMdc",
+      "created": 1646116897723,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxjvMdd",
+      "created": 1646116897723,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxjvMde",
+       "created": 1646116897723,
+       "text": "宋 法護等譯"
+      }},
+      {"data": {
+       "id": "z5cYxjvMdf",
+       "created": 1646116897723,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxjvMdg",
+      "created": 1646116897723,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjvMdh",
+      "created": 1646116897723,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxjvMdq",
+      "created": 1646116897723,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjvMdr",
+      "created": 1646116897723,
+      "text": "Translation by Dharmarakṣa and others: (see K.1475)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxjvMds",
+      "created": 1646116897723,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxjvMdt",
+       "created": 1646116897723,
+       "text": "【北京版】Mdo-ḥgrel (Mṅon-pa) (khu)112a-208b"
+      }},
+      {"data": {
+       "id": "z5cYxjvMdu",
+       "created": 1646116897723,
+       "text": "【奈塘版】Mdo-ḥgrel (khu)107a-191a"
+      }},
+      {"data": {
+       "id": "z5cYxjvMdv",
+       "created": 1646116897723,
+       "text": "【德格版】Mṅon-pa (i)93a-172b"
+      }},
+      {"data": {
+       "id": "z5cYxjvMdw",
+       "created": 1646116897723,
+       "text": "【卓尼版】Mṅon-pa (i)94a-175a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxjvMdx",
+      "created": 1646116897723,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxjvMdy",
+      "created": 1646116897723,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxjvMdz",
+      "created": 1646116897723,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxjvMe0",
+       "created": 1646116897723,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe1",
+       "created": 1646116897723,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe2",
+       "created": 1646116897723,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe3",
+       "created": 1646116897723,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe4",
+       "created": 1646116897723,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe5",
+       "created": 1646116897723,
+       "text": "【趙城金藏】No.1482《施設論》 卷數：7 千字文：寔"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe6",
+       "created": 1646116897723,
+       "text": "【資福藏】No.1449《施設論》 卷數：7 (七卷) 千字文：約(587)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe7",
+       "created": 1646116897723,
+       "text": "【磧砂藏】No.1520《施設論》宋 法護等譯 部別： / 冊數：37 / 頁數：23 / 卷數：7 千字文：踐 9 (581)-踐 15 (581)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe8",
+       "created": 1646116897723,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMe9",
+       "created": 1646116897723,
+       "text": "【高麗藏】No.1484《施設論》法護譯 部別：宋續入藏經 / 冊數：41 頁數：217 / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：秦"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeA",
+       "created": 1646116897723,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeB",
+       "created": 1646116897723,
+       "text": "【至元錄】No.1429《施設論》失造人名　宋天竺三藏法護譯 梵名：必囉(二合)地　壓必(二合)地 / 卷數：7 / 出處：(今編入錄) 千字文：溪(530)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeC",
+       "created": 1646116897723,
+       "text": "【洪武南藏】No.1361《施設論》西天譯經三藏朝散大夫試光祿卿傳梵大師賜紫沙門臣法護 等奉詔譯 冊數：203 / 頁數：305 / 卷數：7 千字文：踐 9 (581)-踐 15 (581)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeD",
+       "created": 1646116897723,
+       "text": "【永樂南藏】No.1452《施設論》 部別：續入藏諸論 千字文：壁(487)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeE",
+       "created": 1646116897723,
+       "text": "【永樂北藏】No.1374《施設論》宋法護譯 部別：宋元續入藏諸論 / 冊數：126 / 頁數：757 / 卷數：7 千字文：通"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeF",
+       "created": 1646116897723,
+       "text": "【嘉興藏】No.1309《施設論》宋法護譯 部別：宋元續入藏諸論 / 法寶總目錄經號：1308 千字文 / 函號：［正藏］ 通(466)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeG",
+       "created": 1646116897723,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeH",
+       "created": 1646116897723,
+       "text": "【乾隆藏】No.1310《施設論》宋 法護等譯 部別：宋元續入藏諸論 / 冊數：104 / 頁數：391 / 卷數：7 千字文：通"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeI",
+       "created": 1646116897723,
+       "text": "【縮刻藏】No.1005《施設論》宋法護等譯 部別：印度小乘論 / 卷數：7 千字文：秋 4 (21)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeJ",
+       "created": 1646116897723,
+       "text": "【卍正藏】No.1324《施設論》法護等譯 部別：宋元續入藏諸論 / 冊數：49 / 頁數：154 / 卷數：7 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeK",
+       "created": 1646116897723,
+       "text": "【大正藏】No.1538《施設論》宋 法護等譯 部別：毘曇部一 / 冊數：26 / 頁數：514 / 卷數：7 相關經典：縮-秋4,卍-26.1,國-毘3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxjvMeL",
+       "created": 1646116897723,
+       "text": "【佛教大藏經】No.1049《施設論》宋 法護等譯 部別：小乘論 論部七 / 冊數：41 / 頁數：681 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeM",
+       "created": 1646116897723,
+       "text": "【中華藏】No.1626《施設論》西天譯經三藏朝散大夫試光祿卿傳梵大師賜紫沙門法護等奉詔譯 冊數：69 / 頁數：72 / 卷數：7 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeN",
+       "created": 1646116897723,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeO",
+       "created": 1646116897723,
+       "text": "【南條文雄編號】 Nj. 1317"
+      }},
+      {"data": {
+       "id": "z5cYxjvMeP",
+       "created": 1646116897723,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1538"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz971ac",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

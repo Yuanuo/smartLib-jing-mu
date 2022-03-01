@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "金剛頂經偈釋"},
+  "children": [{
+   "data": {
+    "id": "z5cYyCuVZu",
+    "created": 1646116899520,
+    "text": "現藏錄（日本 賴尊撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyCuVZF",
+      "created": 1646116899520,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyCuVZG",
+        "created": 1646116899520,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCuVZH",
+        "created": 1646116899520,
+        "text": "金剛頂經偈釋",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCuVZI",
+        "created": 1646116899520,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCuVZJ",
+        "created": 1646116899520,
+        "text": "金刚顶经偈释",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyCuVZK",
+        "created": 1646116899520,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyCuVZL",
+        "created": 1646116899520,
+        "text": "jin gang ding jing ji shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCuVZM",
+      "created": 1646116899520,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCuVZN",
+      "created": 1646116899520,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCuVZO",
+      "created": 1646116899520,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCuVZP",
+       "created": 1646116899520,
+       "text": "日本 賴尊撰"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZQ",
+       "created": 1646116899520,
+       "text": "賴尊",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyCuVZR",
+      "created": 1646116899520,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyCuVZS",
+      "created": 1646116899520,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyCuVZT",
+      "created": 1646116899520,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyCuVZU",
+       "created": 1646116899520,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZV",
+       "created": 1646116899520,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZW",
+       "created": 1646116899520,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZX",
+       "created": 1646116899520,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZY",
+       "created": 1646116899520,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZZ",
+       "created": 1646116899520,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZa",
+       "created": 1646116899520,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZb",
+       "created": 1646116899520,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZc",
+       "created": 1646116899520,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZd",
+       "created": 1646116899520,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZe",
+       "created": 1646116899520,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZf",
+       "created": 1646116899520,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZg",
+       "created": 1646116899520,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZh",
+       "created": 1646116899520,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZi",
+       "created": 1646116899520,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZj",
+       "created": 1646116899520,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZk",
+       "created": 1646116899520,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZl",
+       "created": 1646116899520,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZm",
+       "created": 1646116899520,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZn",
+       "created": 1646116899520,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZo",
+       "created": 1646116899520,
+       "text": "【大正藏】No.2224《金剛頂經偈釋》日本 賴尊撰 部別：續經疏部六 / 冊數：61 / 頁數：114 / 卷數：1 相關經典： 參考資料：cf.Nos.865,2221-2223,2225"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZp",
+       "created": 1646116899520,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZq",
+       "created": 1646116899520,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZr",
+       "created": 1646116899520,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZs",
+       "created": 1646116899520,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyCuVZt",
+       "created": 1646116899520,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2224"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0n41uy",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

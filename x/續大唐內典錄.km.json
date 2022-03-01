@@ -1,0 +1,337 @@
+{
+ "root": {
+  "data": {"text": "續大唐內典錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYy9eUYF",
+    "created": 1646116899318,
+    "text": "現藏錄（唐 道宣撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy9dUXM",
+      "created": 1646116899317,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy9dUXN",
+        "created": 1646116899317,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9dUXO",
+        "created": 1646116899317,
+        "text": "續大唐內典錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9dUXP",
+        "created": 1646116899317,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9dUXQ",
+        "created": 1646116899317,
+        "text": "续大唐内典录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9dUXR",
+        "created": 1646116899317,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9dUXS",
+        "created": 1646116899317,
+        "text": "xu da tang nei dian lu"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9dUXc",
+        "created": 1646116899317,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9dUXd",
+        "created": 1646116899317,
+        "text": "Hsü ta t'ang nei tien lu"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYy9dUXe",
+       "created": 1646116899317,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYy9dUXf",
+        "created": 1646116899317,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9dUXg",
+        "created": 1646116899317,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy9dUXh",
+        "created": 1646116899317,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy9dUXi",
+        "created": 1646116899317,
+        "text": "속대당내전록",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy9dUXT",
+      "created": 1646116899317,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9dUXU",
+      "created": 1646116899317,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9dUXV",
+      "created": 1646116899317,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy9dUXW",
+       "created": 1646116899317,
+       "text": "唐 道宣撰"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXX",
+       "created": 1646116899317,
+       "text": "西明寺釋氏",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy9dUXY",
+       "created": 1646116899317,
+       "text": "道宣",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYy9dUXZ",
+       "created": 1646116899317,
+       "text": "釋氏",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy9dUXa",
+      "created": 1646116899317,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9dUXb",
+      "created": 1646116899317,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9dUXj",
+      "created": 1646116899317,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9dUXk",
+      "created": 1646116899317,
+      "text": "274c, notes that the identification of Chih-sheng as the compiler of the text, as in the Sung edition, is an error. Shih-shih (釋氏) of Hsi-ming Monastery in the Korean colophon is probably another name for Tao-hsüan.T. 2154-363b:18 and footnote 26."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYy9dUXl",
+     "created": 1646116899317,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYy9dUXm",
+      "created": 1646116899317,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy9dUXn",
+      "created": 1646116899317,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy9dUXo",
+      "created": 1646116899317,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy9dUXp",
+       "created": 1646116899317,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXq",
+       "created": 1646116899317,
+       "text": "【開寶藏】No.1053《續大唐內典錄》唐 西崇福寺沙門釋智昇 撰 部別：賢聖傳記錄 此方撰述集傳 / 卷數：1 千字文：吹"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXr",
+       "created": 1646116899317,
+       "text": "【崇寧藏】No.1056《續大唐內典錄》 卷數：1 千字文：瑟(454)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXs",
+       "created": 1646116899317,
+       "text": "【毘盧藏】No.1056《續大唐內典錄》唐智昇撰 參考年代：(紹興一八．閏八) 千字文：瑟(454)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXt",
+       "created": 1646116899317,
+       "text": "【圓覺藏】No.1066《續大唐內典錄》 千字文：瑟(454)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXu",
+       "created": 1646116899317,
+       "text": "【趙城金藏】No.1063《大唐內典錄》 卷數：1 千字文：吹"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXv",
+       "created": 1646116899317,
+       "text": "【資福藏】No.1071《續大唐內典錄》 卷數：1 千字文：瑟(454)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXw",
+       "created": 1646116899317,
+       "text": "【磧砂藏】No.1081《續大唐內典錄》唐 道宣撰 部別： / 冊數：29 / 頁數：634 / 卷數：1 千字文：瑟 1 (454)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXx",
+       "created": 1646116899317,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXy",
+       "created": 1646116899317,
+       "text": "【高麗藏】No.1061《續大唐內典錄》麟德元年西明寺起手移總持寺釋氏撰 部別：賢聖傳記錄 此土撰述 / 冊數：31 頁數：958 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：吹"
+      }},
+      {"data": {
+       "id": "z5cYy9dUXz",
+       "created": 1646116899317,
+       "text": "【普寧藏】No.1072《續大唐內典錄》 卷數：1 千字文：瑟(454)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY0",
+       "created": 1646116899317,
+       "text": "【至元錄】No.1537《續大唐錄》唐西崇福寺沙門智昇撰 卷數：1 千字文：寧(568)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY1",
+       "created": 1646116899317,
+       "text": "【洪武南藏】No.941《續大唐內典錄》大唐 西明寺沙門釋道宣 撰 冊數：163 / 頁數：94 / 卷數：1 千字文：瑟 6 (454)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY2",
+       "created": 1646116899317,
+       "text": "【永樂南藏】No.1595《續大唐內典錄》 部別：此方撰述 千字文：并(616)-嶽(617)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY3",
+       "created": 1646116899317,
+       "text": "【永樂北藏】No.1549《大唐內典錄》唐道宣撰 部別：此土著述 / 冊數：142-143 / 頁數：721 / 卷數：16 千字文：侈-富"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY4",
+       "created": 1646116899317,
+       "text": "【嘉興藏】No.1475《大唐內典錄》唐道宣撰 部別：此土著述 / 法寶總目錄經號：1474 千字文 / 函號：［正藏］ 侈(515)-富(516)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY5",
+       "created": 1646116899317,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY6",
+       "created": 1646116899317,
+       "text": "【乾隆藏】No.1528《大唐內典錄》唐 釋道宣撰 部別：此土著述 / 冊數：122 / 頁數：31 / 卷數：15 千字文：阜微"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY7",
+       "created": 1646116899317,
+       "text": "【縮刻藏】No.1861《續大唐內典錄》唐道宣撰 部別：支那撰述-目錄部 / 卷數：1 千字文：結 2 (38)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY8",
+       "created": 1646116899317,
+       "text": "【卍正藏】No.1489《續大唐內典錄》西明寺釋氏撰 部別：此土著述 / 冊數：55 / 頁數：201 / 卷數：1 原版套數：第 29 套"
+      }},
+      {"data": {
+       "id": "z5cYy9dUY9",
+       "created": 1646116899317,
+       "text": "【大正藏】No.2150《續大唐內典錄》唐 道宣撰 部別：目錄部全 / 冊數：55 / 頁數：342 / 卷數：1 相關經典：縮-結2,卍-29.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy9dUYA",
+       "created": 1646116899317,
+       "text": "【佛教大藏經】No.2055《續大唐內典錄》唐 道宣撰 部別：目錄部一 / 冊數：80 / 頁數：462 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYy9dUYB",
+       "created": 1646116899317,
+       "text": "【中華藏】No.1153《續大唐內典錄》麟德元年於西明寺起首移總持寺釋氏撰畢 冊數：54 / 頁數：960 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy9dUYC",
+       "created": 1646116899317,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy9dUYD",
+       "created": 1646116899317,
+       "text": "【南條文雄編號】 Nj. 1483"
+      }},
+      {"data": {
+       "id": "z5cYy9dUYE",
+       "created": 1646116899317,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2150"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0hh1sd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

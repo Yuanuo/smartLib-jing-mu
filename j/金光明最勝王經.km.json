@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "金光明最勝王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx41ALe",
+    "created": 1646116895125,
+    "text": "現藏錄（唐 義淨譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx41AKh",
+      "created": 1646116895125,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx41AKi",
+        "created": 1646116895125,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx41AKj",
+        "created": 1646116895125,
+        "text": "金光明最勝王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx41AKk",
+        "created": 1646116895125,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx41AKl",
+        "created": 1646116895125,
+        "text": "金光明最胜王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx41AKm",
+        "created": 1646116895125,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx41AKn",
+        "created": 1646116895125,
+        "text": "jin guang ming zui sheng wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx41AKv",
+        "created": 1646116895125,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx41AKw",
+        "created": 1646116895125,
+        "text": "Chin kuang ming tsui sheng wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx41AKx",
+        "created": 1646116895125,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx41AKy",
+        "created": 1646116895125,
+        "text": "Suvarṇaprabhāsa(uttamarāja)sūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx41AKz",
+        "created": 1646116895125,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx41AL0",
+        "created": 1646116895125,
+        "text": "Gser-ḥod dam-pa mdo-sdeḥi dbaṅ-poḥi smon-lam"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx41AL1",
+        "created": 1646116895125,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx41AL2",
+        "created": 1646116895125,
+        "text": "금광명최승왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx41AKo",
+      "created": 1646116895125,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx41AKp",
+      "created": 1646116895125,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx41AKq",
+      "created": 1646116895125,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx41AKr",
+       "created": 1646116895125,
+       "text": "唐 義淨譯"
+      }},
+      {"data": {
+       "id": "z5cYx41AKs",
+       "created": 1646116895125,
+       "text": "義淨",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx41AKt",
+      "created": 1646116895125,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx41AKu",
+      "created": 1646116895125,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx41AL3",
+      "created": 1646116895125,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx41AL4",
+      "created": 1646116895125,
+      "text": "Translation by I-ching: 4th day, 10th month, 3rd year of Ch'ang An (長安), T'ang dynasty (唐) (November 17th, A.D. 703) in Hsi-ming Monastery (西明寺).T. 2154-567a:19."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx41AL5",
+      "created": 1646116895125,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx41AL6",
+       "created": 1646116895125,
+       "text": "【北京版】Rgyud(pa)20a-157a157a-283a(pha)1-63bMdo-hgrel (ṅo-tshar)(mo)293b-299a"
+      }},
+      {"data": {
+       "id": "z5cYx41AL7",
+       "created": 1646116895125,
+       "text": "【奈塘版】Rgyud(na)1-208b208b-385 , (kha-skon)11a-94bMdo-ḥgrel (mo)285b-291a"
+      }},
+      {"data": {
+       "id": "z5cYx41AL8",
+       "created": 1646116895125,
+       "text": "【德格版】Rgyud-ḥbum(pa)19a-151a151b-273a(pha)1b-62aSna-tshogs (ño)304b-309b"
+      }},
+      {"data": {
+       "id": "z5cYx41AL9",
+       "created": 1646116895125,
+       "text": "【拉薩版】Rgyud (da)1b-215b215b-405b405b-504a"
+      }},
+      {"data": {
+       "id": "z5cYx41ALA",
+       "created": 1646116895125,
+       "text": "【卓尼版】Rgyud(pa)23b-182a182a-312a(pha)1b-69bSna-tshogs (ño)307b-313a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx41ALB",
+      "created": 1646116895125,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx41ALC",
+      "created": 1646116895125,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx41ALD",
+      "created": 1646116895125,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx41ALE",
+       "created": 1646116895125,
+       "text": "【房山石經】No.76《金光明最勝王經》(大唐)三藏沙門義淨奉制譯 冊數：2 / 頁數：488 / 卷數：10 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.146《金光明最勝王經》三藏法師義淨奉制譯 冊數：3 / 頁數：417 / 卷數：4 / 刻經年代：開成四年－五年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.151《金光明最勝王經》三藏法師義淨奉制譯 冊數：3 / 頁數：430 / 刻經年代：會昌元年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.241《金光明最勝王經》沙門義淨譯 冊數：3 / 頁數：535 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.242《金光明最勝王經》沙門義淨譯 冊數：3 / 頁數：549 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYx41ALF",
+       "created": 1646116895125,
+       "text": "【開寶藏】No.128《金光明最勝王經》唐 三藏義淨 譯 部別：大乘經 五大部外諸重譯經 / 卷數：10 千字文：食"
+      }},
+      {"data": {
+       "id": "z5cYx41ALG",
+       "created": 1646116895125,
+       "text": "【崇寧藏】No.129《金光明最勝王經》 卷數：10 千字文：場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALH",
+       "created": 1646116895125,
+       "text": "【毘盧藏】No.125《金光明最勝王經》唐義淨譯 參考年代：(宣和七．十一) 千字文：場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALI",
+       "created": 1646116895125,
+       "text": "【圓覺藏】No.126《金光明最勝王經》 卷數：8 千字文：場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALJ",
+       "created": 1646116895125,
+       "text": "【趙城金藏】No.127《金光明最勝王經》 卷數：10 千字文：食"
+      }},
+      {"data": {
+       "id": "z5cYx41ALK",
+       "created": 1646116895125,
+       "text": "【資福藏】No.130《金光明最勝王經》 卷數：10 (十卷) 千字文：場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALL",
+       "created": 1646116895125,
+       "text": "【磧砂藏】No.129《金光明最勝王經》唐 義淨譯 部別：五大部外諸重譯經 / 冊數：9 / 頁數：510 / 卷數：10 千字文：場 1 (136)-場 10 (136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALM",
+       "created": 1646116895125,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALN",
+       "created": 1646116895125,
+       "text": "【高麗藏】No.127《金光明最勝王經》大唐三藏沙門義淨奉制譯 部別：大乘經 五大部外諸重譯經 / 冊數：9 頁數：1291 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：食"
+      }},
+      {"data": {
+       "id": "z5cYx41ALO",
+       "created": 1646116895125,
+       "text": "【普寧藏】No.125《金光明最勝王經》 卷數：10 千字文：場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALP",
+       "created": 1646116895125,
+       "text": "【至元錄】No.206《金光明最勝王經》唐天后代三藏義淨譯 梵名：蘇瓦囉(二合)拏　阿哇拔　薩烏答　麻訶囉扎拏麻 / 卷數：10 / 譯次：(第五譯) 千字文：髮(148)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALQ",
+       "created": 1646116895125,
+       "text": "【洪武南藏】No.115《金光明最勝王經》唐 三藏法師義淨 奉制譯 冊數：46 / 頁數：221 / 卷數：10 千字文：場 1 (136)-場 10 (136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALR",
+       "created": 1646116895125,
+       "text": "【永樂南藏】No.114《金光明最勝王經》 部別：大乘經-五大部外重譯經 千字文：場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALS",
+       "created": 1646116895125,
+       "text": "【永樂北藏】No.149《金光明最勝王經》唐義淨譯 部別：大乘經五大部外重譯經 / 冊數：35 / 頁數：547 / 卷數：10 千字文：場"
+      }},
+      {"data": {
+       "id": "z5cYx41ALT",
+       "created": 1646116895125,
+       "text": "【嘉興藏】No.122《金光明最勝王經》唐義淨譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0122 千字文 / 函號：［正藏］ 場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALU",
+       "created": 1646116895125,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALV",
+       "created": 1646116895125,
+       "text": "【乾隆藏】No.122《金光明最勝王經》唐 義淨譯 部別：大乘五大部外重譯經 / 冊數：30-31 / 頁數：741 / 卷數：10 千字文：場"
+      }},
+      {"data": {
+       "id": "z5cYx41ALW",
+       "created": 1646116895125,
+       "text": "【縮刻藏】No.172《金光明最勝王經》唐義淨譯 部別：大乘經-方等部 / 卷數：10 千字文：黃 9 (4)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALX",
+       "created": 1646116895125,
+       "text": "【卍正藏】No.125《金光明最勝王經》大唐 義淨譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：1 / 卷數：10 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYx41ALY",
+       "created": 1646116895125,
+       "text": "【大正藏】No.665《金光明最勝王經》唐 義淨譯 部別：經集部三 / 冊數：16 / 頁數：403 / 卷數：10 相關經典：縮-黃9,卍-9.1 參考資料：Nos.663,664,;cf.Nos.1788,2196-2199"
+      }},
+      {"data": {
+       "id": "z5cYx41ALZ",
+       "created": 1646116895125,
+       "text": "【佛教大藏經】No.174《金光明最勝王經》唐 義淨譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：571 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYx41ALa",
+       "created": 1646116895125,
+       "text": "【中華藏】No.135《金光明最勝王經》唐三藏義淨譯 冊數：16 / 頁數：246 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx41ALb",
+       "created": 1646116895125,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx41ALc",
+       "created": 1646116895125,
+       "text": "【南條文雄編號】 Nj. 0126"
+      }},
+      {"data": {
+       "id": "z5cYx41ALd",
+       "created": 1646116895125,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：665"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx91kh",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

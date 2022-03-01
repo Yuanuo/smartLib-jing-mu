@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "佛說枯樹經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxBeCOU",
+    "created": 1646116895598,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxBeCNs",
+      "created": 1646116895598,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxBeCNt",
+        "created": 1646116895598,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBeCNu",
+        "created": 1646116895598,
+        "text": "佛說枯樹經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBeCNv",
+        "created": 1646116895598,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBeCNw",
+        "created": 1646116895598,
+        "text": "佛说枯树经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxBeCNx",
+        "created": 1646116895598,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxBeCNy",
+        "created": 1646116895598,
+        "text": "fo shuo ku shu jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxBeCNz",
+      "created": 1646116895598,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBeCO0",
+      "created": 1646116895598,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBeCO1",
+      "created": 1646116895598,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxBeCO2",
+      "created": 1646116895598,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxBeCO3",
+      "created": 1646116895598,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxBeCO4",
+       "created": 1646116895598,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCO5",
+       "created": 1646116895598,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCO6",
+       "created": 1646116895598,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCO7",
+       "created": 1646116895598,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCO8",
+       "created": 1646116895598,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCO9",
+       "created": 1646116895598,
+       "text": "【趙城金藏】No.749《枯樹經》 卷數：1 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOA",
+       "created": 1646116895598,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOB",
+       "created": 1646116895598,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOC",
+       "created": 1646116895598,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOD",
+       "created": 1646116895598,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOE",
+       "created": 1646116895598,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOF",
+       "created": 1646116895598,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOG",
+       "created": 1646116895598,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOH",
+       "created": 1646116895598,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOI",
+       "created": 1646116895598,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOJ",
+       "created": 1646116895598,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOK",
+       "created": 1646116895598,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOL",
+       "created": 1646116895598,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOM",
+       "created": 1646116895598,
+       "text": "【縮刻藏】No.469《佛說枯樹經》 部別：小乘經 / 卷數：1 千字文：昃 4 (12)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCON",
+       "created": 1646116895598,
+       "text": "【卍正藏】No.631《佛說枯樹經》 部別：小乘經 阿含部 / 冊數：25 / 頁數：333 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOO",
+       "created": 1646116895598,
+       "text": "【大正藏】No.806《佛說枯樹經》 部別：經集部四 / 冊數：17 / 頁數：751 / 卷數：1 相關經典：縮-昃4,卍-14.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxBeCOP",
+       "created": 1646116895598,
+       "text": "【佛教大藏經】No.477《佛說枯樹經》失譯 部別：小乘經 阿含部一 / 冊數：23 / 頁數：525 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOQ",
+       "created": 1646116895598,
+       "text": "【中華藏】No.813《佛說枯樹經》失譯 冊數：34 / 頁數：362 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOR",
+       "created": 1646116895598,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOS",
+       "created": 1646116895598,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxBeCOT",
+       "created": 1646116895598,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：806"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxm6oj",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

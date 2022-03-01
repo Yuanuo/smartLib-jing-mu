@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "勝思惟梵天所問經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx0E9Dv",
+    "created": 1646116894890,
+    "text": "現藏錄（元魏 菩提流支譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx0E9D3",
+      "created": 1646116894890,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx0E9D4",
+        "created": 1646116894890,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0E9D5",
+        "created": 1646116894890,
+        "text": "勝思惟梵天所問經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0E9D6",
+        "created": 1646116894890,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0E9D7",
+        "created": 1646116894890,
+        "text": "胜思惟梵天所问经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0E9D8",
+        "created": 1646116894890,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0E9D9",
+        "created": 1646116894890,
+        "text": "sheng si wei fan tian suo wen jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0E9DH",
+        "created": 1646116894890,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0E9DI",
+        "created": 1646116894890,
+        "text": "Sheng ssu wei fan t'ien so wei ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0E9DJ",
+        "created": 1646116894890,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0E9DK",
+        "created": 1646116894890,
+        "text": "Brahmaviśeṣacintīparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0E9DL",
+        "created": 1646116894890,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0E9DM",
+        "created": 1646116894890,
+        "text": "Tshaṅs-pa khyad-par-sems-kyi shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0E9DN",
+        "created": 1646116894890,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0E9DO",
+        "created": 1646116894890,
+        "text": "승사유범천소문경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0E9DA",
+      "created": 1646116894890,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0E9DB",
+      "created": 1646116894890,
+      "text": "元魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0E9DC",
+      "created": 1646116894890,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0E9DD",
+       "created": 1646116894890,
+       "text": "元魏 菩提流支譯"
+      }},
+      {"data": {
+       "id": "z5cYx0E9DE",
+       "created": 1646116894890,
+       "text": "菩提流支",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0E9DF",
+      "created": 1646116894890,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0E9DG",
+      "created": 1646116894890,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0E9DP",
+      "created": 1646116894890,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0E9DQ",
+      "created": 1646116894890,
+      "text": "Translation by Bodhiruci: 1st year of Shen kuei (神龜), Northern Wei dynasty (北魏) (A.D. 518) in Lo-yang (洛陽), T. 2149-268c:26. or 3rd year of Tien Ping (天平), Eastern Wei dynasty (東魏) (A.D. 536) in Yeh-tu (鄴都).T. 2153-387b:15."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx0E9DR",
+     "created": 1646116894890,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx0E9DS",
+      "created": 1646116894890,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0E9DT",
+      "created": 1646116894890,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0E9DU",
+      "created": 1646116894890,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0E9DV",
+       "created": 1646116894890,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9DW",
+       "created": 1646116894890,
+       "text": "【開寶藏】No.145《勝思帷梵天所問經》元魏 天竺三藏菩提流支 譯 部別：大乘經 五大部外諸重譯經 / 卷數：6 千字文：及"
+      }},
+      {"data": {
+       "id": "z5cYx0E9DX",
+       "created": 1646116894890,
+       "text": "【崇寧藏】No.146《勝思惟梵天所問經》 卷數：6 千字文：萬(143)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9DY",
+       "created": 1646116894890,
+       "text": "【毘盧藏】No.142《勝思惟梵天所問經》元魏菩提流支譯 參考年代：(宣和六．八)(宣和八．正) 千字文：萬(143)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9DZ",
+       "created": 1646116894890,
+       "text": "【圓覺藏】No.143《勝思惟梵天所問經》 卷數：6 千字文：萬(143)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Da",
+       "created": 1646116894890,
+       "text": "【趙城金藏】No.144《勝思維經》 卷數：6 千字文：及"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Db",
+       "created": 1646116894890,
+       "text": "【資福藏】No.147《勝思惟梵天所問經》 卷數：6 (六卷) 千字文：萬(143)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dc",
+       "created": 1646116894890,
+       "text": "【磧砂藏】No.146《勝思惟梵天所問經》元魏 菩提流支譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：151 / 卷數：6 千字文：萬 5 (143)-萬 10 (143)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dd",
+       "created": 1646116894890,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9De",
+       "created": 1646116894890,
+       "text": "【高麗藏】No.144《勝思惟梵天所問經》元魏天竺三藏菩提流支譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：465 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：及"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Df",
+       "created": 1646116894890,
+       "text": "【普寧藏】No.142《勝思惟梵天所問經》 卷數：6 千字文：萬(143)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dg",
+       "created": 1646116894890,
+       "text": "【至元錄】No.223《勝思惟梵天所問經》元魏天竺三藏菩提留支譯 卷數：6 / 譯次：(第三譯) 千字文：鞠(155)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dh",
+       "created": 1646116894890,
+       "text": "【洪武南藏】No.131《勝思惟梵天所問經》元魏 天竺沙門統大乘論師菩提留支 第三譯 冊數：48-49 / 頁數：561 / 卷數：6 千字文：萬 5 (143)-萬 10 (143)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Di",
+       "created": 1646116894890,
+       "text": "【永樂南藏】No.147《勝思惟梵天所問經》 部別：大乘經-五大部外重譯經 千字文：大(150)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dj",
+       "created": 1646116894890,
+       "text": "【永樂北藏】No.213《勝思惟梵天所問經》元魏菩提留支譯 部別：大乘經五大部外重譯經 / 冊數：42 / 頁數：61 / 卷數：6 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dk",
+       "created": 1646116894890,
+       "text": "【嘉興藏】No.184《勝思惟梵天所問經》元魏菩提留支譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0184 千字文 / 函號：［正藏］ 傷(160)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dl",
+       "created": 1646116894890,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dm",
+       "created": 1646116894890,
+       "text": "【乾隆藏】No.185《勝思惟梵天所問經》元魏 菩提留支譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：151 / 卷數：6 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dn",
+       "created": 1646116894890,
+       "text": "【縮刻藏】No.184《勝思惟梵天所問經》元魏菩提流支譯 部別：大乘經-方等部 / 卷數：6 千字文：宇 1 (5)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Do",
+       "created": 1646116894890,
+       "text": "【卍正藏】No.187《勝思惟梵天所問經》元魏 菩提流支譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：403 / 卷數：6 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dp",
+       "created": 1646116894890,
+       "text": "【大正藏】No.587《勝思惟梵天所問經》元魏 菩提流支譯 部別：經集部二 / 冊數：15 / 頁數：62 / 卷數：6 相關經典：縮-宇1,卍-10.3 參考資料：Nos.585,586"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dq",
+       "created": 1646116894890,
+       "text": "【佛教大藏經】No.186《勝思惟梵天所問經》元魏 菩提流支譯 部別：大乘經 方等部七 / 冊數：9 / 頁數：98 / 卷數：6"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dr",
+       "created": 1646116894890,
+       "text": "【中華藏】No.153《勝思惟梵天所問經》元魏天竺三藏菩提流支譯 冊數：17 / 頁數：166 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Ds",
+       "created": 1646116894890,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Dt",
+       "created": 1646116894890,
+       "text": "【南條文雄編號】 Nj. 0189"
+      }},
+      {"data": {
+       "id": "z5cYx0E9Du",
+       "created": 1646116894890,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：587"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx2iib",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

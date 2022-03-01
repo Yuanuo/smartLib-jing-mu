@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "心學典論"},
+  "children": [{
+   "data": {
+    "id": "z5cYyS5Zoe",
+    "created": 1646116900461,
+    "text": "現藏錄（日本 無隱道費撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyS5Znz",
+      "created": 1646116900461,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyS5Zo0",
+        "created": 1646116900461,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyS5Zo1",
+        "created": 1646116900461,
+        "text": "心學典論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyS5Zo2",
+        "created": 1646116900461,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyS5Zo3",
+        "created": 1646116900461,
+        "text": "心学典论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyS5Zo4",
+        "created": 1646116900461,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyS5Zo5",
+        "created": 1646116900461,
+        "text": "xin xue dian lun"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyS5Zo6",
+      "created": 1646116900461,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyS5Zo7",
+      "created": 1646116900461,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyS5Zo8",
+      "created": 1646116900461,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyS5Zo9",
+       "created": 1646116900461,
+       "text": "日本 無隱道費撰"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoA",
+       "created": 1646116900461,
+       "text": "無隱道費",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyS5ZoB",
+      "created": 1646116900461,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyS5ZoC",
+      "created": 1646116900461,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyS5ZoD",
+      "created": 1646116900461,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyS5ZoE",
+       "created": 1646116900461,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoF",
+       "created": 1646116900461,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoG",
+       "created": 1646116900461,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoH",
+       "created": 1646116900461,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoI",
+       "created": 1646116900461,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoJ",
+       "created": 1646116900461,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoK",
+       "created": 1646116900461,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoL",
+       "created": 1646116900461,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoM",
+       "created": 1646116900461,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoN",
+       "created": 1646116900461,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoO",
+       "created": 1646116900461,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoP",
+       "created": 1646116900461,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoQ",
+       "created": 1646116900461,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoR",
+       "created": 1646116900461,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoS",
+       "created": 1646116900461,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoT",
+       "created": 1646116900461,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoU",
+       "created": 1646116900461,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoV",
+       "created": 1646116900461,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoW",
+       "created": 1646116900461,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoX",
+       "created": 1646116900461,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoY",
+       "created": 1646116900461,
+       "text": "【大正藏】No.2602《心學典論》日本 無隱道費撰 部別：續諸宗部十三 / 冊數：82 / 頁數：656 / 卷數：4 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyS5ZoZ",
+       "created": 1646116900461,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5Zoa",
+       "created": 1646116900461,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5Zob",
+       "created": 1646116900461,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5Zoc",
+       "created": 1646116900461,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyS5Zod",
+       "created": 1646116900461,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2602"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1d925r",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

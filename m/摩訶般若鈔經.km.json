@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "摩訶般若鈔經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwcm3JC",
+    "created": 1646116893436,
+    "text": "現藏錄（前秦 曇摩蜱共竺佛念譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwcl3IE",
+      "created": 1646116893435,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwcl3IF",
+        "created": 1646116893435,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcl3IG",
+        "created": 1646116893435,
+        "text": "摩訶般若鈔經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcl3IH",
+        "created": 1646116893435,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcm3II",
+        "created": 1646116893436,
+        "text": "摩诃般若钞经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcm3IJ",
+        "created": 1646116893436,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcm3IK",
+        "created": 1646116893436,
+        "text": "mo he bo re chao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcm3IT",
+        "created": 1646116893436,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcm3IU",
+        "created": 1646116893436,
+        "text": "Mo ho pan jo ch'ao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcm3IV",
+        "created": 1646116893436,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcm3IW",
+        "created": 1646116893436,
+        "text": "Aṣṭasāhasrikāprajñāpāramitāsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcm3IX",
+        "created": 1646116893436,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcm3IY",
+        "created": 1646116893436,
+        "text": "Śes-rab-kyi-pha-rol-tu-phyin-pa brgyad-stoṅ-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwcm3IZ",
+        "created": 1646116893436,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwcm3Ia",
+        "created": 1646116893436,
+        "text": "마하반야초경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwcm3IL",
+      "created": 1646116893436,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcm3IM",
+      "created": 1646116893436,
+      "text": "前秦",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcm3IN",
+      "created": 1646116893436,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwcm3IO",
+       "created": 1646116893436,
+       "text": "前秦 曇摩蜱共竺佛念譯"
+      }},
+      {"data": {
+       "id": "z5cYwcm3IP",
+       "created": 1646116893436,
+       "text": "佛念",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwcm3IQ",
+       "created": 1646116893436,
+       "text": "曇摩蜱",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwcm3IR",
+      "created": 1646116893436,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcm3IS",
+      "created": 1646116893436,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcm3Ib",
+      "created": 1646116893436,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcm3Ic",
+      "created": 1646116893436,
+      "text": "Translation by Dharmapriya and (Chu) Fo-nien: 18th year of Chien Yüan (健元), Former Ch'in dynasty (前泰) (A.D. 382) in Ch'ang-an. (長安)T. 2151-358b:12; T. 2145-10b:2; T. 2149-250a:19."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcm3Id",
+      "created": 1646116893436,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwcm3Ie",
+       "created": 1646116893436,
+       "text": "【北京版】Śer-phyin (mi)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3If",
+       "created": 1646116893436,
+       "text": "【奈塘版】Śer-phyin brgyad-stoṅ-pa (ka)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Ig",
+       "created": 1646116893436,
+       "text": "【德格版】Śes-phyin (ka)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Ih",
+       "created": 1646116893436,
+       "text": "【拉薩版】Śer-phyin yum-bsdus (ka)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Ii",
+       "created": 1646116893436,
+       "text": "【卓尼版】Śer-phyin brgyad-stoṅ (ka)"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwcm3Ij",
+      "created": 1646116893436,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwcm3Ik",
+      "created": 1646116893436,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwcm3Il",
+      "created": 1646116893436,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwcm3Im",
+       "created": 1646116893436,
+       "text": "【房山石經】No.332《摩訶般若波羅蜜鈔經》(前秦)天竺沙門曇摩蜱竺佛念等長安譯 冊數：7 / 頁數：248 / 卷數：5 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：淡鱗"
+      }},
+      {"data": {
+       "id": "z5cYwcm3In",
+       "created": 1646116893436,
+       "text": "【開寶藏】No.5《摩訶般若波羅蜜鈔經》符秦 天竺沙門曇摩蜱共竺佛念 譯 部別：大乘經 般若部 / 卷數：5 千字文：河"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Io",
+       "created": 1646116893436,
+       "text": "【崇寧藏】No.5《摩訶般若波羅蜜鈔經》 卷數：5 千字文：淡(68)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Ip",
+       "created": 1646116893436,
+       "text": "【毘盧藏】No.5《摩訶般若波羅蜜經》符秦曇摩蜱共佛念譯 參考年代：(元豊八．五) 千字文：淡(68)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Iq",
+       "created": 1646116893436,
+       "text": "【圓覺藏】No.5《摩訶般若波羅蜜鈔經》 卷數：5 千字文：淡(68)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Ir",
+       "created": 1646116893436,
+       "text": "【趙城金藏】No.5《摩訶般若波羅蜜鈔經》 卷數：5 千字文：河"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Is",
+       "created": 1646116893436,
+       "text": "【資福藏】No.5《摩訶般若波羅蜜鈔》 卷數：5 (五卷) 千字文：淡(68)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3It",
+       "created": 1646116893436,
+       "text": "【磧砂藏】No.5《摩訶般若波羅蜜鈔經》符秦 曇摩[虫*畀]．竺佛念譯 部別：般若部 / 冊數：5 / 頁數：153 / 卷數：5 千字文：淡 3 (68)-淡 7 (68)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Iu",
+       "created": 1646116893436,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Iv",
+       "created": 1646116893436,
+       "text": "【高麗藏】No.5《摩訶般若抄經》秦天竺沙門曇摩蜱-共竺佛念譯 部別：大乘經 般若部 / 冊數：5 頁數：633 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：河"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Iw",
+       "created": 1646116893436,
+       "text": "【普寧藏】No.5《摩訶般若波羅蜜鈔經》 卷數：5 千字文：淡(68)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Ix",
+       "created": 1646116893436,
+       "text": "【至元錄】No.5《摩訶般若鈔經》符秦天竺沙門曇摩蜱共竺佛念譯 卷數：5 千字文：河(67)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Iy",
+       "created": 1646116893436,
+       "text": "【洪武南藏】No.5《摩訶般若波羅蜜鈔經》符秦 天竺沙門曇摩[虫*畀]共竺佛念 譯 冊數：24-25 / 頁數：496 / 卷數：5 千字文：淡 3 (68)-淡 7 (68)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3Iz",
+       "created": 1646116893436,
+       "text": "【永樂南藏】No.7《摩訶般若波羅蜜多鈔經》 部別：大乘經-般若部 千字文：潛(70)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J0",
+       "created": 1646116893436,
+       "text": "【永樂北藏】No.23《摩訶般若波羅蜜鈔經》苻秦曇摩蜱-共竺佛念等譯 部別：大乘經般若部 / 冊數：18 / 頁數：293 / 卷數：5 千字文：潛"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J1",
+       "created": 1646116893436,
+       "text": "【嘉興藏】No.7《摩訶般若鈔經》苻秦曇摩蜱-共竺佛念等譯 部別：大乘經-般若部 / 法寶總目錄經號：0007 千字文 / 函號：［正藏］ 潜(70)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J2",
+       "created": 1646116893436,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J3",
+       "created": 1646116893436,
+       "text": "【乾隆藏】No.7《摩訶般若波羅蜜鈔經》苻秦 曇摩[虫*(田/丌)],竺佛念等譯 部別：大乘般若部 / 冊數：16 / 頁數：179 / 卷數：5 千字文：潛"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J4",
+       "created": 1646116893436,
+       "text": "【縮刻藏】No.401《摩訶般若鈔經》秦曇摩蜱共竺佛念譯 部別：大乘經-般若部 / 卷數：5 千字文：月 8 (10)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J5",
+       "created": 1646116893436,
+       "text": "【卍正藏】No.7《摩訶般若鈔經》秦 曇摩[虫*畀]共竺佛念譯 部別：大乘經 般若部 / 冊數：7 / 頁數：871 / 卷數：5 原版套數：第 5 套"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J6",
+       "created": 1646116893436,
+       "text": "【大正藏】No.226《摩訶般若鈔經》前秦 曇摩蜱共竺佛念譯 部別：般若部四 / 冊數：8 / 頁數：508 / 卷數：5 相關經典：縮-月8,卍-5.5 參考資料：Nos.220(4or5),224,225,227,228;cf.No.229"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J7",
+       "created": 1646116893436,
+       "text": "【佛教大藏經】No.404《摩訶般若鈔經》前秦 曇摩蜱共竺佛念譯 部別：大乘經 般若部八 / 冊數：20 / 頁數：390 / 卷數：5"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J8",
+       "created": 1646116893436,
+       "text": "【中華藏】No.5《摩訶般若波羅蜜鈔經》秦天竺沙門曇摩蜱共竺佛念譯 冊數：7 / 頁數：836 / 卷數：5 / 底本：麗藏本 金藏大寶集寺本"
+      }},
+      {"data": {
+       "id": "z5cYwcm3J9",
+       "created": 1646116893436,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwcm3JA",
+       "created": 1646116893436,
+       "text": "【南條文雄編號】 Nj. 0007"
+      }},
+      {"data": {
+       "id": "z5cYwcm3JB",
+       "created": 1646116893436,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：226"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhvy36i",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

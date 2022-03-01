@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說伅真陀羅所問如來三昧經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx1z9l0",
+    "created": 1646116894999,
+    "text": "現藏錄（後漢 支婁迦讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx1z9k3",
+      "created": 1646116894999,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx1z9k4",
+        "created": 1646116894999,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1z9k5",
+        "created": 1646116894999,
+        "text": "佛說伅真陀羅所問如來三昧經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1z9k6",
+        "created": 1646116894999,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1z9k7",
+        "created": 1646116894999,
+        "text": "佛说伅真陀罗所问如来三昧经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1z9k8",
+        "created": 1646116894999,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1z9k9",
+        "created": 1646116894999,
+        "text": "fo shuo dun zhen tuo luo suo wen ru lai san mei jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1z9kH",
+        "created": 1646116894999,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1z9kI",
+        "created": 1646116894999,
+        "text": "Tun chen t'o lo so wen ju lai san mei ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1z9kJ",
+        "created": 1646116894999,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1z9kK",
+        "created": 1646116894999,
+        "text": "Drumakinnararājaparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1z9kL",
+        "created": 1646116894999,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1z9kM",
+        "created": 1646116894999,
+        "text": "Mi-ḥam-ciḥi rgyal-pa sdoṅ-pos shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx1z9kN",
+        "created": 1646116894999,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx1z9kO",
+        "created": 1646116894999,
+        "text": "좌진다라소문여래삼매경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx1z9kA",
+      "created": 1646116894999,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1z9kB",
+      "created": 1646116894999,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1z9kC",
+      "created": 1646116894999,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx1z9kD",
+       "created": 1646116894999,
+       "text": "後漢 支婁迦讖譯"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kE",
+       "created": 1646116894999,
+       "text": "支婁迦讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx1z9kF",
+      "created": 1646116894999,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1z9kG",
+      "created": 1646116894999,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1z9kP",
+      "created": 1646116894999,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1z9kQ",
+      "created": 1646116894999,
+      "text": "Translation by Lokakṣema: during the years of Chien Ning (建寧), Later Han dynasty (後漢) (A.D. 168-172), in Lo-tu (洛都).T. 2149-287b:22."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1z9kR",
+      "created": 1646116894999,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx1z9kS",
+       "created": 1646116894999,
+       "text": "【北京版】Mdo-sna-tshogs (pu)260b-329a"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kT",
+       "created": 1646116894999,
+       "text": "【奈塘版】Mdo (na)390b-494"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kU",
+       "created": 1646116894999,
+       "text": "【德格版】Mdo-sde (pha)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kV",
+       "created": 1646116894999,
+       "text": "【拉薩版】Mdo (na)383a-483a"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kW",
+       "created": 1646116894999,
+       "text": "【卓尼版】Mdo-maṅ (pha)304b-377a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx1z9kX",
+      "created": 1646116894999,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx1z9kY",
+      "created": 1646116894999,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx1z9kZ",
+      "created": 1646116894999,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx1z9ka",
+       "created": 1646116894999,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kb",
+       "created": 1646116894999,
+       "text": "【開寶藏】No.130《伅真陀羅所問經》後漢 月支三藏支婁迦讖 譯 部別：大乘經 五大部外諸重譯經 / 卷數：3 千字文：場"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kc",
+       "created": 1646116894999,
+       "text": "【崇寧藏】No.131《純真陀羅所問如來三昧經》 卷數：3 千字文：化(137)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kd",
+       "created": 1646116894999,
+       "text": "【毘盧藏】No.127《純真陀羅所問如來三昧經》後漢支婁迦讖譯 參考年代：(宣和八．正、二) 千字文：化(137)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9ke",
+       "created": 1646116894999,
+       "text": "【圓覺藏】No.128《伅真陀羅所問經》 卷數：3 千字文：化(137)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kf",
+       "created": 1646116894999,
+       "text": "【趙城金藏】No.129《伅真陀羅尼所問寶如來經》 卷數：3 千字文：場"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kg",
+       "created": 1646116894999,
+       "text": "【資福藏】No.132《純真陀羅所問經》 卷數：3 (三卷) 千字文：化(137)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kh",
+       "created": 1646116894999,
+       "text": "【磧砂藏】No.131《伅真陀羅所問寶如來三昧經》後漢 支婁迦讖譯 部別：五大部外諸重譯經 / 冊數：9 / 頁數：597 / 卷數：3 千字文：化 9 (137)-化 11 (137)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9ki",
+       "created": 1646116894999,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kj",
+       "created": 1646116894999,
+       "text": "【高麗藏】No.129《伅眞陀羅所問如來三昧經》隋大興善寺沙門釋賓貴-後漢月氏三藏支婁迦讖合譯 部別：大乘經 五大部外諸重譯經 / 冊數：9 頁數：1423 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：場"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kk",
+       "created": 1646116894999,
+       "text": "【普寧藏】No.127《伅真陀羅所問寶如來三昧經》 卷數：3 千字文：化(137)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kl",
+       "created": 1646116894999,
+       "text": "【至元錄】No.208《純真陀羅所問經》後漢月支三藏支婁迦讖譯 卷數：2 / 譯次：(第二譯) 千字文：四(149)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9km",
+       "created": 1646116894999,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kn",
+       "created": 1646116894999,
+       "text": "【永樂南藏】No.115《伅真陀羅所問寶如來三昧經》 部別：大乘經-五大部外重譯經 千字文：場(136)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9ko",
+       "created": 1646116894999,
+       "text": "【永樂北藏】No.186《伅真陀羅所問寶如來三昧經》後漢支婁迦讖譯 部別：大乘經五大部外重譯經 / 冊數：39 / 頁數：583 / 卷數：3 千字文：五"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kp",
+       "created": 1646116894999,
+       "text": "【嘉興藏】No.156《伅真陀羅所問三昧經》後漢支婁迦讖譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0156 千字文 / 函號：［正藏］ 五(151)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kq",
+       "created": 1646116894999,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kr",
+       "created": 1646116894999,
+       "text": "【乾隆藏】No.157《伅真陀羅所問寶如來三昧經》後漢 支婁迦讖譯 部別：大乘五大部外重譯經 / 冊數：34 / 頁數：141 / 卷數：3 千字文：五"
+      }},
+      {"data": {
+       "id": "z5cYx1z9ks",
+       "created": 1646116894999,
+       "text": "【縮刻藏】No.212《佛說伅真陀羅所問如來三昧經》後漢支婁迦讖譯 部別：大乘經-方等部 / 卷數：3 千字文：宇 9 (5)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kt",
+       "created": 1646116894999,
+       "text": "【卍正藏】No.160《佛說伅真陀羅所問如來三昧經》後漢 支婁迦讖譯 部別：大乘經 五大部外重譯經 / 冊數：16 / 頁數：475 / 卷數：3 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYx1z9ku",
+       "created": 1646116894999,
+       "text": "【大正藏】No.624《佛說伅真陀羅所問如來三昧經》後漢 支婁迦讖譯 部別：經集部二 / 冊數：15 / 頁數：348 / 卷數：3 相關經典：縮-宇9,卍-9.8 參考資料：No.625"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kv",
+       "created": 1646116894999,
+       "text": "【佛教大藏經】No.215《佛說伅真陀羅所問如來三昧經》後漢 支婁迦讖譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：520 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kw",
+       "created": 1646116894999,
+       "text": "【中華藏】No.137《佛說伅真陀羅所問寶如來三昧經》後漢月支三藏支婁迦讖譯 冊數：16 / 頁數：413 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kx",
+       "created": 1646116894999,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx1z9ky",
+       "created": 1646116894999,
+       "text": "【南條文雄編號】 Nj. 0161"
+      }},
+      {"data": {
+       "id": "z5cYx1z9kz",
+       "created": 1646116894999,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：624"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx5jjc",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

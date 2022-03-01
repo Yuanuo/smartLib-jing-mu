@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "護摩口決"},
+  "children": [{
+   "data": {
+    "id": "z5cYyOjZ2m",
+    "created": 1646116900253,
+    "text": "現藏錄（日本 賴瑜撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyOiZ27",
+      "created": 1646116900252,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyOiZ28",
+        "created": 1646116900252,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOiZ29",
+        "created": 1646116900252,
+        "text": "護摩口決",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOiZ2A",
+        "created": 1646116900252,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOiZ2B",
+        "created": 1646116900252,
+        "text": "护摩口决",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyOiZ2C",
+        "created": 1646116900252,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyOiZ2D",
+        "created": 1646116900252,
+        "text": "hu mo kou jue"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOiZ2E",
+      "created": 1646116900252,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOiZ2F",
+      "created": 1646116900252,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOiZ2G",
+      "created": 1646116900252,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOiZ2H",
+       "created": 1646116900252,
+       "text": "日本 賴瑜撰"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2I",
+       "created": 1646116900252,
+       "text": "賴瑜",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyOiZ2J",
+      "created": 1646116900252,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyOiZ2K",
+      "created": 1646116900252,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyOiZ2L",
+      "created": 1646116900252,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyOiZ2M",
+       "created": 1646116900252,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2N",
+       "created": 1646116900252,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2O",
+       "created": 1646116900252,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2P",
+       "created": 1646116900252,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2Q",
+       "created": 1646116900252,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2R",
+       "created": 1646116900252,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2S",
+       "created": 1646116900252,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2T",
+       "created": 1646116900252,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2U",
+       "created": 1646116900252,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2V",
+       "created": 1646116900252,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2W",
+       "created": 1646116900252,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2X",
+       "created": 1646116900252,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2Y",
+       "created": 1646116900252,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOiZ2Z",
+       "created": 1646116900252,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2a",
+       "created": 1646116900253,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2b",
+       "created": 1646116900253,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2c",
+       "created": 1646116900253,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2d",
+       "created": 1646116900253,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2e",
+       "created": 1646116900253,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2f",
+       "created": 1646116900253,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2g",
+       "created": 1646116900253,
+       "text": "【大正藏】No.2532《護摩口決》日本 賴瑜撰 部別：續諸宗部十 / 冊數：79 / 頁數：89 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2h",
+       "created": 1646116900253,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2i",
+       "created": 1646116900253,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2j",
+       "created": 1646116900253,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2k",
+       "created": 1646116900253,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyOjZ2l",
+       "created": 1646116900253,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2532"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri17g23t",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

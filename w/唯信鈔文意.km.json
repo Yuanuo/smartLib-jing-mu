@@ -1,0 +1,474 @@
+{
+ "root": {
+  "data": {"text": "唯信鈔文意"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYyUWaTC",
+     "created": 1646116900612,
+     "text": "現藏錄（日本 親鸞撰）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyUWaSX",
+       "created": 1646116900612,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyUWaSY",
+         "created": 1646116900612,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUWaSZ",
+         "created": 1646116900612,
+         "text": "唯信鈔文意",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUWaSa",
+         "created": 1646116900612,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUWaSb",
+         "created": 1646116900612,
+         "text": "唯信钞文意",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUWaSc",
+         "created": 1646116900612,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUWaSd",
+         "created": 1646116900612,
+         "text": "wei xin chao wen yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyUWaSe",
+       "created": 1646116900612,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUWaSf",
+       "created": 1646116900612,
+       "text": "日本",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUWaSg",
+       "created": 1646116900612,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyUWaSh",
+        "created": 1646116900612,
+        "text": "日本 親鸞撰"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSi",
+        "created": 1646116900612,
+        "text": "親鸞",
+        "resource": ["author"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyUWaSj",
+       "created": 1646116900612,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUWaSk",
+       "created": 1646116900612,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUWaSl",
+       "created": 1646116900612,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyUWaSm",
+        "created": 1646116900612,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSn",
+        "created": 1646116900612,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSo",
+        "created": 1646116900612,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSp",
+        "created": 1646116900612,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSq",
+        "created": 1646116900612,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSr",
+        "created": 1646116900612,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSs",
+        "created": 1646116900612,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSt",
+        "created": 1646116900612,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSu",
+        "created": 1646116900612,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSv",
+        "created": 1646116900612,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSw",
+        "created": 1646116900612,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSx",
+        "created": 1646116900612,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSy",
+        "created": 1646116900612,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaSz",
+        "created": 1646116900612,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT0",
+        "created": 1646116900612,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT1",
+        "created": 1646116900612,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT2",
+        "created": 1646116900612,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT3",
+        "created": 1646116900612,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT4",
+        "created": 1646116900612,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT5",
+        "created": 1646116900612,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT6",
+        "created": 1646116900612,
+        "text": "【大正藏】No.2658a《唯信鈔文意》日本 親鸞撰 部別：續諸宗部十四 / 冊數：83 / 頁數：699 / 卷數：1 相關經典： 參考資料：cf.No.2675"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT7",
+        "created": 1646116900612,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT8",
+        "created": 1646116900612,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaT9",
+        "created": 1646116900612,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaTA",
+        "created": 1646116900612,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUWaTB",
+        "created": 1646116900612,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2658"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYyUYaTp",
+     "created": 1646116900614,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYyUYaTD",
+       "created": 1646116900614,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYyUYaTE",
+         "created": 1646116900614,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUYaTF",
+         "created": 1646116900614,
+         "text": "唯信鈔文意"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUYaTG",
+         "created": 1646116900614,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUYaTH",
+         "created": 1646116900614,
+         "text": "唯信钞文意"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYyUYaTI",
+         "created": 1646116900614,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYyUYaTJ",
+         "created": 1646116900614,
+         "text": "wei xin chao wen yi"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYyUYaTK",
+       "created": 1646116900614,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUYaTL",
+       "created": 1646116900614,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUYaTM",
+       "created": 1646116900614,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYyUYaTN",
+       "created": 1646116900614,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYyUYaTO",
+       "created": 1646116900614,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYyUYaTP",
+        "created": 1646116900614,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTQ",
+        "created": 1646116900614,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTR",
+        "created": 1646116900614,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTS",
+        "created": 1646116900614,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTT",
+        "created": 1646116900614,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTU",
+        "created": 1646116900614,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTV",
+        "created": 1646116900614,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTW",
+        "created": 1646116900614,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTX",
+        "created": 1646116900614,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTY",
+        "created": 1646116900614,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTZ",
+        "created": 1646116900614,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTa",
+        "created": 1646116900614,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTb",
+        "created": 1646116900614,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTc",
+        "created": 1646116900614,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTd",
+        "created": 1646116900614,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTe",
+        "created": 1646116900614,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTf",
+        "created": 1646116900614,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTg",
+        "created": 1646116900614,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTh",
+        "created": 1646116900614,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTi",
+        "created": 1646116900614,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTj",
+        "created": 1646116900614,
+        "text": "【大正藏】No.2658b《唯信鈔文意》 部別：續諸宗部十四 / 冊數：83 / 頁數：705 / 卷數：1 相關經典： 參考資料：異本"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTk",
+        "created": 1646116900614,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTl",
+        "created": 1646116900614,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTm",
+        "created": 1646116900614,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTn",
+        "created": 1646116900614,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYyUYaTo",
+        "created": 1646116900614,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2658"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1hg27f",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

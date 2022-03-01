@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "楞伽阿跋多羅寶經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx4EAQD",
+    "created": 1646116895138,
+    "text": "現藏錄（劉宋 求那跋陀羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx4DAPG",
+      "created": 1646116895137,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx4DAPH",
+        "created": 1646116895137,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4DAPI",
+        "created": 1646116895137,
+        "text": "楞伽阿跋多羅寶經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4DAPJ",
+        "created": 1646116895137,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4DAPK",
+        "created": 1646116895137,
+        "text": "楞伽阿跋多罗宝经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4DAPL",
+        "created": 1646116895137,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4DAPM",
+        "created": 1646116895137,
+        "text": "leng jia a ba duo luo bao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4DAPU",
+        "created": 1646116895137,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4DAPV",
+        "created": 1646116895137,
+        "text": "Leng ch'ieh a pa to lo pao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4DAPW",
+        "created": 1646116895137,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4DAPX",
+        "created": 1646116895137,
+        "text": "Laṅkāvatārasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4DAPY",
+        "created": 1646116895137,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4DAPZ",
+        "created": 1646116895137,
+        "text": "Laṅ-kar-gśegs-paḥi theg-pa chen-poḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx4DAPa",
+        "created": 1646116895137,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx4DAPb",
+        "created": 1646116895137,
+        "text": "능가아발다라보경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx4DAPN",
+      "created": 1646116895137,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4DAPO",
+      "created": 1646116895137,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx4DAPP",
+      "created": 1646116895137,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx4DAPQ",
+       "created": 1646116895137,
+       "text": "劉宋 求那跋陀羅譯"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPR",
+       "created": 1646116895137,
+       "text": "求那跋陀羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx4DAPS",
+      "created": 1646116895137,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4DAPT",
+      "created": 1646116895137,
+      "text": "4"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx4DAPc",
+      "created": 1646116895137,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4DAPd",
+      "created": 1646116895137,
+      "text": "Translation by Guṇabhadra: 20th year of Yüan Chia (元嘉), Liu Sung dynasty (宋) (A.D. 443) in Tao-ch'ang Monastery (道場寺) Yang-chou (楊州).T. 2149-258c:14; T. 2153-387b:8."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx4DAPe",
+      "created": 1646116895137,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx4DAPf",
+       "created": 1646116895137,
+       "text": "【北京版】Mdo-sna-tshogs (ṅu)60b-208b208b-313a"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPg",
+       "created": 1646116895137,
+       "text": "【奈塘版】Mdo (ca)81a-298a298a-456b"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPh",
+       "created": 1646116895137,
+       "text": "【德格版】Mdo-sde (ca)56a-191b192b-284b"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPi",
+       "created": 1646116895137,
+       "text": "【拉薩版】Mdo (ca)87b-30 7a, 30 7a-462a"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPj",
+       "created": 1646116895137,
+       "text": "【卓尼版】Mdo-maṅ (ca)71a~239a239a-351a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx4DAPk",
+      "created": 1646116895137,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx4DAPl",
+      "created": 1646116895137,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx4DAPm",
+      "created": 1646116895137,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx4DAPn",
+       "created": 1646116895137,
+       "text": "【房山石經】No.31《楞伽阿跋多羅寶經》(劉宋)求那跋陀羅譯 冊數：2 / 頁數：251 / 卷數：4 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文："
+      }},
+      {"data": {
+       "id": "z5cYx4DAPo",
+       "created": 1646116895137,
+       "text": "【開寶藏】No.160《楞伽阿跋多羅寶經》劉宋 天竺三藏求那跋陀羅 譯 部別：大乘經 五大部外諸重譯經 / 卷數：4 千字文：此"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPp",
+       "created": 1646116895137,
+       "text": "【崇寧藏】No.161《楞伽阿跋多羅寶經》 卷數：4 千字文：身(147)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPq",
+       "created": 1646116895137,
+       "text": "【毘盧藏】No.157《楞伽阿跋多羅寶經》序蔣之奇撰并書　宋求那跋陀羅譯 參考年代：(靖康元．一、三) 千字文：身(147)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPr",
+       "created": 1646116895137,
+       "text": "【圓覺藏】No.158《楞伽阿跋多羅寶經》 卷數：4 千字文：身(147)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPs",
+       "created": 1646116895137,
+       "text": "【趙城金藏】No.159《楞伽阿跋經》 卷數：4 千字文：此"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPt",
+       "created": 1646116895137,
+       "text": "【資福藏】No.162《楞伽阿跋多羅寶經》 卷數：4 (四卷) 千字文：身(147)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPu",
+       "created": 1646116895137,
+       "text": "【磧砂藏】No.162《楞伽阿跋多羅寶經》宋 求那跋陀羅譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：349 / 卷數：4 千字文：身 7 (147)-身 10 (147)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPv",
+       "created": 1646116895137,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPw",
+       "created": 1646116895137,
+       "text": "【高麗藏】No.159《楞伽阿跋多羅寶經》宋天竺三藏求那跋陀羅譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：785 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：此"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPx",
+       "created": 1646116895137,
+       "text": "【普寧藏】No.157《楞伽阿跋多羅寶經》 卷數：4 千字文：身(147)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPy",
+       "created": 1646116895137,
+       "text": "【至元錄】No.238《楞伽阿跋多羅寶經》宋天竺三藏求那跋陀羅譯 卷數：4 / 譯次：(第一譯) 千字文：毀(159)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAPz",
+       "created": 1646116895137,
+       "text": "【洪武南藏】No.145《楞伽阿跋多羅寶經》宋 天竺三藏求那跋陀羅 譯 冊數：50 / 頁數：162 / 卷數：4 千字文：身 7 (147)-身 10 (147)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ0",
+       "created": 1646116895137,
+       "text": "【永樂南藏】No.161《楞伽阿跋多羅寶經》 部別：大乘經-五大部外重譯經 千字文：惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ1",
+       "created": 1646116895137,
+       "text": "【永樂北藏】No.199《楞伽阿跋多羅寶經》劉宋求那跋陀羅譯 部別：大乘經五大部外重譯經 / 冊數：40 / 頁數：549 / 卷數：4 千字文：惟"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ2",
+       "created": 1646116895137,
+       "text": "【嘉興藏】No.170《楞伽阿跋多羅寶經》劉宋求那跋陀羅譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0170 千字文 / 函號：［正藏］ 惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ3",
+       "created": 1646116895137,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ4",
+       "created": 1646116895137,
+       "text": "【乾隆藏】No.171《楞伽阿跋多羅寶經》宋 求那跋陀羅譯 部別：大乘五大部外重譯經 / 冊數：35 / 頁數：1 / 卷數：4 千字文：惟"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ5",
+       "created": 1646116895137,
+       "text": "【縮刻藏】No.154《楞伽阿跋多羅寶經》宋求那跋陀羅譯 部別：大乘經-方等部 / 卷數：4 千字文：黃 6 (4)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ6",
+       "created": 1646116895137,
+       "text": "【卍正藏】No.173《楞伽阿跋多羅寶經》宋 求那跋陀羅譯 部別：大乘經 五大部外重譯經 / 冊數：16 / 頁數：824 / 卷數：4 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ7",
+       "created": 1646116895137,
+       "text": "【大正藏】No.670《楞伽阿跋多羅寶經》劉宋 求那跋陀羅譯 部別：經集部三 / 冊數：16 / 頁數：479 / 卷數：4 相關經典：縮-黃6,卍-9.10 參考資料：Nos.671,672;cf.No.1789"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ8",
+       "created": 1646116895137,
+       "text": "【佛教大藏經】No.156《楞伽阿跋多羅寶經》宋 求那跋陀羅譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：1 / 卷數：4"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQ9",
+       "created": 1646116895137,
+       "text": "【中華藏】No.168《楞伽阿跋多羅寶經》宋天竺三藏求那跋陀羅譯 冊數：17 / 頁數：561 / 卷數：4 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQA",
+       "created": 1646116895137,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQB",
+       "created": 1646116895137,
+       "text": "【南條文雄編號】 Nj. 0175"
+      }},
+      {"data": {
+       "id": "z5cYx4DAQC",
+       "created": 1646116895137,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：670"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx9dkm",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

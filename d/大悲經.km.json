@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "大悲經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwoK63D",
+    "created": 1646116894152,
+    "text": "現藏錄（高齊 那連提耶舍譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwoJ62F",
+      "created": 1646116894151,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwoJ62G",
+        "created": 1646116894151,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoJ62H",
+        "created": 1646116894151,
+        "text": "大悲經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoJ62I",
+        "created": 1646116894151,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoJ62J",
+        "created": 1646116894151,
+        "text": "大悲经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoJ62K",
+        "created": 1646116894151,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoJ62L",
+        "created": 1646116894151,
+        "text": "da bei jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoJ62U",
+        "created": 1646116894151,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoJ62V",
+        "created": 1646116894151,
+        "text": "Ta pei ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoJ62W",
+        "created": 1646116894151,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoJ62X",
+        "created": 1646116894151,
+        "text": "Mahākaruṇāpuṇḍarīkasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoJ62Y",
+        "created": 1646116894151,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoJ62Z",
+        "created": 1646116894151,
+        "text": "Sñiṅ-rje-chen-poḥi pad-ma dkar-po"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwoJ62a",
+        "created": 1646116894151,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwoJ62b",
+        "created": 1646116894151,
+        "text": "대비경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwoJ62M",
+      "created": 1646116894151,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoJ62N",
+      "created": 1646116894151,
+      "text": "高齊",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoJ62O",
+      "created": 1646116894151,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwoJ62P",
+       "created": 1646116894151,
+       "text": "高齊 那連提耶舍譯"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62Q",
+       "created": 1646116894151,
+       "text": "法智",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwoJ62R",
+       "created": 1646116894151,
+       "text": "那連提舍",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwoJ62S",
+      "created": 1646116894151,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoJ62T",
+      "created": 1646116894151,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoJ62c",
+      "created": 1646116894151,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoJ62d",
+      "created": 1646116894151,
+      "text": "Translation by Narendrayaśas: 9th year of Tien pao (天保), Kao Ch'i dynasty (高齊) (A.D. 558) in Hsiang-chou (相州).T. 2153-385a:26."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoJ62e",
+      "created": 1646116894151,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwoJ62f",
+       "created": 1646116894151,
+       "text": "【北京版】Mdo-sna-tshogs (cu)63a-149a"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62g",
+       "created": 1646116894151,
+       "text": "【奈塘版】Mdo (cha)76a-187b"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62h",
+       "created": 1646116894151,
+       "text": "【德格版】Mdo-sde (cha)56a-128b"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62i",
+       "created": 1646116894151,
+       "text": "【拉薩版】Mdo (cha)86a-209b"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62j",
+       "created": 1646116894151,
+       "text": "【卓尼版】Mdo-maṅ (cha)66a-159a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwoJ62k",
+      "created": 1646116894151,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwoJ62l",
+      "created": 1646116894151,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwoJ62m",
+      "created": 1646116894151,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwoJ62n",
+       "created": 1646116894151,
+       "text": "【房山石經】No.403《佛說大悲經》(高齊)天竺三藏那連提耶舍譯 冊數：9 / 頁數：550 / 卷數：5 / 刻經年代：大安元年刻石 / 瀏覽：目錄圖檔 千字文：王"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62o",
+       "created": 1646116894151,
+       "text": "【開寶藏】No.111《大悲經》高齊 天竺三藏那連提耶舍共法智 譯 部別：大乘經 涅槃部 / 卷數：5 千字文：賔"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62p",
+       "created": 1646116894151,
+       "text": "【崇寧藏】No.112《大悲經》 卷數：5 千字文：歸(127)"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62q",
+       "created": 1646116894151,
+       "text": "【毘盧藏】No.108《大悲經》高齊那連提耶舍共法智譯 參考年代：(宣和八．五) 千字文：歸(127)"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62r",
+       "created": 1646116894151,
+       "text": "【圓覺藏】No.109《大悲經》 卷數：5 千字文：歸(127)"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62s",
+       "created": 1646116894151,
+       "text": "【趙城金藏】No.110《大悲經》 卷數：5 千字文：賔"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62t",
+       "created": 1646116894151,
+       "text": "【資福藏】No.110《大悲經》 卷數：5 (五卷) 千字文：歸(127)"
+      }},
+      {"data": {
+       "id": "z5cYwoJ62u",
+       "created": 1646116894151,
+       "text": "【磧砂藏】No.112《大悲經》高齊 那連提耶舍．法智譯 部別：涅槃部 / 冊數：8 / 頁數：837 / 卷數：5 千字文：歸 6 (127)-歸 10 (127)"
+      }},
+      {"data": {
+       "id": "z5cYwoK62v",
+       "created": 1646116894152,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwoK62w",
+       "created": 1646116894152,
+       "text": "【高麗藏】No.110《大悲經》高齊天竺三藏那連提耶舍譯 部別：大乘經 涅槃部 / 冊數：9 頁數：493 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：賓"
+      }},
+      {"data": {
+       "id": "z5cYwoK62x",
+       "created": 1646116894152,
+       "text": "【普寧藏】No.108《大悲經》 卷數：5 千字文：歸(127)"
+      }},
+      {"data": {
+       "id": "z5cYwoK62y",
+       "created": 1646116894152,
+       "text": "【至元錄】No.189《大悲經》高齊天竺三藏那連提耶舍共法智譯 梵名：麻訶迦嚕拏　奔怛唎乞(二合)蘇怛囉(二合) / 卷數：5 千字文：草(139)"
+      }},
+      {"data": {
+       "id": "z5cYwoK62z",
+       "created": 1646116894152,
+       "text": "【洪武南藏】No.103《大悲經》高齊 天竺三藏那連提耶舍共法智 譯 冊數：43-44 / 頁數：484 / 卷數：5 千字文：歸 6 (127)-歸 10 (127)"
+      }},
+      {"data": {
+       "id": "z5cYwoK630",
+       "created": 1646116894152,
+       "text": "【永樂南藏】No.111《大悲經》 部別：大乘經-涅槃部 千字文：駒(134)"
+      }},
+      {"data": {
+       "id": "z5cYwoK631",
+       "created": 1646116894152,
+       "text": "【永樂北藏】No.140《大悲經》高齊那連提黎耶舍-共法智譯 部別：大乘經涅槃部 / 冊數：35 / 頁數：1 / 卷數：5 千字文：駒"
+      }},
+      {"data": {
+       "id": "z5cYwoK632",
+       "created": 1646116894152,
+       "text": "【嘉興藏】No.113《大悲經》高齊那連提黎耶舍-共法智譯 部別：大乘經-涅槃部 / 法寶總目錄經號：0113 千字文 / 函號：［正藏］ 駒(134)"
+      }},
+      {"data": {
+       "id": "z5cYwoK633",
+       "created": 1646116894152,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwoK634",
+       "created": 1646116894152,
+       "text": "【乾隆藏】No.113《大悲經》高齊 那連提黎耶舍,法智譯 部別：大乘涅槃部 / 冊數：30 / 頁數：359 / 卷數：5 千字文：駒"
+      }},
+      {"data": {
+       "id": "z5cYwoK635",
+       "created": 1646116894152,
+       "text": "【縮刻藏】No.441《大悲經》高齊那連提耶舍譯 部別：大乘經-涅槃部 / 卷數：5 千字文：盈 9 (11)"
+      }},
+      {"data": {
+       "id": "z5cYwoK636",
+       "created": 1646116894152,
+       "text": "【卍正藏】No.116《大悲經》高齊 那連提耶舍譯 部別：大乘經 涅槃部 / 冊數：14 / 頁數：640 / 卷數：5 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwoK637",
+       "created": 1646116894152,
+       "text": "【大正藏】No.380《大悲經》高齊 那連提耶舍譯 部別：涅槃部全 / 冊數：12 / 頁數：945 / 卷數：5 相關經典：縮-盈9,卍-8.9 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwoK638",
+       "created": 1646116894152,
+       "text": "【佛教大藏經】No.449《大悲經》高齊 那連提耶舍譯 部別：大乘經 涅槃部全 / 冊數：22 / 頁數：949 / 卷數：5"
+      }},
+      {"data": {
+       "id": "z5cYwoK639",
+       "created": 1646116894152,
+       "text": "【中華藏】No.118《大悲經》高齊天竺三藏那連提耶舍譯 冊數：15 / 頁數：180 / 卷數：5 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwoK63A",
+       "created": 1646116894152,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwoK63B",
+       "created": 1646116894152,
+       "text": "【南條文雄編號】 Nj. 0117"
+      }},
+      {"data": {
+       "id": "z5cYwoK63C",
+       "created": 1646116894152,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：380"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwhzc2",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

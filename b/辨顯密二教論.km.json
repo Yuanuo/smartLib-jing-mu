@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "辨顯密二教論"},
+  "children": [{
+   "data": {
+    "id": "z5cYyJvXq2",
+    "created": 1646116899955,
+    "text": "現藏錄（日本 空海撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyJvXpN",
+      "created": 1646116899955,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyJvXpO",
+        "created": 1646116899955,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJvXpP",
+        "created": 1646116899955,
+        "text": "辨顯密二教論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJvXpQ",
+        "created": 1646116899955,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJvXpR",
+        "created": 1646116899955,
+        "text": "辨显密二教论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyJvXpS",
+        "created": 1646116899955,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyJvXpT",
+        "created": 1646116899955,
+        "text": "bian xian mi er jiao lun"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJvXpU",
+      "created": 1646116899955,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJvXpV",
+      "created": 1646116899955,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJvXpW",
+      "created": 1646116899955,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJvXpX",
+       "created": 1646116899955,
+       "text": "日本 空海撰"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpY",
+       "created": 1646116899955,
+       "text": "空海",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyJvXpZ",
+      "created": 1646116899955,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyJvXpa",
+      "created": 1646116899955,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyJvXpb",
+      "created": 1646116899955,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyJvXpc",
+       "created": 1646116899955,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpd",
+       "created": 1646116899955,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpe",
+       "created": 1646116899955,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpf",
+       "created": 1646116899955,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpg",
+       "created": 1646116899955,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXph",
+       "created": 1646116899955,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpi",
+       "created": 1646116899955,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpj",
+       "created": 1646116899955,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpk",
+       "created": 1646116899955,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpl",
+       "created": 1646116899955,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpm",
+       "created": 1646116899955,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpn",
+       "created": 1646116899955,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpo",
+       "created": 1646116899955,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpp",
+       "created": 1646116899955,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpq",
+       "created": 1646116899955,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpr",
+       "created": 1646116899955,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXps",
+       "created": 1646116899955,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpt",
+       "created": 1646116899955,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpu",
+       "created": 1646116899955,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpv",
+       "created": 1646116899955,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpw",
+       "created": 1646116899955,
+       "text": "【大正藏】No.2427《辨顯密二教論》日本 空海撰 部別：續諸宗部八 / 冊數：77 / 頁數：374 / 卷數：2 相關經典：國-諸宗20 參考資料：cf.No.2434"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpx",
+       "created": 1646116899955,
+       "text": "【佛教大藏經】No.1100《辯顯密二教論》日本 空海撰 部別：小乘論 論部十四 / 冊數：48 / 頁數：576 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpy",
+       "created": 1646116899955,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXpz",
+       "created": 1646116899955,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXq0",
+       "created": 1646116899955,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyJvXq1",
+       "created": 1646116899955,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2427"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0z720q",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

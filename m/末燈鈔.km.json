@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "末燈鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyUaaUV",
+    "created": 1646116900616,
+    "text": "現藏錄（日本 從覺編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyUaaTq",
+      "created": 1646116900616,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyUaaTr",
+        "created": 1646116900616,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUaaTs",
+        "created": 1646116900616,
+        "text": "末燈鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUaaTt",
+        "created": 1646116900616,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUaaTu",
+        "created": 1646116900616,
+        "text": "末灯钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyUaaTv",
+        "created": 1646116900616,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyUaaTw",
+        "created": 1646116900616,
+        "text": "mo deng chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyUaaTx",
+      "created": 1646116900616,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUaaTy",
+      "created": 1646116900616,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUaaTz",
+      "created": 1646116900616,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyUaaU0",
+       "created": 1646116900616,
+       "text": "日本 從覺編"
+      }},
+      {"data": {
+       "id": "z5cYyUaaU1",
+       "created": 1646116900616,
+       "text": "從覺",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyUaaU2",
+      "created": 1646116900616,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyUaaU3",
+      "created": 1646116900616,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyUaaU4",
+      "created": 1646116900616,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyUaaU5",
+       "created": 1646116900616,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaU6",
+       "created": 1646116900616,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaU7",
+       "created": 1646116900616,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaU8",
+       "created": 1646116900616,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaU9",
+       "created": 1646116900616,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUA",
+       "created": 1646116900616,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUB",
+       "created": 1646116900616,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUC",
+       "created": 1646116900616,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUD",
+       "created": 1646116900616,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUE",
+       "created": 1646116900616,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUF",
+       "created": 1646116900616,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUG",
+       "created": 1646116900616,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUH",
+       "created": 1646116900616,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUI",
+       "created": 1646116900616,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUJ",
+       "created": 1646116900616,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUK",
+       "created": 1646116900616,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUL",
+       "created": 1646116900616,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUM",
+       "created": 1646116900616,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUN",
+       "created": 1646116900616,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUO",
+       "created": 1646116900616,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUP",
+       "created": 1646116900616,
+       "text": "【大正藏】No.2659《末燈鈔》日本 從覺編 部別：續諸宗部十四 / 冊數：83 / 頁數：711 / 卷數：2 相關經典： 參考資料：日本"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUQ",
+       "created": 1646116900616,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUR",
+       "created": 1646116900616,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUS",
+       "created": 1646116900616,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUT",
+       "created": 1646116900616,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyUaaUU",
+       "created": 1646116900616,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2659"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1hk27h",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "寒山詩"},
+  "children": [{
+   "data": {
+    "id": "z5cYyvtika",
+    "created": 1646116902309,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyvtijy",
+      "created": 1646116902309,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyvtijz",
+        "created": 1646116902309,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyvtik0",
+        "created": 1646116902309,
+        "text": "寒山詩",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyvtik1",
+        "created": 1646116902309,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyvtik2",
+        "created": 1646116902309,
+        "text": "寒山诗",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyvtik3",
+        "created": 1646116902309,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyvtik4",
+        "created": 1646116902309,
+        "text": "han shan shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyvtik5",
+      "created": 1646116902309,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYyvtik6",
+      "created": 1646116902309,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyvtik7",
+      "created": 1646116902309,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyvtik8",
+      "created": 1646116902309,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyvtik9",
+      "created": 1646116902309,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyvtikA",
+       "created": 1646116902309,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikB",
+       "created": 1646116902309,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikC",
+       "created": 1646116902309,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikD",
+       "created": 1646116902309,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikE",
+       "created": 1646116902309,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikF",
+       "created": 1646116902309,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikG",
+       "created": 1646116902309,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikH",
+       "created": 1646116902309,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikI",
+       "created": 1646116902309,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikJ",
+       "created": 1646116902309,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikK",
+       "created": 1646116902309,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikL",
+       "created": 1646116902309,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikM",
+       "created": 1646116902309,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikN",
+       "created": 1646116902309,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikO",
+       "created": 1646116902309,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikP",
+       "created": 1646116902309,
+       "text": "【嘉興藏】No.1759《寒山詩》 部別：續藏 / 法寶總目錄經號：1758 千字文 / 函號：［續藏］ 44 函"
+      }},
+      {"data": {
+       "id": "z5cYyvtikQ",
+       "created": 1646116902309,
+       "text": "【嘉興藏新文豐版】［續藏］No.103《寒山子詩集》唐 閭丘胤集 冊數：20 / 頁數：653 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYyvtikR",
+       "created": 1646116902309,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikS",
+       "created": 1646116902309,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikT",
+       "created": 1646116902309,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikU",
+       "created": 1646116902309,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikV",
+       "created": 1646116902309,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikW",
+       "created": 1646116902309,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikX",
+       "created": 1646116902309,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikY",
+       "created": 1646116902309,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyvtikZ",
+       "created": 1646116902309,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：246"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2sk2t6",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

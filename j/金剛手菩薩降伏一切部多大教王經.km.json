@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說金剛手菩薩降伏一切部多大教王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxQAGys",
+    "created": 1646116896498,
+    "text": "現藏錄（宋 法天譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxQAGxv",
+      "created": 1646116896498,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxQAGxw",
+        "created": 1646116896498,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxQAGxx",
+        "created": 1646116896498,
+        "text": "佛說金剛手菩薩降伏一切部多大教王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxQAGxy",
+        "created": 1646116896498,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxQAGxz",
+        "created": 1646116896498,
+        "text": "佛说金刚手菩萨降伏一切部多大教王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxQAGy0",
+        "created": 1646116896498,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxQAGy1",
+        "created": 1646116896498,
+        "text": "fo shuo jin gang shou pu sa xiang fu yi qie bu duo da jiao wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxQAGy9",
+        "created": 1646116896498,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxQAGyA",
+        "created": 1646116896498,
+        "text": "Chin kang shou p'u sa chiang fu i chieh pu to ta chiao wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxQAGyB",
+        "created": 1646116896498,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxQAGyC",
+        "created": 1646116896498,
+        "text": "Śrīsarvabhūtaḍāmaratantra(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxQAGyD",
+        "created": 1646116896498,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxQAGyE",
+        "created": 1646116896498,
+        "text": "Ḥbyuṅ-po ḥdul-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxQAGyF",
+        "created": 1646116896498,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxQAGyG",
+        "created": 1646116896498,
+        "text": "금강수보살항복일체부다대교왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxQAGy2",
+      "created": 1646116896498,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxQAGy3",
+      "created": 1646116896498,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxQAGy4",
+      "created": 1646116896498,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxQAGy5",
+       "created": 1646116896498,
+       "text": "宋 法天譯"
+      }},
+      {"data": {
+       "id": "z5cYxQAGy6",
+       "created": 1646116896498,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxQAGy7",
+      "created": 1646116896498,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxQAGy8",
+      "created": 1646116896498,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxQAGyH",
+      "created": 1646116896498,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxQAGyI",
+      "created": 1646116896498,
+      "text": "Ta chung lu vol.8 p.19a:21b."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxQAGyJ",
+      "created": 1646116896498,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxQAGyK",
+       "created": 1646116896498,
+       "text": "【北京版】Rgyud (tsha)32a-59a"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyL",
+       "created": 1646116896498,
+       "text": "【奈塘版】Rgyud (ba-goṅ)66a-105a"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyM",
+       "created": 1646116896498,
+       "text": "【德格版】Rgyud-ḥbum (dsa)238a-263a"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyN",
+       "created": 1646116896498,
+       "text": "【拉薩版】Rgyud (pha)157b-197a"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyO",
+       "created": 1646116896498,
+       "text": "【卓尼版】Rgyud (tsha)38a-69a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxQAGyP",
+      "created": 1646116896498,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxQAGyQ",
+      "created": 1646116896498,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxQAGyR",
+      "created": 1646116896498,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxQAGyS",
+       "created": 1646116896498,
+       "text": "【房山石經】No.969《佛說金剛手菩薩降伏一切部多大教王經》西天譯經三藏朝散大夫試鴻臚少卿傳教大師法天奉詔譯 冊數：26 / 頁數：584 / 卷數：3 / 刻經年代：皇統四年刻石 / 瀏覽：目錄圖檔 千字文：匡"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyT",
+       "created": 1646116896498,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyU",
+       "created": 1646116896498,
+       "text": "【崇寧藏】No.1198《佛說金剛手菩薩降伏一切部多大教王經》 卷數：3 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyV",
+       "created": 1646116896498,
+       "text": "【毘盧藏】No.1199《金剛手菩薩降伏一切部多大教王經》宋法天譯 參考年代：(紹興一八．閏八) 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyW",
+       "created": 1646116896498,
+       "text": "【圓覺藏】No.1207《金剛手菩薩降伏一切部多大教王經》 卷數：3 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyX",
+       "created": 1646116896498,
+       "text": "【趙城金藏】No.1203《金剛手菩薩降伏一切部多大教王經》 卷數：3 千字文：家"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyY",
+       "created": 1646116896498,
+       "text": "【資福藏】No.1212《金剛手菩薩降伏一切部多大教王經》 卷數：3 (三卷) 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyZ",
+       "created": 1646116896498,
+       "text": "【磧砂藏】No.1221《佛說金剛手菩薩降伏一切部多大教王經》宋 法天譯 部別： / 冊數：33 / 頁數：50 / 卷數：3 千字文：高 1 (505)-高 3 (505)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGya",
+       "created": 1646116896498,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyb",
+       "created": 1646116896498,
+       "text": "【高麗藏】No.1202《金剛手菩薩降伏一切部多大教王經》西天三藏傳教大師法天譯 部別：宋續入藏經 / 冊數：34 頁數：254 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：家"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyc",
+       "created": 1646116896498,
+       "text": "【普寧藏】No.1212《佛說金剛手菩薩降伏一切部多大教王經》 卷數：3 千字文：高(505)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyd",
+       "created": 1646116896498,
+       "text": "【至元錄】No.699《金剛手菩薩降伏一切部多大教王經》宋三藏法賢譯 梵名：室唎　薩哩(合)瓦晡怛　答麻囉　單特囉　拏麻 / 卷數：3 千字文：盡(255)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGye",
+       "created": 1646116896498,
+       "text": "【洪武南藏】No.1072《金剛手菩薩降伏一切部多大教王經》西天譯經三藏朝散大夫試鴻臚卿傳教大師臣法天 奉詔譯 冊數：181 / 頁數：428 / 卷數：3 千字文：高 1 (505)-高 3 (505)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyf",
+       "created": 1646116896498,
+       "text": "【永樂南藏】No.878《金剛手菩薩降伏一切部多大教王經》 部別：宋元入藏諸大小乘經 千字文：履(259)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyg",
+       "created": 1646116896498,
+       "text": "【永樂北藏】No.1063《佛說金剛手菩薩降伏一切部多大教王經》宋法天譯 部別：宋元入藏諸大小乘經之餘 / 冊數：73 / 頁數：773 / 卷數：3 千字文：淵"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyh",
+       "created": 1646116896498,
+       "text": "【嘉興藏】No.1024《金剛手菩薩降伏一切部多王經》宋法天譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1023 千字文 / 函號：［正藏］ 淵(277)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyi",
+       "created": 1646116896498,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyj",
+       "created": 1646116896498,
+       "text": "【乾隆藏】No.1026《佛說金剛手菩薩降伏一切部多大教王經》宋 法天譯 部別：宋元入藏諸大小乘經 / 冊數：62 / 頁數：197 / 卷數：3 千字文：淵"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyk",
+       "created": 1646116896498,
+       "text": "【縮刻藏】No.1590《佛說金剛手菩薩降伏一切部多大教王經》宋法天譯 部別：祕密部 / 卷數：3 千字文：成 11 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyl",
+       "created": 1646116896498,
+       "text": "【卍正藏】No.1035《佛說金剛手菩薩降伏一切部多大教王經》法天譯 部別：宋元入藏諸大小乘經之餘 / 冊數：30 / 頁數：45 / 卷數：3 原版套數：第 16 套"
+      }},
+      {"data": {
+       "id": "z5cYxQAGym",
+       "created": 1646116896498,
+       "text": "【大正藏】No.1129《佛說金剛手菩薩降伏一切部多大教王經》宋 法天譯 部別：密教部三 / 冊數：20 / 頁數：548 / 卷數：3 相關經典：縮-成11,卍-16.6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxQAGyn",
+       "created": 1646116896498,
+       "text": "【佛教大藏經】No.1667《佛說金剛手菩薩降伏一切部多大教王經》宋 法天譯 部別：密教部六 / 冊數：57 / 頁數：764 / 卷數：3"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyo",
+       "created": 1646116896498,
+       "text": "【中華藏】No.1312《佛說金剛手菩薩降伏一切部多大教王經》西天譯經三藏朝散大夫試鴻臚卿傳教大師法天奉詔譯 冊數：64 / 頁數：534 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyp",
+       "created": 1646116896498,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyq",
+       "created": 1646116896498,
+       "text": "【南條文雄編號】 Nj. 1031"
+      }},
+      {"data": {
+       "id": "z5cYxQAGyr",
+       "created": 1646116896498,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1129"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyb5yd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

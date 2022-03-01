@@ -1,0 +1,331 @@
+{
+ "root": {
+  "data": {"text": "佛說懈怠耕者經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxCUChF",
+    "created": 1646116895650,
+    "text": "現藏錄（劉宋 惠簡譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxCTCgN",
+      "created": 1646116895649,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxCTCgO",
+        "created": 1646116895649,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCTCgP",
+        "created": 1646116895649,
+        "text": "佛說懈怠耕者經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCTCgQ",
+        "created": 1646116895649,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCTCgR",
+        "created": 1646116895649,
+        "text": "佛说懈怠耕者经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCTCgS",
+        "created": 1646116895649,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCTCgT",
+        "created": 1646116895649,
+        "text": "fo shuo xie dai geng zhe jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCTCgc",
+        "created": 1646116895649,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCTCgd",
+        "created": 1646116895649,
+        "text": "Hsieh tai keng che ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxCTCge",
+       "created": 1646116895649,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxCTCgf",
+        "created": 1646116895649,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCTCgg",
+        "created": 1646116895649,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxCTCgh",
+        "created": 1646116895649,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxCTCgi",
+        "created": 1646116895649,
+        "text": "해태경자경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxCTCgU",
+      "created": 1646116895649,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCTCgV",
+      "created": 1646116895649,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxCTCgW",
+      "created": 1646116895649,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxCTCgX",
+       "created": 1646116895649,
+       "text": "劉宋 惠簡譯"
+      }},
+      {"data": {
+       "id": "z5cYxCTCgY",
+       "created": 1646116895649,
+       "text": "慧簡",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxCTCgZ",
+       "created": 1646116895649,
+       "text": "沮渠京聲",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxCTCga",
+      "created": 1646116895649,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCTCgb",
+      "created": 1646116895649,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxCTCgj",
+      "created": 1646116895649,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCTCgk",
+      "created": 1646116895649,
+      "text": "Translation by Hui-chien: sometime after the 1st year of Ta Ming (大明), Liu Sung dynasty (劉宋) (A.D. 457-) in Lu-yeh Monastery (鹿野寺).T. 2151-363a:2."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxCTCgl",
+     "created": 1646116895649,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxCTCgm",
+      "created": 1646116895649,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxCTCgn",
+      "created": 1646116895649,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxCTCgo",
+      "created": 1646116895649,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxCTCgp",
+       "created": 1646116895649,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCTCgq",
+       "created": 1646116895649,
+       "text": "【開寶藏】No.851《懈怠耕者經》劉宋 沙門釋惠簡 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：學"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgr",
+       "created": 1646116895650,
+       "text": "【崇寧藏】No.853《佛說懈怠耕者經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgs",
+       "created": 1646116895650,
+       "text": "【毘盧藏】No.854《懈怠耕者經》宋沮渠京聲譯 參考年代：(紹聖四．七) 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgt",
+       "created": 1646116895650,
+       "text": "【圓覺藏】No.858《懈怠耕者經》 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgu",
+       "created": 1646116895650,
+       "text": "【趙城金藏】No.855《懈怠耕者經》 卷數：1 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgv",
+       "created": 1646116895650,
+       "text": "【資福藏】No.864《懈怠耕者經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgw",
+       "created": 1646116895650,
+       "text": "【磧砂藏】No.876《佛說懈怠耕者經》宋 沮渠京聲譯 部別：小乘單譯經 / 冊數：20 / 頁數：134 / 卷數：1 千字文：竟 9 (304)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgx",
+       "created": 1646116895650,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgy",
+       "created": 1646116895650,
+       "text": "【高麗藏】No.852《懈怠耕者經》宋沙門惠簡譯 部別：小乘經 單譯 / 冊數：20 頁數：1198(原版) 614(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：無"
+      }},
+      {"data": {
+       "id": "z5cYxCUCgz",
+       "created": 1646116895650,
+       "text": "【普寧藏】No.868《佛說懈怠耕者經》 卷數：1 千字文：竟(304)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh0",
+       "created": 1646116895650,
+       "text": "【至元錄】No.1094《懈怠耕者經》宋沙門慧簡譯 卷數：1 千字文：上(329)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh1",
+       "created": 1646116895650,
+       "text": "【洪武南藏】No.780《佛說懈怠耕者經》宋 居士沮渠京聲 譯 冊數：106 / 頁數：381 / 卷數：1 千字文：竟 9 (304)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh2",
+       "created": 1646116895650,
+       "text": "【永樂南藏】No.743《佛說懈怠耕者經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh3",
+       "created": 1646116895650,
+       "text": "【永樂北藏】No.799《佛說懈怠耕者經》劉宋沮渠京聲譯 部別：小乘經單譯經 / 冊數：66 / 頁數：725 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh4",
+       "created": 1646116895650,
+       "text": "【嘉興藏】No.762《佛說懈怠耕者經》劉宋沮渠京聲譯 部別：小乘經-單譯經 / 法寶總目錄經號：0762 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh5",
+       "created": 1646116895650,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh6",
+       "created": 1646116895650,
+       "text": "【乾隆藏】No.763《佛說懈怠耕者經》宋 沮渠京聲譯 部別：小乘單譯經 / 冊數：56 / 頁數：174 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh7",
+       "created": 1646116895650,
+       "text": "【縮刻藏】No.385《佛說懈怠耕者經》宋惠簡譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh8",
+       "created": 1646116895650,
+       "text": "【卍正藏】No.772《佛說懈怠耕者經》宋 惠簡譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：146 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxCUCh9",
+       "created": 1646116895650,
+       "text": "【大正藏】No.827《佛說懈怠耕者經》劉宋 惠簡譯 部別：經集部四 / 冊數：17 / 頁數：870 / 卷數：1 相關經典：縮-宙8,卍-15.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxCUChA",
+       "created": 1646116895650,
+       "text": "【佛教大藏經】No.388《佛說懈怠耕者經》劉宋 惠簡譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：499 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxCUChB",
+       "created": 1646116895650,
+       "text": "【中華藏】No.922《佛說懈怠耕者經》宋沙門惠簡譯 冊數：36 / 頁數：351 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYxCUChC",
+       "created": 1646116895650,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxCUChD",
+       "created": 1646116895650,
+       "text": "【南條文雄編號】 Nj. 0768"
+      }},
+      {"data": {
+       "id": "z5cYxCUChE",
+       "created": 1646116895650,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：827"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxnlp4",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

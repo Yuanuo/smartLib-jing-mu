@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "御義口傳"},
+  "children": [{
+   "data": {
+    "id": "z5cYyVxavG",
+    "created": 1646116900701,
+    "text": "現藏錄（日本 日興撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyVwaub",
+      "created": 1646116900700,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyVwauc",
+        "created": 1646116900700,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVwaud",
+        "created": 1646116900700,
+        "text": "御義口傳",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyVwaue",
+        "created": 1646116900700,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVxauf",
+        "created": 1646116900701,
+        "text": "御义口传",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyVxaug",
+        "created": 1646116900701,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyVxauh",
+        "created": 1646116900701,
+        "text": "yu yi kou chuan"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyVxaui",
+      "created": 1646116900701,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyVxauj",
+      "created": 1646116900701,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyVxauk",
+      "created": 1646116900701,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyVxaul",
+       "created": 1646116900701,
+       "text": "日本 日興撰"
+      }},
+      {"data": {
+       "id": "z5cYyVxaum",
+       "created": 1646116900701,
+       "text": "日興",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyVxaun",
+      "created": 1646116900701,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyVxauo",
+      "created": 1646116900701,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyVxaup",
+      "created": 1646116900701,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyVxauq",
+       "created": 1646116900701,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxaur",
+       "created": 1646116900701,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxaus",
+       "created": 1646116900701,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxaut",
+       "created": 1646116900701,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxauu",
+       "created": 1646116900701,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxauv",
+       "created": 1646116900701,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxauw",
+       "created": 1646116900701,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxaux",
+       "created": 1646116900701,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxauy",
+       "created": 1646116900701,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxauz",
+       "created": 1646116900701,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav0",
+       "created": 1646116900701,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav1",
+       "created": 1646116900701,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav2",
+       "created": 1646116900701,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav3",
+       "created": 1646116900701,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav4",
+       "created": 1646116900701,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav5",
+       "created": 1646116900701,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav6",
+       "created": 1646116900701,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav7",
+       "created": 1646116900701,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav8",
+       "created": 1646116900701,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxav9",
+       "created": 1646116900701,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxavA",
+       "created": 1646116900701,
+       "text": "【大正藏】No.2699《御義口傳》日本 日興撰 部別：續諸宗部十五 / 冊數：84 / 頁數：301 / 卷數：2 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyVxavB",
+       "created": 1646116900701,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxavC",
+       "created": 1646116900701,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxavD",
+       "created": 1646116900701,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxavE",
+       "created": 1646116900701,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyVxavF",
+       "created": 1646116900701,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2699"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1jw28l",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

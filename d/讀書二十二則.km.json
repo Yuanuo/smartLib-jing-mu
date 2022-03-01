@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "讀書二十二則"},
+  "children": [{
+   "data": {
+    "id": "z5cYyP8Z9Y",
+    "created": 1646116900278,
+    "text": "現藏錄（日本 戒定撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyP7Z8t",
+      "created": 1646116900277,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyP7Z8u",
+        "created": 1646116900277,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyP7Z8v",
+        "created": 1646116900277,
+        "text": "讀書二十二則",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyP7Z8w",
+        "created": 1646116900277,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyP7Z8x",
+        "created": 1646116900277,
+        "text": "读书二十二则",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyP7Z8y",
+        "created": 1646116900277,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyP7Z8z",
+        "created": 1646116900277,
+        "text": "du shu er shi er ze"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyP7Z90",
+      "created": 1646116900277,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyP7Z91",
+      "created": 1646116900277,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyP7Z92",
+      "created": 1646116900277,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyP7Z93",
+       "created": 1646116900277,
+       "text": "日本 戒定撰"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z94",
+       "created": 1646116900277,
+       "text": "戒定",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyP7Z95",
+      "created": 1646116900277,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyP7Z96",
+      "created": 1646116900277,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyP7Z97",
+      "created": 1646116900277,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyP7Z98",
+       "created": 1646116900277,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z99",
+       "created": 1646116900277,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9A",
+       "created": 1646116900277,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9B",
+       "created": 1646116900277,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9C",
+       "created": 1646116900277,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9D",
+       "created": 1646116900277,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9E",
+       "created": 1646116900277,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9F",
+       "created": 1646116900277,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9G",
+       "created": 1646116900277,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9H",
+       "created": 1646116900277,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9I",
+       "created": 1646116900277,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9J",
+       "created": 1646116900277,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9K",
+       "created": 1646116900277,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9L",
+       "created": 1646116900277,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9M",
+       "created": 1646116900277,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9N",
+       "created": 1646116900277,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9O",
+       "created": 1646116900277,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9P",
+       "created": 1646116900277,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9Q",
+       "created": 1646116900277,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9R",
+       "created": 1646116900277,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9S",
+       "created": 1646116900277,
+       "text": "【大正藏】No.2542《讀書二十二則》日本 戒定撰 部別：續諸宗部十 / 冊數：79 / 頁數：819 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9T",
+       "created": 1646116900277,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9U",
+       "created": 1646116900277,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9V",
+       "created": 1646116900277,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9W",
+       "created": 1646116900277,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyP7Z9X",
+       "created": 1646116900277,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2542"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri185243",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

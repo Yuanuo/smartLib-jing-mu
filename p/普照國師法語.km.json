@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "普照國師法語"},
+  "children": [{
+   "data": {
+    "id": "z5cYySEZrP",
+    "created": 1646116900470,
+    "text": "現藏錄（日本 隱元隆琦語、門人性杲等編）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYySEZqj",
+      "created": 1646116900470,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYySEZqk",
+        "created": 1646116900470,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYySEZql",
+        "created": 1646116900470,
+        "text": "普照國師法語",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYySEZqm",
+        "created": 1646116900470,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYySEZqn",
+        "created": 1646116900470,
+        "text": "普照国师法语",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYySEZqo",
+        "created": 1646116900470,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYySEZqp",
+        "created": 1646116900470,
+        "text": "pu zhao guo shi fa yu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYySEZqq",
+      "created": 1646116900470,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYySEZqr",
+      "created": 1646116900470,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYySEZqs",
+      "created": 1646116900470,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYySEZqt",
+       "created": 1646116900470,
+       "text": "日本 隱元隆琦語、門人性杲等編"
+      }},
+      {"data": {
+       "id": "z5cYySEZqu",
+       "created": 1646116900470,
+       "text": "性杲",
+       "resource": ["author"]
+      }},
+      {"data": {
+       "id": "z5cYySEZqv",
+       "created": 1646116900470,
+       "text": "隱元隆琦",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYySEZqw",
+      "created": 1646116900470,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYySEZqx",
+      "created": 1646116900470,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYySEZqy",
+      "created": 1646116900470,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYySEZqz",
+       "created": 1646116900470,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr0",
+       "created": 1646116900470,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr1",
+       "created": 1646116900470,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr2",
+       "created": 1646116900470,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr3",
+       "created": 1646116900470,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr4",
+       "created": 1646116900470,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr5",
+       "created": 1646116900470,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr6",
+       "created": 1646116900470,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr7",
+       "created": 1646116900470,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr8",
+       "created": 1646116900470,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZr9",
+       "created": 1646116900470,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrA",
+       "created": 1646116900470,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrB",
+       "created": 1646116900470,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrC",
+       "created": 1646116900470,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrD",
+       "created": 1646116900470,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrE",
+       "created": 1646116900470,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrF",
+       "created": 1646116900470,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrG",
+       "created": 1646116900470,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrH",
+       "created": 1646116900470,
+       "text": "【縮刻藏】No.1900《普照國師法語》嗣法門人性杲等編 部別：日本撰述部-黃檗宗 / 卷數：2 千字文：霜 8 (40)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrI",
+       "created": 1646116900470,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrJ",
+       "created": 1646116900470,
+       "text": "【大正藏】No.2606《普照國師法語》日本 隱元隆琦語、門人性杲等編 部別：續諸宗部十三 / 冊數：82 / 頁數：755 / 卷數：2 相關經典：國-諸宗23 參考資料：cf.No.2605"
+      }},
+      {"data": {
+       "id": "z5cYySEZrK",
+       "created": 1646116900470,
+       "text": "【佛教大藏經】No.2089《普照國師法語》日本 隱元隆琦語．門人性杲等編 部別：撰述部 黃檗宗 / 冊數：84 / 頁數：488 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYySEZrL",
+       "created": 1646116900470,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrM",
+       "created": 1646116900470,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrN",
+       "created": 1646116900470,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYySEZrO",
+       "created": 1646116900470,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2606　卷中：688"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1di25v",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

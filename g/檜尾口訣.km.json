@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "檜尾口訣"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLOYJQ",
+    "created": 1646116900046,
+    "text": "現藏錄（日本 實慧撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLOYIl",
+      "created": 1646116900046,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLOYIm",
+        "created": 1646116900046,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLOYIn",
+        "created": 1646116900046,
+        "text": "檜尾口訣",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLOYIo",
+        "created": 1646116900046,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLOYIp",
+        "created": 1646116900046,
+        "text": "桧尾口诀",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLOYIq",
+        "created": 1646116900046,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLOYIr",
+        "created": 1646116900046,
+        "text": "gui wei kou jue"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLOYIs",
+      "created": 1646116900046,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLOYIt",
+      "created": 1646116900046,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLOYIu",
+      "created": 1646116900046,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLOYIv",
+       "created": 1646116900046,
+       "text": "日本 實慧撰"
+      }},
+      {"data": {
+       "id": "z5cYyLOYIw",
+       "created": 1646116900046,
+       "text": "實慧",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLOYIx",
+      "created": 1646116900046,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLOYIy",
+      "created": 1646116900046,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLOYIz",
+      "created": 1646116900046,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLOYJ0",
+       "created": 1646116900046,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ1",
+       "created": 1646116900046,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ2",
+       "created": 1646116900046,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ3",
+       "created": 1646116900046,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ4",
+       "created": 1646116900046,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ5",
+       "created": 1646116900046,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ6",
+       "created": 1646116900046,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ7",
+       "created": 1646116900046,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ8",
+       "created": 1646116900046,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJ9",
+       "created": 1646116900046,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJA",
+       "created": 1646116900046,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJB",
+       "created": 1646116900046,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJC",
+       "created": 1646116900046,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJD",
+       "created": 1646116900046,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJE",
+       "created": 1646116900046,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJF",
+       "created": 1646116900046,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJG",
+       "created": 1646116900046,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJH",
+       "created": 1646116900046,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJI",
+       "created": 1646116900046,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJJ",
+       "created": 1646116900046,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJK",
+       "created": 1646116900046,
+       "text": "【大正藏】No.2465《檜尾口訣》日本 實慧撰 部別：續諸宗部九 / 冊數：78 / 頁數：24 / 卷數：1 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyLOYJL",
+       "created": 1646116900046,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJM",
+       "created": 1646116900046,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJN",
+       "created": 1646116900046,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJO",
+       "created": 1646116900046,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLOYJP",
+       "created": 1646116900046,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2465"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri11q21y",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

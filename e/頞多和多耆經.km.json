@@ -1,0 +1,305 @@
+{
+ "root": {
+  "data": {"text": "佛說頞多和多耆經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx7ZBPu",
+    "created": 1646116895345,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx7ZBP6",
+      "created": 1646116895345,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx7ZBP7",
+        "created": 1646116895345,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7ZBP8",
+        "created": 1646116895345,
+        "text": "佛說頞多和多耆經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7ZBP9",
+        "created": 1646116895345,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7ZBPA",
+        "created": 1646116895345,
+        "text": "佛说頞多和多耆经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7ZBPB",
+        "created": 1646116895345,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7ZBPC",
+        "created": 1646116895345,
+        "text": "fo shuo e duo he duo qi jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7ZBPH",
+        "created": 1646116895345,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7ZBPI",
+        "created": 1646116895345,
+        "text": "O to ho to ch'i ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYx7ZBPJ",
+       "created": 1646116895345,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYx7ZBPK",
+        "created": 1646116895345,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7ZBPL",
+        "created": 1646116895345,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx7ZBPM",
+        "created": 1646116895345,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx7ZBPN",
+        "created": 1646116895345,
+        "text": "알다화다기경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx7ZBPD",
+      "created": 1646116895345,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7ZBPE",
+      "created": 1646116895345,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx7ZBPF",
+      "created": 1646116895345,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7ZBPG",
+      "created": 1646116895345,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx7ZBPO",
+      "created": 1646116895345,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7ZBPP",
+      "created": 1646116895345,
+      "text": "Hsi Chin lu (西晉錄) (A.D. 265-317).T.2154-718c:5."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx7ZBPQ",
+     "created": 1646116895345,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx7ZBPR",
+      "created": 1646116895345,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx7ZBPS",
+      "created": 1646116895345,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx7ZBPT",
+      "created": 1646116895345,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx7ZBPU",
+       "created": 1646116895345,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPV",
+       "created": 1646116895345,
+       "text": "【開寶藏】No.864《頞多和多耆經》西晉 失譯者 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPW",
+       "created": 1646116895345,
+       "text": "【崇寧藏】No.866《頞多和多耆經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPX",
+       "created": 1646116895345,
+       "text": "【毘盧藏】No.867《頞多和多耆經》失譯 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPY",
+       "created": 1646116895345,
+       "text": "【圓覺藏】No.874《頞多和多耆經》 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPZ",
+       "created": 1646116895345,
+       "text": "【趙城金藏】No.878《頞多和多耆經》 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPa",
+       "created": 1646116895345,
+       "text": "【資福藏】No.880《頞多和多耆經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPb",
+       "created": 1646116895345,
+       "text": "【磧砂藏】No.889《佛說頞多和多耆經》失譯 部別：小乘單譯經 / 冊數：20 / 頁數：155 / 卷數：1 千字文：學 4 (305)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPc",
+       "created": 1646116895345,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPd",
+       "created": 1646116895345,
+       "text": "【高麗藏】No.876《頞多和多耆經》失譯人名今附西晉錄 部別：小乘經 單譯 / 冊數：20 頁數：1249(原版) 665(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPe",
+       "created": 1646116895345,
+       "text": "【普寧藏】No.881《佛說頞多和多耆經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPf",
+       "created": 1646116895345,
+       "text": "【至元錄】No.1107《頞多和多耆經》失譯人名 卷數：1 / 出處：(附西晉錄) 千字文：和(330)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPg",
+       "created": 1646116895345,
+       "text": "【洪武南藏】No.792《佛說頞多和多耆經》失譯人名今附西晉錄 冊數：106 / 頁數：453 / 卷數：1 千字文：斈 4 (305)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPh",
+       "created": 1646116895345,
+       "text": "【永樂南藏】No.756《佛說頞多和多耆經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPi",
+       "created": 1646116895345,
+       "text": "【永樂北藏】No.809《佛說頞多和多耆經》失譯人名附西晉錄 部別：小乘經單譯經 / 冊數：66 / 頁數：769 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPj",
+       "created": 1646116895345,
+       "text": "【嘉興藏】No.772《佛說頞多和多耆經》失譯人名附西晉錄 部別：小乘經-單譯經 / 法寶總目錄經號：0772 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPk",
+       "created": 1646116895345,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPl",
+       "created": 1646116895345,
+       "text": "【乾隆藏】No.773《佛說頞多和多耆經》失譯人名今附西晉錄 部別：小乘單譯經 / 冊數：56 / 頁數：207 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPm",
+       "created": 1646116895345,
+       "text": "【縮刻藏】No.705《佛說頞多和多耆經》失譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPn",
+       "created": 1646116895345,
+       "text": "【卍正藏】No.782《佛說頞多和多耆經》失譯人今附西晉錄 部別：小乘經 單譯經 / 冊數：27 / 頁數：167 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPo",
+       "created": 1646116895345,
+       "text": "【大正藏】No.740《佛說頞多和多耆經》失譯 部別：經集部四 / 冊數：17 / 頁數：543 / 卷數：1 相關經典：縮-宿7,卍-15.1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPp",
+       "created": 1646116895345,
+       "text": "【佛教大藏經】No.726《佛說頞多和多耆經》失譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：392 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPq",
+       "created": 1646116895345,
+       "text": "【中華藏】No.953《佛說頞多和多耆經》失譯人今附西晉錄 冊數：36 / 頁數：449 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPr",
+       "created": 1646116895345,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPs",
+       "created": 1646116895345,
+       "text": "【南條文雄編號】 Nj. 0778"
+      }},
+      {"data": {
+       "id": "z5cYx7ZBPt",
+       "created": 1646116895345,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：740"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhxf5mk",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

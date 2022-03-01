@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "三論宗章疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYyAeUuX",
+    "created": 1646116899380,
+    "text": "現藏錄（日本 安遠錄）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyAeUts",
+      "created": 1646116899380,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyAeUtt",
+        "created": 1646116899380,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyAeUtu",
+        "created": 1646116899380,
+        "text": "三論宗章疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyAeUtv",
+        "created": 1646116899380,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyAeUtw",
+        "created": 1646116899380,
+        "text": "三论宗章疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyAeUtx",
+        "created": 1646116899380,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyAeUty",
+        "created": 1646116899380,
+        "text": "san lun zong zhang shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyAeUtz",
+      "created": 1646116899380,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyAeUu0",
+      "created": 1646116899380,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyAeUu1",
+      "created": 1646116899380,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyAeUu2",
+       "created": 1646116899380,
+       "text": "日本 安遠錄"
+      }},
+      {"data": {
+       "id": "z5cYyAeUu3",
+       "created": 1646116899380,
+       "text": "安遠",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyAeUu4",
+      "created": 1646116899380,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyAeUu5",
+      "created": 1646116899380,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyAeUu6",
+      "created": 1646116899380,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyAeUu7",
+       "created": 1646116899380,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUu8",
+       "created": 1646116899380,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUu9",
+       "created": 1646116899380,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuA",
+       "created": 1646116899380,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuB",
+       "created": 1646116899380,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuC",
+       "created": 1646116899380,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuD",
+       "created": 1646116899380,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuE",
+       "created": 1646116899380,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuF",
+       "created": 1646116899380,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuG",
+       "created": 1646116899380,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuH",
+       "created": 1646116899380,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuI",
+       "created": 1646116899380,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuJ",
+       "created": 1646116899380,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuK",
+       "created": 1646116899380,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuL",
+       "created": 1646116899380,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuM",
+       "created": 1646116899380,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuN",
+       "created": 1646116899380,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuO",
+       "created": 1646116899380,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuP",
+       "created": 1646116899380,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuQ",
+       "created": 1646116899380,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuR",
+       "created": 1646116899380,
+       "text": "【大正藏】No.2179《三論宗章疏》日本 安遠錄 部別：目錄部全 / 冊數：55 / 頁數：1137 / 卷數：1 相關經典：佛全-1 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyAeUuS",
+       "created": 1646116899380,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuT",
+       "created": 1646116899380,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuU",
+       "created": 1646116899380,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuV",
+       "created": 1646116899380,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyAeUuW",
+       "created": 1646116899380,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2179"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0j81t8",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

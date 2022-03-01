@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "菩薩生地經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwx38Qr",
+    "created": 1646116894693,
+    "text": "現藏錄（吳 支謙譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwx28Pu",
+      "created": 1646116894692,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwx28Pv",
+        "created": 1646116894692,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwx28Pw",
+        "created": 1646116894692,
+        "text": "菩薩生地經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwx28Px",
+        "created": 1646116894692,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwx28Py",
+        "created": 1646116894692,
+        "text": "菩萨生地经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwx28Pz",
+        "created": 1646116894692,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwx28Q0",
+        "created": 1646116894692,
+        "text": "pu sa sheng di jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwx38Q8",
+        "created": 1646116894693,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwx38Q9",
+        "created": 1646116894693,
+        "text": "Fu sa sheng ti ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwx38QA",
+        "created": 1646116894693,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwx38QB",
+        "created": 1646116894693,
+        "text": "Kṣemaṅkāraparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwx38QC",
+        "created": 1646116894693,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwx38QD",
+        "created": 1646116894693,
+        "text": "Bde-byed-kyis shus pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwx38QE",
+        "created": 1646116894693,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwx38QF",
+        "created": 1646116894693,
+        "text": "보살생지경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwx28Q1",
+      "created": 1646116894692,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwx28Q2",
+      "created": 1646116894692,
+      "text": "吳",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwx28Q3",
+      "created": 1646116894692,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwx28Q4",
+       "created": 1646116894692,
+       "text": "吳 支謙譯"
+      }},
+      {"data": {
+       "id": "z5cYwx38Q5",
+       "created": 1646116894693,
+       "text": "支謙",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwx38Q6",
+      "created": 1646116894693,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwx38Q7",
+      "created": 1646116894693,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwx38QG",
+      "created": 1646116894693,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwx38QH",
+      "created": 1646116894693,
+      "text": "Translation by Chih-ch'ien: between the 2nd year of Huang Wu (黃武) and the 2nd year of Chien Hsing (建興), Wu dynasty (呉) (A.D.223-253).T.2151-351b:21."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwx38QI",
+      "created": 1646116894693,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwx38QJ",
+       "created": 1646116894693,
+       "text": "【北京版】Mdo-sna-tshogs (phu)176b-180b"
+      }},
+      {"data": {
+       "id": "z5cYwx38QK",
+       "created": 1646116894693,
+       "text": "【奈塘版】Mdo (pa)270a-277a"
+      }},
+      {"data": {
+       "id": "z5cYwx38QL",
+       "created": 1646116894693,
+       "text": "【德格版】Mdo-sde (ba)167b-171b"
+      }},
+      {"data": {
+       "id": "z5cYwx38QM",
+       "created": 1646116894693,
+       "text": "【拉薩版】Mdo (pa)264b-271a"
+      }},
+      {"data": {
+       "id": "z5cYwx38QN",
+       "created": 1646116894693,
+       "text": "【卓尼版】Mdo-maṅ (ba)1974-201b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwx38QO",
+      "created": 1646116894693,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwx38QP",
+      "created": 1646116894693,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwx38QQ",
+      "created": 1646116894693,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwx38QR",
+       "created": 1646116894693,
+       "text": "【房山石經】No.504《菩薩生地經》(吴)月支優婆塞支謙譯 冊數：11 / 頁數：100 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：改"
+      }},
+      {"data": {
+       "id": "z5cYwx38QS",
+       "created": 1646116894693,
+       "text": "【開寶藏】No.359《菩薩生地經》吳 月支優婆塞支謙 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYwx38QT",
+       "created": 1646116894693,
+       "text": "【崇寧藏】No.357《菩薩生地經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwx38QU",
+       "created": 1646116894693,
+       "text": "【毘盧藏】No.355《菩薩生地經》吳支謙譯 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwx38QV",
+       "created": 1646116894693,
+       "text": "【圓覺藏】No.365《菩薩生地經》 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwx38QW",
+       "created": 1646116894693,
+       "text": "【趙城金藏】No.360《菩薩生地經》 卷數：1 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYwx38QX",
+       "created": 1646116894693,
+       "text": "【資福藏】No.369《菩薩生地經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwx38QY",
+       "created": 1646116894693,
+       "text": "【磧砂藏】No.373《菩薩生地經》吳 支謙譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：755 / 卷數：1 千字文：必 3 (171)"
+      }},
+      {"data": {
+       "id": "z5cYwx38QZ",
+       "created": 1646116894693,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qa",
+       "created": 1646116894693,
+       "text": "【高麗藏】No.359《菩薩生地經》吳月氏優婆塞支謙譯 部別：大乘經 五大部外諸重譯經 / 冊數：12 頁數：116 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：過"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qb",
+       "created": 1646116894693,
+       "text": "【普寧藏】No.367《菩薩生地經》 卷數：1 千字文：必(171)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qc",
+       "created": 1646116894693,
+       "text": "【至元錄】No.368《菩薩生地經》吳月支三藏支謙譯 卷數：1 / 譯次：(第一譯闕第二)(周為單本) 千字文：能(174)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qd",
+       "created": 1646116894693,
+       "text": "【洪武南藏】No.323《菩薩生地經》吳黃武年 月支優婆塞支謙 譯 冊數：58 / 頁數：110 / 卷數：1 千字文：必 3 (171)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qe",
+       "created": 1646116894693,
+       "text": "【永樂南藏】No.366《菩薩生地經》 部別：大乘經-五大部外重譯經 千字文：忘(176)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qf",
+       "created": 1646116894693,
+       "text": "【永樂北藏】No.402《菩薩生地經》吳支謙譯 部別：大乘經單經譯 / 冊數：47 / 頁數：381 / 卷數：1 千字文：彼"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qg",
+       "created": 1646116894693,
+       "text": "【嘉興藏】No.373《菩薩生地經》吳支謙譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0373 千字文 / 函號：［正藏］ 彼(179)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qh",
+       "created": 1646116894693,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qi",
+       "created": 1646116894693,
+       "text": "【乾隆藏】No.374《菩薩生地經》吳 支謙譯 部別：大乘單譯經 / 冊數：40 / 頁數：445 / 卷數：1 千字文：彼"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qj",
+       "created": 1646116894693,
+       "text": "【縮刻藏】No.323《菩薩生地經》吳支謙譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 7 (6)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qk",
+       "created": 1646116894693,
+       "text": "【卍正藏】No.379《菩薩生地經》吳 支謙譯 部別：大乘經 單譯經 / 冊數：19 / 頁數：536 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYwx38Ql",
+       "created": 1646116894693,
+       "text": "【大正藏】No.533《菩薩生地經》吳 支謙譯 部別：經集部一 / 冊數：14 / 頁數：814 / 卷數：1 相關經典：縮-宙7,卍-11.3 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwx38Qm",
+       "created": 1646116894693,
+       "text": "【佛教大藏經】No.326《菩薩生地經》吳 支謙譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：237 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qn",
+       "created": 1646116894693,
+       "text": "【中華藏】No.385《菩薩生地經》吳支謙譯 冊數：20 / 頁數：549 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qo",
+       "created": 1646116894693,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qp",
+       "created": 1646116894693,
+       "text": "【南條文雄編號】 Nj. 0378"
+      }},
+      {"data": {
+       "id": "z5cYwx38Qq",
+       "created": 1646116894693,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：533"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwx0gr",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

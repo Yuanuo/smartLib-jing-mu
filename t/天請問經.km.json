@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "天請問經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx0g9Ia",
+    "created": 1646116894918,
+    "text": "現藏錄（唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx0d9Hd",
+      "created": 1646116894915,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx0d9He",
+        "created": 1646116894915,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0d9Hf",
+        "created": 1646116894915,
+        "text": "天請問經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0d9Hg",
+        "created": 1646116894915,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0d9Hh",
+        "created": 1646116894915,
+        "text": "天请问经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0e9Hi",
+        "created": 1646116894916,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0e9Hj",
+        "created": 1646116894916,
+        "text": "tian qing wen jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0e9Hr",
+        "created": 1646116894916,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0e9Hs",
+        "created": 1646116894916,
+        "text": "T'ien ch'ing wen ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0e9Ht",
+        "created": 1646116894916,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0e9Hu",
+        "created": 1646116894916,
+        "text": "Devatāsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0e9Hv",
+        "created": 1646116894916,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0e9Hw",
+        "created": 1646116894916,
+        "text": "Lhaḥi mdo"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx0e9Hx",
+        "created": 1646116894916,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx0e9Hy",
+        "created": 1646116894916,
+        "text": "천청문경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0e9Hk",
+      "created": 1646116894916,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0e9Hl",
+      "created": 1646116894916,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0e9Hm",
+      "created": 1646116894916,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0e9Hn",
+       "created": 1646116894916,
+       "text": "唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYx0e9Ho",
+       "created": 1646116894916,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0e9Hp",
+      "created": 1646116894916,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0e9Hq",
+      "created": 1646116894916,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0e9Hz",
+      "created": 1646116894916,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0e9I0",
+      "created": 1646116894916,
+      "text": "Translation by Hsüan-tsang: 20th day, 3rd month, 22nd year of Chen Kuan (貞觀), T'ang dynasty (唐) (April 17th, A.D. 648) in Hung-fu Monastery (弘福寺).T. 2154-557a:5; T. 2157-856c:11."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0e9I1",
+      "created": 1646116894916,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0e9I2",
+       "created": 1646116894916,
+       "text": "【北京版】Mdo-sna-tshogs (śa)265b-267a"
+      }},
+      {"data": {
+       "id": "z5cYx0e9I3",
+       "created": 1646116894916,
+       "text": "【奈塘版】Mdo (la)405b-408a"
+      }},
+      {"data": {
+       "id": "z5cYx0e9I4",
+       "created": 1646116894916,
+       "text": "【德格版】Mdo-sde (sa)257a-258b"
+      }},
+      {"data": {
+       "id": "z5cYx0e9I5",
+       "created": 1646116894916,
+       "text": "【拉薩版】Mdo (la)393b-395b"
+      }},
+      {"data": {
+       "id": "z5cYx0e9I6",
+       "created": 1646116894916,
+       "text": "【卓尼版】Mdo-maṅ (sa)309b-311a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx0e9I7",
+      "created": 1646116894916,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx0e9I8",
+      "created": 1646116894916,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx0e9I9",
+      "created": 1646116894916,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx0f9IA",
+       "created": 1646116894917,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IB",
+       "created": 1646116894917,
+       "text": "【開寶藏】No.855《天請問經》唐 三藏玄奘 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IC",
+       "created": 1646116894917,
+       "text": "【崇寧藏】No.857《天請問經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9ID",
+       "created": 1646116894917,
+       "text": "【毘盧藏】No.858《天請問經》唐沙門玄奘譯 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IE",
+       "created": 1646116894917,
+       "text": "【圓覺藏】No.866《天請問經》 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IF",
+       "created": 1646116894917,
+       "text": "【趙城金藏】No.883《天請問經》 卷數：1 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IG",
+       "created": 1646116894917,
+       "text": "【資福藏】No.872《天請問經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IH",
+       "created": 1646116894917,
+       "text": "【磧砂藏】No.880《天請問經》唐 玄奘譯 部別：小乘單譯經 / 冊數：20 / 頁數：139 / 卷數：1 千字文：學 1 (305)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9II",
+       "created": 1646116894917,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IJ",
+       "created": 1646116894917,
+       "text": "【高麗藏】No.881《天請問經》大唐三藏玄奘譯 部別：小乘經 單譯 / 冊數：20 頁數：1255(原版) 671(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IK",
+       "created": 1646116894917,
+       "text": "【普寧藏】No.872《天請問經》 卷數：1 千字文：學(305)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IL",
+       "created": 1646116894917,
+       "text": "【至元錄】No.1098《天請問經》唐三藏玄奘譯 卷數：1 / 出處：(出內典錄) 千字文：和(330)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IM",
+       "created": 1646116894917,
+       "text": "【洪武南藏】No.784《佛說天請問經》唐 三藏沙門玄奘 奉詔譯 冊數：106 / 頁數：402 / 卷數：1 千字文：斈 1 (305)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IN",
+       "created": 1646116894917,
+       "text": "【永樂南藏】No.747《天請問經》 部別：小乘經-單譯經 千字文：當(250)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IO",
+       "created": 1646116894917,
+       "text": "【永樂北藏】No.784《天請問經》唐玄奘譯 部別：小乘經單譯經 / 冊數：66 / 頁數：665 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IP",
+       "created": 1646116894917,
+       "text": "【嘉興藏】No.747《天請問經》唐玄奘譯 部別：小乘經-單譯經 / 法寶總目錄經號：0747 千字文 / 函號：［正藏］ 當(250)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IQ",
+       "created": 1646116894917,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IR",
+       "created": 1646116894917,
+       "text": "【乾隆藏】No.748《天請問經》唐 玄奘譯 部別：小乘單譯經 / 冊數：56 / 頁數：126 / 卷數：1 千字文：當"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IS",
+       "created": 1646116894917,
+       "text": "【縮刻藏】No.644《天請問經》唐玄奘譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IT",
+       "created": 1646116894917,
+       "text": "【卍正藏】No.757《天請問經》大唐 玄奘譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：117 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IU",
+       "created": 1646116894917,
+       "text": "【大正藏】No.592《天請問經》唐 玄奘譯 部別：經集部二 / 冊數：15 / 頁數：124 / 卷數：1 相關經典：縮-宿7,卍-15.1 參考資料：cf.No.2786"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IV",
+       "created": 1646116894917,
+       "text": "【佛教大藏經】No.664《天請問經》唐 玄奘譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：195 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IW",
+       "created": 1646116894917,
+       "text": "【中華藏】No.956《天請問經》大唐三藏法師玄奘奉詔譯 冊數：36 / 頁數：457 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IX",
+       "created": 1646116894917,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IY",
+       "created": 1646116894917,
+       "text": "【南條文雄編號】 Nj. 0753"
+      }},
+      {"data": {
+       "id": "z5cYx0f9IZ",
+       "created": 1646116894917,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：592"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx35ig",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

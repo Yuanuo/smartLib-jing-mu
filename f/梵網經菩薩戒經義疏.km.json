@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "梵網經菩薩戒經義疏"},
+  "children": [{
+   "data": {
+    "id": "z5cYysFhaj",
+    "created": 1646116902083,
+    "text": "現藏錄（隋 智凱說　唐 灌頂記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYysFha4",
+      "created": 1646116902083,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYysFha5",
+        "created": 1646116902083,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYysFha6",
+        "created": 1646116902083,
+        "text": "梵網經菩薩戒經義疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYysFha7",
+        "created": 1646116902083,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYysFha8",
+        "created": 1646116902083,
+        "text": "梵网经菩萨戒经义疏",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYysFha9",
+        "created": 1646116902083,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYysFhaA",
+        "created": 1646116902083,
+        "text": "fan wang jing pu sa jie jing yi shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYysFhaB",
+      "created": 1646116902083,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYysFhaC",
+      "created": 1646116902083,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYysFhaD",
+      "created": 1646116902083,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYysFhaE",
+       "created": 1646116902083,
+       "text": "隋 智凱說　唐 灌頂記"
+      }},
+      {"data": {
+       "id": "z5cYysFhaF",
+       "created": 1646116902083,
+       "text": "智顗",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYysFhaG",
+      "created": 1646116902083,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYysFhaH",
+      "created": 1646116902083,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYysFhaI",
+      "created": 1646116902083,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYysFhaJ",
+       "created": 1646116902083,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaK",
+       "created": 1646116902083,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaL",
+       "created": 1646116902083,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaM",
+       "created": 1646116902083,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaN",
+       "created": 1646116902083,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaO",
+       "created": 1646116902083,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaP",
+       "created": 1646116902083,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaQ",
+       "created": 1646116902083,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaR",
+       "created": 1646116902083,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaS",
+       "created": 1646116902083,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaT",
+       "created": 1646116902083,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaU",
+       "created": 1646116902083,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaV",
+       "created": 1646116902083,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaW",
+       "created": 1646116902083,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaX",
+       "created": 1646116902083,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaY",
+       "created": 1646116902083,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaZ",
+       "created": 1646116902083,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaa",
+       "created": 1646116902083,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhab",
+       "created": 1646116902083,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhac",
+       "created": 1646116902083,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhad",
+       "created": 1646116902083,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhae",
+       "created": 1646116902083,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhaf",
+       "created": 1646116902083,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhag",
+       "created": 1646116902083,
+       "text": "【新纂卍續藏】No.676《梵網菩薩戒經義疏》隋 智顗說　唐 灌頂記 部別：中國撰述 大小乘釋律部一 大乘律疏 / 冊數：38 / 頁數：1 / 卷數：2 《卍大日本續藏經》套數：第一編．第 59 套 《卍續藏經》(新文豐版)冊數：第 59 冊"
+      }},
+      {"data": {
+       "id": "z5cYysFhah",
+       "created": 1646116902083,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYysFhai",
+       "created": 1646116902083,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：979"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri2mb2q5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

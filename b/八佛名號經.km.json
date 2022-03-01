@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "八佛名號經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwrv6vB",
+    "created": 1646116894375,
+    "text": "現藏錄（隋 闍那崛多譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwrv6uE",
+      "created": 1646116894375,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwrv6uF",
+        "created": 1646116894375,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrv6uG",
+        "created": 1646116894375,
+        "text": "八佛名號經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrv6uH",
+        "created": 1646116894375,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrv6uI",
+        "created": 1646116894375,
+        "text": "八佛名号经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrv6uJ",
+        "created": 1646116894375,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrv6uK",
+        "created": 1646116894375,
+        "text": "ba fo ming hao jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrv6uS",
+        "created": 1646116894375,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrv6uT",
+        "created": 1646116894375,
+        "text": "Pa fo ming hao ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrv6uU",
+        "created": 1646116894375,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrv6uV",
+        "created": 1646116894375,
+        "text": "Aṣṭabuddhaka(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrv6uW",
+        "created": 1646116894375,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrv6uX",
+        "created": 1646116894375,
+        "text": "Saṅs-rgyas brgyad pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrv6uY",
+        "created": 1646116894375,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrv6uZ",
+        "created": 1646116894375,
+        "text": "팔불명호경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrv6uL",
+      "created": 1646116894375,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrv6uM",
+      "created": 1646116894375,
+      "text": "隋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrv6uN",
+      "created": 1646116894375,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrv6uO",
+       "created": 1646116894375,
+       "text": "隋 闍那崛多譯"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uP",
+       "created": 1646116894375,
+       "text": "闍那崛多",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrv6uQ",
+      "created": 1646116894375,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrv6uR",
+      "created": 1646116894375,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrv6ua",
+      "created": 1646116894375,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrv6ub",
+      "created": 1646116894375,
+      "text": "Translation by Jñānagupta: 6th month, 6th year of K'ai Huang (開皇), Sui dynasty (隋) (A.D. 586) in Ta-hsing-shan Monastery (大興善寺), Ch'ang-an (長安).T.2153-390b:27; T. 2154-548c:15."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrv6uc",
+      "created": 1646116894375,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrv6ud",
+       "created": 1646116894375,
+       "text": "【北京版】Mdo-sna-tshogs (ḥu)53a-56a"
+      }},
+      {"data": {
+       "id": "z5cYwrv6ue",
+       "created": 1646116894375,
+       "text": "【奈塘版】Mdo (za)72a-76b"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uf",
+       "created": 1646116894375,
+       "text": "【德格版】Mdo-sde (ya)49b-52b"
+      }},
+      {"data": {
+       "id": "z5cYwrv6ug",
+       "created": 1646116894375,
+       "text": "【拉薩版】Mdo (za)123a-127a"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uh",
+       "created": 1646116894375,
+       "text": "【卓尼版】Mdo-maṅ (ya)59b-63a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrv6ui",
+      "created": 1646116894375,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrv6uj",
+      "created": 1646116894375,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrv6uk",
+      "created": 1646116894375,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrv6ul",
+       "created": 1646116894375,
+       "text": "【房山石經】No.472《八佛名號經》(隋)三藏法師闍那崛多譯 冊數：10 / 頁數：451 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：慕"
+      }},
+      {"data": {
+       "id": "z5cYwrv6um",
+       "created": 1646116894375,
+       "text": "【開寶藏】No.280《八佛名號經》隋 天竺三藏闍那崛多等 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwrv6un",
+       "created": 1646116894375,
+       "text": "【崇寧藏】No.281《八佛名號經》 卷數：1 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uo",
+       "created": 1646116894375,
+       "text": "【毘盧藏】No.273《八佛名號經》隋闍那崛多譯 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6up",
+       "created": 1646116894375,
+       "text": "【圓覺藏】No.289《八佛名號經》 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uq",
+       "created": 1646116894375,
+       "text": "【趙城金藏】No.282《八佛名號經》 卷數：1 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwrv6ur",
+       "created": 1646116894375,
+       "text": "【資福藏】No.293《八佛名號經》 卷數：1 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6us",
+       "created": 1646116894375,
+       "text": "【磧砂藏】No.294《佛說八佛名號經》隋 闍那崛多譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：236 / 卷數：1 千字文：女 7 (161)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6ut",
+       "created": 1646116894375,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uu",
+       "created": 1646116894375,
+       "text": "【高麗藏】No.282《八佛名號經》隋天竺三藏闍那崛多譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：631 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：傷"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uv",
+       "created": 1646116894375,
+       "text": "【普寧藏】No.288《佛說八佛名號經》 卷數：1 千字文：女(161)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uw",
+       "created": 1646116894375,
+       "text": "【至元錄】No.357《八佛名號經》隋天竺三藏闍那崛多譯 卷數：1 / 譯次：(第五譯) 千字文：得(173)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6ux",
+       "created": 1646116894375,
+       "text": "【洪武南藏】No.260《佛說八佛名號經》隋 北天竺三藏法師闍那崛多 譯 冊數：55 / 頁數：75 / 卷數：1 千字文：女 7 (161)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uy",
+       "created": 1646116894375,
+       "text": "【永樂南藏】No.283《佛說八佛名號經》 部別：大乘經-五大部外重譯經 千字文：才(167)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6uz",
+       "created": 1646116894375,
+       "text": "【永樂北藏】No.326《佛說八佛名號經》隋闍那崛多譯 部別：大乘經五大部外重譯經 / 冊數：44 / 頁數：537 / 卷數：1 千字文：知"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v0",
+       "created": 1646116894375,
+       "text": "【嘉興藏】No.297《八佛名號經》隋闍那崛多譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0297 千字文 / 函號：［正藏］ 知(169)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v1",
+       "created": 1646116894375,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v2",
+       "created": 1646116894375,
+       "text": "【乾隆藏】No.298《佛說八佛名號經》隋 闍那崛多譯 部別：大乘五大部外重譯經 / 冊數：38 / 頁數：150 / 卷數：1 千字文：知"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v3",
+       "created": 1646116894375,
+       "text": "【縮刻藏】No.129《八佛名號經》隋闍那崛多譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 4 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v4",
+       "created": 1646116894375,
+       "text": "【卍正藏】No.302《八佛名號經》隋 闍那崛多譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：408 / 卷數：1 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v5",
+       "created": 1646116894375,
+       "text": "【大正藏】No.431《八佛名號經》隋 闍那崛多譯 部別：經集部一 / 冊數：14 / 頁數：76 / 卷數：1 相關經典：縮-黃4,卍-10.7 參考資料：Nos.427-430"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v6",
+       "created": 1646116894375,
+       "text": "【佛教大藏經】No.131《八佛名號經》隋 闍那崛多譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：731 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v7",
+       "created": 1646116894375,
+       "text": "【中華藏】No.290《八佛名號經》隋天竺三藏闍那崛多譯 冊數：19 / 頁數：302 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v8",
+       "created": 1646116894375,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrv6v9",
+       "created": 1646116894375,
+       "text": "【南條文雄編號】 Nj. 0302"
+      }},
+      {"data": {
+       "id": "z5cYwrv6vA",
+       "created": 1646116894375,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：431"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwo6ds",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

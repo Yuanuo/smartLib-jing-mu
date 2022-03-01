@@ -1,0 +1,333 @@
+{
+ "root": {
+  "data": {"text": "佛說阿闍世王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx239mm",
+    "created": 1646116895003,
+    "text": "現藏錄（後漢 支婁迦讖譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx239lu",
+      "created": 1646116895003,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx239lv",
+        "created": 1646116895003,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx239lw",
+        "created": 1646116895003,
+        "text": "佛說阿闍世王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx239lx",
+        "created": 1646116895003,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx239ly",
+        "created": 1646116895003,
+        "text": "佛说阿阇世王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx239lz",
+        "created": 1646116895003,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx239m0",
+        "created": 1646116895003,
+        "text": "fo shuo a du shi wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx239m8",
+        "created": 1646116895003,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYx239m9",
+        "created": 1646116895003,
+        "text": "A she shih wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx239mA",
+        "created": 1646116895003,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx239mB",
+        "created": 1646116895003,
+        "text": "Ajātaśatrukaukṛtyavinodana(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx239mC",
+        "created": 1646116895003,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx239mD",
+        "created": 1646116895003,
+        "text": "Ma-skyes-dgraḥi ḥgyod-pa bsal-ba"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx239mE",
+        "created": 1646116895003,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYx239mF",
+        "created": 1646116895003,
+        "text": "아사세왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx239m1",
+      "created": 1646116895003,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx239m2",
+      "created": 1646116895003,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx239m3",
+      "created": 1646116895003,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx239m4",
+       "created": 1646116895003,
+       "text": "後漢 支婁迦讖譯"
+      }},
+      {"data": {
+       "id": "z5cYx239m5",
+       "created": 1646116895003,
+       "text": "支婁迦讖",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx239m6",
+      "created": 1646116895003,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx239m7",
+      "created": 1646116895003,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx239mG",
+      "created": 1646116895003,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYx239mH",
+      "created": 1646116895003,
+      "text": "Translation by Lokakṣema: between the first year of Chien Ho (建和) and the 3rd year of Chung P'ing (中平), Later Han dynasty (後漢) (A.D. 147-186) in Lo-yang (洛陽).T. 2151-348c:8."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYx239mI",
+     "created": 1646116895003,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYx239mJ",
+      "created": 1646116895003,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYx239mK",
+      "created": 1646116895003,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx239mL",
+      "created": 1646116895003,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx239mM",
+       "created": 1646116895003,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx239mN",
+       "created": 1646116895003,
+       "text": "【開寶藏】No.180《阿闍世王經》後漢 月支三藏支婁迦讖 譯 部別：大乘經 五大部外諸重譯經 / 卷數：2 千字文：恭"
+      }},
+      {"data": {
+       "id": "z5cYx239mO",
+       "created": 1646116895003,
+       "text": "【崇寧藏】No.180《佛說阿闍世王經》 卷數：2 千字文：惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mP",
+       "created": 1646116895003,
+       "text": "【毘盧藏】No.176《佛說阿闍世王經》後漢支婁迦讖譯 參考年代：(靖康元．五) 千字文：惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mQ",
+       "created": 1646116895003,
+       "text": "【圓覺藏】No.188《阿闍世王經》 卷數：2 千字文：惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mR",
+       "created": 1646116895003,
+       "text": "【趙城金藏】No.179《阿闍世王經》 卷數：2 千字文：恭"
+      }},
+      {"data": {
+       "id": "z5cYx239mS",
+       "created": 1646116895003,
+       "text": "【資福藏】No.192《阿闍世王經》 卷數：2 (二卷) 千字文：惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mT",
+       "created": 1646116895003,
+       "text": "【磧砂藏】No.192《佛說阿闍世王經》後漢 支婁迦讖譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：711 / 卷數：2 千字文：惟 5 (154)-惟 6 (154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mU",
+       "created": 1646116895003,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx239mV",
+       "created": 1646116895003,
+       "text": "【高麗藏】No.179《阿闍世王經》後漢月氏三藏支婁迦讖譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：1367 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：恭"
+      }},
+      {"data": {
+       "id": "z5cYx239mW",
+       "created": 1646116895003,
+       "text": "【普寧藏】No.187《佛說阿闍世王經》 卷數：2 千字文：惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mX",
+       "created": 1646116895003,
+       "text": "【至元錄】No.258《阿世王經》後漢月支三藏支婁迦讖譯 梵名：阿唎(二合)　亞阿扎怛　沙都嚕孤吉哩(二合)　低牙　尾奴怛拏　拏麻 / 卷數：2 / 譯次：(第一譯) 千字文：效(166)"
+      }},
+      {"data": {
+       "id": "z5cYx239mY",
+       "created": 1646116895003,
+       "text": "【洪武南藏】No.174《阿闍世王經》後漢 月支三藏法師支婁迦懺 初譯 冊數：52 / 頁數：366 / 卷數：2 千字文：惟 5 (154)-惟 6 (154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mZ",
+       "created": 1646116895003,
+       "text": "【永樂南藏】No.160《阿闍世王經》 部別：大乘經-五大部外重譯經 千字文：惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx239ma",
+       "created": 1646116895003,
+       "text": "【永樂北藏】No.198《佛說阿闍世王經》後漢支婁迦讖譯 部別：大乘經五大部外重譯經 / 冊數：40 / 頁數：473 / 卷數：2 千字文：惟"
+      }},
+      {"data": {
+       "id": "z5cYx239mb",
+       "created": 1646116895003,
+       "text": "【嘉興藏】No.169《佛說阿闍世王經》後漢支婁迦讖譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0169 千字文 / 函號：［正藏］ 惟(154)"
+      }},
+      {"data": {
+       "id": "z5cYx239mc",
+       "created": 1646116895003,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx239md",
+       "created": 1646116895003,
+       "text": "【乾隆藏】No.170《佛說阿闍世王經》後漢 支婁迦讖譯 部別：大乘五大部外重譯經 / 冊數：34 / 頁數：745 / 卷數：2 千字文：帷"
+      }},
+      {"data": {
+       "id": "z5cYx239me",
+       "created": 1646116895003,
+       "text": "【縮刻藏】No.208《佛說阿闍世王經》後漢支婁迦讖譯 部別：大乘經-方等部 / 卷數：2 千字文：宇 8 (5)"
+      }},
+      {"data": {
+       "id": "z5cYx239mf",
+       "created": 1646116895003,
+       "text": "【卍正藏】No.172《佛說阿闍世王經》後漢 支婁迦讖譯 部別：大乘經 五大部外重譯經 / 冊數：16 / 頁數：795 / 卷數：2 原版套數：第 9 套"
+      }},
+      {"data": {
+       "id": "z5cYx239mg",
+       "created": 1646116895003,
+       "text": "【大正藏】No.626《佛說阿闍世王經》後漢 支婁迦讖譯 部別：經集部二 / 冊數：15 / 頁數：389 / 卷數：2 相關經典：縮-宇8,卍-9.10 參考資料：Nos.627-629"
+      }},
+      {"data": {
+       "id": "z5cYx239mh",
+       "created": 1646116895003,
+       "text": "【佛教大藏經】No.211《佛說阿闍世王經》後漢 支婁迦讖譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：416 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYx239mi",
+       "created": 1646116895003,
+       "text": "【中華藏】No.189《佛說阿闍世王經》後漢月氏三藏支婁迦讖譯 冊數：18 / 頁數：402 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYx239mj",
+       "created": 1646116895003,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx239mk",
+       "created": 1646116895003,
+       "text": "【南條文雄編號】 Nj. 0174"
+      }},
+      {"data": {
+       "id": "z5cYx239ml",
+       "created": 1646116895003,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：626"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx5nje",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

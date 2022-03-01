@@ -1,0 +1,325 @@
+{
+ "root": {
+  "data": {"text": "瞿曇彌記果經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwOdqa",
+    "created": 1646116892559,
+    "text": "現藏錄（劉宋 慧簡譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwOcpj",
+      "created": 1646116892558,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwOcpk",
+        "created": 1646116892558,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOcpl",
+        "created": 1646116892558,
+        "text": "瞿曇彌記果經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOcpm",
+        "created": 1646116892558,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOcpn",
+        "created": 1646116892558,
+        "text": "瞿昙弥记果经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOcpo",
+        "created": 1646116892558,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOcpp",
+        "created": 1646116892558,
+        "text": "qu tan mi ji guo jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOcpx",
+        "created": 1646116892558,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOcpy",
+        "created": 1646116892558,
+        "text": "Ch'ü t'an mi chi kuo ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYwOcpz",
+       "created": 1646116892558,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYwOcq0",
+        "created": 1646116892558,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOcq1",
+        "created": 1646116892558,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwOcq2",
+        "created": 1646116892558,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwOcq3",
+        "created": 1646116892558,
+        "text": "구담미기과경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwOcpq",
+      "created": 1646116892558,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOcpr",
+      "created": 1646116892558,
+      "text": "劉宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOcps",
+      "created": 1646116892558,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwOcpt",
+       "created": 1646116892558,
+       "text": "劉宋 慧簡譯"
+      }},
+      {"data": {
+       "id": "z5cYwOcpu",
+       "created": 1646116892558,
+       "text": "慧簡",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwOcpv",
+      "created": 1646116892558,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOcpw",
+      "created": 1646116892558,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOcq4",
+      "created": 1646116892558,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOcq5",
+      "created": 1646116892558,
+      "text": "Translation by Hui-chien: (see K.682)."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYwOcq6",
+     "created": 1646116892558,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYwOcq7",
+      "created": 1646116892558,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwOcq8",
+      "created": 1646116892558,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwOcq9",
+      "created": 1646116892558,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwOcqA",
+       "created": 1646116892558,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOcqB",
+       "created": 1646116892558,
+       "text": "【開寶藏】No.686《瞿曇彌記果經》失譯者 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：若"
+      }},
+      {"data": {
+       "id": "z5cYwOcqC",
+       "created": 1646116892558,
+       "text": "【崇寧藏】No.688《佛說瞿曇彌記果經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOcqD",
+       "created": 1646116892558,
+       "text": "【毘盧藏】No.689《佛說瞿曇彌記果經》宋慧簡譯 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOcqE",
+       "created": 1646116892558,
+       "text": "【圓覺藏】No.697《瞿曇彌記果經》 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOcqF",
+       "created": 1646116892558,
+       "text": "【趙城金藏】No.684《瞿曇彌記果經》 卷數：1 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwOcqG",
+       "created": 1646116892558,
+       "text": "【資福藏】No.702《瞿曇彌記果經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOcqH",
+       "created": 1646116892558,
+       "text": "【磧砂藏】No.708《佛說瞿曇彌記果經》劉宋 慧簡譯 部別：阿含部 / 冊數：18 / 頁數：806 / 卷數：1 千字文：止 9 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwOcqI",
+       "created": 1646116892558,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOcqJ",
+       "created": 1646116892558,
+       "text": "【高麗藏】No.683《瞿曇彌記果經》宋沙門釋惠蘭譯 部別：小乘經 阿含部 / 冊數：19 頁數：546 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：容"
+      }},
+      {"data": {
+       "id": "z5cYwOcqK",
+       "created": 1646116892558,
+       "text": "【普寧藏】No.700《佛說瞿曇彌記果經》 卷數：1 千字文：止(282)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqL",
+       "created": 1646116892559,
+       "text": "【至元錄】No.930《瞿曇彌記果經》宋沙門惠簡譯 卷數：1 千字文：登(307)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqM",
+       "created": 1646116892559,
+       "text": "【洪武南藏】No.628《佛說瞿曇弥記果經》劉宋 三藏法師慧簡 譯 冊數：99 / 頁數：228 / 卷數：1 千字文：止 9 (282)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqN",
+       "created": 1646116892559,
+       "text": "【永樂南藏】No.577《佛說瞿曇彌記果經》 部別：小乘經-阿含部 千字文：福(229)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqO",
+       "created": 1646116892559,
+       "text": "【永樂北藏】No.621《佛說瞿曇彌記果經》劉宋慧簡譯 部別：小乘經阿含部 / 冊數：61 / 頁數：775 / 卷數：1 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwOdqP",
+       "created": 1646116892559,
+       "text": "【嘉興藏】No.586《佛說瞿曇彌記果經》劉宋慧簡譯 部別：小乘經-阿含部 / 法寶總目錄經號：0586 千字文 / 函號：［正藏］ 緣(230)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqQ",
+       "created": 1646116892559,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqR",
+       "created": 1646116892559,
+       "text": "【乾隆藏】No.587《佛說瞿曇彌記果經》劉宋 慧簡譯 部別：小乘阿含部 / 冊數：51 / 頁數：797 / 卷數：1 千字文：緣"
+      }},
+      {"data": {
+       "id": "z5cYwOdqS",
+       "created": 1646116892559,
+       "text": "【縮刻藏】No.514《佛說瞿曇彌記果經》宋慧簡譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqT",
+       "created": 1646116892559,
+       "text": "【卍正藏】No.594《佛說瞿曇彌記果經》宋 慧簡譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：221 / 卷數：1 原版套數：第 14 套"
+      }},
+      {"data": {
+       "id": "z5cYwOdqU",
+       "created": 1646116892559,
+       "text": "【大正藏】No.60《瞿曇彌記果經》劉宋 慧簡譯 部別：阿含部上 / 冊數：1 / 頁數：856 / 卷數：1 相關經典：縮-昃8,卍-14.1,南-4.10.5,21.8.51 參考資料：No.26(116)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqV",
+       "created": 1646116892559,
+       "text": "【佛教大藏經】No.522《佛說瞿曇彌記果經》劉宋 慧簡譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：277 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwOdqW",
+       "created": 1646116892559,
+       "text": "【中華藏】No.741《佛說瞿曇彌記果經》宋三藏法師慧簡譯 冊數：34 / 頁數：80 / 卷數：1 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwOdqX",
+       "created": 1646116892559,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwOdqY",
+       "created": 1646116892559,
+       "text": "【南條文雄編號】 Nj. 0591"
+      }},
+      {"data": {
+       "id": "z5cYwOdqZ",
+       "created": 1646116892559,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：60"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhv9p1n",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

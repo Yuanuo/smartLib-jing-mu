@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說八部佛名經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwrn6tK",
+    "created": 1646116894367,
+    "text": "現藏錄（元魏 瞿曇般若流支譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwrm6sN",
+      "created": 1646116894366,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwrm6sO",
+        "created": 1646116894366,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrm6sP",
+        "created": 1646116894366,
+        "text": "佛說八部佛名經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrm6sQ",
+        "created": 1646116894366,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrm6sR",
+        "created": 1646116894366,
+        "text": "佛说八部佛名经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrm6sS",
+        "created": 1646116894366,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrm6sT",
+        "created": 1646116894366,
+        "text": "fo shuo ba bu fo ming jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrm6sb",
+        "created": 1646116894366,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrm6sc",
+        "created": 1646116894366,
+        "text": "Pa pu fo ming ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrm6sd",
+        "created": 1646116894366,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrm6se",
+        "created": 1646116894366,
+        "text": "Maṅgalāṣṭaka(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrm6sf",
+        "created": 1646116894366,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrm6sg",
+        "created": 1646116894366,
+        "text": "Bkra-śis brgyad-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwrm6sh",
+        "created": 1646116894366,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwrm6si",
+        "created": 1646116894366,
+        "text": "팔부불명경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrm6sU",
+      "created": 1646116894366,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrm6sV",
+      "created": 1646116894366,
+      "text": "元魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrm6sW",
+      "created": 1646116894366,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrm6sX",
+       "created": 1646116894366,
+       "text": "元魏 瞿曇般若流支譯"
+      }},
+      {"data": {
+       "id": "z5cYwrm6sY",
+       "created": 1646116894366,
+       "text": "般若流支",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrm6sZ",
+      "created": 1646116894366,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrm6sa",
+      "created": 1646116894366,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrm6sj",
+      "created": 1646116894366,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrm6sk",
+      "created": 1646116894366,
+      "text": "Translation by Gautama Prajñāruci: 4th year of Hsing Ho (興和), Yüan Wei dynasty (元魏) (A.D. 542) in Chin-hua Monastery (金華寺).T. 2154-542c:9."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrm6sl",
+      "created": 1646116894366,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrm6sm",
+       "created": 1646116894366,
+       "text": "【北京版】Mdo-sna-tshogs (hu)56a-58b"
+      }},
+      {"data": {
+       "id": "z5cYwrm6sn",
+       "created": 1646116894366,
+       "text": "【奈塘版】Mdo (za)76a-79a"
+      }},
+      {"data": {
+       "id": "z5cYwrm6so",
+       "created": 1646116894366,
+       "text": "【德格版】Mdo-sde (ya)52b-54b"
+      }},
+      {"data": {
+       "id": "z5cYwrm6sp",
+       "created": 1646116894366,
+       "text": "【拉薩版】Mdo (za)127a-130b"
+      }},
+      {"data": {
+       "id": "z5cYwrm6sq",
+       "created": 1646116894366,
+       "text": "【卓尼版】Mdo-maṅ (ya)63a-65b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwrm6sr",
+      "created": 1646116894366,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwrm6ss",
+      "created": 1646116894366,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwrm6st",
+      "created": 1646116894366,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwrn6su",
+       "created": 1646116894367,
+       "text": "【房山石經】No.154《佛說八部佛名經》(元魏)婆羅門瞿曇般若流支譯 冊數：3 / 頁數：436 / 卷數：1 / 刻經年代：會昌元年 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.646《佛說八部佛名經》(元魏)天竺婆羅門瞿曇般若流支譯 冊數：14 / 頁數：70 / 卷數：1 / 刻經年代：天會十一年刻石 / 瀏覽：目錄圖檔 千字文：行"
+      }},
+      {"data": {
+       "id": "z5cYwrn6sv",
+       "created": 1646116894367,
+       "text": "【開寶藏】No.496《八部佛名經》元魏 婆羅門瞿曇般若流支 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwrn6sw",
+       "created": 1646116894367,
+       "text": "【崇寧藏】No.499《佛說八部佛名經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6sx",
+       "created": 1646116894367,
+       "text": "【毘盧藏】No.494《八部佛名經》元魏瞿曇般若流支譯 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6sy",
+       "created": 1646116894367,
+       "text": "【圓覺藏】No.502《八部佛名經》 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6sz",
+       "created": 1646116894367,
+       "text": "【趙城金藏】No.494《八部佛名經》 卷數：1 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t0",
+       "created": 1646116894367,
+       "text": "【資福藏】No.508《八部佛名經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t1",
+       "created": 1646116894367,
+       "text": "【磧砂藏】No.517《佛說八部佛名經》元魏 瞿曇般若流支譯 部別：五大部外單譯經 / 冊數：13 / 頁數：788 / 卷數：1 千字文：景 10 (201)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t2",
+       "created": 1646116894367,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t3",
+       "created": 1646116894367,
+       "text": "【高麗藏】No.493《八部佛名經》元魏婆羅門瞿曇般若流支譯 部別：大乘經 單譯 / 冊數：13 頁數：1317 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羊"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t4",
+       "created": 1646116894367,
+       "text": "【普寧藏】No.511《佛說八部佛名經》 卷數：1 千字文：景(201)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t5",
+       "created": 1646116894367,
+       "text": "【至元錄】No.454《八部佛名經》元魏婆羅門瞿曇般若流支譯 梵名：阿濕(二合)　怛　晡怛甘　拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：絲(195)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t6",
+       "created": 1646116894367,
+       "text": "【洪武南藏】No.455《佛說八部佛名經》元魏 婆羅門瞿曇般若流支 譯 冊數：68 / 頁數：337 / 卷數：1 千字文：景 10 (201)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t7",
+       "created": 1646116894367,
+       "text": "【永樂南藏】No.510《佛說八部佛名經》 部別：大乘經-單譯經 千字文：賢(204)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t8",
+       "created": 1646116894367,
+       "text": "【永樂北藏】No.434《佛說八部佛名經》元魏般若流支譯 部別：大乘經單經譯 / 冊數：49 / 頁數：51 / 卷數：1 千字文：信"
+      }},
+      {"data": {
+       "id": "z5cYwrn6t9",
+       "created": 1646116894367,
+       "text": "【嘉興藏】No.405《佛說八部佛名經》元魏般若流支譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0405 千字文 / 函號：［正藏］ 信(185)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tA",
+       "created": 1646116894367,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tB",
+       "created": 1646116894367,
+       "text": "【乾隆藏】No.406《佛說八部佛名經》元魏 般若流支譯 部別：大乘單譯經 / 冊數：41 / 頁數：710 / 卷數：1 千字文：信"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tC",
+       "created": 1646116894367,
+       "text": "【縮刻藏】No.133《佛說八部佛名經》元魏瞿曇般若流支譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 4 (4)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tD",
+       "created": 1646116894367,
+       "text": "【卍正藏】No.411《佛說八部佛名經》元魏 瞿曇般若流支譯 部別：大乘經 單譯經 / 冊數：20 / 頁數：197 / 卷數：1 原版套數：第 11 套"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tE",
+       "created": 1646116894367,
+       "text": "【大正藏】No.429《佛說八部佛名經》元魏 瞿曇般若流支譯 部別：經集部一 / 冊數：14 / 頁數：74 / 卷數：1 相關經典：縮-黃4,卍-11.7 參考資料：Nos.427,428,430,431"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tF",
+       "created": 1646116894367,
+       "text": "【佛教大藏經】No.135《佛說八部佛名經》元魏 瞿曇般若流支譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：738 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tG",
+       "created": 1646116894367,
+       "text": "【中華藏】No.530《佛說八部佛名經》元魏天竺婆羅門瞿曇般若流支譯 冊數：24 / 頁數：230 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tH",
+       "created": 1646116894367,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tI",
+       "created": 1646116894367,
+       "text": "【南條文雄編號】 Nj. 0410"
+      }},
+      {"data": {
+       "id": "z5cYwrn6tJ",
+       "created": 1646116894367,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：429"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwnxdq",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

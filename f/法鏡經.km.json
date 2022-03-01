@@ -1,0 +1,368 @@
+{
+ "root": {
+  "data": {"text": "法鏡經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwl95CW",
+    "created": 1646116893955,
+    "text": "現藏錄（後漢 安玄譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwl85BY",
+      "created": 1646116893954,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwl85BZ",
+        "created": 1646116893954,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwl85Ba",
+        "created": 1646116893954,
+        "text": "法鏡經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwl85Bb",
+        "created": 1646116893954,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwl85Bc",
+        "created": 1646116893954,
+        "text": "法镜经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwl85Bd",
+        "created": 1646116893954,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwl85Be",
+        "created": 1646116893954,
+        "text": "fa jing jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwl85Bn",
+        "created": 1646116893954,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwl85Bo",
+        "created": 1646116893954,
+        "text": "Fa ching ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwl85Bp",
+        "created": 1646116893954,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwl85Bq",
+        "created": 1646116893954,
+        "text": "Ugra(datta)paripṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwl85Br",
+        "created": 1646116893954,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwl85Bs",
+        "created": 1646116893954,
+        "text": "Khyim-bdag-drag-śul-can-gyis shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwl85Bt",
+        "created": 1646116893954,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwl85Bu",
+        "created": 1646116893954,
+        "text": "법경경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwl85Bf",
+      "created": 1646116893954,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwl85Bg",
+      "created": 1646116893954,
+      "text": "後漢",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwl85Bh",
+      "created": 1646116893954,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwl85Bi",
+       "created": 1646116893954,
+       "text": "後漢 安玄譯"
+      }},
+      {"data": {
+       "id": "z5cYwl85Bj",
+       "created": 1646116893954,
+       "text": "嚴佛調",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYwl85Bk",
+       "created": 1646116893954,
+       "text": "安玄",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwl85Bl",
+      "created": 1646116893954,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwl85Bm",
+      "created": 1646116893954,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwl85Bv",
+      "created": 1646116893954,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwl85Bw",
+      "created": 1646116893954,
+      "text": "Translation by An Hsuan: 4th year of Kuang Ho (光和), Later Han dynasty (後漢) (A.D. 181) in Lo-yang (洛陽). T.2151-350a:14."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwl85Bx",
+      "created": 1646116893954,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwl85By",
+       "created": 1646116893954,
+       "text": "【北京版】Dkon-brtsegs (shi)296b-333b"
+      }},
+      {"data": {
+       "id": "z5cYwl85Bz",
+       "created": 1646116893954,
+       "text": "【奈塘版】Dkon-brtsegs (ca)1-50b"
+      }},
+      {"data": {
+       "id": "z5cYwl85C0",
+       "created": 1646116893954,
+       "text": "【德格版】Dkon-brtsegs (na)257a-288a"
+      }},
+      {"data": {
+       "id": "z5cYwl85C1",
+       "created": 1646116893954,
+       "text": "【拉薩版】Dkon-brtsegs (ca)1b-50b"
+      }},
+      {"data": {
+       "id": "z5cYwl85C2",
+       "created": 1646116893954,
+       "text": "【卓尼版】Dkon-brtsegs (na)296b-332a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwl85C3",
+      "created": 1646116893954,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwl85C4",
+      "created": 1646116893954,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwl85C5",
+      "created": 1646116893954,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwl85C6",
+       "created": 1646116893954,
+       "text": "【房山石經】No.356《法鏡經》(后漢)安息國優婆塞都尉安玄共沙門嚴佛調譯 冊數：9 / 頁數：59 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwl85C7",
+       "created": 1646116893954,
+       "text": "【開寶藏】No.33《法鏡經》後漢 安息騎都尉安玄共沙門嚴佛調 譯 部別：大乘經 寶積部 / 卷數：1 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwl85C8",
+       "created": 1646116893954,
+       "text": "【崇寧藏】No.33《法鏡經》 卷數：1 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85C9",
+       "created": 1646116893954,
+       "text": "【毘盧藏】No.29《法鏡經》序【日】【日】　後漢安玄共嚴調譯 參考年代：(元豊八．五) 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CA",
+       "created": 1646116893954,
+       "text": "【圓覺藏】No.30《法鏡經》 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CB",
+       "created": 1646116893954,
+       "text": "【趙城金藏】No.32《法鏡經》 卷數：1 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwl85CC",
+       "created": 1646116893954,
+       "text": "【資福藏】No.28《法鏡經》 卷數：1 (一卷) 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CD",
+       "created": 1646116893954,
+       "text": "【磧砂藏】No.33《法鏡經》後漢 安玄．嚴佛調譯 部別：寶積部 / 冊數：6 / 頁數：305 / 卷數：2 千字文：服 8 (86)-服 9 (86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CE",
+       "created": 1646116893954,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CF",
+       "created": 1646116893954,
+       "text": "【高麗藏】No.32《法鏡經》後漢安息國騎都尉安玄譯 部別：大乘經 寶積部 / 冊數：6 頁數：1129 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：乃"
+      }},
+      {"data": {
+       "id": "z5cYwl85CG",
+       "created": 1646116893954,
+       "text": "【普寧藏】No.30《佛說法鏡經》 卷數：1 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CH",
+       "created": 1646116893954,
+       "text": "【至元錄】No.100《法鏡經》後漢安息優婆塞安玄共沙門嚴佛調譯 卷數：2 / 譯次：(第一譯) 千字文：位(90)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CI",
+       "created": 1646116893954,
+       "text": "【洪武南藏】No.29《法鏡經》後漢 安息國優婆塞安玄共沙門嚴佛調 譯 冊數：31 / 頁數：291 / 卷數：1 千字文：服 8 (86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CJ",
+       "created": 1646116893954,
+       "text": "【永樂南藏】No.30《佛說法鏡經》 部別：大乘經-寶積部 千字文：服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CK",
+       "created": 1646116893954,
+       "text": "【永樂北藏】No.48《佛說法鏡經》後漢安玄-共嚴佛調譯 部別：大乘經寶積部 / 冊數：22 / 頁數：461 / 卷數：2 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwl85CL",
+       "created": 1646116893954,
+       "text": "【嘉興藏】No.30《佛說法鏡經》後漢安玄-共嚴佛調譯 部別：大乘經-寶積部 / 法寶總目錄經號：0030 千字文 / 函號：［正藏］ 服(86)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CM",
+       "created": 1646116893954,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CN",
+       "created": 1646116893954,
+       "text": "【乾隆藏】No.30《佛說法鏡經》後漢 安玄,嚴佛調譯 部別：大乘寶積部 / 冊數：19 / 頁數：735 / 卷數：2 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwl85CO",
+       "created": 1646116893954,
+       "text": "【縮刻藏】No.46《法鏡經》後漢安玄譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CP",
+       "created": 1646116893954,
+       "text": "【卍正藏】No.33《法鏡經》後漢 安玄譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：545 / 卷數：1 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwl85CQ",
+       "created": 1646116893954,
+       "text": "【大正藏】No.322《法鏡經》後漢 安玄譯 部別：寶積部下 / 冊數：12 / 頁數：15 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：Nos.310(19),323"
+      }},
+      {"data": {
+       "id": "z5cYwl85CR",
+       "created": 1646116893954,
+       "text": "【佛教大藏經】No.46《法鏡經》後漢 安玄譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：631 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwl85CS",
+       "created": 1646116893954,
+       "text": "【中華藏】No.35《法鏡經》後漢安息國騎都尉安玄譯 冊數：9 / 頁數：707 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwl85CT",
+       "created": 1646116893954,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwl85CU",
+       "created": 1646116893954,
+       "text": "【南條文雄編號】 Nj. 0033"
+      }},
+      {"data": {
+       "id": "z5cYwl85CV",
+       "created": 1646116893954,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：322"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwchaf",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

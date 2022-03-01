@@ -1,0 +1,357 @@
+{
+ "root": {
+  "data": {"text": "阿育王經"},
+  "children": [{
+   "data": {
+    "id": "z5cYy56T8i",
+    "created": 1646116899036,
+    "text": "現藏錄（梁 僧伽婆羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy56T7m",
+      "created": 1646116899036,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy56T7n",
+        "created": 1646116899036,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy56T7o",
+        "created": 1646116899036,
+        "text": "阿育王經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy56T7p",
+        "created": 1646116899036,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy56T7q",
+        "created": 1646116899036,
+        "text": "阿育王经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy56T7r",
+        "created": 1646116899036,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy56T7s",
+        "created": 1646116899036,
+        "text": "a yu wang jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy56T80",
+        "created": 1646116899036,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYy56T81",
+        "created": 1646116899036,
+        "text": "A yü wang ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy56T82",
+        "created": 1646116899036,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy56T83",
+        "created": 1646116899036,
+        "text": "Aśokarājasūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy56T84",
+        "created": 1646116899036,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy56T85",
+        "created": 1646116899036,
+        "text": "Ku-ṇā-laḥi rtogs-pa-brjod-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy56T86",
+        "created": 1646116899036,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYy56T87",
+        "created": 1646116899036,
+        "text": "아육왕경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy56T7t",
+      "created": 1646116899036,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy56T7u",
+      "created": 1646116899036,
+      "text": "梁",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy56T7v",
+      "created": 1646116899036,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy56T7w",
+       "created": 1646116899036,
+       "text": "梁 僧伽婆羅譯"
+      }},
+      {"data": {
+       "id": "z5cYy56T7x",
+       "created": 1646116899036,
+       "text": "僧伽婆羅",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy56T7y",
+      "created": 1646116899036,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy56T7z",
+      "created": 1646116899036,
+      "text": "10"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy56T88",
+      "created": 1646116899036,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYy56T89",
+      "created": 1646116899036,
+      "text": "Translation by Saṅgabhara: 20th day, 6th month, 11th year of T'ien Chien (天監), Liang dynasty (梁) (July 19, A.D. 512) in Yang-tu (楊都).T.2149-265c:16."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy56T8A",
+      "created": 1646116899036,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy56T8B",
+       "created": 1646116899036,
+       "text": "【北京版】Mdo-ḥgrel (Ḥdul-ba)281a-299b"
+      }},
+      {"data": {
+       "id": "z5cYy56T8C",
+       "created": 1646116899036,
+       "text": "【奈塘版】Mdo-ḥgrel (U)256a-270b"
+      }},
+      {"data": {
+       "id": "z5cYy56T8D",
+       "created": 1646116899036,
+       "text": "【德格版】Ḥdul-ba (su)227b-240a"
+      }},
+      {"data": {
+       "id": "z5cYy56T8E",
+       "created": 1646116899036,
+       "text": "【卓尼版】Hbul-da (su)226a-239a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy56T8F",
+      "created": 1646116899036,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYy56T8G",
+      "created": 1646116899036,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy56T8H",
+      "created": 1646116899036,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy56T8I",
+       "created": 1646116899036,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8J",
+       "created": 1646116899036,
+       "text": "【開寶藏】No.1011《阿育王經》梁 扶南三藏僧伽婆羅 譯 部別：賢聖傳記錄 翻譯集傳梵本 / 卷數：10 千字文：禽"
+      }},
+      {"data": {
+       "id": "z5cYy56T8K",
+       "created": 1646116899036,
+       "text": "【崇寧藏】No.1014《阿育王經》 卷數：10 千字文：寫(434)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8L",
+       "created": 1646116899036,
+       "text": "【毘盧藏】No.1014《阿育王經》梁僧伽婆羅譯 參考年代：(紹興一八．閏八) 千字文：寫(434)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8M",
+       "created": 1646116899036,
+       "text": "【圓覺藏】No.1023《阿育王經》 卷數：10 千字文：寫(434)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8N",
+       "created": 1646116899036,
+       "text": "【趙城金藏】No.1015《阿育王經》 卷數：10 千字文：寫"
+      }},
+      {"data": {
+       "id": "z5cYy56T8O",
+       "created": 1646116899036,
+       "text": "【資福藏】No.1028《阿育王經》 卷數：10 (十卷) 千字文：寫(434)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8P",
+       "created": 1646116899036,
+       "text": "【磧砂藏】No.1039《阿育王經》梁 僧伽婆羅譯 部別： / 冊數：28 / 頁數：334 / 卷數：10 千字文：寫 5 (434)-寫 11 (434)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8Q",
+       "created": 1646116899036,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8R",
+       "created": 1646116899036,
+       "text": "【高麗藏】No.1013《阿育王經》梁扶南三藏僧伽婆羅譯 部別：賢聖傳記錄 西土賢聖集 / 冊數：30 頁數：347 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：寫"
+      }},
+      {"data": {
+       "id": "z5cYy56T8S",
+       "created": 1646116899036,
+       "text": "【普寧藏】No.1030《阿育王經》 卷數：10 千字文：寫(434)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8T",
+       "created": 1646116899036,
+       "text": "【至元錄】No.1468《阿育王經》梁扶南三藏僧伽婆羅譯 卷數：10 / 譯次：(第□譯) 千字文：旦(542)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8U",
+       "created": 1646116899036,
+       "text": "【洪武南藏】No.913《阿育王經》梁 扶南三藏僧伽婆羅 譯 冊數：154-155 / 頁數：568 / 卷數：10 千字文：寫 5 (434)-寫 11 (434)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8V",
+       "created": 1646116899036,
+       "text": "【永樂南藏】No.1114《阿育王經》 部別：西土聖賢撰集 千字文：基(300)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8W",
+       "created": 1646116899036,
+       "text": "【永樂北藏】No.1401《阿育王經》梁僧伽婆羅譯 部別：西土聖賢撰集 / 冊數：129 / 頁數：571 / 卷數：10 千字文：墳"
+      }},
+      {"data": {
+       "id": "z5cYy56T8X",
+       "created": 1646116899036,
+       "text": "【嘉興藏】No.1335《阿育王經》梁僧伽婆羅譯 部別：西土聖賢撰集 / 法寶總目錄經號：1334 千字文 / 函號：［正藏］ 墳(475)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8Y",
+       "created": 1646116899036,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8Z",
+       "created": 1646116899036,
+       "text": "【乾隆藏】No.1336《阿育王經》梁 僧伽婆羅譯 部別：西土聖賢撰集 / 冊數：106 / 頁數：471 / 卷數：10 千字文：墳"
+      }},
+      {"data": {
+       "id": "z5cYy56T8a",
+       "created": 1646116899036,
+       "text": "【縮刻藏】No.1105《阿育王經》梁僧伽婆羅譯 部別：印度撰述雜部 / 卷數：10 千字文：藏 10 (24)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8b",
+       "created": 1646116899036,
+       "text": "【卍正藏】No.1350《阿育王經》梁 僧伽婆羅譯 部別：西土聖賢撰集 / 冊數：50 / 頁數：165 / 卷數：10 原版套數：第 26 套"
+      }},
+      {"data": {
+       "id": "z5cYy56T8c",
+       "created": 1646116899036,
+       "text": "【大正藏】No.2043《阿育王經》梁 僧伽婆羅譯 部別：史傳部二 / 冊數：50 / 頁數：131 / 卷數：10 相關經典：縮-藏10,卍-26.6-7,國-史傳6 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy56T8d",
+       "created": 1646116899036,
+       "text": "【佛教大藏經】No.1175《阿育王經》梁 僧伽娑羅譯 部別：雜部二 / 冊數：51 / 頁數：486 / 卷數：10"
+      }},
+      {"data": {
+       "id": "z5cYy56T8e",
+       "created": 1646116899036,
+       "text": "【中華藏】No.1101《阿育王經》梁扶南三藏僧伽婆羅譯 冊數：51 / 頁數：920 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYy56T8f",
+       "created": 1646116899036,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy56T8g",
+       "created": 1646116899036,
+       "text": "【南條文雄編號】 Nj. 1343"
+      }},
+      {"data": {
+       "id": "z5cYy56T8h",
+       "created": 1646116899036,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2043"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri09n1p3",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

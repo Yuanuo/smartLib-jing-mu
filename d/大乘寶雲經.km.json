@@ -1,0 +1,260 @@
+{
+ "root": {
+  "data": {"text": "大乘寶雲經"},
+  "children": [{
+   "data": {
+    "id": "z5cYx3nAG2",
+    "created": 1646116895111,
+    "text": "現藏錄（梁 曼陀羅仙共僧伽婆羅譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYx3nAFM",
+      "created": 1646116895111,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYx3nAFN",
+        "created": 1646116895111,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3nAFO",
+        "created": 1646116895111,
+        "text": "大乘寶雲經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3nAFP",
+        "created": 1646116895111,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3nAFQ",
+        "created": 1646116895111,
+        "text": "大乘宝云经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYx3nAFR",
+        "created": 1646116895111,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYx3nAFS",
+        "created": 1646116895111,
+        "text": "da cheng bao yun jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3nAFT",
+      "created": 1646116895111,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3nAFU",
+      "created": 1646116895111,
+      "text": "梁",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3nAFV",
+      "created": 1646116895111,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3nAFW",
+       "created": 1646116895111,
+       "text": "梁 曼陀羅仙共僧伽婆羅譯"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFX",
+       "created": 1646116895111,
+       "text": "僧伽婆羅",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYx3nAFY",
+       "created": 1646116895111,
+       "text": "曼陀羅仙",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYx3nAFZ",
+      "created": 1646116895111,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYx3nAFa",
+      "created": 1646116895111,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYx3nAFb",
+      "created": 1646116895111,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYx3nAFc",
+       "created": 1646116895111,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFd",
+       "created": 1646116895111,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFe",
+       "created": 1646116895111,
+       "text": "【崇寧藏】No.136《大乘寶雲經》 卷數：7 千字文：木(140)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFf",
+       "created": 1646116895111,
+       "text": "【毘盧藏】No.132《大乘寶雲經》梁曼陀羅仙共僧伽姿羅譯 參考年代：(靖康元．三、四) 千字文：木(140)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFg",
+       "created": 1646116895111,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFh",
+       "created": 1646116895111,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFi",
+       "created": 1646116895111,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFj",
+       "created": 1646116895111,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFk",
+       "created": 1646116895111,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFl",
+       "created": 1646116895111,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFm",
+       "created": 1646116895111,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFn",
+       "created": 1646116895111,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFo",
+       "created": 1646116895111,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFp",
+       "created": 1646116895111,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFq",
+       "created": 1646116895111,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFr",
+       "created": 1646116895111,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFs",
+       "created": 1646116895111,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFt",
+       "created": 1646116895111,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFu",
+       "created": 1646116895111,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFv",
+       "created": 1646116895111,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFw",
+       "created": 1646116895111,
+       "text": "【大正藏】No.659《大乘寶雲經》梁 曼陀羅仙共僧伽婆羅譯 部別：經集部三 / 冊數：16 / 頁數：241 / 卷數：7 相關經典： 參考資料：No.658"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFx",
+       "created": 1646116895111,
+       "text": "【佛教大藏經】No.206《大乘寶雲經》梁 曼陀羅仙共僧伽婆羅譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：127 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFy",
+       "created": 1646116895111,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAFz",
+       "created": 1646116895111,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAG0",
+       "created": 1646116895111,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYx3nAG1",
+       "created": 1646116895111,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：659"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx8nkb",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

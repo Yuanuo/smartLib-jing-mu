@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "顯淨土真實教行證文類"},
+  "children": [{
+   "data": {
+    "id": "z5cYyTeaIV",
+    "created": 1646116900558,
+    "text": "現藏錄（日本 親鸞撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyTeaHq",
+      "created": 1646116900558,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyTeaHr",
+        "created": 1646116900558,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTeaHs",
+        "created": 1646116900558,
+        "text": "顯淨土真實教行證文類",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTeaHt",
+        "created": 1646116900558,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTeaHu",
+        "created": 1646116900558,
+        "text": "显净土真实教行证文类",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTeaHv",
+        "created": 1646116900558,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTeaHw",
+        "created": 1646116900558,
+        "text": "xian jing tu zhen shi jiao xing zheng wen lei"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTeaHx",
+      "created": 1646116900558,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTeaHy",
+      "created": 1646116900558,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTeaHz",
+      "created": 1646116900558,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTeaI0",
+       "created": 1646116900558,
+       "text": "日本 親鸞撰"
+      }},
+      {"data": {
+       "id": "z5cYyTeaI1",
+       "created": 1646116900558,
+       "text": "親鸞",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTeaI2",
+      "created": 1646116900558,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTeaI3",
+      "created": 1646116900558,
+      "text": "6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTeaI4",
+      "created": 1646116900558,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTeaI5",
+       "created": 1646116900558,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaI6",
+       "created": 1646116900558,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaI7",
+       "created": 1646116900558,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaI8",
+       "created": 1646116900558,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaI9",
+       "created": 1646116900558,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIA",
+       "created": 1646116900558,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIB",
+       "created": 1646116900558,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIC",
+       "created": 1646116900558,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaID",
+       "created": 1646116900558,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIE",
+       "created": 1646116900558,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIF",
+       "created": 1646116900558,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIG",
+       "created": 1646116900558,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIH",
+       "created": 1646116900558,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaII",
+       "created": 1646116900558,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIJ",
+       "created": 1646116900558,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIK",
+       "created": 1646116900558,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIL",
+       "created": 1646116900558,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIM",
+       "created": 1646116900558,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIN",
+       "created": 1646116900558,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIO",
+       "created": 1646116900558,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIP",
+       "created": 1646116900558,
+       "text": "【大正藏】No.2646《顯淨土真實教行證文類》日本 親鸞撰 部別：續諸宗部十四 / 冊數：83 / 頁數：589 / 卷數：6 相關經典：縮-霜9,國-諸宗22 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyTeaIQ",
+       "created": 1646116900558,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIR",
+       "created": 1646116900558,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIS",
+       "created": 1646116900558,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIT",
+       "created": 1646116900558,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTeaIU",
+       "created": 1646116900558,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2646"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1fy26z",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

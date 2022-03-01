@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說離垢施女經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwm15R2",
+    "created": 1646116894009,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwm15Q5",
+      "created": 1646116894009,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwm15Q6",
+        "created": 1646116894009,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwm15Q7",
+        "created": 1646116894009,
+        "text": "佛說離垢施女經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwm15Q8",
+        "created": 1646116894009,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwm15Q9",
+        "created": 1646116894009,
+        "text": "佛说离垢施女经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwm15QA",
+        "created": 1646116894009,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwm15QB",
+        "created": 1646116894009,
+        "text": "fo shuo li gou shi nv jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwm15QJ",
+        "created": 1646116894009,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwm15QK",
+        "created": 1646116894009,
+        "text": "Li kou shih nü ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwm15QL",
+        "created": 1646116894009,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwm15QM",
+        "created": 1646116894009,
+        "text": "Vimaladattāparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwm15QN",
+        "created": 1646116894009,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwm15QO",
+        "created": 1646116894009,
+        "text": "Dri-ma-med-kyis-byin-pas shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwm15QP",
+        "created": 1646116894009,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwm15QQ",
+        "created": 1646116894009,
+        "text": "이구",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwm15QC",
+      "created": 1646116894009,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwm15QD",
+      "created": 1646116894009,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwm15QE",
+      "created": 1646116894009,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwm15QF",
+       "created": 1646116894009,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwm15QG",
+       "created": 1646116894009,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwm15QH",
+      "created": 1646116894009,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwm15QI",
+      "created": 1646116894009,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwm15QR",
+      "created": 1646116894009,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwm15QS",
+      "created": 1646116894009,
+      "text": "Translation by Dharmarakṣa: 2nd day, 12th month, 10th year of T'ai K'ang (太康), Western Chin dynasty (西晉) (December 30th, A.D. 289)T. 2154-493c:11., or 2nd day, 2nd month, 10th year of T'ai K'ang (太康), Western Chin dynasty (西晉) (March 10th, A.D. 289).T. 2149-233c:3."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwm15QT",
+      "created": 1646116894009,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwm15QU",
+       "created": 1646116894009,
+       "text": "【北京版】Dkon-brtsegs (zi)253a-275b"
+      }},
+      {"data": {
+       "id": "z5cYwm15QV",
+       "created": 1646116894009,
+       "text": "【奈塘版】Dkon-brtsegs (ca)406b-437a"
+      }},
+      {"data": {
+       "id": "z5cYwm15QW",
+       "created": 1646116894009,
+       "text": "【德格版】Dkon-brtsegs (ca)241a-261b"
+      }},
+      {"data": {
+       "id": "z5cYwm15QX",
+       "created": 1646116894009,
+       "text": "【拉薩版】Dkon-brtsegs (ca)411h-442a"
+      }},
+      {"data": {
+       "id": "z5cYwm15QY",
+       "created": 1646116894009,
+       "text": "【卓尼版】Dkon-brtsegs (ca)275a-298a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwm15QZ",
+      "created": 1646116894009,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwm15Qa",
+      "created": 1646116894009,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwm15Qb",
+      "created": 1646116894009,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwm15Qc",
+       "created": 1646116894009,
+       "text": "【房山石經】No.367《佛說離垢施女經》(西晉)三藏竺法護譯 冊數：9 / 頁數：104 / 卷數：1 / 刻經年代：清寧六年刻石 / 瀏覽：目錄圖檔 千字文：裳"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qd",
+       "created": 1646116894009,
+       "text": "【開寶藏】No.43《離垢施女經》西晉 月支三藏竺法護 譯 部別：大乘經 寶積部 / 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qe",
+       "created": 1646116894009,
+       "text": "【崇寧藏】No.41《佛說離垢施女經》 卷數：1 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qf",
+       "created": 1646116894009,
+       "text": "【毘盧藏】No.37《佛說離垢施女經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qg",
+       "created": 1646116894009,
+       "text": "【圓覺藏】No.38《離垢施女經》 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qh",
+       "created": 1646116894009,
+       "text": "【趙城金藏】No.41《離垢施女經》 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qi",
+       "created": 1646116894009,
+       "text": "【資福藏】No.39《佛說離垢施女經》 卷數：1 (一卷) 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qj",
+       "created": 1646116894009,
+       "text": "【磧砂藏】No.41《佛說離垢施女經》晉 竺法護譯 部別：寶積部 / 冊數：6 / 頁數：347 / 卷數：1 千字文：衣 9 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qk",
+       "created": 1646116894009,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Ql",
+       "created": 1646116894009,
+       "text": "【高麗藏】No.41《離垢施女經》西晉月氏國三藏竺法護譯 部別：大乘經 寶積部 / 冊數：6 頁數：1207 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qm",
+       "created": 1646116894009,
+       "text": "【普寧藏】No.38《佛說離垢施女經》 卷數：1 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qn",
+       "created": 1646116894009,
+       "text": "【至元錄】No.109《離垢施女經》西晉三藏竺法護譯 卷數：1 / 譯次：(第一譯) 千字文：讓(91)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qo",
+       "created": 1646116894009,
+       "text": "【洪武南藏】No.37《佛說離垢施女經》西晉太康年 竺法護 譯 冊數：31 / 頁數：440 / 卷數：1 千字文：衣 7 (87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qp",
+       "created": 1646116894009,
+       "text": "【永樂南藏】No.38《佛說離垢施女經》 部別：大乘經-寶積部 千字文：衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qq",
+       "created": 1646116894009,
+       "text": "【永樂北藏】No.56《佛說離垢施女經》西晉竺法護譯 部別：大乘經寶積部 / 冊數：22 / 頁數：653 / 卷數：1 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qr",
+       "created": 1646116894009,
+       "text": "【嘉興藏】No.38《離垢施女經》西晉竺法護譯 部別：大乘經-寶積部 / 法寶總目錄經號：0038 千字文 / 函號：［正藏］ 衣(87)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qs",
+       "created": 1646116894009,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qt",
+       "created": 1646116894009,
+       "text": "【乾隆藏】No.38《佛說離垢施女經》西晉 竺法護譯 部別：大乘寶積部 / 冊數：20 / 頁數：123 / 卷數：1 千字文：衣"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qu",
+       "created": 1646116894009,
+       "text": "【縮刻藏】No.60《佛說離垢施女經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qv",
+       "created": 1646116894009,
+       "text": "【卍正藏】No.41《佛說離垢施女經》西晉 竺法護譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：619 / 卷數：1 原版套數：第 6 套"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qw",
+       "created": 1646116894009,
+       "text": "【大正藏】No.338《佛說離垢施女經》西晉 竺法護譯 部別：寶積部下 / 冊數：12 / 頁數：89 / 卷數：1 相關經典：縮-地11,卍-6.4 參考資料：Nos.310(33),339"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qx",
+       "created": 1646116894009,
+       "text": "【佛教大藏經】No.60《佛說離垢施女經》西晉 竺法護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：739 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qy",
+       "created": 1646116894009,
+       "text": "【中華藏】No.45《佛說離垢施女經》西晉月氏國三藏竺法護譯 冊數：9 / 頁數：814 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwm15Qz",
+       "created": 1646116894009,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwm15R0",
+       "created": 1646116894009,
+       "text": "【南條文雄編號】 Nj. 0041"
+      }},
+      {"data": {
+       "id": "z5cYwm15R1",
+       "created": 1646116894009,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：338"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwe0av",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

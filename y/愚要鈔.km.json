@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "愚要鈔"},
+  "children": [{
+   "data": {
+    "id": "z5cYyTaaH9",
+    "created": 1646116900554,
+    "text": "現藏錄（日本 光雲明秀撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyTaaGU",
+      "created": 1646116900554,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyTaaGV",
+        "created": 1646116900554,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTaaGW",
+        "created": 1646116900554,
+        "text": "愚要鈔",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTaaGX",
+        "created": 1646116900554,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTaaGY",
+        "created": 1646116900554,
+        "text": "愚要钞",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyTaaGZ",
+        "created": 1646116900554,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyTaaGa",
+        "created": 1646116900554,
+        "text": "yu yao chao"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTaaGb",
+      "created": 1646116900554,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTaaGc",
+      "created": 1646116900554,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTaaGd",
+      "created": 1646116900554,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTaaGe",
+       "created": 1646116900554,
+       "text": "日本 光雲明秀撰"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGf",
+       "created": 1646116900554,
+       "text": "光雲明秀",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyTaaGg",
+      "created": 1646116900554,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyTaaGh",
+      "created": 1646116900554,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyTaaGi",
+      "created": 1646116900554,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyTaaGj",
+       "created": 1646116900554,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGk",
+       "created": 1646116900554,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGl",
+       "created": 1646116900554,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGm",
+       "created": 1646116900554,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGn",
+       "created": 1646116900554,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGo",
+       "created": 1646116900554,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGp",
+       "created": 1646116900554,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGq",
+       "created": 1646116900554,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGr",
+       "created": 1646116900554,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGs",
+       "created": 1646116900554,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGt",
+       "created": 1646116900554,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGu",
+       "created": 1646116900554,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGv",
+       "created": 1646116900554,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGw",
+       "created": 1646116900554,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGx",
+       "created": 1646116900554,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGy",
+       "created": 1646116900554,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaGz",
+       "created": 1646116900554,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH0",
+       "created": 1646116900554,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH1",
+       "created": 1646116900554,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH2",
+       "created": 1646116900554,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH3",
+       "created": 1646116900554,
+       "text": "【大正藏】No.2644《愚要鈔》日本 光雲明秀撰 部別：續諸宗部十四 / 冊數：83 / 頁數：535 / 卷數：3 相關經典： 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyTaaH4",
+       "created": 1646116900554,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH5",
+       "created": 1646116900554,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH6",
+       "created": 1646116900554,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH7",
+       "created": 1646116900554,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyTaaH8",
+       "created": 1646116900554,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2644"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri1fu26x",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "信力入印法門經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwiS4TR",
+    "created": 1646116893788,
+    "text": "現藏錄（元魏 曇摩流支譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwiS4SU",
+      "created": 1646116893788,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwiS4SV",
+        "created": 1646116893788,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwiS4SW",
+        "created": 1646116893788,
+        "text": "信力入印法門經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwiS4SX",
+        "created": 1646116893788,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwiS4SY",
+        "created": 1646116893788,
+        "text": "信力入印法门经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwiS4SZ",
+        "created": 1646116893788,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwiS4Sa",
+        "created": 1646116893788,
+        "text": "xin li ru yin fa men jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwiS4Si",
+        "created": 1646116893788,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwiS4Sj",
+        "created": 1646116893788,
+        "text": "Hsin li ju yin fa men ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwiS4Sk",
+        "created": 1646116893788,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwiS4Sl",
+        "created": 1646116893788,
+        "text": "Śraddhābāladhānāavatāramudrā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwiS4Sm",
+        "created": 1646116893788,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwiS4Sn",
+        "created": 1646116893788,
+        "text": "Dod-paḥi stobs bskyed-pa-la ḥjug-paḥi phyag-rgya"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwiS4So",
+        "created": 1646116893788,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwiS4Sp",
+        "created": 1646116893788,
+        "text": "신력입인법문경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwiS4Sb",
+      "created": 1646116893788,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwiS4Sc",
+      "created": 1646116893788,
+      "text": "元魏",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwiS4Sd",
+      "created": 1646116893788,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwiS4Se",
+       "created": 1646116893788,
+       "text": "元魏 曇摩流支譯"
+      }},
+      {"data": {
+       "id": "z5cYwiS4Sf",
+       "created": 1646116893788,
+       "text": "曇摩流支",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwiS4Sg",
+      "created": 1646116893788,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwiS4Sh",
+      "created": 1646116893788,
+      "text": "5"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwiS4Sq",
+      "created": 1646116893788,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwiS4Sr",
+      "created": 1646116893788,
+      "text": "Translation by Dharmaruci: first year of Cheng Shih (正始), Yüan Wei dynasty (元魏) (A.D. 504) in Lo-yang (洛陽), T. 2149-268c11. or begun in the first year of Yung P'ing (永平), Wei dynasty (魏) (A.D. 508) and finished in the 2nd year of T'ien P'ing (天平), Wei dynasty (魏) (A.D. 534) in Yung-ning Monastery (永寧寺).T. 2151-363c:28."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwiS4Ss",
+      "created": 1646116893788,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwiS4St",
+       "created": 1646116893788,
+       "text": "【北京版】Mdo-sna-tshogs (tsu)1-66a"
+      }},
+      {"data": {
+       "id": "z5cYwiS4Su",
+       "created": 1646116893788,
+       "text": "【奈塘版】Mdo (md)1b-103a"
+      }},
+      {"data": {
+       "id": "z5cYwiS4Sv",
+       "created": 1646116893788,
+       "text": "【德格版】Mdo-sde (tsha)1b-63a"
+      }},
+      {"data": {
+       "id": "z5cYwiS4Sw",
+       "created": 1646116893788,
+       "text": "【拉薩版】Mdo-sde (ma)1b-97a"
+      }},
+      {"data": {
+       "id": "z5cYwiS4Sx",
+       "created": 1646116893788,
+       "text": "【卓尼版】Mdo-maṅ (tsha)1b-72a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwiS4Sy",
+      "created": 1646116893788,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwiS4Sz",
+      "created": 1646116893788,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwiS4T0",
+      "created": 1646116893788,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwiS4T1",
+       "created": 1646116893788,
+       "text": "【房山石經】No.394《信力入印法門經》(元魏)天竺三藏曇摩流支譯 冊數：9 / 頁數：507 / 卷數：5 / 刻經年代：大安元年刻石 / 瀏覽：目錄圖檔 千字文：戎"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T2",
+       "created": 1646116893788,
+       "text": "【開寶藏】No.82《信力入印法門經》元魏 天竺三藏曇摩流支 部別：大乘經 華嚴部 / 卷數：5 千字文：臣"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T3",
+       "created": 1646116893788,
+       "text": "【崇寧藏】No.83《信力入印法門經》 卷數：5 千字文：伏(118)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T4",
+       "created": 1646116893788,
+       "text": "【毘盧藏】No.79《信力入印法門經》元魏曇摩流支譯 參考年代：(元豊八．五) 千字文：伏(118)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T5",
+       "created": 1646116893788,
+       "text": "【圓覺藏】No.80《信力入印法門經》 卷數：5 千字文：伏(118)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T6",
+       "created": 1646116893788,
+       "text": "【趙城金藏】No.81《入印法門經》 卷數：5 千字文：臣"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T7",
+       "created": 1646116893788,
+       "text": "【資福藏】No.83《信力入印法門經》 卷數：5 (五卷) 千字文：伏(118)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T8",
+       "created": 1646116893788,
+       "text": "【磧砂藏】No.83《信力入印法門經》元魏 曇摩流支譯 部別：華嚴部 / 冊數：8 / 頁數：276 / 卷數：5 千字文：伏 1 (118)-伏 5 (118)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4T9",
+       "created": 1646116893788,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TA",
+       "created": 1646116893788,
+       "text": "【高麗藏】No.81《信力入印法問經》元魏天竺三藏曇摩流支譯 部別：大乘經 華嚴部 / 冊數：8 頁數：945 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：臣"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TB",
+       "created": 1646116893788,
+       "text": "【普寧藏】No.80《信力入印法門經》 卷數：5 千字文：伏(118)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TC",
+       "created": 1646116893788,
+       "text": "【至元錄】No.155《信力入印法門經》元魏天竺三藏曇摩流支譯 梵名：阿唎(二合)亞　室囉怛巴羅怛拏阿瓦怛羅母　怛羅拏麻　麻訶衍拏蘇怛囉(二合) / 卷數：5 / 譯次：(單本) 千字文：率(125)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TD",
+       "created": 1646116893788,
+       "text": "【洪武南藏】No.78《信力入印法門經》元魏 三藏曇摩流支 譯 冊數：40 / 頁數：56 / 卷數：5 千字文：伏 1 (118)-伏 5 (118)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TE",
+       "created": 1646116893788,
+       "text": "【永樂南藏】No.81《信力入印法門經》 部別：大乘經-華嚴部 千字文：遐(121)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TF",
+       "created": 1646116893788,
+       "text": "【永樂北藏】No.110《信力入印法門經》元魏曇摩流支譯 部別：大乘經華嚴部 / 冊數：31 / 頁數：505 / 卷數：5 千字文：邇"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TG",
+       "created": 1646116893788,
+       "text": "【嘉興藏】No.86《信力入印法門經》元魏曇摩流支譯 部別：大乘經-華嚴部 / 法寶總目錄經號：0086 千字文 / 函號：［正藏］ 邇(122)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TH",
+       "created": 1646116893788,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TI",
+       "created": 1646116893788,
+       "text": "【乾隆藏】No.86《信力入印法門經》元魏 曇摩流支譯 部別：大乘華嚴部 / 冊數：27 / 頁數：445 / 卷數：5 千字文：邇"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TJ",
+       "created": 1646116893788,
+       "text": "【縮刻藏】No.26《信力入印法門經》元魏曇摩流支譯 部別：大乘經-華嚴部 / 卷數：5 千字文：天 11 (1)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TK",
+       "created": 1646116893788,
+       "text": "【卍正藏】No.89《信力入印法門經》元魏 曇摩流支譯 部別：大乘經 華嚴部 / 冊數：13 / 頁數：167 / 卷數：5 原版套數：第 8 套"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TL",
+       "created": 1646116893788,
+       "text": "【大正藏】No.305《信力入印法門經》元魏 曇摩流支譯 部別：華嚴部下 / 冊數：10 / 頁數：928 / 卷數：5 相關經典：縮-天11,卍-8.2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYwiS4TM",
+       "created": 1646116893788,
+       "text": "【佛教大藏經】No.26《信力入印法門經》元魏 曇摩流支譯 部別：大乘經 華嚴部二 / 冊數：2 / 頁數：982 / 卷數：5"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TN",
+       "created": 1646116893788,
+       "text": "【中華藏】No.88《信力入印法門經》元魏天竺三藏曇摩流支譯 冊數：13 / 頁數：453 / 卷數：5 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TO",
+       "created": 1646116893788,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TP",
+       "created": 1646116893788,
+       "text": "【南條文雄編號】 Nj. 0090"
+      }},
+      {"data": {
+       "id": "z5cYwiS4TQ",
+       "created": 1646116893788,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：305"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhw7v8r",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

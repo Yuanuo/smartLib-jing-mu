@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "入唐新求聖教目錄"},
+  "children": [{
+   "data": {
+    "id": "z5cYyADUl9",
+    "created": 1646116899353,
+    "text": "現藏錄（日本 圓仁撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyACUkU",
+      "created": 1646116899352,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyACUkV",
+        "created": 1646116899352,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyACUkW",
+        "created": 1646116899352,
+        "text": "入唐新求聖教目錄",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyACUkX",
+        "created": 1646116899352,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyACUkY",
+        "created": 1646116899352,
+        "text": "入唐新求圣教目录",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyACUkZ",
+        "created": 1646116899352,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyACUka",
+        "created": 1646116899352,
+        "text": "ru tang xin qiu sheng jiao mu lu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyACUkb",
+      "created": 1646116899352,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyACUkc",
+      "created": 1646116899352,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyACUkd",
+      "created": 1646116899352,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyACUke",
+       "created": 1646116899352,
+       "text": "日本 圓仁撰"
+      }},
+      {"data": {
+       "id": "z5cYyACUkf",
+       "created": 1646116899352,
+       "text": "圓仁",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyACUkg",
+      "created": 1646116899352,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyACUkh",
+      "created": 1646116899352,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyACUki",
+      "created": 1646116899352,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyACUkj",
+       "created": 1646116899352,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyACUkk",
+       "created": 1646116899352,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyACUkl",
+       "created": 1646116899352,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyACUkm",
+       "created": 1646116899352,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkn",
+       "created": 1646116899353,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUko",
+       "created": 1646116899353,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkp",
+       "created": 1646116899353,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkq",
+       "created": 1646116899353,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkr",
+       "created": 1646116899353,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUks",
+       "created": 1646116899353,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkt",
+       "created": 1646116899353,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUku",
+       "created": 1646116899353,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkv",
+       "created": 1646116899353,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkw",
+       "created": 1646116899353,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkx",
+       "created": 1646116899353,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUky",
+       "created": 1646116899353,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUkz",
+       "created": 1646116899353,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl0",
+       "created": 1646116899353,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl1",
+       "created": 1646116899353,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl2",
+       "created": 1646116899353,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl3",
+       "created": 1646116899353,
+       "text": "【大正藏】No.2167《入唐新求聖教目錄》日本 圓仁撰 部別：目錄部全 / 冊數：55 / 頁數：1078 / 卷數：1 相關經典：佛全-2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYyADUl4",
+       "created": 1646116899353,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl5",
+       "created": 1646116899353,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl6",
+       "created": 1646116899353,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl7",
+       "created": 1646116899353,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyADUl8",
+       "created": 1646116899353,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2167"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0ig1su",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "註無量義經"},
+  "children": [{
+   "data": {
+    "id": "z5cYyBPV7n",
+    "created": 1646116899427,
+    "text": "現藏錄（日本 最澄撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyBPV78",
+      "created": 1646116899427,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyBPV79",
+        "created": 1646116899427,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyBPV7A",
+        "created": 1646116899427,
+        "text": "註無量義經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyBPV7B",
+        "created": 1646116899427,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyBPV7C",
+        "created": 1646116899427,
+        "text": "注无量义经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyBPV7D",
+        "created": 1646116899427,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyBPV7E",
+        "created": 1646116899427,
+        "text": "zhu wu liang yi jing"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyBPV7F",
+      "created": 1646116899427,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyBPV7G",
+      "created": 1646116899427,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyBPV7H",
+      "created": 1646116899427,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyBPV7I",
+       "created": 1646116899427,
+       "text": "日本 最澄撰"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7J",
+       "created": 1646116899427,
+       "text": "最澄",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyBPV7K",
+      "created": 1646116899427,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyBPV7L",
+      "created": 1646116899427,
+      "text": "3"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyBPV7M",
+      "created": 1646116899427,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyBPV7N",
+       "created": 1646116899427,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7O",
+       "created": 1646116899427,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7P",
+       "created": 1646116899427,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7Q",
+       "created": 1646116899427,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7R",
+       "created": 1646116899427,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7S",
+       "created": 1646116899427,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7T",
+       "created": 1646116899427,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7U",
+       "created": 1646116899427,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7V",
+       "created": 1646116899427,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7W",
+       "created": 1646116899427,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7X",
+       "created": 1646116899427,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7Y",
+       "created": 1646116899427,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7Z",
+       "created": 1646116899427,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7a",
+       "created": 1646116899427,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7b",
+       "created": 1646116899427,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7c",
+       "created": 1646116899427,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7d",
+       "created": 1646116899427,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7e",
+       "created": 1646116899427,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7f",
+       "created": 1646116899427,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7g",
+       "created": 1646116899427,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7h",
+       "created": 1646116899427,
+       "text": "【大正藏】No.2193《註無量義經》日本 最澄撰 部別：續經疏部一 / 冊數：56 / 頁數：203 / 卷數：3 相關經典： 參考資料：cf.No.276"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7i",
+       "created": 1646116899427,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7j",
+       "created": 1646116899427,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7k",
+       "created": 1646116899427,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7l",
+       "created": 1646116899427,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyBPV7m",
+       "created": 1646116899427,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2193"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri0kj1ts",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

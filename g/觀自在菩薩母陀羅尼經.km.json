@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "佛說觀自在菩薩母陀羅尼經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxPhGoD",
+    "created": 1646116896469,
+    "text": "現藏錄（宋 法賢譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxPhGnG",
+      "created": 1646116896469,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxPhGnH",
+        "created": 1646116896469,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPhGnI",
+        "created": 1646116896469,
+        "text": "佛說觀自在菩薩母陀羅尼經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPhGnJ",
+        "created": 1646116896469,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPhGnK",
+        "created": 1646116896469,
+        "text": "佛说观自在菩萨母陀罗尼经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPhGnL",
+        "created": 1646116896469,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPhGnM",
+        "created": 1646116896469,
+        "text": "fo shuo guan zi zai pu sa mu tuo luo ni jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPhGnU",
+        "created": 1646116896469,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPhGnV",
+        "created": 1646116896469,
+        "text": "Kuan tzu tsai p'u sa mu t'o lo ni ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPhGnW",
+        "created": 1646116896469,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPhGnX",
+        "created": 1646116896469,
+        "text": "Avalokiteśvaramātādhāraṇīsūtra",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPhGnY",
+        "created": 1646116896469,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPhGnZ",
+        "created": 1646116896469,
+        "text": "Ḥphags-pa spyan-ras-gzigs-dbaṅ-phyug-gi yum"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxPhGna",
+        "created": 1646116896469,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxPhGnb",
+        "created": 1646116896469,
+        "text": "관자재보살모다라니경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPhGnN",
+      "created": 1646116896469,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPhGnO",
+      "created": 1646116896469,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPhGnP",
+      "created": 1646116896469,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPhGnQ",
+       "created": 1646116896469,
+       "text": "宋 法賢譯"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnR",
+       "created": 1646116896469,
+       "text": "法天",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPhGnS",
+      "created": 1646116896469,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPhGnT",
+      "created": 1646116896469,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPhGnc",
+      "created": 1646116896469,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPhGnd",
+      "created": 1646116896469,
+      "text": "Translation by Fa-hsien: (see K.1234)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPhGne",
+      "created": 1646116896469,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPhGnf",
+       "created": 1646116896469,
+       "text": "【北京版】Rgyud (tsa)56b-58a(ḥa)238a-239b"
+      }},
+      {"data": {
+       "id": "z5cYxPhGng",
+       "created": 1646116896469,
+       "text": "【奈塘版】Rgyud (pha)455a-457b"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnh",
+       "created": 1646116896469,
+       "text": "【德格版】Rgyud-ḥbum (tsha)200b-202aGzuṅs-ḥdus (E)240a-241b"
+      }},
+      {"data": {
+       "id": "z5cYxPhGni",
+       "created": 1646116896469,
+       "text": "【拉薩版】Rgyud (pha)48b-51a"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnj",
+       "created": 1646116896469,
+       "text": "【卓尼版】Rgyud (tsa)63a-65a(ḥa)258b-260a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxPhGnk",
+      "created": 1646116896469,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxPhGnl",
+      "created": 1646116896469,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxPhGnm",
+      "created": 1646116896469,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxPhGnn",
+       "created": 1646116896469,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGno",
+       "created": 1646116896469,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnp",
+       "created": 1646116896469,
+       "text": "【崇寧藏】No.1262《佛說觀自在菩薩母陀羅尼經》 卷數：1 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnq",
+       "created": 1646116896469,
+       "text": "【毘盧藏】No.1263《觀自在菩薩母陀羅尼經》宋法賢譯 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnr",
+       "created": 1646116896469,
+       "text": "【圓覺藏】No.1267《觀自在菩薩母陀羅尼經》 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGns",
+       "created": 1646116896469,
+       "text": "【趙城金藏】No.1258《觀自在菩薩母陀羅尼經》 卷數：1 千字文：陪"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnt",
+       "created": 1646116896469,
+       "text": "【資福藏】No.1272《觀自在菩薩母陀羅尼經》 卷數：1 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnu",
+       "created": 1646116896469,
+       "text": "【磧砂藏】No.1279《佛說觀自在菩薩母陀羅尼經》宋 法賢譯 部別： / 冊數：33 / 頁數：236 / 卷數：1 千字文：驅 7 (509)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnv",
+       "created": 1646116896469,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnw",
+       "created": 1646116896469,
+       "text": "【高麗藏】No.1239《觀自在菩薩母陀羅尼經》譯經大師臣法賢奉詔譯 部別：宋續入藏經 / 冊數：34 頁數：519 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：陪"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnx",
+       "created": 1646116896469,
+       "text": "【普寧藏】No.1272《佛說觀自在菩薩母陀羅尼經》 卷數：1 千字文：驅(509)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGny",
+       "created": 1646116896469,
+       "text": "【至元錄】No.781《觀自在菩薩母陀羅尼經》宋三藏法賢譯 卷數：1 千字文：興(262)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGnz",
+       "created": 1646116896469,
+       "text": "【洪武南藏】No.1131《觀自在菩薩母陀羅尼經》三藏大師法賢 奉詔譯 冊數：183 / 頁數：9 / 卷數：1 千字文：驅 7 (509)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo0",
+       "created": 1646116896469,
+       "text": "【永樂南藏】No.936《佛說觀自在菩薩母陀羅尼經》 部別：宋元入藏諸大小乘經 千字文：興(262)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo1",
+       "created": 1646116896469,
+       "text": "【永樂北藏】No.941《觀自在菩薩母陀羅尼經》宋法賢譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：688 / 卷數：1 千字文：深"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo2",
+       "created": 1646116896469,
+       "text": "【嘉興藏】No.904《觀自在菩薩母陀羅尼經》宋法賢譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0904 千字文 / 函號：［正藏］ 深(258)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo3",
+       "created": 1646116896469,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo4",
+       "created": 1646116896469,
+       "text": "【乾隆藏】No.905《觀自在菩薩母陀羅尼經》宋 法賢譯 部別：宋元入藏諸大小乘經 / 冊數：58 / 頁數：15 / 卷數：1 千字文：深"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo5",
+       "created": 1646116896469,
+       "text": "【縮刻藏】No.1582《佛說觀自在菩薩母陀羅尼經》宋法賢譯 部別：祕密部 / 卷數：1 千字文：成 10 (27)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo6",
+       "created": 1646116896469,
+       "text": "【卍正藏】No.914《佛說觀自在菩薩母陀羅尼經》法賢譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：973 / 卷數：1 原版套數：第 15 套"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo7",
+       "created": 1646116896469,
+       "text": "【大正藏】No.1117《佛說觀自在菩薩母陀羅尼經》宋 法賢譯 部別：密教部三 / 冊數：20 / 頁數：506 / 卷數：1 相關經典：縮-成10,卍-15.5 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxPhGo8",
+       "created": 1646116896469,
+       "text": "【佛教大藏經】No.1659《佛說觀自在菩薩母陀羅尼經》宋 法賢譯 部別：密教部六 / 冊數：57 / 頁數：682 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxPhGo9",
+       "created": 1646116896469,
+       "text": "【中華藏】No.1368《佛說觀自在菩薩母陀羅尼經》西天譯經三藏朝散大夫試光祿卿明教大師法賢奉詔譯 冊數：64 / 頁數：871 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxPhGoA",
+       "created": 1646116896469,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxPhGoB",
+       "created": 1646116896469,
+       "text": "【南條文雄編號】 Nj. 0910"
+      }},
+      {"data": {
+       "id": "z5cYxPhGoC",
+       "created": 1646116896469,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1117"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyady0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

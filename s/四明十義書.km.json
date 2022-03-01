@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "四明十義書"},
+  "children": [{
+   "data": {
+    "id": "z5cYy0qRl5",
+    "created": 1646116898772,
+    "text": "現藏錄（宋 知禮撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYy0qRkQ",
+      "created": 1646116898772,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYy0qRkR",
+        "created": 1646116898772,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0qRkS",
+        "created": 1646116898772,
+        "text": "四明十義書",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0qRkT",
+        "created": 1646116898772,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0qRkU",
+        "created": 1646116898772,
+        "text": "四明十义书",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYy0qRkV",
+        "created": 1646116898772,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYy0qRkW",
+        "created": 1646116898772,
+        "text": "si ming shi yi shu"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0qRkX",
+      "created": 1646116898772,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0qRkY",
+      "created": 1646116898772,
+      "text": "宋",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0qRkZ",
+      "created": 1646116898772,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0qRka",
+       "created": 1646116898772,
+       "text": "宋 知禮撰"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkb",
+       "created": 1646116898772,
+       "text": "知禮",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYy0qRkc",
+      "created": 1646116898772,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYy0qRkd",
+      "created": 1646116898772,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYy0qRke",
+      "created": 1646116898772,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYy0qRkf",
+       "created": 1646116898772,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkg",
+       "created": 1646116898772,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkh",
+       "created": 1646116898772,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRki",
+       "created": 1646116898772,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkj",
+       "created": 1646116898772,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkk",
+       "created": 1646116898772,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkl",
+       "created": 1646116898772,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkm",
+       "created": 1646116898772,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkn",
+       "created": 1646116898772,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRko",
+       "created": 1646116898772,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkp",
+       "created": 1646116898772,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkq",
+       "created": 1646116898772,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkr",
+       "created": 1646116898772,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRks",
+       "created": 1646116898772,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkt",
+       "created": 1646116898772,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRku",
+       "created": 1646116898772,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkv",
+       "created": 1646116898772,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkw",
+       "created": 1646116898772,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkx",
+       "created": 1646116898772,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRky",
+       "created": 1646116898772,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRkz",
+       "created": 1646116898772,
+       "text": "【大正藏】No.1936《四明十義書》宋 知禮撰 部別：諸宗部三 / 冊數：46 / 頁數：831 / 卷數：2 相關經典：續-2.6.1,國-諸宗14 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYy0qRl0",
+       "created": 1646116898772,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRl1",
+       "created": 1646116898772,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRl2",
+       "created": 1646116898772,
+       "text": "【新纂卍續藏】No.947《四明十義書》宋 知禮述 部別：中國撰述 諸宗著述部三 天台宗 / 冊數：56 / 頁數：784 / 卷數：2 《卍大日本續藏經》套數：第二編．第 6 套 《卍續藏經》(新文豐版)冊數：第 101 冊"
+      }},
+      {"data": {
+       "id": "z5cYy0qRl3",
+       "created": 1646116898772,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYy0qRl4",
+       "created": 1646116898772,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1936"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri02b1lr",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

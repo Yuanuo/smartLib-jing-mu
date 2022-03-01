@@ -1,0 +1,305 @@
+{
+ "root": {
+  "data": {"text": "沙彌尼戒經"},
+  "children": [{
+   "data": {
+    "id": "z5cYxhLLiF",
+    "created": 1646116897563,
+    "text": "現藏錄（失譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxhJLhR",
+      "created": 1646116897561,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxhJLhS",
+        "created": 1646116897561,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhJLhT",
+        "created": 1646116897561,
+        "text": "沙彌尼戒經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhJLhU",
+        "created": 1646116897561,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhJLhV",
+        "created": 1646116897561,
+        "text": "沙弥尼戒经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhJLhW",
+        "created": 1646116897561,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhJLhX",
+        "created": 1646116897561,
+        "text": "sha mi ni jie jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhJLhc",
+        "created": 1646116897561,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhJLhd",
+        "created": 1646116897561,
+        "text": "Sha mi ni chieh ching"
+       }}]
+      },
+      {"data": {
+       "id": "z5cYxhJLhe",
+       "created": 1646116897561,
+       "text": "梵　　文"
+      }},
+      {
+       "data": {
+        "id": "z5cYxhJLhf",
+        "created": 1646116897561,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhJLhg",
+        "created": 1646116897561,
+        "text": "（暂无）"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxhJLhh",
+        "created": 1646116897561,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxhJLhi",
+        "created": 1646116897561,
+        "text": "사미니계경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxhJLhY",
+      "created": 1646116897561,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhJLhZ",
+      "created": 1646116897561,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxhJLha",
+      "created": 1646116897561,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhJLhb",
+      "created": 1646116897561,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxhJLhj",
+      "created": 1646116897561,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhJLhk",
+      "created": 1646116897561,
+      "text": "Hou Han lu (後漢錄) (A.D. 25-220).T. 2154-619a:23."
+     }}]
+    },
+    {"data": {
+     "id": "z5cYxhKLhl",
+     "created": 1646116897562,
+     "text": "西藏各版本出處"
+    }},
+    {
+     "data": {
+      "id": "z5cYxhKLhm",
+      "created": 1646116897562,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxhKLhn",
+      "created": 1646116897562,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxhKLho",
+      "created": 1646116897562,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxhKLhp",
+       "created": 1646116897562,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhq",
+       "created": 1646116897562,
+       "text": "【開寶藏】No.907《沙彌尼戒經》後漢 失譯者 部別：小乘律 聲聞調伏藏 / 卷數：1 千字文：傅"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhr",
+       "created": 1646116897562,
+       "text": "【崇寧藏】No.910《沙彌尼戒經》 卷數：1 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhs",
+       "created": 1646116897562,
+       "text": "【毘盧藏】No.911《沙彌尼戒經》失譯 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLht",
+       "created": 1646116897562,
+       "text": "【圓覺藏】No.919《沙彌尼戒經》 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhu",
+       "created": 1646116897562,
+       "text": "【趙城金藏】No.915《沙彌尼戒經》 卷數：1 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhv",
+       "created": 1646116897562,
+       "text": "【資福藏】No.925《沙彌尼戒經》 卷數：1 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhw",
+       "created": 1646116897562,
+       "text": "【磧砂藏】No.934《沙彌尼戒經》失譯 部別： / 冊數：22 / 頁數：461 / 卷數：1 千字文：受 8 (338)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhx",
+       "created": 1646116897562,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhy",
+       "created": 1646116897562,
+       "text": "【高麗藏】No.913《沙彌尼戒經》在後漢錄 部別：小乘律 / 冊數：23 頁數：807 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：外"
+      }},
+      {"data": {
+       "id": "z5cYxhKLhz",
+       "created": 1646116897562,
+       "text": "【普寧藏】No.926《沙彌尼戒經》 卷數：1 千字文：受(338)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi0",
+       "created": 1646116897562,
+       "text": "【至元錄】No.1230《沙彌尼戒經》失譯人名 卷數：1 / 出處：(在後漢錄) 千字文：節(377)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi1",
+       "created": 1646116897562,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi2",
+       "created": 1646116897562,
+       "text": "【永樂南藏】No.1285《沙彌尼戒經》 部別：小乘律 千字文：子(350)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi3",
+       "created": 1646116897562,
+       "text": "【永樂北藏】No.1193《沙彌尼戒經》失譯人名附後漢錄 部別：小乘律 / 冊數：91 / 頁數：381 / 卷數：1 千字文：隨"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi4",
+       "created": 1646116897562,
+       "text": "【嘉興藏】No.1145《沙彌尼戒經》失譯人名附後漢錄 部別：小乘律 / 法寶總目錄經號：1144 千字文 / 函號：［正藏］ 隨(336)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi5",
+       "created": 1646116897562,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi6",
+       "created": 1646116897562,
+       "text": "【乾隆藏】No.1146《沙彌尼戒經》失譯人名 部別：小乘律 / 冊數：75 / 頁數：353 / 卷數：1 千字文：隨"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi7",
+       "created": 1646116897562,
+       "text": "【縮刻藏】No.864《沙彌尼戒經》失譯 部別：小乘律 / 卷數：1 千字文：寒 10 (17)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi8",
+       "created": 1646116897562,
+       "text": "【卍正藏】No.1156《沙彌尼戒經》在後漢錄 部別：小乘律 / 冊數：36 / 頁數：409 / 卷數：1 原版套數：第 19 套"
+      }},
+      {"data": {
+       "id": "z5cYxhKLi9",
+       "created": 1646116897562,
+       "text": "【大正藏】No.1474《沙彌尼戒經》失譯 部別：律部三 / 冊數：24 / 頁數：937 / 卷數：1 相關經典：縮-寒10,卍-19.8 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxhKLiA",
+       "created": 1646116897562,
+       "text": "【佛教大藏經】No.901《沙彌尼戒經》失譯 部別：小乘律 律部六 / 冊數：34 / 頁數：923 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYxhKLiB",
+       "created": 1646116897562,
+       "text": "【中華藏】No.994《沙彌尼戒經》在後漢錄（失譯） 冊數：41 / 頁數：416 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxhKLiC",
+       "created": 1646116897562,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxhKLiD",
+       "created": 1646116897562,
+       "text": "【南條文雄編號】 Nj. 1151"
+      }},
+      {"data": {
+       "id": "z5cYxhKLiE",
+       "created": 1646116897562,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1474"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhz4o18i",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "root": {
+  "data": {"text": "十牛圖和頌"},
+  "children": [{
+   "data": {
+    "id": "z5cYzLHqUM",
+    "created": 1646116903883,
+    "text": "現藏錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYzLHqTk",
+      "created": 1646116903883,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYzLHqTl",
+        "created": 1646116903883,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzLHqTm",
+        "created": 1646116903883,
+        "text": "十牛圖和頌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzLHqTn",
+        "created": 1646116903883,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYzLHqTo",
+        "created": 1646116903883,
+        "text": "十牛图和颂",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYzLHqTp",
+        "created": 1646116903883,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYzLHqTq",
+        "created": 1646116903883,
+        "text": "shi niu tu he song"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYzLHqTr",
+      "created": 1646116903883,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYzLHqTs",
+      "created": 1646116903883,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzLHqTt",
+      "created": 1646116903883,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYzLHqTu",
+      "created": 1646116903883,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYzLHqTv",
+      "created": 1646116903883,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYzLHqTw",
+       "created": 1646116903883,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqTx",
+       "created": 1646116903883,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqTy",
+       "created": 1646116903883,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqTz",
+       "created": 1646116903883,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU0",
+       "created": 1646116903883,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU1",
+       "created": 1646116903883,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU2",
+       "created": 1646116903883,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU3",
+       "created": 1646116903883,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU4",
+       "created": 1646116903883,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU5",
+       "created": 1646116903883,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU6",
+       "created": 1646116903883,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU7",
+       "created": 1646116903883,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU8",
+       "created": 1646116903883,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqU9",
+       "created": 1646116903883,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUA",
+       "created": 1646116903883,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUB",
+       "created": 1646116903883,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUC",
+       "created": 1646116903883,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUD",
+       "created": 1646116903883,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUE",
+       "created": 1646116903883,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUF",
+       "created": 1646116903883,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUG",
+       "created": 1646116903883,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUH",
+       "created": 1646116903883,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUI",
+       "created": 1646116903883,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUJ",
+       "created": 1646116903883,
+       "text": "【新纂卍續藏】No.1271《十牛圖和頌》 部別：中國撰述 諸宗著述部十一 禪宗雜著 / 冊數：64 / 頁數：777 / 卷數：1 《卍大日本續藏經》套數：第一編．第 0 套 《卍續藏經》(新文豐版)冊數：第 0 冊"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUK",
+       "created": 1646116903883,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYzLHqUL",
+       "created": 1646116903883,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1457"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri40b3dd",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

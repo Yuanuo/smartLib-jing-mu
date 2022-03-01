@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "禪宗指掌"},
+  "children": [{
+   "data": {
+    "id": "z5cYykif8Y",
+    "created": 1646116901616,
+    "text": "現藏錄（清 行海述）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYykif7u",
+      "created": 1646116901616,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYykif7v",
+        "created": 1646116901616,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYykif7w",
+        "created": 1646116901616,
+        "text": "禪宗指掌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYykif7x",
+        "created": 1646116901616,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYykif7y",
+        "created": 1646116901616,
+        "text": "禅宗指掌",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYykif7z",
+        "created": 1646116901616,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYykif80",
+        "created": 1646116901616,
+        "text": "shan zong zhi zhang"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYykif81",
+      "created": 1646116901616,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYykif82",
+      "created": 1646116901616,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYykif83",
+      "created": 1646116901616,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYykif84",
+      "created": 1646116901616,
+      "text": "清 行海述"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYykif85",
+      "created": 1646116901616,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYykif86",
+      "created": 1646116901616,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYykif87",
+      "created": 1646116901616,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYykif88",
+       "created": 1646116901616,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif89",
+       "created": 1646116901616,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8A",
+       "created": 1646116901616,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8B",
+       "created": 1646116901616,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8C",
+       "created": 1646116901616,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8D",
+       "created": 1646116901616,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8E",
+       "created": 1646116901616,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8F",
+       "created": 1646116901616,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8G",
+       "created": 1646116901616,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8H",
+       "created": 1646116901616,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8I",
+       "created": 1646116901616,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8J",
+       "created": 1646116901616,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8K",
+       "created": 1646116901616,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8L",
+       "created": 1646116901616,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8M",
+       "created": 1646116901616,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8N",
+       "created": 1646116901616,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8O",
+       "created": 1646116901616,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8P",
+       "created": 1646116901616,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8Q",
+       "created": 1646116901616,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8R",
+       "created": 1646116901616,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8S",
+       "created": 1646116901616,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8T",
+       "created": 1646116901616,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8U",
+       "created": 1646116901616,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8V",
+       "created": 1646116901616,
+       "text": "【新纂卍續藏】No.1289《禪宗指掌》清 行海述 部別：中國撰述 諸宗著述部十二 禪宗雜著 / 冊數：65 / 頁數：424 / 卷數：1 《卍大日本續藏經》套數：第二編．第 19 套 《卍續藏經》(新文豐版)冊數：第 114 冊"
+      }},
+      {"data": {
+       "id": "z5cYykif8W",
+       "created": 1646116901616,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYykif8X",
+       "created": 1646116901616,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1468"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri29c2jr",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

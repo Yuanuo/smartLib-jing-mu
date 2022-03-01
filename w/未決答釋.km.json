@@ -1,0 +1,254 @@
+{
+ "root": {
+  "data": {"text": "未決答釋"},
+  "children": [{
+   "data": {
+    "id": "z5cYyLCYFM",
+    "created": 1646116900034,
+    "text": "現藏錄（日本 房覺記）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYyLCYEh",
+      "created": 1646116900034,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYyLCYEi",
+        "created": 1646116900034,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLCYEj",
+        "created": 1646116900034,
+        "text": "未決答釋",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLCYEk",
+        "created": 1646116900034,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLCYEl",
+        "created": 1646116900034,
+        "text": "未决答释",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYyLCYEm",
+        "created": 1646116900034,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYyLCYEn",
+        "created": 1646116900034,
+        "text": "wei jue da shi"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLCYEo",
+      "created": 1646116900034,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLCYEp",
+      "created": 1646116900034,
+      "text": "日本",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLCYEq",
+      "created": 1646116900034,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLCYEr",
+       "created": 1646116900034,
+       "text": "日本 房覺記"
+      }},
+      {"data": {
+       "id": "z5cYyLCYEs",
+       "created": 1646116900034,
+       "text": "房覺",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYyLCYEt",
+      "created": 1646116900034,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYyLCYEu",
+      "created": 1646116900034,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYyLCYEv",
+      "created": 1646116900034,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYyLCYEw",
+       "created": 1646116900034,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYEx",
+       "created": 1646116900034,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYEy",
+       "created": 1646116900034,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYEz",
+       "created": 1646116900034,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF0",
+       "created": 1646116900034,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF1",
+       "created": 1646116900034,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF2",
+       "created": 1646116900034,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF3",
+       "created": 1646116900034,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF4",
+       "created": 1646116900034,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF5",
+       "created": 1646116900034,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF6",
+       "created": 1646116900034,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF7",
+       "created": 1646116900034,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF8",
+       "created": 1646116900034,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYF9",
+       "created": 1646116900034,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFA",
+       "created": 1646116900034,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFB",
+       "created": 1646116900034,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFC",
+       "created": 1646116900034,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFD",
+       "created": 1646116900034,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFE",
+       "created": 1646116900034,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFF",
+       "created": 1646116900034,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFG",
+       "created": 1646116900034,
+       "text": "【大正藏】No.2459《未決答釋》日本 房覺記 部別：續諸宗部八 / 冊數：77 / 頁數：865 / 卷數：1 相關經典： 參考資料：cf.No.2458"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFH",
+       "created": 1646116900034,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFI",
+       "created": 1646116900034,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFJ",
+       "created": 1646116900034,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFK",
+       "created": 1646116900034,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYyLCYFL",
+       "created": 1646116900034,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2459"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri11e21s",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

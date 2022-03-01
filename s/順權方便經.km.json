@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "順權方便經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwzJ8uJ",
+    "created": 1646116894833,
+    "text": "現藏錄（西晉 竺法護譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwzI8tM",
+      "created": 1646116894832,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwzI8tN",
+        "created": 1646116894832,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzI8tO",
+        "created": 1646116894832,
+        "text": "順權方便經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzI8tP",
+        "created": 1646116894832,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzI8tQ",
+        "created": 1646116894832,
+        "text": "顺权方便经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzI8tR",
+        "created": 1646116894832,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzI8tS",
+        "created": 1646116894832,
+        "text": "shun quan fang bian jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzI8ta",
+        "created": 1646116894832,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzI8tb",
+        "created": 1646116894832,
+        "text": "Shun ch'üan fang pien ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzI8tc",
+        "created": 1646116894832,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzI8td",
+        "created": 1646116894832,
+        "text": "Sirīvivartavyākaraṇa(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzI8te",
+        "created": 1646116894832,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzI8tf",
+        "created": 1646116894832,
+        "text": "Bud-med ḥgyur-ba luṅ-bstan-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwzI8tg",
+        "created": 1646116894832,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwzI8th",
+        "created": 1646116894832,
+        "text": "순권방편경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwzI8tT",
+      "created": 1646116894832,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzI8tU",
+      "created": 1646116894832,
+      "text": "西晉",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwzI8tV",
+      "created": 1646116894832,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwzI8tW",
+       "created": 1646116894832,
+       "text": "西晉 竺法護譯"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tX",
+       "created": 1646116894832,
+       "text": "法護",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwzI8tY",
+      "created": 1646116894832,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzI8tZ",
+      "created": 1646116894832,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwzI8ti",
+      "created": 1646116894832,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzI8tj",
+      "created": 1646116894832,
+      "text": "Translation by Dharmarakṣa: between the 1st year of T'ai Shih (泰始) and the 1st year of Chien Hsing (建興), Western Chin dynasty (西晉) (A.D. 265-313).T. 2151-353b:16."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwzI8tk",
+      "created": 1646116894832,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwzI8tl",
+       "created": 1646116894832,
+       "text": "【北京版】Mdo-sna-tshogs (mu)211a-235a"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tm",
+       "created": 1646116894832,
+       "text": "【奈塘版】Mdo (bd)324a-363a"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tn",
+       "created": 1646116894832,
+       "text": "【德格版】Mdo-sde (tsa)201a-224b"
+      }},
+      {"data": {
+       "id": "z5cYwzI8to",
+       "created": 1646116894832,
+       "text": "【拉薩版】Mdo (bd)316b-356a"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tp",
+       "created": 1646116894832,
+       "text": "【卓尼版】Mdo-maṅ (tsd)247b-279a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwzI8tq",
+      "created": 1646116894832,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwzI8tr",
+      "created": 1646116894832,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwzI8ts",
+      "created": 1646116894832,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwzI8tt",
+       "created": 1646116894832,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tu",
+       "created": 1646116894832,
+       "text": "【開寶藏】No.205《順權方便經》西晉 月支三藏竺法護 譯 部別：大乘經 五大部外諸重譯經 / 卷數：2 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tv",
+       "created": 1646116894832,
+       "text": "【崇寧藏】No.205《順權方便經》 卷數：2 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tw",
+       "created": 1646116894832,
+       "text": "【毘盧藏】No.201《順權方便經》西晉竺法護譯 參考年代：(靖康元．四) 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tx",
+       "created": 1646116894832,
+       "text": "【圓覺藏】No.214《順權方便經》 卷數：2 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8ty",
+       "created": 1646116894832,
+       "text": "【趙城金藏】No.204《順權方便經》 卷數：2 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwzI8tz",
+       "created": 1646116894832,
+       "text": "【資福藏】No.218《順權方便經》 卷數：2 (二卷) 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u0",
+       "created": 1646116894832,
+       "text": "【磧砂藏】No.219《順權方便經》晉 竺法護譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：39 / 卷數：2 千字文：豈 8 (157)-豈 9 (157)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u1",
+       "created": 1646116894832,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u2",
+       "created": 1646116894832,
+       "text": "【高麗藏】No.204《順權方便經》西晉月氏三藏竺法護譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：257 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：養"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u3",
+       "created": 1646116894832,
+       "text": "【普寧藏】No.213《順權方便經》 卷數：2 千字文：豈(157)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u4",
+       "created": 1646116894832,
+       "text": "【至元錄】No.282《順權方便經》西晉三藏竺法護譯 梵名：阿唎(二合)亞　伊思(二合)　地唎(二合)尾瓦囉(二合)怛尾牙迦囉拏　拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：2 / 譯次：(第二譯) 千字文：知(169)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u5",
+       "created": 1646116894832,
+       "text": "【洪武南藏】No.189《順權方便經》西晉 三藏法師竺法護 第二譯 冊數：53 / 頁數：476 / 卷數：2 千字文：豈 8 (157)-豈 9 (157)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u6",
+       "created": 1646116894832,
+       "text": "【永樂南藏】No.208《順權方便經》 部別：大乘經-五大部外重譯經 千字文：絜(164)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u7",
+       "created": 1646116894832,
+       "text": "【永樂北藏】No.238《順權方便經》西晉竺法護譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：225 / 卷數：2 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u8",
+       "created": 1646116894832,
+       "text": "【嘉興藏】No.209《順權方便經》西晉竺法護譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0209 千字文 / 函號：［正藏］ 潔(164)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8u9",
+       "created": 1646116894832,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uA",
+       "created": 1646116894832,
+       "text": "【乾隆藏】No.210《順權方便經》西晉 竺法護譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：71 / 卷數：2 千字文：潔"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uB",
+       "created": 1646116894832,
+       "text": "【縮刻藏】No.224《順權方便經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：2 千字文：宇 10 (5)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uC",
+       "created": 1646116894832,
+       "text": "【卍正藏】No.213《順權方便經》西晉 竺法護譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：876 / 卷數：2 原版套數：第 10 套"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uD",
+       "created": 1646116894832,
+       "text": "【大正藏】No.565《順權方便經》西晉 竺法護譯 部別：經集部一 / 冊數：14 / 頁數：921 / 卷數：2 相關經典：縮-宇10,卍-10.5 參考資料：No.566"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uE",
+       "created": 1646116894832,
+       "text": "【佛教大藏經】No.227《順權方便經》西晉 竺法護譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：779 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uF",
+       "created": 1646116894832,
+       "text": "【中華藏】No.215《順權方便經》西晉月氏三藏竺法護譯 冊數：18 / 頁數：781 / 卷數：2 / 底本：麗藏本"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uG",
+       "created": 1646116894832,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uH",
+       "created": 1646116894832,
+       "text": "【南條文雄編號】 Nj. 0214"
+      }},
+      {"data": {
+       "id": "z5cYwzI8uI",
+       "created": 1646116894832,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：565"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhx0whp",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

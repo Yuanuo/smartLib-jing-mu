@@ -1,0 +1,362 @@
+{
+ "root": {
+  "data": {"text": "須摩提經"},
+  "children": [{
+   "data": {
+    "id": "z5cYwlv5P6",
+    "created": 1646116894003,
+    "text": "現藏錄（唐 菩提流志譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYwlu5O9",
+      "created": 1646116894002,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYwlu5OA",
+        "created": 1646116894002,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlu5OB",
+        "created": 1646116894002,
+        "text": "須摩提經",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlu5OC",
+        "created": 1646116894002,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlu5OD",
+        "created": 1646116894002,
+        "text": "须摩提经",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlu5OE",
+        "created": 1646116894002,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlu5OF",
+        "created": 1646116894002,
+        "text": "xu mo ti jing"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlu5ON",
+        "created": 1646116894002,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlu5OO",
+        "created": 1646116894002,
+        "text": "Miao hui t'ung nü so wen ching"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlu5OP",
+        "created": 1646116894002,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlu5OQ",
+        "created": 1646116894002,
+        "text": "Sumatidārikāparipṛcchā(sūtra)",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlu5OR",
+        "created": 1646116894002,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlu5OS",
+        "created": 1646116894002,
+        "text": "Bu-mo blo-gros-bzaṅ-mor shus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYwlu5OT",
+        "created": 1646116894002,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYwlu5OU",
+        "created": 1646116894002,
+        "text": "수마제경",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlu5OG",
+      "created": 1646116894002,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlu5OH",
+      "created": 1646116894002,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlu5OI",
+      "created": 1646116894002,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlu5OJ",
+       "created": 1646116894002,
+       "text": "唐 菩提流志譯"
+      }},
+      {"data": {
+       "id": "z5cYwlu5OK",
+       "created": 1646116894002,
+       "text": "菩提流志",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlu5OL",
+      "created": 1646116894002,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlu5OM",
+      "created": 1646116894002,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlu5OV",
+      "created": 1646116894002,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlu5OW",
+      "created": 1646116894002,
+      "text": "Miao hui t'ung nü so wen ching (妙慧童女所問經)."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlu5OX",
+      "created": 1646116894002,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlu5OY",
+       "created": 1646116894002,
+       "text": "【北京版】Dkon-brtsegs (zi)224b-231a"
+      }},
+      {"data": {
+       "id": "z5cYwlu5OZ",
+       "created": 1646116894002,
+       "text": "【奈塘版】Dkon-brtsegs (ca)368a-377b"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oa",
+       "created": 1646116894002,
+       "text": "【德格版】Dkon-brtsegs (ca)216a-222a"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ob",
+       "created": 1646116894002,
+       "text": "【拉薩版】Dkon-brtsegs (ca)372a-381b"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oc",
+       "created": 1646116894002,
+       "text": "【卓尼版】Dkon-brtsegs (ca)246b-253b"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYwlu5Od",
+      "created": 1646116894002,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYwlu5Oe",
+      "created": 1646116894002,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYwlu5Of",
+      "created": 1646116894002,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYwlu5Og",
+       "created": 1646116894002,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oh",
+       "created": 1646116894002,
+       "text": "【開寶藏】No.40《須摩提經》唐 南天竺三藏菩提流志 譯 部別：大乘經 寶積部 / 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oi",
+       "created": 1646116894002,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oj",
+       "created": 1646116894002,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ok",
+       "created": 1646116894002,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ol",
+       "created": 1646116894002,
+       "text": "【趙城金藏】No.36《須摩提經》 卷數：1 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Om",
+       "created": 1646116894002,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5On",
+       "created": 1646116894002,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oo",
+       "created": 1646116894002,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Op",
+       "created": 1646116894002,
+       "text": "【高麗藏】No.36《須摩提經》大唐三藏菩提流志譯 部別：大乘經 寶積部 / 冊數：6 頁數：1171 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：服"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oq",
+       "created": 1646116894002,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Or",
+       "created": 1646116894002,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Os",
+       "created": 1646116894002,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ot",
+       "created": 1646116894002,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ou",
+       "created": 1646116894002,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ov",
+       "created": 1646116894002,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ow",
+       "created": 1646116894002,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Ox",
+       "created": 1646116894002,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oy",
+       "created": 1646116894002,
+       "text": "【縮刻藏】No.56《須摩提經》唐菩提流志譯 部別：大乘經-方等部 / 卷數：1 千字文：地 11 (2)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5Oz",
+       "created": 1646116894002,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5P0",
+       "created": 1646116894002,
+       "text": "【大正藏】No.336《須摩提經》唐 菩提流志譯 部別：寶積部下 / 冊數：12 / 頁數：81 / 卷數：1 相關經典：縮-地11,續-1.1.1 參考資料：Nos.310(30),334,335"
+      }},
+      {"data": {
+       "id": "z5cYwlu5P1",
+       "created": 1646116894002,
+       "text": "【佛教大藏經】No.56《須摩提經》唐 菩提流志譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：716 / 卷數：1"
+      }},
+      {"data": {
+       "id": "z5cYwlu5P2",
+       "created": 1646116894002,
+       "text": "【中華藏】No.41《須摩提經》大唐三藏法師菩提流志奉詔譯 冊數：9 / 頁數：788 / 卷數：1 / 底本：金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYwlu5P3",
+       "created": 1646116894002,
+       "text": "【新纂卍續藏】No.3《須摩提經》唐 菩提流志譯 部別：印度撰述 經部二 方等部 / 冊數：1 / 頁數：67 / 卷數：1 《卍大日本續藏經》套數：第一編．第 1 套 《卍續藏經》(新文豐版)冊數：第 1 冊"
+      }},
+      {"data": {
+       "id": "z5cYwlu5P4",
+       "created": 1646116894002,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYwlu5P5",
+       "created": 1646116894002,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：336"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhwdtat",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

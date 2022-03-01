@@ -1,0 +1,246 @@
+{
+ "root": {
+  "data": {"text": "楞嚴經寶鏡疏科文"},
+  "children": [{
+   "data": {
+    "id": "z5cYz6um4E",
+    "created": 1646116902992,
+    "text": "現藏錄（清 溥畹撰）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYz6um3a",
+      "created": 1646116902992,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYz6um3b",
+        "created": 1646116902992,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz6um3c",
+        "created": 1646116902992,
+        "text": "楞嚴經寶鏡疏科文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz6um3d",
+        "created": 1646116902992,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYz6um3e",
+        "created": 1646116902992,
+        "text": "楞严经宝镜疏科文",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYz6um3f",
+        "created": 1646116902992,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYz6um3g",
+        "created": 1646116902992,
+        "text": "leng yan jing bao jing shu ke wen"
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYz6um3h",
+      "created": 1646116902992,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYz6um3i",
+      "created": 1646116902992,
+      "text": "清",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz6um3j",
+      "created": 1646116902992,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5cYz6um3k",
+      "created": 1646116902992,
+      "text": "清 溥畹撰"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz6um3l",
+      "created": 1646116902992,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYz6um3m",
+      "created": 1646116902992,
+      "text": "1"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYz6um3n",
+      "created": 1646116902992,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYz6um3o",
+       "created": 1646116902992,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3p",
+       "created": 1646116902992,
+       "text": "【開寶藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3q",
+       "created": 1646116902992,
+       "text": "【崇寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3r",
+       "created": 1646116902992,
+       "text": "【毘盧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3s",
+       "created": 1646116902992,
+       "text": "【圓覺藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3t",
+       "created": 1646116902992,
+       "text": "【趙城金藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3u",
+       "created": 1646116902992,
+       "text": "【資福藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3v",
+       "created": 1646116902992,
+       "text": "【磧砂藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3w",
+       "created": 1646116902992,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3x",
+       "created": 1646116902992,
+       "text": "【高麗藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3y",
+       "created": 1646116902992,
+       "text": "【普寧藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um3z",
+       "created": 1646116902992,
+       "text": "【至元錄】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um40",
+       "created": 1646116902992,
+       "text": "【洪武南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um41",
+       "created": 1646116902992,
+       "text": "【永樂南藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um42",
+       "created": 1646116902992,
+       "text": "【永樂北藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um43",
+       "created": 1646116902992,
+       "text": "【嘉興藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um44",
+       "created": 1646116902992,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um45",
+       "created": 1646116902992,
+       "text": "【乾隆藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um46",
+       "created": 1646116902992,
+       "text": "【縮刻藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um47",
+       "created": 1646116902992,
+       "text": "【卍正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um48",
+       "created": 1646116902992,
+       "text": "【大正藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um49",
+       "created": 1646116902992,
+       "text": "【佛教大藏經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um4A",
+       "created": 1646116902992,
+       "text": "【中華藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um4B",
+       "created": 1646116902992,
+       "text": "【新纂卍續藏】No.314《楞嚴經寶鏡疏科文》清 溥畹撰 部別：中國撰述 大小乘釋經部十四 方等部疏 / 冊數：16 / 頁數：412 / 卷數：1 《卍大日本續藏經》套數：第一編．第 90 套 《卍續藏經》(新文豐版)冊數：第 90 冊"
+      }},
+      {"data": {
+       "id": "z5cYz6um4C",
+       "created": 1646116902992,
+       "text": "【南條文雄編號】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYz6um4D",
+       "created": 1646116902992,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷中：1113"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07ri3bk31t",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

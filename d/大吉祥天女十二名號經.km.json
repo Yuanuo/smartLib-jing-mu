@@ -1,0 +1,600 @@
+{
+ "root": {
+  "data": {"text": "佛說大吉祥天女十二名號經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxW2IcN",
+     "created": 1646116896862,
+     "text": "現藏錄（唐 不空譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxW1IbQ",
+       "created": 1646116896861,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxW1IbR",
+         "created": 1646116896861,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW1IbS",
+         "created": 1646116896861,
+         "text": "佛說大吉祥天女十二名號經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW1IbT",
+         "created": 1646116896861,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW1IbU",
+         "created": 1646116896861,
+         "text": "佛说大吉祥天女十二名号经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW1IbV",
+         "created": 1646116896861,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW1IbW",
+         "created": 1646116896861,
+         "text": "fo shuo da ji xiang tian nv shi er ming hao jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW1Ibe",
+         "created": 1646116896861,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW1Ibf",
+         "created": 1646116896861,
+         "text": "Ta chi hsiang t'ien nü shih erh ming hao ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW1Ibg",
+         "created": 1646116896861,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW1Ibh",
+         "created": 1646116896861,
+         "text": "Mahāśrīsūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW1Ibi",
+         "created": 1646116896861,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW1Ibj",
+         "created": 1646116896861,
+         "text": "Dpal chen-moḥi mdo"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW1Ibk",
+         "created": 1646116896861,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW1Ibl",
+         "created": 1646116896861,
+         "text": "대길상천녀십이명호경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxW1IbX",
+       "created": 1646116896861,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxW1IbY",
+       "created": 1646116896861,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxW1IbZ",
+       "created": 1646116896861,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxW1Iba",
+        "created": 1646116896861,
+        "text": "唐 不空譯"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ibb",
+        "created": 1646116896861,
+        "text": "不空",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxW1Ibc",
+       "created": 1646116896861,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxW1Ibd",
+       "created": 1646116896861,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxW1Ibm",
+       "created": 1646116896861,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxW1Ibn",
+       "created": 1646116896861,
+       "text": "Translation by Amoghavajra: (see K.1272)."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxW1Ibo",
+       "created": 1646116896861,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxW1Ibp",
+        "created": 1646116896861,
+        "text": "【北京版】Rgyud (tsa)88a-b(ya)177b-178aRgyud (tsa)88b-89b(ya)178a-b"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ibq",
+        "created": 1646116896861,
+        "text": "【奈塘版】Rgyud (ba-goṅ)19a-20a20a-21a"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ibr",
+        "created": 1646116896861,
+        "text": "【德格版】Rgyud-ḥbu m(tsha)234b-235aGzuṅs-ḥduṣ (wam)171a-172aRgyud-ḥbum(tsha)235a-bGzuṅs-ḥdus (wam)172a-b"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ibs",
+        "created": 1646116896861,
+        "text": "【拉薩版】Rgyud (pha)109a-110a110a-111a"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ibt",
+        "created": 1646116896861,
+        "text": "【卓尼版】Rgyud (tsa)97a-98a(ya)181b-182bRgyud (tsa)98a-b(ya)182b-183a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxW1Ibu",
+       "created": 1646116896861,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxW1Ibv",
+       "created": 1646116896861,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxW1Ibw",
+       "created": 1646116896861,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxW1Ibx",
+        "created": 1646116896861,
+        "text": "【房山石經】No.777《佛說大吉祥天女十二名號經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：65 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：相"
+       }},
+       {"data": {
+        "id": "z5cYxW1Iby",
+        "created": 1646116896861,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ibz",
+        "created": 1646116896861,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic0",
+        "created": 1646116896861,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic1",
+        "created": 1646116896861,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic2",
+        "created": 1646116896861,
+        "text": "【趙城金藏】No.1301《大吉祥天女十二名號經》 卷數：1 千字文：車"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic3",
+        "created": 1646116896861,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic4",
+        "created": 1646116896861,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic5",
+        "created": 1646116896861,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic6",
+        "created": 1646116896861,
+        "text": "【高麗藏】No.1288《大吉祥天女十二名號經》天竺三藏不空譯 部別：宋續入藏經 / 冊數：36 頁數：834 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：佐"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic7",
+        "created": 1646116896861,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic8",
+        "created": 1646116896861,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1Ic9",
+        "created": 1646116896861,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1IcA",
+        "created": 1646116896861,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW1IcB",
+        "created": 1646116896861,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcC",
+        "created": 1646116896862,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcD",
+        "created": 1646116896862,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcE",
+        "created": 1646116896862,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcF",
+        "created": 1646116896862,
+        "text": "【縮刻藏】No.1258《佛說大吉祥天女十二名號經》唐不空譯 部別：祕密部 / 卷數：1 千字文： 14 (25)"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcG",
+        "created": 1646116896862,
+        "text": "【卍正藏】No.962《佛說大吉祥天女十二名號經》不空譯 部別：宋元入藏諸大小乘經 / 冊數：28 / 頁數：482 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcH",
+        "created": 1646116896862,
+        "text": "【大正藏】No.1252a《佛說大吉祥天女十二名號經》唐 不空譯 部別：密教部四 / 冊數：21 / 頁數：252 / 卷數：1 相關經典：縮-閏14,卍-15.8 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxW2IcI",
+        "created": 1646116896862,
+        "text": "【佛教大藏經】No.1327《佛說大吉祥天女十二名號經》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：1152 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcJ",
+        "created": 1646116896862,
+        "text": "【中華藏】No.1414《佛說大吉祥天女十二名號經(別本)》大興善寺三藏沙門不空奉詔譯 冊數：65 / 頁數：472 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcK",
+        "created": 1646116896862,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcL",
+        "created": 1646116896862,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW2IcM",
+        "created": 1646116896862,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1252"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5cYxW4Id3",
+     "created": 1646116896864,
+     "text": "現藏錄（唐 不空譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxW4IcO",
+       "created": 1646116896864,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxW4IcP",
+         "created": 1646116896864,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW4IcQ",
+         "created": 1646116896864,
+         "text": "佛說大吉祥天女十二名號經"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW4IcR",
+         "created": 1646116896864,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW4IcS",
+         "created": 1646116896864,
+         "text": "佛说大吉祥天女十二名号经"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxW4IcT",
+         "created": 1646116896864,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxW4IcU",
+         "created": 1646116896864,
+         "text": "fo shuo da ji xiang tian nv shi er ming hao jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxW4IcV",
+       "created": 1646116896864,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxW4IcW",
+       "created": 1646116896864,
+       "text": "唐"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxW4IcX",
+       "created": 1646116896864,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxW4IcY",
+        "created": 1646116896864,
+        "text": "唐 不空譯"
+       }},
+       {"data": {
+        "id": "z5cYxW4IcZ",
+        "created": 1646116896864,
+        "text": "不空"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxW4Ica",
+       "created": 1646116896864,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxW4Icb",
+       "created": 1646116896864,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxW4Icc",
+       "created": 1646116896864,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxW4Icd",
+        "created": 1646116896864,
+        "text": "【房山石經】No.777《佛說大吉祥天女十二名號經》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：25 / 頁數：65 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：相"
+       }},
+       {"data": {
+        "id": "z5cYxW4Ice",
+        "created": 1646116896864,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icf",
+        "created": 1646116896864,
+        "text": "【崇寧藏】No.1359《佛說大吉祥天女十二名號經》 卷數：1 千字文：惠(556)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icg",
+        "created": 1646116896864,
+        "text": "【毘盧藏】No.1357《佛說大吉祥天女十二名號經》唐不空譯 千字文：惠(556)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Ich",
+        "created": 1646116896864,
+        "text": "【圓覺藏】No.1355《大吉祥天女十二名號經》 千字文：佐(533)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Ici",
+        "created": 1646116896864,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icj",
+        "created": 1646116896864,
+        "text": "【資福藏】No.1360《佛說大吉祥天女十二名號經》 卷數：1 千字文：佐(533)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Ick",
+        "created": 1646116896864,
+        "text": "【磧砂藏】No.1364《佛說大吉祥天女十二名號經》唐 不空譯 部別： / 冊數：34 / 頁數：442 / 卷數：1 千字文：佐 7 (533)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icl",
+        "created": 1646116896864,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icm",
+        "created": 1646116896864,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icn",
+        "created": 1646116896864,
+        "text": "【普寧藏】No.1355《佛說大吉祥天女十二名號經》 卷數：1 千字文：佐(533)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Ico",
+        "created": 1646116896864,
+        "text": "【至元錄】No.680《大吉祥天女十二契名號經》唐天竺三藏大廣智不空譯 梵名：阿唎(二合)亞　麻訶室利　蘇怛羅(二合) / 卷數：1 千字文：曰(245)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icp",
+        "created": 1646116896864,
+        "text": "【洪武南藏】No.1212《佛說大吉祥天女十二名号經》三藏沙門大廣智不空 譯 冊數：189 / 頁數：226 / 卷數：1 千字文：佐 7 (533)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icq",
+        "created": 1646116896864,
+        "text": "【永樂南藏】No.1000《大吉祥天女十二名號經》 部別：宋元入藏諸大小乘經 千字文：流(274)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icr",
+        "created": 1646116896864,
+        "text": "【永樂北藏】No.990《佛說大吉祥天女十二名號經》唐不空譯 部別：宋元入藏諸大小乘經 / 冊數：69 / 頁數：938 / 卷數：1 千字文：興"
+       }},
+       {"data": {
+        "id": "z5cYxW4Ics",
+        "created": 1646116896864,
+        "text": "【嘉興藏】No.952《大吉祥天女十二名號經》唐不空譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0952 千字文 / 函號：［正藏］ 興(262)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Ict",
+        "created": 1646116896864,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icu",
+        "created": 1646116896864,
+        "text": "【乾隆藏】No.953《佛說大吉祥天女十二名號經》唐 不空譯 部別：宋元入藏諸大小乘經 / 冊數：59 / 頁數：59 / 卷數：1 千字文：興"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icv",
+        "created": 1646116896864,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icw",
+        "created": 1646116896864,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icx",
+        "created": 1646116896864,
+        "text": "【大正藏】No.1252b《佛說大吉祥天女十二名號經》唐 不空譯 部別：密教部四 / 冊數：21 / 頁數：252 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxW4Icy",
+        "created": 1646116896864,
+        "text": "【佛教大藏經】No.1328《佛說大吉祥天女十二名號經(別本)》唐 不空譯 部別：密教部二 / 冊數：53 / 頁數：1153 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxW4Icz",
+        "created": 1646116896864,
+        "text": "【中華藏】No.1412《佛說大吉祥天女十二名號經》大興善寺三藏沙門不空奉詔譯 冊數：65 / 頁數：469 / 卷數：1 / 底本：金藏廣勝寺本 【中華藏】No.1413《佛說大吉祥天女十二名號經(別本)》特進試鴻臚卿大興善寺三藏沙門大廣智不空奉詔譯 冊數：65 / 頁數：471 / 卷數：1 / 底本：房山石經本"
+       }},
+       {"data": {
+        "id": "z5cYxW4Id0",
+        "created": 1646116896864,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxW4Id1",
+        "created": 1646116896864,
+        "text": "【南條文雄編號】 Nj. 0958"
+       }},
+       {"data": {
+        "id": "z5cYxW4Id2",
+        "created": 1646116896864,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1252"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhyl9120",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

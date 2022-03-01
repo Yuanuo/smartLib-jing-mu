@@ -1,0 +1,363 @@
+{
+ "root": {
+  "data": {"text": "大乘阿毘達磨集論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxnfNdx",
+    "created": 1646116897955,
+    "text": "現藏錄（無著菩薩造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxndNd0",
+      "created": 1646116897953,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxndNd1",
+        "created": 1646116897953,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxndNd2",
+        "created": 1646116897953,
+        "text": "大乘阿毘達磨集論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxndNd3",
+        "created": 1646116897953,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxndNd4",
+        "created": 1646116897953,
+        "text": "大乘阿毘达磨集论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxndNd5",
+        "created": 1646116897953,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxndNd6",
+        "created": 1646116897953,
+        "text": "da cheng a pi da mo ji lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxndNdF",
+        "created": 1646116897953,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxndNdG",
+        "created": 1646116897953,
+        "text": "Ta ch'eng a p'i ta mo chi lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxndNdH",
+        "created": 1646116897953,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxndNdI",
+        "created": 1646116897953,
+        "text": "Abhidharmasamuccaya",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxndNdJ",
+        "created": 1646116897953,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxndNdK",
+        "created": 1646116897953,
+        "text": "Chos mṅon-pa kun-las-btus-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxndNdL",
+        "created": 1646116897953,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxndNdM",
+        "created": 1646116897953,
+        "text": "대승아비달마집론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxndNd7",
+      "created": 1646116897953,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxndNd8",
+      "created": 1646116897953,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxndNd9",
+      "created": 1646116897953,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxndNdA",
+       "created": 1646116897953,
+       "text": "無著菩薩造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxndNdB",
+       "created": 1646116897953,
+       "text": "無著",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxndNdC",
+       "created": 1646116897953,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxndNdD",
+      "created": 1646116897953,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxndNdE",
+      "created": 1646116897953,
+      "text": "7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxndNdN",
+      "created": 1646116897953,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxndNdO",
+      "created": 1646116897953,
+      "text": "Translation by Hsüan-tsang: begun on the 16th day, 1st month, and completed on the 28th day, 3rd month, 3rd year of Yung Hui (永徽), T'ang dynasty (唐) (February 11th April 23rd, A.D. 652) in Ta-tz'u-en Monastery (大慈恩寺), or during the years of Hsien Ch'ing (顯慶), Tang dynasty (唐) (A.D. 656-661).T. 2154-556b:17; T. 2149-320c:25."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxndNdP",
+      "created": 1646116897953,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxndNdQ",
+       "created": 1646116897953,
+       "text": "【北京版】Mdo-ḥgrel (Sems-tsam)(ri)51a-141b"
+      }},
+      {"data": {
+       "id": "z5cYxndNdR",
+       "created": 1646116897953,
+       "text": "【奈塘版】Mdo-ḥgrel (li)47a-129b"
+      }},
+      {"data": {
+       "id": "z5cYxndNdS",
+       "created": 1646116897953,
+       "text": "【德格版】Sems-tsam (ri)44b-120a"
+      }},
+      {"data": {
+       "id": "z5cYxndNdT",
+       "created": 1646116897953,
+       "text": "【卓尼版】Sems-tsam (ri)44a-120a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxndNdU",
+      "created": 1646116897953,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxndNdV",
+      "created": 1646116897953,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxndNdW",
+      "created": 1646116897953,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxndNdX",
+       "created": 1646116897953,
+       "text": "【房山石經】No.721《大乘阿毗達磨集論》無著菩薩造　三藏法師玄奘奉詔譯 冊數：19 / 頁數：188 / 卷數：7 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：寶"
+      }},
+      {"data": {
+       "id": "z5cYxndNdY",
+       "created": 1646116897953,
+       "text": "【開寶藏】No.572《大乘阿毗達磨集論》唐 三藏玄奘 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：7 千字文：璧"
+      }},
+      {"data": {
+       "id": "z5cYxndNdZ",
+       "created": 1646116897953,
+       "text": "【崇寧藏】No.574《大乘阿毘達磨集論》 卷數：10 千字文：非(235)"
+      }},
+      {"data": {
+       "id": "z5cYxndNda",
+       "created": 1646116897953,
+       "text": "【毘盧藏】No.576《大乘阿毘達摩集論》唐玄奘譯 千字文：非(235)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdb",
+       "created": 1646116897953,
+       "text": "【圓覺藏】No.588《大乘阿毘達磨集論》 卷數：7 千字文：非(235)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdc",
+       "created": 1646116897953,
+       "text": "【趙城金藏】No.573《大乘阿毗達磨集論》 卷數：7 千字文：璧"
+      }},
+      {"data": {
+       "id": "z5cYxndNdd",
+       "created": 1646116897953,
+       "text": "【資福藏】No.593《大乘阿毘達磨集論》 卷數：7 (七卷) 千字文：非(235)"
+      }},
+      {"data": {
+       "id": "z5cYxndNde",
+       "created": 1646116897953,
+       "text": "【磧砂藏】No.591《大乘阿毗達磨集論》唐 玄奘譯 部別：集義論 / 冊數：15 / 頁數：838 / 卷數：7 千字文：非 1 (235)-非 7 (235)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdf",
+       "created": 1646116897953,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdg",
+       "created": 1646116897953,
+       "text": "【高麗藏】No.572《大乘阿毘達磨集論》無著菩薩造-三藏法師玄奘奉詔譯 部別：大乘論 集義論 / 冊數：16 頁數：157(原版) 209(新文豐) / 卷數：7 / 連結：高麗大藏經 (圖檔) 千字文：璧"
+      }},
+      {"data": {
+       "id": "z5cYxndNdh",
+       "created": 1646116897953,
+       "text": "【普寧藏】No.584《大乘阿毘達磨集論》 卷數：7 千字文：非(235)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdi",
+       "created": 1646116897953,
+       "text": "【至元錄】No.1302《大乘阿毘達磨集論》無著菩薩造　唐三藏玄奘譯 卷數：7 千字文：據(423)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdj",
+       "created": 1646116897953,
+       "text": "【洪武南藏】No.520《大乘阿毗達摩集論》無著菩薩 造　三藏法師玄奘 奉詔譯　 冊數：81 / 頁數：204 / 卷數：7 千字文：非 1 (235)-非 7 (235)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdk",
+       "created": 1646116897953,
+       "text": "【永樂南藏】No.1330《大乘阿毘達磨集論》 部別：大乘論 千字文：心(389)"
+      }},
+      {"data": {
+       "id": "z5cYxndNdl",
+       "created": 1646116897953,
+       "text": "【永樂北藏】No.1245《大乘阿毗達磨集論》唐玄奘譯 部別：大乘論 / 冊數：103 / 頁數：725 / 卷數：7 千字文：退"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdm",
+       "created": 1646116897955,
+       "text": "【嘉興藏】No.1191《大乘阿毘達磨集論》唐玄奘譯 部別：大乘論 / 法寶總目錄經號：1190 千字文 / 函號：［正藏］ 退(380)"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdn",
+       "created": 1646116897955,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdo",
+       "created": 1646116897955,
+       "text": "【乾隆藏】No.1192《大乘阿毘達磨集論》無著造　(唐)玄奘譯 部別：大乘論 / 冊數：85 / 頁數：187 / 卷數：7 千字文：退"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdp",
+       "created": 1646116897955,
+       "text": "【縮刻藏】No.879《大乘阿毘達磨集論》無著菩薩造　唐玄奘譯 部別：印度大乘宗經論 / 卷數：7 千字文：來 8 (18)"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdq",
+       "created": 1646116897955,
+       "text": "【卍正藏】No.1207《大乘阿毗達磨集論》唐 玄奘譯 部別：大乘論 / 冊數：41 / 頁數：1 / 卷數：7 原版套數：第 22 套"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdr",
+       "created": 1646116897955,
+       "text": "【大正藏】No.1605《大乘阿毘達磨集論》無著菩薩造 唐 玄奘譯 部別：瑜伽部下 / 冊數：31 / 頁數：663 / 卷數：7 相關經典：縮-來8,卍-22.1 參考資料：cf.No.1606"
+      }},
+      {"data": {
+       "id": "z5cYxnfNds",
+       "created": 1646116897955,
+       "text": "【佛教大藏經】No.921《大乘阿毘達磨集論》唐 玄奘譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：335 / 卷數：7"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdt",
+       "created": 1646116897955,
+       "text": "【中華藏】No.622《大乘阿毗達磨集論》無著菩薩造，三藏法師玄奘奉詔譯 冊數：28 / 頁數：606 / 卷數：7 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdu",
+       "created": 1646116897955,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdv",
+       "created": 1646116897955,
+       "text": "【南條文雄編號】 Nj. 1199"
+      }},
+      {"data": {
+       "id": "z5cYxnfNdw",
+       "created": 1646116897955,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1605"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzfl1c7",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}

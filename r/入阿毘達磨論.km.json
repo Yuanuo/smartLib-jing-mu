@@ -1,0 +1,369 @@
+{
+ "root": {
+  "data": {"text": "入阿毘達磨論"},
+  "children": [{
+   "data": {
+    "id": "z5cYxkiMt4",
+    "created": 1646116897772,
+    "text": "現藏錄（塞建陀羅造　唐 玄奘譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5cYxkhMs6",
+      "created": 1646116897771,
+      "text": "經名"
+     },
+     "children": [
+      {
+       "data": {
+        "id": "z5cYxkhMs7",
+        "created": 1646116897771,
+        "text": "中文繁体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkhMs8",
+        "created": 1646116897771,
+        "text": "入阿毘達磨論",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkhMs9",
+        "created": 1646116897771,
+        "text": "中文简体"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkhMsA",
+        "created": 1646116897771,
+        "text": "入阿毘达磨论",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkhMsB",
+        "created": 1646116897771,
+        "text": "中文简拼"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkhMsC",
+        "created": 1646116897771,
+        "text": "ru a pi da mo lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkhMsM",
+        "created": 1646116897771,
+        "text": "漢語拼音"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkhMsN",
+        "created": 1646116897771,
+        "text": "Ju a p'i ta mo lun"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkhMsO",
+        "created": 1646116897771,
+        "text": "梵　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkhMsP",
+        "created": 1646116897771,
+        "text": "Abhidharmāvatāraprakaraṇā",
+        "resource": ["alias"]
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkhMsQ",
+        "created": 1646116897771,
+        "text": "藏　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkhMsR",
+        "created": 1646116897771,
+        "text": "Rab-tu-byed-pa chos mṅon-pa-la hjug-pa"
+       }}]
+      },
+      {
+       "data": {
+        "id": "z5cYxkhMsS",
+        "created": 1646116897771,
+        "text": "韓　　文"
+       },
+       "children": [{"data": {
+        "id": "z5cYxkhMsT",
+        "created": 1646116897771,
+        "text": "입아비달마론",
+        "resource": ["alias"]
+       }}]
+      }
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxkhMsD",
+      "created": 1646116897771,
+      "text": "时域"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkhMsE",
+      "created": 1646116897771,
+      "text": "唐",
+      "resource": ["period"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkhMsF",
+      "created": 1646116897771,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxkhMsG",
+       "created": 1646116897771,
+       "text": "塞建陀羅造　唐 玄奘譯"
+      }},
+      {"data": {
+       "id": "z5cYxkhMsH",
+       "created": 1646116897771,
+       "text": "塞建地羅",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxkhMsI",
+       "created": 1646116897771,
+       "text": "塞建陀羅",
+       "resource": ["translator"]
+      }},
+      {"data": {
+       "id": "z5cYxkhMsJ",
+       "created": 1646116897771,
+       "text": "玄奘",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxkhMsK",
+      "created": 1646116897771,
+      "text": "卷數"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkhMsL",
+      "created": 1646116897771,
+      "text": "2"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkhMsU",
+      "created": 1646116897771,
+      "text": "翻譯概述"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkhMsV",
+      "created": 1646116897771,
+      "text": "Translation by Hsüan-tsang: 13th day, 10th month, 3rd year of Hsien Ching (顯慶), T'ang dynasty (唐) (November 13th, A.D. 658) in Ta-tz'u-en Monastery (大慈恩寺).T.2154-557b:1."
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkhMsW",
+      "created": 1646116897771,
+      "text": "西藏各版本出處"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxkhMsX",
+       "created": 1646116897771,
+       "text": "【北京版】Mdo-ḥgrel (Mṅon-pa) (thu)393a-417a"
+      }},
+      {"data": {
+       "id": "z5cYxkhMsY",
+       "created": 1646116897771,
+       "text": "【奈塘版】Mdo-ḥgrel (thu)403b-429"
+      }},
+      {"data": {
+       "id": "z5cYxkhMsZ",
+       "created": 1646116897771,
+       "text": "【德格版】Mṅon-pa (ñu)302a-323a"
+      }},
+      {"data": {
+       "id": "z5cYxkhMsa",
+       "created": 1646116897771,
+       "text": "【卓尼版】Mṅon-pa (ñu)303a-324a"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5cYxkiMsb",
+      "created": 1646116897772,
+      "text": "出處"
+     },
+     "children": [{"data": {
+      "id": "z5cYxkiMsc",
+      "created": 1646116897772,
+      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5cYxkiMsd",
+      "created": 1646116897772,
+      "text": "漢文大藏經各藏細目"
+     },
+     "children": [
+      {"data": {
+       "id": "z5cYxkiMse",
+       "created": 1646116897772,
+       "text": "【房山石經】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsf",
+       "created": 1646116897772,
+       "text": "【開寶藏】No.960《入阿毗達磨論》唐 塞建陀羅阿羅漢 造 三藏玄奘 譯 部別：小乘論 聲聞對法藏 / 卷數：2 千字文：西"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsg",
+       "created": 1646116897772,
+       "text": "【崇寧藏】No.963《入阿毘達磨論》 卷數：2 千字文：東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsh",
+       "created": 1646116897772,
+       "text": "【毘盧藏】No.963《入阿毘達磨論》塞建地羅阿羅漢造　唐玄奘譯 參考年代：(紹興三．一○) 千字文：東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsi",
+       "created": 1646116897772,
+       "text": "【圓覺藏】No.972《入阿毘達磨論》 千字文：東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsj",
+       "created": 1646116897772,
+       "text": "【趙城金藏】No.966《入阿毗達磨論》 卷數：2 千字文：華"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsk",
+       "created": 1646116897772,
+       "text": "【資福藏】No.978《入阿毘達磨論》 卷數：2 (上下) 千字文：東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsl",
+       "created": 1646116897772,
+       "text": "【磧砂藏】No.988《入阿毗達磨論》唐 玄奘譯 部別： / 冊數：26 / 頁數：790 / 卷數：2 千字文：東 7 (413)-東 8 (413)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsm",
+       "created": 1646116897772,
+       "text": "【宋藏遺珍】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsn",
+       "created": 1646116897772,
+       "text": "【高麗藏】No.964《入阿毘達磨論》三藏法師玄奘奉詔譯 部別：小乘論 / 冊數：28 頁數：702 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：華"
+      }},
+      {"data": {
+       "id": "z5cYxkiMso",
+       "created": 1646116897772,
+       "text": "【普寧藏】No.979《入阿毘達磨論》 卷數：2 千字文：東(413)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsp",
+       "created": 1646116897772,
+       "text": "【至元錄】No.1415《入阿毘達磨論》尊者塞建陀羅陀造　唐三藏玄奘譯 卷數：2 千字文：肥(519)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsq",
+       "created": 1646116897772,
+       "text": "【洪武南藏】No.872《入阿毗達磨論》塞建地羅阿羅漢 造　大唐 三藏玄奘 奉詔譯　 冊數：146 / 頁數：257 / 卷數：2 千字文：東 7 (413)-東 8 (413)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsr",
+       "created": 1646116897772,
+       "text": "【永樂南藏】No.1421《入阿毘達磨論所集論》 部別：小乘論 千字文：墳(475)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMss",
+       "created": 1646116897772,
+       "text": "【永樂北藏】No.1347《入阿毗達磨論》唐玄奘譯 部別：小乘論 / 冊數：124 / 頁數：97 / 卷數：2 千字文：笙"
+      }},
+      {"data": {
+       "id": "z5cYxkiMst",
+       "created": 1646116897772,
+       "text": "【嘉興藏】No.1283《入阿毘達磨論》唐玄奘譯 部別：小乘論 / 法寶總目錄經號：1282 千字文 / 函號：［正藏］ 笙(456)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsu",
+       "created": 1646116897772,
+       "text": "【嘉興藏新文豐版】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsv",
+       "created": 1646116897772,
+       "text": "【乾隆藏】No.1284《入阿毗達磨論》塞建地羅造　(唐)玄奘譯 部別：小乘論 / 冊數：102 / 頁數：213 / 卷數：2 千字文：笙"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsw",
+       "created": 1646116897772,
+       "text": "【縮刻藏】No.1024《入阿毘達磨論》塞建陀羅阿羅漢造　唐玄奘譯 部別：印度小乘論 / 卷數：2 千字文：藏 1 (24)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsx",
+       "created": 1646116897772,
+       "text": "【卍正藏】No.1298《入阿毗達磨論》唐 玄奘譯 部別：小乘論 / 冊數：48 / 頁數：132 / 卷數：2 原版套數：第 25 套"
+      }},
+      {"data": {
+       "id": "z5cYxkiMsy",
+       "created": 1646116897772,
+       "text": "【大正藏】No.1554《入阿毘達磨論》塞建陀羅造 唐 玄奘譯 部別：毘曇部三 / 冊數：28 / 頁數：980 / 卷數：2 相關經典：縮-藏1,卍-25.6,國-論2 參考資料："
+      }},
+      {"data": {
+       "id": "z5cYxkiMsz",
+       "created": 1646116897772,
+       "text": "【佛教大藏經】No.1068《入阿毘達磨論》唐 玄奘譯 部別：小乘論 論部十三 / 冊數：47 / 頁數：26 / 卷數：2"
+      }},
+      {"data": {
+       "id": "z5cYxkiMt0",
+       "created": 1646116897772,
+       "text": "【中華藏】No.1049《入阿毗達磨論》塞建陀羅阿羅漢造，三藏法師玄奘奉詔譯 冊數：48 / 頁數：952 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+      }},
+      {"data": {
+       "id": "z5cYxkiMt1",
+       "created": 1646116897772,
+       "text": "【新纂卍續藏】 (未收錄)"
+      }},
+      {"data": {
+       "id": "z5cYxkiMt2",
+       "created": 1646116897772,
+       "text": "【南條文雄編號】 Nj. 1291"
+      }},
+      {"data": {
+       "id": "z5cYxkiMt3",
+       "created": 1646116897772,
+       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1554"
+      }}
+     ]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l07rhzaj1as",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["現藏錄"]
+ }
+}
