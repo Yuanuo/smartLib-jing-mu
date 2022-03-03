@@ -1,0 +1,202 @@
+{
+ "root": {
+  "data": {"text": "彌勒授記經"},
+  "children": [{
+   "data": {
+    "id": "z5mp3cFdN",
+    "created": 1646268496919,
+    "text": "布頓目錄（吉祥積譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5mp3cEcu",
+      "created": 1646268496918,
+      "text": "布頓編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cEcv",
+      "created": 1646268496918,
+      "text": "Bt.0081"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cEcw",
+      "created": 1646268496918,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cEcx",
+      "created": 1646268496918,
+      "text": "Ym.265"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cEcy",
+      "created": 1646268496918,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cEcz",
+      "created": 1646268496918,
+      "text": "བྱམས་པ་ལུང་བསྟན་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cEd0",
+      "created": 1646268496918,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cEd1",
+      "created": 1646268496918,
+      "text": "彌勒授記經",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cEd2",
+      "created": 1646268496918,
+      "text": "卷　　數"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cEd3",
+      "created": 1646268496918,
+      "text": "100頌"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cEd4",
+      "created": 1646268496918,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5mp3cFd5",
+       "created": 1646268496919,
+       "text": "吉祥積譯"
+      }},
+      {"data": {
+       "id": "z5mp3cFd6",
+       "created": 1646268496919,
+       "text": "吉祥積",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFd7",
+      "created": 1646268496919,
+      "text": "藏 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFd8",
+      "created": 1646268496919,
+      "text": "215"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFd9",
+      "created": 1646268496919,
+      "text": "漢 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFdA",
+      "created": 1646268496919,
+      "text": "70-012"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFdB",
+      "created": 1646268496919,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFdC",
+      "created": 1646268496919,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFdD",
+      "created": 1646268496919,
+      "text": "大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFdE",
+      "created": 1646268496919,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFdF",
+      "created": 1646268496919,
+      "text": "至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFdG",
+      "created": 1646268496919,
+      "text": "Y.0277"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFdH",
+      "created": 1646268496919,
+      "text": "蕃　　本"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFdI",
+      "created": 1646268496919,
+      "text": "闕"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFdJ",
+      "created": 1646268496919,
+      "text": "備　　注"
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFdK",
+      "created": 1646268496919,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3cFdL",
+      "created": 1646268496919,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5mp3cFdM",
+      "created": 1646268496919,
+      "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0a9r9xx29",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["布頓目錄"]
+ }
+}

@@ -1,325 +1,514 @@
 {
  "root": {
   "data": {"text": "入法界體性經"},
-  "children": [{
-   "data": {
-    "id": "z5cYwmq5gs",
-    "created": 1646116894060,
-    "text": "現藏錄（隋 闍那崛多譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwmq5gs",
+     "created": 1646116894060,
+     "text": "現藏錄（隋 闍那崛多譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwmp5g0",
+       "created": 1646116894059,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwmp5g1",
+         "created": 1646116894059,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmp5g2",
+         "created": 1646116894059,
+         "text": "入法界體性經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmp5g3",
+         "created": 1646116894059,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmp5g4",
+         "created": 1646116894059,
+         "text": "入法界体性经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmp5g5",
+         "created": 1646116894059,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmp5g6",
+         "created": 1646116894059,
+         "text": "ru fa jie ti xing jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmp5gE",
+         "created": 1646116894059,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmp5gF",
+         "created": 1646116894059,
+         "text": "Ju fa chieh t'i hsing ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmp5gG",
+         "created": 1646116894059,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmp5gH",
+         "created": 1646116894059,
+         "text": "Ratnakūṭasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmp5gI",
+         "created": 1646116894059,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmp5gJ",
+         "created": 1646116894059,
+         "text": "Rin-po-cheḥi mthaḥ"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmp5gK",
+         "created": 1646116894059,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmp5gL",
+         "created": 1646116894059,
+         "text": "입법계체성경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwmp5g7",
+       "created": 1646116894059,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmp5g8",
+       "created": 1646116894059,
+       "text": "隋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmp5g9",
+       "created": 1646116894059,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwmp5gA",
+        "created": 1646116894059,
+        "text": "隋 闍那崛多譯"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gB",
+        "created": 1646116894059,
+        "text": "闍那崛多",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwmp5gC",
+       "created": 1646116894059,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmp5gD",
+       "created": 1646116894059,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmp5gM",
+       "created": 1646116894059,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmp5gN",
+       "created": 1646116894059,
+       "text": "Translation by Jñānagupta: 8th month, 15th year of K'ai Huang (開皇), Sui dynasty (隋) (A.D. 595) in Ta-hsing-shan Monastery (大興善寺）.T. 2154-548c:7, T. 2148-184b:20."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwmp5gO",
+      "created": 1646116894059,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwmp5gP",
+       "created": 1646116894059,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmp5gQ",
+       "created": 1646116894059,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmp5gR",
+       "created": 1646116894059,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwmp5gS",
+        "created": 1646116894059,
+        "text": "【房山石經】No.258《佛說入法界體性經》(隋)天竺三藏闍那掘多譯 冊數：3 / 頁數：568 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.453《入法界體性經》(隋)天竺三藏闍那崛多等譯 冊數：10 / 頁數：433 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：女"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gT",
+        "created": 1646116894059,
+        "text": "【開寶藏】No.241《入法界體性經》隋 天竺三藏闍那崛多等 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gU",
+        "created": 1646116894059,
+        "text": "【崇寧藏】No.241《入法界體性經》 卷數：1 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gV",
+        "created": 1646116894059,
+        "text": "【毘盧藏】No.238《入法界體性經》隋闍那崛多譯 參考年代：(靖康元．七) 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gW",
+        "created": 1646116894059,
+        "text": "【圓覺藏】No.254《入法界體性經》 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gX",
+        "created": 1646116894059,
+        "text": "【趙城金藏】No.241《入法界體性經》 卷數：1 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gY",
+        "created": 1646116894059,
+        "text": "【資福藏】No.258《入法界體性經》 卷數：1 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gZ",
+        "created": 1646116894059,
+        "text": "【磧砂藏】No.259《入法界體性經》隋 闍那崛多譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：183 / 卷數：1 千字文：傷 7 (160)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5ga",
+        "created": 1646116894059,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gb",
+        "created": 1646116894059,
+        "text": "【高麗藏】No.241《入法界體性經》隋天竺三藏闍那崛多譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：503 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：毀"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gc",
+        "created": 1646116894059,
+        "text": "【普寧藏】No.253《入法界體性經》 卷數：1 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gd",
+        "created": 1646116894059,
+        "text": "【至元錄】No.318《法界體性經》隋天竺三藏闍那崛多譯 卷數：1 / 譯次：(第二譯) 千字文：改(172)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5ge",
+        "created": 1646116894059,
+        "text": "【洪武南藏】No.226《入法界體性經》隋 北天竺三藏法師闍那崛多 譯 冊數：54 / 頁數：450 / 卷數：1 千字文：傷 7 (160)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gf",
+        "created": 1646116894059,
+        "text": "【永樂南藏】No.243《入法界體性經》 部別：大乘經-五大部外重譯經 千字文：男(165)"
+       }},
+       {"data": {
+        "id": "z5cYwmp5gg",
+        "created": 1646116894059,
+        "text": "【永樂北藏】No.65《入法界體性經》隋闍那崛多譯 部別：大乘經寶積部 / 冊數：23 / 頁數：11 / 卷數：1 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gh",
+        "created": 1646116894060,
+        "text": "【嘉興藏】No.47《入法界體性經》隋闍那崛多譯 部別：大乘經-寶積部 / 法寶總目錄經號：0047 千字文 / 函號：［正藏］ 裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gi",
+        "created": 1646116894060,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gj",
+        "created": 1646116894060,
+        "text": "【乾隆藏】No.47《入法界體性經》隋 闍那崛多譯 部別：大乘寶積部 / 冊數：20 / 頁數：381 / 卷數：1 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gk",
+        "created": 1646116894060,
+        "text": "【縮刻藏】No.77《入法界體性經》隋闍那崛多譯 部別：大乘經-方等部 / 卷數：1 千字文：地 12 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gl",
+        "created": 1646116894060,
+        "text": "【卍正藏】No.51《入法界體性經》隋 闍那崛多譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：758 / 卷數：1 原版套數：第 6 套"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gm",
+        "created": 1646116894060,
+        "text": "【大正藏】No.355《入法界體性經》隋 闍那崛多譯 部別：寶積部下 / 冊數：12 / 頁數：234 / 卷數：1 相關經典：縮-地12,卍-6.5 參考資料：No.356"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gn",
+        "created": 1646116894060,
+        "text": "【佛教大藏經】No.77《入法界體性經》隋 闍那崛多譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：976 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwmq5go",
+        "created": 1646116894060,
+        "text": "【中華藏】No.259《入法界體性經》隋天竺三藏闍那崛多譯 冊數：19 / 頁數：195 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gp",
+        "created": 1646116894060,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gq",
+        "created": 1646116894060,
+        "text": "【南條文雄編號】 Nj. 0051"
+       }},
+       {"data": {
+        "id": "z5cYwmq5gr",
+        "created": 1646116894060,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：355"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYwmp5g0",
-      "created": 1646116894059,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYwmp5g1",
-        "created": 1646116894059,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmp5g2",
-        "created": 1646116894059,
-        "text": "入法界體性經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwmp5g3",
-        "created": 1646116894059,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmp5g4",
-        "created": 1646116894059,
-        "text": "入法界体性经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwmp5g5",
-        "created": 1646116894059,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmp5g6",
-        "created": 1646116894059,
-        "text": "ru fa jie ti xing jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwmp5gE",
-        "created": 1646116894059,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmp5gF",
-        "created": 1646116894059,
-        "text": "Ju fa chieh t'i hsing ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwmp5gG",
-        "created": 1646116894059,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmp5gH",
-        "created": 1646116894059,
-        "text": "Ratnakūṭasūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwmp5gI",
-        "created": 1646116894059,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmp5gJ",
-        "created": 1646116894059,
-        "text": "Rin-po-cheḥi mthaḥ"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwmp5gK",
-        "created": 1646116894059,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmp5gL",
-        "created": 1646116894059,
-        "text": "입법계체성경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
+   {
+    "data": {
+     "id": "z5mp3pc1bc",
+     "created": 1646268497748,
+     "text": "布頓目錄（智軍等譯）"
     },
-    {
-     "data": {
-      "id": "z5cYwmp5g7",
-      "created": 1646116894059,
-      "text": "时域"
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3pb1b9",
+       "created": 1646268497747,
+       "text": "布頓編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pb1bA",
+       "created": 1646268497747,
+       "text": "Bt.0205"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmp5g8",
-      "created": 1646116894059,
-      "text": "隋",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwmp5g9",
-      "created": 1646116894059,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3pb1bB",
+       "created": 1646268497747,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pb1bC",
+       "created": 1646268497747,
+       "text": "Ym.182"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwmp5gA",
-       "created": 1646116894059,
-       "text": "隋 闍那崛多譯"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gB",
-       "created": 1646116894059,
-       "text": "闍那崛多",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwmp5gC",
-      "created": 1646116894059,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3pc1bD",
+       "created": 1646268497748,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bE",
+       "created": 1646268497748,
+       "text": "རིན་པོ་ཆེའི་མཐའ།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmp5gD",
-      "created": 1646116894059,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwmp5gM",
-      "created": 1646116894059,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3pc1bF",
+       "created": 1646268497748,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bG",
+       "created": 1646268497748,
+       "text": "入法界體性經"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmp5gN",
-      "created": 1646116894059,
-      "text": "Translation by Jñānagupta: 8th month, 15th year of K'ai Huang (開皇), Sui dynasty (隋) (A.D. 595) in Ta-hsing-shan Monastery (大興善寺）.T. 2154-548c:7, T. 2148-184b:20."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYwmp5gO",
-     "created": 1646116894059,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYwmp5gP",
-      "created": 1646116894059,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3pc1bH",
+       "created": 1646268497748,
+       "text": "卷　　數"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bI",
+       "created": 1646268497748,
+       "text": "210頌"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmp5gQ",
-      "created": 1646116894059,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwmp5gR",
-      "created": 1646116894059,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3pc1bJ",
+       "created": 1646268497748,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3pc1bK",
+        "created": 1646268497748,
+        "text": "智軍等譯"
+       }},
+       {"data": {
+        "id": "z5mp3pc1bL",
+        "created": 1646268497748,
+        "text": "智軍等",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwmp5gS",
-       "created": 1646116894059,
-       "text": "【房山石經】No.258《佛說入法界體性經》(隋)天竺三藏闍那掘多譯 冊數：3 / 頁數：568 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.453《入法界體性經》(隋)天竺三藏闍那崛多等譯 冊數：10 / 頁數：433 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：女"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gT",
-       "created": 1646116894059,
-       "text": "【開寶藏】No.241《入法界體性經》隋 天竺三藏闍那崛多等 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：毀"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gU",
-       "created": 1646116894059,
-       "text": "【崇寧藏】No.241《入法界體性經》 卷數：1 千字文：傷(160)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gV",
-       "created": 1646116894059,
-       "text": "【毘盧藏】No.238《入法界體性經》隋闍那崛多譯 參考年代：(靖康元．七) 千字文：傷(160)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gW",
-       "created": 1646116894059,
-       "text": "【圓覺藏】No.254《入法界體性經》 千字文：傷(160)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gX",
-       "created": 1646116894059,
-       "text": "【趙城金藏】No.241《入法界體性經》 卷數：1 千字文：毀"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gY",
-       "created": 1646116894059,
-       "text": "【資福藏】No.258《入法界體性經》 卷數：1 千字文：傷(160)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gZ",
-       "created": 1646116894059,
-       "text": "【磧砂藏】No.259《入法界體性經》隋 闍那崛多譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：183 / 卷數：1 千字文：傷 7 (160)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5ga",
-       "created": 1646116894059,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gb",
-       "created": 1646116894059,
-       "text": "【高麗藏】No.241《入法界體性經》隋天竺三藏闍那崛多譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：503 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：毀"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gc",
-       "created": 1646116894059,
-       "text": "【普寧藏】No.253《入法界體性經》 卷數：1 千字文：傷(160)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gd",
-       "created": 1646116894059,
-       "text": "【至元錄】No.318《法界體性經》隋天竺三藏闍那崛多譯 卷數：1 / 譯次：(第二譯) 千字文：改(172)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5ge",
-       "created": 1646116894059,
-       "text": "【洪武南藏】No.226《入法界體性經》隋 北天竺三藏法師闍那崛多 譯 冊數：54 / 頁數：450 / 卷數：1 千字文：傷 7 (160)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gf",
-       "created": 1646116894059,
-       "text": "【永樂南藏】No.243《入法界體性經》 部別：大乘經-五大部外重譯經 千字文：男(165)"
-      }},
-      {"data": {
-       "id": "z5cYwmp5gg",
-       "created": 1646116894059,
-       "text": "【永樂北藏】No.65《入法界體性經》隋闍那崛多譯 部別：大乘經寶積部 / 冊數：23 / 頁數：11 / 卷數：1 千字文：裳"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gh",
-       "created": 1646116894060,
-       "text": "【嘉興藏】No.47《入法界體性經》隋闍那崛多譯 部別：大乘經-寶積部 / 法寶總目錄經號：0047 千字文 / 函號：［正藏］ 裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gi",
-       "created": 1646116894060,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gj",
-       "created": 1646116894060,
-       "text": "【乾隆藏】No.47《入法界體性經》隋 闍那崛多譯 部別：大乘寶積部 / 冊數：20 / 頁數：381 / 卷數：1 千字文：裳"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gk",
-       "created": 1646116894060,
-       "text": "【縮刻藏】No.77《入法界體性經》隋闍那崛多譯 部別：大乘經-方等部 / 卷數：1 千字文：地 12 (2)"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gl",
-       "created": 1646116894060,
-       "text": "【卍正藏】No.51《入法界體性經》隋 闍那崛多譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：758 / 卷數：1 原版套數：第 6 套"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gm",
-       "created": 1646116894060,
-       "text": "【大正藏】No.355《入法界體性經》隋 闍那崛多譯 部別：寶積部下 / 冊數：12 / 頁數：234 / 卷數：1 相關經典：縮-地12,卍-6.5 參考資料：No.356"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gn",
-       "created": 1646116894060,
-       "text": "【佛教大藏經】No.77《入法界體性經》隋 闍那崛多譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：976 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYwmq5go",
-       "created": 1646116894060,
-       "text": "【中華藏】No.259《入法界體性經》隋天竺三藏闍那崛多譯 冊數：19 / 頁數：195 / 卷數：1 / 底本：麗藏本"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gp",
-       "created": 1646116894060,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gq",
-       "created": 1646116894060,
-       "text": "【南條文雄編號】 Nj. 0051"
-      }},
-      {"data": {
-       "id": "z5cYwmq5gr",
-       "created": 1646116894060,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：355"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3pc1bM",
+       "created": 1646268497748,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bN",
+       "created": 1646268497748,
+       "text": "220"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3pc1bO",
+       "created": 1646268497748,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bP",
+       "created": 1646268497748,
+       "text": "70-037"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3pc1bQ",
+       "created": 1646268497748,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bR",
+       "created": 1646268497748,
+       "text": "Th.0118"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3pc1bS",
+       "created": 1646268497748,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bT",
+       "created": 1646268497748,
+       "text": "T.0355～T.0356"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3pc1bU",
+       "created": 1646268497748,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bV",
+       "created": 1646268497748,
+       "text": "Y.0318"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3pc1bW",
+       "created": 1646268497748,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bX",
+       "created": 1646268497748,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3pc1bY",
+       "created": 1646268497748,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bZ",
+       "created": 1646268497748,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3pc1ba",
+       "created": 1646268497748,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3pc1bb",
+       "created": 1646268497748,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -328,6 +517,9 @@
   "id": "l07rhwffbc",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

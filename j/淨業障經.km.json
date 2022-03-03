@@ -1,334 +1,523 @@
 {
  "root": {
   "data": {"text": "佛說淨業障經"},
-  "children": [{
-   "data": {
-    "id": "z5cYxiFM0T",
-    "created": 1646116897619,
-    "text": "現藏錄（失譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxiFM0T",
+     "created": 1646116897619,
+     "text": "現藏錄（失譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxiFLzZ",
+       "created": 1646116897619,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxiFLza",
+         "created": 1646116897619,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiFLzb",
+         "created": 1646116897619,
+         "text": "佛說淨業障經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiFLzc",
+         "created": 1646116897619,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiFLzd",
+         "created": 1646116897619,
+         "text": "佛说净业障经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiFLze",
+         "created": 1646116897619,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiFLzf",
+         "created": 1646116897619,
+         "text": "fo shuo jing ye zhang jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiFLzk",
+         "created": 1646116897619,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiFLzl",
+         "created": 1646116897619,
+         "text": "Ching yeh chang ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiFLzm",
+         "created": 1646116897619,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiFLzn",
+         "created": 1646116897619,
+         "text": "Karmāvaraṇaviśuddhisūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiFLzo",
+         "created": 1646116897619,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiFLzp",
+         "created": 1646116897619,
+         "text": "Sgrib-pa rnam-par-dag-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxiFLzq",
+         "created": 1646116897619,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxiFLzr",
+         "created": 1646116897619,
+         "text": "정업장경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxiFLzg",
+       "created": 1646116897619,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiFLzh",
+       "created": 1646116897619,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiFLzi",
+       "created": 1646116897619,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiFLzj",
+       "created": 1646116897619,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiFLzs",
+       "created": 1646116897619,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiFLzt",
+       "created": 1646116897619,
+       "text": "Translator unknown: the Three Ch'in dynasties (三秦) (A.D. 350431).T. 2157-939b:10."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiFLzu",
+       "created": 1646116897619,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxiFLzv",
+        "created": 1646116897619,
+        "text": "【北京版】Mdo-sna-tshogs (tsu)298a"
+       }},
+       {"data": {
+        "id": "z5cYxiFLzw",
+        "created": 1646116897619,
+        "text": "【奈塘版】Mdo (ma)451a-473b"
+       }},
+       {"data": {
+        "id": "z5cYxiFLzx",
+        "created": 1646116897619,
+        "text": "【德格版】Mdo-sde (tsha)284a-297b"
+       }},
+       {"data": {
+        "id": "z5cYxiFLzy",
+        "created": 1646116897619,
+        "text": "【拉薩版】Mdo (ma)438a-461a"
+       }},
+       {"data": {
+        "id": "z5cYxiFLzz",
+        "created": 1646116897619,
+        "text": "【卓尼版】Mdo-maṅ (tsha)334a-351b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxiFM00",
+       "created": 1646116897619,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxiFM01",
+       "created": 1646116897619,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxiFM02",
+       "created": 1646116897619,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxiFM03",
+        "created": 1646116897619,
+        "text": "【房山石經】No.672《淨業障經》秦錄失譯 冊數：14 / 頁數：326 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：剋"
+       }},
+       {"data": {
+        "id": "z5cYxiFM04",
+        "created": 1646116897619,
+        "text": "【開寶藏】No.522《淨業障經》三秦 失譯者 部別：大乘律 菩薩調伏藏 / 卷數：1 千字文：維"
+       }},
+       {"data": {
+        "id": "z5cYxiFM05",
+        "created": 1646116897619,
+        "text": "【崇寧藏】No.527《佛說淨業障經》 卷數：1 千字文：賢(204)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM06",
+        "created": 1646116897619,
+        "text": "【毘盧藏】No.524《佛說淨業障經》失譯 千字文：賢(204)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM07",
+        "created": 1646116897619,
+        "text": "【圓覺藏】No.537《淨業障經》 千字文：賢(204)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM08",
+        "created": 1646116897619,
+        "text": "【趙城金藏】No.526《淨業障經》 卷數：1 千字文：維"
+       }},
+       {"data": {
+        "id": "z5cYxiFM09",
+        "created": 1646116897619,
+        "text": "【資福藏】No.543《淨業障經》 卷數：1 千字文：賢(204)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0A",
+        "created": 1646116897619,
+        "text": "【磧砂藏】No.544《佛說淨業障經》失譯 部別： / 冊數：13 / 頁數：951 / 卷數：1 千字文：賢 11 (204)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0B",
+        "created": 1646116897619,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0C",
+        "created": 1646116897619,
+        "text": "【高麗藏】No.525《淨業障經》失譯人名今附秦錄 部別：大乘律 / 冊數：14 頁數：244 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：維"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0D",
+        "created": 1646116897619,
+        "text": "【普寧藏】No.537《佛說淨業障經》 卷數：1 千字文：賢(204)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0E",
+        "created": 1646116897619,
+        "text": "【至元錄】No.1180《淨業障經》失譯人名(今附秦錄法上錄云竺法護譯昇編文勢全異故為失譯人名) 梵名：迦羅(二合)麻　阿瓦羅那拏秫地摩訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：入(341)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0F",
+        "created": 1646116897619,
+        "text": "【洪武南藏】No.481《佛說淨業障經》失譯師名開元附秦錄 冊數：69 / 頁數：401 / 卷數：1 千字文：賢 11 (204)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0G",
+        "created": 1646116897619,
+        "text": "【永樂南藏】No.1233《佛說淨業障經》 部別：大乘律 千字文：職(310)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0H",
+        "created": 1646116897619,
+        "text": "【永樂北藏】No.1126《佛說淨業障經》失譯人名附秦錄 部別：大乘律 / 冊數：77 / 頁數：81 / 卷數：1 千字文：篤"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0I",
+        "created": 1646116897619,
+        "text": "【嘉興藏】No.1088《淨業障經》失譯人名附秦錄 部別：大乘律 / 法寶總目錄經號：1087 千字文 / 函號：［正藏］ 篤(289)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0J",
+        "created": 1646116897619,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0K",
+        "created": 1646116897619,
+        "text": "【乾隆藏】No.1089《佛說淨業障經》失譯師名開元附秦錄 部別：大乘律 / 冊數：64 / 頁數：667 / 卷數：1 千字文：篤"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0L",
+        "created": 1646116897619,
+        "text": "【縮刻藏】No.792《佛說淨業障經》失譯 部別：大乘律 / 卷數：1 千字文：列 2 (15)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0M",
+        "created": 1646116897619,
+        "text": "【卍正藏】No.1099《佛說淨業障經》失譯人名今附秦錄 部別：大乘律 / 冊數：31 / 頁數：378 / 卷數：1 原版套數：第 17 套"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0N",
+        "created": 1646116897619,
+        "text": "【大正藏】No.1494《佛說淨業障經》失譯 部別：律部三 / 冊數：24 / 頁數：1095 / 卷數：1 相關經典：縮-列2,卍-17.2 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxiFM0O",
+        "created": 1646116897619,
+        "text": "【佛教大藏經】No.826《佛說淨業障經》失譯 部別：大乘律 律部一 / 冊數：29 / 頁數：364 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0P",
+        "created": 1646116897619,
+        "text": "【中華藏】No.573《佛說淨業障經》失譯人名今附秦錄 冊數：24 / 頁數：666 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0Q",
+        "created": 1646116897619,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0R",
+        "created": 1646116897619,
+        "text": "【南條文雄編號】 Nj. 1094"
+       }},
+       {"data": {
+        "id": "z5cYxiFM0S",
+        "created": 1646116897619,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1494"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYxiFLzZ",
-      "created": 1646116897619,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYxiFLza",
-        "created": 1646116897619,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxiFLzb",
-        "created": 1646116897619,
-        "text": "佛說淨業障經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxiFLzc",
-        "created": 1646116897619,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxiFLzd",
-        "created": 1646116897619,
-        "text": "佛说净业障经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxiFLze",
-        "created": 1646116897619,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYxiFLzf",
-        "created": 1646116897619,
-        "text": "fo shuo jing ye zhang jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxiFLzk",
-        "created": 1646116897619,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYxiFLzl",
-        "created": 1646116897619,
-        "text": "Ching yeh chang ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxiFLzm",
-        "created": 1646116897619,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxiFLzn",
-        "created": 1646116897619,
-        "text": "Karmāvaraṇaviśuddhisūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxiFLzo",
-        "created": 1646116897619,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxiFLzp",
-        "created": 1646116897619,
-        "text": "Sgrib-pa rnam-par-dag-pa"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxiFLzq",
-        "created": 1646116897619,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxiFLzr",
-        "created": 1646116897619,
-        "text": "정업장경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
+   {
+    "data": {
+     "id": "z5mp3uY2Kp",
+     "created": 1646268498054,
+     "text": "布頓目錄（智軍譯）"
     },
-    {
-     "data": {
-      "id": "z5cYxiFLzg",
-      "created": 1646116897619,
-      "text": "作／譯者"
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3uX2KM",
+       "created": 1646268498053,
+       "text": "布頓編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2KN",
+       "created": 1646268498053,
+       "text": "Bt.0297"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxiFLzh",
-      "created": 1646116897619,
-      "text": "失譯",
-      "resource": ["translator"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxiFLzi",
-      "created": 1646116897619,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3uX2KO",
+       "created": 1646268498053,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2KP",
+       "created": 1646268498053,
+       "text": "Ym.161"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxiFLzj",
-      "created": 1646116897619,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxiFLzs",
-      "created": 1646116897619,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3uX2KQ",
+       "created": 1646268498053,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2KR",
+       "created": 1646268498053,
+       "text": "ལས་ཀྱི་སྒྲིབ་པ་རྣམ་པར་དག་པ།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxiFLzt",
-      "created": 1646116897619,
-      "text": "Translator unknown: the Three Ch'in dynasties (三秦) (A.D. 350431).T. 2157-939b:10."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxiFLzu",
-      "created": 1646116897619,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5mp3uX2KS",
+       "created": 1646268498053,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2KT",
+       "created": 1646268498053,
+       "text": "佛說淨業障經"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxiFLzv",
-       "created": 1646116897619,
-       "text": "【北京版】Mdo-sna-tshogs (tsu)298a"
-      }},
-      {"data": {
-       "id": "z5cYxiFLzw",
-       "created": 1646116897619,
-       "text": "【奈塘版】Mdo (ma)451a-473b"
-      }},
-      {"data": {
-       "id": "z5cYxiFLzx",
-       "created": 1646116897619,
-       "text": "【德格版】Mdo-sde (tsha)284a-297b"
-      }},
-      {"data": {
-       "id": "z5cYxiFLzy",
-       "created": 1646116897619,
-       "text": "【拉薩版】Mdo (ma)438a-461a"
-      }},
-      {"data": {
-       "id": "z5cYxiFLzz",
-       "created": 1646116897619,
-       "text": "【卓尼版】Mdo-maṅ (tsha)334a-351b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxiFM00",
-      "created": 1646116897619,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3uX2KU",
+       "created": 1646268498053,
+       "text": "卷　　數"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2KV",
+       "created": 1646268498053,
+       "text": "1卷40頌"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxiFM01",
-      "created": 1646116897619,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxiFM02",
-      "created": 1646116897619,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3uX2KW",
+       "created": 1646268498053,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3uX2KX",
+        "created": 1646268498053,
+        "text": "智軍譯"
+       }},
+       {"data": {
+        "id": "z5mp3uX2KY",
+        "created": 1646268498053,
+        "text": "智軍",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxiFM03",
-       "created": 1646116897619,
-       "text": "【房山石經】No.672《淨業障經》秦錄失譯 冊數：14 / 頁數：326 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：剋"
-      }},
-      {"data": {
-       "id": "z5cYxiFM04",
-       "created": 1646116897619,
-       "text": "【開寶藏】No.522《淨業障經》三秦 失譯者 部別：大乘律 菩薩調伏藏 / 卷數：1 千字文：維"
-      }},
-      {"data": {
-       "id": "z5cYxiFM05",
-       "created": 1646116897619,
-       "text": "【崇寧藏】No.527《佛說淨業障經》 卷數：1 千字文：賢(204)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM06",
-       "created": 1646116897619,
-       "text": "【毘盧藏】No.524《佛說淨業障經》失譯 千字文：賢(204)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM07",
-       "created": 1646116897619,
-       "text": "【圓覺藏】No.537《淨業障經》 千字文：賢(204)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM08",
-       "created": 1646116897619,
-       "text": "【趙城金藏】No.526《淨業障經》 卷數：1 千字文：維"
-      }},
-      {"data": {
-       "id": "z5cYxiFM09",
-       "created": 1646116897619,
-       "text": "【資福藏】No.543《淨業障經》 卷數：1 千字文：賢(204)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0A",
-       "created": 1646116897619,
-       "text": "【磧砂藏】No.544《佛說淨業障經》失譯 部別： / 冊數：13 / 頁數：951 / 卷數：1 千字文：賢 11 (204)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0B",
-       "created": 1646116897619,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0C",
-       "created": 1646116897619,
-       "text": "【高麗藏】No.525《淨業障經》失譯人名今附秦錄 部別：大乘律 / 冊數：14 頁數：244 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：維"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0D",
-       "created": 1646116897619,
-       "text": "【普寧藏】No.537《佛說淨業障經》 卷數：1 千字文：賢(204)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0E",
-       "created": 1646116897619,
-       "text": "【至元錄】No.1180《淨業障經》失譯人名(今附秦錄法上錄云竺法護譯昇編文勢全異故為失譯人名) 梵名：迦羅(二合)麻　阿瓦羅那拏秫地摩訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：入(341)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0F",
-       "created": 1646116897619,
-       "text": "【洪武南藏】No.481《佛說淨業障經》失譯師名開元附秦錄 冊數：69 / 頁數：401 / 卷數：1 千字文：賢 11 (204)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0G",
-       "created": 1646116897619,
-       "text": "【永樂南藏】No.1233《佛說淨業障經》 部別：大乘律 千字文：職(310)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0H",
-       "created": 1646116897619,
-       "text": "【永樂北藏】No.1126《佛說淨業障經》失譯人名附秦錄 部別：大乘律 / 冊數：77 / 頁數：81 / 卷數：1 千字文：篤"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0I",
-       "created": 1646116897619,
-       "text": "【嘉興藏】No.1088《淨業障經》失譯人名附秦錄 部別：大乘律 / 法寶總目錄經號：1087 千字文 / 函號：［正藏］ 篤(289)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0J",
-       "created": 1646116897619,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0K",
-       "created": 1646116897619,
-       "text": "【乾隆藏】No.1089《佛說淨業障經》失譯師名開元附秦錄 部別：大乘律 / 冊數：64 / 頁數：667 / 卷數：1 千字文：篤"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0L",
-       "created": 1646116897619,
-       "text": "【縮刻藏】No.792《佛說淨業障經》失譯 部別：大乘律 / 卷數：1 千字文：列 2 (15)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0M",
-       "created": 1646116897619,
-       "text": "【卍正藏】No.1099《佛說淨業障經》失譯人名今附秦錄 部別：大乘律 / 冊數：31 / 頁數：378 / 卷數：1 原版套數：第 17 套"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0N",
-       "created": 1646116897619,
-       "text": "【大正藏】No.1494《佛說淨業障經》失譯 部別：律部三 / 冊數：24 / 頁數：1095 / 卷數：1 相關經典：縮-列2,卍-17.2 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYxiFM0O",
-       "created": 1646116897619,
-       "text": "【佛教大藏經】No.826《佛說淨業障經》失譯 部別：大乘律 律部一 / 冊數：29 / 頁數：364 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0P",
-       "created": 1646116897619,
-       "text": "【中華藏】No.573《佛說淨業障經》失譯人名今附秦錄 冊數：24 / 頁數：666 / 卷數：1 / 底本：麗藏本"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0Q",
-       "created": 1646116897619,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0R",
-       "created": 1646116897619,
-       "text": "【南條文雄編號】 Nj. 1094"
-      }},
-      {"data": {
-       "id": "z5cYxiFM0S",
-       "created": 1646116897619,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1494"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3uX2KZ",
+       "created": 1646268498053,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Ka",
+       "created": 1646268498053,
+       "text": "223"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3uX2Kb",
+       "created": 1646268498053,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Kc",
+       "created": 1646268498053,
+       "text": "70-050"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3uX2Kd",
+       "created": 1646268498053,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Ke",
+       "created": 1646268498053,
+       "text": "Th.0218"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3uX2Kf",
+       "created": 1646268498053,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Kg",
+       "created": 1646268498053,
+       "text": "T.1494"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3uX2Kh",
+       "created": 1646268498053,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Ki",
+       "created": 1646268498053,
+       "text": "Y.1180"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3uX2Kj",
+       "created": 1646268498053,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Kk",
+       "created": 1646268498053,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3uX2Kl",
+       "created": 1646268498053,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Km",
+       "created": 1646268498053,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3uX2Kn",
+       "created": 1646268498053,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3uX2Ko",
+       "created": 1646268498053,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -337,6 +526,9 @@
   "id": "l07rhz6a193",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

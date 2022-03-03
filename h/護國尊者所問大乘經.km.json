@@ -1,354 +1,543 @@
 {
  "root": {
   "data": {"text": "佛說護國尊者所問大乘經"},
-  "children": [{
-   "data": {
-    "id": "z5cYwl65BX",
-    "created": 1646116893952,
-    "text": "現藏錄（宋 施護譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwl65BX",
+     "created": 1646116893952,
+     "text": "現藏錄（宋 施護譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwl55Aa",
+       "created": 1646116893951,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwl55Ab",
+         "created": 1646116893951,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwl55Ac",
+         "created": 1646116893951,
+         "text": "佛說護國尊者所問大乘經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwl55Ad",
+         "created": 1646116893951,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwl55Ae",
+         "created": 1646116893951,
+         "text": "佛说护国尊者所问大乘经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwl55Af",
+         "created": 1646116893951,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwl55Ag",
+         "created": 1646116893951,
+         "text": "fo shuo hu guo zun zhe suo wen da cheng jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwl55Ao",
+         "created": 1646116893951,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwl55Ap",
+         "created": 1646116893951,
+         "text": "Hu kuo tsun che so wen ta ch'eng ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwl55Aq",
+         "created": 1646116893951,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwl55Ar",
+         "created": 1646116893951,
+         "text": "Rāṣṭrapālaparipṛcchā(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwl55As",
+         "created": 1646116893951,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwl55At",
+         "created": 1646116893951,
+         "text": "Yul-ḥkhor-skyoṅ-gis shus-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwl55Au",
+         "created": 1646116893951,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwl55Av",
+         "created": 1646116893951,
+         "text": "호국존자소문대승경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwl55Ah",
+       "created": 1646116893951,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwl55Ai",
+       "created": 1646116893951,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwl55Aj",
+       "created": 1646116893951,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwl55Ak",
+        "created": 1646116893951,
+        "text": "宋 施護譯"
+       }},
+       {"data": {
+        "id": "z5cYwl55Al",
+        "created": 1646116893951,
+        "text": "施護",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwl55Am",
+       "created": 1646116893951,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwl55An",
+       "created": 1646116893951,
+       "text": "4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwl55Aw",
+       "created": 1646116893951,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwl55Ax",
+       "created": 1646116893951,
+       "text": "Ta-chung-lu vol.8 p.23b:26b."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwl55Ay",
+       "created": 1646116893951,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwl55Az",
+        "created": 1646116893951,
+        "text": "【北京版】Dkon-brtsegs (shi)192a-226b"
+       }},
+       {"data": {
+        "id": "z5cYwl55B0",
+        "created": 1646116893951,
+        "text": "【奈塘版】Dkon-brtsegs (ṅa)429b-478"
+       }},
+       {"data": {
+        "id": "z5cYwl55B1",
+        "created": 1646116893951,
+        "text": "【德格版】Dkon-brtsegs (ṅa)227a-257a"
+       }},
+       {"data": {
+        "id": "z5cYwl55B2",
+        "created": 1646116893951,
+        "text": "【拉薩版】Dkon-brtsegs (ṅa)458b-508a"
+       }},
+       {"data": {
+        "id": "z5cYwl55B3",
+        "created": 1646116893951,
+        "text": "【卓尼版】Dkon-brtsegs (ṅa)262a-296b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwl55B4",
+       "created": 1646116893951,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwl55B5",
+       "created": 1646116893951,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwl55B6",
+       "created": 1646116893951,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwl55B7",
+        "created": 1646116893951,
+        "text": "【房山石經】No.973《佛說護國尊者所問大乘經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：26 / 頁數：623 / 卷數：4 / 刻經年代：皇統四年刻石 / 瀏覽：目錄圖檔 千字文：合"
+       }},
+       {"data": {
+        "id": "z5cYwl55B8",
+        "created": 1646116893951,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwl55B9",
+        "created": 1646116893951,
+        "text": "【崇寧藏】No.1210《佛說護國尊者所問大乘經》 卷數：4 千字文：冠(506)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BA",
+        "created": 1646116893951,
+        "text": "【毘盧藏】No.1211《佛說護國尊者所問大乘經》宋施護譯 參考年代：(紹興一八．閏八) 千字文：冠(506)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BB",
+        "created": 1646116893951,
+        "text": "【圓覺藏】No.1220《護國尊者所問大乘經》 卷數：4 千字文：冠(506)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BC",
+        "created": 1646116893951,
+        "text": "【趙城金藏】No.1207《護國尊者所問大乘經》 卷數：4 千字文：給"
+       }},
+       {"data": {
+        "id": "z5cYwl55BD",
+        "created": 1646116893951,
+        "text": "【資福藏】No.1225《護國尊者所問大乘經》 卷數：4 (四卷) 千字文：冠(506)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BE",
+        "created": 1646116893951,
+        "text": "【磧砂藏】No.1232《佛說護國尊者所問大乘經》宋 施護譯 部別： / 冊數：33 / 頁數：128 / 卷數：4 千字文：冠 10 (506)-冠 11 (506)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BF",
+        "created": 1646116893951,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BG",
+        "created": 1646116893951,
+        "text": "【高麗藏】No.1206《護國尊者所問大乘經》西天三藏傳法大師施護譯 部別：宋續入藏經 / 冊數：34 頁數：292 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：給"
+       }},
+       {"data": {
+        "id": "z5cYwl55BH",
+        "created": 1646116893951,
+        "text": "【普寧藏】No.1225《佛說護國尊者所問大乘經》 卷數：4 千字文：冠(506)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BI",
+        "created": 1646116893951,
+        "text": "【至元錄】No.495《護國尊者所問大乘經》宋天竺三藏施護譯 卷數：4 千字文：景(201)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BJ",
+        "created": 1646116893951,
+        "text": "【洪武南藏】No.1082《佛說護國尊者所問大乘經》西天譯經三藏朝散大夫試鴻臚卿傳法大師臣施護 奉詔第二譯 冊數：182 / 頁數：150 / 卷數：2 千字文：冠 9 (506)-冠 11 (506)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BK",
+        "created": 1646116893951,
+        "text": "【永樂南藏】No.890《佛說護國尊者所問大乘經》 部別：宋元入藏諸大小乘經 千字文：夙(261)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BL",
+        "created": 1646116893951,
+        "text": "【永樂北藏】No.904《佛說護國尊者所問大乘經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：481 / 卷數：4 千字文：臨"
+       }},
+       {"data": {
+        "id": "z5cYwl55BM",
+        "created": 1646116893951,
+        "text": "【嘉興藏】No.867《佛說護國尊者所問大乘經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0867 千字文 / 函號：［正藏］ 臨(257)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BN",
+        "created": 1646116893951,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwl55BO",
+        "created": 1646116893951,
+        "text": "【乾隆藏】No.868《佛說護國尊者所問大乘經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：647 / 卷數：4 千字文：臨"
+       }},
+       {"data": {
+        "id": "z5cYwl65BP",
+        "created": 1646116893952,
+        "text": "【縮刻藏】No.44《佛說護國尊者所問大乘經》宋施護譯 部別：大乘經-方等部 / 卷數：4 千字文：地 10 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwl65BQ",
+        "created": 1646116893952,
+        "text": "【卍正藏】No.877《佛說護國尊者所問大乘經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：871 / 卷數：4 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYwl65BR",
+        "created": 1646116893952,
+        "text": "【大正藏】No.321《佛說護國尊者所問大乘經》宋 施護譯 部別：寶積部下 / 冊數：12 / 頁數：1 / 卷數：4 相關經典：縮-地10,卍-15.5 參考資料：No.310(18)"
+       }},
+       {"data": {
+        "id": "z5cYwl65BS",
+        "created": 1646116893952,
+        "text": "【佛教大藏經】No.44《佛說護國尊者所問大乘經》宋 施護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：592 / 卷數：4"
+       }},
+       {"data": {
+        "id": "z5cYwl65BT",
+        "created": 1646116893952,
+        "text": "【中華藏】No.1316《佛說護國尊者所問大乘經》西天譯經三藏朝散大夫試鴻臚卿傳法大師施護奉詔譯 冊數：64 / 頁數：580 / 卷數：4 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwl65BU",
+        "created": 1646116893952,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwl65BV",
+        "created": 1646116893952,
+        "text": "【南條文雄編號】 Nj. 0873"
+       }},
+       {"data": {
+        "id": "z5cYwl65BW",
+        "created": 1646116893952,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：321"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYwl55Aa",
-      "created": 1646116893951,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYwl55Ab",
-        "created": 1646116893951,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwl55Ac",
-        "created": 1646116893951,
-        "text": "佛說護國尊者所問大乘經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5mp3h917G",
+     "created": 1646268497223,
+     "text": "布頓目錄（智軍譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3h816n",
+       "created": 1646268497222,
+       "text": "布頓編號"
       },
-      {
-       "data": {
-        "id": "z5cYwl55Ad",
-        "created": 1646116893951,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwl55Ae",
-        "created": 1646116893951,
-        "text": "佛说护国尊者所问大乘经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3h816o",
+       "created": 1646268497222,
+       "text": "Bt.0143"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3h816p",
+       "created": 1646268497222,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYwl55Af",
-        "created": 1646116893951,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYwl55Ag",
-        "created": 1646116893951,
-        "text": "fo shuo hu guo zun zhe suo wen da cheng jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3h816q",
+       "created": 1646268497222,
+       "text": "Ym.041"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3h816r",
+       "created": 1646268497222,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYwl55Ao",
-        "created": 1646116893951,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYwl55Ap",
-        "created": 1646116893951,
-        "text": "Hu kuo tsun che so wen ta ch'eng ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3h816s",
+       "created": 1646268497222,
+       "text": "ཡུལ་འཁོར་སྐྱོང་གིས་ཞུས་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3h816t",
+       "created": 1646268497222,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYwl55Aq",
-        "created": 1646116893951,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwl55Ar",
-        "created": 1646116893951,
-        "text": "Rāṣṭrapālaparipṛcchā(sūtra)",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3h816u",
+       "created": 1646268497222,
+       "text": "佛說護國尊者所問大乘經"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3h816v",
+       "created": 1646268497222,
+       "text": "卷　　數"
       },
-      {
-       "data": {
-        "id": "z5cYwl55As",
-        "created": 1646116893951,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwl55At",
-        "created": 1646116893951,
-        "text": "Yul-ḥkhor-skyoṅ-gis shus-pa"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3h816w",
+       "created": 1646268497222,
+       "text": "3卷又100頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3h816x",
+       "created": 1646268497222,
+       "text": "作／譯者"
       },
-      {
-       "data": {
-        "id": "z5cYwl55Au",
-        "created": 1646116893951,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwl55Av",
-        "created": 1646116893951,
-        "text": "호국존자소문대승경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwl55Ah",
-      "created": 1646116893951,
-      "text": "时域"
+      "children": [
+       {"data": {
+        "id": "z5mp3h816y",
+        "created": 1646268497222,
+        "text": "智軍譯"
+       }},
+       {"data": {
+        "id": "z5mp3h816z",
+        "created": 1646268497222,
+        "text": "智軍",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [{"data": {
-      "id": "z5cYwl55Ai",
-      "created": 1646116893951,
-      "text": "宋",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwl55Aj",
-      "created": 1646116893951,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3h8170",
+       "created": 1646268497222,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3h8171",
+       "created": 1646268497222,
+       "text": "218"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwl55Ak",
-       "created": 1646116893951,
-       "text": "宋 施護譯"
-      }},
-      {"data": {
-       "id": "z5cYwl55Al",
-       "created": 1646116893951,
-       "text": "施護",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwl55Am",
-      "created": 1646116893951,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3h8172",
+       "created": 1646268497222,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3h8173",
+       "created": 1646268497222,
+       "text": "70-023"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwl55An",
-      "created": 1646116893951,
-      "text": "4"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwl55Aw",
-      "created": 1646116893951,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3h8174",
+       "created": 1646268497222,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3h8175",
+       "created": 1646268497222,
+       "text": "Th.0062; Th.0166"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwl55Ax",
-      "created": 1646116893951,
-      "text": "Ta-chung-lu vol.8 p.23b:26b."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwl55Ay",
-      "created": 1646116893951,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5mp3h8176",
+       "created": 1646268497222,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3h8177",
+       "created": 1646268497222,
+       "text": "T.0310(18); T.0321"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwl55Az",
-       "created": 1646116893951,
-       "text": "【北京版】Dkon-brtsegs (shi)192a-226b"
-      }},
-      {"data": {
-       "id": "z5cYwl55B0",
-       "created": 1646116893951,
-       "text": "【奈塘版】Dkon-brtsegs (ṅa)429b-478"
-      }},
-      {"data": {
-       "id": "z5cYwl55B1",
-       "created": 1646116893951,
-       "text": "【德格版】Dkon-brtsegs (ṅa)227a-257a"
-      }},
-      {"data": {
-       "id": "z5cYwl55B2",
-       "created": 1646116893951,
-       "text": "【拉薩版】Dkon-brtsegs (ṅa)458b-508a"
-      }},
-      {"data": {
-       "id": "z5cYwl55B3",
-       "created": 1646116893951,
-       "text": "【卓尼版】Dkon-brtsegs (ṅa)262a-296b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwl55B4",
-      "created": 1646116893951,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3h8178",
+       "created": 1646268497222,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3h8179",
+       "created": 1646268497222,
+       "text": "Y.0059"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwl55B5",
-      "created": 1646116893951,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwl55B6",
-      "created": 1646116893951,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3h817A",
+       "created": 1646268497222,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3h817B",
+       "created": 1646268497222,
+       "text": ""
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwl55B7",
-       "created": 1646116893951,
-       "text": "【房山石經】No.973《佛說護國尊者所問大乘經》西天譯經三藏朝散大夫試鴻臚少卿傳法大師施護奉詔譯 冊數：26 / 頁數：623 / 卷數：4 / 刻經年代：皇統四年刻石 / 瀏覽：目錄圖檔 千字文：合"
-      }},
-      {"data": {
-       "id": "z5cYwl55B8",
-       "created": 1646116893951,
-       "text": "【開寶藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwl55B9",
-       "created": 1646116893951,
-       "text": "【崇寧藏】No.1210《佛說護國尊者所問大乘經》 卷數：4 千字文：冠(506)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BA",
-       "created": 1646116893951,
-       "text": "【毘盧藏】No.1211《佛說護國尊者所問大乘經》宋施護譯 參考年代：(紹興一八．閏八) 千字文：冠(506)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BB",
-       "created": 1646116893951,
-       "text": "【圓覺藏】No.1220《護國尊者所問大乘經》 卷數：4 千字文：冠(506)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BC",
-       "created": 1646116893951,
-       "text": "【趙城金藏】No.1207《護國尊者所問大乘經》 卷數：4 千字文：給"
-      }},
-      {"data": {
-       "id": "z5cYwl55BD",
-       "created": 1646116893951,
-       "text": "【資福藏】No.1225《護國尊者所問大乘經》 卷數：4 (四卷) 千字文：冠(506)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BE",
-       "created": 1646116893951,
-       "text": "【磧砂藏】No.1232《佛說護國尊者所問大乘經》宋 施護譯 部別： / 冊數：33 / 頁數：128 / 卷數：4 千字文：冠 10 (506)-冠 11 (506)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BF",
-       "created": 1646116893951,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BG",
-       "created": 1646116893951,
-       "text": "【高麗藏】No.1206《護國尊者所問大乘經》西天三藏傳法大師施護譯 部別：宋續入藏經 / 冊數：34 頁數：292 / 卷數：4 / 連結：高麗大藏經 (圖檔) 千字文：給"
-      }},
-      {"data": {
-       "id": "z5cYwl55BH",
-       "created": 1646116893951,
-       "text": "【普寧藏】No.1225《佛說護國尊者所問大乘經》 卷數：4 千字文：冠(506)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BI",
-       "created": 1646116893951,
-       "text": "【至元錄】No.495《護國尊者所問大乘經》宋天竺三藏施護譯 卷數：4 千字文：景(201)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BJ",
-       "created": 1646116893951,
-       "text": "【洪武南藏】No.1082《佛說護國尊者所問大乘經》西天譯經三藏朝散大夫試鴻臚卿傳法大師臣施護 奉詔第二譯 冊數：182 / 頁數：150 / 卷數：2 千字文：冠 9 (506)-冠 11 (506)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BK",
-       "created": 1646116893951,
-       "text": "【永樂南藏】No.890《佛說護國尊者所問大乘經》 部別：宋元入藏諸大小乘經 千字文：夙(261)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BL",
-       "created": 1646116893951,
-       "text": "【永樂北藏】No.904《佛說護國尊者所問大乘經》宋施護譯 部別：宋元入藏諸大小乘經 / 冊數：68 / 頁數：481 / 卷數：4 千字文：臨"
-      }},
-      {"data": {
-       "id": "z5cYwl55BM",
-       "created": 1646116893951,
-       "text": "【嘉興藏】No.867《佛說護國尊者所問大乘經》宋施護譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0867 千字文 / 函號：［正藏］ 臨(257)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BN",
-       "created": 1646116893951,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwl55BO",
-       "created": 1646116893951,
-       "text": "【乾隆藏】No.868《佛說護國尊者所問大乘經》宋 施護譯 部別：宋元入藏諸大小乘經 / 冊數：57 / 頁數：647 / 卷數：4 千字文：臨"
-      }},
-      {"data": {
-       "id": "z5cYwl65BP",
-       "created": 1646116893952,
-       "text": "【縮刻藏】No.44《佛說護國尊者所問大乘經》宋施護譯 部別：大乘經-方等部 / 卷數：4 千字文：地 10 (2)"
-      }},
-      {"data": {
-       "id": "z5cYwl65BQ",
-       "created": 1646116893952,
-       "text": "【卍正藏】No.877《佛說護國尊者所問大乘經》施護譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：871 / 卷數：4 原版套數：第 15 套"
-      }},
-      {"data": {
-       "id": "z5cYwl65BR",
-       "created": 1646116893952,
-       "text": "【大正藏】No.321《佛說護國尊者所問大乘經》宋 施護譯 部別：寶積部下 / 冊數：12 / 頁數：1 / 卷數：4 相關經典：縮-地10,卍-15.5 參考資料：No.310(18)"
-      }},
-      {"data": {
-       "id": "z5cYwl65BS",
-       "created": 1646116893952,
-       "text": "【佛教大藏經】No.44《佛說護國尊者所問大乘經》宋 施護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：592 / 卷數：4"
-      }},
-      {"data": {
-       "id": "z5cYwl65BT",
-       "created": 1646116893952,
-       "text": "【中華藏】No.1316《佛說護國尊者所問大乘經》西天譯經三藏朝散大夫試鴻臚卿傳法大師施護奉詔譯 冊數：64 / 頁數：580 / 卷數：4 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYwl65BU",
-       "created": 1646116893952,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwl65BV",
-       "created": 1646116893952,
-       "text": "【南條文雄編號】 Nj. 0873"
-      }},
-      {"data": {
-       "id": "z5cYwl65BW",
-       "created": 1646116893952,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：321"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3h817C",
+       "created": 1646268497222,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3h817D",
+       "created": 1646268497222,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3h817E",
+       "created": 1646268497222,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3h817F",
+       "created": 1646268497222,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +546,9 @@
   "id": "l07rhwceae",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

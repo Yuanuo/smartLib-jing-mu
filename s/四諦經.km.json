@@ -1,325 +1,514 @@
 {
  "root": {
   "data": {"text": "四諦經"},
-  "children": [{
-   "data": {
-    "id": "z5cYwLoSH",
-    "created": 1646116892384,
-    "text": "現藏錄（後漢 安世高譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwLoSH",
+     "created": 1646116892384,
+     "text": "現藏錄（後漢 安世高譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwLmRP",
+       "created": 1646116892382,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwLmRQ",
+         "created": 1646116892382,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwLmRR",
+         "created": 1646116892382,
+         "text": "四諦經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwLmRS",
+         "created": 1646116892382,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwLmRT",
+         "created": 1646116892382,
+         "text": "四谛经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwLnRU",
+         "created": 1646116892383,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwLnRV",
+         "created": 1646116892383,
+         "text": "si di jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwLnRd",
+         "created": 1646116892383,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwLnRe",
+         "created": 1646116892383,
+         "text": "Ssu ti ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwLnRf",
+         "created": 1646116892383,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwLnRg",
+         "created": 1646116892383,
+         "text": "Catuḥsatyasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwLnRh",
+         "created": 1646116892383,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwLnRi",
+         "created": 1646116892383,
+         "text": "（暂无）"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwLnRj",
+         "created": 1646116892383,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwLnRk",
+         "created": 1646116892383,
+         "text": "사제경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwLnRW",
+       "created": 1646116892383,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwLnRX",
+       "created": 1646116892383,
+       "text": "後漢",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwLnRY",
+       "created": 1646116892383,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwLnRZ",
+        "created": 1646116892383,
+        "text": "後漢 安世高譯"
+       }},
+       {"data": {
+        "id": "z5cYwLnRa",
+        "created": 1646116892383,
+        "text": "安世高",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwLnRb",
+       "created": 1646116892383,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwLnRc",
+       "created": 1646116892383,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwLnRl",
+       "created": 1646116892383,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwLnRm",
+       "created": 1646116892383,
+       "text": "Translation by An Shih-kao: (see K.672)."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwLnRn",
+      "created": 1646116892383,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwLnRo",
+       "created": 1646116892383,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwLnRp",
+       "created": 1646116892383,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwLnRq",
+       "created": 1646116892383,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwLnRr",
+        "created": 1646116892383,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwLnRs",
+        "created": 1646116892383,
+        "text": "【開寶藏】No.664《四諦經》後漢 安息三藏安世高 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：若"
+       }},
+       {"data": {
+        "id": "z5cYwLnRt",
+        "created": 1646116892383,
+        "text": "【崇寧藏】No.666《佛說四諦經》 卷數：1 千字文：止(282)"
+       }},
+       {"data": {
+        "id": "z5cYwLnRu",
+        "created": 1646116892383,
+        "text": "【毘盧藏】No.667《佛說四諦經》後漢安世高譯 千字文：止(282)"
+       }},
+       {"data": {
+        "id": "z5cYwLnRv",
+        "created": 1646116892383,
+        "text": "【圓覺藏】No.675《四諦經》 千字文：止(282)"
+       }},
+       {"data": {
+        "id": "z5cYwLnRw",
+        "created": 1646116892383,
+        "text": "【趙城金藏】No.674《四諦經》 卷數：1 千字文：容"
+       }},
+       {"data": {
+        "id": "z5cYwLnRx",
+        "created": 1646116892383,
+        "text": "【資福藏】No.680《四諦經》 卷數：1 千字文：止(282)"
+       }},
+       {"data": {
+        "id": "z5cYwLnRy",
+        "created": 1646116892383,
+        "text": "【磧砂藏】No.686《佛說四諦經》後漢 安世高譯 部別：阿含部 / 冊數：18 / 頁數：778 / 卷數：1 千字文：止 2 (282)"
+       }},
+       {"data": {
+        "id": "z5cYwLnRz",
+        "created": 1646116892383,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwLnS0",
+        "created": 1646116892383,
+        "text": "【高麗藏】No.673《四諦經》後漢安息三藏安世高譯 部別：小乘經 阿含部 / 冊數：19 頁數：522 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：容"
+       }},
+       {"data": {
+        "id": "z5cYwLnS1",
+        "created": 1646116892383,
+        "text": "【普寧藏】No.678《佛說四諦經》 卷數：1 千字文：止(282)"
+       }},
+       {"data": {
+        "id": "z5cYwLnS2",
+        "created": 1646116892383,
+        "text": "【至元錄】No.908《四諦經》後漢安息三藏安世高譯 卷數：1 千字文：登(307)"
+       }},
+       {"data": {
+        "id": "z5cYwLnS3",
+        "created": 1646116892383,
+        "text": "【洪武南藏】No.606《佛說四諦經》後漢 沙門安世高 譯 冊數：99 / 頁數：107 / 卷數：1 千字文：止 2 (282)"
+       }},
+       {"data": {
+        "id": "z5cYwLnS4",
+        "created": 1646116892383,
+        "text": "【永樂南藏】No.554《佛說四諦經》 部別：小乘經-阿含部 千字文：積(228)"
+       }},
+       {"data": {
+        "id": "z5cYwLnS5",
+        "created": 1646116892383,
+        "text": "【永樂北藏】No.628《佛說四諦經》後漢安世高譯 部別：小乘經阿含部 / 冊數：61 / 頁數：869 / 卷數：1 千字文：善"
+       }},
+       {"data": {
+        "id": "z5cYwLnS6",
+        "created": 1646116892383,
+        "text": "【嘉興藏】No.593《佛說四諦經》後漢安世高譯 部別：小乘經-阿含部 / 法寶總目錄經號：0593 千字文 / 函號：［正藏］ 善(231)"
+       }},
+       {"data": {
+        "id": "z5cYwLnS7",
+        "created": 1646116892383,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwLnS8",
+        "created": 1646116892383,
+        "text": "【乾隆藏】No.594《佛說四諦經》後漢 安世高譯 部別：小乘阿含部 / 冊數：52 / 頁數：49 / 卷數：1 千字文：善"
+       }},
+       {"data": {
+        "id": "z5cYwLnS9",
+        "created": 1646116892383,
+        "text": "【縮刻藏】No.488《佛說四諦經》後漢安世高譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
+       }},
+       {"data": {
+        "id": "z5cYwLnSA",
+        "created": 1646116892383,
+        "text": "【卍正藏】No.601《佛說四諦經》後漢 安世高譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：258 / 卷數：1 原版套數：第 14 套"
+       }},
+       {"data": {
+        "id": "z5cYwLnSB",
+        "created": 1646116892383,
+        "text": "【大正藏】No.32《四諦經》後漢 安世高譯 部別：阿含部上 / 冊數：1 / 頁數：814 / 卷數：1 相關經典：縮-昃8,卍-14.2,南-11下.141 參考資料：Nos.26(31),125(27.1)"
+       }},
+       {"data": {
+        "id": "z5cYwLnSC",
+        "created": 1646116892383,
+        "text": "【佛教大藏經】No.496《佛說四諦經》後漢 安世高譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：210 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYwLnSD",
+        "created": 1646116892383,
+        "text": "【中華藏】No.737《佛說四諦經》後漢安息國三藏安世高譯 冊數：34 / 頁數：63 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwLnSE",
+        "created": 1646116892383,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwLnSF",
+        "created": 1646116892383,
+        "text": "【南條文雄編號】 Nj. 0598"
+       }},
+       {"data": {
+        "id": "z5cYwLnSG",
+        "created": 1646116892383,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：32"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYwLmRP",
-      "created": 1646116892382,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYwLmRQ",
-        "created": 1646116892382,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwLmRR",
-        "created": 1646116892382,
-        "text": "四諦經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwLmRS",
-        "created": 1646116892382,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwLmRT",
-        "created": 1646116892382,
-        "text": "四谛经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwLnRU",
-        "created": 1646116892383,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYwLnRV",
-        "created": 1646116892383,
-        "text": "si di jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwLnRd",
-        "created": 1646116892383,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYwLnRe",
-        "created": 1646116892383,
-        "text": "Ssu ti ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwLnRf",
-        "created": 1646116892383,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwLnRg",
-        "created": 1646116892383,
-        "text": "Catuḥsatyasūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwLnRh",
-        "created": 1646116892383,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwLnRi",
-        "created": 1646116892383,
-        "text": "（暂无）"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwLnRj",
-        "created": 1646116892383,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwLnRk",
-        "created": 1646116892383,
-        "text": "사제경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
+   {
+    "data": {
+     "id": "z5mp3Z3Mo",
+     "created": 1646268496721,
+     "text": "布頓目錄（智軍譯）"
     },
-    {
-     "data": {
-      "id": "z5cYwLnRW",
-      "created": 1646116892383,
-      "text": "时域"
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3Z2ML",
+       "created": 1646268496720,
+       "text": "布頓編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2MM",
+       "created": 1646268496720,
+       "text": "Bt.0047"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwLnRX",
-      "created": 1646116892383,
-      "text": "後漢",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwLnRY",
-      "created": 1646116892383,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3Z2MN",
+       "created": 1646268496720,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2MO",
+       "created": 1646268496720,
+       "text": ""
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwLnRZ",
-       "created": 1646116892383,
-       "text": "後漢 安世高譯"
-      }},
-      {"data": {
-       "id": "z5cYwLnRa",
-       "created": 1646116892383,
-       "text": "安世高",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwLnRb",
-      "created": 1646116892383,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3Z2MP",
+       "created": 1646268496720,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2MQ",
+       "created": 1646268496720,
+       "text": "བདེན་པ་བཞིའི་མདོ།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwLnRc",
-      "created": 1646116892383,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwLnRl",
-      "created": 1646116892383,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3Z2MR",
+       "created": 1646268496720,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2MS",
+       "created": 1646268496720,
+       "text": "四諦經"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwLnRm",
-      "created": 1646116892383,
-      "text": "Translation by An Shih-kao: (see K.672)."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYwLnRn",
-     "created": 1646116892383,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYwLnRo",
-      "created": 1646116892383,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3Z2MT",
+       "created": 1646268496720,
+       "text": "卷　　數"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2MU",
+       "created": 1646268496720,
+       "text": "?頌"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwLnRp",
-      "created": 1646116892383,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwLnRq",
-      "created": 1646116892383,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3Z2MV",
+       "created": 1646268496720,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3Z2MW",
+        "created": 1646268496720,
+        "text": "智軍譯"
+       }},
+       {"data": {
+        "id": "z5mp3Z2MX",
+        "created": 1646268496720,
+        "text": "智軍",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwLnRr",
-       "created": 1646116892383,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwLnRs",
-       "created": 1646116892383,
-       "text": "【開寶藏】No.664《四諦經》後漢 安息三藏安世高 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：若"
-      }},
-      {"data": {
-       "id": "z5cYwLnRt",
-       "created": 1646116892383,
-       "text": "【崇寧藏】No.666《佛說四諦經》 卷數：1 千字文：止(282)"
-      }},
-      {"data": {
-       "id": "z5cYwLnRu",
-       "created": 1646116892383,
-       "text": "【毘盧藏】No.667《佛說四諦經》後漢安世高譯 千字文：止(282)"
-      }},
-      {"data": {
-       "id": "z5cYwLnRv",
-       "created": 1646116892383,
-       "text": "【圓覺藏】No.675《四諦經》 千字文：止(282)"
-      }},
-      {"data": {
-       "id": "z5cYwLnRw",
-       "created": 1646116892383,
-       "text": "【趙城金藏】No.674《四諦經》 卷數：1 千字文：容"
-      }},
-      {"data": {
-       "id": "z5cYwLnRx",
-       "created": 1646116892383,
-       "text": "【資福藏】No.680《四諦經》 卷數：1 千字文：止(282)"
-      }},
-      {"data": {
-       "id": "z5cYwLnRy",
-       "created": 1646116892383,
-       "text": "【磧砂藏】No.686《佛說四諦經》後漢 安世高譯 部別：阿含部 / 冊數：18 / 頁數：778 / 卷數：1 千字文：止 2 (282)"
-      }},
-      {"data": {
-       "id": "z5cYwLnRz",
-       "created": 1646116892383,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwLnS0",
-       "created": 1646116892383,
-       "text": "【高麗藏】No.673《四諦經》後漢安息三藏安世高譯 部別：小乘經 阿含部 / 冊數：19 頁數：522 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：容"
-      }},
-      {"data": {
-       "id": "z5cYwLnS1",
-       "created": 1646116892383,
-       "text": "【普寧藏】No.678《佛說四諦經》 卷數：1 千字文：止(282)"
-      }},
-      {"data": {
-       "id": "z5cYwLnS2",
-       "created": 1646116892383,
-       "text": "【至元錄】No.908《四諦經》後漢安息三藏安世高譯 卷數：1 千字文：登(307)"
-      }},
-      {"data": {
-       "id": "z5cYwLnS3",
-       "created": 1646116892383,
-       "text": "【洪武南藏】No.606《佛說四諦經》後漢 沙門安世高 譯 冊數：99 / 頁數：107 / 卷數：1 千字文：止 2 (282)"
-      }},
-      {"data": {
-       "id": "z5cYwLnS4",
-       "created": 1646116892383,
-       "text": "【永樂南藏】No.554《佛說四諦經》 部別：小乘經-阿含部 千字文：積(228)"
-      }},
-      {"data": {
-       "id": "z5cYwLnS5",
-       "created": 1646116892383,
-       "text": "【永樂北藏】No.628《佛說四諦經》後漢安世高譯 部別：小乘經阿含部 / 冊數：61 / 頁數：869 / 卷數：1 千字文：善"
-      }},
-      {"data": {
-       "id": "z5cYwLnS6",
-       "created": 1646116892383,
-       "text": "【嘉興藏】No.593《佛說四諦經》後漢安世高譯 部別：小乘經-阿含部 / 法寶總目錄經號：0593 千字文 / 函號：［正藏］ 善(231)"
-      }},
-      {"data": {
-       "id": "z5cYwLnS7",
-       "created": 1646116892383,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwLnS8",
-       "created": 1646116892383,
-       "text": "【乾隆藏】No.594《佛說四諦經》後漢 安世高譯 部別：小乘阿含部 / 冊數：52 / 頁數：49 / 卷數：1 千字文：善"
-      }},
-      {"data": {
-       "id": "z5cYwLnS9",
-       "created": 1646116892383,
-       "text": "【縮刻藏】No.488《佛說四諦經》後漢安世高譯 部別：小乘經 / 卷數：1 千字文：昃 8 (12)"
-      }},
-      {"data": {
-       "id": "z5cYwLnSA",
-       "created": 1646116892383,
-       "text": "【卍正藏】No.601《佛說四諦經》後漢 安世高譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：258 / 卷數：1 原版套數：第 14 套"
-      }},
-      {"data": {
-       "id": "z5cYwLnSB",
-       "created": 1646116892383,
-       "text": "【大正藏】No.32《四諦經》後漢 安世高譯 部別：阿含部上 / 冊數：1 / 頁數：814 / 卷數：1 相關經典：縮-昃8,卍-14.2,南-11下.141 參考資料：Nos.26(31),125(27.1)"
-      }},
-      {"data": {
-       "id": "z5cYwLnSC",
-       "created": 1646116892383,
-       "text": "【佛教大藏經】No.496《佛說四諦經》後漢 安世高譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：210 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYwLnSD",
-       "created": 1646116892383,
-       "text": "【中華藏】No.737《佛說四諦經》後漢安息國三藏安世高譯 冊數：34 / 頁數：63 / 卷數：1 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYwLnSE",
-       "created": 1646116892383,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwLnSF",
-       "created": 1646116892383,
-       "text": "【南條文雄編號】 Nj. 0598"
-      }},
-      {"data": {
-       "id": "z5cYwLnSG",
-       "created": 1646116892383,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：32"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3Z2MY",
+       "created": 1646268496720,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2MZ",
+       "created": 1646268496720,
+       "text": "214"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3Z2Ma",
+       "created": 1646268496720,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2Mb",
+       "created": 1646268496720,
+       "text": "70-008"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3Z2Mc",
+       "created": 1646268496720,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2Md",
+       "created": 1646268496720,
+       "text": "Th.0316"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3Z2Me",
+       "created": 1646268496720,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2Mf",
+       "created": 1646268496720,
+       "text": "T.0099(403); T.0125(25)"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3Z2Mg",
+       "created": 1646268496720,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2Mh",
+       "created": 1646268496720,
+       "text": "Y.0908; Y.0889～Y.0890"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3Z2Mi",
+       "created": 1646268496720,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2Mj",
+       "created": 1646268496720,
+       "text": "2.同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3Z2Mk",
+       "created": 1646268496720,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2Ml",
+       "created": 1646268496720,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3Z2Mm",
+       "created": 1646268496720,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3Z2Mn",
+       "created": 1646268496720,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -328,6 +517,9 @@
   "id": "l07rhv4tv",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

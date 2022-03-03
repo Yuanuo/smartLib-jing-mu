@@ -1,354 +1,543 @@
 {
  "root": {
   "data": {"text": "第一義法勝經"},
-  "children": [{
-   "data": {
-    "id": "z5cYxCmCmj",
-    "created": 1646116895668,
-    "text": "現藏錄（元魏 瞿曇般若流支譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxCmCmj",
+     "created": 1646116895668,
+     "text": "現藏錄（元魏 瞿曇般若流支譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxCmClm",
+       "created": 1646116895668,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxCmCln",
+         "created": 1646116895668,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxCmClo",
+         "created": 1646116895668,
+         "text": "第一義法勝經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxCmClp",
+         "created": 1646116895668,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxCmClq",
+         "created": 1646116895668,
+         "text": "第一义法胜经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxCmClr",
+         "created": 1646116895668,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxCmCls",
+         "created": 1646116895668,
+         "text": "di yi yi fa sheng jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxCmCm0",
+         "created": 1646116895668,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxCmCm1",
+         "created": 1646116895668,
+         "text": "Ti i i fa sheng ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxCmCm2",
+         "created": 1646116895668,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxCmCm3",
+         "created": 1646116895668,
+         "text": "Paramārthadharmavijayasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxCmCm4",
+         "created": 1646116895668,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxCmCm5",
+         "created": 1646116895668,
+         "text": "Don-dam-paḥi chos-kyis rnam-par rgyal-ba"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxCmCm6",
+         "created": 1646116895668,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxCmCm7",
+         "created": 1646116895668,
+         "text": "제일의법승경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxCmClt",
+       "created": 1646116895668,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxCmClu",
+       "created": 1646116895668,
+       "text": "元魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxCmClv",
+       "created": 1646116895668,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxCmClw",
+        "created": 1646116895668,
+        "text": "元魏 瞿曇般若流支譯"
+       }},
+       {"data": {
+        "id": "z5cYxCmClx",
+        "created": 1646116895668,
+        "text": "般若流支",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxCmCly",
+       "created": 1646116895668,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxCmClz",
+       "created": 1646116895668,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxCmCm8",
+       "created": 1646116895668,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxCmCm9",
+       "created": 1646116895668,
+       "text": "Translation by Gautama Prajñāruci: 1st day, 9th month, 4th year of Hsing Ho (興和), Later Wei dynasty (後魏) (Sept. 25th, A.D. 542) in Shang-shu (尚書).T.2154-542c:5."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxCmCmA",
+       "created": 1646116895668,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxCmCmB",
+        "created": 1646116895668,
+        "text": "【北京版】Mdo-sna-tshogs (shu)35a-45a"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmC",
+        "created": 1646116895668,
+        "text": "【奈塘版】Mdo (wa)46b-60b"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmD",
+        "created": 1646116895668,
+        "text": "【德格版】Mdo-sde (zd)33a-42b"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmE",
+        "created": 1646116895668,
+        "text": "【拉薩版】Mdo (wa)50a-64b"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmF",
+        "created": 1646116895668,
+        "text": "【卓尼版】Mdo-maṅ (za)37b-48b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxCmCmG",
+       "created": 1646116895668,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxCmCmH",
+       "created": 1646116895668,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxCmCmI",
+       "created": 1646116895668,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxCmCmJ",
+        "created": 1646116895668,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmK",
+        "created": 1646116895668,
+        "text": "【開寶藏】No.203《第一義法勝經》元魏 婆羅門瞿曇般若流支 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：養"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmL",
+        "created": 1646116895668,
+        "text": "【崇寧藏】No.203《第一義法勝經》 卷數：1 千字文：豈(157)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmM",
+        "created": 1646116895668,
+        "text": "【毘盧藏】No.199《第一義法勝經》元魏瞿曇般若流支譯 參考年代：(靖康元．四) 千字文：豈(157)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmN",
+        "created": 1646116895668,
+        "text": "【圓覺藏】No.211《第一義法勝經》 千字文：豈(157)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmO",
+        "created": 1646116895668,
+        "text": "【趙城金藏】No.202《第一義法勝經》 卷數：1 千字文：養"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmP",
+        "created": 1646116895668,
+        "text": "【資福藏】No.215《第一義法勝經》 卷數：1 千字文：豈(157)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmQ",
+        "created": 1646116895668,
+        "text": "【磧砂藏】No.216《第一義法勝經》元魏 瞿曇般若流支譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：22 / 卷數：1 千字文：豈 5 (157)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmR",
+        "created": 1646116895668,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmS",
+        "created": 1646116895668,
+        "text": "【高麗藏】No.202《第一義法勝經》元魏婆羅門瞿曇般若流支譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：241 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：養"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmT",
+        "created": 1646116895668,
+        "text": "【普寧藏】No.210《第一義法勝經》 卷數：1 千字文：豈(157)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmU",
+        "created": 1646116895668,
+        "text": "【至元錄】No.280《第一義法勝經》元魏三藏般若流支譯 梵名：八囉麻　阿囉(二合)怛　達哩麻尾札亞拏麻麻　訶衍拏　蘇怛囉(二合) / 卷數：1 / 出處：(出序記) / 譯次：(第一譯) 千字文：知(169)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmV",
+        "created": 1646116895668,
+        "text": "【洪武南藏】No.186《第一義法勝經》元魏 天竺婆羅門瞿曇般若流支 等初譯 冊數：53 / 頁數：410 / 卷數：1 千字文：豈 5 (157)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmW",
+        "created": 1646116895668,
+        "text": "【永樂南藏】No.205《第一議法勝經》 部別：大乘經-五大部外重譯經 千字文：貞(163)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmX",
+        "created": 1646116895668,
+        "text": "【永樂北藏】No.234《佛說第一義法勝經》元魏般若流支譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：131 / 卷數：1 千字文：貞"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmY",
+        "created": 1646116895668,
+        "text": "【嘉興藏】No.205《第一義法勝經》元魏般若流支譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0205 千字文 / 函號：［正藏］ 貞(163)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmZ",
+        "created": 1646116895668,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCma",
+        "created": 1646116895668,
+        "text": "【乾隆藏】No.206《佛說第一義法勝經》元魏 般若流支等初譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：1 / 卷數：1 千字文：貞"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmb",
+        "created": 1646116895668,
+        "text": "【縮刻藏】No.228《第一義法勝經》元魏瞿曇般若流支譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 1 (6)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmc",
+        "created": 1646116895668,
+        "text": "【卍正藏】No.209《第一義法勝經》元魏 瞿曇般若流支譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：839 / 卷數：1 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmd",
+        "created": 1646116895668,
+        "text": "【大正藏】No.833《第一義法勝經》元魏 瞿曇般若流支譯 部別：經集部四 / 冊數：17 / 頁數：879 / 卷數：1 相關經典：縮-宙1,卍-10.5,國-經15 參考資料：No.834"
+       }},
+       {"data": {
+        "id": "z5cYxCmCme",
+        "created": 1646116895668,
+        "text": "【佛教大藏經】No.231《第一義法勝經》元魏 瞿曇般若流支譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：36 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmf",
+        "created": 1646116895668,
+        "text": "【中華藏】No.213《第一義法勝經》元魏婆羅門瞿曇般若流支譯 冊數：18 / 頁數：765 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmg",
+        "created": 1646116895668,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmh",
+        "created": 1646116895668,
+        "text": "【南條文雄編號】 Nj. 0210"
+       }},
+       {"data": {
+        "id": "z5cYxCmCmi",
+        "created": 1646116895668,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：833"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYxCmClm",
-      "created": 1646116895668,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYxCmCln",
-        "created": 1646116895668,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxCmClo",
-        "created": 1646116895668,
-        "text": "第一義法勝經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5mp3vt2Yt",
+     "created": 1646268498137,
+     "text": "布頓目錄（智軍譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3vs2YQ",
+       "created": 1646268498136,
+       "text": "布頓編號"
       },
-      {
-       "data": {
-        "id": "z5cYxCmClp",
-        "created": 1646116895668,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxCmClq",
-        "created": 1646116895668,
-        "text": "第一义法胜经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3vs2YR",
+       "created": 1646268498136,
+       "text": "Bt.0326"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3vt2YS",
+       "created": 1646268498137,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYxCmClr",
-        "created": 1646116895668,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYxCmCls",
-        "created": 1646116895668,
-        "text": "di yi yi fa sheng jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3vt2YT",
+       "created": 1646268498137,
+       "text": "Ym.174"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3vt2YU",
+       "created": 1646268498137,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYxCmCm0",
-        "created": 1646116895668,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYxCmCm1",
-        "created": 1646116895668,
-        "text": "Ti i i fa sheng ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3vt2YV",
+       "created": 1646268498137,
+       "text": "དོན་དམ་པའི་ཆོས་ཀྱི་རྣམ་པར་རྒྱལ་བ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3vt2YW",
+       "created": 1646268498137,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYxCmCm2",
-        "created": 1646116895668,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxCmCm3",
-        "created": 1646116895668,
-        "text": "Paramārthadharmavijayasūtra",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3vt2YX",
+       "created": 1646268498137,
+       "text": "第一義法勝經"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3vt2YY",
+       "created": 1646268498137,
+       "text": "卷　　數"
       },
-      {
-       "data": {
-        "id": "z5cYxCmCm4",
-        "created": 1646116895668,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxCmCm5",
-        "created": 1646116895668,
-        "text": "Don-dam-paḥi chos-kyis rnam-par rgyal-ba"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3vt2YZ",
+       "created": 1646268498137,
+       "text": "280頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3vt2Ya",
+       "created": 1646268498137,
+       "text": "作／譯者"
       },
-      {
-       "data": {
-        "id": "z5cYxCmCm6",
-        "created": 1646116895668,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxCmCm7",
-        "created": 1646116895668,
-        "text": "제일의법승경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxCmClt",
-      "created": 1646116895668,
-      "text": "时域"
+      "children": [
+       {"data": {
+        "id": "z5mp3vt2Yb",
+        "created": 1646268498137,
+        "text": "智軍譯"
+       }},
+       {"data": {
+        "id": "z5mp3vt2Yc",
+        "created": 1646268498137,
+        "text": "智軍",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [{"data": {
-      "id": "z5cYxCmClu",
-      "created": 1646116895668,
-      "text": "元魏",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxCmClv",
-      "created": 1646116895668,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3vt2Yd",
+       "created": 1646268498137,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Ye",
+       "created": 1646268498137,
+       "text": "224"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxCmClw",
-       "created": 1646116895668,
-       "text": "元魏 瞿曇般若流支譯"
-      }},
-      {"data": {
-       "id": "z5cYxCmClx",
-       "created": 1646116895668,
-       "text": "般若流支",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxCmCly",
-      "created": 1646116895668,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3vt2Yf",
+       "created": 1646268498137,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Yg",
+       "created": 1646268498137,
+       "text": "70-054"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxCmClz",
-      "created": 1646116895668,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxCmCm8",
-      "created": 1646116895668,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3vt2Yh",
+       "created": 1646268498137,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Yi",
+       "created": 1646268498137,
+       "text": "Th.0246"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxCmCm9",
-      "created": 1646116895668,
-      "text": "Translation by Gautama Prajñāruci: 1st day, 9th month, 4th year of Hsing Ho (興和), Later Wei dynasty (後魏) (Sept. 25th, A.D. 542) in Shang-shu (尚書).T.2154-542c:5."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxCmCmA",
-      "created": 1646116895668,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5mp3vt2Yj",
+       "created": 1646268498137,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Yk",
+       "created": 1646268498137,
+       "text": "T.0833～T.0834"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxCmCmB",
-       "created": 1646116895668,
-       "text": "【北京版】Mdo-sna-tshogs (shu)35a-45a"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmC",
-       "created": 1646116895668,
-       "text": "【奈塘版】Mdo (wa)46b-60b"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmD",
-       "created": 1646116895668,
-       "text": "【德格版】Mdo-sde (zd)33a-42b"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmE",
-       "created": 1646116895668,
-       "text": "【拉薩版】Mdo (wa)50a-64b"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmF",
-       "created": 1646116895668,
-       "text": "【卓尼版】Mdo-maṅ (za)37b-48b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxCmCmG",
-      "created": 1646116895668,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3vt2Yl",
+       "created": 1646268498137,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Ym",
+       "created": 1646268498137,
+       "text": "Y.0281"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxCmCmH",
-      "created": 1646116895668,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxCmCmI",
-      "created": 1646116895668,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3vt2Yn",
+       "created": 1646268498137,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Yo",
+       "created": 1646268498137,
+       "text": "同"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxCmCmJ",
-       "created": 1646116895668,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmK",
-       "created": 1646116895668,
-       "text": "【開寶藏】No.203《第一義法勝經》元魏 婆羅門瞿曇般若流支 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：養"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmL",
-       "created": 1646116895668,
-       "text": "【崇寧藏】No.203《第一義法勝經》 卷數：1 千字文：豈(157)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmM",
-       "created": 1646116895668,
-       "text": "【毘盧藏】No.199《第一義法勝經》元魏瞿曇般若流支譯 參考年代：(靖康元．四) 千字文：豈(157)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmN",
-       "created": 1646116895668,
-       "text": "【圓覺藏】No.211《第一義法勝經》 千字文：豈(157)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmO",
-       "created": 1646116895668,
-       "text": "【趙城金藏】No.202《第一義法勝經》 卷數：1 千字文：養"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmP",
-       "created": 1646116895668,
-       "text": "【資福藏】No.215《第一義法勝經》 卷數：1 千字文：豈(157)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmQ",
-       "created": 1646116895668,
-       "text": "【磧砂藏】No.216《第一義法勝經》元魏 瞿曇般若流支譯 部別：五大部外諸重譯經 / 冊數：11 / 頁數：22 / 卷數：1 千字文：豈 5 (157)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmR",
-       "created": 1646116895668,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmS",
-       "created": 1646116895668,
-       "text": "【高麗藏】No.202《第一義法勝經》元魏婆羅門瞿曇般若流支譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：241 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：養"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmT",
-       "created": 1646116895668,
-       "text": "【普寧藏】No.210《第一義法勝經》 卷數：1 千字文：豈(157)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmU",
-       "created": 1646116895668,
-       "text": "【至元錄】No.280《第一義法勝經》元魏三藏般若流支譯 梵名：八囉麻　阿囉(二合)怛　達哩麻尾札亞拏麻麻　訶衍拏　蘇怛囉(二合) / 卷數：1 / 出處：(出序記) / 譯次：(第一譯) 千字文：知(169)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmV",
-       "created": 1646116895668,
-       "text": "【洪武南藏】No.186《第一義法勝經》元魏 天竺婆羅門瞿曇般若流支 等初譯 冊數：53 / 頁數：410 / 卷數：1 千字文：豈 5 (157)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmW",
-       "created": 1646116895668,
-       "text": "【永樂南藏】No.205《第一議法勝經》 部別：大乘經-五大部外重譯經 千字文：貞(163)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmX",
-       "created": 1646116895668,
-       "text": "【永樂北藏】No.234《佛說第一義法勝經》元魏般若流支譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：131 / 卷數：1 千字文：貞"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmY",
-       "created": 1646116895668,
-       "text": "【嘉興藏】No.205《第一義法勝經》元魏般若流支譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0205 千字文 / 函號：［正藏］ 貞(163)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmZ",
-       "created": 1646116895668,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCma",
-       "created": 1646116895668,
-       "text": "【乾隆藏】No.206《佛說第一義法勝經》元魏 般若流支等初譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：1 / 卷數：1 千字文：貞"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmb",
-       "created": 1646116895668,
-       "text": "【縮刻藏】No.228《第一義法勝經》元魏瞿曇般若流支譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 1 (6)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmc",
-       "created": 1646116895668,
-       "text": "【卍正藏】No.209《第一義法勝經》元魏 瞿曇般若流支譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：839 / 卷數：1 原版套數：第 10 套"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmd",
-       "created": 1646116895668,
-       "text": "【大正藏】No.833《第一義法勝經》元魏 瞿曇般若流支譯 部別：經集部四 / 冊數：17 / 頁數：879 / 卷數：1 相關經典：縮-宙1,卍-10.5,國-經15 參考資料：No.834"
-      }},
-      {"data": {
-       "id": "z5cYxCmCme",
-       "created": 1646116895668,
-       "text": "【佛教大藏經】No.231《第一義法勝經》元魏 瞿曇般若流支譯 部別：大乘經 方等部九 / 冊數：11 / 頁數：36 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmf",
-       "created": 1646116895668,
-       "text": "【中華藏】No.213《第一義法勝經》元魏婆羅門瞿曇般若流支譯 冊數：18 / 頁數：765 / 卷數：1 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmg",
-       "created": 1646116895668,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmh",
-       "created": 1646116895668,
-       "text": "【南條文雄編號】 Nj. 0210"
-      }},
-      {"data": {
-       "id": "z5cYxCmCmi",
-       "created": 1646116895668,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：833"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3vt2Yp",
+       "created": 1646268498137,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Yq",
+       "created": 1646268498137,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3vt2Yr",
+       "created": 1646268498137,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3vt2Ys",
+       "created": 1646268498137,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +546,9 @@
   "id": "l07rhxo3pa",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

@@ -1,0 +1,195 @@
+{
+ "root": {
+  "data": {"text": "大雲經小品"},
+  "children": [{
+   "data": {
+    "id": "z5mp3vQ2U7",
+    "created": 1646268498108,
+    "text": "布頓目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5mp3vQ2Tf",
+      "created": 1646268498108,
+      "text": "布頓編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Tg",
+      "created": 1646268498108,
+      "text": "Bt.0316"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Th",
+      "created": 1646268498108,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Ti",
+      "created": 1646268498108,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tj",
+      "created": 1646268498108,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Tk",
+      "created": 1646268498108,
+      "text": "སྤྲིན་ཆེན་པོ་ཆུང་ངུ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tl",
+      "created": 1646268498108,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Tm",
+      "created": 1646268498108,
+      "text": "大雲經小品",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tn",
+      "created": 1646268498108,
+      "text": "卷　　數"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2To",
+      "created": 1646268498108,
+      "text": "120頌"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tp",
+      "created": 1646268498108,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Tq",
+      "created": 1646268498108,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tr",
+      "created": 1646268498108,
+      "text": "藏 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Ts",
+      "created": 1646268498108,
+      "text": "224"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tt",
+      "created": 1646268498108,
+      "text": "漢 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Tu",
+      "created": 1646268498108,
+      "text": "70-053"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tv",
+      "created": 1646268498108,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Tw",
+      "created": 1646268498108,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tx",
+      "created": 1646268498108,
+      "text": "大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2Ty",
+      "created": 1646268498108,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2Tz",
+      "created": 1646268498108,
+      "text": "至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2U0",
+      "created": 1646268498108,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2U1",
+      "created": 1646268498108,
+      "text": "蕃　　本"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2U2",
+      "created": 1646268498108,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2U3",
+      "created": 1646268498108,
+      "text": "備　　注"
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2U4",
+      "created": 1646268498108,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3vQ2U5",
+      "created": 1646268498108,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5mp3vQ2U6",
+      "created": 1646268498108,
+      "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0a9rauz8s",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["布頓目錄"]
+ }
+}

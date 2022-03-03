@@ -1,0 +1,195 @@
+{
+ "root": {
+  "data": {"text": "貪欲教誨經"},
+  "children": [{
+   "data": {
+    "id": "z5mp3dYln",
+    "created": 1646268497000,
+    "text": "布頓目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5mp3dWlL",
+      "created": 1646268496998,
+      "text": "布頓編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dWlM",
+      "created": 1646268496998,
+      "text": "Bt.0099"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dWlN",
+      "created": 1646268496998,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlO",
+      "created": 1646268496999,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlP",
+      "created": 1646268496999,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlQ",
+      "created": 1646268496999,
+      "text": "འདོད་པ་ལ་གདམས་པའི་མདོ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlR",
+      "created": 1646268496999,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlS",
+      "created": 1646268496999,
+      "text": "貪欲教誨經",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlT",
+      "created": 1646268496999,
+      "text": "卷　　數"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlU",
+      "created": 1646268496999,
+      "text": "?卷"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlV",
+      "created": 1646268496999,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlW",
+      "created": 1646268496999,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlX",
+      "created": 1646268496999,
+      "text": "藏 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlY",
+      "created": 1646268496999,
+      "text": "216"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlZ",
+      "created": 1646268496999,
+      "text": "漢 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXla",
+      "created": 1646268496999,
+      "text": "70-014"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlb",
+      "created": 1646268496999,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlc",
+      "created": 1646268496999,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXld",
+      "created": 1646268496999,
+      "text": "大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXle",
+      "created": 1646268496999,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlf",
+      "created": 1646268496999,
+      "text": "至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlg",
+      "created": 1646268496999,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlh",
+      "created": 1646268496999,
+      "text": "蕃　　本"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXli",
+      "created": 1646268496999,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXlj",
+      "created": 1646268496999,
+      "text": "備　　注"
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlk",
+      "created": 1646268496999,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3dXll",
+      "created": 1646268496999,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5mp3dXlm",
+      "created": 1646268496999,
+      "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0a9ra052r",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["布頓目錄"]
+ }
+}

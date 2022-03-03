@@ -1,325 +1,514 @@
 {
  "root": {
   "data": {"text": "分別善惡報應經"},
-  "children": [{
-   "data": {
-    "id": "z5cYwRE18y",
-    "created": 1646116892720,
-    "text": "現藏錄（宋 天息災譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwRE18y",
+     "created": 1646116892720,
+     "text": "現藏錄（宋 天息災譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwRD186",
+       "created": 1646116892719,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwRD187",
+         "created": 1646116892719,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRD188",
+         "created": 1646116892719,
+         "text": "分別善惡報應經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRD189",
+         "created": 1646116892719,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRD18A",
+         "created": 1646116892719,
+         "text": "分别善恶报应经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRD18B",
+         "created": 1646116892719,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRD18C",
+         "created": 1646116892719,
+         "text": "fen bie shan e bao ying jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRD18K",
+         "created": 1646116892719,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRD18L",
+         "created": 1646116892719,
+         "text": "Fen pieh shan e pao ying ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRD18M",
+         "created": 1646116892719,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRD18N",
+         "created": 1646116892719,
+         "text": "Śukasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRD18O",
+         "created": 1646116892719,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRD18P",
+         "created": 1646116892719,
+         "text": "Las-kyi rnam-par ḥgyur-ba shes-bya-baḥi chos-kyi-gshuṅ"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwRD18Q",
+         "created": 1646116892719,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwRD18R",
+         "created": 1646116892719,
+         "text": "분별선악보응경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwRD18D",
+       "created": 1646116892719,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRD18E",
+       "created": 1646116892719,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwRD18F",
+       "created": 1646116892719,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwRD18G",
+        "created": 1646116892719,
+        "text": "宋 天息災譯"
+       }},
+       {"data": {
+        "id": "z5cYwRD18H",
+        "created": 1646116892719,
+        "text": "天息災",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwRD18I",
+       "created": 1646116892719,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRD18J",
+       "created": 1646116892719,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwRD18S",
+       "created": 1646116892719,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRD18T",
+       "created": 1646116892719,
+       "text": "Ta-chung-lu vol.3 p.21a:23a."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwRD18U",
+      "created": 1646116892719,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwRD18V",
+       "created": 1646116892719,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwRD18W",
+       "created": 1646116892719,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwRD18X",
+       "created": 1646116892719,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwRD18Y",
+        "created": 1646116892719,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18Z",
+        "created": 1646116892719,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18a",
+        "created": 1646116892719,
+        "text": "【崇寧藏】No.1102《分別善惡報應經》 卷數：2 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18b",
+        "created": 1646116892719,
+        "text": "【毘盧藏】No.1101《分別善惡報應經》宋天息災譯 參考年代：(建炎二．四) 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18c",
+        "created": 1646116892719,
+        "text": "【圓覺藏】No.1111《分別善惡報應經》 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18d",
+        "created": 1646116892719,
+        "text": "【趙城金藏】No.1099《分別善惡報應經》 卷數：2 千字文：鍾"
+       }},
+       {"data": {
+        "id": "z5cYwRD18e",
+        "created": 1646116892719,
+        "text": "【資福藏】No.1115《分別善惡報應經》 卷數：2 (上下) 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18f",
+        "created": 1646116892719,
+        "text": "【磧砂藏】No.1126《分別善惡報應經》宋 天息災譯 部別： / 冊數：32 / 頁數：545 / 卷數：2 千字文：路 1 (493)-路 2 (493)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18g",
+        "created": 1646116892719,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18h",
+        "created": 1646116892719,
+        "text": "【高麗藏】No.1098《分別善惡報應經》密林寺沙門天息災譯 部別：宋續入藏經 / 冊數：33 頁數：868 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：鍾"
+       }},
+       {"data": {
+        "id": "z5cYwRD18i",
+        "created": 1646116892719,
+        "text": "【普寧藏】No.1116《分別善惡報應經》 卷數：2 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18j",
+        "created": 1646116892719,
+        "text": "【至元錄】No.1138《分別善惡報應經》宋天竺三藏天息災譯(奉政殿譯) 卷數：2 千字文：夫(333)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18k",
+        "created": 1646116892719,
+        "text": "【洪武南藏】No.981《分別善惡報應經》宋 西天三藏散天大夫試鴻臚卿明教大師天息災 奉詔譯 冊數：179 / 頁數：1 / 卷數：2 千字文：路 1 (493)-路 2 (493)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18l",
+        "created": 1646116892719,
+        "text": "【永樂南藏】No.788《分別善惡報應經》 部別：宋元入藏諸大小乘經 千字文：力(252)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18m",
+        "created": 1646116892719,
+        "text": "【永樂北藏】No.814《分別善惡報應經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：79 / 卷數：0 千字文：竭"
+       }},
+       {"data": {
+        "id": "z5cYwRD18n",
+        "created": 1646116892719,
+        "text": "【嘉興藏】No.777《分別善惡報應經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0777 千字文 / 函號：［正藏］ 竭(251)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18o",
+        "created": 1646116892719,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18p",
+        "created": 1646116892719,
+        "text": "【乾隆藏】No.778《分別善惡報應經》宋 天息災譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：385 / 卷數：2 千字文：竭"
+       }},
+       {"data": {
+        "id": "z5cYwRD18q",
+        "created": 1646116892719,
+        "text": "【縮刻藏】No.531《分別善惡報應經》宋天息災譯 部別：小乘經 / 卷數：2 千字文：昃 8 (12)"
+       }},
+       {"data": {
+        "id": "z5cYwRD18r",
+        "created": 1646116892719,
+        "text": "【卍正藏】No.787《分別善惡報應經》天息災譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：272 / 卷數：2 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYwRD18s",
+        "created": 1646116892719,
+        "text": "【大正藏】No.81《分別善惡報應經》宋 天息災譯 部別：阿含部上 / 冊數：1 / 頁數：895 / 卷數：2 相關經典：縮-昃8,卍-15.2,南-11下.135 參考資料：Nos.26(170),78,79,80"
+       }},
+       {"data": {
+        "id": "z5cYwRE18t",
+        "created": 1646116892720,
+        "text": "【佛教大藏經】No.539《分別善惡報應經》宋 天息災譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：333 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYwRE18u",
+        "created": 1646116892720,
+        "text": "【中華藏】No.1208《分別善惡報應經》西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：63 / 頁數：740 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwRE18v",
+        "created": 1646116892720,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwRE18w",
+        "created": 1646116892720,
+        "text": "【南條文雄編號】 Nj. 0783"
+       }},
+       {"data": {
+        "id": "z5cYwRE18x",
+        "created": 1646116892720,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：81"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYwRD186",
-      "created": 1646116892719,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYwRD187",
-        "created": 1646116892719,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwRD188",
-        "created": 1646116892719,
-        "text": "分別善惡報應經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwRD189",
-        "created": 1646116892719,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwRD18A",
-        "created": 1646116892719,
-        "text": "分别善恶报应经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwRD18B",
-        "created": 1646116892719,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYwRD18C",
-        "created": 1646116892719,
-        "text": "fen bie shan e bao ying jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwRD18K",
-        "created": 1646116892719,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYwRD18L",
-        "created": 1646116892719,
-        "text": "Fen pieh shan e pao ying ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwRD18M",
-        "created": 1646116892719,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwRD18N",
-        "created": 1646116892719,
-        "text": "Śukasūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwRD18O",
-        "created": 1646116892719,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwRD18P",
-        "created": 1646116892719,
-        "text": "Las-kyi rnam-par ḥgyur-ba shes-bya-baḥi chos-kyi-gshuṅ"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwRD18Q",
-        "created": 1646116892719,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwRD18R",
-        "created": 1646116892719,
-        "text": "분별선악보응경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
+   {
+    "data": {
+     "id": "z5mp3aOUA",
+     "created": 1646268496804,
+     "text": "布頓目錄（月天譯）"
     },
-    {
-     "data": {
-      "id": "z5cYwRD18D",
-      "created": 1646116892719,
-      "text": "时域"
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3aLTh",
+       "created": 1646268496801,
+       "text": "布頓編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aLTi",
+       "created": 1646268496801,
+       "text": "Bt.0062"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwRD18E",
-      "created": 1646116892719,
-      "text": "宋",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwRD18F",
-      "created": 1646116892719,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3aLTj",
+       "created": 1646268496801,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aLTk",
+       "created": 1646268496801,
+       "text": "Ym.282"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwRD18G",
-       "created": 1646116892719,
-       "text": "宋 天息災譯"
-      }},
-      {"data": {
-       "id": "z5cYwRD18H",
-       "created": 1646116892719,
-       "text": "天息災",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwRD18I",
-      "created": 1646116892719,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3aLTl",
+       "created": 1646268496801,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aLTm",
+       "created": 1646268496801,
+       "text": "ལས་ཀྱི་རྣམ་པར་འགྱུར་བ་བསྟན་པའི་གཞུང།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwRD18J",
-      "created": 1646116892719,
-      "text": "2"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwRD18S",
-      "created": 1646116892719,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3aLTn",
+       "created": 1646268496801,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMTo",
+       "created": 1646268496802,
+       "text": "分別善惡報應經"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwRD18T",
-      "created": 1646116892719,
-      "text": "Ta-chung-lu vol.3 p.21a:23a."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYwRD18U",
-     "created": 1646116892719,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYwRD18V",
-      "created": 1646116892719,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3aMTp",
+       "created": 1646268496802,
+       "text": "卷　　數"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMTq",
+       "created": 1646268496802,
+       "text": "270頌"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwRD18W",
-      "created": 1646116892719,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwRD18X",
-      "created": 1646116892719,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3aMTr",
+       "created": 1646268496802,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3aMTs",
+        "created": 1646268496802,
+        "text": "月天譯"
+       }},
+       {"data": {
+        "id": "z5mp3aMTt",
+        "created": 1646268496802,
+        "text": "月天",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwRD18Y",
-       "created": 1646116892719,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18Z",
-       "created": 1646116892719,
-       "text": "【開寶藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18a",
-       "created": 1646116892719,
-       "text": "【崇寧藏】No.1102《分別善惡報應經》 卷數：2 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18b",
-       "created": 1646116892719,
-       "text": "【毘盧藏】No.1101《分別善惡報應經》宋天息災譯 參考年代：(建炎二．四) 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18c",
-       "created": 1646116892719,
-       "text": "【圓覺藏】No.1111《分別善惡報應經》 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18d",
-       "created": 1646116892719,
-       "text": "【趙城金藏】No.1099《分別善惡報應經》 卷數：2 千字文：鍾"
-      }},
-      {"data": {
-       "id": "z5cYwRD18e",
-       "created": 1646116892719,
-       "text": "【資福藏】No.1115《分別善惡報應經》 卷數：2 (上下) 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18f",
-       "created": 1646116892719,
-       "text": "【磧砂藏】No.1126《分別善惡報應經》宋 天息災譯 部別： / 冊數：32 / 頁數：545 / 卷數：2 千字文：路 1 (493)-路 2 (493)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18g",
-       "created": 1646116892719,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18h",
-       "created": 1646116892719,
-       "text": "【高麗藏】No.1098《分別善惡報應經》密林寺沙門天息災譯 部別：宋續入藏經 / 冊數：33 頁數：868 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：鍾"
-      }},
-      {"data": {
-       "id": "z5cYwRD18i",
-       "created": 1646116892719,
-       "text": "【普寧藏】No.1116《分別善惡報應經》 卷數：2 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18j",
-       "created": 1646116892719,
-       "text": "【至元錄】No.1138《分別善惡報應經》宋天竺三藏天息災譯(奉政殿譯) 卷數：2 千字文：夫(333)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18k",
-       "created": 1646116892719,
-       "text": "【洪武南藏】No.981《分別善惡報應經》宋 西天三藏散天大夫試鴻臚卿明教大師天息災 奉詔譯 冊數：179 / 頁數：1 / 卷數：2 千字文：路 1 (493)-路 2 (493)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18l",
-       "created": 1646116892719,
-       "text": "【永樂南藏】No.788《分別善惡報應經》 部別：宋元入藏諸大小乘經 千字文：力(252)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18m",
-       "created": 1646116892719,
-       "text": "【永樂北藏】No.814《分別善惡報應經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：79 / 卷數：0 千字文：竭"
-      }},
-      {"data": {
-       "id": "z5cYwRD18n",
-       "created": 1646116892719,
-       "text": "【嘉興藏】No.777《分別善惡報應經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0777 千字文 / 函號：［正藏］ 竭(251)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18o",
-       "created": 1646116892719,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18p",
-       "created": 1646116892719,
-       "text": "【乾隆藏】No.778《分別善惡報應經》宋 天息災譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：385 / 卷數：2 千字文：竭"
-      }},
-      {"data": {
-       "id": "z5cYwRD18q",
-       "created": 1646116892719,
-       "text": "【縮刻藏】No.531《分別善惡報應經》宋天息災譯 部別：小乘經 / 卷數：2 千字文：昃 8 (12)"
-      }},
-      {"data": {
-       "id": "z5cYwRD18r",
-       "created": 1646116892719,
-       "text": "【卍正藏】No.787《分別善惡報應經》天息災譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：272 / 卷數：2 原版套數：第 15 套"
-      }},
-      {"data": {
-       "id": "z5cYwRD18s",
-       "created": 1646116892719,
-       "text": "【大正藏】No.81《分別善惡報應經》宋 天息災譯 部別：阿含部上 / 冊數：1 / 頁數：895 / 卷數：2 相關經典：縮-昃8,卍-15.2,南-11下.135 參考資料：Nos.26(170),78,79,80"
-      }},
-      {"data": {
-       "id": "z5cYwRE18t",
-       "created": 1646116892720,
-       "text": "【佛教大藏經】No.539《分別善惡報應經》宋 天息災譯 部別：小乘經 阿含部二 / 冊數：24 / 頁數：333 / 卷數：2"
-      }},
-      {"data": {
-       "id": "z5cYwRE18u",
-       "created": 1646116892720,
-       "text": "【中華藏】No.1208《分別善惡報應經》西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：63 / 頁數：740 / 卷數：2 / 底本：麗藏本 金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYwRE18v",
-       "created": 1646116892720,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwRE18w",
-       "created": 1646116892720,
-       "text": "【南條文雄編號】 Nj. 0783"
-      }},
-      {"data": {
-       "id": "z5cYwRE18x",
-       "created": 1646116892720,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：81"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3aMTu",
+       "created": 1646268496802,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMTv",
+       "created": 1646268496802,
+       "text": "215"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3aMTw",
+       "created": 1646268496802,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMTx",
+       "created": 1646268496802,
+       "text": "70-010"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3aMTy",
+       "created": 1646268496802,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMTz",
+       "created": 1646268496802,
+       "text": "Th.0339"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3aMU0",
+       "created": 1646268496802,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMU1",
+       "created": 1646268496802,
+       "text": "T.0078～T.0079; T.0081; T.0026(170)"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3aMU2",
+       "created": 1646268496802,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMU3",
+       "created": 1646268496802,
+       "text": "Y.0944-Y.0945; Y.1138"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3aMU4",
+       "created": 1646268496802,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMU5",
+       "created": 1646268496802,
+       "text": "1.(同) 2.闕"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3aMU6",
+       "created": 1646268496802,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMU7",
+       "created": 1646268496802,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3aMU8",
+       "created": 1646268496802,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3aMU9",
+       "created": 1646268496802,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -328,6 +517,9 @@
   "id": "l07rhve628",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

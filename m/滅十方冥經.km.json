@@ -1,354 +1,543 @@
 {
  "root": {
   "data": {"text": "佛說滅十方冥經"},
-  "children": [{
-   "data": {
-    "id": "z5cYws76yv",
-    "created": 1646116894387,
-    "text": "現藏錄（西晉 竺法護譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYws76yv",
+     "created": 1646116894387,
+     "text": "現藏錄（西晉 竺法護譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYws76xy",
+       "created": 1646116894387,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYws76xz",
+         "created": 1646116894387,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYws76y0",
+         "created": 1646116894387,
+         "text": "佛說滅十方冥經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYws76y1",
+         "created": 1646116894387,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYws76y2",
+         "created": 1646116894387,
+         "text": "佛说灭十方冥经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYws76y3",
+         "created": 1646116894387,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYws76y4",
+         "created": 1646116894387,
+         "text": "fo shuo mie shi fang ming jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYws76yC",
+         "created": 1646116894387,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYws76yD",
+         "created": 1646116894387,
+         "text": "Mieh shih fang ming ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYws76yE",
+         "created": 1646116894387,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYws76yF",
+         "created": 1646116894387,
+         "text": "Daśadigandhakāravidhvaṃsana(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYws76yG",
+         "created": 1646116894387,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYws76yH",
+         "created": 1646116894387,
+         "text": "Phyogs-bcuḥi mun-pa rnam-par-sel-ba"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYws76yI",
+         "created": 1646116894387,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYws76yJ",
+         "created": 1646116894387,
+         "text": "멸십방명경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYws76y5",
+       "created": 1646116894387,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYws76y6",
+       "created": 1646116894387,
+       "text": "西晉",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYws76y7",
+       "created": 1646116894387,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYws76y8",
+        "created": 1646116894387,
+        "text": "西晉 竺法護譯"
+       }},
+       {"data": {
+        "id": "z5cYws76y9",
+        "created": 1646116894387,
+        "text": "法護",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYws76yA",
+       "created": 1646116894387,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYws76yB",
+       "created": 1646116894387,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYws76yK",
+       "created": 1646116894387,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYws76yL",
+       "created": 1646116894387,
+       "text": "Translation by Dharmarakṣa: 14th day, 8th month, 1st year of Kuang Hsi (光煕), Western Chin dynasty (西晉西晉) (October 7th, A.D. 306).T. 2149-234a:23."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYws76yM",
+       "created": 1646116894387,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYws76yN",
+        "created": 1646116894387,
+        "text": "【北京版】Mdo-sna-tshogs (ḥu)7a-13b"
+       }},
+       {"data": {
+        "id": "z5cYws76yO",
+        "created": 1646116894387,
+        "text": "【奈塘版】Mdo (za)9b-18b"
+       }},
+       {"data": {
+        "id": "z5cYws76yP",
+        "created": 1646116894387,
+        "text": "【德格版】Mdo-sde (ya)7a-13a"
+       }},
+       {"data": {
+        "id": "z5cYws76yQ",
+        "created": 1646116894387,
+        "text": "【拉薩版】Mdo (za)60b-69b"
+       }},
+       {"data": {
+        "id": "z5cYws76yR",
+        "created": 1646116894387,
+        "text": "【卓尼版】Mdo-maṅ (ya)8a-15b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYws76yS",
+       "created": 1646116894387,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYws76yT",
+       "created": 1646116894387,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYws76yU",
+       "created": 1646116894387,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYws76yV",
+        "created": 1646116894387,
+        "text": "【房山石經】No.13《十方佛》(西晉)竺法護譯 冊數：1 / 頁數：115 / 卷數：1 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.621《佛說滅十方冥經》(西晉)三藏竺法護譯 冊數：13 / 頁數：624 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：景"
+       }},
+       {"data": {
+        "id": "z5cYws76yW",
+        "created": 1646116894387,
+        "text": "【開寶藏】No.472《滅十方冥經》西晉 三藏竺法護 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYws76yX",
+        "created": 1646116894387,
+        "text": "【崇寧藏】No.477《滅十方冥經》 卷數：1 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYws76yY",
+        "created": 1646116894387,
+        "text": "【毘盧藏】No.475《滅十方冥經》西晉竺法護譯 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYws76yZ",
+        "created": 1646116894387,
+        "text": "【圓覺藏】No.487《滅十方冥經》 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYws76ya",
+        "created": 1646116894387,
+        "text": "【趙城金藏】No.465《滅十方冥經》 卷數：1 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYws76yb",
+        "created": 1646116894387,
+        "text": "【資福藏】No.493《滅十方冥經》 卷數：1 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYws76yc",
+        "created": 1646116894387,
+        "text": "【磧砂藏】No.493《佛說滅十方冥經》晉 竺法護譯 部別：五大部外單譯經 / 冊數：13 / 頁數：733 / 卷數：1 千字文：羊 9 (200)"
+       }},
+       {"data": {
+        "id": "z5cYws76yd",
+        "created": 1646116894387,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYws76ye",
+        "created": 1646116894387,
+        "text": "【高麗藏】No.464《滅十方冥經》西晉月氏國三藏竺法護譯 部別：大乘經 單譯 / 冊數：13 頁數：1220 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYws76yf",
+        "created": 1646116894387,
+        "text": "【普寧藏】No.487《佛說滅十方冥經》 卷數：1 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYws76yg",
+        "created": 1646116894387,
+        "text": "【至元錄】No.430《滅十方冥經》西晉三藏竺法護譯 梵名：阿唎(二合)亞　怛沙　昂怛迦囉尾忒(二合)　彎薩拏　拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：悲(194)"
+       }},
+       {"data": {
+        "id": "z5cYws76yh",
+        "created": 1646116894387,
+        "text": "【洪武南藏】No.431《佛說滅十方冥經》西晉 三藏法師竺法護 譯 冊數：68 / 頁數：119 / 卷數：1 千字文：羊 9 (200)"
+       }},
+       {"data": {
+        "id": "z5cYws76yi",
+        "created": 1646116894387,
+        "text": "【永樂南藏】No.486《佛說滅十方冥經》 部別：大乘經-單譯經 千字文：維(203)"
+       }},
+       {"data": {
+        "id": "z5cYws76yj",
+        "created": 1646116894387,
+        "text": "【永樂北藏】No.541《佛說滅十方冥經》西晉竺法護譯 部別：大乘經單經譯 / 冊數：53 / 頁數：871 / 卷數：1 千字文：維"
+       }},
+       {"data": {
+        "id": "z5cYws76yk",
+        "created": 1646116894387,
+        "text": "【嘉興藏】No.510《佛說滅十方冥經》西晉竺法護譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0510 千字文 / 函號：［正藏］ 維(203)"
+       }},
+       {"data": {
+        "id": "z5cYws76yl",
+        "created": 1646116894387,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYws76ym",
+        "created": 1646116894387,
+        "text": "【乾隆藏】No.511《佛說滅十方冥經》西晉 竺法護譯 部別：大乘單譯經 / 冊數：45 / 頁數：564 / 卷數：1 千字文：維"
+       }},
+       {"data": {
+        "id": "z5cYws76yn",
+        "created": 1646116894387,
+        "text": "【縮刻藏】No.134《佛說滅十方冥經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 4 (4)"
+       }},
+       {"data": {
+        "id": "z5cYws76yo",
+        "created": 1646116894387,
+        "text": "【卍正藏】No.517《佛說滅十方冥經》西晉 竺法護譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：73 / 卷數：1 原版套數：第 12 套"
+       }},
+       {"data": {
+        "id": "z5cYws76yp",
+        "created": 1646116894387,
+        "text": "【大正藏】No.435《佛說滅十方冥經》西晉 竺法護譯 部別：經集部一 / 冊數：14 / 頁數：105 / 卷數：1 相關經典：縮-黃4,卍-12.6 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYws76yq",
+        "created": 1646116894387,
+        "text": "【佛教大藏經】No.136《佛說滅十方冥經》西晉 竺法護譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：739 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYws76yr",
+        "created": 1646116894387,
+        "text": "【中華藏】No.509《佛說滅十方冥經》西晉月氏國三藏竺法護譯 冊數：24 / 頁數：104 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYws76ys",
+        "created": 1646116894387,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYws76yt",
+        "created": 1646116894387,
+        "text": "【南條文雄編號】 Nj. 0515"
+       }},
+       {"data": {
+        "id": "z5cYws76yu",
+        "created": 1646116894387,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：435"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYws76xy",
-      "created": 1646116894387,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYws76xz",
-        "created": 1646116894387,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYws76y0",
-        "created": 1646116894387,
-        "text": "佛說滅十方冥經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5mp3x92k1",
+     "created": 1646268498215,
+     "text": "布頓目錄（龍幢等譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3x82jY",
+       "created": 1646268498214,
+       "text": "布頓編號"
       },
-      {
-       "data": {
-        "id": "z5cYws76y1",
-        "created": 1646116894387,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYws76y2",
-        "created": 1646116894387,
-        "text": "佛说灭十方冥经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3x82jZ",
+       "created": 1646268498214,
+       "text": "Bt.0349"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3x82ja",
+       "created": 1646268498214,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYws76y3",
-        "created": 1646116894387,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYws76y4",
-        "created": 1646116894387,
-        "text": "fo shuo mie shi fang ming jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3x82jb",
+       "created": 1646268498214,
+       "text": "Ym.192"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3x92jc",
+       "created": 1646268498215,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYws76yC",
-        "created": 1646116894387,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYws76yD",
-        "created": 1646116894387,
-        "text": "Mieh shih fang ming ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3x92jd",
+       "created": 1646268498215,
+       "text": "ཕྱོགས་བཅུའི་མུན་སེལ་བ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3x92je",
+       "created": 1646268498215,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYws76yE",
-        "created": 1646116894387,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYws76yF",
-        "created": 1646116894387,
-        "text": "Daśadigandhakāravidhvaṃsana(sūtra)",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3x92jf",
+       "created": 1646268498215,
+       "text": "佛說滅十方冥經"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3x92jg",
+       "created": 1646268498215,
+       "text": "卷　　數"
       },
-      {
-       "data": {
-        "id": "z5cYws76yG",
-        "created": 1646116894387,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYws76yH",
-        "created": 1646116894387,
-        "text": "Phyogs-bcuḥi mun-pa rnam-par-sel-ba"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3x92jh",
+       "created": 1646268498215,
+       "text": "150頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3x92ji",
+       "created": 1646268498215,
+       "text": "作／譯者"
       },
-      {
-       "data": {
-        "id": "z5cYws76yI",
-        "created": 1646116894387,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYws76yJ",
-        "created": 1646116894387,
-        "text": "멸십방명경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYws76y5",
-      "created": 1646116894387,
-      "text": "时域"
+      "children": [
+       {"data": {
+        "id": "z5mp3x92jj",
+        "created": 1646268498215,
+        "text": "龍幢等譯"
+       }},
+       {"data": {
+        "id": "z5mp3x92jk",
+        "created": 1646268498215,
+        "text": "龍幢等",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [{"data": {
-      "id": "z5cYws76y6",
-      "created": 1646116894387,
-      "text": "西晉",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYws76y7",
-      "created": 1646116894387,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3x92jl",
+       "created": 1646268498215,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92jm",
+       "created": 1646268498215,
+       "text": "225"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYws76y8",
-       "created": 1646116894387,
-       "text": "西晉 竺法護譯"
-      }},
-      {"data": {
-       "id": "z5cYws76y9",
-       "created": 1646116894387,
-       "text": "法護",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYws76yA",
-      "created": 1646116894387,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3x92jn",
+       "created": 1646268498215,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92jo",
+       "created": 1646268498215,
+       "text": "70-057"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYws76yB",
-      "created": 1646116894387,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYws76yK",
-      "created": 1646116894387,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3x92jp",
+       "created": 1646268498215,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92jq",
+       "created": 1646268498215,
+       "text": "Th.0269"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYws76yL",
-      "created": 1646116894387,
-      "text": "Translation by Dharmarakṣa: 14th day, 8th month, 1st year of Kuang Hsi (光煕), Western Chin dynasty (西晉西晉) (October 7th, A.D. 306).T. 2149-234a:23."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYws76yM",
-      "created": 1646116894387,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5mp3x92jr",
+       "created": 1646268498215,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92js",
+       "created": 1646268498215,
+       "text": "T.0435"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYws76yN",
-       "created": 1646116894387,
-       "text": "【北京版】Mdo-sna-tshogs (ḥu)7a-13b"
-      }},
-      {"data": {
-       "id": "z5cYws76yO",
-       "created": 1646116894387,
-       "text": "【奈塘版】Mdo (za)9b-18b"
-      }},
-      {"data": {
-       "id": "z5cYws76yP",
-       "created": 1646116894387,
-       "text": "【德格版】Mdo-sde (ya)7a-13a"
-      }},
-      {"data": {
-       "id": "z5cYws76yQ",
-       "created": 1646116894387,
-       "text": "【拉薩版】Mdo (za)60b-69b"
-      }},
-      {"data": {
-       "id": "z5cYws76yR",
-       "created": 1646116894387,
-       "text": "【卓尼版】Mdo-maṅ (ya)8a-15b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYws76yS",
-      "created": 1646116894387,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3x92jt",
+       "created": 1646268498215,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92ju",
+       "created": 1646268498215,
+       "text": "Y.0430"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYws76yT",
-      "created": 1646116894387,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYws76yU",
-      "created": 1646116894387,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3x92jv",
+       "created": 1646268498215,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92jw",
+       "created": 1646268498215,
+       "text": "同"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYws76yV",
-       "created": 1646116894387,
-       "text": "【房山石經】No.13《十方佛》(西晉)竺法護譯 冊數：1 / 頁數：115 / 卷數：1 / 刻經年代：隋、唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.621《佛說滅十方冥經》(西晉)三藏竺法護譯 冊數：13 / 頁數：624 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：景"
-      }},
-      {"data": {
-       "id": "z5cYws76yW",
-       "created": 1646116894387,
-       "text": "【開寶藏】No.472《滅十方冥經》西晉 三藏竺法護 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羔"
-      }},
-      {"data": {
-       "id": "z5cYws76yX",
-       "created": 1646116894387,
-       "text": "【崇寧藏】No.477《滅十方冥經》 卷數：1 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYws76yY",
-       "created": 1646116894387,
-       "text": "【毘盧藏】No.475《滅十方冥經》西晉竺法護譯 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYws76yZ",
-       "created": 1646116894387,
-       "text": "【圓覺藏】No.487《滅十方冥經》 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYws76ya",
-       "created": 1646116894387,
-       "text": "【趙城金藏】No.465《滅十方冥經》 卷數：1 千字文：羔"
-      }},
-      {"data": {
-       "id": "z5cYws76yb",
-       "created": 1646116894387,
-       "text": "【資福藏】No.493《滅十方冥經》 卷數：1 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYws76yc",
-       "created": 1646116894387,
-       "text": "【磧砂藏】No.493《佛說滅十方冥經》晉 竺法護譯 部別：五大部外單譯經 / 冊數：13 / 頁數：733 / 卷數：1 千字文：羊 9 (200)"
-      }},
-      {"data": {
-       "id": "z5cYws76yd",
-       "created": 1646116894387,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYws76ye",
-       "created": 1646116894387,
-       "text": "【高麗藏】No.464《滅十方冥經》西晉月氏國三藏竺法護譯 部別：大乘經 單譯 / 冊數：13 頁數：1220 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羔"
-      }},
-      {"data": {
-       "id": "z5cYws76yf",
-       "created": 1646116894387,
-       "text": "【普寧藏】No.487《佛說滅十方冥經》 卷數：1 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYws76yg",
-       "created": 1646116894387,
-       "text": "【至元錄】No.430《滅十方冥經》西晉三藏竺法護譯 梵名：阿唎(二合)亞　怛沙　昂怛迦囉尾忒(二合)　彎薩拏　拏麻麻訶衍拏　蘇怛囉(二合) / 卷數：1 千字文：悲(194)"
-      }},
-      {"data": {
-       "id": "z5cYws76yh",
-       "created": 1646116894387,
-       "text": "【洪武南藏】No.431《佛說滅十方冥經》西晉 三藏法師竺法護 譯 冊數：68 / 頁數：119 / 卷數：1 千字文：羊 9 (200)"
-      }},
-      {"data": {
-       "id": "z5cYws76yi",
-       "created": 1646116894387,
-       "text": "【永樂南藏】No.486《佛說滅十方冥經》 部別：大乘經-單譯經 千字文：維(203)"
-      }},
-      {"data": {
-       "id": "z5cYws76yj",
-       "created": 1646116894387,
-       "text": "【永樂北藏】No.541《佛說滅十方冥經》西晉竺法護譯 部別：大乘經單經譯 / 冊數：53 / 頁數：871 / 卷數：1 千字文：維"
-      }},
-      {"data": {
-       "id": "z5cYws76yk",
-       "created": 1646116894387,
-       "text": "【嘉興藏】No.510《佛說滅十方冥經》西晉竺法護譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0510 千字文 / 函號：［正藏］ 維(203)"
-      }},
-      {"data": {
-       "id": "z5cYws76yl",
-       "created": 1646116894387,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYws76ym",
-       "created": 1646116894387,
-       "text": "【乾隆藏】No.511《佛說滅十方冥經》西晉 竺法護譯 部別：大乘單譯經 / 冊數：45 / 頁數：564 / 卷數：1 千字文：維"
-      }},
-      {"data": {
-       "id": "z5cYws76yn",
-       "created": 1646116894387,
-       "text": "【縮刻藏】No.134《佛說滅十方冥經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 4 (4)"
-      }},
-      {"data": {
-       "id": "z5cYws76yo",
-       "created": 1646116894387,
-       "text": "【卍正藏】No.517《佛說滅十方冥經》西晉 竺法護譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：73 / 卷數：1 原版套數：第 12 套"
-      }},
-      {"data": {
-       "id": "z5cYws76yp",
-       "created": 1646116894387,
-       "text": "【大正藏】No.435《佛說滅十方冥經》西晉 竺法護譯 部別：經集部一 / 冊數：14 / 頁數：105 / 卷數：1 相關經典：縮-黃4,卍-12.6 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYws76yq",
-       "created": 1646116894387,
-       "text": "【佛教大藏經】No.136《佛說滅十方冥經》西晉 竺法護譯 部別：大乘經 方等部五 / 冊數：7 / 頁數：739 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYws76yr",
-       "created": 1646116894387,
-       "text": "【中華藏】No.509《佛說滅十方冥經》西晉月氏國三藏竺法護譯 冊數：24 / 頁數：104 / 卷數：1 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYws76ys",
-       "created": 1646116894387,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYws76yt",
-       "created": 1646116894387,
-       "text": "【南條文雄編號】 Nj. 0515"
-      }},
-      {"data": {
-       "id": "z5cYws76yu",
-       "created": 1646116894387,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：435"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3x92jx",
+       "created": 1646268498215,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92jy",
+       "created": 1646268498215,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3x92jz",
+       "created": 1646268498215,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3x92k0",
+       "created": 1646268498215,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +546,9 @@
   "id": "l07rhwoidw",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

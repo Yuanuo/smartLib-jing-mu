@@ -1,0 +1,195 @@
+{
+ "root": {
+  "data": {"text": "般若波羅密多五百頌"},
+  "children": [{
+   "data": {
+    "id": "z5mp3eNr4",
+    "created": 1646268497051,
+    "text": "布頓目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5mp3eMqc",
+      "created": 1646268497050,
+      "text": "布頓編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eMqd",
+      "created": 1646268497050,
+      "text": "Bt.0110"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eMqe",
+      "created": 1646268497050,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eMqf",
+      "created": 1646268497050,
+      "text": "Ym.008"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eMqg",
+      "created": 1646268497050,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eMqh",
+      "created": 1646268497051,
+      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལྔ་བརྒྱ་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqi",
+      "created": 1646268497051,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqj",
+      "created": 1646268497051,
+      "text": "般若波羅密多五百頌",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqk",
+      "created": 1646268497051,
+      "text": "卷　　數"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNql",
+      "created": 1646268497051,
+      "text": "500頌"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqm",
+      "created": 1646268497051,
+      "text": "作／譯者"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqn",
+      "created": 1646268497051,
+      "text": "失譯",
+      "resource": ["translator"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqo",
+      "created": 1646268497051,
+      "text": "藏 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqp",
+      "created": 1646268497051,
+      "text": "216"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqq",
+      "created": 1646268497051,
+      "text": "漢 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqr",
+      "created": 1646268497051,
+      "text": "70-016"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqs",
+      "created": 1646268497051,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqt",
+      "created": 1646268497051,
+      "text": "Th.0015"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqu",
+      "created": 1646268497051,
+      "text": "大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqv",
+      "created": 1646268497051,
+      "text": "T.0260"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqw",
+      "created": 1646268497051,
+      "text": "至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqx",
+      "created": 1646268497051,
+      "text": "Y.0040"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNqy",
+      "created": 1646268497051,
+      "text": "蕃　　本"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNqz",
+      "created": 1646268497051,
+      "text": "闕"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNr0",
+      "created": 1646268497051,
+      "text": "備　　注"
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNr1",
+      "created": 1646268497051,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3eNr2",
+      "created": 1646268497051,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5mp3eNr3",
+      "created": 1646268497051,
+      "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0a9ra1l32",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["布頓目錄"]
+ }
+}

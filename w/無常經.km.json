@@ -1,354 +1,544 @@
 {
  "root": {
   "data": {"text": "佛說無常經"},
-  "children": [{
-   "data": {
-    "id": "z5cYxBRCKQ",
-    "created": 1646116895585,
-    "text": "現藏錄（唐 義淨譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxBRCKQ",
+     "created": 1646116895585,
+     "text": "現藏錄（唐 義淨譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxBQCJT",
+       "created": 1646116895584,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxBQCJU",
+         "created": 1646116895584,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBQCJV",
+         "created": 1646116895584,
+         "text": "佛說無常經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBQCJW",
+         "created": 1646116895584,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBQCJX",
+         "created": 1646116895584,
+         "text": "佛说无常经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBQCJY",
+         "created": 1646116895584,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBQCJZ",
+         "created": 1646116895584,
+         "text": "fo shuo wu chang jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBQCJh",
+         "created": 1646116895584,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBQCJi",
+         "created": 1646116895584,
+         "text": "Wu ch'ang ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBQCJj",
+         "created": 1646116895584,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBQCJk",
+         "created": 1646116895584,
+         "text": "Anityatāsūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBQCJl",
+         "created": 1646116895584,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBQCJm",
+         "created": 1646116895584,
+         "text": "Mi-rtag-pa-ñid-kyi mdo"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxBQCJn",
+         "created": 1646116895584,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxBQCJo",
+         "created": 1646116895584,
+         "text": "무상경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxBQCJa",
+       "created": 1646116895584,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBQCJb",
+       "created": 1646116895584,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBQCJc",
+       "created": 1646116895584,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxBQCJd",
+        "created": 1646116895584,
+        "text": "唐 義淨譯"
+       }},
+       {"data": {
+        "id": "z5cYxBQCJe",
+        "created": 1646116895584,
+        "text": "義淨",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxBQCJf",
+       "created": 1646116895584,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBQCJg",
+       "created": 1646116895584,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBQCJp",
+       "created": 1646116895584,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBQCJq",
+       "created": 1646116895584,
+       "text": "Translation by I-ching: 23rd day, 9th month, 1st year of Ta-tsu (大足), T'ang dynasty (唐) (October 28th, A.D. 701) in Ta-fu-hsien Monastery (大福先寺), Tung-tu (東都).T. 2154-567c:20; T. 2157-868b:6."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBQCJr",
+       "created": 1646116895584,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxBQCJs",
+        "created": 1646116895584,
+        "text": "【北京版】Mdo-sna-tshogs (śu)165a-b"
+       }},
+       {"data": {
+        "id": "z5cYxBQCJt",
+        "created": 1646116895584,
+        "text": "【奈塘版】Mdo (la)243a-244a"
+       }},
+       {"data": {
+        "id": "z5cYxBQCJu",
+        "created": 1646116895584,
+        "text": "【德格版】Mdo-sde (sa)155a-155b"
+       }},
+       {"data": {
+        "id": "z5cYxBQCJv",
+        "created": 1646116895584,
+        "text": "【拉薩版】Mdo (la)237b-238b"
+       }},
+       {"data": {
+        "id": "z5cYxBQCJw",
+        "created": 1646116895584,
+        "text": "【卓尼版】Mdo-maṅ (sa)193b-194a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxBQCJx",
+       "created": 1646116895584,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxBQCJy",
+       "created": 1646116895584,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxBQCJz",
+       "created": 1646116895584,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxBQCK0",
+        "created": 1646116895584,
+        "text": "【房山石經】No.102《佛說無常經》(大唐)三藏義淨譯 冊數：3 / 頁數：339 / 卷數：1 / 刻經年代： / 瀏覽：目錄圖檔 千字文："
+       }},
+       {"data": {
+        "id": "z5cYxBQCK1",
+        "created": 1646116895584,
+        "text": "【開寶藏】No.878《無常經》唐 三藏義淨 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK2",
+        "created": 1646116895584,
+        "text": "【崇寧藏】No.879《佛說無常經》 卷數：1 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK3",
+        "created": 1646116895584,
+        "text": "【毘盧藏】No.880《無常經》唐義淨譯 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK4",
+        "created": 1646116895584,
+        "text": "【圓覺藏】No.889《無常經》 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK5",
+        "created": 1646116895584,
+        "text": "【趙城金藏】No.873《無常經》 卷數：1 千字文：竟"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK6",
+        "created": 1646116895584,
+        "text": "【資福藏】No.895《無常經》 卷數：1 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK7",
+        "created": 1646116895584,
+        "text": "【磧砂藏】No.902《佛說無常經》唐 義淨譯 部別：小乘單譯經 / 冊數：20 / 頁數：164 / 卷數：1 千字文：學 7 (305)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK8",
+        "created": 1646116895584,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCK9",
+        "created": 1646116895584,
+        "text": "【高麗藏】No.870《無常經》三藏法師義淨奉制譯 部別：小乘經 單譯 / 冊數：20 頁數：1238(原版) 654(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKA",
+        "created": 1646116895584,
+        "text": "【普寧藏】No.894《佛說無常經》 卷數：1 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKB",
+        "created": 1646116895584,
+        "text": "【至元錄】No.1121《無常經》唐天后代三藏義淨譯 卷數：1 千字文：和(330)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKC",
+        "created": 1646116895584,
+        "text": "【洪武南藏】No.805《佛說無常經》唐 三藏法師義淨 譯 冊數：106 / 頁數：498 / 卷數：1 千字文：斈 7 (305)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKD",
+        "created": 1646116895584,
+        "text": "【永樂南藏】No.769《佛說無常經》 部別：小乘經-單譯經 千字文：當(250)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKE",
+        "created": 1646116895584,
+        "text": "【永樂北藏】No.759《佛說無常經》唐義淨譯 部別：小乘經單譯經 / 冊數：66 / 頁數：449 / 卷數：1 千字文：孝"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKF",
+        "created": 1646116895584,
+        "text": "【嘉興藏】No.722《佛說無常經》唐義淨譯 部別：小乘經-單譯經 / 法寶總目錄經號：0722 千字文 / 函號：［正藏］ 孝(249)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKG",
+        "created": 1646116895584,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKH",
+        "created": 1646116895584,
+        "text": "【乾隆藏】No.723《佛說無常經一卷》唐 義淨譯 部別：小乘單譯經 / 冊數：55 / 頁數：674 / 卷數：1 千字文：孝"
+       }},
+       {"data": {
+        "id": "z5cYxBQCKI",
+        "created": 1646116895584,
+        "text": "【縮刻藏】No.664《佛說無常經》唐義淨譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+       }},
+       {"data": {
+        "id": "z5cYxBRCKJ",
+        "created": 1646116895585,
+        "text": "【卍正藏】No.731《佛說無常經》大唐 義淨譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：25 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYxBRCKK",
+        "created": 1646116895585,
+        "text": "【大正藏】No.801《佛說無常經》唐 義淨譯 部別：經集部四 / 冊數：17 / 頁數：745 / 卷數：1 相關經典：縮-宿7,卍-15.1,國-經12 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYxBRCKL",
+        "created": 1646116895585,
+        "text": "【佛教大藏經】No.684《佛說無常經》唐 義淨譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：231 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxBRCKM",
+        "created": 1646116895585,
+        "text": "【中華藏】No.948《佛說無常經》大唐三藏法師義淨奉制譯 冊數：36 / 頁數：434 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYxBRCKN",
+        "created": 1646116895585,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxBRCKO",
+        "created": 1646116895585,
+        "text": "【南條文雄編號】 Nj. 0727"
+       }},
+       {"data": {
+        "id": "z5cYxBRCKP",
+        "created": 1646116895585,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：801"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYxBQCJT",
-      "created": 1646116895584,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYxBQCJU",
-        "created": 1646116895584,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxBQCJV",
-        "created": 1646116895584,
-        "text": "佛說無常經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5mp3YXJs",
+     "created": 1646268496689,
+     "text": "布頓目錄（智軍譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3YVJP",
+       "created": 1646268496687,
+       "text": "布頓編號"
       },
-      {
-       "data": {
-        "id": "z5cYxBQCJW",
-        "created": 1646116895584,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxBQCJX",
-        "created": 1646116895584,
-        "text": "佛说无常经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YWJQ",
+       "created": 1646268496688,
+       "text": "Bt.0041"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YWJR",
+       "created": 1646268496688,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYxBQCJY",
-        "created": 1646116895584,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYxBQCJZ",
-        "created": 1646116895584,
-        "text": "fo shuo wu chang jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YWJS",
+       "created": 1646268496688,
+       "text": "Ym.305"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YWJT",
+       "created": 1646268496688,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYxBQCJh",
-        "created": 1646116895584,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYxBQCJi",
-        "created": 1646116895584,
-        "text": "Wu ch'ang ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YWJU",
+       "created": 1646268496688,
+       "text": "མི་རྟག་པ་ཉིད་ཀྱི་མདོ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YWJV",
+       "created": 1646268496688,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYxBQCJj",
-        "created": 1646116895584,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxBQCJk",
-        "created": 1646116895584,
-        "text": "Anityatāsūtra",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YWJW",
+       "created": 1646268496688,
+       "text": "無常經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YWJX",
+       "created": 1646268496688,
+       "text": "卷　　數"
       },
-      {
-       "data": {
-        "id": "z5cYxBQCJl",
-        "created": 1646116895584,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxBQCJm",
-        "created": 1646116895584,
-        "text": "Mi-rtag-pa-ñid-kyi mdo"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YWJY",
+       "created": 1646268496688,
+       "text": "15頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YWJZ",
+       "created": 1646268496688,
+       "text": "作／譯者"
       },
-      {
-       "data": {
-        "id": "z5cYxBQCJn",
-        "created": 1646116895584,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxBQCJo",
-        "created": 1646116895584,
-        "text": "무상경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxBQCJa",
-      "created": 1646116895584,
-      "text": "时域"
+      "children": [
+       {"data": {
+        "id": "z5mp3YWJa",
+        "created": 1646268496688,
+        "text": "智軍譯"
+       }},
+       {"data": {
+        "id": "z5mp3YWJb",
+        "created": 1646268496688,
+        "text": "智軍",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [{"data": {
-      "id": "z5cYxBQCJb",
-      "created": 1646116895584,
-      "text": "唐",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxBQCJc",
-      "created": 1646116895584,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3YWJc",
+       "created": 1646268496688,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJd",
+       "created": 1646268496688,
+       "text": "214"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxBQCJd",
-       "created": 1646116895584,
-       "text": "唐 義淨譯"
-      }},
-      {"data": {
-       "id": "z5cYxBQCJe",
-       "created": 1646116895584,
-       "text": "義淨",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxBQCJf",
-      "created": 1646116895584,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3YWJe",
+       "created": 1646268496688,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJf",
+       "created": 1646268496688,
+       "text": "70-007"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxBQCJg",
-      "created": 1646116895584,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxBQCJp",
-      "created": 1646116895584,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3YWJg",
+       "created": 1646268496688,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJh",
+       "created": 1646268496688,
+       "text": "Th.0309-Th.0310"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxBQCJq",
-      "created": 1646116895584,
-      "text": "Translation by I-ching: 23rd day, 9th month, 1st year of Ta-tsu (大足), T'ang dynasty (唐) (October 28th, A.D. 701) in Ta-fu-hsien Monastery (大福先寺), Tung-tu (東都).T. 2154-567c:20; T. 2157-868b:6."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxBQCJr",
-      "created": 1646116895584,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5mp3YWJi",
+       "created": 1646268496688,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJj",
+       "created": 1646268496688,
+       "text": "T.0801; T.0758"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxBQCJs",
-       "created": 1646116895584,
-       "text": "【北京版】Mdo-sna-tshogs (śu)165a-b"
-      }},
-      {"data": {
-       "id": "z5cYxBQCJt",
-       "created": 1646116895584,
-       "text": "【奈塘版】Mdo (la)243a-244a"
-      }},
-      {"data": {
-       "id": "z5cYxBQCJu",
-       "created": 1646116895584,
-       "text": "【德格版】Mdo-sde (sa)155a-155b"
-      }},
-      {"data": {
-       "id": "z5cYxBQCJv",
-       "created": 1646116895584,
-       "text": "【拉薩版】Mdo (la)237b-238b"
-      }},
-      {"data": {
-       "id": "z5cYxBQCJw",
-       "created": 1646116895584,
-       "text": "【卓尼版】Mdo-maṅ (sa)193b-194a"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxBQCJx",
-      "created": 1646116895584,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3YWJk",
+       "created": 1646268496688,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJl",
+       "created": 1646268496688,
+       "text": "Y.1121; Y.1168"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxBQCJy",
-      "created": 1646116895584,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxBQCJz",
-      "created": 1646116895584,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3YWJm",
+       "created": 1646268496688,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJn",
+       "created": 1646268496688,
+       "text": "1.同 2.闕"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxBQCK0",
-       "created": 1646116895584,
-       "text": "【房山石經】No.102《佛說無常經》(大唐)三藏義淨譯 冊數：3 / 頁數：339 / 卷數：1 / 刻經年代： / 瀏覽：目錄圖檔 千字文："
-      }},
-      {"data": {
-       "id": "z5cYxBQCK1",
-       "created": 1646116895584,
-       "text": "【開寶藏】No.878《無常經》唐 三藏義淨 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK2",
-       "created": 1646116895584,
-       "text": "【崇寧藏】No.879《佛說無常經》 卷數：1 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK3",
-       "created": 1646116895584,
-       "text": "【毘盧藏】No.880《無常經》唐義淨譯 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK4",
-       "created": 1646116895584,
-       "text": "【圓覺藏】No.889《無常經》 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK5",
-       "created": 1646116895584,
-       "text": "【趙城金藏】No.873《無常經》 卷數：1 千字文：竟"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK6",
-       "created": 1646116895584,
-       "text": "【資福藏】No.895《無常經》 卷數：1 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK7",
-       "created": 1646116895584,
-       "text": "【磧砂藏】No.902《佛說無常經》唐 義淨譯 部別：小乘單譯經 / 冊數：20 / 頁數：164 / 卷數：1 千字文：學 7 (305)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK8",
-       "created": 1646116895584,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCK9",
-       "created": 1646116895584,
-       "text": "【高麗藏】No.870《無常經》三藏法師義淨奉制譯 部別：小乘經 單譯 / 冊數：20 頁數：1238(原版) 654(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKA",
-       "created": 1646116895584,
-       "text": "【普寧藏】No.894《佛說無常經》 卷數：1 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKB",
-       "created": 1646116895584,
-       "text": "【至元錄】No.1121《無常經》唐天后代三藏義淨譯 卷數：1 千字文：和(330)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKC",
-       "created": 1646116895584,
-       "text": "【洪武南藏】No.805《佛說無常經》唐 三藏法師義淨 譯 冊數：106 / 頁數：498 / 卷數：1 千字文：斈 7 (305)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKD",
-       "created": 1646116895584,
-       "text": "【永樂南藏】No.769《佛說無常經》 部別：小乘經-單譯經 千字文：當(250)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKE",
-       "created": 1646116895584,
-       "text": "【永樂北藏】No.759《佛說無常經》唐義淨譯 部別：小乘經單譯經 / 冊數：66 / 頁數：449 / 卷數：1 千字文：孝"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKF",
-       "created": 1646116895584,
-       "text": "【嘉興藏】No.722《佛說無常經》唐義淨譯 部別：小乘經-單譯經 / 法寶總目錄經號：0722 千字文 / 函號：［正藏］ 孝(249)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKG",
-       "created": 1646116895584,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKH",
-       "created": 1646116895584,
-       "text": "【乾隆藏】No.723《佛說無常經一卷》唐 義淨譯 部別：小乘單譯經 / 冊數：55 / 頁數：674 / 卷數：1 千字文：孝"
-      }},
-      {"data": {
-       "id": "z5cYxBQCKI",
-       "created": 1646116895584,
-       "text": "【縮刻藏】No.664《佛說無常經》唐義淨譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
-      }},
-      {"data": {
-       "id": "z5cYxBRCKJ",
-       "created": 1646116895585,
-       "text": "【卍正藏】No.731《佛說無常經》大唐 義淨譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：25 / 卷數：1 原版套數：第 15 套"
-      }},
-      {"data": {
-       "id": "z5cYxBRCKK",
-       "created": 1646116895585,
-       "text": "【大正藏】No.801《佛說無常經》唐 義淨譯 部別：經集部四 / 冊數：17 / 頁數：745 / 卷數：1 相關經典：縮-宿7,卍-15.1,國-經12 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYxBRCKL",
-       "created": 1646116895585,
-       "text": "【佛教大藏經】No.684《佛說無常經》唐 義淨譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：231 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYxBRCKM",
-       "created": 1646116895585,
-       "text": "【中華藏】No.948《佛說無常經》大唐三藏法師義淨奉制譯 冊數：36 / 頁數：434 / 卷數：1 / 底本：麗藏本"
-      }},
-      {"data": {
-       "id": "z5cYxBRCKN",
-       "created": 1646116895585,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxBRCKO",
-       "created": 1646116895585,
-       "text": "【南條文雄編號】 Nj. 0727"
-      }},
-      {"data": {
-       "id": "z5cYxBRCKP",
-       "created": 1646116895585,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：801"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3YWJo",
+       "created": 1646268496688,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJp",
+       "created": 1646268496688,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YWJq",
+       "created": 1646268496688,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3YWJr",
+       "created": 1646268496688,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +547,9 @@
   "id": "l07rhxlsoe",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

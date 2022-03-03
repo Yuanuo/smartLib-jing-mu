@@ -1,354 +1,557 @@
 {
  "root": {
   "data": {"text": "佛說較量壽命經"},
-  "children": [{
-   "data": {
-    "id": "z5cYx8IBhf",
-    "created": 1646116895390,
-    "text": "現藏錄（宋 天息災譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx8IBhf",
+     "created": 1646116895390,
+     "text": "現藏錄（宋 天息災譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx8IBgi",
+       "created": 1646116895390,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx8IBgj",
+         "created": 1646116895390,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8IBgk",
+         "created": 1646116895390,
+         "text": "佛說較量壽命經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8IBgl",
+         "created": 1646116895390,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8IBgm",
+         "created": 1646116895390,
+         "text": "佛说较量寿命经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8IBgn",
+         "created": 1646116895390,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8IBgo",
+         "created": 1646116895390,
+         "text": "fo shuo jiao liang shou ming jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8IBgw",
+         "created": 1646116895390,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8IBgx",
+         "created": 1646116895390,
+         "text": "Chiao liang shou ming ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8IBgy",
+         "created": 1646116895390,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8IBgz",
+         "created": 1646116895390,
+         "text": "Āyuṣparyantasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8IBh0",
+         "created": 1646116895390,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8IBh1",
+         "created": 1646116895390,
+         "text": "Tsheḥi mthaḥi mdo"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8IBh2",
+         "created": 1646116895390,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8IBh3",
+         "created": 1646116895390,
+         "text": "교량수명경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8IBgp",
+       "created": 1646116895390,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8IBgq",
+       "created": 1646116895390,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8IBgr",
+       "created": 1646116895390,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8IBgs",
+        "created": 1646116895390,
+        "text": "宋 天息災譯"
+       }},
+       {"data": {
+        "id": "z5cYx8IBgt",
+        "created": 1646116895390,
+        "text": "天息災",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8IBgu",
+       "created": 1646116895390,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8IBgv",
+       "created": 1646116895390,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8IBh4",
+       "created": 1646116895390,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8IBh5",
+       "created": 1646116895390,
+       "text": "Ta-chung-lu vol.3 p.21a:23a."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8IBh6",
+       "created": 1646116895390,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8IBh7",
+        "created": 1646116895390,
+        "text": "【北京版】Mdo-na-tshogs (śu)149a-155a"
+       }},
+       {"data": {
+        "id": "z5cYx8IBh8",
+        "created": 1646116895390,
+        "text": "【奈塘版】Mdo (la)218a-228b"
+       }},
+       {"data": {
+        "id": "z5cYx8IBh9",
+        "created": 1646116895390,
+        "text": "【德格版】Mdo-sde (sa)139a-145b"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhA",
+        "created": 1646116895390,
+        "text": "【拉薩版】Mdo (la)214a-223b"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhB",
+        "created": 1646116895390,
+        "text": "【卓尼版】Mdo-maṅ (sa)174b-182b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8IBhC",
+       "created": 1646116895390,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8IBhD",
+       "created": 1646116895390,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8IBhE",
+       "created": 1646116895390,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8IBhF",
+        "created": 1646116895390,
+        "text": "【房山石經】No.871《佛說較量壽命經》西天中印度惹爛馱羅國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：25 / 頁數：596 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：磻"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhG",
+        "created": 1646116895390,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhH",
+        "created": 1646116895390,
+        "text": "【崇寧藏】No.1106《佛說較量壽命經》 卷數：1 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhI",
+        "created": 1646116895390,
+        "text": "【毘盧藏】No.1105《佛說較量壽命經》宋天息災譯 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhJ",
+        "created": 1646116895390,
+        "text": "【圓覺藏】No.1115《校量壽命經》 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhK",
+        "created": 1646116895390,
+        "text": "【趙城金藏】No.1106《較量壽命經》 卷數：1 千字文：鍾"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhL",
+        "created": 1646116895390,
+        "text": "【資福藏】No.1119《校量壽命經》 卷數：1 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhM",
+        "created": 1646116895390,
+        "text": "【磧砂藏】No.1130《佛說較量壽命經》宋 天息災譯 部別： / 冊數：32 / 頁數：561 / 卷數：1 千字文：路 6 (493)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhN",
+        "created": 1646116895390,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhO",
+        "created": 1646116895390,
+        "text": "【高麗藏】No.1105《較量壽命經》天息災譯 部別：宋續入藏經 / 冊數：33 頁數：896 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鍾"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhP",
+        "created": 1646116895390,
+        "text": "【普寧藏】No.1120《佛說校量壽命經》 卷數：1 千字文：路(493)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhQ",
+        "created": 1646116895390,
+        "text": "【至元錄】No.1164《較量壽命經》宋西域三藏天息災譯 卷數：1 千字文：外(337)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhR",
+        "created": 1646116895390,
+        "text": "【洪武南藏】No.985《佛說較量壽命經》西天中印度惹爛䭾囉國密林寺三藏明教大師賜紫沙門天息災 奉詔譯 冊數：179 / 頁數：68 / 卷數：1 千字文：路 6 (493)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhS",
+        "created": 1646116895390,
+        "text": "【永樂南藏】No.793《佛說校量壽命經》 部別：宋元入藏諸大小乘經 千字文：力(252)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhT",
+        "created": 1646116895390,
+        "text": "【永樂北藏】No.838《佛說較量壽命經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：585 / 卷數：1 千字文：則"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhU",
+        "created": 1646116895390,
+        "text": "【嘉興藏】No.801《佛說較量壽命經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0801 千字文 / 函號：［正藏］ 則(254)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhV",
+        "created": 1646116895390,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhW",
+        "created": 1646116895390,
+        "text": "【乾隆藏】No.802《佛說較量壽命經》宋 天息災譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：750 / 卷數：1 千字文：則"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhX",
+        "created": 1646116895390,
+        "text": "【縮刻藏】No.641《佛說較量壽命經》宋天息災譯 部別：小乘經 / 卷數：1 千字文：宿 6 (14)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhY",
+        "created": 1646116895390,
+        "text": "【卍正藏】No.811《佛說較量壽命經》天息災譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：493 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhZ",
+        "created": 1646116895390,
+        "text": "【大正藏】No.759《佛說較量壽命經》宋 天息災譯 部別：經集部四 / 冊數：17 / 頁數：601 / 卷數：1 相關經典：縮-宿6,卍-15.3 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYx8IBha",
+        "created": 1646116895390,
+        "text": "【佛教大藏經】No.661《佛說較量壽命經》宋 天息災譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：172 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhb",
+        "created": 1646116895390,
+        "text": "【中華藏】No.1215《佛說較量壽命經》西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：63 / 頁數：781 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhc",
+        "created": 1646116895390,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhd",
+        "created": 1646116895390,
+        "text": "【南條文雄編號】 Nj. 0807"
+       }},
+       {"data": {
+        "id": "z5cYx8IBhe",
+        "created": 1646116895390,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：759"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYx8IBgi",
-      "created": 1646116895390,
-      "text": "經名"
+   {
+    "data": {
+     "id": "z5mp3YLIu",
+     "created": 1646268496677,
+     "text": "布頓目錄（善吉祥、吉祥積譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3YJIP",
+       "created": 1646268496675,
+       "text": "布頓編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YJIQ",
+       "created": 1646268496675,
+       "text": "Bt.0039"
+      }}]
      },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYx8IBgj",
-        "created": 1646116895390,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8IBgk",
-        "created": 1646116895390,
-        "text": "佛說較量壽命經",
+     {
+      "data": {
+       "id": "z5mp3YJIR",
+       "created": 1646268496675,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YJIS",
+       "created": 1646268496675,
+       "text": "Ym.284"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YJIT",
+       "created": 1646268496675,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YJIU",
+       "created": 1646268496675,
+       "text": "ཆེའི་མཐའི་མདོ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YJIV",
+       "created": 1646268496675,
+       "text": "漢譯經名"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3YKIW",
+        "created": 1646268496676,
+        "text": "佛說較量壽命經"
+       }},
+       {"data": {
+        "id": "z5mp3YKIX",
+        "created": 1646268496676,
+        "text": "壽命終經",
         "resource": ["alias"]
-       }}]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5mp3YKIY",
+       "created": 1646268496676,
+       "text": "卷　　數"
       },
-      {
-       "data": {
-        "id": "z5cYx8IBgl",
-        "created": 1646116895390,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8IBgm",
-        "created": 1646116895390,
-        "text": "佛说较量寿命经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YKIZ",
+       "created": 1646268496676,
+       "text": "205頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YKIa",
+       "created": 1646268496676,
+       "text": "作／譯者"
       },
-      {
-       "data": {
-        "id": "z5cYx8IBgn",
-        "created": 1646116895390,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8IBgo",
-        "created": 1646116895390,
-        "text": "fo shuo jiao liang shou ming jing"
-       }}]
+      "children": [
+       {"data": {
+        "id": "z5mp3YKIb",
+        "created": 1646268496676,
+        "text": "善吉祥、吉祥積譯"
+       }},
+       {"data": {
+        "id": "z5mp3YKIc",
+        "created": 1646268496676,
+        "text": "善吉祥",
+        "resource": ["author"]
+       }},
+       {"data": {
+        "id": "z5mp3YKId",
+        "created": 1646268496676,
+        "text": "吉祥積",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5mp3YKIe",
+       "created": 1646268496676,
+       "text": "藏 頁 碼"
       },
-      {
-       "data": {
-        "id": "z5cYx8IBgw",
-        "created": 1646116895390,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8IBgx",
-        "created": 1646116895390,
-        "text": "Chiao liang shou ming ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YKIf",
+       "created": 1646268496676,
+       "text": "214"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YKIg",
+       "created": 1646268496676,
+       "text": "漢 頁 碼"
       },
-      {
-       "data": {
-        "id": "z5cYx8IBgy",
-        "created": 1646116895390,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8IBgz",
-        "created": 1646116895390,
-        "text": "Āyuṣparyantasūtra",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YKIh",
+       "created": 1646268496676,
+       "text": "70-007"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YKIi",
+       "created": 1646268496676,
+       "text": "東北編號"
       },
-      {
-       "data": {
-        "id": "z5cYx8IBh0",
-        "created": 1646116895390,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8IBh1",
-        "created": 1646116895390,
-        "text": "Tsheḥi mthaḥi mdo"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3YKIj",
+       "created": 1646268496676,
+       "text": "Th.0307"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3YKIk",
+       "created": 1646268496676,
+       "text": "大正藏經號"
       },
-      {
-       "data": {
-        "id": "z5cYx8IBh2",
-        "created": 1646116895390,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8IBh3",
-        "created": 1646116895390,
-        "text": "교량수명경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8IBgp",
-      "created": 1646116895390,
-      "text": "时域"
+      "children": [{"data": {
+       "id": "z5mp3YKIl",
+       "created": 1646268496676,
+       "text": "T.0759"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8IBgq",
-      "created": 1646116895390,
-      "text": "宋",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8IBgr",
-      "created": 1646116895390,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3YKIm",
+       "created": 1646268496676,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YKIn",
+       "created": 1646268496676,
+       "text": "Y.1164"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx8IBgs",
-       "created": 1646116895390,
-       "text": "宋 天息災譯"
-      }},
-      {"data": {
-       "id": "z5cYx8IBgt",
-       "created": 1646116895390,
-       "text": "天息災",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8IBgu",
-      "created": 1646116895390,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3YKIo",
+       "created": 1646268496676,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YKIp",
+       "created": 1646268496676,
+       "text": "闕"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8IBgv",
-      "created": 1646116895390,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8IBh4",
-      "created": 1646116895390,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3YKIq",
+       "created": 1646268496676,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3YKIr",
+       "created": 1646268496676,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8IBh5",
-      "created": 1646116895390,
-      "text": "Ta-chung-lu vol.3 p.21a:23a."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8IBh6",
-      "created": 1646116895390,
-      "text": "西藏各版本出處"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYx8IBh7",
-       "created": 1646116895390,
-       "text": "【北京版】Mdo-na-tshogs (śu)149a-155a"
-      }},
-      {"data": {
-       "id": "z5cYx8IBh8",
-       "created": 1646116895390,
-       "text": "【奈塘版】Mdo (la)218a-228b"
-      }},
-      {"data": {
-       "id": "z5cYx8IBh9",
-       "created": 1646116895390,
-       "text": "【德格版】Mdo-sde (sa)139a-145b"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhA",
-       "created": 1646116895390,
-       "text": "【拉薩版】Mdo (la)214a-223b"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhB",
-       "created": 1646116895390,
-       "text": "【卓尼版】Mdo-maṅ (sa)174b-182b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8IBhC",
-      "created": 1646116895390,
-      "text": "出處"
-     },
-     "children": [{"data": {
-      "id": "z5cYx8IBhD",
-      "created": 1646116895390,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8IBhE",
-      "created": 1646116895390,
-      "text": "漢文大藏經各藏細目"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYx8IBhF",
-       "created": 1646116895390,
-       "text": "【房山石經】No.871《佛說較量壽命經》西天中印度惹爛馱羅國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：25 / 頁數：596 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：磻"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhG",
-       "created": 1646116895390,
-       "text": "【開寶藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhH",
-       "created": 1646116895390,
-       "text": "【崇寧藏】No.1106《佛說較量壽命經》 卷數：1 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhI",
-       "created": 1646116895390,
-       "text": "【毘盧藏】No.1105《佛說較量壽命經》宋天息災譯 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhJ",
-       "created": 1646116895390,
-       "text": "【圓覺藏】No.1115《校量壽命經》 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhK",
-       "created": 1646116895390,
-       "text": "【趙城金藏】No.1106《較量壽命經》 卷數：1 千字文：鍾"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhL",
-       "created": 1646116895390,
-       "text": "【資福藏】No.1119《校量壽命經》 卷數：1 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhM",
-       "created": 1646116895390,
-       "text": "【磧砂藏】No.1130《佛說較量壽命經》宋 天息災譯 部別： / 冊數：32 / 頁數：561 / 卷數：1 千字文：路 6 (493)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhN",
-       "created": 1646116895390,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhO",
-       "created": 1646116895390,
-       "text": "【高麗藏】No.1105《較量壽命經》天息災譯 部別：宋續入藏經 / 冊數：33 頁數：896 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鍾"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhP",
-       "created": 1646116895390,
-       "text": "【普寧藏】No.1120《佛說校量壽命經》 卷數：1 千字文：路(493)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhQ",
-       "created": 1646116895390,
-       "text": "【至元錄】No.1164《較量壽命經》宋西域三藏天息災譯 卷數：1 千字文：外(337)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhR",
-       "created": 1646116895390,
-       "text": "【洪武南藏】No.985《佛說較量壽命經》西天中印度惹爛䭾囉國密林寺三藏明教大師賜紫沙門天息災 奉詔譯 冊數：179 / 頁數：68 / 卷數：1 千字文：路 6 (493)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhS",
-       "created": 1646116895390,
-       "text": "【永樂南藏】No.793《佛說校量壽命經》 部別：宋元入藏諸大小乘經 千字文：力(252)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhT",
-       "created": 1646116895390,
-       "text": "【永樂北藏】No.838《佛說較量壽命經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 冊數：67 / 頁數：585 / 卷數：1 千字文：則"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhU",
-       "created": 1646116895390,
-       "text": "【嘉興藏】No.801《佛說較量壽命經》宋天息灾譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：0801 千字文 / 函號：［正藏］ 則(254)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhV",
-       "created": 1646116895390,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhW",
-       "created": 1646116895390,
-       "text": "【乾隆藏】No.802《佛說較量壽命經》宋 天息災譯 部別：宋元入藏諸大小乘經 / 冊數：56 / 頁數：750 / 卷數：1 千字文：則"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhX",
-       "created": 1646116895390,
-       "text": "【縮刻藏】No.641《佛說較量壽命經》宋天息災譯 部別：小乘經 / 卷數：1 千字文：宿 6 (14)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhY",
-       "created": 1646116895390,
-       "text": "【卍正藏】No.811《佛說較量壽命經》天息災譯 部別：宋元入藏諸大小乘經 / 冊數：27 / 頁數：493 / 卷數：1 原版套數：第 15 套"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhZ",
-       "created": 1646116895390,
-       "text": "【大正藏】No.759《佛說較量壽命經》宋 天息災譯 部別：經集部四 / 冊數：17 / 頁數：601 / 卷數：1 相關經典：縮-宿6,卍-15.3 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYx8IBha",
-       "created": 1646116895390,
-       "text": "【佛教大藏經】No.661《佛說較量壽命經》宋 天息災譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：172 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhb",
-       "created": 1646116895390,
-       "text": "【中華藏】No.1215《佛說較量壽命經》西天中印度惹爛馱囉國密林寺三藏明教大師賜紫沙門天息災奉詔譯 冊數：63 / 頁數：781 / 卷數：1 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhc",
-       "created": 1646116895390,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhd",
-       "created": 1646116895390,
-       "text": "【南條文雄編號】 Nj. 0807"
-      }},
-      {"data": {
-       "id": "z5cYx8IBhe",
-       "created": 1646116895390,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：759"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3YKIs",
+       "created": 1646268496676,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3YKIt",
+       "created": 1646268496676,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +560,9 @@
   "id": "l07rhxgen5",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

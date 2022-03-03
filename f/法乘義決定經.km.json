@@ -1,246 +1,435 @@
 {
  "root": {
   "data": {"text": "佛說法乘義決定經"},
-  "children": [{
-   "data": {
-    "id": "z5cYx8SBl9",
-    "created": 1646116895400,
-    "text": "現藏錄（宋 金總持等譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx8SBl9",
+     "created": 1646116895400,
+     "text": "現藏錄（宋 金總持等譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx8SBkU",
+       "created": 1646116895400,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx8SBkV",
+         "created": 1646116895400,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8SBkW",
+         "created": 1646116895400,
+         "text": "佛說法乘義決定經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8SBkX",
+         "created": 1646116895400,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8SBkY",
+         "created": 1646116895400,
+         "text": "佛说法乘义决定经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8SBkZ",
+         "created": 1646116895400,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8SBka",
+         "created": 1646116895400,
+         "text": "fo shuo fa cheng yi jue ding jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8SBkb",
+       "created": 1646116895400,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8SBkc",
+       "created": 1646116895400,
+       "text": "宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8SBkd",
+       "created": 1646116895400,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8SBke",
+        "created": 1646116895400,
+        "text": "宋 金總持等譯"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkf",
+        "created": 1646116895400,
+        "text": "金總持",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8SBkg",
+       "created": 1646116895400,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8SBkh",
+       "created": 1646116895400,
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8SBki",
+       "created": 1646116895400,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8SBkj",
+        "created": 1646116895400,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkk",
+        "created": 1646116895400,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkl",
+        "created": 1646116895400,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkm",
+        "created": 1646116895400,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkn",
+        "created": 1646116895400,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBko",
+        "created": 1646116895400,
+        "text": "【趙城金藏】No.1514《法大乘義決定經》 卷數：3 千字文：門"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkp",
+        "created": 1646116895400,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkq",
+        "created": 1646116895400,
+        "text": "【磧砂藏】No.1505《佛說法乘義決定經》宋 金總持等譯 部別： / 冊數：36 / 頁數：465 / 卷數：3 千字文：更 6 (571)-更 8 (571)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkr",
+        "created": 1646116895400,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBks",
+        "created": 1646116895400,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkt",
+        "created": 1646116895400,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBku",
+        "created": 1646116895400,
+        "text": "【至元錄】No.535《法大乘義決定經》宋西夏三藏金總持等譯 梵名：阿唎(二合)亞　阿羅怛　尾儞怛牙拏　麻達哩麻拔哩(二合)瓦牙 / 卷數：3 / 出處：(新編入錄) 千字文：傳(219)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkv",
+        "created": 1646116895400,
+        "text": "【洪武南藏】No.1348《佛說法乘義決定經》西天譯經三藏明因妙善普濟法師賜紫沙門臣金[總-囪+匆]持 等奉詔譯 冊數：201 / 頁數：140 / 卷數：3 千字文：更 6 (571)-更 9 (571)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkw",
+        "created": 1646116895400,
+        "text": "【永樂南藏】No.1073《法乘義決定經》 部別：宋元入藏諸大小乘經 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkx",
+        "created": 1646116895400,
+        "text": "【永樂北藏】No.1047《佛說法乘義決定經》金總持等譯 部別：宋元入藏諸大小乘經 / 冊數：72 / 頁數：250 / 卷數：0 千字文：之"
+       }},
+       {"data": {
+        "id": "z5cYx8SBky",
+        "created": 1646116895400,
+        "text": "【嘉興藏】No.1009《法乘義決定經》金總持等譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1008 千字文 / 函號：［正藏］ 之(271)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBkz",
+        "created": 1646116895400,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl0",
+        "created": 1646116895400,
+        "text": "【乾隆藏】No.1010《佛說法乘義決定經》金總持等譯 部別：宋元入藏諸大小乘經 / 冊數：60 / 頁數：759 / 卷數：3 千字文：之"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl1",
+        "created": 1646116895400,
+        "text": "【縮刻藏】No.668《佛說法乘義決定經》宋金總持等譯 部別：小乘經 / 卷數：3 千字文：宿 7 (14)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl2",
+        "created": 1646116895400,
+        "text": "【卍正藏】No.1019《佛說法乘義決定經》普濟金總持等譯 部別：宋元入藏諸大小乘經 / 冊數：29 / 頁數：439 / 卷數：3 原版套數：第 16 套"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl3",
+        "created": 1646116895400,
+        "text": "【大正藏】No.763《佛說法乘義決定經》宋 金總持等譯 部別：經集部四 / 冊數：17 / 頁數：654 / 卷數：3 相關經典：縮-宿7,卍-16.3 參考資料：No.762"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl4",
+        "created": 1646116895400,
+        "text": "【佛教大藏經】No.688《佛說法乘義決定經》宋 金總持等譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：240 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl5",
+        "created": 1646116895400,
+        "text": "【中華藏】No.1695《佛說法乘義決定經》西天譯經三藏明因妙善普濟法師賜紫沙門金總持等奉詔譯 冊數：76 / 頁數：78 / 卷數：3 / 底本：金藏廣勝寺本 影印宋磧砂藏本"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl6",
+        "created": 1646116895400,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl7",
+        "created": 1646116895400,
+        "text": "【南條文雄編號】 Nj. 1015"
+       }},
+       {"data": {
+        "id": "z5cYx8SBl8",
+        "created": 1646116895400,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：763"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYx8SBkU",
-      "created": 1646116895400,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYx8SBkV",
-        "created": 1646116895400,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8SBkW",
-        "created": 1646116895400,
-        "text": "佛說法乘義決定經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5mp3ZDNm",
+     "created": 1646268496731,
+     "text": "布頓目錄（智軍譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3ZBNJ",
+       "created": 1646268496729,
+       "text": "布頓編號"
       },
-      {
-       "data": {
-        "id": "z5cYx8SBkX",
-        "created": 1646116895400,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8SBkY",
-        "created": 1646116895400,
-        "text": "佛说法乘义决定经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3ZBNK",
+       "created": 1646268496729,
+       "text": "Bt.0049"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZBNL",
+       "created": 1646268496729,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYx8SBkZ",
-        "created": 1646116895400,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8SBka",
-        "created": 1646116895400,
-        "text": "fo shuo fa cheng yi jue ding jing"
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8SBkb",
-      "created": 1646116895400,
-      "text": "时域"
+      "children": [{"data": {
+       "id": "z5mp3ZBNM",
+       "created": 1646268496729,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8SBkc",
-      "created": 1646116895400,
-      "text": "宋",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8SBkd",
-      "created": 1646116895400,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3ZBNN",
+       "created": 1646268496729,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZBNO",
+       "created": 1646268496729,
+       "text": "དོན་རྣམ་པར་གདོན་མི་ཟ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx8SBke",
-       "created": 1646116895400,
-       "text": "宋 金總持等譯"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkf",
-       "created": 1646116895400,
-       "text": "金總持",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8SBkg",
-      "created": 1646116895400,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3ZBNP",
+       "created": 1646268496729,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZBNQ",
+       "created": 1646268496729,
+       "text": "佛說法乘義決定經"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8SBkh",
-      "created": 1646116895400,
-      "text": "3"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8SBki",
-      "created": 1646116895400,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3ZBNR",
+       "created": 1646268496729,
+       "text": "卷　　數"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZBNS",
+       "created": 1646268496729,
+       "text": "70頌"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx8SBkj",
-       "created": 1646116895400,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkk",
-       "created": 1646116895400,
-       "text": "【開寶藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkl",
-       "created": 1646116895400,
-       "text": "【崇寧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkm",
-       "created": 1646116895400,
-       "text": "【毘盧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkn",
-       "created": 1646116895400,
-       "text": "【圓覺藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBko",
-       "created": 1646116895400,
-       "text": "【趙城金藏】No.1514《法大乘義決定經》 卷數：3 千字文：門"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkp",
-       "created": 1646116895400,
-       "text": "【資福藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkq",
-       "created": 1646116895400,
-       "text": "【磧砂藏】No.1505《佛說法乘義決定經》宋 金總持等譯 部別： / 冊數：36 / 頁數：465 / 卷數：3 千字文：更 6 (571)-更 8 (571)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkr",
-       "created": 1646116895400,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBks",
-       "created": 1646116895400,
-       "text": "【高麗藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkt",
-       "created": 1646116895400,
-       "text": "【普寧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBku",
-       "created": 1646116895400,
-       "text": "【至元錄】No.535《法大乘義決定經》宋西夏三藏金總持等譯 梵名：阿唎(二合)亞　阿羅怛　尾儞怛牙拏　麻達哩麻拔哩(二合)瓦牙 / 卷數：3 / 出處：(新編入錄) 千字文：傳(219)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkv",
-       "created": 1646116895400,
-       "text": "【洪武南藏】No.1348《佛說法乘義決定經》西天譯經三藏明因妙善普濟法師賜紫沙門臣金[總-囪+匆]持 等奉詔譯 冊數：201 / 頁數：140 / 卷數：3 千字文：更 6 (571)-更 9 (571)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkw",
-       "created": 1646116895400,
-       "text": "【永樂南藏】No.1073《法乘義決定經》 部別：宋元入藏諸大小乘經 千字文：言(285)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkx",
-       "created": 1646116895400,
-       "text": "【永樂北藏】No.1047《佛說法乘義決定經》金總持等譯 部別：宋元入藏諸大小乘經 / 冊數：72 / 頁數：250 / 卷數：0 千字文：之"
-      }},
-      {"data": {
-       "id": "z5cYx8SBky",
-       "created": 1646116895400,
-       "text": "【嘉興藏】No.1009《法乘義決定經》金總持等譯 部別：宋元入藏諸大小乘經 / 法寶總目錄經號：1008 千字文 / 函號：［正藏］ 之(271)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBkz",
-       "created": 1646116895400,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl0",
-       "created": 1646116895400,
-       "text": "【乾隆藏】No.1010《佛說法乘義決定經》金總持等譯 部別：宋元入藏諸大小乘經 / 冊數：60 / 頁數：759 / 卷數：3 千字文：之"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl1",
-       "created": 1646116895400,
-       "text": "【縮刻藏】No.668《佛說法乘義決定經》宋金總持等譯 部別：小乘經 / 卷數：3 千字文：宿 7 (14)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl2",
-       "created": 1646116895400,
-       "text": "【卍正藏】No.1019《佛說法乘義決定經》普濟金總持等譯 部別：宋元入藏諸大小乘經 / 冊數：29 / 頁數：439 / 卷數：3 原版套數：第 16 套"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl3",
-       "created": 1646116895400,
-       "text": "【大正藏】No.763《佛說法乘義決定經》宋 金總持等譯 部別：經集部四 / 冊數：17 / 頁數：654 / 卷數：3 相關經典：縮-宿7,卍-16.3 參考資料：No.762"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl4",
-       "created": 1646116895400,
-       "text": "【佛教大藏經】No.688《佛說法乘義決定經》宋 金總持等譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：240 / 卷數：3"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl5",
-       "created": 1646116895400,
-       "text": "【中華藏】No.1695《佛說法乘義決定經》西天譯經三藏明因妙善普濟法師賜紫沙門金總持等奉詔譯 冊數：76 / 頁數：78 / 卷數：3 / 底本：金藏廣勝寺本 影印宋磧砂藏本"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl6",
-       "created": 1646116895400,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl7",
-       "created": 1646116895400,
-       "text": "【南條文雄編號】 Nj. 1015"
-      }},
-      {"data": {
-       "id": "z5cYx8SBl8",
-       "created": 1646116895400,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：763"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3ZBNT",
+       "created": 1646268496729,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3ZBNU",
+        "created": 1646268496729,
+        "text": "智軍譯"
+       }},
+       {"data": {
+        "id": "z5mp3ZCNV",
+        "created": 1646268496730,
+        "text": "智軍",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNW",
+       "created": 1646268496730,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNX",
+       "created": 1646268496730,
+       "text": "214"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNY",
+       "created": 1646268496730,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNZ",
+       "created": 1646268496730,
+       "text": "70-008"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNa",
+       "created": 1646268496730,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNb",
+       "created": 1646268496730,
+       "text": "Th.0317"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNc",
+       "created": 1646268496730,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNd",
+       "created": 1646268496730,
+       "text": "T.0762～T.0763"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNe",
+       "created": 1646268496730,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNf",
+       "created": 1646268496730,
+       "text": "Y.0535?"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNg",
+       "created": 1646268496730,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNh",
+       "created": 1646268496730,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNi",
+       "created": 1646268496730,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNj",
+       "created": 1646268496730,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZCNk",
+       "created": 1646268496730,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZCNl",
+       "created": 1646268496730,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -249,6 +438,9 @@
   "id": "l07rhxgon9",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

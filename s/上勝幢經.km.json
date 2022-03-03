@@ -1,0 +1,202 @@
+{
+ "root": {
+  "data": {"text": "上勝幢經"},
+  "children": [{
+   "data": {
+    "id": "z5mp3Vw7n",
+    "created": 1646268496528,
+    "text": "布頓目錄（智軍譯）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5mp3Vv7K",
+      "created": 1646268496527,
+      "text": "布頓編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7L",
+      "created": 1646268496527,
+      "text": "Bt.0016"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7M",
+      "created": 1646268496527,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7N",
+      "created": 1646268496527,
+      "text": "Ym.246"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7O",
+      "created": 1646268496527,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7P",
+      "created": 1646268496527,
+      "text": "མདོ་ཆེན་པོ་རྒྱལ་མཚན་མཆོག།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7Q",
+      "created": 1646268496527,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7R",
+      "created": 1646268496527,
+      "text": "上勝幢經",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7S",
+      "created": 1646268496527,
+      "text": "卷　　數"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7T",
+      "created": 1646268496527,
+      "text": "40頌"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7U",
+      "created": 1646268496527,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5mp3Vv7V",
+       "created": 1646268496527,
+       "text": "智軍譯"
+      }},
+      {"data": {
+       "id": "z5mp3Vv7W",
+       "created": 1646268496527,
+       "text": "智軍",
+       "resource": ["translator"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7X",
+      "created": 1646268496527,
+      "text": "藏 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7Y",
+      "created": 1646268496527,
+      "text": "213"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7Z",
+      "created": 1646268496527,
+      "text": "漢 頁 碼"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7a",
+      "created": 1646268496527,
+      "text": "70-004"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7b",
+      "created": 1646268496527,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7c",
+      "created": 1646268496527,
+      "text": "Th.0292"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7d",
+      "created": 1646268496527,
+      "text": "大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7e",
+      "created": 1646268496527,
+      "text": "T.0099(980); T.0125(24)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7f",
+      "created": 1646268496527,
+      "text": "至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vv7g",
+      "created": 1646268496527,
+      "text": "Y.0890(980)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vv7h",
+      "created": 1646268496528,
+      "text": "蕃　　本"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vw7i",
+      "created": 1646268496528,
+      "text": "(同)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vw7j",
+      "created": 1646268496528,
+      "text": "備　　注"
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vw7k",
+      "created": 1646268496528,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5mp3Vw7l",
+      "created": 1646268496528,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5mp3Vw7m",
+      "created": 1646268496528,
+      "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0a9r9n1f",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["布頓目錄"]
+ }
+}

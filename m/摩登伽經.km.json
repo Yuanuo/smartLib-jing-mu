@@ -1,331 +1,528 @@
 {
  "root": {
   "data": {"text": "摩登伽經"},
-  "children": [{
-   "data": {
-    "id": "z5cYxYLJEc",
-    "created": 1646116897005,
-    "text": "現藏錄（吳 竺律炎支謙共譯）"
-   },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYxYLJDj",
-      "created": 1646116897005,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYxYLJDk",
-        "created": 1646116897005,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxYLJDl",
-        "created": 1646116897005,
-        "text": "摩登伽經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxYLJDm",
-        "created": 1646116897005,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxYLJDn",
-        "created": 1646116897005,
-        "text": "摩登伽经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxYLJDo",
-        "created": 1646116897005,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYxYLJDp",
-        "created": 1646116897005,
-        "text": "mo deng jia jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxYLJDy",
-        "created": 1646116897005,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYxYLJDz",
-        "created": 1646116897005,
-        "text": "Mo teng ch'ieh ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxYLJE0",
-        "created": 1646116897005,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxYLJE1",
-        "created": 1646116897005,
-        "text": "Mātangīsūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxYLJE2",
-        "created": 1646116897005,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxYLJE3",
-        "created": 1646116897005,
-        "text": "Stag rnaḥi rtogs-pa-brjod-pa"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxYLJE4",
-        "created": 1646116897005,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxYLJE5",
-        "created": 1646116897005,
-        "text": "마등가경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxYLJDq",
-      "created": 1646116897005,
-      "text": "时域"
-     },
-     "children": [{"data": {
-      "id": "z5cYxYLJDr",
-      "created": 1646116897005,
-      "text": "吳",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxYLJDs",
-      "created": 1646116897005,
-      "text": "作／譯者"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYxYLJDt",
-       "created": 1646116897005,
-       "text": "吳 竺律炎支謙共譯"
-      }},
-      {"data": {
-       "id": "z5cYxYLJDu",
-       "created": 1646116897005,
-       "text": "支謙",
-       "resource": ["translator"]
-      }},
-      {"data": {
-       "id": "z5cYxYLJDv",
-       "created": 1646116897005,
-       "text": "竺律炎",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxYLJDw",
-      "created": 1646116897005,
-      "text": "卷數"
-     },
-     "children": [{"data": {
-      "id": "z5cYxYLJDx",
-      "created": 1646116897005,
-      "text": "2"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxYLJE6",
-      "created": 1646116897005,
-      "text": "翻譯概述"
-     },
-     "children": [{"data": {
-      "id": "z5cYxYLJE7",
-      "created": 1646116897005,
-      "text": "Translation by (Chu) Lü-yen and Chih-ch'ien: 2nd year of Huang Lung (黃龍), Wu dynasty (呉) (A.D. 230) in Yang-tu (楊都).T.2157-785a:15."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYxYLJE8",
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxYLJEc",
      "created": 1646116897005,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYxYLJE9",
-      "created": 1646116897005,
-      "text": "出處"
-     },
-     "children": [{"data": {
-      "id": "z5cYxYLJEA",
-      "created": 1646116897005,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
+     "text": "現藏錄（吳 竺律炎支謙共譯）"
     },
-    {
-     "data": {
-      "id": "z5cYxYLJEB",
-      "created": 1646116897005,
-      "text": "漢文大藏經各藏細目"
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxYLJDj",
+       "created": 1646116897005,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxYLJDk",
+         "created": 1646116897005,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxYLJDl",
+         "created": 1646116897005,
+         "text": "摩登伽經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxYLJDm",
+         "created": 1646116897005,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxYLJDn",
+         "created": 1646116897005,
+         "text": "摩登伽经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxYLJDo",
+         "created": 1646116897005,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxYLJDp",
+         "created": 1646116897005,
+         "text": "mo deng jia jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxYLJDy",
+         "created": 1646116897005,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxYLJDz",
+         "created": 1646116897005,
+         "text": "Mo teng ch'ieh ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxYLJE0",
+         "created": 1646116897005,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxYLJE1",
+         "created": 1646116897005,
+         "text": "Mātangīsūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxYLJE2",
+         "created": 1646116897005,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxYLJE3",
+         "created": 1646116897005,
+         "text": "Stag rnaḥi rtogs-pa-brjod-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxYLJE4",
+         "created": 1646116897005,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxYLJE5",
+         "created": 1646116897005,
+         "text": "마등가경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxYLJEC",
+     {
+      "data": {
+       "id": "z5cYxYLJDq",
        "created": 1646116897005,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJED",
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxYLJDr",
        "created": 1646116897005,
-       "text": "【開寶藏】No.757《摩登伽經》吳 竺律炎共支謙 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：辭"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEE",
+       "text": "吳",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxYLJDs",
        "created": 1646116897005,
-       "text": "【崇寧藏】No.758《摩登伽經》 卷數：3 千字文：言(285)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEF",
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxYLJDt",
+        "created": 1646116897005,
+        "text": "吳 竺律炎支謙共譯"
+       }},
+       {"data": {
+        "id": "z5cYxYLJDu",
+        "created": 1646116897005,
+        "text": "支謙",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxYLJDv",
+        "created": 1646116897005,
+        "text": "竺律炎",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxYLJDw",
        "created": 1646116897005,
-       "text": "【毘盧藏】No.759《摩登伽經》吳竺律炎共支謙譯 千字文：言(285)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEG",
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxYLJDx",
        "created": 1646116897005,
-       "text": "【圓覺藏】No.767《摩登伽經》 卷數：3 千字文：言(285)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEH",
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxYLJE6",
        "created": 1646116897005,
-       "text": "【趙城金藏】No.769《摩登伽經》 卷數：2 千字文：思"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEI",
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxYLJE7",
        "created": 1646116897005,
-       "text": "【資福藏】No.773《摩登伽經》 卷數：3 (三卷) 千字文：言(285)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEJ",
+       "text": "Translation by (Chu) Lü-yen and Chih-ch'ien: 2nd year of Huang Lung (黃龍), Wu dynasty (呉) (A.D. 230) in Yang-tu (楊都).T.2157-785a:15."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxYLJE8",
+      "created": 1646116897005,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxYLJE9",
        "created": 1646116897005,
-       "text": "【磧砂藏】No.778《摩登伽經》吳 支謙譯 部別：阿含部 / 冊數：19 / 頁數：49 / 卷數：3 千字文：言 2 (285)-言 4 (285)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEK",
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxYLJEA",
        "created": 1646116897005,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEL",
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxYLJEB",
        "created": 1646116897005,
-       "text": "【高麗藏】No.766《摩登伽經》吳天竺三藏竺律炎譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：770(原版) 796(新文豐) / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：思"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEM",
-       "created": 1646116897005,
-       "text": "【普寧藏】No.770《摩登伽經》 卷數：3 千字文：言(285)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEN",
-       "created": 1646116897005,
-       "text": "【至元錄】No.1000《摩鄧伽經》吳天竺三藏律炎共支謙譯 卷數：3 / 出處：(出法上錄) / 譯次：(第三譯) 千字文：職(310)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEO",
-       "created": 1646116897005,
-       "text": "【洪武南藏】No.698《摩登伽經》吴 沙門竺律炎共優婆塞支謙 譯 冊數：100 / 頁數：76 / 卷數：3 千字文：言 2 (285)-言 4 (285)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEP",
-       "created": 1646116897005,
-       "text": "【永樂南藏】No.644《摩登伽經》 部別：小乘經-阿含部 千字文：善(231)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEQ",
-       "created": 1646116897005,
-       "text": "【永樂北藏】No.675《摩登伽經》吳竺律炎-共支謙譯 部別：小乘經阿含部 / 冊數：62 / 頁數：215 / 卷數：3 千字文：慶"
-      }},
-      {"data": {
-       "id": "z5cYxYLJER",
-       "created": 1646116897005,
-       "text": "【嘉興藏】No.640《摩登伽經》吳竺律炎-共支謙譯 部別：小乘經-阿含部 / 法寶總目錄經號：0640 千字文 / 函號：［正藏］ 慶(232)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJES",
-       "created": 1646116897005,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJET",
-       "created": 1646116897005,
-       "text": "【乾隆藏】No.641《摩登伽經》吳 竺律炎,支謙譯 部別：小乘阿含部 / 冊數：52 / 頁數：241 / 卷數：2 千字文：慶"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEU",
-       "created": 1646116897005,
-       "text": "【縮刻藏】No.621《摩登伽經》吳竺律炎共支謙譯 部別：小乘經 / 卷數：2 千字文：宿 6 (14)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEV",
-       "created": 1646116897005,
-       "text": "【卍正藏】No.649《摩登伽經》吳 竺律炎共支謙譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：365 / 卷數：2 原版套數：第 14 套"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEW",
-       "created": 1646116897005,
-       "text": "【大正藏】No.1300《摩登伽經》吳 竺律炎支謙共譯 部別：密教部四 / 冊數：21 / 頁數：399 / 卷數：2 相關經典：縮-宿6,卍-16.2 參考資料：No.1301;cf.Nos.551,552"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEX",
-       "created": 1646116897005,
-       "text": "【佛教大藏經】No.639《摩豋伽經》吳 竺律炎．支謙共譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：59 / 卷數：2"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEY",
-       "created": 1646116897005,
-       "text": "【中華藏】No.828《摩登伽經》吳天竺三藏竺律炎共支謙譯 冊數：34 / 頁數：449 / 卷數：2 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEZ",
-       "created": 1646116897005,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEa",
-       "created": 1646116897005,
-       "text": "【南條文雄編號】 Nj. 0645"
-      }},
-      {"data": {
-       "id": "z5cYxYLJEb",
-       "created": 1646116897005,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1300"
-      }}
-     ]
-    }
-   ]
-  }]
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxYLJEC",
+        "created": 1646116897005,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJED",
+        "created": 1646116897005,
+        "text": "【開寶藏】No.757《摩登伽經》吳 竺律炎共支謙 譯 部別：小乘經 小乘經重單合譯 / 卷數：1 千字文：辭"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEE",
+        "created": 1646116897005,
+        "text": "【崇寧藏】No.758《摩登伽經》 卷數：3 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEF",
+        "created": 1646116897005,
+        "text": "【毘盧藏】No.759《摩登伽經》吳竺律炎共支謙譯 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEG",
+        "created": 1646116897005,
+        "text": "【圓覺藏】No.767《摩登伽經》 卷數：3 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEH",
+        "created": 1646116897005,
+        "text": "【趙城金藏】No.769《摩登伽經》 卷數：2 千字文：思"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEI",
+        "created": 1646116897005,
+        "text": "【資福藏】No.773《摩登伽經》 卷數：3 (三卷) 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEJ",
+        "created": 1646116897005,
+        "text": "【磧砂藏】No.778《摩登伽經》吳 支謙譯 部別：阿含部 / 冊數：19 / 頁數：49 / 卷數：3 千字文：言 2 (285)-言 4 (285)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEK",
+        "created": 1646116897005,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEL",
+        "created": 1646116897005,
+        "text": "【高麗藏】No.766《摩登伽經》吳天竺三藏竺律炎譯 部別：小乘經 阿含部 / 冊數：19(原版) 20(新文豐) 頁數：770(原版) 796(新文豐) / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：思"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEM",
+        "created": 1646116897005,
+        "text": "【普寧藏】No.770《摩登伽經》 卷數：3 千字文：言(285)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEN",
+        "created": 1646116897005,
+        "text": "【至元錄】No.1000《摩鄧伽經》吳天竺三藏律炎共支謙譯 卷數：3 / 出處：(出法上錄) / 譯次：(第三譯) 千字文：職(310)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEO",
+        "created": 1646116897005,
+        "text": "【洪武南藏】No.698《摩登伽經》吴 沙門竺律炎共優婆塞支謙 譯 冊數：100 / 頁數：76 / 卷數：3 千字文：言 2 (285)-言 4 (285)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEP",
+        "created": 1646116897005,
+        "text": "【永樂南藏】No.644《摩登伽經》 部別：小乘經-阿含部 千字文：善(231)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEQ",
+        "created": 1646116897005,
+        "text": "【永樂北藏】No.675《摩登伽經》吳竺律炎-共支謙譯 部別：小乘經阿含部 / 冊數：62 / 頁數：215 / 卷數：3 千字文：慶"
+       }},
+       {"data": {
+        "id": "z5cYxYLJER",
+        "created": 1646116897005,
+        "text": "【嘉興藏】No.640《摩登伽經》吳竺律炎-共支謙譯 部別：小乘經-阿含部 / 法寶總目錄經號：0640 千字文 / 函號：［正藏］ 慶(232)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJES",
+        "created": 1646116897005,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJET",
+        "created": 1646116897005,
+        "text": "【乾隆藏】No.641《摩登伽經》吳 竺律炎,支謙譯 部別：小乘阿含部 / 冊數：52 / 頁數：241 / 卷數：2 千字文：慶"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEU",
+        "created": 1646116897005,
+        "text": "【縮刻藏】No.621《摩登伽經》吳竺律炎共支謙譯 部別：小乘經 / 卷數：2 千字文：宿 6 (14)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEV",
+        "created": 1646116897005,
+        "text": "【卍正藏】No.649《摩登伽經》吳 竺律炎共支謙譯 部別：小乘經 阿含部 / 冊數：25 / 頁數：365 / 卷數：2 原版套數：第 14 套"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEW",
+        "created": 1646116897005,
+        "text": "【大正藏】No.1300《摩登伽經》吳 竺律炎支謙共譯 部別：密教部四 / 冊數：21 / 頁數：399 / 卷數：2 相關經典：縮-宿6,卍-16.2 參考資料：No.1301;cf.Nos.551,552"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEX",
+        "created": 1646116897005,
+        "text": "【佛教大藏經】No.639《摩豋伽經》吳 竺律炎．支謙共譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：59 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEY",
+        "created": 1646116897005,
+        "text": "【中華藏】No.828《摩登伽經》吳天竺三藏竺律炎共支謙譯 冊數：34 / 頁數：449 / 卷數：2 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEZ",
+        "created": 1646116897005,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEa",
+        "created": 1646116897005,
+        "text": "【南條文雄編號】 Nj. 0645"
+       }},
+       {"data": {
+        "id": "z5cYxYLJEb",
+        "created": 1646116897005,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1300"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5mp3bwbw",
+     "created": 1646268496900,
+     "text": "布頓目錄（釋迦光譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3btbS",
+       "created": 1646268496897,
+       "text": "布頓編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbT",
+       "created": 1646268496897,
+       "text": "Bt.0078"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbU",
+       "created": 1646268496897,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbV",
+       "created": 1646268496897,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbW",
+       "created": 1646268496897,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbX",
+       "created": 1646268496897,
+       "text": "སྟག་སྣའི་རྟོགས་པ་བརྗོད་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbY",
+       "created": 1646268496897,
+       "text": "漢譯經名"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3btbZ",
+        "created": 1646268496897,
+        "text": "摩登伽經"
+       }},
+       {"data": {
+        "id": "z5mp3btba",
+        "created": 1646268496897,
+        "text": "虎耳因緣經",
+        "resource": ["alias"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbb",
+       "created": 1646268496897,
+       "text": "卷　　數"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbc",
+       "created": 1646268496897,
+       "text": "2卷"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbd",
+       "created": 1646268496897,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3btbe",
+        "created": 1646268496897,
+        "text": "釋迦光譯"
+       }},
+       {"data": {
+        "id": "z5mp3btbf",
+        "created": 1646268496897,
+        "text": "釋迦光",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbg",
+       "created": 1646268496897,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbh",
+       "created": 1646268496897,
+       "text": "215"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbi",
+       "created": 1646268496897,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbj",
+       "created": 1646268496897,
+       "text": "70-012"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbk",
+       "created": 1646268496897,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbl",
+       "created": 1646268496897,
+       "text": "Th.0358"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3btbm",
+       "created": 1646268496897,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3btbn",
+       "created": 1646268496897,
+       "text": "T.1300"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3bubo",
+       "created": 1646268496898,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3bubp",
+       "created": 1646268496898,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3bubq",
+       "created": 1646268496898,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3bubr",
+       "created": 1646268496898,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3bubs",
+       "created": 1646268496898,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3bubt",
+       "created": 1646268496898,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3bubu",
+       "created": 1646268496898,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3bubv",
+       "created": 1646268496898,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -334,6 +531,9 @@
   "id": "l07rhyp813f",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }

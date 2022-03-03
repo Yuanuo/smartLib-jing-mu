@@ -1,349 +1,538 @@
 {
  "root": {
   "data": {"text": "長爪梵志請問經"},
-  "children": [{
-   "data": {
-    "id": "z5cYx059BB",
-    "created": 1646116894881,
-    "text": "現藏錄（唐 義淨譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx059BB",
+     "created": 1646116894881,
+     "text": "現藏錄（唐 義淨譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx049AF",
+       "created": 1646116894880,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx049AG",
+         "created": 1646116894880,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx049AH",
+         "created": 1646116894880,
+         "text": "長爪梵志請問經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx049AI",
+         "created": 1646116894880,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx049AJ",
+         "created": 1646116894880,
+         "text": "长爪梵志请问经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx049AK",
+         "created": 1646116894880,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx049AL",
+         "created": 1646116894880,
+         "text": "chang zhao fan zhi qing wen jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx049AT",
+         "created": 1646116894880,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx049AU",
+         "created": 1646116894880,
+         "text": "Ch'ang chao fan chih ch'ing wen ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx049AV",
+         "created": 1646116894880,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx049AW",
+         "created": 1646116894880,
+         "text": "Dīrghanakhaparivrājakaparipṛcchā(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx049AX",
+         "created": 1646116894880,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx049AY",
+         "created": 1646116894880,
+         "text": "Kun-tu-rgyu-pa sen-riṅs-kyis shus-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx049AZ",
+         "created": 1646116894880,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx049Aa",
+         "created": 1646116894880,
+         "text": "장조범지청문경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx049AM",
+       "created": 1646116894880,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx049AN",
+       "created": 1646116894880,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx049AO",
+       "created": 1646116894880,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx049AP",
+        "created": 1646116894880,
+        "text": "唐 義淨譯"
+       }},
+       {"data": {
+        "id": "z5cYx049AQ",
+        "created": 1646116894880,
+        "text": "義淨",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx049AR",
+       "created": 1646116894880,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx049AS",
+       "created": 1646116894880,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx049Ab",
+       "created": 1646116894880,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx049Ac",
+       "created": 1646116894880,
+       "text": "Translation by I-ching: 23rd day, 12th month, 1st year of Chiu Shih (久視), T'ang dynasty (唐) (February 5th, A.D. 701) in Ta-fu-hsien Monastery (大福先寺), Tung-tu (東都)T. 2154-567c:22. or the 23rd day, 11th month, 1st year of Chiu Shih (久視).T. 2157-868b:8."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx049Ad",
+       "created": 1646116894880,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx049Ae",
+        "created": 1646116894880,
+        "text": "【北京版】Mdo-sna-tshogs (hu)302b-304a"
+       }},
+       {"data": {
+        "id": "z5cYx049Af",
+        "created": 1646116894880,
+        "text": "【奈塘版】Mdo (sa)464b-466b"
+       }},
+       {"data": {
+        "id": "z5cYx049Ag",
+        "created": 1646116894880,
+        "text": "【德格版】Mdo-sde (A)298b-300a"
+       }},
+       {"data": {
+        "id": "z5cYx049Ah",
+        "created": 1646116894880,
+        "text": "【拉薩版】Mdo (sa)476b-478b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx049Ai",
+       "created": 1646116894880,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx049Aj",
+       "created": 1646116894880,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx049Ak",
+       "created": 1646116894880,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx049Al",
+        "created": 1646116894880,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx049Am",
+        "created": 1646116894880,
+        "text": "【開寶藏】No.880《長爪梵志請問經》唐 三藏義淨 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
+       }},
+       {"data": {
+        "id": "z5cYx049An",
+        "created": 1646116894880,
+        "text": "【崇寧藏】No.881《長爪梵志請問經》 卷數：1 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYx049Ao",
+        "created": 1646116894880,
+        "text": "【毘盧藏】No.882《梵志請問經》唐義淨譯 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYx049Ap",
+        "created": 1646116894880,
+        "text": "【圓覺藏】No.890《梵志請問經》 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYx049Aq",
+        "created": 1646116894880,
+        "text": "【趙城金藏】No.872《長爪梵志請問經》 卷數：1 千字文：竟"
+       }},
+       {"data": {
+        "id": "z5cYx049Ar",
+        "created": 1646116894880,
+        "text": "【資福藏】No.896《梵志請問經》 卷數：1 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYx049As",
+        "created": 1646116894880,
+        "text": "【磧砂藏】No.904《長爪梵志請問經》唐 義淨譯 部別：小乘單譯經 / 冊數：20 / 頁數：167 / 卷數：1 千字文：學 7 (305)"
+       }},
+       {"data": {
+        "id": "z5cYx049At",
+        "created": 1646116894880,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx049Au",
+        "created": 1646116894880,
+        "text": "【高麗藏】No.869《長爪梵志請問經》三藏法師義淨奉制譯 部別：小乘經 單譯 / 冊數：20 頁數：1237(原版) 653(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
+       }},
+       {"data": {
+        "id": "z5cYx049Av",
+        "created": 1646116894880,
+        "text": "【普寧藏】No.896《長爪梵志請問經》 卷數：1 千字文：學(305)"
+       }},
+       {"data": {
+        "id": "z5cYx049Aw",
+        "created": 1646116894880,
+        "text": "【至元錄】No.1123《長爪梵志請問經》唐天后代三藏義淨譯 卷數：1 千字文：和(330)"
+       }},
+       {"data": {
+        "id": "z5cYx049Ax",
+        "created": 1646116894880,
+        "text": "【洪武南藏】No.807《佛說梵志請問經》唐 三藏法師義淨 奉制譯 冊數：106 / 頁數：510 / 卷數：1 千字文：斈 8 (305)"
+       }},
+       {"data": {
+        "id": "z5cYx049Ay",
+        "created": 1646116894880,
+        "text": "【永樂南藏】No.771《長爪梵志請問經》 部別：小乘經-單譯經 千字文：當(250)"
+       }},
+       {"data": {
+        "id": "z5cYx049Az",
+        "created": 1646116894880,
+        "text": "【永樂北藏】No.766《長爪梵志請問經》唐義淨譯 部別：小乘經單譯經 / 冊數：66 / 頁數：577 / 卷數：1 千字文：當"
+       }},
+       {"data": {
+        "id": "z5cYx049B0",
+        "created": 1646116894880,
+        "text": "【嘉興藏】No.729《長爪梵志請問經》唐義淨譯 部別：小乘經-單譯經 / 法寶總目錄經號：0729 千字文 / 函號：［正藏］ 當(250)"
+       }},
+       {"data": {
+        "id": "z5cYx049B1",
+        "created": 1646116894880,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx049B2",
+        "created": 1646116894880,
+        "text": "【乾隆藏】No.730《長爪梵志請問經》唐 義淨譯 部別：小乘單譯經 / 冊數：56 / 頁數：55 / 卷數：1 千字文：當"
+       }},
+       {"data": {
+        "id": "z5cYx049B3",
+        "created": 1646116894880,
+        "text": "【縮刻藏】No.681《長爪梵志請問經》唐義淨譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
+       }},
+       {"data": {
+        "id": "z5cYx049B4",
+        "created": 1646116894880,
+        "text": "【卍正藏】No.738《長爪梵志請問經》大唐 義淨譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：78 / 卷數：1 原版套數：第 15 套"
+       }},
+       {"data": {
+        "id": "z5cYx049B5",
+        "created": 1646116894880,
+        "text": "【大正藏】No.584《長爪梵志請問經》唐 義淨譯 部別：經集部一 / 冊數：14 / 頁數：968 / 卷數：1 相關經典：縮-宿7,卍-15.1 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYx049B6",
+        "created": 1646116894880,
+        "text": "【佛教大藏經】No.701《長爪梵志請問經》唐 義淨譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：341 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx049B7",
+        "created": 1646116894880,
+        "text": "【中華藏】No.947《長爪梵志請問經》大唐三藏法師義淨奉制譯 冊數：36 / 頁數：432 / 卷數：1 / 底本：麗藏本"
+       }},
+       {"data": {
+        "id": "z5cYx049B8",
+        "created": 1646116894880,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx049B9",
+        "created": 1646116894880,
+        "text": "【南條文雄編號】 Nj. 0734"
+       }},
+       {"data": {
+        "id": "z5cYx049BA",
+        "created": 1646116894880,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：584"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYx049AF",
-      "created": 1646116894880,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYx049AG",
-        "created": 1646116894880,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx049AH",
-        "created": 1646116894880,
-        "text": "長爪梵志請問經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5mp3cAct",
+     "created": 1646268496914,
+     "text": "布頓目錄（吉祥積譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3c7cQ",
+       "created": 1646268496911,
+       "text": "布頓編號"
       },
-      {
-       "data": {
-        "id": "z5cYx049AI",
-        "created": 1646116894880,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx049AJ",
-        "created": 1646116894880,
-        "text": "长爪梵志请问经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3c7cR",
+       "created": 1646268496911,
+       "text": "Bt.0080"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3c7cS",
+       "created": 1646268496911,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYx049AK",
-        "created": 1646116894880,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYx049AL",
-        "created": 1646116894880,
-        "text": "chang zhao fan zhi qing wen jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3c7cT",
+       "created": 1646268496911,
+       "text": "Ym.229"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3c7cU",
+       "created": 1646268496911,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYx049AT",
-        "created": 1646116894880,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYx049AU",
-        "created": 1646116894880,
-        "text": "Ch'ang chao fan chih ch'ing wen ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3c7cV",
+       "created": 1646268496911,
+       "text": "ཀུན་ཏུ་རྒྱུ་སེན་རིང་གྱིས་ཞུས་པའི་མདོ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3c7cW",
+       "created": 1646268496911,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYx049AV",
-        "created": 1646116894880,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx049AW",
-        "created": 1646116894880,
-        "text": "Dīrghanakhaparivrājakaparipṛcchā(sūtra)",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3c7cX",
+       "created": 1646268496911,
+       "text": "長爪梵志請問經"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3c7cY",
+       "created": 1646268496911,
+       "text": "卷　　數"
       },
-      {
-       "data": {
-        "id": "z5cYx049AX",
-        "created": 1646116894880,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx049AY",
-        "created": 1646116894880,
-        "text": "Kun-tu-rgyu-pa sen-riṅs-kyis shus-pa"
-       }}]
+      "children": [{"data": {
+       "id": "z5mp3c7cZ",
+       "created": 1646268496911,
+       "text": "37頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3c7ca",
+       "created": 1646268496911,
+       "text": "作／譯者"
       },
-      {
-       "data": {
-        "id": "z5cYx049AZ",
-        "created": 1646116894880,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx049Aa",
-        "created": 1646116894880,
-        "text": "장조범지청문경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx049AM",
-      "created": 1646116894880,
-      "text": "时域"
+      "children": [
+       {"data": {
+        "id": "z5mp3c7cb",
+        "created": 1646268496911,
+        "text": "吉祥積譯"
+       }},
+       {"data": {
+        "id": "z5mp3c7cc",
+        "created": 1646268496911,
+        "text": "吉祥積",
+        "resource": ["translator"]
+       }}
+      ]
      },
-     "children": [{"data": {
-      "id": "z5cYx049AN",
-      "created": 1646116894880,
-      "text": "唐",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx049AO",
-      "created": 1646116894880,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5mp3c7cd",
+       "created": 1646268496911,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3c7ce",
+       "created": 1646268496911,
+       "text": "215"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx049AP",
-       "created": 1646116894880,
-       "text": "唐 義淨譯"
-      }},
-      {"data": {
-       "id": "z5cYx049AQ",
-       "created": 1646116894880,
-       "text": "義淨",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx049AR",
-      "created": 1646116894880,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5mp3c7cf",
+       "created": 1646268496911,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3c7cg",
+       "created": 1646268496911,
+       "text": "70-012"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx049AS",
-      "created": 1646116894880,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx049Ab",
-      "created": 1646116894880,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5mp3c7ch",
+       "created": 1646268496911,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3c7ci",
+       "created": 1646268496911,
+       "text": "Th.0342"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx049Ac",
-      "created": 1646116894880,
-      "text": "Translation by I-ching: 23rd day, 12th month, 1st year of Chiu Shih (久視), T'ang dynasty (唐) (February 5th, A.D. 701) in Ta-fu-hsien Monastery (大福先寺), Tung-tu (東都)T. 2154-567c:22. or the 23rd day, 11th month, 1st year of Chiu Shih (久視).T. 2157-868b:8."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx049Ad",
-      "created": 1646116894880,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5mp3c7cj",
+       "created": 1646268496911,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3c7ck",
+       "created": 1646268496911,
+       "text": "T.0584"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx049Ae",
-       "created": 1646116894880,
-       "text": "【北京版】Mdo-sna-tshogs (hu)302b-304a"
-      }},
-      {"data": {
-       "id": "z5cYx049Af",
-       "created": 1646116894880,
-       "text": "【奈塘版】Mdo (sa)464b-466b"
-      }},
-      {"data": {
-       "id": "z5cYx049Ag",
-       "created": 1646116894880,
-       "text": "【德格版】Mdo-sde (A)298b-300a"
-      }},
-      {"data": {
-       "id": "z5cYx049Ah",
-       "created": 1646116894880,
-       "text": "【拉薩版】Mdo (sa)476b-478b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx049Ai",
-      "created": 1646116894880,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5mp3c7cl",
+       "created": 1646268496911,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3c7cm",
+       "created": 1646268496911,
+       "text": "Y.1123"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx049Aj",
-      "created": 1646116894880,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx049Ak",
-      "created": 1646116894880,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5mp3c7cn",
+       "created": 1646268496911,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3c8co",
+       "created": 1646268496912,
+       "text": "同"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx049Al",
-       "created": 1646116894880,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx049Am",
-       "created": 1646116894880,
-       "text": "【開寶藏】No.880《長爪梵志請問經》唐 三藏義淨 譯 部別：小乘經 小乘經單譯 / 卷數：1 千字文：優"
-      }},
-      {"data": {
-       "id": "z5cYx049An",
-       "created": 1646116894880,
-       "text": "【崇寧藏】No.881《長爪梵志請問經》 卷數：1 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYx049Ao",
-       "created": 1646116894880,
-       "text": "【毘盧藏】No.882《梵志請問經》唐義淨譯 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYx049Ap",
-       "created": 1646116894880,
-       "text": "【圓覺藏】No.890《梵志請問經》 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYx049Aq",
-       "created": 1646116894880,
-       "text": "【趙城金藏】No.872《長爪梵志請問經》 卷數：1 千字文：竟"
-      }},
-      {"data": {
-       "id": "z5cYx049Ar",
-       "created": 1646116894880,
-       "text": "【資福藏】No.896《梵志請問經》 卷數：1 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYx049As",
-       "created": 1646116894880,
-       "text": "【磧砂藏】No.904《長爪梵志請問經》唐 義淨譯 部別：小乘單譯經 / 冊數：20 / 頁數：167 / 卷數：1 千字文：學 7 (305)"
-      }},
-      {"data": {
-       "id": "z5cYx049At",
-       "created": 1646116894880,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx049Au",
-       "created": 1646116894880,
-       "text": "【高麗藏】No.869《長爪梵志請問經》三藏法師義淨奉制譯 部別：小乘經 單譯 / 冊數：20 頁數：1237(原版) 653(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竟"
-      }},
-      {"data": {
-       "id": "z5cYx049Av",
-       "created": 1646116894880,
-       "text": "【普寧藏】No.896《長爪梵志請問經》 卷數：1 千字文：學(305)"
-      }},
-      {"data": {
-       "id": "z5cYx049Aw",
-       "created": 1646116894880,
-       "text": "【至元錄】No.1123《長爪梵志請問經》唐天后代三藏義淨譯 卷數：1 千字文：和(330)"
-      }},
-      {"data": {
-       "id": "z5cYx049Ax",
-       "created": 1646116894880,
-       "text": "【洪武南藏】No.807《佛說梵志請問經》唐 三藏法師義淨 奉制譯 冊數：106 / 頁數：510 / 卷數：1 千字文：斈 8 (305)"
-      }},
-      {"data": {
-       "id": "z5cYx049Ay",
-       "created": 1646116894880,
-       "text": "【永樂南藏】No.771《長爪梵志請問經》 部別：小乘經-單譯經 千字文：當(250)"
-      }},
-      {"data": {
-       "id": "z5cYx049Az",
-       "created": 1646116894880,
-       "text": "【永樂北藏】No.766《長爪梵志請問經》唐義淨譯 部別：小乘經單譯經 / 冊數：66 / 頁數：577 / 卷數：1 千字文：當"
-      }},
-      {"data": {
-       "id": "z5cYx049B0",
-       "created": 1646116894880,
-       "text": "【嘉興藏】No.729《長爪梵志請問經》唐義淨譯 部別：小乘經-單譯經 / 法寶總目錄經號：0729 千字文 / 函號：［正藏］ 當(250)"
-      }},
-      {"data": {
-       "id": "z5cYx049B1",
-       "created": 1646116894880,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx049B2",
-       "created": 1646116894880,
-       "text": "【乾隆藏】No.730《長爪梵志請問經》唐 義淨譯 部別：小乘單譯經 / 冊數：56 / 頁數：55 / 卷數：1 千字文：當"
-      }},
-      {"data": {
-       "id": "z5cYx049B3",
-       "created": 1646116894880,
-       "text": "【縮刻藏】No.681《長爪梵志請問經》唐義淨譯 部別：小乘經 / 卷數：1 千字文：宿 7 (14)"
-      }},
-      {"data": {
-       "id": "z5cYx049B4",
-       "created": 1646116894880,
-       "text": "【卍正藏】No.738《長爪梵志請問經》大唐 義淨譯 部別：小乘經 單譯經 / 冊數：27 / 頁數：78 / 卷數：1 原版套數：第 15 套"
-      }},
-      {"data": {
-       "id": "z5cYx049B5",
-       "created": 1646116894880,
-       "text": "【大正藏】No.584《長爪梵志請問經》唐 義淨譯 部別：經集部一 / 冊數：14 / 頁數：968 / 卷數：1 相關經典：縮-宿7,卍-15.1 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYx049B6",
-       "created": 1646116894880,
-       "text": "【佛教大藏經】No.701《長爪梵志請問經》唐 義淨譯 部別：小乘經 經集部二 / 冊數：28 / 頁數：341 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYx049B7",
-       "created": 1646116894880,
-       "text": "【中華藏】No.947《長爪梵志請問經》大唐三藏法師義淨奉制譯 冊數：36 / 頁數：432 / 卷數：1 / 底本：麗藏本"
-      }},
-      {"data": {
-       "id": "z5cYx049B8",
-       "created": 1646116894880,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx049B9",
-       "created": 1646116894880,
-       "text": "【南條文雄編號】 Nj. 0734"
-      }},
-      {"data": {
-       "id": "z5cYx049BA",
-       "created": 1646116894880,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：584"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5mp3c8cp",
+       "created": 1646268496912,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3c8cq",
+       "created": 1646268496912,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3c8cr",
+       "created": 1646268496912,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3c8cs",
+       "created": 1646268496912,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -352,6 +541,9 @@
   "id": "l07rhx28i8",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "布頓目錄"
+  ]
  }
 }
