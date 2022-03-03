@@ -1,203 +1,407 @@
 {
  "root": {
   "data": {"text": "般若波羅蜜多十萬頌"},
-  "children": [{
-   "data": {
-    "id": "z5oVdhu3MK",
-    "created": 1646293421766,
-    "text": "登噶目錄"
+  "children": [
+   {
+    "data": {
+     "id": "z5oVdhu3MK",
+     "created": 1646293421766,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdhu3Lq",
+       "created": 1646293421766,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3Lr",
+       "created": 1646293421766,
+       "text": "Ym.515"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3Ls",
+       "created": 1646293421766,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3Lt",
+       "created": 1646293421766,
+       "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་དང།ཉི་ཁྲི་ལྔ་སྟོང་དང།ཁྲི་བརྒྱད་པ་སྟོ་པ་རྒྱ་ཆེར་བཤད་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3Lu",
+       "created": 1646293421766,
+       "text": "漢譯經名"
+      },
+      "children": [
+       {"data": {
+        "id": "z5oVdhu3Lv",
+        "created": 1646293421766,
+        "text": "般若波羅蜜多十萬頌",
+        "resource": ["alias"]
+       }},
+       {"data": {
+        "id": "z5oVdhu3M0",
+        "created": 1646293421766,
+        "text": "二萬五千頌",
+        "resource": ["alias"]
+       }},
+       {"data": {
+        "id": "z5oVdhu3M3",
+        "created": 1646293421766,
+        "text": "一萬八千頌廣疏",
+        "resource": ["alias"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3Lw",
+       "created": 1646293421766,
+       "text": "经名简体"
+      },
+      "children": [
+       {"data": {
+        "id": "z5oVdhu3Lx",
+        "created": 1646293421766,
+        "text": "般若波罗蜜多十万颂",
+        "resource": ["alias"]
+       }},
+       {"data": {
+        "id": "z5oVdhu3M1",
+        "created": 1646293421766,
+        "text": "二万五千颂",
+        "resource": ["alias"]
+       }},
+       {"data": {
+        "id": "z5oVdhu3M4",
+        "created": 1646293421766,
+        "text": "一万八千颂广疏",
+        "resource": ["alias"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3Ly",
+       "created": 1646293421766,
+       "text": "经名简拼"
+      },
+      "children": [
+       {"data": {
+        "id": "z5oVdhu3Lz",
+        "created": 1646293421766,
+        "text": "bo re bo luo mi duo shi wan song"
+       }},
+       {"data": {
+        "id": "z5oVdhu3M2",
+        "created": 1646293421766,
+        "text": "er wan wu qian song"
+       }},
+       {"data": {
+        "id": "z5oVdhu3M5",
+        "created": 1646293421766,
+        "text": "yi wan ba qian song guang shu"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3M6",
+       "created": 1646293421766,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3M7",
+       "created": 1646293421766,
+       "text": "Th.3808"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3M8",
+       "created": 1646293421766,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3M9",
+       "created": 1646293421766,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3MA",
+       "created": 1646293421766,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3MB",
+       "created": 1646293421766,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3MC",
+       "created": 1646293421766,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3MD",
+       "created": 1646293421766,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3ME",
+       "created": 1646293421766,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3MF",
+       "created": 1646293421766,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3MG",
+       "created": 1646293421766,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3MH",
+       "created": 1646293421766,
+       "text": "「སྟོ་པ」Tp.本載「སྟོ་པའི」，Ym.本作「པ」"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdhu3MI",
+       "created": 1646293421766,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdhu3MJ",
+       "created": 1646293421766,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5oVdhu3Lq",
-      "created": 1646293421766,
-      "text": "芳村編號"
-     },
-     "children": [{"data": {
-      "id": "z5oVdhu3Lr",
-      "created": 1646293421766,
-      "text": "Ym.515"
-     }}]
+   {
+    "data": {
+     "id": "z5oo2x350",
+     "created": 1646297808709,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdhu3Ls",
-      "created": 1646293421766,
-      "text": "藏文經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo2wx4U",
+       "created": 1646297808703,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo2wx4V",
+       "created": 1646297808703,
+       "text": "般若部",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdhu3Lt",
-      "created": 1646293421766,
-      "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་དང།ཉི་ཁྲི་ལྔ་སྟོང་དང།ཁྲི་བརྒྱད་པ་སྟོ་པ་རྒྱ་ཆེར་བཤད་པ།",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3Lu",
-      "created": 1646293421766,
-      "text": "漢譯經名"
+     {
+      "data": {
+       "id": "z5oo2wy4W",
+       "created": 1646297808704,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo2wy4X",
+       "created": 1646297808704,
+       "text": "通帙第14Ka-25A"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5oVdhu3Lv",
-       "created": 1646293421766,
-       "text": "般若波羅蜜多十萬頌",
-       "resource": ["alias"]
-      }},
-      {"data": {
-       "id": "z5oVdhu3M0",
-       "created": 1646293421766,
-       "text": "二萬五千頌",
-       "resource": ["alias"]
-      }},
-      {"data": {
-       "id": "z5oVdhu3M3",
-       "created": 1646293421766,
-       "text": "一萬八千頌廣疏",
-       "resource": ["alias"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3Lw",
-      "created": 1646293421766,
-      "text": "经名简体"
+     {
+      "data": {
+       "id": "z5oo2wy4Y",
+       "created": 1646297808704,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo2wy4Z",
+       "created": 1646297808704,
+       "text": "No.8"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5oVdhu3Lx",
-       "created": 1646293421766,
-       "text": "般若波罗蜜多十万颂",
-       "resource": ["alias"]
-      }},
-      {"data": {
-       "id": "z5oVdhu3M1",
-       "created": 1646293421766,
-       "text": "二万五千颂",
-       "resource": ["alias"]
-      }},
-      {"data": {
-       "id": "z5oVdhu3M4",
-       "created": 1646293421766,
-       "text": "一万八千颂广疏",
-       "resource": ["alias"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3Ly",
-      "created": 1646293421766,
-      "text": "经名简拼"
+     {
+      "data": {
+       "id": "z5oo2wy4a",
+       "created": 1646297808704,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo2wy4b",
+       "created": 1646297808704,
+       "text": "1b1-395a6"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5oVdhu3Lz",
-       "created": 1646293421766,
+     {
+      "data": {
+       "id": "z5oo2wy4c",
+       "created": 1646297808704,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo2wy4d",
+       "created": 1646297808704,
+       "text": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་བ",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo2wz4e",
+       "created": 1646297808705,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo2wz4f",
+       "created": 1646297808705,
+       "text": "Śes-rab-kyi-pha-rol-tu-phyin-pa stoṅ-phrag-brgya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo2wz4g",
+       "created": 1646297808705,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo2wz4h",
+       "created": 1646297808705,
+       "text": "般若波羅蜜多十萬頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo2x04i",
+       "created": 1646297808706,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x04j",
+       "created": 1646297808706,
+       "text": "般若波罗蜜多十万颂"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo2x04k",
+       "created": 1646297808706,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x04l",
+       "created": 1646297808706,
        "text": "bo re bo luo mi duo shi wan song"
-      }},
-      {"data": {
-       "id": "z5oVdhu3M2",
-       "created": 1646293421766,
-       "text": "er wan wu qian song"
-      }},
-      {"data": {
-       "id": "z5oVdhu3M5",
-       "created": 1646293421766,
-       "text": "yi wan ba qian song guang shu"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3M6",
-      "created": 1646293421766,
-      "text": "東北編號"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdhu3M7",
-      "created": 1646293421766,
-      "text": "Th.3808"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3M8",
-      "created": 1646293421766,
-      "text": "大谷編號"
+     {
+      "data": {
+       "id": "z5oo2x04m",
+       "created": 1646297808706,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x04n",
+       "created": 1646297808706,
+       "text": "Śatasāhasrikā-prajñāpāramitā",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdhu3M9",
-      "created": 1646293421766,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3MA",
-      "created": 1646293421766,
-      "text": "對應大正藏經號"
+     {
+      "data": {
+       "id": "z5oo2x04o",
+       "created": 1646297808706,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x04p",
+       "created": 1646297808706,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdhu3MB",
-      "created": 1646293421766,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3MC",
-      "created": 1646293421766,
-      "text": "相關至元錄編號"
+     {"data": {
+      "id": "z5oo2x14q",
+      "created": 1646297808707,
+      "text": "西藏譯師"
+     }},
+     {"data": {
+      "id": "z5oo2x14r",
+      "created": 1646297808707,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo2x14s",
+       "created": 1646297808707,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x14t",
+       "created": 1646297808707,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdhu3MD",
-      "created": 1646293421766,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3ME",
-      "created": 1646293421766,
-      "text": "蕃本同闕"
+     {
+      "data": {
+       "id": "z5oo2x14u",
+       "created": 1646297808707,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x14v",
+       "created": 1646297808707,
+       "text": "220(1)"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdhu3MF",
-      "created": 1646293421766,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3MG",
-      "created": 1646293421766,
-      "text": "校　　勘"
+     {
+      "data": {
+       "id": "z5oo2x14w",
+       "created": 1646297808707,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x14x",
+       "created": 1646297808707,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdhu3MH",
-      "created": 1646293421766,
-      "text": "「སྟོ་པ」Tp.本載「སྟོ་པའི」，Ym.本作「པ」"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdhu3MI",
-      "created": 1646293421766,
-      "text": "欄位說明",
-      "resource": ["excludes"]
-     },
-     "children": [{"data": {
-      "id": "z5oVdhu3MJ",
-      "created": 1646293421766,
-      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
-     }}]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oo2x24y",
+       "created": 1646297808708,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo2x24z",
+       "created": 1646297808708,
+       "text": "1"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -206,6 +410,9 @@
   "id": "l0aoli2tea",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["登噶目錄"]
+  "catalog": [
+   "登噶目錄",
+   "藏文大藏經目錄"
+  ]
  }
 }

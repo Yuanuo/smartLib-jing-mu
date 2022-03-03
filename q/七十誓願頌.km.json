@@ -1,163 +1,597 @@
 {
  "root": {
   "data": {"text": "聖七十誓願頌"},
-  "children": [{
-   "data": {
-    "id": "z5oVdg534k",
-    "created": 1646293421653,
-    "text": "登噶目錄"
+  "children": [
+   {
+    "data": {
+     "id": "z5oVdg534k",
+     "created": 1646293421653,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdg534M",
+       "created": 1646293421653,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534N",
+       "created": 1646293421653,
+       "text": "Ym.472"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534O",
+       "created": 1646293421653,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534P",
+       "created": 1646293421653,
+       "text": "འཕགས་པ་སྨོན་ལམ་བདུན་བཅུ་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534Q",
+       "created": 1646293421653,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534R",
+       "created": 1646293421653,
+       "text": "聖七十誓願頌",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534S",
+       "created": 1646293421653,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534T",
+       "created": 1646293421653,
+       "text": "圣七十誓愿颂",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534U",
+       "created": 1646293421653,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534V",
+       "created": 1646293421653,
+       "text": "sheng qi shi shi yuan song"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534W",
+       "created": 1646293421653,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534X",
+       "created": 1646293421653,
+       "text": "Th.4392; Th.4517"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534Y",
+       "created": 1646293421653,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534Z",
+       "created": 1646293421653,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534a",
+       "created": 1646293421653,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534b",
+       "created": 1646293421653,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534c",
+       "created": 1646293421653,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534d",
+       "created": 1646293421653,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534e",
+       "created": 1646293421653,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534f",
+       "created": 1646293421653,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534g",
+       "created": 1646293421653,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534h",
+       "created": 1646293421653,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdg534i",
+       "created": 1646293421653,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdg534j",
+       "created": 1646293421653,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5oVdg534M",
-      "created": 1646293421653,
-      "text": "芳村編號"
-     },
-     "children": [{"data": {
-      "id": "z5oVdg534N",
-      "created": 1646293421653,
-      "text": "Ym.472"
-     }}]
+   {
+    "data": {
+     "id": "z5oo6hxdhQ",
+     "created": 1646297823149,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdg534O",
-      "created": 1646293421653,
-      "text": "藏文經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo6hxdgs",
+       "created": 1646297823149,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdgt",
+       "created": 1646297823149,
+       "text": "雜部",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534P",
-      "created": 1646293421653,
-      "text": "འཕགས་པ་སྨོན་ལམ་བདུན་བཅུ་པ།",
-      "resource": ["alias"]
-     }}]
+     {
+      "data": {
+       "id": "z5oo6hxdgu",
+       "created": 1646297823149,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdgv",
+       "created": 1646297823149,
+       "text": "通帙第309Ño"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdgw",
+       "created": 1646297823149,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdgx",
+       "created": 1646297823149,
+       "text": "No.4392"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdgy",
+       "created": 1646297823149,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdgz",
+       "created": 1646297823149,
+       "text": "320b5-324a5"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdh0",
+       "created": 1646297823149,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdh1",
+       "created": 1646297823149,
+       "text": "སྨོན་ལམ་བདུན་ཅུ་པ་ཞེས་བྱ་བའི་ཚིགས་སུ་བཅད་པ",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdh2",
+       "created": 1646297823149,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdh3",
+       "created": 1646297823149,
+       "text": "Smon-lam bdun-cu-pa shes-bya-baḥi tshigs-su-bcad-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdh4",
+       "created": 1646297823149,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdh5",
+       "created": 1646297823149,
+       "text": "七十誓願頌",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdh6",
+       "created": 1646297823149,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdh7",
+       "created": 1646297823149,
+       "text": "七十誓愿颂",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdh8",
+       "created": 1646297823149,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdh9",
+       "created": 1646297823149,
+       "text": "qi shi shi yuan song"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhA",
+       "created": 1646297823149,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhB",
+       "created": 1646297823149,
+       "text": "Praṇidhānasaptati-nāma-gāthā",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhC",
+       "created": 1646297823149,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhD",
+       "created": 1646297823149,
+       "text": "Gshan-la phan-poḥi dbyaṅs dgon-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhE",
+       "created": 1646297823149,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhF",
+       "created": 1646297823149,
+       "text": "Dpal-gyi lhun-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhG",
+       "created": 1646297823149,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhH",
+       "created": 1646297823149,
+       "text": "Dharmaśrīprabha"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhI",
+       "created": 1646297823149,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhJ",
+       "created": 1646297823149,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhK",
+       "created": 1646297823149,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhL",
+       "created": 1646297823149,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhM",
+       "created": 1646297823149,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhN",
+       "created": 1646297823149,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6hxdhO",
+       "created": 1646297823149,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo6hxdhP",
+       "created": 1646297823149,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo6mjeot",
+     "created": 1646297823445,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdg534Q",
-      "created": 1646293421653,
-      "text": "漢譯經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo6mjeoL",
+       "created": 1646297823445,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoM",
+       "created": 1646297823445,
+       "text": "阿底沙小部集",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534R",
-      "created": 1646293421653,
-      "text": "聖七十誓願頌",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534S",
-      "created": 1646293421653,
-      "text": "经名简体"
+     {
+      "data": {
+       "id": "z5oo6mjeoN",
+       "created": 1646297823445,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoO",
+       "created": 1646297823445,
+       "text": "通帙第315Pho"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534T",
-      "created": 1646293421653,
-      "text": "圣七十誓愿颂",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534U",
-      "created": 1646293421653,
-      "text": "经名简拼"
+     {
+      "data": {
+       "id": "z5oo6mjeoP",
+       "created": 1646297823445,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoQ",
+       "created": 1646297823445,
+       "text": "No.4517"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534V",
-      "created": 1646293421653,
-      "text": "sheng qi shi shi yuan song"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534W",
-      "created": 1646293421653,
-      "text": "東北編號"
+     {
+      "data": {
+       "id": "z5oo6mjeoR",
+       "created": 1646297823445,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoS",
+       "created": 1646297823445,
+       "text": "125b4-129a5"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534X",
-      "created": 1646293421653,
-      "text": "Th.4392; Th.4517"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534Y",
-      "created": 1646293421653,
-      "text": "大谷編號"
+     {
+      "data": {
+       "id": "z5oo6mjeoT",
+       "created": 1646297823445,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoU",
+       "created": 1646297823445,
+       "text": "སྨོན་ལམ་བདུན་ཅུ་པ་ཞེས་བྱ་བའི་ཚིགས་སུ་བཅད་པ"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534Z",
-      "created": 1646293421653,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534a",
-      "created": 1646293421653,
-      "text": "對應大正藏經號"
+     {
+      "data": {
+       "id": "z5oo6mjeoV",
+       "created": 1646297823445,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoW",
+       "created": 1646297823445,
+       "text": "Smon-lam bdun-cu-pa shes-bya-baḥi tshigs-su-bcad-pa"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534b",
-      "created": 1646293421653,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534c",
-      "created": 1646293421653,
-      "text": "相關至元錄編號"
+     {
+      "data": {
+       "id": "z5oo6mjeoX",
+       "created": 1646297823445,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoY",
+       "created": 1646297823445,
+       "text": "七十誓願頌"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534d",
-      "created": 1646293421653,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534e",
-      "created": 1646293421653,
-      "text": "蕃本同闕"
+     {
+      "data": {
+       "id": "z5oo6mjeoZ",
+       "created": 1646297823445,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoa",
+       "created": 1646297823445,
+       "text": "七十誓愿颂"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534f",
-      "created": 1646293421653,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534g",
-      "created": 1646293421653,
-      "text": "校　　勘"
+     {
+      "data": {
+       "id": "z5oo6mjeob",
+       "created": 1646297823445,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoc",
+       "created": 1646297823445,
+       "text": "qi shi shi yuan song"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534h",
-      "created": 1646293421653,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdg534i",
-      "created": 1646293421653,
-      "text": "欄位說明",
-      "resource": ["excludes"]
+     {
+      "data": {
+       "id": "z5oo6mjeod",
+       "created": 1646297823445,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoe",
+       "created": 1646297823445,
+       "text": "Praṇidhānasaptati-nāma-gāthā"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdg534j",
-      "created": 1646293421653,
-      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
-     }}]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oo6mjeof",
+       "created": 1646297823445,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeog",
+       "created": 1646297823445,
+       "text": "Gshan-la-phan-poḥi dbayṅs dgon-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mjeoh",
+       "created": 1646297823445,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoi",
+       "created": 1646297823445,
+       "text": "Dpal-gyi lhun-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mjeoj",
+       "created": 1646297823445,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeok",
+       "created": 1646297823445,
+       "text": "Dharmaśrīprabha"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mjeol",
+       "created": 1646297823445,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeom",
+       "created": 1646297823445,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mjeon",
+       "created": 1646297823445,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoo",
+       "created": 1646297823445,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mjeop",
+       "created": 1646297823445,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeoq",
+       "created": 1646297823445,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mjeor",
+       "created": 1646297823445,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mjeos",
+       "created": 1646297823445,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -166,6 +600,9 @@
   "id": "l0aolhzpd3",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["登噶目錄"]
+  "catalog": [
+   "登噶目錄",
+   "藏文大藏經目錄"
+  ]
  }
 }

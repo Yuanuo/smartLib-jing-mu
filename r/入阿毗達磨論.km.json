@@ -1,163 +1,396 @@
 {
  "root": {
   "data": {"text": "入阿毗達磨論"},
-  "children": [{
-   "data": {
-    "id": "z5oVdq04ZO",
-    "created": 1646293422268,
-    "text": "登噶目錄"
+  "children": [
+   {
+    "data": {
+     "id": "z5oVdq04ZO",
+     "created": 1646293422268,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdq04Z0",
+       "created": 1646293422268,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04Z1",
+       "created": 1646293422268,
+       "text": "Ym.686"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04Z2",
+       "created": 1646293422268,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04Z3",
+       "created": 1646293422268,
+       "text": "ཆོས་མངོན་པ་ལ་འཇུག་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04Z4",
+       "created": 1646293422268,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04Z5",
+       "created": 1646293422268,
+       "text": "入阿毗達磨論",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04Z6",
+       "created": 1646293422268,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04Z7",
+       "created": 1646293422268,
+       "text": "入阿毗达磨论",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04Z8",
+       "created": 1646293422268,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04Z9",
+       "created": 1646293422268,
+       "text": "ru a pi da mo lun"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04ZA",
+       "created": 1646293422268,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04ZB",
+       "created": 1646293422268,
+       "text": "Th.4098"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04ZC",
+       "created": 1646293422268,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04ZD",
+       "created": 1646293422268,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04ZE",
+       "created": 1646293422268,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04ZF",
+       "created": 1646293422268,
+       "text": "T.1554"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04ZG",
+       "created": 1646293422268,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04ZH",
+       "created": 1646293422268,
+       "text": "Y.1415"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04ZI",
+       "created": 1646293422268,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04ZJ",
+       "created": 1646293422268,
+       "text": "闕"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04ZK",
+       "created": 1646293422268,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04ZL",
+       "created": 1646293422268,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdq04ZM",
+       "created": 1646293422268,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdq04ZN",
+       "created": 1646293422268,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5oVdq04Z0",
-      "created": 1646293422268,
-      "text": "芳村編號"
-     },
-     "children": [{"data": {
-      "id": "z5oVdq04Z1",
-      "created": 1646293422268,
-      "text": "Ym.686"
-     }}]
+   {
+    "data": {
+     "id": "z5oo6Xmb3j",
+     "created": 1646297822518,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdq04Z2",
-      "created": 1646293422268,
-      "text": "藏文經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo6Xlb38",
+       "created": 1646297822517,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb39",
+       "created": 1646297822517,
+       "text": "阿毘達磨部",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04Z3",
-      "created": 1646293422268,
-      "text": "ཆོས་མངོན་པ་ལ་འཇུག་པ།",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04Z4",
-      "created": 1646293422268,
-      "text": "漢譯經名"
+     {
+      "data": {
+       "id": "z5oo6Xlb3A",
+       "created": 1646297822517,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3B",
+       "created": 1646297822517,
+       "text": "通帙第249Ñu"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04Z5",
-      "created": 1646293422268,
-      "text": "入阿毗達磨論",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04Z6",
-      "created": 1646293422268,
-      "text": "经名简体"
+     {
+      "data": {
+       "id": "z5oo6Xlb3C",
+       "created": 1646297822517,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3D",
+       "created": 1646297822517,
+       "text": "No.4098"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04Z7",
-      "created": 1646293422268,
-      "text": "入阿毗达磨论",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04Z8",
-      "created": 1646293422268,
-      "text": "经名简拼"
+     {
+      "data": {
+       "id": "z5oo6Xlb3E",
+       "created": 1646297822517,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3F",
+       "created": 1646297822517,
+       "text": "302a7-323a7"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04Z9",
-      "created": 1646293422268,
-      "text": "ru a pi da mo lun"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04ZA",
-      "created": 1646293422268,
-      "text": "東北編號"
+     {
+      "data": {
+       "id": "z5oo6Xlb3G",
+       "created": 1646297822517,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3H",
+       "created": 1646297822517,
+       "text": "རབ་ཏུ་བྱེད་པ་ཆོས་མངོན་པ་ལ་འཇུག་པ་ཞེས་བྱ་བ",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04ZB",
-      "created": 1646293422268,
-      "text": "Th.4098"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04ZC",
-      "created": 1646293422268,
-      "text": "大谷編號"
+     {
+      "data": {
+       "id": "z5oo6Xlb3I",
+       "created": 1646297822517,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3J",
+       "created": 1646297822517,
+       "text": "Rab-tu-byed-pa chos mṅon-pa-la ḥjug-pa shes-bya-ba"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04ZD",
-      "created": 1646293422268,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04ZE",
-      "created": 1646293422268,
-      "text": "對應大正藏經號"
+     {
+      "data": {
+       "id": "z5oo6Xlb3K",
+       "created": 1646297822517,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3L",
+       "created": 1646297822517,
+       "text": "入阿毗達磨論"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04ZF",
-      "created": 1646293422268,
-      "text": "T.1554"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04ZG",
-      "created": 1646293422268,
-      "text": "相關至元錄編號"
+     {
+      "data": {
+       "id": "z5oo6Xlb3M",
+       "created": 1646297822517,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3N",
+       "created": 1646297822517,
+       "text": "入阿毗达磨论"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04ZH",
-      "created": 1646293422268,
-      "text": "Y.1415"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04ZI",
-      "created": 1646293422268,
-      "text": "蕃本同闕"
+     {
+      "data": {
+       "id": "z5oo6Xlb3O",
+       "created": 1646297822517,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3P",
+       "created": 1646297822517,
+       "text": "ru a pi da mo lun"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04ZJ",
-      "created": 1646293422268,
-      "text": "闕"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04ZK",
-      "created": 1646293422268,
-      "text": "校　　勘"
+     {
+      "data": {
+       "id": "z5oo6Xlb3Q",
+       "created": 1646297822517,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3R",
+       "created": 1646297822517,
+       "text": "Abhidharmāvatāraprakaraṇa-nāma",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04ZL",
-      "created": 1646293422268,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdq04ZM",
-      "created": 1646293422268,
-      "text": "欄位說明",
-      "resource": ["excludes"]
+     {
+      "data": {
+       "id": "z5oo6Xlb3S",
+       "created": 1646297822517,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3T",
+       "created": 1646297822517,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdq04ZN",
-      "created": 1646293422268,
-      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
-     }}]
-    }
-   ]
-  }]
+     {"data": {
+      "id": "z5oo6Xlb3U",
+      "created": 1646297822517,
+      "text": "西藏譯師"
+     }},
+     {"data": {
+      "id": "z5oo6Xlb3V",
+      "created": 1646297822517,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo6Xlb3W",
+       "created": 1646297822517,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3X",
+       "created": 1646297822517,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6Xlb3Y",
+       "created": 1646297822517,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3Z",
+       "created": 1646297822517,
+       "text": "1554"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6Xlb3a",
+       "created": 1646297822517,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3b",
+       "created": 1646297822517,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6Xlb3c",
+       "created": 1646297822517,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo6Xlb3d",
+       "created": 1646297822517,
+       "text": "1291"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6Xlb3e",
+       "created": 1646297822517,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5oo6Xlb3f",
+        "created": 1646297822517,
+        "text": "北京版：Mdo-ḥgrel (Mṅon-pa) (thu)393a-417a"
+       }},
+       {"data": {
+        "id": "z5oo6Xlb3g",
+        "created": 1646297822517,
+        "text": "奈塘版：Mdo-ḥgrel (thu)403b-429"
+       }},
+       {"data": {
+        "id": "z5oo6Xlb3h",
+        "created": 1646297822517,
+        "text": "德格版：Mṅon-pa (ñu)302a-323a"
+       }},
+       {"data": {
+        "id": "z5oo6Xlb3i",
+        "created": 1646297822517,
+        "text": "卓尼版：Mṅon-pa (ñu)303a-324a"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -166,6 +399,9 @@
   "id": "l0aoligrj9",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["登噶目錄"]
+  "catalog": [
+   "登噶目錄",
+   "藏文大藏經目錄"
+  ]
  }
 }

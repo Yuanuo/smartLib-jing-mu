@@ -1,0 +1,448 @@
+{
+ "root": {
+  "data": {"text": "最勝本初佛所現怛特羅王吉祥時輪"},
+  "children": [
+   {
+    "data": {
+     "id": "z5oo3Kx3ZO",
+     "created": 1646297810191,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3Kx3Yq",
+       "created": 1646297810191,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Yr",
+       "created": 1646297810191,
+       "text": "十萬怛特羅部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Ys",
+       "created": 1646297810191,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Yt",
+       "created": 1646297810191,
+       "text": "通帙第77Ka"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Yu",
+       "created": 1646297810191,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Yv",
+       "created": 1646297810191,
+       "text": "No.362"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Yw",
+       "created": 1646297810191,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Yx",
+       "created": 1646297810191,
+       "text": "22b1-128b7"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Yy",
+       "created": 1646297810191,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Yz",
+       "created": 1646297810191,
+       "text": "མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Z0",
+       "created": 1646297810191,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Z1",
+       "created": 1646297810191,
+       "text": "Mchog-gi daṅ-poḥi saṅs-rgyas-las phyuṅ-ba rgyud-kyi rgyal-po dpal dus-kyi-ḥkhor-lo shes-bya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Z2",
+       "created": 1646297810191,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Z3",
+       "created": 1646297810191,
+       "text": "最勝本初佛所現怛特羅王吉祥時輪",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Z4",
+       "created": 1646297810191,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Z5",
+       "created": 1646297810191,
+       "text": "最胜本初佛所现怛特罗王吉祥时轮",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Z6",
+       "created": 1646297810191,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Z7",
+       "created": 1646297810191,
+       "text": "zui sheng ben chu fo suo xian da te luo wang ji xiang shi lun"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3Z8",
+       "created": 1646297810191,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3Z9",
+       "created": 1646297810191,
+       "text": "Paramādibuddhoddhṛtaśrīkālacakra-nāma-tantrarāja",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3ZA",
+       "created": 1646297810191,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3ZB",
+       "created": 1646297810191,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3ZC",
+       "created": 1646297810191,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3ZD",
+       "created": 1646297810191,
+       "text": "Ḥbro śes-rab grags"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3ZE",
+       "created": 1646297810191,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3ZF",
+       "created": 1646297810191,
+       "text": "Somanātha (K)"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3ZG",
+       "created": 1646297810191,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3ZH",
+       "created": 1646297810191,
+       "text": "Śoṅ ston rdo-rje rgyal-mtshan"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3ZI",
+       "created": 1646297810191,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3ZJ",
+       "created": 1646297810191,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3ZK",
+       "created": 1646297810191,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3ZL",
+       "created": 1646297810191,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Kx3ZM",
+       "created": 1646297810191,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Kx3ZN",
+       "created": 1646297810191,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo40tCUC",
+     "created": 1646297812791,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo40tCTe",
+       "created": 1646297812791,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTf",
+       "created": 1646297812791,
+       "text": "怛特羅部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTg",
+       "created": 1646297812791,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTh",
+       "created": 1646297812791,
+       "text": "通帙第113Tha"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTi",
+       "created": 1646297812791,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTj",
+       "created": 1646297812791,
+       "text": "No.1346"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTk",
+       "created": 1646297812791,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTl",
+       "created": 1646297812791,
+       "text": "1b1-107a7"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTm",
+       "created": 1646297812791,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTn",
+       "created": 1646297812791,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTo",
+       "created": 1646297812791,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTp",
+       "created": 1646297812791,
+       "text": "Mchog-gi daṅ-poḥi saṅs-rgyas-las phyuṅ-ba rgyud-kyi rgyal-po dpal dus-kyi ḥkhor-lo shes-bya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTq",
+       "created": 1646297812791,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTr",
+       "created": 1646297812791,
+       "text": "最勝本初佛所現怛特羅王吉祥時輪"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTs",
+       "created": 1646297812791,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTt",
+       "created": 1646297812791,
+       "text": "最胜本初佛所现怛特罗王吉祥时轮"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTu",
+       "created": 1646297812791,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTv",
+       "created": 1646297812791,
+       "text": "zui sheng ben chu fo suo xian da te luo wang ji xiang shi lun"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTw",
+       "created": 1646297812791,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTx",
+       "created": 1646297812791,
+       "text": "Paramādibuddhoddhṛtaśrīkālacakra-nāma-tantrarāja"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCTy",
+       "created": 1646297812791,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCTz",
+       "created": 1646297812791,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCU0",
+       "created": 1646297812791,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCU1",
+       "created": 1646297812791,
+       "text": "Śes-rab grags"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCU2",
+       "created": 1646297812791,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCU3",
+       "created": 1646297812791,
+       "text": "Somanātha"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCU4",
+       "created": 1646297812791,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCU5",
+       "created": 1646297812791,
+       "text": "Tshul-khrms dar、Shaṅ-ston mdo-rje-dpal、Śoṅ-ston rdo-rje rgyal-mtshan"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCU6",
+       "created": 1646297812791,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCU7",
+       "created": 1646297812791,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCU8",
+       "created": 1646297812791,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCU9",
+       "created": 1646297812791,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo40tCUA",
+       "created": 1646297812791,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo40tCUB",
+       "created": 1646297812791,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7k7ia2",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

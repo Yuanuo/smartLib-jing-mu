@@ -1,0 +1,738 @@
+{
+ "root": {
+  "data": {"text": "聖八曼荼羅大乘經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5oo3G82lP",
+     "created": 1646297809892,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3G82kl",
+       "created": 1646297809892,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82km",
+       "created": 1646297809892,
+       "text": "經部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82kn",
+       "created": 1646297809892,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82ko",
+       "created": 1646297809892,
+       "text": "通帙第68Ya"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82kp",
+       "created": 1646297809892,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82kq",
+       "created": 1646297809892,
+       "text": "No.277"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82kr",
+       "created": 1646297809892,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82ks",
+       "created": 1646297809892,
+       "text": "49b6-52b6"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82kt",
+       "created": 1646297809892,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82ku",
+       "created": 1646297809892,
+       "text": "འཕགས་པ་དཀྱིལ་འཁོར་བརྒྱད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82kv",
+       "created": 1646297809892,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82kw",
+       "created": 1646297809892,
+       "text": "Ḥphags-pa dkyil-ḥkhor brgyad-pa shes-bya-ba theg-pa chen-poḥi mdo"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82kx",
+       "created": 1646297809892,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82ky",
+       "created": 1646297809892,
+       "text": "聖八曼荼羅大乘經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82kz",
+       "created": 1646297809892,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82l0",
+       "created": 1646297809892,
+       "text": "圣八曼荼罗大乘经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82l1",
+       "created": 1646297809892,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82l2",
+       "created": 1646297809892,
+       "text": "sheng ba man tu luo da cheng jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82l3",
+       "created": 1646297809892,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82l4",
+       "created": 1646297809892,
+       "text": "Ārya-aṣṭamaṇḍalaka-nāma-mahāyānasūtra",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82l5",
+       "created": 1646297809892,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82l6",
+       "created": 1646297809892,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82l7",
+       "created": 1646297809892,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82l8",
+       "created": 1646297809892,
+       "text": "Ye-śes sde"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82l9",
+       "created": 1646297809892,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82lA",
+       "created": 1646297809892,
+       "text": "Surendrabodhi"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82lB",
+       "created": 1646297809892,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82lC",
+       "created": 1646297809892,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82lD",
+       "created": 1646297809892,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82lE",
+       "created": 1646297809892,
+       "text": "430,431"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82lF",
+       "created": 1646297809892,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82lG",
+       "created": 1646297809892,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82lH",
+       "created": 1646297809892,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3G82lI",
+       "created": 1646297809892,
+       "text": "301,302"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3G82lJ",
+       "created": 1646297809892,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5oo3G82lK",
+        "created": 1646297809892,
+        "text": "北京版：Mdo-sna-tshogs (ḥu)53a-56a"
+       }},
+       {"data": {
+        "id": "z5oo3G82lL",
+        "created": 1646297809892,
+        "text": "奈塘版：Mdo (za)72a-76b"
+       }},
+       {"data": {
+        "id": "z5oo3G82lM",
+        "created": 1646297809892,
+        "text": "德格版：Mdo-sde (ya)49b-52b"
+       }},
+       {"data": {
+        "id": "z5oo3G82lN",
+        "created": 1646297809892,
+        "text": "拉薩版：Mdo (za)123a-127a"
+       }},
+       {"data": {
+        "id": "z5oo3G82lO",
+        "created": 1646297809892,
+        "text": "卓尼版：Mdo-maṅ (ya)59b-63a"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo3Wl684",
+     "created": 1646297810923,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3Wk67W",
+       "created": 1646297810922,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67X",
+       "created": 1646297810922,
+       "text": "十萬怛特羅部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67Y",
+       "created": 1646297810922,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67Z",
+       "created": 1646297810922,
+       "text": "通帙第91Ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67a",
+       "created": 1646297810922,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67b",
+       "created": 1646297810922,
+       "text": "No.644"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67c",
+       "created": 1646297810922,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67d",
+       "created": 1646297810922,
+       "text": "128a3-129a2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67e",
+       "created": 1646297810922,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67f",
+       "created": 1646297810922,
+       "text": "འཕགས་པ་དཀྱིལ་འཁོར་བརྒྱད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67g",
+       "created": 1646297810922,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67h",
+       "created": 1646297810922,
+       "text": "Ḥphags-pa dkyil-ḥkhor brgyad-pa shes-bya-ba theg-pa chen-poḥi mdo"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67i",
+       "created": 1646297810922,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67j",
+       "created": 1646297810922,
+       "text": "聖八曼荼羅大乘經"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67k",
+       "created": 1646297810922,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67l",
+       "created": 1646297810922,
+       "text": "圣八曼荼罗大乘经"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67m",
+       "created": 1646297810922,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67n",
+       "created": 1646297810922,
+       "text": "sheng ba man tu luo da cheng jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67o",
+       "created": 1646297810922,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67p",
+       "created": 1646297810922,
+       "text": "Ārya-aṣṭamaṇḍalaka-nāma-mahāyāna-sūtra",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67q",
+       "created": 1646297810922,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67r",
+       "created": 1646297810922,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67s",
+       "created": 1646297810922,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67t",
+       "created": 1646297810922,
+       "text": "Dānaśīla"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67u",
+       "created": 1646297810922,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67v",
+       "created": 1646297810922,
+       "text": "Jinamitra"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67w",
+       "created": 1646297810922,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67x",
+       "created": 1646297810922,
+       "text": "Ye-śes sde"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk67y",
+       "created": 1646297810922,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk67z",
+       "created": 1646297810922,
+       "text": "1167,1168A,1168B"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk680",
+       "created": 1646297810922,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk681",
+       "created": 1646297810922,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Wk682",
+       "created": 1646297810922,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Wk683",
+       "created": 1646297810922,
+       "text": "981,880"
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo3h48JG",
+     "created": 1646297811562,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3h38Ib",
+       "created": 1646297811561,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Ic",
+       "created": 1646297811561,
+       "text": "陀羅尼集",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Id",
+       "created": 1646297811561,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Ie",
+       "created": 1646297811561,
+       "text": "通帙第101E"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38If",
+       "created": 1646297811561,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Ig",
+       "created": 1646297811561,
+       "text": "No.882"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Ih",
+       "created": 1646297811561,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Ii",
+       "created": 1646297811561,
+       "text": "122a2-123a2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Ij",
+       "created": 1646297811561,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Ik",
+       "created": 1646297811561,
+       "text": "འཕགས་པ་དཀྱིལ་འཁོར་བརྒྱད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Il",
+       "created": 1646297811561,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Im",
+       "created": 1646297811561,
+       "text": "Ḥphags-pa dkyil-ḥkhor brgyad-pa shes-bya-ba theg-pa chen-poḥi mdo"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38In",
+       "created": 1646297811561,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Io",
+       "created": 1646297811561,
+       "text": "聖八曼荼羅大乘經"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Ip",
+       "created": 1646297811561,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Iq",
+       "created": 1646297811561,
+       "text": "圣八曼荼罗大乘经"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Ir",
+       "created": 1646297811561,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Is",
+       "created": 1646297811561,
+       "text": "sheng ba man tu luo da cheng jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38It",
+       "created": 1646297811561,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Iu",
+       "created": 1646297811561,
+       "text": "Ārya-aṣṭamaṇḍalaka-nāma-mahāyāna-sūtra"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Iv",
+       "created": 1646297811561,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Iw",
+       "created": 1646297811561,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Ix",
+       "created": 1646297811561,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38Iy",
+       "created": 1646297811561,
+       "text": "Ye-śes sde"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38Iz",
+       "created": 1646297811561,
+       "text": "印度譯師"
+      },
+      "children": [
+       {"data": {
+        "id": "z5oo3h38J0",
+        "created": 1646297811561,
+        "text": "Jinamitra"
+       }},
+       {"data": {
+        "id": "z5oo3h38J1",
+        "created": 1646297811561,
+        "text": "Dānaśīla"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38J2",
+       "created": 1646297811561,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38J3",
+       "created": 1646297811561,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38J4",
+       "created": 1646297811561,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38J5",
+       "created": 1646297811561,
+       "text": "1167,1168A,1168B"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38J6",
+       "created": 1646297811561,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38J7",
+       "created": 1646297811561,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38J8",
+       "created": 1646297811561,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3h38J9",
+       "created": 1646297811561,
+       "text": "981,880"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3h38JA",
+       "created": 1646297811561,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5oo3h38JB",
+        "created": 1646297811561,
+        "text": "北京版：Rgyud (na)37a-38a(ḥa)119a-120a"
+       }},
+       {"data": {
+        "id": "z5oo3h38JC",
+        "created": 1646297811561,
+        "text": "奈塘版：Rgyud (da)88a-89a"
+       }},
+       {"data": {
+        "id": "z5oo3h38JD",
+        "created": 1646297811561,
+        "text": "德格版：Rgyud-ḥbum (ba)128a-129aGzuṅs-ḥdus (E)122a-123a"
+       }},
+       {"data": {
+        "id": "z5oo3h38JE",
+        "created": 1646297811561,
+        "text": "拉薩版：Rgyud (tha)40b-42a"
+       }},
+       {"data": {
+        "id": "z5oo3h38JF",
+        "created": 1646297811561,
+        "text": "卓尼版：Rgyud (na)40b-41b(ḥa)132a-133a"
+       }}
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7jz77o",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

@@ -1,0 +1,232 @@
+{
+ "root": {
+  "data": {"text": "吉祥勝樂生怛特羅大王"},
+  "children": [{
+   "data": {
+    "id": "z5oo3LW3fZ",
+    "created": 1646297810226,
+    "text": "藏文大藏經目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oo3LW3f1",
+      "created": 1646297810226,
+      "text": "部類"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3f2",
+      "created": 1646297810226,
+      "text": "十萬怛特羅部",
+      "resource": ["catalog"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3f3",
+      "created": 1646297810226,
+      "text": "函號"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3f4",
+      "created": 1646297810226,
+      "text": "通帙第78Kha"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3f5",
+      "created": 1646297810226,
+      "text": "經碼"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3f6",
+      "created": 1646297810226,
+      "text": "No.373"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3f7",
+      "created": 1646297810226,
+      "text": "原葉碼"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3f8",
+      "created": 1646297810226,
+      "text": "265a1-311a6"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3f9",
+      "created": 1646297810226,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fA",
+      "created": 1646297810226,
+      "text": "དཔལ་བདེ་མཆོག་འབྱུང་བ་ཞེས་བྱ་བའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fB",
+      "created": 1646297810226,
+      "text": "藏語羅馬轉寫經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fC",
+      "created": 1646297810226,
+      "text": "Dpal bde-mchog ḥbyuṅ-ba shes-bya-baḥi rgyud-kyi rgyal-po chen-po"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fD",
+      "created": 1646297810226,
+      "text": "中文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fE",
+      "created": 1646297810226,
+      "text": "吉祥勝樂生怛特羅大王",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fF",
+      "created": 1646297810226,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fG",
+      "created": 1646297810226,
+      "text": "吉祥胜乐生怛特罗大王",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fH",
+      "created": 1646297810226,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fI",
+      "created": 1646297810226,
+      "text": "ji xiang sheng le sheng da te luo dai wang"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fJ",
+      "created": 1646297810226,
+      "text": "梵文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fK",
+      "created": 1646297810226,
+      "text": "Śrī-mahāsambarodaya-tantrāja-nāma",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fL",
+      "created": 1646297810226,
+      "text": "造者"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fM",
+      "created": 1646297810226,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fN",
+      "created": 1646297810226,
+      "text": "西藏譯師"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fO",
+      "created": 1646297810226,
+      "text": "Smon-lam grags"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fP",
+      "created": 1646297810226,
+      "text": "印度譯師"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fQ",
+      "created": 1646297810226,
+      "text": "Gshan phan mthaḥ-yas"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fR",
+      "created": 1646297810226,
+      "text": "校訂"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fS",
+      "created": 1646297810226,
+      "text": "Gshon-nu dpal"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fT",
+      "created": 1646297810226,
+      "text": "大正藏"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fU",
+      "created": 1646297810226,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fV",
+      "created": 1646297810226,
+      "text": "巴利藏"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fW",
+      "created": 1646297810226,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo3LW3fX",
+      "created": 1646297810226,
+      "text": "南條文雄"
+     },
+     "children": [{"data": {
+      "id": "z5oo3LW3fY",
+      "created": 1646297810226,
+      "text": ""
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7k8had",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

@@ -1,0 +1,232 @@
+{
+ "root": {
+  "data": {"text": "入中觀"},
+  "children": [{
+   "data": {
+    "id": "z5oo6PEYsV",
+    "created": 1646297821988,
+    "text": "藏文大藏經目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oo6PDYrx",
+      "created": 1646297821987,
+      "text": "部類"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYry",
+      "created": 1646297821987,
+      "text": "中觀部",
+      "resource": ["catalog"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYrz",
+      "created": 1646297821987,
+      "text": "函號"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYs0",
+      "created": 1646297821987,
+      "text": "通帙第204Ḥa"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYs1",
+      "created": 1646297821987,
+      "text": "經碼"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYs2",
+      "created": 1646297821987,
+      "text": "No.3861"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYs3",
+      "created": 1646297821987,
+      "text": "原葉碼"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYs4",
+      "created": 1646297821987,
+      "text": "201b1-219a7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYs5",
+      "created": 1646297821987,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYs6",
+      "created": 1646297821987,
+      "text": "དབུ་མ་ལ་འཇུག་པ་ཞེས་བྱ་བ",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYs7",
+      "created": 1646297821987,
+      "text": "藏語羅馬轉寫經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYs8",
+      "created": 1646297821987,
+      "text": "Dbu-ma-la ḥjug-pa shes-bya-ba"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYs9",
+      "created": 1646297821987,
+      "text": "中文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsA",
+      "created": 1646297821987,
+      "text": "入中觀",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsB",
+      "created": 1646297821987,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsC",
+      "created": 1646297821987,
+      "text": "入中观",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsD",
+      "created": 1646297821987,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsE",
+      "created": 1646297821987,
+      "text": "ru zhong guan"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsF",
+      "created": 1646297821987,
+      "text": "梵文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsG",
+      "created": 1646297821987,
+      "text": "Madhyamakāvatāra-nāma",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsH",
+      "created": 1646297821987,
+      "text": "造者"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsI",
+      "created": 1646297821987,
+      "text": "Zla-ba grags-pa (Candrakīrti)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsJ",
+      "created": 1646297821987,
+      "text": "西藏譯師"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsK",
+      "created": 1646297821987,
+      "text": "Pa-tshab ñi-ma grags"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsL",
+      "created": 1646297821987,
+      "text": "印度譯師"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsM",
+      "created": 1646297821987,
+      "text": "Tilakakalaśa"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsN",
+      "created": 1646297821987,
+      "text": "校訂"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsO",
+      "created": 1646297821987,
+      "text": "Kanakavarma、Pa-tshab ñi-ma grags"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsP",
+      "created": 1646297821987,
+      "text": "大正藏"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsQ",
+      "created": 1646297821987,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsR",
+      "created": 1646297821987,
+      "text": "巴利藏"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsS",
+      "created": 1646297821987,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6PDYsT",
+      "created": 1646297821987,
+      "text": "南條文雄"
+     },
+     "children": [{"data": {
+      "id": "z5oo6PDYsU",
+      "created": 1646297821987,
+      "text": ""
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7tb72zg",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

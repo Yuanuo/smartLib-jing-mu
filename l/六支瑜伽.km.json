@@ -1,0 +1,866 @@
+{
+ "root": {
+  "data": {"text": "六支瑜伽"},
+  "children": [
+   {
+    "data": {
+     "id": "z5oo41yCeI",
+     "created": 1646297812858,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo41yCdk",
+       "created": 1646297812858,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdl",
+       "created": 1646297812858,
+       "text": "怛特羅部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCdm",
+       "created": 1646297812858,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdn",
+       "created": 1646297812858,
+       "text": "通帙第116Pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCdo",
+       "created": 1646297812858,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdp",
+       "created": 1646297812858,
+       "text": "No.1364"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCdq",
+       "created": 1646297812858,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdr",
+       "created": 1646297812858,
+       "text": "183b3-187b1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCds",
+       "created": 1646297812858,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdt",
+       "created": 1646297812858,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCdu",
+       "created": 1646297812858,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdv",
+       "created": 1646297812858,
+       "text": "Sbyor-ba yan-lag drug-pa shes-bya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCdw",
+       "created": 1646297812858,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdx",
+       "created": 1646297812858,
+       "text": "六支瑜伽",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCdy",
+       "created": 1646297812858,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCdz",
+       "created": 1646297812858,
+       "text": "六支瑜伽"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCe0",
+       "created": 1646297812858,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCe1",
+       "created": 1646297812858,
+       "text": "liu zhi yu jia"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCe2",
+       "created": 1646297812858,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCe3",
+       "created": 1646297812858,
+       "text": "Ṣaḍaṅgayoga-nāma",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCe4",
+       "created": 1646297812858,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCe5",
+       "created": 1646297812858,
+       "text": "Phyag-na rdo-rje"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCe6",
+       "created": 1646297812858,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCe7",
+       "created": 1646297812858,
+       "text": "Tiṅ-ṅe-ḥdsin bzaṅ-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCe8",
+       "created": 1646297812858,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCe9",
+       "created": 1646297812858,
+       "text": "Rab-ḥbyor shi-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCeA",
+       "created": 1646297812858,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCeB",
+       "created": 1646297812858,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCeC",
+       "created": 1646297812858,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCeD",
+       "created": 1646297812858,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCeE",
+       "created": 1646297812858,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCeF",
+       "created": 1646297812858,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo41yCeG",
+       "created": 1646297812858,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo41yCeH",
+       "created": 1646297812858,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo424Cfz",
+     "created": 1646297812864,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo424CfR",
+       "created": 1646297812864,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo424CfS",
+       "created": 1646297812864,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424CfT",
+       "created": 1646297812864,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo424CfU",
+       "created": 1646297812864,
+       "text": "通帙第116Pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424CfV",
+       "created": 1646297812864,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo424CfW",
+       "created": 1646297812864,
+       "text": "No.1367"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424CfX",
+       "created": 1646297812864,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo424CfY",
+       "created": 1646297812864,
+       "text": "198b5-207a3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424CfZ",
+       "created": 1646297812864,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfa",
+       "created": 1646297812864,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfb",
+       "created": 1646297812864,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfc",
+       "created": 1646297812864,
+       "text": "Sbyor-ba yan-lag drug-pa shes-bya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfd",
+       "created": 1646297812864,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfe",
+       "created": 1646297812864,
+       "text": "六支瑜伽"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cff",
+       "created": 1646297812864,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfg",
+       "created": 1646297812864,
+       "text": "六支瑜伽"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfh",
+       "created": 1646297812864,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfi",
+       "created": 1646297812864,
+       "text": "liu zhi yu jia"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfj",
+       "created": 1646297812864,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfk",
+       "created": 1646297812864,
+       "text": "Ṣaḍaṅgayoga-nāma"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfl",
+       "created": 1646297812864,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfm",
+       "created": 1646297812864,
+       "text": "Śrī-anupamarakṣita"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfn",
+       "created": 1646297812864,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfo",
+       "created": 1646297812864,
+       "text": "Mi mñam bzaṅ-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfp",
+       "created": 1646297812864,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfq",
+       "created": 1646297812864,
+       "text": "Vibhūticandra"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfr",
+       "created": 1646297812864,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfs",
+       "created": 1646297812864,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cft",
+       "created": 1646297812864,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfu",
+       "created": 1646297812864,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfv",
+       "created": 1646297812864,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfw",
+       "created": 1646297812864,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo424Cfx",
+       "created": 1646297812864,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo424Cfy",
+       "created": 1646297812864,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo42YCkQ",
+     "created": 1646297812894,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo42XCjt",
+       "created": 1646297812893,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCju",
+       "created": 1646297812893,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCjv",
+       "created": 1646297812893,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCjw",
+       "created": 1646297812893,
+       "text": "通帙第116Pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCjx",
+       "created": 1646297812893,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCjy",
+       "created": 1646297812893,
+       "text": "No.1375"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCjz",
+       "created": 1646297812893,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCk0",
+       "created": 1646297812893,
+       "text": "251a5-251b3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCk1",
+       "created": 1646297812893,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCk2",
+       "created": 1646297812893,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCk3",
+       "created": 1646297812893,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCk4",
+       "created": 1646297812893,
+       "text": "Rnal-ḥbyor yan-lag drug-pa shes-bya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCk5",
+       "created": 1646297812893,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCk6",
+       "created": 1646297812893,
+       "text": "六支瑜伽"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCk7",
+       "created": 1646297812893,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCk8",
+       "created": 1646297812893,
+       "text": "六支瑜伽"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCk9",
+       "created": 1646297812893,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkA",
+       "created": 1646297812893,
+       "text": "liu zhi yu jia"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCkB",
+       "created": 1646297812893,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkC",
+       "created": 1646297812893,
+       "text": "Yogaṣaḍaṅga-nāma",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCkD",
+       "created": 1646297812893,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkE",
+       "created": 1646297812893,
+       "text": "Śabari dbaṅ-phyug"
+      }}]
+     },
+     {"data": {
+      "id": "z5oo42XCkF",
+      "created": 1646297812893,
+      "text": "西藏譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo42XCkG",
+       "created": 1646297812893,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkH",
+       "created": 1646297812893,
+       "text": "Śabari dbaṅ-phyug"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCkI",
+       "created": 1646297812893,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkJ",
+       "created": 1646297812893,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCkK",
+       "created": 1646297812893,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkL",
+       "created": 1646297812893,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCkM",
+       "created": 1646297812893,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkN",
+       "created": 1646297812893,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo42XCkO",
+       "created": 1646297812893,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo42XCkP",
+       "created": 1646297812893,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo43CCr2",
+     "created": 1646297812934,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo43CCqU",
+       "created": 1646297812934,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqV",
+       "created": 1646297812934,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqW",
+       "created": 1646297812934,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqX",
+       "created": 1646297812934,
+       "text": "通帙第116Pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqY",
+       "created": 1646297812934,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqZ",
+       "created": 1646297812934,
+       "text": "No.1387"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqa",
+       "created": 1646297812934,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqb",
+       "created": 1646297812934,
+       "text": "285b5-303a3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqc",
+       "created": 1646297812934,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqd",
+       "created": 1646297812934,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqe",
+       "created": 1646297812934,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqf",
+       "created": 1646297812934,
+       "text": "Sbyor-ba yan-lag drug-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqg",
+       "created": 1646297812934,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqh",
+       "created": 1646297812934,
+       "text": "六支瑜伽"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqi",
+       "created": 1646297812934,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqj",
+       "created": 1646297812934,
+       "text": "六支瑜伽"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqk",
+       "created": 1646297812934,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCql",
+       "created": 1646297812934,
+       "text": "liu zhi yu jia"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqm",
+       "created": 1646297812934,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqn",
+       "created": 1646297812934,
+       "text": "Ṣaḍaṅgayoga",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqo",
+       "created": 1646297812934,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqp",
+       "created": 1646297812934,
+       "text": "Dpe-med bsruṅ-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqq",
+       "created": 1646297812934,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqr",
+       "created": 1646297812934,
+       "text": "Mi mñan bzaṅ-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqs",
+       "created": 1646297812934,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqt",
+       "created": 1646297812934,
+       "text": "Vibhūticandra"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqu",
+       "created": 1646297812934,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqv",
+       "created": 1646297812934,
+       "text": "Bla-gros brtan-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqw",
+       "created": 1646297812934,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqx",
+       "created": 1646297812934,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCqy",
+       "created": 1646297812934,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCqz",
+       "created": 1646297812934,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo43CCr0",
+       "created": 1646297812934,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo43CCr1",
+       "created": 1646297812934,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7m9m123",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

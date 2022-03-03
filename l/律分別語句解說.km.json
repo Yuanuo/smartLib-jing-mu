@@ -1,163 +1,381 @@
 {
  "root": {
   "data": {"text": "律分別語句解說"},
-  "children": [{
-   "data": {
-    "id": "z5oVdh43E1",
-    "created": 1646293421714,
-    "text": "登噶目錄"
+  "children": [
+   {
+    "data": {
+     "id": "z5oVdh43E1",
+     "created": 1646293421714,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdh43Dd",
+       "created": 1646293421714,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43De",
+       "created": 1646293421714,
+       "text": "Ym.495"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Df",
+       "created": 1646293421714,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Dg",
+       "created": 1646293421714,
+       "text": "འདུལ་བ་རྣམ་པར་འབྱེད་པའི་ཚིག་གི་བཤད་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dh",
+       "created": 1646293421714,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Di",
+       "created": 1646293421714,
+       "text": "律分別語句解說",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dj",
+       "created": 1646293421714,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Dk",
+       "created": 1646293421714,
+       "text": "律分别语句解说",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dl",
+       "created": 1646293421714,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Dm",
+       "created": 1646293421714,
+       "text": "lv fen bie yu ju jie shuo"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dn",
+       "created": 1646293421714,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Do",
+       "created": 1646293421714,
+       "text": "Th.4114"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dp",
+       "created": 1646293421714,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Dq",
+       "created": 1646293421714,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dr",
+       "created": 1646293421714,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Ds",
+       "created": 1646293421714,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dt",
+       "created": 1646293421714,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Du",
+       "created": 1646293421714,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dv",
+       "created": 1646293421714,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Dw",
+       "created": 1646293421714,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dx",
+       "created": 1646293421714,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43Dy",
+       "created": 1646293421714,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdh43Dz",
+       "created": 1646293421714,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdh43E0",
+       "created": 1646293421714,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5oVdh43Dd",
-      "created": 1646293421714,
-      "text": "芳村編號"
-     },
-     "children": [{"data": {
-      "id": "z5oVdh43De",
-      "created": 1646293421714,
-      "text": "Ym.495"
-     }}]
+   {
+    "data": {
+     "id": "z5oo6YJbCg",
+     "created": 1646297822551,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdh43Df",
-      "created": 1646293421714,
-      "text": "藏文經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo6YJbC8",
+       "created": 1646297822551,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbC9",
+       "created": 1646297822551,
+       "text": "律部",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Dg",
-      "created": 1646293421714,
-      "text": "འདུལ་བ་རྣམ་པར་འབྱེད་པའི་ཚིག་གི་བཤད་པ།",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dh",
-      "created": 1646293421714,
-      "text": "漢譯經名"
+     {
+      "data": {
+       "id": "z5oo6YJbCA",
+       "created": 1646297822551,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCB",
+       "created": 1646297822551,
+       "text": "通帙第259Tshu"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Di",
-      "created": 1646293421714,
-      "text": "律分別語句解說",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dj",
-      "created": 1646293421714,
-      "text": "经名简体"
+     {
+      "data": {
+       "id": "z5oo6YJbCC",
+       "created": 1646297822551,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCD",
+       "created": 1646297822551,
+       "text": "No.4114"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Dk",
-      "created": 1646293421714,
-      "text": "律分别语句解说",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dl",
-      "created": 1646293421714,
-      "text": "经名简拼"
+     {
+      "data": {
+       "id": "z5oo6YJbCE",
+       "created": 1646297822551,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCF",
+       "created": 1646297822551,
+       "text": "1b1-207a7"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Dm",
-      "created": 1646293421714,
-      "text": "lv fen bie yu ju jie shuo"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dn",
-      "created": 1646293421714,
-      "text": "東北編號"
+     {
+      "data": {
+       "id": "z5oo6YJbCG",
+       "created": 1646297822551,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCH",
+       "created": 1646297822551,
+       "text": "འདུལ་བ་རྣམ་པར་འབྱེད་པའི་ཚིག་རྣམ་པར་བཤད་པ",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Do",
-      "created": 1646293421714,
-      "text": "Th.4114"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dp",
-      "created": 1646293421714,
-      "text": "大谷編號"
+     {
+      "data": {
+       "id": "z5oo6YJbCI",
+       "created": 1646297822551,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCJ",
+       "created": 1646297822551,
+       "text": "Ḥdul-ba rnam-par-ḥbyed-paḥi tshig rnam-par bśad-pa"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Dq",
-      "created": 1646293421714,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dr",
-      "created": 1646293421714,
-      "text": "對應大正藏經號"
+     {
+      "data": {
+       "id": "z5oo6YJbCK",
+       "created": 1646297822551,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCL",
+       "created": 1646297822551,
+       "text": "律分別語句解說"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Ds",
-      "created": 1646293421714,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dt",
-      "created": 1646293421714,
-      "text": "相關至元錄編號"
+     {
+      "data": {
+       "id": "z5oo6YJbCM",
+       "created": 1646297822551,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCN",
+       "created": 1646297822551,
+       "text": "律分别语句解说"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Du",
-      "created": 1646293421714,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dv",
-      "created": 1646293421714,
-      "text": "蕃本同闕"
+     {
+      "data": {
+       "id": "z5oo6YJbCO",
+       "created": 1646297822551,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCP",
+       "created": 1646297822551,
+       "text": "lv fen bie yu ju jie shuo"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Dw",
-      "created": 1646293421714,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dx",
-      "created": 1646293421714,
-      "text": "校　　勘"
+     {
+      "data": {
+       "id": "z5oo6YJbCQ",
+       "created": 1646297822551,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCR",
+       "created": 1646297822551,
+       "text": "Vinayavibhaṅgapadavyākhyāna",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43Dy",
-      "created": 1646293421714,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdh43Dz",
-      "created": 1646293421714,
-      "text": "欄位說明",
-      "resource": ["excludes"]
+     {
+      "data": {
+       "id": "z5oo6YJbCS",
+       "created": 1646297822551,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCT",
+       "created": 1646297822551,
+       "text": "Dul-ba lha (Vinītadeva)"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdh43E0",
-      "created": 1646293421714,
-      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
-     }}]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oo6YJbCU",
+       "created": 1646297822551,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCV",
+       "created": 1646297822551,
+       "text": "kluḥi rgyal-mtshan"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6YJbCW",
+       "created": 1646297822551,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCX",
+       "created": 1646297822551,
+       "text": "Jinamitra"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6YJbCY",
+       "created": 1646297822551,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCZ",
+       "created": 1646297822551,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6YJbCa",
+       "created": 1646297822551,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCb",
+       "created": 1646297822551,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6YJbCc",
+       "created": 1646297822551,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCd",
+       "created": 1646297822551,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6YJbCe",
+       "created": 1646297822551,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo6YJbCf",
+       "created": 1646297822551,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -166,6 +384,9 @@
   "id": "l0aoli1edq",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["登噶目錄"]
+  "catalog": [
+   "登噶目錄",
+   "藏文大藏經目錄"
+  ]
  }
 }

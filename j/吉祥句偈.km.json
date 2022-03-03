@@ -1,162 +1,365 @@
 {
  "root": {
   "data": {"text": "吉祥句偈"},
-  "children": [{
-   "data": {
-    "id": "z5oVdgL37A",
-    "created": 1646293421669,
-    "text": "登噶目錄"
+  "children": [
+   {
+    "data": {
+     "id": "z5oVdgL37A",
+     "created": 1646293421669,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdgL36m",
+       "created": 1646293421669,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL36n",
+       "created": 1646293421669,
+       "text": "Ym.478"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL36o",
+       "created": 1646293421669,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL36p",
+       "created": 1646293421669,
+       "text": "ཤེས་པ་བརྗོད་པའི་ཚིགསུ་བཅད་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL36q",
+       "created": 1646293421669,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL36r",
+       "created": 1646293421669,
+       "text": "吉祥句偈",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL36s",
+       "created": 1646293421669,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL36t",
+       "created": 1646293421669,
+       "text": "吉祥句偈"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL36u",
+       "created": 1646293421669,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL36v",
+       "created": 1646293421669,
+       "text": "ji xiang ju ji"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL36w",
+       "created": 1646293421669,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL36x",
+       "created": 1646293421669,
+       "text": "Th.1107"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL36y",
+       "created": 1646293421669,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL36z",
+       "created": 1646293421669,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL370",
+       "created": 1646293421669,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL371",
+       "created": 1646293421669,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL372",
+       "created": 1646293421669,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL373",
+       "created": 1646293421669,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL374",
+       "created": 1646293421669,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL375",
+       "created": 1646293421669,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL376",
+       "created": 1646293421669,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL377",
+       "created": 1646293421669,
+       "text": "「ཤིས་པ」Tp.本載「ཤིས་པར」、「ཚིགས་སུ」Ym.本載「ཚིགསུ」"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdgL378",
+       "created": 1646293421669,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdgL379",
+       "created": 1646293421669,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5oVdgL36m",
-      "created": 1646293421669,
-      "text": "芳村編號"
-     },
-     "children": [{"data": {
-      "id": "z5oVdgL36n",
-      "created": 1646293421669,
-      "text": "Ym.478"
-     }}]
+   {
+    "data": {
+     "id": "z5oo3quALP",
+     "created": 1646297812172,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdgL36o",
-      "created": 1646293421669,
-      "text": "藏文經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3quAKt",
+       "created": 1646297812172,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAKu",
+       "created": 1646297812172,
+       "text": "陀羅尼集",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL36p",
-      "created": 1646293421669,
-      "text": "ཤེས་པ་བརྗོད་པའི་ཚིགསུ་བཅད་པ།",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL36q",
-      "created": 1646293421669,
-      "text": "漢譯經名"
+     {
+      "data": {
+       "id": "z5oo3quAKv",
+       "created": 1646297812172,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAKw",
+       "created": 1646297812172,
+       "text": "通帙第102Wam"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL36r",
-      "created": 1646293421669,
-      "text": "吉祥句偈",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL36s",
-      "created": 1646293421669,
-      "text": "经名简体"
+     {
+      "data": {
+       "id": "z5oo3quAKx",
+       "created": 1646297812172,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAKy",
+       "created": 1646297812172,
+       "text": "No.1107"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL36t",
-      "created": 1646293421669,
-      "text": "吉祥句偈"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL36u",
-      "created": 1646293421669,
-      "text": "经名简拼"
+     {
+      "data": {
+       "id": "z5oo3quAKz",
+       "created": 1646297812172,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAL0",
+       "created": 1646297812172,
+       "text": "275b7-278a2"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL36v",
-      "created": 1646293421669,
-      "text": "ji xiang ju ji"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL36w",
-      "created": 1646293421669,
-      "text": "東北編號"
+     {
+      "data": {
+       "id": "z5oo3quAL1",
+       "created": 1646297812172,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAL2",
+       "created": 1646297812172,
+       "text": "ཤིས་པར་བརྗོད་པའི་ཚིགས་སུ་བཅད་པ",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL36x",
-      "created": 1646293421669,
-      "text": "Th.1107"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL36y",
-      "created": 1646293421669,
-      "text": "大谷編號"
+     {
+      "data": {
+       "id": "z5oo3quAL3",
+       "created": 1646297812172,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAL4",
+       "created": 1646297812172,
+       "text": "Śis-par-brjod-paḥi tshigs-su-bcad-pa"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL36z",
-      "created": 1646293421669,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL370",
-      "created": 1646293421669,
-      "text": "對應大正藏經號"
+     {
+      "data": {
+       "id": "z5oo3quAL5",
+       "created": 1646297812172,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAL6",
+       "created": 1646297812172,
+       "text": "吉祥句偈"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL371",
-      "created": 1646293421669,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL372",
-      "created": 1646293421669,
-      "text": "相關至元錄編號"
+     {
+      "data": {
+       "id": "z5oo3quAL7",
+       "created": 1646297812172,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quAL8",
+       "created": 1646297812172,
+       "text": "吉祥句偈"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL373",
-      "created": 1646293421669,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL374",
-      "created": 1646293421669,
-      "text": "蕃本同闕"
+     {
+      "data": {
+       "id": "z5oo3quAL9",
+       "created": 1646297812172,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quALA",
+       "created": 1646297812172,
+       "text": "ji xiang ju ji"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL375",
-      "created": 1646293421669,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL376",
-      "created": 1646293421669,
-      "text": "校　　勘"
+     {
+      "data": {
+       "id": "z5oo3quALB",
+       "created": 1646297812172,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quALC",
+       "created": 1646297812172,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL377",
-      "created": 1646293421669,
-      "text": "「ཤིས་པ」Tp.本載「ཤིས་པར」、「ཚིགས་སུ」Ym.本載「ཚིགསུ」"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdgL378",
-      "created": 1646293421669,
-      "text": "欄位說明",
-      "resource": ["excludes"]
+     {
+      "data": {
+       "id": "z5oo3quALD",
+       "created": 1646297812172,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quALE",
+       "created": 1646297812172,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdgL379",
-      "created": 1646293421669,
-      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
-     }}]
-    }
-   ]
-  }]
+     {"data": {
+      "id": "z5oo3quALF",
+      "created": 1646297812172,
+      "text": "西藏譯師"
+     }},
+     {"data": {
+      "id": "z5oo3quALG",
+      "created": 1646297812172,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo3quALH",
+       "created": 1646297812172,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quALI",
+       "created": 1646297812172,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3quALJ",
+       "created": 1646297812172,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quALK",
+       "created": 1646297812172,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3quALL",
+       "created": 1646297812172,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quALM",
+       "created": 1646297812172,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3quALN",
+       "created": 1646297812172,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3quALO",
+       "created": 1646297812172,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -165,6 +368,9 @@
   "id": "l0aoli04d9",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["登噶目錄"]
+  "catalog": [
+   "登噶目錄",
+   "藏文大藏經目錄"
+  ]
  }
 }

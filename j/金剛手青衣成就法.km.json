@@ -1,0 +1,846 @@
+{
+ "root": {
+  "data": {"text": "聖金剛手青衣成就法"},
+  "children": [
+   {
+    "data": {
+     "id": "z5oo4lEJpy",
+     "created": 1646297815664,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo4lEJpQ",
+       "created": 1646297815664,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpR",
+       "created": 1646297815664,
+       "text": "怛特羅部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpS",
+       "created": 1646297815664,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpT",
+       "created": 1646297815664,
+       "text": "通帙第151Tshi"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpU",
+       "created": 1646297815664,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpV",
+       "created": 1646297815664,
+       "text": "No.2167"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpW",
+       "created": 1646297815664,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpX",
+       "created": 1646297815664,
+       "text": "308b1-312a7"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpY",
+       "created": 1646297815664,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpZ",
+       "created": 1646297815664,
+       "text": "འཕགས་པ་ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpa",
+       "created": 1646297815664,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpb",
+       "created": 1646297815664,
+       "text": "Ḥphags-pa phyag-na-rdo-rje gos-sṅon-can-gyi sgrub-thabs shes-bya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpc",
+       "created": 1646297815664,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpd",
+       "created": 1646297815664,
+       "text": "聖金剛手青衣成就法",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpe",
+       "created": 1646297815664,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpf",
+       "created": 1646297815664,
+       "text": "圣金刚手青衣成就法",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpg",
+       "created": 1646297815664,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJph",
+       "created": 1646297815664,
+       "text": "sheng jin gang shou qing yi cheng jiu fa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpi",
+       "created": 1646297815664,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpj",
+       "created": 1646297815664,
+       "text": "Ārya-nīlāmbaradharavajrapāṇisādhana-nāma",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpk",
+       "created": 1646297815664,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpl",
+       "created": 1646297815664,
+       "text": "Bhava-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpm",
+       "created": 1646297815664,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpn",
+       "created": 1646297815664,
+       "text": "Gshon-nu tshul-khrims"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpo",
+       "created": 1646297815664,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpp",
+       "created": 1646297815664,
+       "text": "Khu-pa vīrya"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpq",
+       "created": 1646297815664,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpr",
+       "created": 1646297815664,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJps",
+       "created": 1646297815664,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpt",
+       "created": 1646297815664,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpu",
+       "created": 1646297815664,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpv",
+       "created": 1646297815664,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4lEJpw",
+       "created": 1646297815664,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo4lEJpx",
+       "created": 1646297815664,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo4nJKDS",
+     "created": 1646297815793,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo4nJKCw",
+       "created": 1646297815793,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKCx",
+       "created": 1646297815793,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKCy",
+       "created": 1646297815793,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKCz",
+       "created": 1646297815793,
+       "text": "通帙第152Dsi"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKD0",
+       "created": 1646297815793,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKD1",
+       "created": 1646297815793,
+       "text": "No.2210"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKD2",
+       "created": 1646297815793,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKD3",
+       "created": 1646297815793,
+       "text": "182a3-183b1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKD4",
+       "created": 1646297815793,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKD5",
+       "created": 1646297815793,
+       "text": "འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKD6",
+       "created": 1646297815793,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKD7",
+       "created": 1646297815793,
+       "text": "Ḥphags-pa lag-na rdo-rje gos-sṅon-po-can-gyi sgrub-thabs"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKD8",
+       "created": 1646297815793,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKD9",
+       "created": 1646297815793,
+       "text": "聖金剛手青衣成就法"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKDA",
+       "created": 1646297815793,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDB",
+       "created": 1646297815793,
+       "text": "圣金刚手青衣成就法"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKDC",
+       "created": 1646297815793,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDD",
+       "created": 1646297815793,
+       "text": "sheng jin gang shou qing yi cheng jiu fa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKDE",
+       "created": 1646297815793,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDF",
+       "created": 1646297815793,
+       "text": "Ārya-nīlāmbaradharavajrapāṇisādhana",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKDG",
+       "created": 1646297815793,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDH",
+       "created": 1646297815793,
+       "text": "Kluḥi byaṅ-chub"
+      }}]
+     },
+     {"data": {
+      "id": "z5oo4nJKDI",
+      "created": 1646297815793,
+      "text": "西藏譯師"
+     }},
+     {"data": {
+      "id": "z5oo4nJKDJ",
+      "created": 1646297815793,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo4nJKDK",
+       "created": 1646297815793,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDL",
+       "created": 1646297815793,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKDM",
+       "created": 1646297815793,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDN",
+       "created": 1646297815793,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKDO",
+       "created": 1646297815793,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDP",
+       "created": 1646297815793,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo4nJKDQ",
+       "created": 1646297815793,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo4nJKDR",
+       "created": 1646297815793,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo5dlQ58",
+     "created": 1646297819045,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo5dkQ4c",
+       "created": 1646297819044,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4d",
+       "created": 1646297819044,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4e",
+       "created": 1646297819044,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4f",
+       "created": 1646297819044,
+       "text": "通帙第175Nu"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4g",
+       "created": 1646297819044,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4h",
+       "created": 1646297819044,
+       "text": "No.2872"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4i",
+       "created": 1646297819044,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4j",
+       "created": 1646297819044,
+       "text": "214a3-215b4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4k",
+       "created": 1646297819044,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4l",
+       "created": 1646297819044,
+       "text": "ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4m",
+       "created": 1646297819044,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4n",
+       "created": 1646297819044,
+       "text": "Phyag-na-rdo-rje gos-sṅon-po-can-gyi sgrub-thabs shes-bya-ba"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4o",
+       "created": 1646297819044,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4p",
+       "created": 1646297819044,
+       "text": "金剛手青衣成就法",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4q",
+       "created": 1646297819044,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4r",
+       "created": 1646297819044,
+       "text": "金刚手青衣成就法",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4s",
+       "created": 1646297819044,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4t",
+       "created": 1646297819044,
+       "text": "jin gang shou qing yi cheng jiu fa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4u",
+       "created": 1646297819044,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dkQ4v",
+       "created": 1646297819044,
+       "text": "Nīlāmbaradharavajrapāṇisādhana-nāma",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dkQ4w",
+       "created": 1646297819044,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dlQ4x",
+       "created": 1646297819045,
+       "text": "Suvāgīśvarakīrti"
+      }}]
+     },
+     {"data": {
+      "id": "z5oo5dlQ4y",
+      "created": 1646297819045,
+      "text": "西藏譯師"
+     }},
+     {"data": {
+      "id": "z5oo5dlQ4z",
+      "created": 1646297819045,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo5dlQ50",
+       "created": 1646297819045,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dlQ51",
+       "created": 1646297819045,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dlQ52",
+       "created": 1646297819045,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dlQ53",
+       "created": 1646297819045,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dlQ54",
+       "created": 1646297819045,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dlQ55",
+       "created": 1646297819045,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5dlQ56",
+       "created": 1646297819045,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo5dlQ57",
+       "created": 1646297819045,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo5fEQCf",
+     "created": 1646297819136,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo5fEQC8",
+       "created": 1646297819136,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQC9",
+       "created": 1646297819136,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCA",
+       "created": 1646297819136,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCB",
+       "created": 1646297819136,
+       "text": "通帙第175Nu"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCC",
+       "created": 1646297819136,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCD",
+       "created": 1646297819136,
+       "text": "No.2886"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCE",
+       "created": 1646297819136,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCF",
+       "created": 1646297819136,
+       "text": "227b7-234b5"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCG",
+       "created": 1646297819136,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCH",
+       "created": 1646297819136,
+       "text": "ཕྱག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་པའི་ཐབས།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCI",
+       "created": 1646297819136,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCJ",
+       "created": 1646297819136,
+       "text": "Phyag-na-rdo-rje gos sṅon-po-can-gyi sgrub-paḥi thabs"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCK",
+       "created": 1646297819136,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCL",
+       "created": 1646297819136,
+       "text": "金剛手青衣成就法"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCM",
+       "created": 1646297819136,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCN",
+       "created": 1646297819136,
+       "text": "金刚手青衣成就法"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCO",
+       "created": 1646297819136,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCP",
+       "created": 1646297819136,
+       "text": "jin gang shou qing yi cheng jiu fa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCQ",
+       "created": 1646297819136,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCR",
+       "created": 1646297819136,
+       "text": "Nīlāmbaradharavajrapāṇisādhana",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCS",
+       "created": 1646297819136,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCT",
+       "created": 1646297819136,
+       "text": "Stoṅ-ñid tiṅ-ṅe-ḥdsin rdo-rje"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCU",
+       "created": 1646297819136,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCV",
+       "created": 1646297819136,
+       "text": "Rin-chen grags"
+      }}]
+     },
+     {"data": {
+      "id": "z5oo5fEQCW",
+      "created": 1646297819136,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo5fEQCX",
+       "created": 1646297819136,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCY",
+       "created": 1646297819136,
+       "text": "Abhiyuta"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCZ",
+       "created": 1646297819136,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCa",
+       "created": 1646297819136,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCb",
+       "created": 1646297819136,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCc",
+       "created": 1646297819136,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo5fEQCd",
+       "created": 1646297819136,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo5fEQCe",
+       "created": 1646297819136,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7ofj1oe",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

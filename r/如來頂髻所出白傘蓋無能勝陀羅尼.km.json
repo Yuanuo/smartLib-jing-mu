@@ -1,163 +1,776 @@
 {
  "root": {
   "data": {"text": "聖如來頂髻所出白傘蓋無能勝陀羅尼"},
-  "children": [{
-   "data": {
-    "id": "z5oVdab2Gu",
-    "created": 1646293421313,
-    "text": "登噶目錄"
+  "children": [
+   {
+    "data": {
+     "id": "z5oVdab2Gu",
+     "created": 1646293421313,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdab2GW",
+       "created": 1646293421313,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2GX",
+       "created": 1646293421313,
+       "text": "Ym.349"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2GY",
+       "created": 1646293421313,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2GZ",
+       "created": 1646293421313,
+       "text": "འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར་ནས་བྱུང་པའི་གདུགས་དཀར་མོ་ཅན་གཞན་གྱིས་མི་ཐུབ་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Ga",
+       "created": 1646293421313,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gb",
+       "created": 1646293421313,
+       "text": "聖如來頂髻所出白傘蓋無能勝陀羅尼",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Gc",
+       "created": 1646293421313,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gd",
+       "created": 1646293421313,
+       "text": "圣如来顶髻所出白伞盖无能胜陀罗尼",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Ge",
+       "created": 1646293421313,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gf",
+       "created": 1646293421313,
+       "text": "sheng ru lai ding ji suo chu bai san gai wu neng sheng tuo luo ni"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Gg",
+       "created": 1646293421313,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gh",
+       "created": 1646293421313,
+       "text": "Th.0592; Th.0986"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Gi",
+       "created": 1646293421313,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gj",
+       "created": 1646293421313,
+       "text": "Ot.0204～Ot.0205"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Gk",
+       "created": 1646293421313,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gl",
+       "created": 1646293421313,
+       "text": "T.0976～T.0977"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Gm",
+       "created": 1646293421313,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gn",
+       "created": 1646293421313,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Go",
+       "created": 1646293421313,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gp",
+       "created": 1646293421313,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Gq",
+       "created": 1646293421313,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gr",
+       "created": 1646293421313,
+       "text": "Ot.本未載對應之經典"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdab2Gs",
+       "created": 1646293421313,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdab2Gt",
+       "created": 1646293421313,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5oVdab2GW",
-      "created": 1646293421313,
-      "text": "芳村編號"
-     },
-     "children": [{"data": {
-      "id": "z5oVdab2GX",
-      "created": 1646293421313,
-      "text": "Ym.349"
-     }}]
+   {
+    "data": {
+     "id": "z5oo3Ul5fA",
+     "created": 1646297810799,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdab2GY",
-      "created": 1646293421313,
-      "text": "藏文經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3Ul5ee",
+       "created": 1646297810799,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5ef",
+       "created": 1646297810799,
+       "text": "十萬怛特羅部",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2GZ",
-      "created": 1646293421313,
-      "text": "འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར་ནས་བྱུང་པའི་གདུགས་དཀར་མོ་ཅན་གཞན་གྱིས་མི་ཐུབ་པ།",
-      "resource": ["alias"]
-     }}]
+     {
+      "data": {
+       "id": "z5oo3Ul5eg",
+       "created": 1646297810799,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5eh",
+       "created": 1646297810799,
+       "text": "通帙第90Pha"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5ei",
+       "created": 1646297810799,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5ej",
+       "created": 1646297810799,
+       "text": "No.592"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5ek",
+       "created": 1646297810799,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5el",
+       "created": 1646297810799,
+       "text": "219a7-224b2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5em",
+       "created": 1646297810799,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5en",
+       "created": 1646297810799,
+       "text": "འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར་ནས་བྱུང་བའི་གདུགས་དཀར་པོ་ཅན་གཞན་གྱིས་མི་ཐུབ་པ་ཞེས་བྱ་བའི་གཟུངས",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5eo",
+       "created": 1646297810799,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5ep",
+       "created": 1646297810799,
+       "text": "Ḥphags-pa de-bshin-gśegs-paḥi gtsug-tor-nas byuṅ-baḥi gdugs-dkar-po-can gshan-gyis mi thub-pa shes-bya-baḥi gzuṅs"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5eq",
+       "created": 1646297810799,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5er",
+       "created": 1646297810799,
+       "text": "聖如來頂髻所出白傘蓋無能勝陀羅尼"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5es",
+       "created": 1646297810799,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5et",
+       "created": 1646297810799,
+       "text": "圣如来顶髻所出白伞盖无能胜陀罗尼"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5eu",
+       "created": 1646297810799,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5ev",
+       "created": 1646297810799,
+       "text": "sheng ru lai ding ji suo chu bai san gai wu neng sheng tuo luo ni"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5ew",
+       "created": 1646297810799,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5ex",
+       "created": 1646297810799,
+       "text": "Ārya-tathāgatoṣṇīṣasitātapatrāparājita-nāma-dhāraṇī",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5ey",
+       "created": 1646297810799,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5ez",
+       "created": 1646297810799,
+       "text": ""
+      }}]
+     },
+     {"data": {
+      "id": "z5oo3Ul5f0",
+      "created": 1646297810799,
+      "text": "西藏譯師"
+     }},
+     {"data": {
+      "id": "z5oo3Ul5f1",
+      "created": 1646297810799,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo3Ul5f2",
+       "created": 1646297810799,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5f3",
+       "created": 1646297810799,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5f4",
+       "created": 1646297810799,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5f5",
+       "created": 1646297810799,
+       "text": "976,977"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5f6",
+       "created": 1646297810799,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5f7",
+       "created": 1646297810799,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Ul5f8",
+       "created": 1646297810799,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Ul5f9",
+       "created": 1646297810799,
+       "text": "1016"
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo3Uo5fi",
+     "created": 1646297810802,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdab2Ga",
-      "created": 1646293421313,
-      "text": "漢譯經名"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3Uo5fB",
+       "created": 1646297810802,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fC",
+       "created": 1646297810802,
+       "text": "十萬怛特羅部"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gb",
-      "created": 1646293421313,
-      "text": "聖如來頂髻所出白傘蓋無能勝陀羅尼",
-      "resource": ["alias"]
-     }}]
+     {
+      "data": {
+       "id": "z5oo3Uo5fD",
+       "created": 1646297810802,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fE",
+       "created": 1646297810802,
+       "text": "通帙第90Pha"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fF",
+       "created": 1646297810802,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fG",
+       "created": 1646297810802,
+       "text": "No.593"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fH",
+       "created": 1646297810802,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fI",
+       "created": 1646297810802,
+       "text": "224b2-229b7"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fJ",
+       "created": 1646297810802,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fK",
+       "created": 1646297810802,
+       "text": "འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར་ནས་བྱུང་བའི་གདུགས་དཀར་པོ་ཅན་གཞན་གྱིས་མི་ཐུབ་པ་ཞེས་བྱ་བའི་གཟུངས"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fL",
+       "created": 1646297810802,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fM",
+       "created": 1646297810802,
+       "text": "Ḥphags-pa de-bshin-gśegs-paḥi gtsug-tor-nas byuṅ-baḥi gdugs-dkar-po-can gshan-gyis mi thub-pa shes-bya-baḥi gzuṅs"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fN",
+       "created": 1646297810802,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fO",
+       "created": 1646297810802,
+       "text": "聖如來頂髻所出白傘蓋無能勝陀羅尼"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fP",
+       "created": 1646297810802,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fQ",
+       "created": 1646297810802,
+       "text": "圣如来顶髻所出白伞盖无能胜陀罗尼"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fR",
+       "created": 1646297810802,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fS",
+       "created": 1646297810802,
+       "text": "sheng ru lai ding ji suo chu bai san gai wu neng sheng tuo luo ni"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fT",
+       "created": 1646297810802,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fU",
+       "created": 1646297810802,
+       "text": "Ārya-tathāgatoṣṇīṣasitātapatrā-nāma-aparājitadhāraṇī",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fV",
+       "created": 1646297810802,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fW",
+       "created": 1646297810802,
+       "text": ""
+      }}]
+     },
+     {"data": {
+      "id": "z5oo3Uo5fX",
+      "created": 1646297810802,
+      "text": "西藏譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo3Uo5fY",
+       "created": 1646297810802,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fZ",
+       "created": 1646297810802,
+       "text": "Mahājñāna (K)"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fa",
+       "created": 1646297810802,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fb",
+       "created": 1646297810802,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fc",
+       "created": 1646297810802,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fd",
+       "created": 1646297810802,
+       "text": "976,977"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fe",
+       "created": 1646297810802,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5ff",
+       "created": 1646297810802,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3Uo5fg",
+       "created": 1646297810802,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3Uo5fh",
+       "created": 1646297810802,
+       "text": "1016"
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo3lt9Gq",
+     "created": 1646297811861,
+     "text": "藏文大藏經目錄"
     },
-    {
-     "data": {
-      "id": "z5oVdab2Gc",
-      "created": 1646293421313,
-      "text": "经名简体"
+    "children": [
+     {
+      "data": {
+       "id": "z5oo3ls9GK",
+       "created": 1646297811860,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GL",
+       "created": 1646297811860,
+       "text": "陀羅尼集",
+       "resource": ["catalog"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gd",
-      "created": 1646293421313,
-      "text": "圣如来顶髻所出白伞盖无能胜陀罗尼",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Ge",
-      "created": 1646293421313,
-      "text": "经名简拼"
+     {
+      "data": {
+       "id": "z5oo3ls9GM",
+       "created": 1646297811860,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GN",
+       "created": 1646297811860,
+       "text": "通帙第102Wam"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gf",
-      "created": 1646293421313,
-      "text": "sheng ru lai ding ji suo chu bai san gai wu neng sheng tuo luo ni"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Gg",
-      "created": 1646293421313,
-      "text": "東北編號"
+     {
+      "data": {
+       "id": "z5oo3ls9GO",
+       "created": 1646297811860,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GP",
+       "created": 1646297811860,
+       "text": "No.986"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gh",
-      "created": 1646293421313,
-      "text": "Th.0592; Th.0986"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Gi",
-      "created": 1646293421313,
-      "text": "大谷編號"
+     {
+      "data": {
+       "id": "z5oo3ls9GQ",
+       "created": 1646297811860,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GR",
+       "created": 1646297811860,
+       "text": "133b3-138b2"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gj",
-      "created": 1646293421313,
-      "text": "Ot.0204～Ot.0205"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Gk",
-      "created": 1646293421313,
-      "text": "對應大正藏經號"
+     {
+      "data": {
+       "id": "z5oo3ls9GS",
+       "created": 1646297811860,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GT",
+       "created": 1646297811860,
+       "text": "འཕགས་མ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར་ནས་བྱུང་བའི་གདུགས་དཀར་པོ་ཅན་གཞན་གྱིས་མི་ཐུབ་པ་ཞེས་བྱ་བའི་གཟུངས",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gl",
-      "created": 1646293421313,
-      "text": "T.0976～T.0977"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Gm",
-      "created": 1646293421313,
-      "text": "相關至元錄編號"
+     {
+      "data": {
+       "id": "z5oo3ls9GU",
+       "created": 1646297811860,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GV",
+       "created": 1646297811860,
+       "text": "Ḥphags-ma de-bshin-gśegs-paḥi gtsug-tor-nas byuṅ-baḥi gdugs dkar-po-can gshan-gyis-mi-thub-pa shes-bya-baḥi gzuṅs"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gn",
-      "created": 1646293421313,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Go",
-      "created": 1646293421313,
-      "text": "蕃本同闕"
+     {
+      "data": {
+       "id": "z5oo3ls9GW",
+       "created": 1646297811860,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GX",
+       "created": 1646297811860,
+       "text": "聖如來頂髻所出白傘蓋無能勝陀羅尼"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gp",
-      "created": 1646293421313,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Gq",
-      "created": 1646293421313,
-      "text": "校　　勘"
+     {
+      "data": {
+       "id": "z5oo3ls9GY",
+       "created": 1646297811860,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9GZ",
+       "created": 1646297811860,
+       "text": "圣如来顶髻所出白伞盖无能胜陀罗尼"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gr",
-      "created": 1646293421313,
-      "text": "Ot.本未載對應之經典"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5oVdab2Gs",
-      "created": 1646293421313,
-      "text": "欄位說明",
-      "resource": ["excludes"]
+     {
+      "data": {
+       "id": "z5oo3ls9Ga",
+       "created": 1646297811860,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9Gb",
+       "created": 1646297811860,
+       "text": "sheng ru lai ding ji suo chu bai san gai wu neng sheng tuo luo ni"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5oVdab2Gt",
-      "created": 1646293421313,
-      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
-     }}]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oo3ls9Gc",
+       "created": 1646297811860,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9Gd",
+       "created": 1646297811860,
+       "text": "Ārya-tathāgatoṣṇīṣasitātapatrāparajita-nāma-dhāraṇī",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3ls9Ge",
+       "created": 1646297811860,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9Gf",
+       "created": 1646297811860,
+       "text": ""
+      }}]
+     },
+     {"data": {
+      "id": "z5oo3ls9Gg",
+      "created": 1646297811860,
+      "text": "西藏譯師"
+     }},
+     {"data": {
+      "id": "z5oo3ls9Gh",
+      "created": 1646297811860,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo3ls9Gi",
+       "created": 1646297811860,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9Gj",
+       "created": 1646297811860,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3ls9Gk",
+       "created": 1646297811860,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9Gl",
+       "created": 1646297811860,
+       "text": "976,977"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3ls9Gm",
+       "created": 1646297811860,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9Gn",
+       "created": 1646297811860,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo3ls9Go",
+       "created": 1646297811860,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo3ls9Gp",
+       "created": 1646297811860,
+       "text": "1016"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -166,6 +779,9 @@
   "id": "l0aolhq89o",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["登噶目錄"]
+  "catalog": [
+   "登噶目錄",
+   "藏文大藏經目錄"
+  ]
  }
 }

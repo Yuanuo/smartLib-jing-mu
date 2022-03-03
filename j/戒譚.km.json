@@ -1,0 +1,448 @@
+{
+ "root": {
+  "data": {"text": "戒譚"},
+  "children": [
+   {
+    "data": {
+     "id": "z5oo6a7bf4",
+     "created": 1646297822663,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo6a7beW",
+       "created": 1646297822663,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7beX",
+       "created": 1646297822663,
+       "text": "書翰部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7beY",
+       "created": 1646297822663,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7beZ",
+       "created": 1646297822663,
+       "text": "通帙第274Ge"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bea",
+       "created": 1646297822663,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7beb",
+       "created": 1646297822663,
+       "text": "No.4164"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bec",
+       "created": 1646297822663,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bed",
+       "created": 1646297822663,
+       "text": "169a1-169b2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bee",
+       "created": 1646297822663,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bef",
+       "created": 1646297822663,
+       "text": "ཚུལ་ཁྲིམས་ཀྱི་གཏམ",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7beg",
+       "created": 1646297822663,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7beh",
+       "created": 1646297822663,
+       "text": "Tshul-khrims-kyi gtam"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bei",
+       "created": 1646297822663,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bej",
+       "created": 1646297822663,
+       "text": "戒譚",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bek",
+       "created": 1646297822663,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bel",
+       "created": 1646297822663,
+       "text": "戒谭",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bem",
+       "created": 1646297822663,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7ben",
+       "created": 1646297822663,
+       "text": "jie tan"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7beo",
+       "created": 1646297822663,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bep",
+       "created": 1646297822663,
+       "text": "Śīlaparikathā",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7beq",
+       "created": 1646297822663,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7ber",
+       "created": 1646297822663,
+       "text": "Dbyig-gñen"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bes",
+       "created": 1646297822663,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bet",
+       "created": 1646297822663,
+       "text": "Rin-chen bzaṅ-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7beu",
+       "created": 1646297822663,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bev",
+       "created": 1646297822663,
+       "text": "Jarandhana"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bew",
+       "created": 1646297822663,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bex",
+       "created": 1646297822663,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bey",
+       "created": 1646297822663,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bez",
+       "created": 1646297822663,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bf0",
+       "created": 1646297822663,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bf1",
+       "created": 1646297822663,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6a7bf2",
+       "created": 1646297822663,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo6a7bf3",
+       "created": 1646297822663,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo6mQejq",
+     "created": 1646297823426,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo6mQejI",
+       "created": 1646297823426,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejJ",
+       "created": 1646297823426,
+       "text": "阿底沙小部集",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejK",
+       "created": 1646297823426,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejL",
+       "created": 1646297823426,
+       "text": "通帙第315Pho"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejM",
+       "created": 1646297823426,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejN",
+       "created": 1646297823426,
+       "text": "No.4508"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejO",
+       "created": 1646297823426,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejP",
+       "created": 1646297823426,
+       "text": "100b1-101a1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejQ",
+       "created": 1646297823426,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejR",
+       "created": 1646297823426,
+       "text": "ཚུལ་ཁྲིམས་ཀྱི་གཏམ"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejS",
+       "created": 1646297823426,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejT",
+       "created": 1646297823426,
+       "text": "Tshul-khrims-kyi gtam"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejU",
+       "created": 1646297823426,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejV",
+       "created": 1646297823426,
+       "text": "戒譚"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejW",
+       "created": 1646297823426,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejX",
+       "created": 1646297823426,
+       "text": "戒谭"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejY",
+       "created": 1646297823426,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejZ",
+       "created": 1646297823426,
+       "text": "jie tan"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQeja",
+       "created": 1646297823426,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejb",
+       "created": 1646297823426,
+       "text": "Śīlaparikathā"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejc",
+       "created": 1646297823426,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejd",
+       "created": 1646297823426,
+       "text": "Dbyig-gñen"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQeje",
+       "created": 1646297823426,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejf",
+       "created": 1646297823426,
+       "text": "Rin-chen bzaṅ-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejg",
+       "created": 1646297823426,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejh",
+       "created": 1646297823426,
+       "text": "Gaṅgādhara"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQeji",
+       "created": 1646297823426,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejj",
+       "created": 1646297823426,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejk",
+       "created": 1646297823426,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejl",
+       "created": 1646297823426,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejm",
+       "created": 1646297823426,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejn",
+       "created": 1646297823426,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo6mQejo",
+       "created": 1646297823426,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo6mQejp",
+       "created": 1646297823426,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7tty37v",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

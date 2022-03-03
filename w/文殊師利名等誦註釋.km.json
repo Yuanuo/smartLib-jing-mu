@@ -1,0 +1,869 @@
+{
+ "root": {
+  "data": {"text": "聖文殊師利名等誦註釋"},
+  "children": [
+   {
+    "data": {
+     "id": "z5oo57fN4W",
+     "created": 1646297817055,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo57fN3y",
+       "created": 1646297817055,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN3z",
+       "created": 1646297817055,
+       "text": "怛特羅部",
+       "resource": ["catalog"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN40",
+       "created": 1646297817055,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN41",
+       "created": 1646297817055,
+       "text": "通帙第166Gu"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN42",
+       "created": 1646297817055,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN43",
+       "created": 1646297817055,
+       "text": "No.2535"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN44",
+       "created": 1646297817055,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN45",
+       "created": 1646297817055,
+       "text": "1b1-27a4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN46",
+       "created": 1646297817055,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN47",
+       "created": 1646297817055,
+       "text": "འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN48",
+       "created": 1646297817055,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN49",
+       "created": 1646297817055,
+       "text": "Ḥphags-pa ḥjam-dpal-gyi mtshan yaṅ-dag-par-brjod-pa shes-bya-baḥi ḥgrel-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4A",
+       "created": 1646297817055,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4B",
+       "created": 1646297817055,
+       "text": "聖文殊師利名等誦註釋",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4C",
+       "created": 1646297817055,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4D",
+       "created": 1646297817055,
+       "text": "圣文殊师利名等诵注释",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4E",
+       "created": 1646297817055,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4F",
+       "created": 1646297817055,
+       "text": "sheng wen shu shi li ming deng song zhu shi"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4G",
+       "created": 1646297817055,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4H",
+       "created": 1646297817055,
+       "text": "Ārya-mañjuśrīnāmasaṅgītivṛtti-nāma",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4I",
+       "created": 1646297817055,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4J",
+       "created": 1646297817055,
+       "text": "Zla-ba grags-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4K",
+       "created": 1646297817055,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4L",
+       "created": 1646297817055,
+       "text": "Ḥphags-pa śes-rab"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4M",
+       "created": 1646297817055,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4N",
+       "created": 1646297817055,
+       "text": "Śrīmahājana"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4O",
+       "created": 1646297817055,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4P",
+       "created": 1646297817055,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4Q",
+       "created": 1646297817055,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4R",
+       "created": 1646297817055,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4S",
+       "created": 1646297817055,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4T",
+       "created": 1646297817055,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57fN4U",
+       "created": 1646297817055,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo57fN4V",
+       "created": 1646297817055,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo57hN55",
+     "created": 1646297817057,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo57hN4X",
+       "created": 1646297817057,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4Y",
+       "created": 1646297817057,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4Z",
+       "created": 1646297817057,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4a",
+       "created": 1646297817057,
+       "text": "通帙第166Gu"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4b",
+       "created": 1646297817057,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4c",
+       "created": 1646297817057,
+       "text": "No.2536"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4d",
+       "created": 1646297817057,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4e",
+       "created": 1646297817057,
+       "text": "27a5-47b4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4f",
+       "created": 1646297817057,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4g",
+       "created": 1646297817057,
+       "text": "འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4h",
+       "created": 1646297817057,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4i",
+       "created": 1646297817057,
+       "text": "Ḥphags-pa ḥjam-dpal-gyi mtshan yaṅ-dag-par-brjod-paḥi ḥgrel-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4j",
+       "created": 1646297817057,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4k",
+       "created": 1646297817057,
+       "text": "聖文殊師利名等誦註釋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4l",
+       "created": 1646297817057,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4m",
+       "created": 1646297817057,
+       "text": "圣文殊师利名等诵注释"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4n",
+       "created": 1646297817057,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4o",
+       "created": 1646297817057,
+       "text": "sheng wen shu shi li ming deng song zhu shi"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4p",
+       "created": 1646297817057,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4q",
+       "created": 1646297817057,
+       "text": "Ārya-mañjuśrīnāmasaṅgītivṛtti",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4r",
+       "created": 1646297817057,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4s",
+       "created": 1646297817057,
+       "text": "Avadhūti-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4t",
+       "created": 1646297817057,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4u",
+       "created": 1646297817057,
+       "text": "Chos-kyi bzaṅ-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4v",
+       "created": 1646297817057,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4w",
+       "created": 1646297817057,
+       "text": "Dharmaśrīmitra"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4x",
+       "created": 1646297817057,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN4y",
+       "created": 1646297817057,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN4z",
+       "created": 1646297817057,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN50",
+       "created": 1646297817057,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN51",
+       "created": 1646297817057,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN52",
+       "created": 1646297817057,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57hN53",
+       "created": 1646297817057,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo57hN54",
+       "created": 1646297817057,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo57kN5e",
+     "created": 1646297817060,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo57jN56",
+       "created": 1646297817059,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN57",
+       "created": 1646297817059,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN58",
+       "created": 1646297817059,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN59",
+       "created": 1646297817059,
+       "text": "通帙第166Gu"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5A",
+       "created": 1646297817059,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5B",
+       "created": 1646297817059,
+       "text": "No.2537"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5C",
+       "created": 1646297817059,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5D",
+       "created": 1646297817059,
+       "text": "47b4-67b4"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5E",
+       "created": 1646297817059,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5F",
+       "created": 1646297817059,
+       "text": "འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ།"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5G",
+       "created": 1646297817059,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5H",
+       "created": 1646297817059,
+       "text": "Ḥphags-pa ḥjam-dpal-gyi mtshan yaṅ-dag-par-brjod-paḥi ḥgrel-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5I",
+       "created": 1646297817059,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5J",
+       "created": 1646297817059,
+       "text": "聖文殊師利名等誦註釋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5K",
+       "created": 1646297817059,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5L",
+       "created": 1646297817059,
+       "text": "圣文殊师利名等诵注释"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5M",
+       "created": 1646297817059,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5N",
+       "created": 1646297817059,
+       "text": "sheng wen shu shi li ming deng song zhu shi"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5O",
+       "created": 1646297817059,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5P",
+       "created": 1646297817059,
+       "text": "Ārya-mañjuśrīnāmasaṅgītivṛttināmārtha-prakāśakaraṇa-nāma",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5Q",
+       "created": 1646297817059,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5R",
+       "created": 1646297817059,
+       "text": "Gñis-su med-paḥi sbas-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5S",
+       "created": 1646297817059,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5T",
+       "created": 1646297817059,
+       "text": "Chos-kyi bzaṅ-po"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5U",
+       "created": 1646297817059,
+       "text": "印度譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5V",
+       "created": 1646297817059,
+       "text": "Dharmaśrīmitra"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5W",
+       "created": 1646297817059,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5X",
+       "created": 1646297817059,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5Y",
+       "created": 1646297817059,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5Z",
+       "created": 1646297817059,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5a",
+       "created": 1646297817059,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5b",
+       "created": 1646297817059,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57jN5c",
+       "created": 1646297817059,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo57jN5d",
+       "created": 1646297817059,
+       "text": ""
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oo57vN8S",
+     "created": 1646297817071,
+     "text": "藏文大藏經目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oo57vN7v",
+       "created": 1646297817071,
+       "text": "部類"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN7w",
+       "created": 1646297817071,
+       "text": "怛特羅部"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN7x",
+       "created": 1646297817071,
+       "text": "函號"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN7y",
+       "created": 1646297817071,
+       "text": "通帙第166Gu"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN7z",
+       "created": 1646297817071,
+       "text": "經碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN80",
+       "created": 1646297817071,
+       "text": "No.2542"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN81",
+       "created": 1646297817071,
+       "text": "原葉碼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN82",
+       "created": 1646297817071,
+       "text": "235a1-275a7"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN83",
+       "created": 1646297817071,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN84",
+       "created": 1646297817071,
+       "text": "འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་འགྲེལ་པ།"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN85",
+       "created": 1646297817071,
+       "text": "藏語羅馬轉寫經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN86",
+       "created": 1646297817071,
+       "text": "Ḥphags-pa ḥjam-dpal-gyi mtshan yaṅ-dag-par-brjod-paḥi ḥgrel-pa"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN87",
+       "created": 1646297817071,
+       "text": "中文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN88",
+       "created": 1646297817071,
+       "text": "聖文殊師利名等誦註釋"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN89",
+       "created": 1646297817071,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8A",
+       "created": 1646297817071,
+       "text": "圣文殊师利名等诵注释"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN8B",
+       "created": 1646297817071,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8C",
+       "created": 1646297817071,
+       "text": "sheng wen shu shi li ming deng song zhu shi"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN8D",
+       "created": 1646297817071,
+       "text": "梵文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8E",
+       "created": 1646297817071,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN8F",
+       "created": 1646297817071,
+       "text": "造者"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8G",
+       "created": 1646297817071,
+       "text": "Ḍombi-heruka"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN8H",
+       "created": 1646297817071,
+       "text": "西藏譯師"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8I",
+       "created": 1646297817071,
+       "text": "Khyuṅ grags(?)"
+      }}]
+     },
+     {"data": {
+      "id": "z5oo57vN8J",
+      "created": 1646297817071,
+      "text": "印度譯師"
+     }},
+     {
+      "data": {
+       "id": "z5oo57vN8K",
+       "created": 1646297817071,
+       "text": "校訂"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8L",
+       "created": 1646297817071,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN8M",
+       "created": 1646297817071,
+       "text": "大正藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8N",
+       "created": 1646297817071,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN8O",
+       "created": 1646297817071,
+       "text": "巴利藏"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8P",
+       "created": 1646297817071,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oo57vN8Q",
+       "created": 1646297817071,
+       "text": "南條文雄"
+      },
+      "children": [{"data": {
+       "id": "z5oo57vN8R",
+       "created": 1646297817071,
+       "text": ""
+      }}]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7pi61ym",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}

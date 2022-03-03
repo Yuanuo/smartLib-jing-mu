@@ -1,0 +1,218 @@
+{
+ "root": {
+  "data": {"text": "律本事廣註"},
+  "children": [{
+   "data": {
+    "id": "z5oo6YHbC7",
+    "created": 1646297822549,
+    "text": "藏文大藏經目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oo6YGbBb",
+      "created": 1646297822548,
+      "text": "部類"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBc",
+      "created": 1646297822548,
+      "text": "律部",
+      "resource": ["catalog"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBd",
+      "created": 1646297822548,
+      "text": "函號"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBe",
+      "created": 1646297822548,
+      "text": "通帙第258Tsu"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBf",
+      "created": 1646297822548,
+      "text": "經碼"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBg",
+      "created": 1646297822548,
+      "text": "No.4113"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBh",
+      "created": 1646297822548,
+      "text": "原葉碼"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBi",
+      "created": 1646297822548,
+      "text": "177a5-326a7"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBj",
+      "created": 1646297822548,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBk",
+      "created": 1646297822548,
+      "text": "འདུལ་བ་གཞི་རྒྱ་ཆེར་འགྲེལ་པ",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBl",
+      "created": 1646297822548,
+      "text": "藏語羅馬轉寫經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBm",
+      "created": 1646297822548,
+      "text": "Ḥdul-ba gshi rgya-cher ḥgrel-pa"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBn",
+      "created": 1646297822548,
+      "text": "中文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBo",
+      "created": 1646297822548,
+      "text": "律本事廣註",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBp",
+      "created": 1646297822548,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBq",
+      "created": 1646297822548,
+      "text": "律本事广注",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBr",
+      "created": 1646297822548,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBs",
+      "created": 1646297822548,
+      "text": "lv ben shi guang zhu"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBt",
+      "created": 1646297822548,
+      "text": "梵文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBu",
+      "created": 1646297822548,
+      "text": "Vinayavastuṭīkā",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YGbBv",
+      "created": 1646297822548,
+      "text": "造者"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YGbBw",
+      "created": 1646297822548,
+      "text": "Dge-legs bśes-gñen (Kalyāṇamitra)"
+     }}]
+    },
+    {"data": {
+     "id": "z5oo6YGbBx",
+     "created": 1646297822548,
+     "text": "西藏譯師"
+    }},
+    {"data": {
+     "id": "z5oo6YHbBy",
+     "created": 1646297822549,
+     "text": "印度譯師"
+    }},
+    {
+     "data": {
+      "id": "z5oo6YHbBz",
+      "created": 1646297822549,
+      "text": "校訂"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YHbC0",
+      "created": 1646297822549,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YHbC1",
+      "created": 1646297822549,
+      "text": "大正藏"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YHbC2",
+      "created": 1646297822549,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YHbC3",
+      "created": 1646297822549,
+      "text": "巴利藏"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YHbC4",
+      "created": 1646297822549,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oo6YHbC5",
+      "created": 1646297822549,
+      "text": "南條文雄"
+     },
+     "children": [{"data": {
+      "id": "z5oo6YHbC6",
+      "created": 1646297822549,
+      "text": ""
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0ar7tqs36g",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["藏文大藏經目錄"]
+ }
+}
