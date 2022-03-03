@@ -1,0 +1,171 @@
+{
+ "root": {
+  "data": {"text": "聖大寒林經"},
+  "children": [{
+   "data": {
+    "id": "z5oVdZG2A3",
+    "created": 1646293421230,
+    "text": "登噶目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdZF29f",
+      "created": 1646293421229,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29g",
+      "created": 1646293421229,
+      "text": "Ym.332"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29h",
+      "created": 1646293421229,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29i",
+      "created": 1646293421229,
+      "text": "འཕགས་པ་བསིལ་བའི་ཚལ་ཆེན་མོ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29j",
+      "created": 1646293421229,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29k",
+      "created": 1646293421229,
+      "text": "聖大寒林經",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29l",
+      "created": 1646293421229,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29m",
+      "created": 1646293421229,
+      "text": "圣大寒林经",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29n",
+      "created": 1646293421229,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29o",
+      "created": 1646293421229,
+      "text": "sheng da han lin jing"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29p",
+      "created": 1646293421229,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29q",
+      "created": 1646293421229,
+      "text": "Th.0562"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29r",
+      "created": 1646293421229,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29s",
+      "created": 1646293421229,
+      "text": "Ot.0180"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29t",
+      "created": 1646293421229,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29u",
+      "created": 1646293421229,
+      "text": "T.1392?"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29v",
+      "created": 1646293421229,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29w",
+      "created": 1646293421229,
+      "text": "Y.0720?"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29x",
+      "created": 1646293421229,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF29y",
+      "created": 1646293421229,
+      "text": "同?"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF29z",
+      "created": 1646293421229,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF2A0",
+      "created": 1646293421229,
+      "text": "Th.及Ot.本皆未載對應之經典，是否同Ym.374。「བསིལ」P.及Ym.本皆載「གསིལ」"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdZF2A1",
+      "created": 1646293421229,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdZF2A2",
+      "created": 1646293421229,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aolhnw97",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

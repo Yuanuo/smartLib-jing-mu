@@ -1,0 +1,171 @@
+{
+ "root": {
+  "data": {"text": "聖轉女身授記經"},
+  "children": [{
+   "data": {
+    "id": "z5oVdOlvF",
+    "created": 1646293420579,
+    "text": "登噶目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdOkur",
+      "created": 1646293420578,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOkus",
+      "created": 1646293420578,
+      "text": "Ym.142"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOkut",
+      "created": 1646293420578,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOkuu",
+      "created": 1646293420578,
+      "text": "འཕགས་པ་བུད་མེད་འགྱུར་བ་ལུང་བསྟན་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOkuv",
+      "created": 1646293420578,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOkuw",
+      "created": 1646293420578,
+      "text": "聖轉女身授記經",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOkux",
+      "created": 1646293420578,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOkuy",
+      "created": 1646293420578,
+      "text": "圣转女身授记经",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOkuz",
+      "created": 1646293420578,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOkv0",
+      "created": 1646293420578,
+      "text": "sheng zhuan nv shen shou ji jing"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOkv1",
+      "created": 1646293420578,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOkv2",
+      "created": 1646293420578,
+      "text": "Th.0190"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOkv3",
+      "created": 1646293420578,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOlv4",
+      "created": 1646293420579,
+      "text": "Ot.0857"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOlv5",
+      "created": 1646293420579,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOlv6",
+      "created": 1646293420579,
+      "text": "T.0565～T.0566"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOlv7",
+      "created": 1646293420579,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOlv8",
+      "created": 1646293420579,
+      "text": "Y.0283"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOlv9",
+      "created": 1646293420579,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOlvA",
+      "created": 1646293420579,
+      "text": "同"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOlvB",
+      "created": 1646293420579,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdOlvC",
+      "created": 1646293420579,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdOlvD",
+      "created": 1646293420579,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdOlvE",
+      "created": 1646293420579,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aolh5t3x",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

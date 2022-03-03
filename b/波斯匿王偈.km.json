@@ -1,194 +1,350 @@
 {
  "root": {
   "data": {"text": "波斯匿王偈"},
-  "children": [{
-   "data": {
-    "id": "z5mp3ZfQF",
-    "created": 1646268496759,
-    "text": "布頓目錄（寶賢譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5mp3ZfQF",
+     "created": 1646268496759,
+     "text": "布頓目錄（寶賢譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5mp3ZePm",
+       "created": 1646268496758,
+       "text": "布頓編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZePn",
+       "created": 1646268496758,
+       "text": "Bt.0054"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZePo",
+       "created": 1646268496758,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZePp",
+       "created": 1646268496758,
+       "text": "Ym.291"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZePq",
+       "created": 1646268496758,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZePr",
+       "created": 1646268496758,
+       "text": "གསལ་རྒྱལ་གྱི་ཚིགས་བཅད།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZePs",
+       "created": 1646268496758,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZePt",
+       "created": 1646268496758,
+       "text": "波斯匿王偈",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfPu",
+       "created": 1646268496759,
+       "text": "卷　　數"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfPv",
+       "created": 1646268496759,
+       "text": "100頌"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfPw",
+       "created": 1646268496759,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5mp3ZfPx",
+        "created": 1646268496759,
+        "text": "寶賢譯"
+       }},
+       {"data": {
+        "id": "z5mp3ZfPy",
+        "created": 1646268496759,
+        "text": "寶賢",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfPz",
+       "created": 1646268496759,
+       "text": "藏 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQ0",
+       "created": 1646268496759,
+       "text": "214"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfQ1",
+       "created": 1646268496759,
+       "text": "漢 頁 碼"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQ2",
+       "created": 1646268496759,
+       "text": "70-009"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfQ3",
+       "created": 1646268496759,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQ4",
+       "created": 1646268496759,
+       "text": "Th.0322"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfQ5",
+       "created": 1646268496759,
+       "text": "大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQ6",
+       "created": 1646268496759,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfQ7",
+       "created": 1646268496759,
+       "text": "至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQ8",
+       "created": 1646268496759,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfQ9",
+       "created": 1646268496759,
+       "text": "蕃　　本"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQA",
+       "created": 1646268496759,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfQB",
+       "created": 1646268496759,
+       "text": "備　　注"
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQC",
+       "created": 1646268496759,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5mp3ZfQD",
+       "created": 1646268496759,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5mp3ZfQE",
+       "created": 1646268496759,
+       "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
+      }}]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5mp3ZePm",
-      "created": 1646268496758,
-      "text": "布頓編號"
-     },
-     "children": [{"data": {
-      "id": "z5mp3ZePn",
-      "created": 1646268496758,
-      "text": "Bt.0054"
-     }}]
+   {
+    "data": {
+     "id": "z5oVdX71tN",
+     "created": 1646293421097,
+     "text": "登噶目錄"
     },
-    {
-     "data": {
-      "id": "z5mp3ZePo",
-      "created": 1646268496758,
-      "text": "芳村編號"
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdX71sz",
+       "created": 1646293421097,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71t0",
+       "created": 1646293421097,
+       "text": "Ym.291"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZePp",
-      "created": 1646268496758,
-      "text": "Ym.291"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZePq",
-      "created": 1646268496758,
-      "text": "藏文經名"
+     {
+      "data": {
+       "id": "z5oVdX71t1",
+       "created": 1646293421097,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71t2",
+       "created": 1646293421097,
+       "text": "གསལ་རྒྱལ་གྱིས་ཚིགས་སུ་བཅད་པ་བརྒྱ།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZePr",
-      "created": 1646268496758,
-      "text": "གསལ་རྒྱལ་གྱི་ཚིགས་བཅད།",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZePs",
-      "created": 1646268496758,
-      "text": "漢譯經名"
+     {
+      "data": {
+       "id": "z5oVdX71t3",
+       "created": 1646293421097,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71t4",
+       "created": 1646293421097,
+       "text": "波斯匿王偈"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZePt",
-      "created": 1646268496758,
-      "text": "波斯匿王偈",
-      "resource": ["alias"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfPu",
-      "created": 1646268496759,
-      "text": "卷　　數"
+     {
+      "data": {
+       "id": "z5oVdX71t5",
+       "created": 1646293421097,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71t6",
+       "created": 1646293421097,
+       "text": "波斯匿王偈"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZfPv",
-      "created": 1646268496759,
-      "text": "100頌"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfPw",
-      "created": 1646268496759,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5oVdX71t7",
+       "created": 1646293421097,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71t8",
+       "created": 1646293421097,
+       "text": "bo si ni wang ji"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5mp3ZfPx",
-       "created": 1646268496759,
-       "text": "寶賢譯"
-      }},
-      {"data": {
-       "id": "z5mp3ZfPy",
-       "created": 1646268496759,
-       "text": "寶賢",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfPz",
-      "created": 1646268496759,
-      "text": "藏 頁 碼"
+     {
+      "data": {
+       "id": "z5oVdX71t9",
+       "created": 1646293421097,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71tA",
+       "created": 1646293421097,
+       "text": "Th.0322"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZfQ0",
-      "created": 1646268496759,
-      "text": "214"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfQ1",
-      "created": 1646268496759,
-      "text": "漢 頁 碼"
+     {
+      "data": {
+       "id": "z5oVdX71tB",
+       "created": 1646293421097,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71tC",
+       "created": 1646293421097,
+       "text": "Ot.0988"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZfQ2",
-      "created": 1646268496759,
-      "text": "70-009"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfQ3",
-      "created": 1646268496759,
-      "text": "東北編號"
+     {
+      "data": {
+       "id": "z5oVdX71tD",
+       "created": 1646293421097,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71tE",
+       "created": 1646293421097,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZfQ4",
-      "created": 1646268496759,
-      "text": "Th.0322"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfQ5",
-      "created": 1646268496759,
-      "text": "大正藏經號"
+     {
+      "data": {
+       "id": "z5oVdX71tF",
+       "created": 1646293421097,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71tG",
+       "created": 1646293421097,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZfQ6",
-      "created": 1646268496759,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfQ7",
-      "created": 1646268496759,
-      "text": "至元錄編號"
+     {
+      "data": {
+       "id": "z5oVdX71tH",
+       "created": 1646293421097,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71tI",
+       "created": 1646293421097,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZfQ8",
-      "created": 1646268496759,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfQ9",
-      "created": 1646268496759,
-      "text": "蕃　　本"
+     {
+      "data": {
+       "id": "z5oVdX71tJ",
+       "created": 1646293421097,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71tK",
+       "created": 1646293421097,
+       "text": "Tp.本無「བརྒྱ」"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5mp3ZfQA",
-      "created": 1646268496759,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfQB",
-      "created": 1646268496759,
-      "text": "備　　注"
-     },
-     "children": [{"data": {
-      "id": "z5mp3ZfQC",
-      "created": 1646268496759,
-      "text": ""
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5mp3ZfQD",
-      "created": 1646268496759,
-      "text": "欄位說明",
-      "resource": ["excludes"]
-     },
-     "children": [{"data": {
-      "id": "z5mp3ZfQE",
-      "created": 1646268496759,
-      "text": "藏文經名及頁碼依據中國藏學出版社1988年印刷之《བུ་སྟོན་ཆོས་འབྱུང་གསུང་རབ་རིན་པོ་ཆེའི་མཇོད།》。\n漢譯本及頁碼根據《世界佛學名著譯叢》第70冊（郭和卿譯《布頓佛教史》下冊），且在頁碼前面加上「70-」表示第70冊。\n「芳村編號」依芳村修基著《デンカルマ目錄の研究》（簡稱《芳村目錄》，且用Ym.表示此編號）。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大正藏經號」參照《東北目錄》所載之《大正藏》經號。\n「至元錄編號」欄內只列與蕃本有關之經目編號。"
-     }}]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdX71tL",
+       "created": 1646293421097,
+       "text": "欄位說明"
+      },
+      "children": [{"data": {
+       "id": "z5oVdX71tM",
+       "created": 1646293421097,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -197,6 +353,9 @@
   "id": "l0a9r9th1i",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["布頓目錄"]
+  "catalog": [
+   "布頓目錄",
+   "登噶目錄"
+  ]
  }
 }

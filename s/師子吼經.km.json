@@ -1,0 +1,171 @@
+{
+ "root": {
+  "data": {"text": "聖師子吼經"},
+  "children": [{
+   "data": {
+    "id": "z5oVdQP168",
+    "created": 1646293420681,
+    "text": "登噶目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdQO15k",
+      "created": 1646293420680,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15l",
+      "created": 1646293420680,
+      "text": "Ym.169"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO15m",
+      "created": 1646293420680,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15n",
+      "created": 1646293420680,
+      "text": "འཕགས་པ་སེང་གེའི་སྒྲ་བསྒྲགས་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO15o",
+      "created": 1646293420680,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15p",
+      "created": 1646293420680,
+      "text": "聖師子吼經",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO15q",
+      "created": 1646293420680,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15r",
+      "created": 1646293420680,
+      "text": "圣师子吼经",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO15s",
+      "created": 1646293420680,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15t",
+      "created": 1646293420680,
+      "text": "sheng shi zi hou jing"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO15u",
+      "created": 1646293420680,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15v",
+      "created": 1646293420680,
+      "text": "Th.0209"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO15w",
+      "created": 1646293420680,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15x",
+      "created": 1646293420680,
+      "text": "Ot.0875"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO15y",
+      "created": 1646293420680,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO15z",
+      "created": 1646293420680,
+      "text": "T.0835～T.0836"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO160",
+      "created": 1646293420680,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO161",
+      "created": 1646293420680,
+      "text": "Y.0320"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO162",
+      "created": 1646293420680,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO163",
+      "created": 1646293420680,
+      "text": "同"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO164",
+      "created": 1646293420680,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO165",
+      "created": 1646293420680,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdQO166",
+      "created": 1646293420680,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdQO167",
+      "created": 1646293420680,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aolh8n4o",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

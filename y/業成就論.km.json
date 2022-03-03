@@ -1,355 +1,512 @@
 {
  "root": {
   "data": {"text": "業成就論"},
-  "children": [{
-   "data": {
-    "id": "z5cYxnlNgn",
-    "created": 1646116897961,
-    "text": "現藏錄（天親菩薩造　元魏 毘目智仙譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxnlNgn",
+     "created": 1646116897961,
+     "text": "現藏錄（天親菩薩造　元魏 毘目智仙譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxnlNfq",
+       "created": 1646116897961,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxnlNfr",
+         "created": 1646116897961,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxnlNfs",
+         "created": 1646116897961,
+         "text": "業成就論",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxnlNft",
+         "created": 1646116897961,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxnlNfu",
+         "created": 1646116897961,
+         "text": "业成就论",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxnlNfv",
+         "created": 1646116897961,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxnlNfw",
+         "created": 1646116897961,
+         "text": "ye cheng jiu lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxnlNg5",
+         "created": 1646116897961,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxnlNg6",
+         "created": 1646116897961,
+         "text": "Yeh ch'eng chiu lun"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxnlNg7",
+         "created": 1646116897961,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxnlNg8",
+         "created": 1646116897961,
+         "text": "Karmasiddhiprakaraṇa",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxnlNg9",
+         "created": 1646116897961,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxnlNgA",
+         "created": 1646116897961,
+         "text": "Las grub-paḥi rab-tu-byed-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxnlNgB",
+         "created": 1646116897961,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxnlNgC",
+         "created": 1646116897961,
+         "text": "업성취론",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxnlNfx",
+       "created": 1646116897961,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxnlNfy",
+       "created": 1646116897961,
+       "text": "元魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxnlNfz",
+       "created": 1646116897961,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxnlNg0",
+        "created": 1646116897961,
+        "text": "天親菩薩造　元魏 毘目智仙譯"
+       }},
+       {"data": {
+        "id": "z5cYxnlNg1",
+        "created": 1646116897961,
+        "text": "世親",
+        "resource": ["translator"]
+       }},
+       {"data": {
+        "id": "z5cYxnlNg2",
+        "created": 1646116897961,
+        "text": "毗目智仙",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxnlNg3",
+       "created": 1646116897961,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxnlNg4",
+       "created": 1646116897961,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxnlNgD",
+       "created": 1646116897961,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxnlNgE",
+       "created": 1646116897961,
+       "text": "Translation by Vimokṣaprajñā: 25th day, 7th month, 3rd year of Hsing Ho (興和), Yüan Wei dynasty (元魏) (September 1st, A.D. 541) in Chin-hua Monastery (金華寺).T.2154-543b:2."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxnlNgF",
+       "created": 1646116897961,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxnlNgG",
+        "created": 1646116897961,
+        "text": "【北京版】Mdo-ḥgrel (Sems-tsam) (śi)156a-168b"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgH",
+        "created": 1646116897961,
+        "text": "【奈塘版】Mdo-ḥgrel (śi)147a-159b"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgI",
+        "created": 1646116897961,
+        "text": "【德格版】Sems-tsa m(śi)134b-145a"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgJ",
+        "created": 1646116897961,
+        "text": "【卓尼版】Sems-tsa m(śi)138b-149a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxnlNgK",
+       "created": 1646116897961,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxnlNgL",
+       "created": 1646116897961,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxnlNgM",
+       "created": 1646116897961,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxnlNgN",
+        "created": 1646116897961,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgO",
+        "created": 1646116897961,
+        "text": "【開寶藏】No.599《業成就論》元魏 天竺三藏毗目智仙 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：竭"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgP",
+        "created": 1646116897961,
+        "text": "【崇寧藏】No.601《業成就論》 卷數：1 千字文：力(252)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgQ",
+        "created": 1646116897961,
+        "text": "【毘盧藏】No.603《業成就論》 千字文：力(252)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgR",
+        "created": 1646116897961,
+        "text": "【圓覺藏】No.611《業成就論》 千字文：力(252)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgS",
+        "created": 1646116897961,
+        "text": "【趙城金藏】No.603《業成就論》 卷數：1 千字文：竭"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgT",
+        "created": 1646116897961,
+        "text": "【資福藏】No.616《業成就論》 卷數：1 千字文：力(252)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgU",
+        "created": 1646116897961,
+        "text": "【磧砂藏】No.621《業成就論》元魏 毗目智仙譯 部別：集義論 / 冊數：17 / 頁數：44 / 卷數：1 千字文：力 9 (252)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgV",
+        "created": 1646116897961,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgW",
+        "created": 1646116897961,
+        "text": "【高麗藏】No.602《業成就論》元魏天竺三藏毘目智仙譯 部別：大乘論 集義論 / 冊數：17 頁數：416(原版) 422(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竭"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgX",
+        "created": 1646116897961,
+        "text": "【普寧藏】No.613《業成就論》 卷數：1 千字文：力(252)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgY",
+        "created": 1646116897961,
+        "text": "【至元錄】No.1329《業成就論》天親菩薩造　元魏天竺三藏毘目智仙等譯 梵名：迦囉(二合)麻悉怛必囉　迦囉拏沙悉特囉(二合) / 卷數：1 / 譯次：(第一譯) 千字文：靈(440)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgZ",
+        "created": 1646116897961,
+        "text": "【洪武南藏】No.550《業成就論》天親菩薩 造　元魏 天竺三藏毗目智仙 譯　 冊數：88 / 頁數：137 / 卷數：1 千字文：力 9 (252)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNga",
+        "created": 1646116897961,
+        "text": "【永樂南藏】No.1356《業成就論》 部別：大乘論 千字文：爵(406)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgb",
+        "created": 1646116897961,
+        "text": "【永樂北藏】No.1268《業成就論》東魏毗目智仙譯 部別：大乘論 / 冊數：104 / 頁數：643 / 卷數：1 千字文：匪"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgc",
+        "created": 1646116897961,
+        "text": "【嘉興藏】No.1214《業成就論》東魏毗目智仙譯 部別：大乘論 / 法寶總目錄經號：1213 千字文 / 函號：［正藏］ 匪(383)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgd",
+        "created": 1646116897961,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNge",
+        "created": 1646116897961,
+        "text": "【乾隆藏】No.1215《業成就論》天親造　(元魏)毗目智仙譯 部別：大乘論 / 冊數：86 / 頁數：1 / 卷數：1 千字文：匪"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgf",
+        "created": 1646116897961,
+        "text": "【縮刻藏】No.892《業成就論》天親菩薩造　元魏毘目智仙譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 9 (18)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgg",
+        "created": 1646116897961,
+        "text": "【卍正藏】No.1230《業成就論》元魏 毗目智仙譯 部別：大乘論 / 冊數：41 / 頁數：335 / 卷數：1 原版套數：第 22 套"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgh",
+        "created": 1646116897961,
+        "text": "【大正藏】No.1608《業成就論》天親菩薩造 元魏 毘目智仙譯 部別：瑜伽部下 / 冊數：31 / 頁數：777 / 卷數：1 相關經典：縮-來9,卍-22.2 參考資料：No.1609"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgi",
+        "created": 1646116897961,
+        "text": "【佛教大藏經】No.934《業成就論》元魏 毘目智仙譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：713 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgj",
+        "created": 1646116897961,
+        "text": "【中華藏】No.652《業成就論》天親菩薩造，元魏天竺三藏毗目智仙譯 冊數：30 / 頁數：560 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgk",
+        "created": 1646116897961,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgl",
+        "created": 1646116897961,
+        "text": "【南條文雄編號】 Nj. 1222"
+       }},
+       {"data": {
+        "id": "z5cYxnlNgm",
+        "created": 1646116897961,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1608"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYxnlNfq",
-      "created": 1646116897961,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYxnlNfr",
-        "created": 1646116897961,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxnlNfs",
-        "created": 1646116897961,
-        "text": "業成就論",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5oVdnh4I3",
+     "created": 1646293422125,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdng4Hf",
+       "created": 1646293422124,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYxnlNft",
-        "created": 1646116897961,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxnlNfu",
-        "created": 1646116897961,
-        "text": "业成就论",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdng4Hg",
+       "created": 1646293422124,
+       "text": "Ym.645"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdng4Hh",
+       "created": 1646293422124,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYxnlNfv",
-        "created": 1646116897961,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYxnlNfw",
-        "created": 1646116897961,
-        "text": "ye cheng jiu lun"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdng4Hi",
+       "created": 1646293422124,
+       "text": "ལས་བསྒྲུབ་པའི་རབ་ཏུ་བྱེད་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdng4Hj",
+       "created": 1646293422124,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYxnlNg5",
-        "created": 1646116897961,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYxnlNg6",
-        "created": 1646116897961,
-        "text": "Yeh ch'eng chiu lun"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdng4Hk",
+       "created": 1646293422124,
+       "text": "業成就論"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdng4Hl",
+       "created": 1646293422124,
+       "text": "经名简体"
       },
-      {
-       "data": {
-        "id": "z5cYxnlNg7",
-        "created": 1646116897961,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxnlNg8",
-        "created": 1646116897961,
-        "text": "Karmasiddhiprakaraṇa",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdng4Hm",
+       "created": 1646293422124,
+       "text": "业成就论"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdng4Hn",
+       "created": 1646293422124,
+       "text": "经名简拼"
       },
-      {
-       "data": {
-        "id": "z5cYxnlNg9",
-        "created": 1646116897961,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxnlNgA",
-        "created": 1646116897961,
-        "text": "Las grub-paḥi rab-tu-byed-pa"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdng4Ho",
+       "created": 1646293422124,
+       "text": "ye cheng jiu lun"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdng4Hp",
+       "created": 1646293422124,
+       "text": "東北編號"
       },
-      {
-       "data": {
-        "id": "z5cYxnlNgB",
-        "created": 1646116897961,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxnlNgC",
-        "created": 1646116897961,
-        "text": "업성취론",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxnlNfx",
-      "created": 1646116897961,
-      "text": "时域"
+      "children": [{"data": {
+       "id": "z5oVdng4Hq",
+       "created": 1646293422124,
+       "text": "Th.4062"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxnlNfy",
-      "created": 1646116897961,
-      "text": "元魏",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxnlNfz",
-      "created": 1646116897961,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5oVdng4Hr",
+       "created": 1646293422124,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdng4Hs",
+       "created": 1646293422124,
+       "text": ""
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxnlNg0",
-       "created": 1646116897961,
-       "text": "天親菩薩造　元魏 毘目智仙譯"
-      }},
-      {"data": {
-       "id": "z5cYxnlNg1",
-       "created": 1646116897961,
-       "text": "世親",
-       "resource": ["translator"]
-      }},
-      {"data": {
-       "id": "z5cYxnlNg2",
-       "created": 1646116897961,
-       "text": "毗目智仙",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxnlNg3",
-      "created": 1646116897961,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5oVdng4Ht",
+       "created": 1646293422124,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdng4Hu",
+       "created": 1646293422124,
+       "text": "T.1608～T.1609"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxnlNg4",
-      "created": 1646116897961,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxnlNgD",
-      "created": 1646116897961,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5oVdng4Hv",
+       "created": 1646293422124,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdng4Hw",
+       "created": 1646293422124,
+       "text": "Y.1330"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxnlNgE",
-      "created": 1646116897961,
-      "text": "Translation by Vimokṣaprajñā: 25th day, 7th month, 3rd year of Hsing Ho (興和), Yüan Wei dynasty (元魏) (September 1st, A.D. 541) in Chin-hua Monastery (金華寺).T.2154-543b:2."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxnlNgF",
-      "created": 1646116897961,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5oVdng4Hx",
+       "created": 1646293422124,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdng4Hy",
+       "created": 1646293422124,
+       "text": "同"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxnlNgG",
-       "created": 1646116897961,
-       "text": "【北京版】Mdo-ḥgrel (Sems-tsam) (śi)156a-168b"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgH",
-       "created": 1646116897961,
-       "text": "【奈塘版】Mdo-ḥgrel (śi)147a-159b"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgI",
-       "created": 1646116897961,
-       "text": "【德格版】Sems-tsa m(śi)134b-145a"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgJ",
-       "created": 1646116897961,
-       "text": "【卓尼版】Sems-tsa m(śi)138b-149a"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxnlNgK",
-      "created": 1646116897961,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5oVdng4Hz",
+       "created": 1646293422124,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdng4I0",
+       "created": 1646293422124,
+       "text": "「པའི」Tp.本載「བ་ལ」"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYxnlNgL",
-      "created": 1646116897961,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxnlNgM",
-      "created": 1646116897961,
-      "text": "漢文大藏經各藏細目"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYxnlNgN",
-       "created": 1646116897961,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgO",
-       "created": 1646116897961,
-       "text": "【開寶藏】No.599《業成就論》元魏 天竺三藏毗目智仙 譯 部別：大乘論 菩薩對法藏--集義論 / 卷數：1 千字文：竭"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgP",
-       "created": 1646116897961,
-       "text": "【崇寧藏】No.601《業成就論》 卷數：1 千字文：力(252)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgQ",
-       "created": 1646116897961,
-       "text": "【毘盧藏】No.603《業成就論》 千字文：力(252)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgR",
-       "created": 1646116897961,
-       "text": "【圓覺藏】No.611《業成就論》 千字文：力(252)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgS",
-       "created": 1646116897961,
-       "text": "【趙城金藏】No.603《業成就論》 卷數：1 千字文：竭"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgT",
-       "created": 1646116897961,
-       "text": "【資福藏】No.616《業成就論》 卷數：1 千字文：力(252)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgU",
-       "created": 1646116897961,
-       "text": "【磧砂藏】No.621《業成就論》元魏 毗目智仙譯 部別：集義論 / 冊數：17 / 頁數：44 / 卷數：1 千字文：力 9 (252)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgV",
-       "created": 1646116897961,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgW",
-       "created": 1646116897961,
-       "text": "【高麗藏】No.602《業成就論》元魏天竺三藏毘目智仙譯 部別：大乘論 集義論 / 冊數：17 頁數：416(原版) 422(新文豐) / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：竭"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgX",
-       "created": 1646116897961,
-       "text": "【普寧藏】No.613《業成就論》 卷數：1 千字文：力(252)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgY",
-       "created": 1646116897961,
-       "text": "【至元錄】No.1329《業成就論》天親菩薩造　元魏天竺三藏毘目智仙等譯 梵名：迦囉(二合)麻悉怛必囉　迦囉拏沙悉特囉(二合) / 卷數：1 / 譯次：(第一譯) 千字文：靈(440)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgZ",
-       "created": 1646116897961,
-       "text": "【洪武南藏】No.550《業成就論》天親菩薩 造　元魏 天竺三藏毗目智仙 譯　 冊數：88 / 頁數：137 / 卷數：1 千字文：力 9 (252)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNga",
-       "created": 1646116897961,
-       "text": "【永樂南藏】No.1356《業成就論》 部別：大乘論 千字文：爵(406)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgb",
-       "created": 1646116897961,
-       "text": "【永樂北藏】No.1268《業成就論》東魏毗目智仙譯 部別：大乘論 / 冊數：104 / 頁數：643 / 卷數：1 千字文：匪"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgc",
-       "created": 1646116897961,
-       "text": "【嘉興藏】No.1214《業成就論》東魏毗目智仙譯 部別：大乘論 / 法寶總目錄經號：1213 千字文 / 函號：［正藏］ 匪(383)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgd",
-       "created": 1646116897961,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNge",
-       "created": 1646116897961,
-       "text": "【乾隆藏】No.1215《業成就論》天親造　(元魏)毗目智仙譯 部別：大乘論 / 冊數：86 / 頁數：1 / 卷數：1 千字文：匪"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgf",
-       "created": 1646116897961,
-       "text": "【縮刻藏】No.892《業成就論》天親菩薩造　元魏毘目智仙譯 部別：印度大乘宗經論 / 卷數：1 千字文：來 9 (18)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgg",
-       "created": 1646116897961,
-       "text": "【卍正藏】No.1230《業成就論》元魏 毗目智仙譯 部別：大乘論 / 冊數：41 / 頁數：335 / 卷數：1 原版套數：第 22 套"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgh",
-       "created": 1646116897961,
-       "text": "【大正藏】No.1608《業成就論》天親菩薩造 元魏 毘目智仙譯 部別：瑜伽部下 / 冊數：31 / 頁數：777 / 卷數：1 相關經典：縮-來9,卍-22.2 參考資料：No.1609"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgi",
-       "created": 1646116897961,
-       "text": "【佛教大藏經】No.934《業成就論》元魏 毘目智仙譯 部別：大乘宗經論 論部二 / 冊數：36 / 頁數：713 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgj",
-       "created": 1646116897961,
-       "text": "【中華藏】No.652《業成就論》天親菩薩造，元魏天竺三藏毗目智仙譯 冊數：30 / 頁數：560 / 卷數：1 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgk",
-       "created": 1646116897961,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgl",
-       "created": 1646116897961,
-       "text": "【南條文雄編號】 Nj. 1222"
-      }},
-      {"data": {
-       "id": "z5cYxnlNgm",
-       "created": 1646116897961,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：1608"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdng4I1",
+       "created": 1646293422124,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdng4I2",
+       "created": 1646293422124,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -358,6 +515,9 @@
   "id": "l07rhzft1ca",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

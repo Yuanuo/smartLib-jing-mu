@@ -1,354 +1,513 @@
 {
  "root": {
   "data": {"text": "佛說佛地經"},
-  "children": [{
-   "data": {
-    "id": "z5cYx4bAZ3",
-    "created": 1646116895161,
-    "text": "現藏錄（唐 玄奘譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx4bAZ3",
+     "created": 1646116895161,
+     "text": "現藏錄（唐 玄奘譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx4bAY6",
+       "created": 1646116895161,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx4bAY7",
+         "created": 1646116895161,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4bAY8",
+         "created": 1646116895161,
+         "text": "佛說佛地經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4bAY9",
+         "created": 1646116895161,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4bAYA",
+         "created": 1646116895161,
+         "text": "佛说佛地经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4bAYB",
+         "created": 1646116895161,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4bAYC",
+         "created": 1646116895161,
+         "text": "fo shuo fo di jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4bAYK",
+         "created": 1646116895161,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4bAYL",
+         "created": 1646116895161,
+         "text": "Fo ti ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4bAYM",
+         "created": 1646116895161,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4bAYN",
+         "created": 1646116895161,
+         "text": "Buddhabhūmi(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4bAYO",
+         "created": 1646116895161,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4bAYP",
+         "created": 1646116895161,
+         "text": "Saṅs-rgyas-kyi sa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4bAYQ",
+         "created": 1646116895161,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4bAYR",
+         "created": 1646116895161,
+         "text": "불지경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4bAYD",
+       "created": 1646116895161,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4bAYE",
+       "created": 1646116895161,
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4bAYF",
+       "created": 1646116895161,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4bAYG",
+        "created": 1646116895161,
+        "text": "唐 玄奘譯"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYH",
+        "created": 1646116895161,
+        "text": "玄奘",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4bAYI",
+       "created": 1646116895161,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4bAYJ",
+       "created": 1646116895161,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4bAYS",
+       "created": 1646116895161,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4bAYT",
+       "created": 1646116895161,
+       "text": "Translation by Hsüan-tsang: 15th day, 7th month, 19th year of Cheng Kuan (貞觀), T'ang dynasty (唐) (August 12th, A.D. 645) in Hung-fu Monastery (弘福寺).T. 2154-556a:21."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4bAYU",
+       "created": 1646116895161,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4bAYV",
+        "created": 1646116895161,
+        "text": "【北京版】Mdo-sna-tshogs (hu)37b-47a"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYW",
+        "created": 1646116895161,
+        "text": "【奈塘版】Mdo (za)51a--64a"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYX",
+        "created": 1646116895161,
+        "text": "【德格版】Mdo-sde (ya)36a-44b"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYY",
+        "created": 1646116895161,
+        "text": "【拉薩版】Mdo (za)101b-114b"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYZ",
+        "created": 1646116895161,
+        "text": "【卓尼版】Mdo-maṅ (ya)42a-53a"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4bAYa",
+       "created": 1646116895161,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4bAYb",
+       "created": 1646116895161,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4bAYc",
+       "created": 1646116895161,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4bAYd",
+        "created": 1646116895161,
+        "text": "【房山石經】No.33《佛說佛地經》三藏法師玄奘奉詔譯 冊數：2 / 頁數：308 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.611《佛說佛地經》(大唐)三藏法師玄奘奉詔譯 冊數：13 / 頁數：588 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：景"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYe",
+        "created": 1646116895161,
+        "text": "【開寶藏】No.462《佛地經》唐 三藏玄奘 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYf",
+        "created": 1646116895161,
+        "text": "【崇寧藏】No.467《佛地論》 卷數：1 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYg",
+        "created": 1646116895161,
+        "text": "【毘盧藏】No.465《佛地經》唐玄奘譯 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYh",
+        "created": 1646116895161,
+        "text": "【圓覺藏】No.478《佛地經》 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYi",
+        "created": 1646116895161,
+        "text": "【趙城金藏】No.461《佛地經》 卷數：1 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYj",
+        "created": 1646116895161,
+        "text": "【資福藏】No.484《佛地經》 卷數：1 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYk",
+        "created": 1646116895161,
+        "text": "【磧砂藏】No.483《佛說佛地經》唐 玄奘譯 部別：五大部外單譯經 / 冊數：13 / 頁數：710 / 卷數：1 千字文：羊 5 (200)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYl",
+        "created": 1646116895161,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYm",
+        "created": 1646116895161,
+        "text": "【高麗藏】No.460《佛地經》三藏法師玄奘譯 部別：大乘經 單譯 / 冊數：13 頁數：1201 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羔"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYn",
+        "created": 1646116895161,
+        "text": "【普寧藏】No.477《佛說佛地經》 卷數：1 千字文：羊(200)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYo",
+        "created": 1646116895161,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYp",
+        "created": 1646116895161,
+        "text": "【洪武南藏】No.421《佛說佛地經》大唐 三藏法師玄奘 奉制譯 冊數：68 / 頁數：28 / 卷數：1 千字文：羊 5 (200)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYq",
+        "created": 1646116895161,
+        "text": "【永樂南藏】No.476《佛說佛地經》 部別：大乘經-單譯經 千字文：行(202)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYr",
+        "created": 1646116895161,
+        "text": "【永樂北藏】No.528《佛說佛地經》唐玄奘譯 部別：大乘經單經譯 / 冊數：53 / 頁數：709 / 卷數：1 千字文：行"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYs",
+        "created": 1646116895161,
+        "text": "【嘉興藏】No.497《佛說佛地經》唐玄奘譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0497 千字文 / 函號：［正藏］ 行(202)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYt",
+        "created": 1646116895161,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYu",
+        "created": 1646116895161,
+        "text": "【乾隆藏】No.498《佛說佛地經》唐 玄奘譯 部別：大乘單譯經 / 冊數：45 / 頁數：445 / 卷數：1 千字文：行"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYv",
+        "created": 1646116895161,
+        "text": "【縮刻藏】No.171《佛說佛地經》唐玄奘譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 8 (4)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYw",
+        "created": 1646116895161,
+        "text": "【卍正藏】No.504《佛說佛地經》大唐 玄奘譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：5 / 卷數：1 原版套數：第 12 套"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYx",
+        "created": 1646116895161,
+        "text": "【大正藏】No.680《佛說佛地經》唐 玄奘譯 部別：經集部三 / 冊數：16 / 頁數：720 / 卷數：1 相關經典：縮-黃8,卍-12.6,國-經13 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYx4bAYy",
+        "created": 1646116895161,
+        "text": "【佛教大藏經】No.173《佛說佛地經》唐 玄奘譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：565 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYx4bAYz",
+        "created": 1646116895161,
+        "text": "【中華藏】No.510《佛說佛地經》三藏法師玄奘奉詔護譯 冊數：24 / 頁數：109 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx4bAZ0",
+        "created": 1646116895161,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4bAZ1",
+        "created": 1646116895161,
+        "text": "【南條文雄編號】 Nj. 0502"
+       }},
+       {"data": {
+        "id": "z5cYx4bAZ2",
+        "created": 1646116895161,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：680"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYx4bAY6",
-      "created": 1646116895161,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYx4bAY7",
-        "created": 1646116895161,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4bAY8",
-        "created": 1646116895161,
-        "text": "佛說佛地經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5oVdRG1CB",
+     "created": 1646293420734,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdRG1Bn",
+       "created": 1646293420734,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYx4bAY9",
-        "created": 1646116895161,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4bAYA",
-        "created": 1646116895161,
-        "text": "佛说佛地经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdRG1Bo",
+       "created": 1646293420734,
+       "text": "Ym.184"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdRG1Bp",
+       "created": 1646293420734,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYx4bAYB",
-        "created": 1646116895161,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4bAYC",
-        "created": 1646116895161,
-        "text": "fo shuo fo di jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdRG1Bq",
+       "created": 1646293420734,
+       "text": "འཕགས་པ་སངས་རྒྱས་ཀྱི་ས།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdRG1Br",
+       "created": 1646293420734,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYx4bAYK",
-        "created": 1646116895161,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4bAYL",
-        "created": 1646116895161,
-        "text": "Fo ti ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdRG1Bs",
+       "created": 1646293420734,
+       "text": "聖佛地經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdRG1Bt",
+       "created": 1646293420734,
+       "text": "经名简体"
       },
-      {
-       "data": {
-        "id": "z5cYx4bAYM",
-        "created": 1646116895161,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4bAYN",
-        "created": 1646116895161,
-        "text": "Buddhabhūmi(sūtra)",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdRG1Bu",
+       "created": 1646293420734,
+       "text": "圣佛地经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdRG1Bv",
+       "created": 1646293420734,
+       "text": "经名简拼"
       },
-      {
-       "data": {
-        "id": "z5cYx4bAYO",
-        "created": 1646116895161,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4bAYP",
-        "created": 1646116895161,
-        "text": "Saṅs-rgyas-kyi sa"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdRG1Bw",
+       "created": 1646293420734,
+       "text": "sheng fo di jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdRG1Bx",
+       "created": 1646293420734,
+       "text": "東北編號"
       },
-      {
-       "data": {
-        "id": "z5cYx4bAYQ",
-        "created": 1646116895161,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4bAYR",
-        "created": 1646116895161,
-        "text": "불지경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx4bAYD",
-      "created": 1646116895161,
-      "text": "时域"
+      "children": [{"data": {
+       "id": "z5oVdRG1By",
+       "created": 1646293420734,
+       "text": "Th.0275"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4bAYE",
-      "created": 1646116895161,
-      "text": "唐",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4bAYF",
-      "created": 1646116895161,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5oVdRG1Bz",
+       "created": 1646293420734,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdRG1C0",
+       "created": 1646293420734,
+       "text": "Ot.0941"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx4bAYG",
-       "created": 1646116895161,
-       "text": "唐 玄奘譯"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYH",
-       "created": 1646116895161,
-       "text": "玄奘",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx4bAYI",
-      "created": 1646116895161,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5oVdRG1C1",
+       "created": 1646293420734,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdRG1C2",
+       "created": 1646293420734,
+       "text": "T.0680"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4bAYJ",
-      "created": 1646116895161,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4bAYS",
-      "created": 1646116895161,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5oVdRG1C3",
+       "created": 1646293420734,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdRG1C4",
+       "created": 1646293420734,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4bAYT",
-      "created": 1646116895161,
-      "text": "Translation by Hsüan-tsang: 15th day, 7th month, 19th year of Cheng Kuan (貞觀), T'ang dynasty (唐) (August 12th, A.D. 645) in Hung-fu Monastery (弘福寺).T. 2154-556a:21."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4bAYU",
-      "created": 1646116895161,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5oVdRG1C5",
+       "created": 1646293420734,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdRG1C6",
+       "created": 1646293420734,
+       "text": ""
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx4bAYV",
-       "created": 1646116895161,
-       "text": "【北京版】Mdo-sna-tshogs (hu)37b-47a"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYW",
-       "created": 1646116895161,
-       "text": "【奈塘版】Mdo (za)51a--64a"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYX",
-       "created": 1646116895161,
-       "text": "【德格版】Mdo-sde (ya)36a-44b"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYY",
-       "created": 1646116895161,
-       "text": "【拉薩版】Mdo (za)101b-114b"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYZ",
-       "created": 1646116895161,
-       "text": "【卓尼版】Mdo-maṅ (ya)42a-53a"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx4bAYa",
-      "created": 1646116895161,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5oVdRG1C7",
+       "created": 1646293420734,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdRG1C8",
+       "created": 1646293420734,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4bAYb",
-      "created": 1646116895161,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4bAYc",
-      "created": 1646116895161,
-      "text": "漢文大藏經各藏細目"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYx4bAYd",
-       "created": 1646116895161,
-       "text": "【房山石經】No.33《佛說佛地經》三藏法師玄奘奉詔譯 冊數：2 / 頁數：308 / 卷數：1 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.611《佛說佛地經》(大唐)三藏法師玄奘奉詔譯 冊數：13 / 頁數：588 / 卷數：1 / 刻經年代：金 無刻石年代 / 瀏覽：目錄圖檔 千字文：景"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYe",
-       "created": 1646116895161,
-       "text": "【開寶藏】No.462《佛地經》唐 三藏玄奘 譯 部別：大乘經 大乘經單譯 / 卷數：1 千字文：羔"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYf",
-       "created": 1646116895161,
-       "text": "【崇寧藏】No.467《佛地論》 卷數：1 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYg",
-       "created": 1646116895161,
-       "text": "【毘盧藏】No.465《佛地經》唐玄奘譯 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYh",
-       "created": 1646116895161,
-       "text": "【圓覺藏】No.478《佛地經》 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYi",
-       "created": 1646116895161,
-       "text": "【趙城金藏】No.461《佛地經》 卷數：1 千字文：羔"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYj",
-       "created": 1646116895161,
-       "text": "【資福藏】No.484《佛地經》 卷數：1 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYk",
-       "created": 1646116895161,
-       "text": "【磧砂藏】No.483《佛說佛地經》唐 玄奘譯 部別：五大部外單譯經 / 冊數：13 / 頁數：710 / 卷數：1 千字文：羊 5 (200)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYl",
-       "created": 1646116895161,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYm",
-       "created": 1646116895161,
-       "text": "【高麗藏】No.460《佛地經》三藏法師玄奘譯 部別：大乘經 單譯 / 冊數：13 頁數：1201 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：羔"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYn",
-       "created": 1646116895161,
-       "text": "【普寧藏】No.477《佛說佛地經》 卷數：1 千字文：羊(200)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYo",
-       "created": 1646116895161,
-       "text": "【至元錄】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYp",
-       "created": 1646116895161,
-       "text": "【洪武南藏】No.421《佛說佛地經》大唐 三藏法師玄奘 奉制譯 冊數：68 / 頁數：28 / 卷數：1 千字文：羊 5 (200)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYq",
-       "created": 1646116895161,
-       "text": "【永樂南藏】No.476《佛說佛地經》 部別：大乘經-單譯經 千字文：行(202)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYr",
-       "created": 1646116895161,
-       "text": "【永樂北藏】No.528《佛說佛地經》唐玄奘譯 部別：大乘經單經譯 / 冊數：53 / 頁數：709 / 卷數：1 千字文：行"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYs",
-       "created": 1646116895161,
-       "text": "【嘉興藏】No.497《佛說佛地經》唐玄奘譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0497 千字文 / 函號：［正藏］ 行(202)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYt",
-       "created": 1646116895161,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYu",
-       "created": 1646116895161,
-       "text": "【乾隆藏】No.498《佛說佛地經》唐 玄奘譯 部別：大乘單譯經 / 冊數：45 / 頁數：445 / 卷數：1 千字文：行"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYv",
-       "created": 1646116895161,
-       "text": "【縮刻藏】No.171《佛說佛地經》唐玄奘譯 部別：大乘經-方等部 / 卷數：1 千字文：黃 8 (4)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYw",
-       "created": 1646116895161,
-       "text": "【卍正藏】No.504《佛說佛地經》大唐 玄奘譯 部別：大乘經 單譯經 / 冊數：22 / 頁數：5 / 卷數：1 原版套數：第 12 套"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYx",
-       "created": 1646116895161,
-       "text": "【大正藏】No.680《佛說佛地經》唐 玄奘譯 部別：經集部三 / 冊數：16 / 頁數：720 / 卷數：1 相關經典：縮-黃8,卍-12.6,國-經13 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYx4bAYy",
-       "created": 1646116895161,
-       "text": "【佛教大藏經】No.173《佛說佛地經》唐 玄奘譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：565 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYx4bAYz",
-       "created": 1646116895161,
-       "text": "【中華藏】No.510《佛說佛地經》三藏法師玄奘奉詔護譯 冊數：24 / 頁數：109 / 卷數：1 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYx4bAZ0",
-       "created": 1646116895161,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4bAZ1",
-       "created": 1646116895161,
-       "text": "【南條文雄編號】 Nj. 0502"
-      }},
-      {"data": {
-       "id": "z5cYx4bAZ2",
-       "created": 1646116895161,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：680"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdRG1C9",
+       "created": 1646293420734,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdRG1CA",
+       "created": 1646293420734,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +516,9 @@
   "id": "l07rhxa1kw",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

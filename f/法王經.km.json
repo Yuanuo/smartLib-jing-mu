@@ -1,226 +1,385 @@
 {
  "root": {
   "data": {"text": "法王經"},
-  "children": [{
-   "data": {
-    "id": "z5cYycZcqx",
-    "created": 1646116901111,
-    "text": "現藏錄"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYycZcqx",
+     "created": 1646116901111,
+     "text": "現藏錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYycZcqL",
+       "created": 1646116901111,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYycZcqM",
+         "created": 1646116901111,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYycZcqN",
+         "created": 1646116901111,
+         "text": "法王經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYycZcqO",
+         "created": 1646116901111,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYycZcqP",
+         "created": 1646116901111,
+         "text": "法王经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYycZcqQ",
+         "created": 1646116901111,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYycZcqR",
+         "created": 1646116901111,
+         "text": "fa wang jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYycZcqS",
+       "created": 1646116901111,
+       "text": "作／譯者"
+      },
+      "children": [{"data": {
+       "id": "z5cYycZcqT",
+       "created": 1646116901111,
+       "text": "失譯",
+       "resource": ["translator"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYycZcqU",
+       "created": 1646116901111,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYycZcqV",
+       "created": 1646116901111,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYycZcqW",
+       "created": 1646116901111,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYycZcqX",
+        "created": 1646116901111,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqY",
+        "created": 1646116901111,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqZ",
+        "created": 1646116901111,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqa",
+        "created": 1646116901111,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqb",
+        "created": 1646116901111,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqc",
+        "created": 1646116901111,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqd",
+        "created": 1646116901111,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqe",
+        "created": 1646116901111,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqf",
+        "created": 1646116901111,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqg",
+        "created": 1646116901111,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqh",
+        "created": 1646116901111,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqi",
+        "created": 1646116901111,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqj",
+        "created": 1646116901111,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqk",
+        "created": 1646116901111,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcql",
+        "created": 1646116901111,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqm",
+        "created": 1646116901111,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqn",
+        "created": 1646116901111,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqo",
+        "created": 1646116901111,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqp",
+        "created": 1646116901111,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqq",
+        "created": 1646116901111,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqr",
+        "created": 1646116901111,
+        "text": "【大正藏】No.2883《法王經》 部別：疑似部全 / 冊數：85 / 頁數：1384 / 卷數：1 相關經典： 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYycZcqs",
+        "created": 1646116901111,
+        "text": "【佛教大藏經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqt",
+        "created": 1646116901111,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqu",
+        "created": 1646116901111,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqv",
+        "created": 1646116901111,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYycZcqw",
+        "created": 1646116901111,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2883"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYycZcqL",
-      "created": 1646116901111,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYycZcqM",
-        "created": 1646116901111,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYycZcqN",
-        "created": 1646116901111,
-        "text": "法王經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5oVdPZ105",
+     "created": 1646293420629,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdPYzh",
+       "created": 1646293420628,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYycZcqO",
-        "created": 1646116901111,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYycZcqP",
-        "created": 1646116901111,
-        "text": "法王经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdPYzi",
+       "created": 1646293420628,
+       "text": "Ym.154"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPYzj",
+       "created": 1646293420628,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYycZcqQ",
-        "created": 1646116901111,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYycZcqR",
-        "created": 1646116901111,
-        "text": "fa wang jing"
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYycZcqS",
-      "created": 1646116901111,
-      "text": "作／譯者"
+      "children": [{"data": {
+       "id": "z5oVdPYzk",
+       "created": 1646293420628,
+       "text": "འཕགས་པ་ཆོས་ཀྱི་རྒྱལ་པོའི་མདོ།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYycZcqT",
-      "created": 1646116901111,
-      "text": "失譯",
-      "resource": ["translator"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYycZcqU",
-      "created": 1646116901111,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5oVdPYzl",
+       "created": 1646293420628,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPYzm",
+       "created": 1646293420628,
+       "text": "聖法王經",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYycZcqV",
-      "created": 1646116901111,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYycZcqW",
-      "created": 1646116901111,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5oVdPYzn",
+       "created": 1646293420628,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPYzo",
+       "created": 1646293420628,
+       "text": "圣法王经",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYycZcqX",
-       "created": 1646116901111,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqY",
-       "created": 1646116901111,
-       "text": "【開寶藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqZ",
-       "created": 1646116901111,
-       "text": "【崇寧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqa",
-       "created": 1646116901111,
-       "text": "【毘盧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqb",
-       "created": 1646116901111,
-       "text": "【圓覺藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqc",
-       "created": 1646116901111,
-       "text": "【趙城金藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqd",
-       "created": 1646116901111,
-       "text": "【資福藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqe",
-       "created": 1646116901111,
-       "text": "【磧砂藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqf",
-       "created": 1646116901111,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqg",
-       "created": 1646116901111,
-       "text": "【高麗藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqh",
-       "created": 1646116901111,
-       "text": "【普寧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqi",
-       "created": 1646116901111,
-       "text": "【至元錄】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqj",
-       "created": 1646116901111,
-       "text": "【洪武南藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqk",
-       "created": 1646116901111,
-       "text": "【永樂南藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcql",
-       "created": 1646116901111,
-       "text": "【永樂北藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqm",
-       "created": 1646116901111,
-       "text": "【嘉興藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqn",
-       "created": 1646116901111,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqo",
-       "created": 1646116901111,
-       "text": "【乾隆藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqp",
-       "created": 1646116901111,
-       "text": "【縮刻藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqq",
-       "created": 1646116901111,
-       "text": "【卍正藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqr",
-       "created": 1646116901111,
-       "text": "【大正藏】No.2883《法王經》 部別：疑似部全 / 冊數：85 / 頁數：1384 / 卷數：1 相關經典： 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYycZcqs",
-       "created": 1646116901111,
-       "text": "【佛教大藏經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqt",
-       "created": 1646116901111,
-       "text": "【中華藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqu",
-       "created": 1646116901111,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqv",
-       "created": 1646116901111,
-       "text": "【南條文雄編號】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYycZcqw",
-       "created": 1646116901111,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：2883"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdPYzp",
+       "created": 1646293420628,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZzq",
+       "created": 1646293420629,
+       "text": "sheng fa wang jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPZzr",
+       "created": 1646293420629,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZzs",
+       "created": 1646293420629,
+       "text": "Th.0243"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPZzt",
+       "created": 1646293420629,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZzu",
+       "created": 1646293420629,
+       "text": "Ot.0909"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPZzv",
+       "created": 1646293420629,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZzw",
+       "created": 1646293420629,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPZzx",
+       "created": 1646293420629,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZzy",
+       "created": 1646293420629,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPZzz",
+       "created": 1646293420629,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZ100",
+       "created": 1646293420629,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPZ101",
+       "created": 1646293420629,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZ102",
+       "created": 1646293420629,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPZ103",
+       "created": 1646293420629,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdPZ104",
+       "created": 1646293420629,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -229,6 +388,9 @@
   "id": "l07ri1vb2dr",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

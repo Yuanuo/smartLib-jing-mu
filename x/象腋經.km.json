@@ -1,325 +1,484 @@
 {
  "root": {
   "data": {"text": "佛說象腋經"},
-  "children": [{
-   "data": {
-    "id": "z5cYxByCVt",
-    "created": 1646116895618,
-    "text": "現藏錄（劉宋 曇摩蜜多譯）"
-   },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYxByCV1",
-      "created": 1646116895618,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYxByCV2",
-        "created": 1646116895618,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxByCV3",
-        "created": 1646116895618,
-        "text": "佛說象腋經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxByCV4",
-        "created": 1646116895618,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYxByCV5",
-        "created": 1646116895618,
-        "text": "佛说象腋经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxByCV6",
-        "created": 1646116895618,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYxByCV7",
-        "created": 1646116895618,
-        "text": "fo shuo xiang ye jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxByCVF",
-        "created": 1646116895618,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYxByCVG",
-        "created": 1646116895618,
-        "text": "Hsiang yeh ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxByCVH",
-        "created": 1646116895618,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxByCVI",
-        "created": 1646116895618,
-        "text": "Hastikakṣyā(sūtra)",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxByCVJ",
-        "created": 1646116895618,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxByCVK",
-        "created": 1646116895618,
-        "text": "Glaṅ-poḥi rtsal"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYxByCVL",
-        "created": 1646116895618,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYxByCVM",
-        "created": 1646116895618,
-        "text": "상액경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxByCV8",
-      "created": 1646116895618,
-      "text": "时域"
-     },
-     "children": [{"data": {
-      "id": "z5cYxByCV9",
-      "created": 1646116895618,
-      "text": "劉宋",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxByCVA",
-      "created": 1646116895618,
-      "text": "作／譯者"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYxByCVB",
-       "created": 1646116895618,
-       "text": "劉宋 曇摩蜜多譯"
-      }},
-      {"data": {
-       "id": "z5cYxByCVC",
-       "created": 1646116895618,
-       "text": "曇摩蜜多",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYxByCVD",
-      "created": 1646116895618,
-      "text": "卷數"
-     },
-     "children": [{"data": {
-      "id": "z5cYxByCVE",
-      "created": 1646116895618,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYxByCVN",
-      "created": 1646116895618,
-      "text": "翻譯概述"
-     },
-     "children": [{"data": {
-      "id": "z5cYxByCVO",
-      "created": 1646116895618,
-      "text": "Translation by Dharmamitra: 18th year of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 441), in Ch'i-yüan Monastery (祇洹寺).T. 2151-361b:15."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYxByCVP",
+  "children": [
+   {
+    "data": {
+     "id": "z5cYxByCVt",
      "created": 1646116895618,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYxByCVQ",
-      "created": 1646116895618,
-      "text": "出處"
-     },
-     "children": [{"data": {
-      "id": "z5cYxByCVR",
-      "created": 1646116895618,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
+     "text": "現藏錄（劉宋 曇摩蜜多譯）"
     },
-    {
-     "data": {
-      "id": "z5cYxByCVS",
-      "created": 1646116895618,
-      "text": "漢文大藏經各藏細目"
+    "children": [
+     {
+      "data": {
+       "id": "z5cYxByCV1",
+       "created": 1646116895618,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYxByCV2",
+         "created": 1646116895618,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxByCV3",
+         "created": 1646116895618,
+         "text": "佛說象腋經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxByCV4",
+         "created": 1646116895618,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYxByCV5",
+         "created": 1646116895618,
+         "text": "佛说象腋经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxByCV6",
+         "created": 1646116895618,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYxByCV7",
+         "created": 1646116895618,
+         "text": "fo shuo xiang ye jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxByCVF",
+         "created": 1646116895618,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYxByCVG",
+         "created": 1646116895618,
+         "text": "Hsiang yeh ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxByCVH",
+         "created": 1646116895618,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxByCVI",
+         "created": 1646116895618,
+         "text": "Hastikakṣyā(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxByCVJ",
+         "created": 1646116895618,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxByCVK",
+         "created": 1646116895618,
+         "text": "Glaṅ-poḥi rtsal"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYxByCVL",
+         "created": 1646116895618,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYxByCVM",
+         "created": 1646116895618,
+         "text": "상액경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYxByCVT",
+     {
+      "data": {
+       "id": "z5cYxByCV8",
        "created": 1646116895618,
-       "text": "【房山石經】No.433《佛說象腋經》(劉宋)罽賓三藏曇摩蜜多譯 冊數：10 / 頁數：356 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：豈"
-      }},
-      {"data": {
-       "id": "z5cYxByCVU",
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYxByCV9",
        "created": 1646116895618,
-       "text": "【開寶藏】No.186《象腋經》劉宋 罽賓三藏曇摩蜜多 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：鞠"
-      }},
-      {"data": {
-       "id": "z5cYxByCVV",
+       "text": "劉宋",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxByCVA",
        "created": 1646116895618,
-       "text": "【崇寧藏】No.186《佛說象腋經》 卷數：1 千字文：養(156)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVW",
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxByCVB",
+        "created": 1646116895618,
+        "text": "劉宋 曇摩蜜多譯"
+       }},
+       {"data": {
+        "id": "z5cYxByCVC",
+        "created": 1646116895618,
+        "text": "曇摩蜜多",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYxByCVD",
        "created": 1646116895618,
-       "text": "【毘盧藏】No.182《象腋經》宋曇摩蜜多譯 參考年代：(靖康元．十二) 千字文：養(156)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVX",
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYxByCVE",
        "created": 1646116895618,
-       "text": "【圓覺藏】No.194《象腋經》 千字文：養(156)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVY",
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxByCVN",
        "created": 1646116895618,
-       "text": "【趙城金藏】No.185《象腋經》 卷數：1 千字文：鞠"
-      }},
-      {"data": {
-       "id": "z5cYxByCVZ",
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYxByCVO",
        "created": 1646116895618,
-       "text": "【資福藏】No.198《象腋經》 卷數：1 (一) 千字文：養(156)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVa",
+       "text": "Translation by Dharmamitra: 18th year of Yüan Chia (元嘉), Liu Sung dynasty (劉宋) (A.D. 441), in Ch'i-yüan Monastery (祇洹寺).T. 2151-361b:15."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYxByCVP",
+      "created": 1646116895618,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYxByCVQ",
        "created": 1646116895618,
-       "text": "【磧砂藏】No.198《佛說象腋經》劉宋 曇摩蜜多譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：826 / 卷數：1 千字文：養 3 (156)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVb",
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYxByCVR",
        "created": 1646116895618,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVc",
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYxByCVS",
        "created": 1646116895618,
-       "text": "【高麗藏】No.185《象腋經》宋罽賓三藏曇摩密多譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：117 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鞠"
-      }},
-      {"data": {
-       "id": "z5cYxByCVd",
-       "created": 1646116895618,
-       "text": "【普寧藏】No.193《佛說象腋經》 卷數：1 千字文：養(156)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVe",
-       "created": 1646116895618,
-       "text": "【至元錄】No.264《象腋經》宋罽賓三藏曇摩蜜多譯 梵名：訶思(二合)低迦乞沙 / 卷數：1 / 譯次：(第四譯) 千字文：良(168)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVf",
-       "created": 1646116895618,
-       "text": "【洪武南藏】No.179《象腋經》劉宋 罽賔三藏法師曇摩密多 譯 冊數：53 / 頁數：225 / 卷數：1 千字文：養 3 (156)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVg",
-       "created": 1646116895618,
-       "text": "【永樂南藏】No.187《佛說象腋經》 部別：大乘經-五大部外重譯經 千字文：慕(162)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVh",
-       "created": 1646116895618,
-       "text": "【永樂北藏】No.217《佛說象腋經》劉宋曇摩蜜多譯 部別：大乘經五大部外重譯經 / 冊數：42 / 頁數：637 / 卷數：1 千字文：慕"
-      }},
-      {"data": {
-       "id": "z5cYxByCVi",
-       "created": 1646116895618,
-       "text": "【嘉興藏】No.188《佛說象腋經》劉宋曇摩蜜多譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0188 千字文 / 函號：［正藏］ 慕(162)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVj",
-       "created": 1646116895618,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVk",
-       "created": 1646116895618,
-       "text": "【乾隆藏】No.189《佛說象腋經》劉宋 曇摩蜜多譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：534 / 卷數：1 千字文：慕"
-      }},
-      {"data": {
-       "id": "z5cYxByCVl",
-       "created": 1646116895618,
-       "text": "【縮刻藏】No.368《佛說象腋經》宋曇摩蜜多譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVm",
-       "created": 1646116895618,
-       "text": "【卍正藏】No.192《佛說象腋經》宋 曇摩蜜多譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：655 / 卷數：1 原版套數：第 10 套"
-      }},
-      {"data": {
-       "id": "z5cYxByCVn",
-       "created": 1646116895618,
-       "text": "【大正藏】No.814《佛說象腋經》劉宋 曇摩蜜多譯 部別：經集部四 / 冊數：17 / 頁數：781 / 卷數：1 相關經典：縮-宙8,卍-10.4,國-經12 參考資料：No.813"
-      }},
-      {"data": {
-       "id": "z5cYxByCVo",
-       "created": 1646116895618,
-       "text": "【佛教大藏經】No.371《佛說象腋經》劉宋 曇摩蜜多譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：442 / 卷數：1"
-      }},
-      {"data": {
-       "id": "z5cYxByCVp",
-       "created": 1646116895618,
-       "text": "【中華藏】No.195《佛說象腋經》劉宋罽賓三藏曇摩蜜多譯 冊數：18 / 頁數：592 / 卷數：1 / 底本：金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYxByCVq",
-       "created": 1646116895618,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYxByCVr",
-       "created": 1646116895618,
-       "text": "【南條文雄編號】 Nj. 0193"
-      }},
-      {"data": {
-       "id": "z5cYxByCVs",
-       "created": 1646116895618,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：814"
-      }}
-     ]
-    }
-   ]
-  }]
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYxByCVT",
+        "created": 1646116895618,
+        "text": "【房山石經】No.433《佛說象腋經》(劉宋)罽賓三藏曇摩蜜多譯 冊數：10 / 頁數：356 / 卷數：1 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：豈"
+       }},
+       {"data": {
+        "id": "z5cYxByCVU",
+        "created": 1646116895618,
+        "text": "【開寶藏】No.186《象腋經》劉宋 罽賓三藏曇摩蜜多 譯 部別：大乘經 五大部外諸重譯經 / 卷數：1 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYxByCVV",
+        "created": 1646116895618,
+        "text": "【崇寧藏】No.186《佛說象腋經》 卷數：1 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVW",
+        "created": 1646116895618,
+        "text": "【毘盧藏】No.182《象腋經》宋曇摩蜜多譯 參考年代：(靖康元．十二) 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVX",
+        "created": 1646116895618,
+        "text": "【圓覺藏】No.194《象腋經》 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVY",
+        "created": 1646116895618,
+        "text": "【趙城金藏】No.185《象腋經》 卷數：1 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYxByCVZ",
+        "created": 1646116895618,
+        "text": "【資福藏】No.198《象腋經》 卷數：1 (一) 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVa",
+        "created": 1646116895618,
+        "text": "【磧砂藏】No.198《佛說象腋經》劉宋 曇摩蜜多譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：826 / 卷數：1 千字文：養 3 (156)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVb",
+        "created": 1646116895618,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVc",
+        "created": 1646116895618,
+        "text": "【高麗藏】No.185《象腋經》宋罽賓三藏曇摩密多譯 部別：大乘經 五大部外諸重譯經 / 冊數：11 頁數：117 / 卷數：1 / 連結：高麗大藏經 (圖檔) 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYxByCVd",
+        "created": 1646116895618,
+        "text": "【普寧藏】No.193《佛說象腋經》 卷數：1 千字文：養(156)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVe",
+        "created": 1646116895618,
+        "text": "【至元錄】No.264《象腋經》宋罽賓三藏曇摩蜜多譯 梵名：訶思(二合)低迦乞沙 / 卷數：1 / 譯次：(第四譯) 千字文：良(168)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVf",
+        "created": 1646116895618,
+        "text": "【洪武南藏】No.179《象腋經》劉宋 罽賔三藏法師曇摩密多 譯 冊數：53 / 頁數：225 / 卷數：1 千字文：養 3 (156)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVg",
+        "created": 1646116895618,
+        "text": "【永樂南藏】No.187《佛說象腋經》 部別：大乘經-五大部外重譯經 千字文：慕(162)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVh",
+        "created": 1646116895618,
+        "text": "【永樂北藏】No.217《佛說象腋經》劉宋曇摩蜜多譯 部別：大乘經五大部外重譯經 / 冊數：42 / 頁數：637 / 卷數：1 千字文：慕"
+       }},
+       {"data": {
+        "id": "z5cYxByCVi",
+        "created": 1646116895618,
+        "text": "【嘉興藏】No.188《佛說象腋經》劉宋曇摩蜜多譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0188 千字文 / 函號：［正藏］ 慕(162)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVj",
+        "created": 1646116895618,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVk",
+        "created": 1646116895618,
+        "text": "【乾隆藏】No.189《佛說象腋經》劉宋 曇摩蜜多譯 部別：大乘五大部外重譯經 / 冊數：36 / 頁數：534 / 卷數：1 千字文：慕"
+       }},
+       {"data": {
+        "id": "z5cYxByCVl",
+        "created": 1646116895618,
+        "text": "【縮刻藏】No.368《佛說象腋經》宋曇摩蜜多譯 部別：大乘經-方等部 / 卷數：1 千字文：宙 8 (6)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVm",
+        "created": 1646116895618,
+        "text": "【卍正藏】No.192《佛說象腋經》宋 曇摩蜜多譯 部別：大乘經 五大部外重譯經 / 冊數：17 / 頁數：655 / 卷數：1 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYxByCVn",
+        "created": 1646116895618,
+        "text": "【大正藏】No.814《佛說象腋經》劉宋 曇摩蜜多譯 部別：經集部四 / 冊數：17 / 頁數：781 / 卷數：1 相關經典：縮-宙8,卍-10.4,國-經12 參考資料：No.813"
+       }},
+       {"data": {
+        "id": "z5cYxByCVo",
+        "created": 1646116895618,
+        "text": "【佛教大藏經】No.371《佛說象腋經》劉宋 曇摩蜜多譯 部別：大乘經 方等部十 / 冊數：12 / 頁數：442 / 卷數：1"
+       }},
+       {"data": {
+        "id": "z5cYxByCVp",
+        "created": 1646116895618,
+        "text": "【中華藏】No.195《佛說象腋經》劉宋罽賓三藏曇摩蜜多譯 冊數：18 / 頁數：592 / 卷數：1 / 底本：金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYxByCVq",
+        "created": 1646116895618,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYxByCVr",
+        "created": 1646116895618,
+        "text": "【南條文雄編號】 Nj. 0193"
+       }},
+       {"data": {
+        "id": "z5cYxByCVs",
+        "created": 1646116895618,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：814"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oVdPd10U",
+     "created": 1646293420633,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdPc106",
+       "created": 1646293420632,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc107",
+       "created": 1646293420632,
+       "text": "Ym.155"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc108",
+       "created": 1646293420632,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc109",
+       "created": 1646293420632,
+       "text": "འཕགས་པ་གླང་པོ་ཆེའི་བརྩལ་གྱི་མདོ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10A",
+       "created": 1646293420632,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10B",
+       "created": 1646293420632,
+       "text": "聖象腋經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10C",
+       "created": 1646293420632,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10D",
+       "created": 1646293420632,
+       "text": "圣象腋经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10E",
+       "created": 1646293420632,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10F",
+       "created": 1646293420632,
+       "text": "sheng xiang ye jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10G",
+       "created": 1646293420632,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10H",
+       "created": 1646293420632,
+       "text": "Th.0207"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10I",
+       "created": 1646293420632,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10J",
+       "created": 1646293420632,
+       "text": "Ot.0873"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10K",
+       "created": 1646293420632,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10L",
+       "created": 1646293420632,
+       "text": "T.0813～T.0814"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10M",
+       "created": 1646293420632,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10N",
+       "created": 1646293420632,
+       "text": "Y.0264"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10O",
+       "created": 1646293420632,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10P",
+       "created": 1646293420632,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10Q",
+       "created": 1646293420632,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10R",
+       "created": 1646293420632,
+       "text": "「གླང་པོ་ཆེའི་བརྩལ」Tp. 本作「གླང་པོའི་རྩལ」"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPc10S",
+       "created": 1646293420632,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdPc10T",
+       "created": 1646293420632,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -328,6 +487,9 @@
   "id": "l07rhxmqor",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

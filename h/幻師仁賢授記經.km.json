@@ -1,0 +1,171 @@
+{
+ "root": {
+  "data": {"text": "聖幻師仁賢授記經"},
+  "children": [{
+   "data": {
+    "id": "z5oVdFeHj",
+    "created": 1646293420014,
+    "text": "登噶目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdFdHL",
+      "created": 1646293420013,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFdHM",
+      "created": 1646293420013,
+      "text": "Ym.044"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFdHN",
+      "created": 1646293420013,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFdHO",
+      "created": 1646293420013,
+      "text": "འཕགས་པ་སྒྱུ་མ་མཁན་བཟང་པོ་ལུང་བསྟན་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFdHP",
+      "created": 1646293420013,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHQ",
+      "created": 1646293420014,
+      "text": "聖幻師仁賢授記經",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHR",
+      "created": 1646293420014,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHS",
+      "created": 1646293420014,
+      "text": "圣幻师仁贤授记经",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHT",
+      "created": 1646293420014,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHU",
+      "created": 1646293420014,
+      "text": "sheng huan shi ren xian shou ji jing"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHV",
+      "created": 1646293420014,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHW",
+      "created": 1646293420014,
+      "text": "Th.0065"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHX",
+      "created": 1646293420014,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHY",
+      "created": 1646293420014,
+      "text": "Ot.0760(21)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHZ",
+      "created": 1646293420014,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHa",
+      "created": 1646293420014,
+      "text": "T.0310(21); T.0324"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHb",
+      "created": 1646293420014,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHc",
+      "created": 1646293420014,
+      "text": "Y.0062"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHd",
+      "created": 1646293420014,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHe",
+      "created": 1646293420014,
+      "text": "同"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHf",
+      "created": 1646293420014,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHg",
+      "created": 1646293420014,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdFeHh",
+      "created": 1646293420014,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdFeHi",
+      "created": 1646293420014,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aolgq417",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

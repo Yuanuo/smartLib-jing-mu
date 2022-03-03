@@ -1,325 +1,484 @@
 {
  "root": {
   "data": {"text": "入楞伽經"},
-  "children": [{
-   "data": {
-    "id": "z5cYx4GAR6",
-    "created": 1646116895140,
-    "text": "現藏錄（元魏 菩提流支譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx4GAR6",
+     "created": 1646116895140,
+     "text": "現藏錄（元魏 菩提流支譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx4FAQE",
+       "created": 1646116895139,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx4FAQF",
+         "created": 1646116895139,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4FAQG",
+         "created": 1646116895139,
+         "text": "入楞伽經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4FAQH",
+         "created": 1646116895139,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4FAQI",
+         "created": 1646116895139,
+         "text": "入楞伽经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4FAQJ",
+         "created": 1646116895139,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4FAQK",
+         "created": 1646116895139,
+         "text": "ru leng jia jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4FAQS",
+         "created": 1646116895139,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4FAQT",
+         "created": 1646116895139,
+         "text": "Ju leng ch'ieh ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4FAQU",
+         "created": 1646116895139,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4FAQV",
+         "created": 1646116895139,
+         "text": "Laṅkāvatārasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4FAQW",
+         "created": 1646116895139,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4FAQX",
+         "created": 1646116895139,
+         "text": "Laṅ-kar-gśegs-paḥi theg-pa chen-poḥi mdo"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4FAQY",
+         "created": 1646116895139,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4FAQZ",
+         "created": 1646116895139,
+         "text": "입능가경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4FAQL",
+       "created": 1646116895139,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4FAQM",
+       "created": 1646116895139,
+       "text": "元魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4FAQN",
+       "created": 1646116895139,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4FAQO",
+        "created": 1646116895139,
+        "text": "元魏 菩提流支譯"
+       }},
+       {"data": {
+        "id": "z5cYx4FAQP",
+        "created": 1646116895139,
+        "text": "菩提流支",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4FAQQ",
+       "created": 1646116895139,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4FAQR",
+       "created": 1646116895139,
+       "text": "10"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4FAQa",
+       "created": 1646116895139,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4FAQb",
+       "created": 1646116895139,
+       "text": "Translation by Bodhiruci: 2nd year of Yen Ch'ang (延昌), Later Wei dynasty (後魏) (A.D. 513) in Lo-tu (洛都).T. 2153-387b11."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYx4FAQc",
+      "created": 1646116895139,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYx4FAQd",
+       "created": 1646116895139,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4GAQe",
+       "created": 1646116895140,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4GAQf",
+       "created": 1646116895140,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4GAQg",
+        "created": 1646116895140,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQh",
+        "created": 1646116895140,
+        "text": "【開寶藏】No.161《入楞伽經》元魏 天竺三藏菩提流支 譯 部別：大乘經 五大部外諸重譯經 / 卷數：10 千字文：身"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQi",
+        "created": 1646116895140,
+        "text": "【崇寧藏】No.162《入楞伽經》 卷數：10 千字文：髮(148)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQj",
+        "created": 1646116895140,
+        "text": "【毘盧藏】No.158《入楞伽經》元魏菩提流支譯 參考年代：(靖康元．三、四、五) 千字文：髮(148)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQk",
+        "created": 1646116895140,
+        "text": "【圓覺藏】No.159《入楞伽經》 卷數：10 千字文：髮(148)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQl",
+        "created": 1646116895140,
+        "text": "【趙城金藏】No.160《入楞伽經》 卷數：10 千字文：身"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQm",
+        "created": 1646116895140,
+        "text": "【資福藏】No.163《入楞伽經》 卷數：10 (十卷) 千字文：髮(148)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQn",
+        "created": 1646116895140,
+        "text": "【磧砂藏】No.163《入楞伽經》元魏 菩提留支譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：381 / 卷數：10 千字文：髮 1 (148)-髮 10 (148)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQo",
+        "created": 1646116895140,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQp",
+        "created": 1646116895140,
+        "text": "【高麗藏】No.160《入楞伽經》元魏天竺三藏菩提留支譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：831 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：身"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQq",
+        "created": 1646116895140,
+        "text": "【普寧藏】No.158《入楞伽經》 卷數：10 千字文：髮(148)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQr",
+        "created": 1646116895140,
+        "text": "【至元錄】No.239《入楞伽經》元魏天竺三藏菩提流支譯 卷數：10 / 譯次：(第二譯) 千字文：傷(160)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQs",
+        "created": 1646116895140,
+        "text": "【洪武南藏】No.146《入楞伽經》元魏 天竺三藏法師菩提流支 第三譯 冊數：50 / 頁數：279 / 卷數：10 千字文：髮 1 (148)-髮 10 (148)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQt",
+        "created": 1646116895140,
+        "text": "【永樂南藏】No.162《入楞伽經》 部別：大乘經-五大部外重譯經 千字文：鞠(155)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQu",
+        "created": 1646116895140,
+        "text": "【永樂北藏】No.200《入楞伽經》元魏菩提留支譯 部別：大乘經五大部外重譯經 / 冊數：40 / 頁數：685 / 卷數：10 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQv",
+        "created": 1646116895140,
+        "text": "【嘉興藏】No.171《入楞伽經》元魏菩提留支譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0171 千字文 / 函號：［正藏］ 鞠(155)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQw",
+        "created": 1646116895140,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQx",
+        "created": 1646116895140,
+        "text": "【乾隆藏】No.172《入楞伽經》元魏 菩提留支譯 部別：大乘五大部外重譯經 / 冊數：35 / 頁數：95 / 卷數：10 千字文：鞠"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQy",
+        "created": 1646116895140,
+        "text": "【縮刻藏】No.155《入楞伽經》元魏菩提留支譯 部別：大乘經-方等部 / 卷數：10 千字文：黃 6 (4)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAQz",
+        "created": 1646116895140,
+        "text": "【卍正藏】No.174《入楞伽經》元魏 菩提留支譯 部別：大乘經 五大部外重譯經 / 冊數：16 / 頁數：880 / 卷數：10 原版套數：第 9 套"
+       }},
+       {"data": {
+        "id": "z5cYx4GAR0",
+        "created": 1646116895140,
+        "text": "【大正藏】No.671《入楞伽經》元魏 菩提流支譯 部別：經集部三 / 冊數：16 / 頁數：514 / 卷數：10 相關經典：縮-黃6,卍-9.10,國-經7 參考資料：Nos.670,672"
+       }},
+       {"data": {
+        "id": "z5cYx4GAR1",
+        "created": 1646116895140,
+        "text": "【佛教大藏經】No.157《入楞伽經》元魏 菩提流支譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：57 / 卷數：10"
+       }},
+       {"data": {
+        "id": "z5cYx4GAR2",
+        "created": 1646116895140,
+        "text": "【中華藏】No.169《入楞伽經》元魏天竺三藏菩提留支譯 冊數：17 / 頁數：622 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx4GAR3",
+        "created": 1646116895140,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4GAR4",
+        "created": 1646116895140,
+        "text": "【南條文雄編號】 Nj. 0176"
+       }},
+       {"data": {
+        "id": "z5cYx4GAR5",
+        "created": 1646116895140,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：671"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYx4FAQE",
-      "created": 1646116895139,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYx4FAQF",
-        "created": 1646116895139,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4FAQG",
-        "created": 1646116895139,
-        "text": "入楞伽經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4FAQH",
-        "created": 1646116895139,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4FAQI",
-        "created": 1646116895139,
-        "text": "入楞伽经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4FAQJ",
-        "created": 1646116895139,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4FAQK",
-        "created": 1646116895139,
-        "text": "ru leng jia jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4FAQS",
-        "created": 1646116895139,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4FAQT",
-        "created": 1646116895139,
-        "text": "Ju leng ch'ieh ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4FAQU",
-        "created": 1646116895139,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4FAQV",
-        "created": 1646116895139,
-        "text": "Laṅkāvatārasūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4FAQW",
-        "created": 1646116895139,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4FAQX",
-        "created": 1646116895139,
-        "text": "Laṅ-kar-gśegs-paḥi theg-pa chen-poḥi mdo"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4FAQY",
-        "created": 1646116895139,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4FAQZ",
-        "created": 1646116895139,
-        "text": "입능가경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
+   {
+    "data": {
+     "id": "z5oVdJ5XS",
+     "created": 1646293420227,
+     "text": "登噶目錄"
     },
-    {
-     "data": {
-      "id": "z5cYx4FAQL",
-      "created": 1646116895139,
-      "text": "时域"
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdJ4X4",
+       "created": 1646293420226,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ4X5",
+       "created": 1646293420226,
+       "text": "Ym.083"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4FAQM",
-      "created": 1646116895139,
-      "text": "元魏",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4FAQN",
-      "created": 1646116895139,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5oVdJ4X6",
+       "created": 1646293420226,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ4X7",
+       "created": 1646293420226,
+       "text": "འཕགས་པ་ལངྐར་གཤེགས་པ།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx4FAQO",
-       "created": 1646116895139,
-       "text": "元魏 菩提流支譯"
-      }},
-      {"data": {
-       "id": "z5cYx4FAQP",
-       "created": 1646116895139,
-       "text": "菩提流支",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx4FAQQ",
-      "created": 1646116895139,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5oVdJ4X8",
+       "created": 1646293420226,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ4X9",
+       "created": 1646293420226,
+       "text": "聖入楞伽經",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4FAQR",
-      "created": 1646116895139,
-      "text": "10"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4FAQa",
-      "created": 1646116895139,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5oVdJ4XA",
+       "created": 1646293420226,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ4XB",
+       "created": 1646293420226,
+       "text": "圣入楞伽经",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4FAQb",
-      "created": 1646116895139,
-      "text": "Translation by Bodhiruci: 2nd year of Yen Ch'ang (延昌), Later Wei dynasty (後魏) (A.D. 513) in Lo-tu (洛都).T. 2153-387b11."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYx4FAQc",
-     "created": 1646116895139,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYx4FAQd",
-      "created": 1646116895139,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5oVdJ5XC",
+       "created": 1646293420227,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XD",
+       "created": 1646293420227,
+       "text": "sheng ru leng jia jing"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx4GAQe",
-      "created": 1646116895140,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4GAQf",
-      "created": 1646116895140,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5oVdJ5XE",
+       "created": 1646293420227,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XF",
+       "created": 1646293420227,
+       "text": "Th.0107"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx4GAQg",
-       "created": 1646116895140,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQh",
-       "created": 1646116895140,
-       "text": "【開寶藏】No.161《入楞伽經》元魏 天竺三藏菩提流支 譯 部別：大乘經 五大部外諸重譯經 / 卷數：10 千字文：身"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQi",
-       "created": 1646116895140,
-       "text": "【崇寧藏】No.162《入楞伽經》 卷數：10 千字文：髮(148)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQj",
-       "created": 1646116895140,
-       "text": "【毘盧藏】No.158《入楞伽經》元魏菩提流支譯 參考年代：(靖康元．三、四、五) 千字文：髮(148)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQk",
-       "created": 1646116895140,
-       "text": "【圓覺藏】No.159《入楞伽經》 卷數：10 千字文：髮(148)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQl",
-       "created": 1646116895140,
-       "text": "【趙城金藏】No.160《入楞伽經》 卷數：10 千字文：身"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQm",
-       "created": 1646116895140,
-       "text": "【資福藏】No.163《入楞伽經》 卷數：10 (十卷) 千字文：髮(148)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQn",
-       "created": 1646116895140,
-       "text": "【磧砂藏】No.163《入楞伽經》元魏 菩提留支譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：381 / 卷數：10 千字文：髮 1 (148)-髮 10 (148)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQo",
-       "created": 1646116895140,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQp",
-       "created": 1646116895140,
-       "text": "【高麗藏】No.160《入楞伽經》元魏天竺三藏菩提留支譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：831 / 卷數：10 / 連結：高麗大藏經 (圖檔) 千字文：身"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQq",
-       "created": 1646116895140,
-       "text": "【普寧藏】No.158《入楞伽經》 卷數：10 千字文：髮(148)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQr",
-       "created": 1646116895140,
-       "text": "【至元錄】No.239《入楞伽經》元魏天竺三藏菩提流支譯 卷數：10 / 譯次：(第二譯) 千字文：傷(160)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQs",
-       "created": 1646116895140,
-       "text": "【洪武南藏】No.146《入楞伽經》元魏 天竺三藏法師菩提流支 第三譯 冊數：50 / 頁數：279 / 卷數：10 千字文：髮 1 (148)-髮 10 (148)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQt",
-       "created": 1646116895140,
-       "text": "【永樂南藏】No.162《入楞伽經》 部別：大乘經-五大部外重譯經 千字文：鞠(155)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQu",
-       "created": 1646116895140,
-       "text": "【永樂北藏】No.200《入楞伽經》元魏菩提留支譯 部別：大乘經五大部外重譯經 / 冊數：40 / 頁數：685 / 卷數：10 千字文：鞠"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQv",
-       "created": 1646116895140,
-       "text": "【嘉興藏】No.171《入楞伽經》元魏菩提留支譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0171 千字文 / 函號：［正藏］ 鞠(155)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQw",
-       "created": 1646116895140,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQx",
-       "created": 1646116895140,
-       "text": "【乾隆藏】No.172《入楞伽經》元魏 菩提留支譯 部別：大乘五大部外重譯經 / 冊數：35 / 頁數：95 / 卷數：10 千字文：鞠"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQy",
-       "created": 1646116895140,
-       "text": "【縮刻藏】No.155《入楞伽經》元魏菩提留支譯 部別：大乘經-方等部 / 卷數：10 千字文：黃 6 (4)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAQz",
-       "created": 1646116895140,
-       "text": "【卍正藏】No.174《入楞伽經》元魏 菩提留支譯 部別：大乘經 五大部外重譯經 / 冊數：16 / 頁數：880 / 卷數：10 原版套數：第 9 套"
-      }},
-      {"data": {
-       "id": "z5cYx4GAR0",
-       "created": 1646116895140,
-       "text": "【大正藏】No.671《入楞伽經》元魏 菩提流支譯 部別：經集部三 / 冊數：16 / 頁數：514 / 卷數：10 相關經典：縮-黃6,卍-9.10,國-經7 參考資料：Nos.670,672"
-      }},
-      {"data": {
-       "id": "z5cYx4GAR1",
-       "created": 1646116895140,
-       "text": "【佛教大藏經】No.157《入楞伽經》元魏 菩提流支譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：57 / 卷數：10"
-      }},
-      {"data": {
-       "id": "z5cYx4GAR2",
-       "created": 1646116895140,
-       "text": "【中華藏】No.169《入楞伽經》元魏天竺三藏菩提留支譯 冊數：17 / 頁數：622 / 卷數：10 / 底本：麗藏本 金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYx4GAR3",
-       "created": 1646116895140,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4GAR4",
-       "created": 1646116895140,
-       "text": "【南條文雄編號】 Nj. 0176"
-      }},
-      {"data": {
-       "id": "z5cYx4GAR5",
-       "created": 1646116895140,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：671"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdJ5XG",
+       "created": 1646293420227,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XH",
+       "created": 1646293420227,
+       "text": "Ot.0775"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdJ5XI",
+       "created": 1646293420227,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XJ",
+       "created": 1646293420227,
+       "text": "T.0670～T.0672"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdJ5XK",
+       "created": 1646293420227,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XL",
+       "created": 1646293420227,
+       "text": "Y.0240"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdJ5XM",
+       "created": 1646293420227,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XN",
+       "created": 1646293420227,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdJ5XO",
+       "created": 1646293420227,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XP",
+       "created": 1646293420227,
+       "text": "Ot.未列對應於T.0670; 「ལངྐར」Tp..本作「ལང་ཀར」"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdJ5XQ",
+       "created": 1646293420227,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdJ5XR",
+       "created": 1646293420227,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -328,6 +487,9 @@
   "id": "l07rhx9fkn",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

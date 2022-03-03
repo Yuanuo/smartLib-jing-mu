@@ -1,0 +1,171 @@
+{
+ "root": {
+  "data": {"text": "聖十地論"},
+  "children": [{
+   "data": {
+    "id": "z5oVdis3Vm",
+    "created": 1646293421826,
+    "text": "登噶目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdir3VO",
+      "created": 1646293421825,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3VP",
+      "created": 1646293421825,
+      "text": "Ym.537"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3VQ",
+      "created": 1646293421825,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3VR",
+      "created": 1646293421825,
+      "text": "འཕགས་པ་བཅུ་པའི་རྣམ་པར་བཤད་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3VS",
+      "created": 1646293421825,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3VT",
+      "created": 1646293421825,
+      "text": "聖十地論",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3VU",
+      "created": 1646293421825,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3VV",
+      "created": 1646293421825,
+      "text": "圣十地论",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3VW",
+      "created": 1646293421825,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3VX",
+      "created": 1646293421825,
+      "text": "sheng shi di lun"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3VY",
+      "created": 1646293421825,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3VZ",
+      "created": 1646293421825,
+      "text": "Th.3993"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3Va",
+      "created": 1646293421825,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3Vb",
+      "created": 1646293421825,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3Vc",
+      "created": 1646293421825,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3Vd",
+      "created": 1646293421825,
+      "text": "T.1522"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3Ve",
+      "created": 1646293421825,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3Vf",
+      "created": 1646293421825,
+      "text": "Y.1277"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3Vg",
+      "created": 1646293421825,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3Vh",
+      "created": 1646293421825,
+      "text": "同"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3Vi",
+      "created": 1646293421825,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdir3Vj",
+      "created": 1646293421825,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdir3Vk",
+      "created": 1646293421825,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdis3Vl",
+      "created": 1646293421826,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aoli4hew",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

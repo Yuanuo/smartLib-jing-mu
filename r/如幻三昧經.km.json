@@ -1,354 +1,513 @@
 {
  "root": {
   "data": {"text": "佛說如幻三昧經"},
-  "children": [{
-   "data": {
-    "id": "z5cYwmE5Ul",
-    "created": 1646116894022,
-    "text": "現藏錄（西晉 竺法護譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwmE5Ul",
+     "created": 1646116894022,
+     "text": "現藏錄（西晉 竺法護譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwmD5To",
+       "created": 1646116894021,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwmD5Tp",
+         "created": 1646116894021,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmD5Tq",
+         "created": 1646116894021,
+         "text": "佛說如幻三昧經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmD5Tr",
+         "created": 1646116894021,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmD5Ts",
+         "created": 1646116894021,
+         "text": "佛说如幻三昧经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmD5Tt",
+         "created": 1646116894021,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmD5Tu",
+         "created": 1646116894021,
+         "text": "fo shuo ru huan san mei jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmD5U2",
+         "created": 1646116894021,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmD5U3",
+         "created": 1646116894022,
+         "text": "Ju huan san mei ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmE5U4",
+         "created": 1646116894022,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmE5U5",
+         "created": 1646116894022,
+         "text": "Suṣṭhitamati(devaputra)paripṛcchā(sūtra)",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmE5U6",
+         "created": 1646116894022,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmE5U7",
+         "created": 1646116894022,
+         "text": "Lhaḥi-bu blo-gros-rab-gnas-kyis shus-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwmE5U8",
+         "created": 1646116894022,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwmE5U9",
+         "created": 1646116894022,
+         "text": "여환삼매경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwmD5Tv",
+       "created": 1646116894021,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmD5Tw",
+       "created": 1646116894021,
+       "text": "西晉",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmD5Tx",
+       "created": 1646116894021,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwmD5Ty",
+        "created": 1646116894021,
+        "text": "西晉 竺法護譯"
+       }},
+       {"data": {
+        "id": "z5cYwmD5Tz",
+        "created": 1646116894021,
+        "text": "法護",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwmD5U0",
+       "created": 1646116894021,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmD5U1",
+       "created": 1646116894021,
+       "text": "2"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmE5UA",
+       "created": 1646116894022,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmE5UB",
+       "created": 1646116894022,
+       "text": "Translation by Dharmarakṣa: (see K.39)."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmE5UC",
+       "created": 1646116894022,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwmE5UD",
+        "created": 1646116894022,
+        "text": "【北京版】Dkon-brtsegs (zi)302a-357a"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UE",
+        "created": 1646116894022,
+        "text": "【奈塘版】Dkon-brtsegs (cha)1-73b"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UF",
+        "created": 1646116894022,
+        "text": "【德格版】Dkon-brtsegs (ca)285a- (cha)27a"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UG",
+        "created": 1646116894022,
+        "text": "【拉薩版】Dkon-brtsegs (cha)1b-75b"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UH",
+        "created": 1646116894022,
+        "text": "【卓尼版】Dkon-brtsegs (ca)322a- (cha)27b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwmE5UI",
+       "created": 1646116894022,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwmE5UJ",
+       "created": 1646116894022,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwmE5UK",
+       "created": 1646116894022,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwmE5UL",
+        "created": 1646116894022,
+        "text": "【房山石經】No.370《佛說如幻三昧經》(西晉)三藏竺法護譯 冊數：9 / 頁數：118 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：推"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UM",
+        "created": 1646116894022,
+        "text": "【開寶藏】No.46《如幻三昧經》西晉 月支三藏竺法護 譯 部別：大乘經 寶積部 / 卷數：1 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UN",
+        "created": 1646116894022,
+        "text": "【崇寧藏】No.45《如幻三昧經》 卷數：3 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UO",
+        "created": 1646116894022,
+        "text": "【毘盧藏】No.41《佛說如幻三昧經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UP",
+        "created": 1646116894022,
+        "text": "【圓覺藏】No.43《如幻三昧經》 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UQ",
+        "created": 1646116894022,
+        "text": "【趙城金藏】No.44《如幻三昧經》 卷數：2 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UR",
+        "created": 1646116894022,
+        "text": "【資福藏】No.47《佛說如幻三昧經》 卷數：3 (三卷) 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5US",
+        "created": 1646116894022,
+        "text": "【磧砂藏】No.45《佛說如幻三昧經》晉 竺法護譯 部別：寶積部 / 冊數：6 / 頁數：376 / 卷數：3 千字文：裳 4 (88)-裳 6 (88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UT",
+        "created": 1646116894022,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UU",
+        "created": 1646116894022,
+        "text": "【高麗藏】No.44《如幻三昧經》西晉月氏國三藏竺法護譯 部別：大乘經 寶積部 / 冊數：6 頁數：1245 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：衣"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UV",
+        "created": 1646116894022,
+        "text": "【普寧藏】No.42《佛說如幻三昧經》 卷數：3 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UW",
+        "created": 1646116894022,
+        "text": "【至元錄】No.112《如幻三昧經》西晉三藏竺法護譯 卷數：2 / 譯次：(第二譯) 千字文：國(92)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UX",
+        "created": 1646116894022,
+        "text": "【洪武南藏】No.41《如幻三昧經》西晉 三藏竺法護 譯 冊數：31-32 / 頁數：549 / 卷數：3 千字文：裳 4 (88)-裳 6 (88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UY",
+        "created": 1646116894022,
+        "text": "【永樂南藏】No.42《佛說如幻三昧經》 部別：大乘經-寶積部 千字文：裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5UZ",
+        "created": 1646116894022,
+        "text": "【永樂北藏】No.61《佛說如幻三昧經》西晉竺法護譯 部別：大乘經寶積部 / 冊數：22 / 頁數：833 / 卷數：3 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Ua",
+        "created": 1646116894022,
+        "text": "【嘉興藏】No.43《如幻三昧經》西晉竺法護譯 部別：大乘經-寶積部 / 法寶總目錄經號：0043 千字文 / 函號：［正藏］ 裳(88)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Ub",
+        "created": 1646116894022,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Uc",
+        "created": 1646116894022,
+        "text": "【乾隆藏】No.43《佛說如幻三昧經》西晉 竺法護譯 部別：大乘寶積部 / 冊數：20 / 頁數：255 / 卷數：3 千字文：裳"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Ud",
+        "created": 1646116894022,
+        "text": "【縮刻藏】No.64《佛說如幻三昧經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：2 千字文：地 11 (2)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Ue",
+        "created": 1646116894022,
+        "text": "【卍正藏】No.47《佛說如幻三昧經》西晉 竺法護譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：691 / 卷數：2 原版套數：第 6 套"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Uf",
+        "created": 1646116894022,
+        "text": "【大正藏】No.342《佛說如幻三昧經》西晉 竺法護譯 部別：寶積部下 / 冊數：12 / 頁數：134 / 卷數：2 相關經典：縮-地11,卍-6.5 參考資料：Nos.310(36),341"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Ug",
+        "created": 1646116894022,
+        "text": "【佛教大藏經】No.64《佛說如幻三昧經》西晉 竺法護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：810 / 卷數：2"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Uh",
+        "created": 1646116894022,
+        "text": "【中華藏】No.48《佛說如幻三昧經》西晉月支國三藏竺法護譯 冊數：9 / 頁數：855 / 卷數：2 / 底本：金藏大寶集寺本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Ui",
+        "created": 1646116894022,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Uj",
+        "created": 1646116894022,
+        "text": "【南條文雄編號】 Nj. 0047"
+       }},
+       {"data": {
+        "id": "z5cYwmE5Uk",
+        "created": 1646116894022,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：342"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYwmD5To",
-      "created": 1646116894021,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYwmD5Tp",
-        "created": 1646116894021,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmD5Tq",
-        "created": 1646116894021,
-        "text": "佛說如幻三昧經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5oVdPRzH",
+     "created": 1646293420621,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdPQyt",
+       "created": 1646293420620,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYwmD5Tr",
-        "created": 1646116894021,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmD5Ts",
-        "created": 1646116894021,
-        "text": "佛说如幻三昧经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdPQyu",
+       "created": 1646293420620,
+       "text": "Ym.152"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPQyv",
+       "created": 1646293420620,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYwmD5Tt",
-        "created": 1646116894021,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmD5Tu",
-        "created": 1646116894021,
-        "text": "fo shuo ru huan san mei jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdPQyw",
+       "created": 1646293420620,
+       "text": "འཕགས་པསྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPQyx",
+       "created": 1646293420620,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYwmD5U2",
-        "created": 1646116894021,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmD5U3",
-        "created": 1646116894022,
-        "text": "Ju huan san mei ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdPRyy",
+       "created": 1646293420621,
+       "text": "聖如幻三昧經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPRyz",
+       "created": 1646293420621,
+       "text": "经名简体"
       },
-      {
-       "data": {
-        "id": "z5cYwmE5U4",
-        "created": 1646116894022,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmE5U5",
-        "created": 1646116894022,
-        "text": "Suṣṭhitamati(devaputra)paripṛcchā(sūtra)",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdPRz0",
+       "created": 1646293420621,
+       "text": "圣如幻三昧经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPRz1",
+       "created": 1646293420621,
+       "text": "经名简拼"
       },
-      {
-       "data": {
-        "id": "z5cYwmE5U6",
-        "created": 1646116894022,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmE5U7",
-        "created": 1646116894022,
-        "text": "Lhaḥi-bu blo-gros-rab-gnas-kyis shus-pa"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdPRz2",
+       "created": 1646293420621,
+       "text": "sheng ru huan san mei jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdPRz3",
+       "created": 1646293420621,
+       "text": "東北編號"
       },
-      {
-       "data": {
-        "id": "z5cYwmE5U8",
-        "created": 1646116894022,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwmE5U9",
-        "created": 1646116894022,
-        "text": "여환삼매경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwmD5Tv",
-      "created": 1646116894021,
-      "text": "时域"
+      "children": [{"data": {
+       "id": "z5oVdPRz4",
+       "created": 1646293420621,
+       "text": "Th.0130"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmD5Tw",
-      "created": 1646116894021,
-      "text": "西晉",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwmD5Tx",
-      "created": 1646116894021,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5oVdPRz5",
+       "created": 1646293420621,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPRz6",
+       "created": 1646293420621,
+       "text": "Ot.0798"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwmD5Ty",
-       "created": 1646116894021,
-       "text": "西晉 竺法護譯"
-      }},
-      {"data": {
-       "id": "z5cYwmD5Tz",
-       "created": 1646116894021,
-       "text": "法護",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwmD5U0",
-      "created": 1646116894021,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5oVdPRz7",
+       "created": 1646293420621,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPRz8",
+       "created": 1646293420621,
+       "text": "T.0371～T.0372"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmD5U1",
-      "created": 1646116894021,
-      "text": "2"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwmE5UA",
-      "created": 1646116894022,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5oVdPRz9",
+       "created": 1646293420621,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPRzA",
+       "created": 1646293420621,
+       "text": "Y.0386; Y.0494"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmE5UB",
-      "created": 1646116894022,
-      "text": "Translation by Dharmarakṣa: (see K.39)."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwmE5UC",
-      "created": 1646116894022,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5oVdPRzB",
+       "created": 1646293420621,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPRzC",
+       "created": 1646293420621,
+       "text": "1.闕 2.同"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwmE5UD",
-       "created": 1646116894022,
-       "text": "【北京版】Dkon-brtsegs (zi)302a-357a"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UE",
-       "created": 1646116894022,
-       "text": "【奈塘版】Dkon-brtsegs (cha)1-73b"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UF",
-       "created": 1646116894022,
-       "text": "【德格版】Dkon-brtsegs (ca)285a- (cha)27a"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UG",
-       "created": 1646116894022,
-       "text": "【拉薩版】Dkon-brtsegs (cha)1b-75b"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UH",
-       "created": 1646116894022,
-       "text": "【卓尼版】Dkon-brtsegs (ca)322a- (cha)27b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwmE5UI",
-      "created": 1646116894022,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5oVdPRzD",
+       "created": 1646293420621,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdPRzE",
+       "created": 1646293420621,
+       "text": ""
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwmE5UJ",
-      "created": 1646116894022,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwmE5UK",
-      "created": 1646116894022,
-      "text": "漢文大藏經各藏細目"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYwmE5UL",
-       "created": 1646116894022,
-       "text": "【房山石經】No.370《佛說如幻三昧經》(西晉)三藏竺法護譯 冊數：9 / 頁數：118 / 卷數：2 / 刻經年代：遼 無刻石年代 / 瀏覽：目錄圖檔 千字文：推"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UM",
-       "created": 1646116894022,
-       "text": "【開寶藏】No.46《如幻三昧經》西晉 月支三藏竺法護 譯 部別：大乘經 寶積部 / 卷數：1 千字文：衣"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UN",
-       "created": 1646116894022,
-       "text": "【崇寧藏】No.45《如幻三昧經》 卷數：3 千字文：裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UO",
-       "created": 1646116894022,
-       "text": "【毘盧藏】No.41《佛說如幻三昧經》西晉竺法護譯 參考年代：(宣和六．八) 千字文：裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UP",
-       "created": 1646116894022,
-       "text": "【圓覺藏】No.43《如幻三昧經》 千字文：裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UQ",
-       "created": 1646116894022,
-       "text": "【趙城金藏】No.44《如幻三昧經》 卷數：2 千字文：衣"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UR",
-       "created": 1646116894022,
-       "text": "【資福藏】No.47《佛說如幻三昧經》 卷數：3 (三卷) 千字文：裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5US",
-       "created": 1646116894022,
-       "text": "【磧砂藏】No.45《佛說如幻三昧經》晉 竺法護譯 部別：寶積部 / 冊數：6 / 頁數：376 / 卷數：3 千字文：裳 4 (88)-裳 6 (88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UT",
-       "created": 1646116894022,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UU",
-       "created": 1646116894022,
-       "text": "【高麗藏】No.44《如幻三昧經》西晉月氏國三藏竺法護譯 部別：大乘經 寶積部 / 冊數：6 頁數：1245 / 卷數：2 / 連結：高麗大藏經 (圖檔) 千字文：衣"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UV",
-       "created": 1646116894022,
-       "text": "【普寧藏】No.42《佛說如幻三昧經》 卷數：3 千字文：裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UW",
-       "created": 1646116894022,
-       "text": "【至元錄】No.112《如幻三昧經》西晉三藏竺法護譯 卷數：2 / 譯次：(第二譯) 千字文：國(92)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UX",
-       "created": 1646116894022,
-       "text": "【洪武南藏】No.41《如幻三昧經》西晉 三藏竺法護 譯 冊數：31-32 / 頁數：549 / 卷數：3 千字文：裳 4 (88)-裳 6 (88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UY",
-       "created": 1646116894022,
-       "text": "【永樂南藏】No.42《佛說如幻三昧經》 部別：大乘經-寶積部 千字文：裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5UZ",
-       "created": 1646116894022,
-       "text": "【永樂北藏】No.61《佛說如幻三昧經》西晉竺法護譯 部別：大乘經寶積部 / 冊數：22 / 頁數：833 / 卷數：3 千字文：裳"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Ua",
-       "created": 1646116894022,
-       "text": "【嘉興藏】No.43《如幻三昧經》西晉竺法護譯 部別：大乘經-寶積部 / 法寶總目錄經號：0043 千字文 / 函號：［正藏］ 裳(88)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Ub",
-       "created": 1646116894022,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Uc",
-       "created": 1646116894022,
-       "text": "【乾隆藏】No.43《佛說如幻三昧經》西晉 竺法護譯 部別：大乘寶積部 / 冊數：20 / 頁數：255 / 卷數：3 千字文：裳"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Ud",
-       "created": 1646116894022,
-       "text": "【縮刻藏】No.64《佛說如幻三昧經》西晉竺法護譯 部別：大乘經-方等部 / 卷數：2 千字文：地 11 (2)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Ue",
-       "created": 1646116894022,
-       "text": "【卍正藏】No.47《佛說如幻三昧經》西晉 竺法護譯 部別：大乘經 寶積部 / 冊數：9 / 頁數：691 / 卷數：2 原版套數：第 6 套"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Uf",
-       "created": 1646116894022,
-       "text": "【大正藏】No.342《佛說如幻三昧經》西晉 竺法護譯 部別：寶積部下 / 冊數：12 / 頁數：134 / 卷數：2 相關經典：縮-地11,卍-6.5 參考資料：Nos.310(36),341"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Ug",
-       "created": 1646116894022,
-       "text": "【佛教大藏經】No.64《佛說如幻三昧經》西晉 竺法護譯 部別：大乘經 方等部二 / 冊數：4 / 頁數：810 / 卷數：2"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Uh",
-       "created": 1646116894022,
-       "text": "【中華藏】No.48《佛說如幻三昧經》西晉月支國三藏竺法護譯 冊數：9 / 頁數：855 / 卷數：2 / 底本：金藏大寶集寺本 金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Ui",
-       "created": 1646116894022,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Uj",
-       "created": 1646116894022,
-       "text": "【南條文雄編號】 Nj. 0047"
-      }},
-      {"data": {
-       "id": "z5cYwmE5Uk",
-       "created": 1646116894022,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：342"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdPRzF",
+       "created": 1646293420621,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdPRzG",
+       "created": 1646293420621,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +516,9 @@
   "id": "l07rhwecaz",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

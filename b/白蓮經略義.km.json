@@ -1,0 +1,171 @@
+{
+ "root": {
+  "data": {"text": "白蓮經略義"},
+  "children": [{
+   "data": {
+    "id": "z5oVdj23XO",
+    "created": 1646293421836,
+    "text": "登噶目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdj23X0",
+      "created": 1646293421836,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23X1",
+      "created": 1646293421836,
+      "text": "Ym.541"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23X2",
+      "created": 1646293421836,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23X3",
+      "created": 1646293421836,
+      "text": "འཕགས་བུནྜ་རི་ཀའི་དོན་བསྡུས་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23X4",
+      "created": 1646293421836,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23X5",
+      "created": 1646293421836,
+      "text": "白蓮經略義",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23X6",
+      "created": 1646293421836,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23X7",
+      "created": 1646293421836,
+      "text": "白莲经略义",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23X8",
+      "created": 1646293421836,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23X9",
+      "created": 1646293421836,
+      "text": "bai lian jing lve yi"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23XA",
+      "created": 1646293421836,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23XB",
+      "created": 1646293421836,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23XC",
+      "created": 1646293421836,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23XD",
+      "created": 1646293421836,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23XE",
+      "created": 1646293421836,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23XF",
+      "created": 1646293421836,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23XG",
+      "created": 1646293421836,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23XH",
+      "created": 1646293421836,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23XI",
+      "created": 1646293421836,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23XJ",
+      "created": 1646293421836,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23XK",
+      "created": 1646293421836,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23XL",
+      "created": 1646293421836,
+      "text": "「རི」Tp.本載「རཱི」"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdj23XM",
+      "created": 1646293421836,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdj23XN",
+      "created": 1646293421836,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aoli4rf0",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

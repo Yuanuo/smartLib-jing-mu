@@ -1,354 +1,513 @@
 {
  "root": {
   "data": {"text": "佛說法集經"},
-  "children": [{
-   "data": {
-    "id": "z5cYx8NBjV",
-    "created": 1646116895395,
-    "text": "現藏錄（元魏 菩提流支譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx8NBjV",
+     "created": 1646116895395,
+     "text": "現藏錄（元魏 菩提流支譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx8NBiY",
+       "created": 1646116895395,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx8NBiZ",
+         "created": 1646116895395,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8NBia",
+         "created": 1646116895395,
+         "text": "佛說法集經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8NBib",
+         "created": 1646116895395,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8NBic",
+         "created": 1646116895395,
+         "text": "佛说法集经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8NBid",
+         "created": 1646116895395,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8NBie",
+         "created": 1646116895395,
+         "text": "fo shuo fa ji jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8NBim",
+         "created": 1646116895395,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8NBin",
+         "created": 1646116895395,
+         "text": "Fa chi ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8NBio",
+         "created": 1646116895395,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8NBip",
+         "created": 1646116895395,
+         "text": "Dharmasaṃgītisūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8NBiq",
+         "created": 1646116895395,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8NBir",
+         "created": 1646116895395,
+         "text": "Chos yaṅ-dag-par sdud pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx8NBis",
+         "created": 1646116895395,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx8NBit",
+         "created": 1646116895395,
+         "text": "법집경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8NBif",
+       "created": 1646116895395,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8NBig",
+       "created": 1646116895395,
+       "text": "元魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8NBih",
+       "created": 1646116895395,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8NBii",
+        "created": 1646116895395,
+        "text": "元魏 菩提流支譯"
+       }},
+       {"data": {
+        "id": "z5cYx8NBij",
+        "created": 1646116895395,
+        "text": "菩提流支",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8NBik",
+       "created": 1646116895395,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8NBil",
+       "created": 1646116895395,
+       "text": "6"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8NBiu",
+       "created": 1646116895395,
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8NBiv",
+       "created": 1646116895395,
+       "text": "Translation by Bodhiruci: 4th year of Yen Ch'ang (延昌), Northern Wei dynasty (北魏魏) (A.D. 515) in Lo-tu (洛都).2T. 2149-314b:9."
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8NBiw",
+       "created": 1646116895395,
+       "text": "西藏各版本出處"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8NBix",
+        "created": 1646116895395,
+        "text": "【北京版】Mdo-sna-tshogs (wu)1-107b"
+       }},
+       {"data": {
+        "id": "z5cYx8NBiy",
+        "created": 1646116895395,
+        "text": "【奈塘版】Mdo (dsa)1-154a"
+       }},
+       {"data": {
+        "id": "z5cYx8NBiz",
+        "created": 1646116895395,
+        "text": "【德格版】Mdo-sde (sha)l b-99b"
+       }},
+       {"data": {
+        "id": "z5cYx8NBj0",
+        "created": 1646116895395,
+        "text": "【拉薩版】Mdo (dsa)l b-154a"
+       }},
+       {"data": {
+        "id": "z5cYx8NBj1",
+        "created": 1646116895395,
+        "text": "【卓尼版】Mdo-maṅ (sha)1b-113b"
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx8NBj2",
+       "created": 1646116895395,
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx8NBj3",
+       "created": 1646116895395,
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx8NBj4",
+       "created": 1646116895395,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx8NBj5",
+        "created": 1646116895395,
+        "text": "【房山石經】No.550《法集經》(元魏)天竺三藏菩提留支譯 冊數：12 / 頁數：265 / 卷數：6 / 刻經年代：天慶元年刻石 / 瀏覽：目錄圖檔 千字文：難"
+       }},
+       {"data": {
+        "id": "z5cYx8NBj6",
+        "created": 1646116895395,
+        "text": "【開寶藏】No.403《法集經》元魏 天竺三藏菩提流支 譯 部別：大乘經 大乘經單譯 / 卷數：6 千字文：覆"
+       }},
+       {"data": {
+        "id": "z5cYx8NBj7",
+        "created": 1646116895395,
+        "text": "【崇寧藏】No.402《法集經》 卷數：6 千字文：欲(190)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBj8",
+        "created": 1646116895395,
+        "text": "【毘盧藏】No.400《法集經》元魏菩提流支譯 千字文：欲(190)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBj9",
+        "created": 1646116895395,
+        "text": "【圓覺藏】No.413《法集經》 卷數：6 千字文：欲(190)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjA",
+        "created": 1646116895395,
+        "text": "【趙城金藏】No.405《法集經》 卷數：6 千字文：器"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjB",
+        "created": 1646116895395,
+        "text": "【資福藏】No.417《法集經》 卷數：6 (六卷) 千字文：欲(190)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjC",
+        "created": 1646116895395,
+        "text": "【磧砂藏】No.418《法集經》元魏 菩提留支譯 部別：五大部外單譯經 / 冊數：13 / 頁數：107 / 卷數：6 千字文：欲 1 (190)-欲 6 (190)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjD",
+        "created": 1646116895395,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjE",
+        "created": 1646116895395,
+        "text": "【高麗藏】No.404《法集經》元魏天竺三藏菩提流支譯 部別：大乘經 單譯 / 冊數：13 頁數：251 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：器"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjF",
+        "created": 1646116895395,
+        "text": "【普寧藏】No.411《法集經》 卷數：6 千字文：欲(190)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjG",
+        "created": 1646116895395,
+        "text": "【至元錄】No.409《法集經》元魏天竺三藏菩提留支譯 梵名：怛哩(二合)麻　喪吉帝　蘇怛囉(二合) / 卷數：6 千字文：器(189)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjH",
+        "created": 1646116895395,
+        "text": "【洪武南藏】No.364《法集經》元魏 三藏法師菩提留支 譯 冊數：64 / 頁數：199 / 卷數：6 千字文：欲 1 (190)-欲 6 (190)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjI",
+        "created": 1646116895395,
+        "text": "【永樂南藏】No.406《法集經》 部別：大乘經-單譯經 千字文：難(191)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjJ",
+        "created": 1646116895395,
+        "text": "【永樂北藏】No.451《法集經》元魏菩提留支譯 部別：大乘經單經譯 / 冊數：50 / 頁數：529 / 卷數：6 千字文：難"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjK",
+        "created": 1646116895395,
+        "text": "【嘉興藏】No.421《法集經》元魏菩提留支譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0421 千字文 / 函號：［正藏］ 難(191)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjL",
+        "created": 1646116895395,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjM",
+        "created": 1646116895395,
+        "text": "【乾隆藏】No.422《法集經》元魏 菩提留支譯 部別：大乘單譯經 / 冊數：43 / 頁數：1 / 卷數：6 千字文：難"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjN",
+        "created": 1646116895395,
+        "text": "【縮刻藏】No.205《佛說法集經》元魏菩提流支譯 部別：大乘經-方等部 / 卷數：6 千字文：宇 7 (5)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjO",
+        "created": 1646116895395,
+        "text": "【卍正藏】No.427《佛說法集經》元魏 菩提流支譯 部別：大乘經 單譯經 / 冊數：20 / 頁數：751 / 卷數：6 原版套數：第 11 套"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjP",
+        "created": 1646116895395,
+        "text": "【大正藏】No.761《佛說法集經》元魏 菩提流支譯 部別：經集部四 / 冊數：17 / 頁數：609 / 卷數：6 相關經典：縮-宇7,卍-11.10 參考資料："
+       }},
+       {"data": {
+        "id": "z5cYx8NBjQ",
+        "created": 1646116895395,
+        "text": "【佛教大藏經】No.208《佛說法集經》元魏 菩提流支譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：279 / 卷數：6"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjR",
+        "created": 1646116895395,
+        "text": "【中華藏】No.434《佛說法集經》元魏天竺三藏菩提流支議 冊數：22 / 頁數：673 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjS",
+        "created": 1646116895395,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjT",
+        "created": 1646116895395,
+        "text": "【南條文雄編號】 Nj. 0426"
+       }},
+       {"data": {
+        "id": "z5cYx8NBjU",
+        "created": 1646116895395,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：761"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYx8NBiY",
-      "created": 1646116895395,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYx8NBiZ",
-        "created": 1646116895395,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8NBia",
-        "created": 1646116895395,
-        "text": "佛說法集經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5oVdL6bU",
+     "created": 1646293420352,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdL4b6",
+       "created": 1646293420350,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYx8NBib",
-        "created": 1646116895395,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8NBic",
-        "created": 1646116895395,
-        "text": "佛说法集经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdL4b7",
+       "created": 1646293420350,
+       "text": "Ym.093"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdL4b8",
+       "created": 1646293420350,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYx8NBid",
-        "created": 1646116895395,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8NBie",
-        "created": 1646116895395,
-        "text": "fo shuo fa ji jing"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdL4b9",
+       "created": 1646293420350,
+       "text": "འཕགས་པ་ཆོས་ཡང་དག་པར་སྡུད་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdL4bA",
+       "created": 1646293420350,
+       "text": "漢譯經名"
       },
-      {
-       "data": {
-        "id": "z5cYx8NBim",
-        "created": 1646116895395,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8NBin",
-        "created": 1646116895395,
-        "text": "Fa chi ching"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdL4bB",
+       "created": 1646293420350,
+       "text": "聖法集經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdL4bC",
+       "created": 1646293420350,
+       "text": "经名简体"
       },
-      {
-       "data": {
-        "id": "z5cYx8NBio",
-        "created": 1646116895395,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8NBip",
-        "created": 1646116895395,
-        "text": "Dharmasaṃgītisūtra",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdL4bD",
+       "created": 1646293420350,
+       "text": "圣法集经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdL4bE",
+       "created": 1646293420350,
+       "text": "经名简拼"
       },
-      {
-       "data": {
-        "id": "z5cYx8NBiq",
-        "created": 1646116895395,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8NBir",
-        "created": 1646116895395,
-        "text": "Chos yaṅ-dag-par sdud pa"
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdL4bF",
+       "created": 1646293420350,
+       "text": "sheng fa ji jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdL5bG",
+       "created": 1646293420351,
+       "text": "東北編號"
       },
-      {
-       "data": {
-        "id": "z5cYx8NBis",
-        "created": 1646116895395,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx8NBit",
-        "created": 1646116895395,
-        "text": "법집경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8NBif",
-      "created": 1646116895395,
-      "text": "时域"
+      "children": [{"data": {
+       "id": "z5oVdL5bH",
+       "created": 1646293420351,
+       "text": "Th.0238"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8NBig",
-      "created": 1646116895395,
-      "text": "元魏",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8NBih",
-      "created": 1646116895395,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5oVdL5bI",
+       "created": 1646293420351,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdL5bJ",
+       "created": 1646293420351,
+       "text": "Ot.0904"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx8NBii",
-       "created": 1646116895395,
-       "text": "元魏 菩提流支譯"
-      }},
-      {"data": {
-       "id": "z5cYx8NBij",
-       "created": 1646116895395,
-       "text": "菩提流支",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8NBik",
-      "created": 1646116895395,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5oVdL5bK",
+       "created": 1646293420351,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdL5bL",
+       "created": 1646293420351,
+       "text": "T.0761"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8NBil",
-      "created": 1646116895395,
-      "text": "6"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8NBiu",
-      "created": 1646116895395,
-      "text": "翻譯概述"
+     {
+      "data": {
+       "id": "z5oVdL5bM",
+       "created": 1646293420351,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdL5bN",
+       "created": 1646293420351,
+       "text": "Y.0409"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8NBiv",
-      "created": 1646116895395,
-      "text": "Translation by Bodhiruci: 4th year of Yen Ch'ang (延昌), Northern Wei dynasty (北魏魏) (A.D. 515) in Lo-tu (洛都).2T. 2149-314b:9."
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8NBiw",
-      "created": 1646116895395,
-      "text": "西藏各版本出處"
+     {
+      "data": {
+       "id": "z5oVdL5bO",
+       "created": 1646293420351,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdL5bP",
+       "created": 1646293420351,
+       "text": "同"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx8NBix",
-       "created": 1646116895395,
-       "text": "【北京版】Mdo-sna-tshogs (wu)1-107b"
-      }},
-      {"data": {
-       "id": "z5cYx8NBiy",
-       "created": 1646116895395,
-       "text": "【奈塘版】Mdo (dsa)1-154a"
-      }},
-      {"data": {
-       "id": "z5cYx8NBiz",
-       "created": 1646116895395,
-       "text": "【德格版】Mdo-sde (sha)l b-99b"
-      }},
-      {"data": {
-       "id": "z5cYx8NBj0",
-       "created": 1646116895395,
-       "text": "【拉薩版】Mdo (dsa)l b-154a"
-      }},
-      {"data": {
-       "id": "z5cYx8NBj1",
-       "created": 1646116895395,
-       "text": "【卓尼版】Mdo-maṅ (sha)1b-113b"
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx8NBj2",
-      "created": 1646116895395,
-      "text": "出處"
+     {
+      "data": {
+       "id": "z5oVdL5bQ",
+       "created": 1646293420351,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdL5bR",
+       "created": 1646293420351,
+       "text": "「སྡུད」Ym.及P. 本皆作「བསྡུད」"
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYx8NBj3",
-      "created": 1646116895395,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx8NBj4",
-      "created": 1646116895395,
-      "text": "漢文大藏經各藏細目"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYx8NBj5",
-       "created": 1646116895395,
-       "text": "【房山石經】No.550《法集經》(元魏)天竺三藏菩提留支譯 冊數：12 / 頁數：265 / 卷數：6 / 刻經年代：天慶元年刻石 / 瀏覽：目錄圖檔 千字文：難"
-      }},
-      {"data": {
-       "id": "z5cYx8NBj6",
-       "created": 1646116895395,
-       "text": "【開寶藏】No.403《法集經》元魏 天竺三藏菩提流支 譯 部別：大乘經 大乘經單譯 / 卷數：6 千字文：覆"
-      }},
-      {"data": {
-       "id": "z5cYx8NBj7",
-       "created": 1646116895395,
-       "text": "【崇寧藏】No.402《法集經》 卷數：6 千字文：欲(190)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBj8",
-       "created": 1646116895395,
-       "text": "【毘盧藏】No.400《法集經》元魏菩提流支譯 千字文：欲(190)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBj9",
-       "created": 1646116895395,
-       "text": "【圓覺藏】No.413《法集經》 卷數：6 千字文：欲(190)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjA",
-       "created": 1646116895395,
-       "text": "【趙城金藏】No.405《法集經》 卷數：6 千字文：器"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjB",
-       "created": 1646116895395,
-       "text": "【資福藏】No.417《法集經》 卷數：6 (六卷) 千字文：欲(190)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjC",
-       "created": 1646116895395,
-       "text": "【磧砂藏】No.418《法集經》元魏 菩提留支譯 部別：五大部外單譯經 / 冊數：13 / 頁數：107 / 卷數：6 千字文：欲 1 (190)-欲 6 (190)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjD",
-       "created": 1646116895395,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjE",
-       "created": 1646116895395,
-       "text": "【高麗藏】No.404《法集經》元魏天竺三藏菩提流支譯 部別：大乘經 單譯 / 冊數：13 頁數：251 / 卷數：6 / 連結：高麗大藏經 (圖檔) 千字文：器"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjF",
-       "created": 1646116895395,
-       "text": "【普寧藏】No.411《法集經》 卷數：6 千字文：欲(190)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjG",
-       "created": 1646116895395,
-       "text": "【至元錄】No.409《法集經》元魏天竺三藏菩提留支譯 梵名：怛哩(二合)麻　喪吉帝　蘇怛囉(二合) / 卷數：6 千字文：器(189)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjH",
-       "created": 1646116895395,
-       "text": "【洪武南藏】No.364《法集經》元魏 三藏法師菩提留支 譯 冊數：64 / 頁數：199 / 卷數：6 千字文：欲 1 (190)-欲 6 (190)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjI",
-       "created": 1646116895395,
-       "text": "【永樂南藏】No.406《法集經》 部別：大乘經-單譯經 千字文：難(191)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjJ",
-       "created": 1646116895395,
-       "text": "【永樂北藏】No.451《法集經》元魏菩提留支譯 部別：大乘經單經譯 / 冊數：50 / 頁數：529 / 卷數：6 千字文：難"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjK",
-       "created": 1646116895395,
-       "text": "【嘉興藏】No.421《法集經》元魏菩提留支譯 部別：大乘經-五大部外單譯經 / 法寶總目錄經號：0421 千字文 / 函號：［正藏］ 難(191)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjL",
-       "created": 1646116895395,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjM",
-       "created": 1646116895395,
-       "text": "【乾隆藏】No.422《法集經》元魏 菩提留支譯 部別：大乘單譯經 / 冊數：43 / 頁數：1 / 卷數：6 千字文：難"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjN",
-       "created": 1646116895395,
-       "text": "【縮刻藏】No.205《佛說法集經》元魏菩提流支譯 部別：大乘經-方等部 / 卷數：6 千字文：宇 7 (5)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjO",
-       "created": 1646116895395,
-       "text": "【卍正藏】No.427《佛說法集經》元魏 菩提流支譯 部別：大乘經 單譯經 / 冊數：20 / 頁數：751 / 卷數：6 原版套數：第 11 套"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjP",
-       "created": 1646116895395,
-       "text": "【大正藏】No.761《佛說法集經》元魏 菩提流支譯 部別：經集部四 / 冊數：17 / 頁數：609 / 卷數：6 相關經典：縮-宇7,卍-11.10 參考資料："
-      }},
-      {"data": {
-       "id": "z5cYx8NBjQ",
-       "created": 1646116895395,
-       "text": "【佛教大藏經】No.208《佛說法集經》元魏 菩提流支譯 部別：大乘經 方等部八 / 冊數：10 / 頁數：279 / 卷數：6"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjR",
-       "created": 1646116895395,
-       "text": "【中華藏】No.434《佛說法集經》元魏天竺三藏菩提流支議 冊數：22 / 頁數：673 / 卷數：6 / 底本：麗藏本 金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjS",
-       "created": 1646116895395,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjT",
-       "created": 1646116895395,
-       "text": "【南條文雄編號】 Nj. 0426"
-      }},
-      {"data": {
-       "id": "z5cYx8NBjU",
-       "created": 1646116895395,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：761"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdL5bS",
+       "created": 1646293420351,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdL5bT",
+       "created": 1646293420351,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -357,6 +516,9 @@
   "id": "l07rhxgjn7",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

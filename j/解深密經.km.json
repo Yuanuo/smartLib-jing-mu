@@ -1,325 +1,484 @@
 {
  "root": {
   "data": {"text": "解深密經"},
-  "children": [{
-   "data": {
-    "id": "z5cYx4SAVd",
-    "created": 1646116895152,
-    "text": "現藏錄（唐 玄奘譯）"
-   },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYx4SAUl",
-      "created": 1646116895152,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYx4SAUm",
-        "created": 1646116895152,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4SAUn",
-        "created": 1646116895152,
-        "text": "解深密經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4SAUo",
-        "created": 1646116895152,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4SAUp",
-        "created": 1646116895152,
-        "text": "解深密经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4SAUq",
-        "created": 1646116895152,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4SAUr",
-        "created": 1646116895152,
-        "text": "jie shen mi jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4SAUz",
-        "created": 1646116895152,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4SAV0",
-        "created": 1646116895152,
-        "text": "Chieh shen mi ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4SAV1",
-        "created": 1646116895152,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4SAV2",
-        "created": 1646116895152,
-        "text": "Sandhīnirmocanasūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4SAV3",
-        "created": 1646116895152,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4SAV4",
-        "created": 1646116895152,
-        "text": "Dgoṅs-pa ṅes-par ḥgrel-pa"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYx4SAV5",
-        "created": 1646116895152,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYx4SAV6",
-        "created": 1646116895152,
-        "text": "해심밀경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx4SAUs",
-      "created": 1646116895152,
-      "text": "时域"
-     },
-     "children": [{"data": {
-      "id": "z5cYx4SAUt",
-      "created": 1646116895152,
-      "text": "唐",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4SAUu",
-      "created": 1646116895152,
-      "text": "作／譯者"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYx4SAUv",
-       "created": 1646116895152,
-       "text": "唐 玄奘譯"
-      }},
-      {"data": {
-       "id": "z5cYx4SAUw",
-       "created": 1646116895152,
-       "text": "玄奘",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYx4SAUx",
-      "created": 1646116895152,
-      "text": "卷數"
-     },
-     "children": [{"data": {
-      "id": "z5cYx4SAUy",
-      "created": 1646116895152,
-      "text": "5"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYx4SAV7",
-      "created": 1646116895152,
-      "text": "翻譯概述"
-     },
-     "children": [{"data": {
-      "id": "z5cYx4SAV8",
-      "created": 1646116895152,
-      "text": "Translation by Hsüan-tsang: 13th day, 7th month, 21st year of Chen Kuan (貞觀), T'ang dynasty (唐) (August, 18th A.D. 647) in Hung-fu Monastery (弘福寺).T. 2154-555c:13."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYx4SAV9",
+  "children": [
+   {
+    "data": {
+     "id": "z5cYx4SAVd",
      "created": 1646116895152,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYx4SAVA",
-      "created": 1646116895152,
-      "text": "出處"
-     },
-     "children": [{"data": {
-      "id": "z5cYx4SAVB",
-      "created": 1646116895152,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
+     "text": "現藏錄（唐 玄奘譯）"
     },
-    {
-     "data": {
-      "id": "z5cYx4SAVC",
-      "created": 1646116895152,
-      "text": "漢文大藏經各藏細目"
+    "children": [
+     {
+      "data": {
+       "id": "z5cYx4SAUl",
+       "created": 1646116895152,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYx4SAUm",
+         "created": 1646116895152,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4SAUn",
+         "created": 1646116895152,
+         "text": "解深密經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4SAUo",
+         "created": 1646116895152,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4SAUp",
+         "created": 1646116895152,
+         "text": "解深密经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4SAUq",
+         "created": 1646116895152,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4SAUr",
+         "created": 1646116895152,
+         "text": "jie shen mi jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4SAUz",
+         "created": 1646116895152,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4SAV0",
+         "created": 1646116895152,
+         "text": "Chieh shen mi ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4SAV1",
+         "created": 1646116895152,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4SAV2",
+         "created": 1646116895152,
+         "text": "Sandhīnirmocanasūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4SAV3",
+         "created": 1646116895152,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4SAV4",
+         "created": 1646116895152,
+         "text": "Dgoṅs-pa ṅes-par ḥgrel-pa"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYx4SAV5",
+         "created": 1646116895152,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYx4SAV6",
+         "created": 1646116895152,
+         "text": "해심밀경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYx4SAVD",
+     {
+      "data": {
+       "id": "z5cYx4SAUs",
        "created": 1646116895152,
-       "text": "【房山石經】No.61《解深密經》三藏法師玄奘奉詔譯 冊數：2 / 頁數：430 / 卷數：5 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.421《解深密經》(大唐)三藏法師玄奘奉詔譯 冊數：10 / 頁數：178 / 卷數：5 / 刻經年代：大安三年刻石 / 瀏覽：目錄圖檔 千字文：身"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVE",
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4SAUt",
        "created": 1646116895152,
-       "text": "【開寶藏】No.155《解深密經》唐 三藏玄奘 譯 部別：大乘經 五大部外諸重譯經 / 卷數：5 千字文：蓋"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVF",
+       "text": "唐",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4SAUu",
        "created": 1646116895152,
-       "text": "【崇寧藏】No.156《解深密經》 卷數：5 千字文：此(146)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVG",
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4SAUv",
+        "created": 1646116895152,
+        "text": "唐 玄奘譯"
+       }},
+       {"data": {
+        "id": "z5cYx4SAUw",
+        "created": 1646116895152,
+        "text": "玄奘",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYx4SAUx",
        "created": 1646116895152,
-       "text": "【毘盧藏】No.152《解深密經》唐玄奘譯 參考年代：(靖康元．三) 千字文：此(146)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVH",
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4SAUy",
        "created": 1646116895152,
-       "text": "【圓覺藏】No.153《解深密經》 卷數：5 千字文：此(146)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVI",
+       "text": "5"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4SAV7",
        "created": 1646116895152,
-       "text": "【趙城金藏】No.154《解深密經》 卷數：5 千字文：蓋"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVJ",
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4SAV8",
        "created": 1646116895152,
-       "text": "【資福藏】No.157《解深密經》 卷數：5 (五卷) 千字文：此(146)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVK",
+       "text": "Translation by Hsüan-tsang: 13th day, 7th month, 21st year of Chen Kuan (貞觀), T'ang dynasty (唐) (August, 18th A.D. 647) in Hung-fu Monastery (弘福寺).T. 2154-555c:13."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYx4SAV9",
+      "created": 1646116895152,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYx4SAVA",
        "created": 1646116895152,
-       "text": "【磧砂藏】No.156《解深密經》唐 玄奘譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：305 / 卷數：5 千字文：此 6 (146)-此 10 (146)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVL",
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYx4SAVB",
        "created": 1646116895152,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVM",
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYx4SAVC",
        "created": 1646116895152,
-       "text": "【高麗藏】No.154《解深密經》大唐三藏法師玄奘奉詔譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：709 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：蓋"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVN",
-       "created": 1646116895152,
-       "text": "【普寧藏】No.152《解深密經》 卷數：5 千字文：此(146)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVO",
-       "created": 1646116895152,
-       "text": "【至元錄】No.233《解深密經》唐三藏玄奘譯 卷數：5 / 出處：(出內典錄) / 譯次：(第一譯) 千字文：敢(158)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVP",
-       "created": 1646116895152,
-       "text": "【洪武南藏】No.141《解深密經》大唐 三藏法師玄奘 奉詔譯 冊數：50 / 頁數：1 / 卷數：5 千字文：此 6 (146)-此 10 (146)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVQ",
-       "created": 1646116895152,
-       "text": "【永樂南藏】No.154《解深密經》 部別：大乘經-五大部外重譯經 千字文：常(152)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVR",
-       "created": 1646116895152,
-       "text": "【永樂北藏】No.271《解深密經》唐玄奘譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：829 / 卷數：5 千字文：效"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVS",
-       "created": 1646116895152,
-       "text": "【嘉興藏】No.242《解深密經》唐玄奘譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0242 千字文 / 函號：［正藏］ 效(166)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVT",
-       "created": 1646116895152,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVU",
-       "created": 1646116895152,
-       "text": "【乾隆藏】No.243《解深密經》唐 玄奘譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：505 / 卷數：5 千字文：效"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVV",
-       "created": 1646116895152,
-       "text": "【縮刻藏】No.166《解深密經》唐玄奘譯 部別：大乘經-方等部 / 卷數：5 千字文：黃 8 (4)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVW",
-       "created": 1646116895152,
-       "text": "【卍正藏】No.247《解深密經》大唐 玄奘譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：136 / 卷數：5 原版套數：第 10 套"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVX",
-       "created": 1646116895152,
-       "text": "【大正藏】No.676《解深密經》唐 玄奘譯 部別：經集部三 / 冊數：16 / 頁數：688 / 卷數：5 相關經典：縮-黃8,卍-10.6,國-經3 參考資料：Nos.675,677-679"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVY",
-       "created": 1646116895152,
-       "text": "【佛教大藏經】No.168《解深密經》唐 玄奘譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：473 / 卷數：5"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVZ",
-       "created": 1646116895152,
-       "text": "【中華藏】No.163《解深密經》大唐三藏法師玄奘奉詔譯 冊數：17 / 頁數：477 / 卷數：5 / 底本：麗藏本 金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVa",
-       "created": 1646116895152,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVb",
-       "created": 1646116895152,
-       "text": "【南條文雄編號】 Nj. 0247"
-      }},
-      {"data": {
-       "id": "z5cYx4SAVc",
-       "created": 1646116895152,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：676"
-      }}
-     ]
-    }
-   ]
-  }]
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYx4SAVD",
+        "created": 1646116895152,
+        "text": "【房山石經】No.61《解深密經》三藏法師玄奘奉詔譯 冊數：2 / 頁數：430 / 卷數：5 / 刻經年代：唐 / 瀏覽：目錄圖檔 千字文： 【房山石經】No.421《解深密經》(大唐)三藏法師玄奘奉詔譯 冊數：10 / 頁數：178 / 卷數：5 / 刻經年代：大安三年刻石 / 瀏覽：目錄圖檔 千字文：身"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVE",
+        "created": 1646116895152,
+        "text": "【開寶藏】No.155《解深密經》唐 三藏玄奘 譯 部別：大乘經 五大部外諸重譯經 / 卷數：5 千字文：蓋"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVF",
+        "created": 1646116895152,
+        "text": "【崇寧藏】No.156《解深密經》 卷數：5 千字文：此(146)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVG",
+        "created": 1646116895152,
+        "text": "【毘盧藏】No.152《解深密經》唐玄奘譯 參考年代：(靖康元．三) 千字文：此(146)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVH",
+        "created": 1646116895152,
+        "text": "【圓覺藏】No.153《解深密經》 卷數：5 千字文：此(146)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVI",
+        "created": 1646116895152,
+        "text": "【趙城金藏】No.154《解深密經》 卷數：5 千字文：蓋"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVJ",
+        "created": 1646116895152,
+        "text": "【資福藏】No.157《解深密經》 卷數：5 (五卷) 千字文：此(146)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVK",
+        "created": 1646116895152,
+        "text": "【磧砂藏】No.156《解深密經》唐 玄奘譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：305 / 卷數：5 千字文：此 6 (146)-此 10 (146)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVL",
+        "created": 1646116895152,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVM",
+        "created": 1646116895152,
+        "text": "【高麗藏】No.154《解深密經》大唐三藏法師玄奘奉詔譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：709 / 卷數：5 / 連結：高麗大藏經 (圖檔) 千字文：蓋"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVN",
+        "created": 1646116895152,
+        "text": "【普寧藏】No.152《解深密經》 卷數：5 千字文：此(146)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVO",
+        "created": 1646116895152,
+        "text": "【至元錄】No.233《解深密經》唐三藏玄奘譯 卷數：5 / 出處：(出內典錄) / 譯次：(第一譯) 千字文：敢(158)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVP",
+        "created": 1646116895152,
+        "text": "【洪武南藏】No.141《解深密經》大唐 三藏法師玄奘 奉詔譯 冊數：50 / 頁數：1 / 卷數：5 千字文：此 6 (146)-此 10 (146)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVQ",
+        "created": 1646116895152,
+        "text": "【永樂南藏】No.154《解深密經》 部別：大乘經-五大部外重譯經 千字文：常(152)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVR",
+        "created": 1646116895152,
+        "text": "【永樂北藏】No.271《解深密經》唐玄奘譯 部別：大乘經五大部外重譯經 / 冊數：43 / 頁數：829 / 卷數：5 千字文：效"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVS",
+        "created": 1646116895152,
+        "text": "【嘉興藏】No.242《解深密經》唐玄奘譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0242 千字文 / 函號：［正藏］ 效(166)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVT",
+        "created": 1646116895152,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVU",
+        "created": 1646116895152,
+        "text": "【乾隆藏】No.243《解深密經》唐 玄奘譯 部別：大乘五大部外重譯經 / 冊數：37 / 頁數：505 / 卷數：5 千字文：效"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVV",
+        "created": 1646116895152,
+        "text": "【縮刻藏】No.166《解深密經》唐玄奘譯 部別：大乘經-方等部 / 卷數：5 千字文：黃 8 (4)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVW",
+        "created": 1646116895152,
+        "text": "【卍正藏】No.247《解深密經》大唐 玄奘譯 部別：大乘經 五大部外重譯經 / 冊數：18 / 頁數：136 / 卷數：5 原版套數：第 10 套"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVX",
+        "created": 1646116895152,
+        "text": "【大正藏】No.676《解深密經》唐 玄奘譯 部別：經集部三 / 冊數：16 / 頁數：688 / 卷數：5 相關經典：縮-黃8,卍-10.6,國-經3 參考資料：Nos.675,677-679"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVY",
+        "created": 1646116895152,
+        "text": "【佛教大藏經】No.168《解深密經》唐 玄奘譯 部別：大乘經 方等部六 / 冊數：8 / 頁數：473 / 卷數：5"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVZ",
+        "created": 1646116895152,
+        "text": "【中華藏】No.163《解深密經》大唐三藏法師玄奘奉詔譯 冊數：17 / 頁數：477 / 卷數：5 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVa",
+        "created": 1646116895152,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVb",
+        "created": 1646116895152,
+        "text": "【南條文雄編號】 Nj. 0247"
+       }},
+       {"data": {
+        "id": "z5cYx4SAVc",
+        "created": 1646116895152,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：676"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oVdMukl",
+     "created": 1646293420464,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdMskN",
+       "created": 1646293420462,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMskO",
+       "created": 1646293420462,
+       "text": "Ym.116"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMskP",
+       "created": 1646293420462,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMskQ",
+       "created": 1646293420462,
+       "text": "འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMskR",
+       "created": 1646293420462,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMskS",
+       "created": 1646293420462,
+       "text": "聖解深密經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMskT",
+       "created": 1646293420462,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMskU",
+       "created": 1646293420462,
+       "text": "圣解深密经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMskV",
+       "created": 1646293420462,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMskW",
+       "created": 1646293420462,
+       "text": "sheng jie shen mi jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMtkX",
+       "created": 1646293420463,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMtkY",
+       "created": 1646293420463,
+       "text": "Th.0106"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMtkZ",
+       "created": 1646293420463,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMtka",
+       "created": 1646293420463,
+       "text": "Ot.0774"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMtkb",
+       "created": 1646293420463,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMtkc",
+       "created": 1646293420463,
+       "text": "T.0671～T.0673; T.0675～T.0679"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMtkd",
+       "created": 1646293420463,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMtke",
+       "created": 1646293420463,
+       "text": "Y.0231; Y.0235; Y.0240"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMtkf",
+       "created": 1646293420463,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMtkg",
+       "created": 1646293420463,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMtkh",
+       "created": 1646293420463,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdMtki",
+       "created": 1646293420463,
+       "text": "Th.本未列對應於T.0677～T.0679 ; Ot.本未列對應於T.0671～T.0673"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdMtkj",
+       "created": 1646293420463,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdMtkk",
+       "created": 1646293420463,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -328,6 +487,9 @@
   "id": "l07rhx9rks",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

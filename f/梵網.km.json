@@ -1,0 +1,194 @@
+{
+ "root": {
+  "data": {"text": "梵網"},
+  "children": [{
+   "data": {
+    "id": "z5oVdVU1gs",
+    "created": 1646293420996,
+    "text": "登噶目錄"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdVT1gR",
+      "created": 1646293420995,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gS",
+      "created": 1646293420995,
+      "text": "Ym.260"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gT",
+      "created": 1646293420995,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gU",
+      "created": 1646293420995,
+      "text": "ཚངས་པའི་དྲ་བ། ཆོས་ཀྱི་རྒྱ་མོ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gV",
+      "created": 1646293420995,
+      "text": "漢譯經名"
+     },
+     "children": [
+      {"data": {
+       "id": "z5oVdVT1gW",
+       "created": 1646293420995,
+       "text": "梵網",
+       "resource": ["alias"]
+      }},
+      {"data": {
+       "id": "z5oVdVT1gb",
+       "created": 1646293420995,
+       "text": "漢法經?",
+       "resource": ["alias"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gX",
+      "created": 1646293420995,
+      "text": "经名简体"
+     },
+     "children": [
+      {"data": {
+       "id": "z5oVdVT1gY",
+       "created": 1646293420995,
+       "text": "梵网",
+       "resource": ["alias"]
+      }},
+      {"data": {
+       "id": "z5oVdVT1gc",
+       "created": 1646293420995,
+       "text": "汉法经?",
+       "resource": ["alias"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gZ",
+      "created": 1646293420995,
+      "text": "经名简拼"
+     },
+     "children": [
+      {"data": {
+       "id": "z5oVdVT1ga",
+       "created": 1646293420995,
+       "text": "fan wang"
+      }},
+      {"data": {
+       "id": "z5oVdVT1gd",
+       "created": 1646293420995,
+       "text": "han fa jing ?"
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1ge",
+      "created": 1646293420995,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gf",
+      "created": 1646293420995,
+      "text": "Th.0352?"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gg",
+      "created": 1646293420995,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gh",
+      "created": 1646293420995,
+      "text": "Ot.1021?"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gi",
+      "created": 1646293420995,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gj",
+      "created": 1646293420995,
+      "text": "T.0021; T.0001(21)"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gk",
+      "created": 1646293420995,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gl",
+      "created": 1646293420995,
+      "text": "Y.1182?"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gm",
+      "created": 1646293420995,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gn",
+      "created": 1646293420995,
+      "text": "闕?"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1go",
+      "created": 1646293420995,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gp",
+      "created": 1646293420995,
+      "text": "「དྲ་བ།」Tp.本載「དྲ་བ། བམ་པོ་གཉིས།」"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdVT1gq",
+      "created": 1646293420995,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdVT1gr",
+      "created": 1646293420995,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aolhhe77",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

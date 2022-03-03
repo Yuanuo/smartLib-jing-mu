@@ -1,0 +1,326 @@
+{
+ "root": {
+  "data": {"text": "聖大雲風輪品經"},
+  "children": [
+   {
+    "data": {
+     "id": "z5oVdQe17k",
+     "created": 1646293420696,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdQd17M",
+       "created": 1646293420695,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17N",
+       "created": 1646293420695,
+       "text": "Ym.173"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17O",
+       "created": 1646293420695,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17P",
+       "created": 1646293420695,
+       "text": "འཕགས་པ་སྤྲིན་ཆེན་པོའི་རླུང་གི་དཀྱིལ་འཁོར་གྱི་ལེའུ།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17Q",
+       "created": 1646293420695,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17R",
+       "created": 1646293420695,
+       "text": "聖大雲風輪品經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17S",
+       "created": 1646293420695,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17T",
+       "created": 1646293420695,
+       "text": "圣大云风轮品经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17U",
+       "created": 1646293420695,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17V",
+       "created": 1646293420695,
+       "text": "sheng da yun feng lun pin jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17W",
+       "created": 1646293420695,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17X",
+       "created": 1646293420695,
+       "text": "Th.0234; Th.0658; Th.1064"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17Y",
+       "created": 1646293420695,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17Z",
+       "created": 1646293420695,
+       "text": "Ot.0335; Ot.0690; Ot.0900"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17a",
+       "created": 1646293420695,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17b",
+       "created": 1646293420695,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17c",
+       "created": 1646293420695,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17d",
+       "created": 1646293420695,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17e",
+       "created": 1646293420695,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17f",
+       "created": 1646293420695,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17g",
+       "created": 1646293420695,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17h",
+       "created": 1646293420695,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdQd17i",
+       "created": 1646293420695,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdQd17j",
+       "created": 1646293420695,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oVda92Cs",
+     "created": 1646293421285,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVda92CU",
+       "created": 1646293421285,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92CV",
+       "created": 1646293421285,
+       "text": "Ym.339"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92CW",
+       "created": 1646293421285,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92CX",
+       "created": 1646293421285,
+       "text": "འཕགས་པ་སྤྲིན་ཆེན་པོའི་རླུང་གི་དཀྱིལ་འཁོར་གྱི་ལེའུ།"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92CY",
+       "created": 1646293421285,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92CZ",
+       "created": 1646293421285,
+       "text": "聖大雲風輪品經"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Ca",
+       "created": 1646293421285,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cb",
+       "created": 1646293421285,
+       "text": "圣大云风轮品经"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Cc",
+       "created": 1646293421285,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cd",
+       "created": 1646293421285,
+       "text": "sheng da yun feng lun pin jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Ce",
+       "created": 1646293421285,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cf",
+       "created": 1646293421285,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Cg",
+       "created": 1646293421285,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Ch",
+       "created": 1646293421285,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Ci",
+       "created": 1646293421285,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cj",
+       "created": 1646293421285,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Ck",
+       "created": 1646293421285,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cl",
+       "created": 1646293421285,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Cm",
+       "created": 1646293421285,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cn",
+       "created": 1646293421285,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Co",
+       "created": 1646293421285,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cp",
+       "created": 1646293421285,
+       "text": "經名同Ym.173"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVda92Cq",
+       "created": 1646293421285,
+       "text": "欄位說明"
+      },
+      "children": [{"data": {
+       "id": "z5oVda92Cr",
+       "created": 1646293421285,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aolh924s",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}

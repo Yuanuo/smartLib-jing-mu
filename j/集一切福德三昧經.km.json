@@ -1,325 +1,484 @@
 {
  "root": {
   "data": {"text": "集一切福德三昧經"},
-  "children": [{
-   "data": {
-    "id": "z5cYwoP654",
-    "created": 1646116894157,
-    "text": "現藏錄（姚秦 鳩摩羅什譯）"
-   },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYwoP64C",
-      "created": 1646116894157,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYwoP64D",
-        "created": 1646116894157,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwoP64E",
-        "created": 1646116894157,
-        "text": "集一切福德三昧經",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwoP64F",
-        "created": 1646116894157,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwoP64G",
-        "created": 1646116894157,
-        "text": "集一切福德三昧经",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwoP64H",
-        "created": 1646116894157,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYwoP64I",
-        "created": 1646116894157,
-        "text": "ji yi qie fu de san mei jing"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwoP64Q",
-        "created": 1646116894157,
-        "text": "漢語拼音"
-       },
-       "children": [{"data": {
-        "id": "z5cYwoP64R",
-        "created": 1646116894157,
-        "text": "Chi i ch'ieh fu te san mei ching"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwoP64S",
-        "created": 1646116894157,
-        "text": "梵　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwoP64T",
-        "created": 1646116894157,
-        "text": "Sarvapuṇyasamuccayasamādhisūtra",
-        "resource": ["alias"]
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwoP64U",
-        "created": 1646116894157,
-        "text": "藏　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwoP64V",
-        "created": 1646116894157,
-        "text": "Bsod-nams thams-cad bsdus-paḥi tiṅ-ṅe-ḥdsin"
-       }}]
-      },
-      {
-       "data": {
-        "id": "z5cYwoP64W",
-        "created": 1646116894157,
-        "text": "韓　　文"
-       },
-       "children": [{"data": {
-        "id": "z5cYwoP64X",
-        "created": 1646116894157,
-        "text": "집일체덕삼매경",
-        "resource": ["alias"]
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwoP64J",
-      "created": 1646116894157,
-      "text": "时域"
-     },
-     "children": [{"data": {
-      "id": "z5cYwoP64K",
-      "created": 1646116894157,
-      "text": "姚秦",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwoP64L",
-      "created": 1646116894157,
-      "text": "作／譯者"
-     },
-     "children": [
-      {"data": {
-       "id": "z5cYwoP64M",
-       "created": 1646116894157,
-       "text": "姚秦 鳩摩羅什譯"
-      }},
-      {"data": {
-       "id": "z5cYwoP64N",
-       "created": 1646116894157,
-       "text": "鳩摩羅什",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwoP64O",
-      "created": 1646116894157,
-      "text": "卷數"
-     },
-     "children": [{"data": {
-      "id": "z5cYwoP64P",
-      "created": 1646116894157,
-      "text": "3"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwoP64Y",
-      "created": 1646116894157,
-      "text": "翻譯概述"
-     },
-     "children": [{"data": {
-      "id": "z5cYwoP64Z",
-      "created": 1646116894157,
-      "text": "Translation by Kumārajīva: between the 4th and 14th years of Hung Shih (弘始), Later Ch'in dynasty (後泰) (A.D. 402-412).T. 2154-514c:26."
-     }}]
-    },
-    {"data": {
-     "id": "z5cYwoP64a",
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwoP654",
      "created": 1646116894157,
-     "text": "西藏各版本出處"
-    }},
-    {
-     "data": {
-      "id": "z5cYwoP64b",
-      "created": 1646116894157,
-      "text": "出處"
-     },
-     "children": [{"data": {
-      "id": "z5cYwoP64c",
-      "created": 1646116894157,
-      "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
-     }}]
+     "text": "現藏錄（姚秦 鳩摩羅什譯）"
     },
-    {
-     "data": {
-      "id": "z5cYwoP64d",
-      "created": 1646116894157,
-      "text": "漢文大藏經各藏細目"
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwoP64C",
+       "created": 1646116894157,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwoP64D",
+         "created": 1646116894157,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwoP64E",
+         "created": 1646116894157,
+         "text": "集一切福德三昧經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwoP64F",
+         "created": 1646116894157,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwoP64G",
+         "created": 1646116894157,
+         "text": "集一切福德三昧经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwoP64H",
+         "created": 1646116894157,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwoP64I",
+         "created": 1646116894157,
+         "text": "ji yi qie fu de san mei jing"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwoP64Q",
+         "created": 1646116894157,
+         "text": "漢語拼音"
+        },
+        "children": [{"data": {
+         "id": "z5cYwoP64R",
+         "created": 1646116894157,
+         "text": "Chi i ch'ieh fu te san mei ching"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwoP64S",
+         "created": 1646116894157,
+         "text": "梵　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwoP64T",
+         "created": 1646116894157,
+         "text": "Sarvapuṇyasamuccayasamādhisūtra",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwoP64U",
+         "created": 1646116894157,
+         "text": "藏　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwoP64V",
+         "created": 1646116894157,
+         "text": "Bsod-nams thams-cad bsdus-paḥi tiṅ-ṅe-ḥdsin"
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwoP64W",
+         "created": 1646116894157,
+         "text": "韓　　文"
+        },
+        "children": [{"data": {
+         "id": "z5cYwoP64X",
+         "created": 1646116894157,
+         "text": "집일체덕삼매경",
+         "resource": ["alias"]
+        }}]
+       }
+      ]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwoP64e",
+     {
+      "data": {
+       "id": "z5cYwoP64J",
        "created": 1646116894157,
-       "text": "【房山石經】No.415《集一切福德三昧經》(姚秦)三藏鳩摩羅什譯 冊數：10 / 頁數：121 / 卷數：3 / 刻經年代：大安二年刻石 / 瀏覽：目錄圖檔 千字文：萬"
-      }},
-      {"data": {
-       "id": "z5cYwoP64f",
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwoP64K",
        "created": 1646116894157,
-       "text": "【開寶藏】No.142《集一切福德三昧經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘經 五大部外諸重譯經 / 卷數：3 千字文：賴"
-      }},
-      {"data": {
-       "id": "z5cYwoP64g",
+       "text": "姚秦",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwoP64L",
        "created": 1646116894157,
-       "text": "【崇寧藏】No.143《集一切福德三昧經》 卷數：3 千字文：及(142)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64h",
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwoP64M",
+        "created": 1646116894157,
+        "text": "姚秦 鳩摩羅什譯"
+       }},
+       {"data": {
+        "id": "z5cYwoP64N",
+        "created": 1646116894157,
+        "text": "鳩摩羅什",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwoP64O",
        "created": 1646116894157,
-       "text": "【毘盧藏】No.139《集一切福德三昧經》姚秦鳩摩羅什譯 參考年代：(靖康元．二) 千字文：及(142) 【毘盧藏】No.1461《集福德三昧經》 千字文：旦(542)-營(544)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64i",
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwoP64P",
        "created": 1646116894157,
-       "text": "【圓覺藏】No.140《集一切福德三昧經》 卷數：3 千字文：及(142)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64j",
+       "text": "3"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwoP64Y",
        "created": 1646116894157,
-       "text": "【趙城金藏】No.141《集一切福德三昧經》 卷數：3 千字文：賴"
-      }},
-      {"data": {
-       "id": "z5cYwoP64k",
+       "text": "翻譯概述"
+      },
+      "children": [{"data": {
+       "id": "z5cYwoP64Z",
        "created": 1646116894157,
-       "text": "【資福藏】No.144《集一切福德三昧經》 卷數：3 (三卷) 千字文：及(142)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64l",
+       "text": "Translation by Kumārajīva: between the 4th and 14th years of Hung Shih (弘始), Later Ch'in dynasty (後泰) (A.D. 402-412).T. 2154-514c:26."
+      }}]
+     },
+     {"data": {
+      "id": "z5cYwoP64a",
+      "created": 1646116894157,
+      "text": "西藏各版本出處"
+     }},
+     {
+      "data": {
+       "id": "z5cYwoP64b",
        "created": 1646116894157,
-       "text": "【磧砂藏】No.143《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：79 / 卷數：3 千字文：及 4 (142)-及 6 (142)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64m",
+       "text": "出處"
+      },
+      "children": [{"data": {
+       "id": "z5cYwoP64c",
        "created": 1646116894157,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64n",
+       "text": "The Korean Buddhist Canon: A Descriptive Catalogue by Dr. Lewis R. Lancaster, 1979. 　( Markup text provided by Dr. Charles Muller, 2004 )"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwoP64d",
        "created": 1646116894157,
-       "text": "【高麗藏】No.141《集一切德三昧經》姚秦三藏鳩摩羅什譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：355 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：賴"
-      }},
-      {"data": {
-       "id": "z5cYwoP64o",
-       "created": 1646116894157,
-       "text": "【普寧藏】No.139《集一切福德三昧經》 卷數：3 千字文：及(142)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64p",
-       "created": 1646116894157,
-       "text": "【至元錄】No.220《集一切福德三昧經》姚秦三藏鳩摩羅什譯 梵名：阿唎(二合)亞　薩哩哇奔牙三沒茶野三麻提拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：3 / 出處：(出真寂寺錄) 千字文：惟(154)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64q",
-       "created": 1646116894157,
-       "text": "【洪武南藏】No.128《集一切福德三昧經》姚秦 三藏法師鳩摩羅什 譯 冊數：48 / 頁數：280 / 卷數：3 千字文：及 4 (142)-及 6 (142)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64r",
-       "created": 1646116894157,
-       "text": "【永樂南藏】No.145《集一切福德三昧經》 部別：大乘經-五大部外重譯經 千字文：大(150)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64s",
-       "created": 1646116894157,
-       "text": "【永樂北藏】No.152《集一切福德三昧經》姚秦鳩摩羅什譯 部別：大乘經五大部外重譯經 / 冊數：36 / 頁數：1 / 卷數：3 千字文：化"
-      }},
-      {"data": {
-       "id": "z5cYwoP64t",
-       "created": 1646116894157,
-       "text": "【嘉興藏】No.125《集一切福德三昧經》姚秦鳩摩羅什譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0125 千字文 / 函號：［正藏］ 化(137)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64u",
-       "created": 1646116894157,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64v",
-       "created": 1646116894157,
-       "text": "【乾隆藏】No.125《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：大乘五大部外重譯經 / 冊數：31 / 頁數：171 / 卷數：3 千字文：化"
-      }},
-      {"data": {
-       "id": "z5cYwoP64w",
-       "created": 1646116894157,
-       "text": "【縮刻藏】No.444《集一切福德三昧經》姚秦鳩摩羅什譯 部別：大乘經-涅槃部 / 卷數：3 千字文：盈 10 (11)"
-      }},
-      {"data": {
-       "id": "z5cYwoP64x",
-       "created": 1646116894157,
-       "text": "【卍正藏】No.128《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：154 / 卷數：3 原版套數：第 9 套"
-      }},
-      {"data": {
-       "id": "z5cYwoP64y",
-       "created": 1646116894157,
-       "text": "【大正藏】No.382《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：涅槃部全 / 冊數：12 / 頁數：988 / 卷數：3 相關經典：縮-盈10,卍-9.1 參考資料：No.381"
-      }},
-      {"data": {
-       "id": "z5cYwoP64z",
-       "created": 1646116894157,
-       "text": "【佛教大藏經】No.452《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：大乘經 涅槃部全 / 冊數：22 / 頁數：1013 / 卷數：3"
-      }},
-      {"data": {
-       "id": "z5cYwoP650",
-       "created": 1646116894157,
-       "text": "【中華藏】No.150《集一切福德三昧經》姚秦三藏鳩摩羅什譯 冊數：17 / 頁數：1 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
-      }},
-      {"data": {
-       "id": "z5cYwoP651",
-       "created": 1646116894157,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwoP652",
-       "created": 1646116894157,
-       "text": "【南條文雄編號】 Nj. 0129"
-      }},
-      {"data": {
-       "id": "z5cYwoP653",
-       "created": 1646116894157,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：382　卷中：45"
-      }}
-     ]
-    }
-   ]
-  }]
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwoP64e",
+        "created": 1646116894157,
+        "text": "【房山石經】No.415《集一切福德三昧經》(姚秦)三藏鳩摩羅什譯 冊數：10 / 頁數：121 / 卷數：3 / 刻經年代：大安二年刻石 / 瀏覽：目錄圖檔 千字文：萬"
+       }},
+       {"data": {
+        "id": "z5cYwoP64f",
+        "created": 1646116894157,
+        "text": "【開寶藏】No.142《集一切福德三昧經》姚秦 龜茲三藏鳩摩羅什 譯 部別：大乘經 五大部外諸重譯經 / 卷數：3 千字文：賴"
+       }},
+       {"data": {
+        "id": "z5cYwoP64g",
+        "created": 1646116894157,
+        "text": "【崇寧藏】No.143《集一切福德三昧經》 卷數：3 千字文：及(142)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64h",
+        "created": 1646116894157,
+        "text": "【毘盧藏】No.139《集一切福德三昧經》姚秦鳩摩羅什譯 參考年代：(靖康元．二) 千字文：及(142) 【毘盧藏】No.1461《集福德三昧經》 千字文：旦(542)-營(544)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64i",
+        "created": 1646116894157,
+        "text": "【圓覺藏】No.140《集一切福德三昧經》 卷數：3 千字文：及(142)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64j",
+        "created": 1646116894157,
+        "text": "【趙城金藏】No.141《集一切福德三昧經》 卷數：3 千字文：賴"
+       }},
+       {"data": {
+        "id": "z5cYwoP64k",
+        "created": 1646116894157,
+        "text": "【資福藏】No.144《集一切福德三昧經》 卷數：3 (三卷) 千字文：及(142)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64l",
+        "created": 1646116894157,
+        "text": "【磧砂藏】No.143《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：五大部外諸重譯經 / 冊數：10 / 頁數：79 / 卷數：3 千字文：及 4 (142)-及 6 (142)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64m",
+        "created": 1646116894157,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64n",
+        "created": 1646116894157,
+        "text": "【高麗藏】No.141《集一切德三昧經》姚秦三藏鳩摩羅什譯 部別：大乘經 五大部外諸重譯經 / 冊數：10 頁數：355 / 卷數：3 / 連結：高麗大藏經 (圖檔) 千字文：賴"
+       }},
+       {"data": {
+        "id": "z5cYwoP64o",
+        "created": 1646116894157,
+        "text": "【普寧藏】No.139《集一切福德三昧經》 卷數：3 千字文：及(142)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64p",
+        "created": 1646116894157,
+        "text": "【至元錄】No.220《集一切福德三昧經》姚秦三藏鳩摩羅什譯 梵名：阿唎(二合)亞　薩哩哇奔牙三沒茶野三麻提拏麻　麻訶衍拏　蘇怛囉(二合) / 卷數：3 / 出處：(出真寂寺錄) 千字文：惟(154)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64q",
+        "created": 1646116894157,
+        "text": "【洪武南藏】No.128《集一切福德三昧經》姚秦 三藏法師鳩摩羅什 譯 冊數：48 / 頁數：280 / 卷數：3 千字文：及 4 (142)-及 6 (142)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64r",
+        "created": 1646116894157,
+        "text": "【永樂南藏】No.145《集一切福德三昧經》 部別：大乘經-五大部外重譯經 千字文：大(150)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64s",
+        "created": 1646116894157,
+        "text": "【永樂北藏】No.152《集一切福德三昧經》姚秦鳩摩羅什譯 部別：大乘經五大部外重譯經 / 冊數：36 / 頁數：1 / 卷數：3 千字文：化"
+       }},
+       {"data": {
+        "id": "z5cYwoP64t",
+        "created": 1646116894157,
+        "text": "【嘉興藏】No.125《集一切福德三昧經》姚秦鳩摩羅什譯 部別：大乘經-五大部外重譯經 / 法寶總目錄經號：0125 千字文 / 函號：［正藏］ 化(137)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64u",
+        "created": 1646116894157,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64v",
+        "created": 1646116894157,
+        "text": "【乾隆藏】No.125《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：大乘五大部外重譯經 / 冊數：31 / 頁數：171 / 卷數：3 千字文：化"
+       }},
+       {"data": {
+        "id": "z5cYwoP64w",
+        "created": 1646116894157,
+        "text": "【縮刻藏】No.444《集一切福德三昧經》姚秦鳩摩羅什譯 部別：大乘經-涅槃部 / 卷數：3 千字文：盈 10 (11)"
+       }},
+       {"data": {
+        "id": "z5cYwoP64x",
+        "created": 1646116894157,
+        "text": "【卍正藏】No.128《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：大乘經 五大部外重譯經 / 冊數：15 / 頁數：154 / 卷數：3 原版套數：第 9 套"
+       }},
+       {"data": {
+        "id": "z5cYwoP64y",
+        "created": 1646116894157,
+        "text": "【大正藏】No.382《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：涅槃部全 / 冊數：12 / 頁數：988 / 卷數：3 相關經典：縮-盈10,卍-9.1 參考資料：No.381"
+       }},
+       {"data": {
+        "id": "z5cYwoP64z",
+        "created": 1646116894157,
+        "text": "【佛教大藏經】No.452《集一切福德三昧經》姚秦 鳩摩羅什譯 部別：大乘經 涅槃部全 / 冊數：22 / 頁數：1013 / 卷數：3"
+       }},
+       {"data": {
+        "id": "z5cYwoP650",
+        "created": 1646116894157,
+        "text": "【中華藏】No.150《集一切福德三昧經》姚秦三藏鳩摩羅什譯 冊數：17 / 頁數：1 / 卷數：3 / 底本：麗藏本 金藏廣勝寺本"
+       }},
+       {"data": {
+        "id": "z5cYwoP651",
+        "created": 1646116894157,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwoP652",
+        "created": 1646116894157,
+        "text": "【南條文雄編號】 Nj. 0129"
+       }},
+       {"data": {
+        "id": "z5cYwoP653",
+        "created": 1646116894157,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：382　卷中：45"
+       }}
+      ]
+     }
+    ]
+   },
+   {
+    "data": {
+     "id": "z5oVdNNmm",
+     "created": 1646293420493,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdNMmO",
+       "created": 1646293420492,
+       "text": "芳村編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmP",
+       "created": 1646293420492,
+       "text": "Ym.121"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmQ",
+       "created": 1646293420492,
+       "text": "藏文經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmR",
+       "created": 1646293420492,
+       "text": "འཕགས་པ་བསོད་ནམས་ཐམས་ཅད་བསྡུས་པའི་ཏིང་ངེ་འཛིན།",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmS",
+       "created": 1646293420492,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmT",
+       "created": 1646293420492,
+       "text": "聖集一切福德三昧經",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmU",
+       "created": 1646293420492,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmV",
+       "created": 1646293420492,
+       "text": "圣集一切福德三昧经",
+       "resource": ["alias"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmW",
+       "created": 1646293420492,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmX",
+       "created": 1646293420492,
+       "text": "sheng ji yi qie fu de san mei jing"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmY",
+       "created": 1646293420492,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmZ",
+       "created": 1646293420492,
+       "text": "Th.0134"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMma",
+       "created": 1646293420492,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmb",
+       "created": 1646293420492,
+       "text": "Ot.0802"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmc",
+       "created": 1646293420492,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmd",
+       "created": 1646293420492,
+       "text": "T.0381～T.0382"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMme",
+       "created": 1646293420492,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmf",
+       "created": 1646293420492,
+       "text": "Y.0220"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmg",
+       "created": 1646293420492,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmh",
+       "created": 1646293420492,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmi",
+       "created": 1646293420492,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMmj",
+       "created": 1646293420492,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdNMmk",
+       "created": 1646293420492,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdNMml",
+       "created": 1646293420492,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -328,6 +487,9 @@
   "id": "l07rhwi4c4",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

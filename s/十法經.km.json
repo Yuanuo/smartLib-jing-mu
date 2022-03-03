@@ -1,246 +1,405 @@
 {
  "root": {
   "data": {"text": "十法經"},
-  "children": [{
-   "data": {
-    "id": "z5cYwj24dF",
-    "created": 1646116893824,
-    "text": "現藏錄（北魏 佛陀扇多譯）"
+  "children": [
+   {
+    "data": {
+     "id": "z5cYwj24dF",
+     "created": 1646116893824,
+     "text": "現藏錄（北魏 佛陀扇多譯）"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5cYwj24ca",
+       "created": 1646116893824,
+       "text": "經名"
+      },
+      "children": [
+       {
+        "data": {
+         "id": "z5cYwj24cb",
+         "created": 1646116893824,
+         "text": "中文繁体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwj24cc",
+         "created": 1646116893824,
+         "text": "十法經",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwj24cd",
+         "created": 1646116893824,
+         "text": "中文简体"
+        },
+        "children": [{"data": {
+         "id": "z5cYwj24ce",
+         "created": 1646116893824,
+         "text": "十法经",
+         "resource": ["alias"]
+        }}]
+       },
+       {
+        "data": {
+         "id": "z5cYwj24cf",
+         "created": 1646116893824,
+         "text": "中文简拼"
+        },
+        "children": [{"data": {
+         "id": "z5cYwj24cg",
+         "created": 1646116893824,
+         "text": "shi fa jing"
+        }}]
+       }
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwj24ch",
+       "created": 1646116893824,
+       "text": "时域"
+      },
+      "children": [{"data": {
+       "id": "z5cYwj24ci",
+       "created": 1646116893824,
+       "text": "北魏",
+       "resource": ["period"]
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwj24cj",
+       "created": 1646116893824,
+       "text": "作／譯者"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwj24ck",
+        "created": 1646116893824,
+        "text": "北魏 佛陀扇多譯"
+       }},
+       {"data": {
+        "id": "z5cYwj24cl",
+        "created": 1646116893824,
+        "text": "佛陀扇多",
+        "resource": ["translator"]
+       }}
+      ]
+     },
+     {
+      "data": {
+       "id": "z5cYwj24cm",
+       "created": 1646116893824,
+       "text": "卷數"
+      },
+      "children": [{"data": {
+       "id": "z5cYwj24cn",
+       "created": 1646116893824,
+       "text": "1"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5cYwj24co",
+       "created": 1646116893824,
+       "text": "漢文大藏經各藏細目"
+      },
+      "children": [
+       {"data": {
+        "id": "z5cYwj24cp",
+        "created": 1646116893824,
+        "text": "【房山石經】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cq",
+        "created": 1646116893824,
+        "text": "【開寶藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cr",
+        "created": 1646116893824,
+        "text": "【崇寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cs",
+        "created": 1646116893824,
+        "text": "【毘盧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24ct",
+        "created": 1646116893824,
+        "text": "【圓覺藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cu",
+        "created": 1646116893824,
+        "text": "【趙城金藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cv",
+        "created": 1646116893824,
+        "text": "【資福藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cw",
+        "created": 1646116893824,
+        "text": "【磧砂藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cx",
+        "created": 1646116893824,
+        "text": "【宋藏遺珍】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cy",
+        "created": 1646116893824,
+        "text": "【高麗藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24cz",
+        "created": 1646116893824,
+        "text": "【普寧藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d0",
+        "created": 1646116893824,
+        "text": "【至元錄】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d1",
+        "created": 1646116893824,
+        "text": "【洪武南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d2",
+        "created": 1646116893824,
+        "text": "【永樂南藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d3",
+        "created": 1646116893824,
+        "text": "【永樂北藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d4",
+        "created": 1646116893824,
+        "text": "【嘉興藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d5",
+        "created": 1646116893824,
+        "text": "【嘉興藏新文豐版】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d6",
+        "created": 1646116893824,
+        "text": "【乾隆藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d7",
+        "created": 1646116893824,
+        "text": "【縮刻藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d8",
+        "created": 1646116893824,
+        "text": "【卍正藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24d9",
+        "created": 1646116893824,
+        "text": "【大正藏】No.310《大寶積經》唐 菩提流志譯 部別：寶積部上 / 冊數：11 / 頁數：1 / 卷數：120 相關經典：縮-地1-6,卍-5.7-6.3,國-寶1-6 參考資料：共四九會"
+       }},
+       {"data": {
+        "id": "z5cYwj24dA",
+        "created": 1646116893824,
+        "text": "【佛教大藏經】No.29《大寶積經》唐 菩提流志等譯 部別：大乘經 方等部一 / 冊數：3 / 頁數：1 / 卷數：120"
+       }},
+       {"data": {
+        "id": "z5cYwj24dB",
+        "created": 1646116893824,
+        "text": "【中華藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24dC",
+        "created": 1646116893824,
+        "text": "【新纂卍續藏】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24dD",
+        "created": 1646116893824,
+        "text": "【南條文雄編號】 (未收錄)"
+       }},
+       {"data": {
+        "id": "z5cYwj24dE",
+        "created": 1646116893824,
+        "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：310"
+       }}
+      ]
+     }
+    ]
    },
-   "children": [
-    {
-     "data": {
-      "id": "z5cYwj24ca",
-      "created": 1646116893824,
-      "text": "經名"
-     },
-     "children": [
-      {
-       "data": {
-        "id": "z5cYwj24cb",
-        "created": 1646116893824,
-        "text": "中文繁体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwj24cc",
-        "created": 1646116893824,
-        "text": "十法經",
-        "resource": ["alias"]
-       }}]
+   {
+    "data": {
+     "id": "z5oVdEjCt",
+     "created": 1646293419957,
+     "text": "登噶目錄"
+    },
+    "children": [
+     {
+      "data": {
+       "id": "z5oVdEhCV",
+       "created": 1646293419955,
+       "text": "芳村編號"
       },
-      {
-       "data": {
-        "id": "z5cYwj24cd",
-        "created": 1646116893824,
-        "text": "中文简体"
-       },
-       "children": [{"data": {
-        "id": "z5cYwj24ce",
-        "created": 1646116893824,
-        "text": "十法经",
-        "resource": ["alias"]
-       }}]
+      "children": [{"data": {
+       "id": "z5oVdEhCW",
+       "created": 1646293419955,
+       "text": "Ym.032"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdEhCX",
+       "created": 1646293419955,
+       "text": "藏文經名"
       },
-      {
-       "data": {
-        "id": "z5cYwj24cf",
-        "created": 1646116893824,
-        "text": "中文简拼"
-       },
-       "children": [{"data": {
-        "id": "z5cYwj24cg",
-        "created": 1646116893824,
-        "text": "shi fa jing"
-       }}]
-      }
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwj24ch",
-      "created": 1646116893824,
-      "text": "时域"
+      "children": [{"data": {
+       "id": "z5oVdEhCY",
+       "created": 1646293419955,
+       "text": "འཕགས་པ་ཆོས་བཅུ་པ།",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwj24ci",
-      "created": 1646116893824,
-      "text": "北魏",
-      "resource": ["period"]
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwj24cj",
-      "created": 1646116893824,
-      "text": "作／譯者"
+     {
+      "data": {
+       "id": "z5oVdEhCZ",
+       "created": 1646293419955,
+       "text": "漢譯經名"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCa",
+       "created": 1646293419955,
+       "text": "聖十法經",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwj24ck",
-       "created": 1646116893824,
-       "text": "北魏 佛陀扇多譯"
-      }},
-      {"data": {
-       "id": "z5cYwj24cl",
-       "created": 1646116893824,
-       "text": "佛陀扇多",
-       "resource": ["translator"]
-      }}
-     ]
-    },
-    {
-     "data": {
-      "id": "z5cYwj24cm",
-      "created": 1646116893824,
-      "text": "卷數"
+     {
+      "data": {
+       "id": "z5oVdEhCb",
+       "created": 1646293419955,
+       "text": "经名简体"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCc",
+       "created": 1646293419955,
+       "text": "圣十法经",
+       "resource": ["alias"]
+      }}]
      },
-     "children": [{"data": {
-      "id": "z5cYwj24cn",
-      "created": 1646116893824,
-      "text": "1"
-     }}]
-    },
-    {
-     "data": {
-      "id": "z5cYwj24co",
-      "created": 1646116893824,
-      "text": "漢文大藏經各藏細目"
+     {
+      "data": {
+       "id": "z5oVdEhCd",
+       "created": 1646293419955,
+       "text": "经名简拼"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCe",
+       "created": 1646293419955,
+       "text": "sheng shi fa jing"
+      }}]
      },
-     "children": [
-      {"data": {
-       "id": "z5cYwj24cp",
-       "created": 1646116893824,
-       "text": "【房山石經】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cq",
-       "created": 1646116893824,
-       "text": "【開寶藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cr",
-       "created": 1646116893824,
-       "text": "【崇寧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cs",
-       "created": 1646116893824,
-       "text": "【毘盧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24ct",
-       "created": 1646116893824,
-       "text": "【圓覺藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cu",
-       "created": 1646116893824,
-       "text": "【趙城金藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cv",
-       "created": 1646116893824,
-       "text": "【資福藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cw",
-       "created": 1646116893824,
-       "text": "【磧砂藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cx",
-       "created": 1646116893824,
-       "text": "【宋藏遺珍】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cy",
-       "created": 1646116893824,
-       "text": "【高麗藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24cz",
-       "created": 1646116893824,
-       "text": "【普寧藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d0",
-       "created": 1646116893824,
-       "text": "【至元錄】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d1",
-       "created": 1646116893824,
-       "text": "【洪武南藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d2",
-       "created": 1646116893824,
-       "text": "【永樂南藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d3",
-       "created": 1646116893824,
-       "text": "【永樂北藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d4",
-       "created": 1646116893824,
-       "text": "【嘉興藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d5",
-       "created": 1646116893824,
-       "text": "【嘉興藏新文豐版】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d6",
-       "created": 1646116893824,
-       "text": "【乾隆藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d7",
-       "created": 1646116893824,
-       "text": "【縮刻藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d8",
-       "created": 1646116893824,
-       "text": "【卍正藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24d9",
-       "created": 1646116893824,
-       "text": "【大正藏】No.310《大寶積經》唐 菩提流志譯 部別：寶積部上 / 冊數：11 / 頁數：1 / 卷數：120 相關經典：縮-地1-6,卍-5.7-6.3,國-寶1-6 參考資料：共四九會"
-      }},
-      {"data": {
-       "id": "z5cYwj24dA",
-       "created": 1646116893824,
-       "text": "【佛教大藏經】No.29《大寶積經》唐 菩提流志等譯 部別：大乘經 方等部一 / 冊數：3 / 頁數：1 / 卷數：120"
-      }},
-      {"data": {
-       "id": "z5cYwj24dB",
-       "created": 1646116893824,
-       "text": "【中華藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24dC",
-       "created": 1646116893824,
-       "text": "【新纂卍續藏】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24dD",
-       "created": 1646116893824,
-       "text": "【南條文雄編號】 (未收錄)"
-      }},
-      {"data": {
-       "id": "z5cYwj24dE",
-       "created": 1646116893824,
-       "text": "【蔡運辰《二十五種藏經目錄對照考釋》編號】　卷上：310"
-      }}
-     ]
-    }
-   ]
-  }]
+     {
+      "data": {
+       "id": "z5oVdEhCf",
+       "created": 1646293419955,
+       "text": "東北編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCg",
+       "created": 1646293419955,
+       "text": "Th.0053"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdEhCh",
+       "created": 1646293419955,
+       "text": "大谷編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCi",
+       "created": 1646293419955,
+       "text": "Ot.0760(09)"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdEhCj",
+       "created": 1646293419955,
+       "text": "對應大正藏經號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCk",
+       "created": 1646293419955,
+       "text": "T.0310(09); T.0314"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdEhCl",
+       "created": 1646293419955,
+       "text": "相關至元錄編號"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCm",
+       "created": 1646293419955,
+       "text": "Y.0050"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdEhCn",
+       "created": 1646293419955,
+       "text": "蕃本同闕"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEhCo",
+       "created": 1646293419955,
+       "text": "同"
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdEiCp",
+       "created": 1646293419956,
+       "text": "校　　勘"
+      },
+      "children": [{"data": {
+       "id": "z5oVdEiCq",
+       "created": 1646293419956,
+       "text": ""
+      }}]
+     },
+     {
+      "data": {
+       "id": "z5oVdEiCr",
+       "created": 1646293419956,
+       "text": "欄位說明",
+       "resource": ["excludes"]
+      },
+      "children": [{"data": {
+       "id": "z5oVdEiCs",
+       "created": 1646293419956,
+       "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+      }}]
+     }
+    ]
+   }
+  ]
  },
  "template": "right",
  "theme": "fresh-blue-compat",
@@ -249,6 +408,9 @@
   "id": "l07rhw8w94",
   "searchable": ["lookup"],
   "library": ["经目对照"],
-  "catalog": ["現藏錄"]
+  "catalog": [
+   "現藏錄",
+   "登噶目錄"
+  ]
  }
 }

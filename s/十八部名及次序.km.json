@@ -1,0 +1,190 @@
+{
+ "root": {
+  "data": {"text": "十八部名及次序"},
+  "children": [{
+   "data": {
+    "id": "z5oVdhg3K7",
+    "created": 1646293421752,
+    "text": "登噶目錄（阿闍黎律天造）"
+   },
+   "children": [
+    {
+     "data": {
+      "id": "z5oVdhf3Jg",
+      "created": 1646293421751,
+      "text": "芳村編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhf3Jh",
+      "created": 1646293421751,
+      "text": "Ym.510"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhf3Ji",
+      "created": 1646293421751,
+      "text": "藏文經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhf3Jj",
+      "created": 1646293421751,
+      "text": "སྡེ་པ་བཅོ་བརྒྱད་ཀྱི་མིང་དང་རིམ་པ།སློབ་དཔོན་དུལ་བའི་ལྷས་མཛད་པ།",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhf3Jk",
+      "created": 1646293421751,
+      "text": "漢譯經名"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3Jl",
+      "created": 1646293421752,
+      "text": "十八部名及次序",
+      "resource": ["alias"]
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3Jm",
+      "created": 1646293421752,
+      "text": "作／譯者"
+     },
+     "children": [
+      {"data": {
+       "id": "z5oVdhg3Jn",
+       "created": 1646293421752,
+       "text": "阿闍黎律天造"
+      }},
+      {"data": {
+       "id": "z5oVdhg3Jo",
+       "created": 1646293421752,
+       "text": "阿闍黎律天",
+       "resource": ["author"]
+      }}
+     ]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3Jp",
+      "created": 1646293421752,
+      "text": "经名简体"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3Jq",
+      "created": 1646293421752,
+      "text": "十八部名及次序"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3Jr",
+      "created": 1646293421752,
+      "text": "经名简拼"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3Js",
+      "created": 1646293421752,
+      "text": "shi ba bu ming ji ci xu"
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3Jt",
+      "created": 1646293421752,
+      "text": "東北編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3Ju",
+      "created": 1646293421752,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3Jv",
+      "created": 1646293421752,
+      "text": "大谷編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3Jw",
+      "created": 1646293421752,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3Jx",
+      "created": 1646293421752,
+      "text": "對應大正藏經號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3Jy",
+      "created": 1646293421752,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3Jz",
+      "created": 1646293421752,
+      "text": "相關至元錄編號"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3K0",
+      "created": 1646293421752,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3K1",
+      "created": 1646293421752,
+      "text": "蕃本同闕"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3K2",
+      "created": 1646293421752,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3K3",
+      "created": 1646293421752,
+      "text": "校　　勘"
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3K4",
+      "created": 1646293421752,
+      "text": ""
+     }}]
+    },
+    {
+     "data": {
+      "id": "z5oVdhg3K5",
+      "created": 1646293421752,
+      "text": "欄位說明",
+      "resource": ["excludes"]
+     },
+     "children": [{"data": {
+      "id": "z5oVdhg3K6",
+      "created": 1646293421752,
+      "text": "「芳村編號」依芳村修基著《デンカルマ目錄の研究》（以下簡稱《芳村目錄》，且用Ym.表示此編號）。\n「藏文經名」主要依《芳村目錄》，但據台北版第52冊第4369號及北京版第145冊第5851號之《登噶目錄》修正。\n「東北編號」依照宇井伯壽等人編《德格版西藏大藏經總目錄》（以下簡稱《東北目錄》，並以Th.標示其號碼）。\n「大谷編號」根據大谷大學圖書館編《西藏大藏經甘殊爾勘同目錄》（以下簡稱《大谷目錄》，其編號以Ot.表示）。\n「漢譯經名」大致參考《東北目錄》及《大谷目錄》，並據《登噶目錄》所載經名修改。\n「對應大正藏號」參照《東北目錄》及《大谷目錄》所載之《大正藏》經號。\n「至元錄相關編號」欄內只列與蕃本有關之經目編號。\n「校勘欄」中之 P.表北京版之《登噶目錄》，Tp.表台北版之同一目錄。"
+     }}]
+    }
+   ]
+  }]
+ },
+ "template": "right",
+ "theme": "fresh-blue-compat",
+ "version": "21.8.18",
+ "metadata": {
+  "id": "l0aoli2fe5",
+  "searchable": ["lookup"],
+  "library": ["经目对照"],
+  "catalog": ["登噶目錄"]
+ }
+}
